@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "aid",
+  "assetKey": "AID_ID00040",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "AID_ID00040/Sheet1/000002",
+      "sourceBindingSha256": "af1c9f5ab4f93eca2c5a9d6c768875e5924fe5d7fdd1f23f7e95d0b11bf0dec7",
+      "sourceTextSha256": "0a52c7253dd9d6ae62c816729dd95c24c35b0eee721da261475186a589c5f88f",
+      "freshTranslation": "瑩㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "AID_ID00040/Sheet1/000003",
+      "sourceBindingSha256": "c77c729c4a516134e59dbc823d75beb65c43d76486eb85b9b5d3a7a525bd220c",
+      "sourceTextSha256": "a8b96da3a8f5c139ba6c23451f2351112521206aee2ff4266b9a64c58b567a4a",
+      "freshTranslation": "新多元世紀０００１年１１月⑲５日㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "AID_ID00040/Sheet1/000004",
+      "sourceBindingSha256": "054212457a13623f0252fef840cb35f1bbf1a375f79e3e8c870d2c616ace880c",
+      "sourceTextSha256": "328442d5f04b57b498cb3d86a24a0a783ea8543884f0e1d8682fc32b6787f99a",
+      "freshTranslation": "때 감옥을 무너뜨린 한 줄은 안티 나선형과㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "AID_ID00040/Sheet1/000005",
+      "sourceBindingSha256": "9864bd404bbf368973101a6719e6bbcb2bda8c2b262c3a39ee2493cce78fcd15",
+      "sourceTextSha256": "02c0040e5f6cac8f242518cd3ac84c9dde8235807f181ac8204e116ac7c0b597",
+      "freshTranslation": "결전을 앞두고, 지구에서의 마지막 한때를 보내고 있었다.㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "AID_ID00040/Sheet1/000006",
+      "sourceBindingSha256": "61218a7359fdaaf67a94184dbcb00b5f6ef4e4914aaa0cea71088d7b7cecc7fe",
+      "sourceTextSha256": "6801f41c812657a877487fc9dd96c4749dccc93e46d4cbf63a1652d50aefa107",
+      "freshTranslation": "그 중 AG는 마지막 싸움을 위해 어떤 것을 준비했습니다.㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "AID_ID00040/Sheet1/000007",
+      "sourceBindingSha256": "ff428b2326e450fa24c0b518a28830d24aef3ad6e8ec747951e1570930bfd089",
+      "sourceTextSha256": "244412132ef02e76edcae8286371ef0d34140f1d89f2f399c525b7fc03ac1c17",
+      "freshTranslation": "하고 있었다…….㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

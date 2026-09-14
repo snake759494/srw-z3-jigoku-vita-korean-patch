@@ -1,0 +1,84 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0074",
+    "fileName": "STG0074.cpk",
+    "target": "DATA/STAGE/STG0074.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "f5da817fdade094597ae3e4e43882c91451689d43d73bbef2b23f2a1ce3bed72"
+  },
+  "entries": [
+    {
+      "entryId": "STG0074/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "적의 전멸",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0074/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0074/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "코우지의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0074/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "3턴 이내에 적을 24기 이상 격추한다\n또는 3턴 이내에 하데스의 HP를 50000 이하로 만든다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0074/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "용자 가라다블라의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0074/ID00001/OPERATE_TBL/str_tbl/005",
+      "sourceId": 5,
+      "translation": "없음",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

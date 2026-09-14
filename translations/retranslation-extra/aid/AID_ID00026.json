@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "aid",
+  "assetKey": "AID_ID00026",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "AID_ID00026/Sheet1/000002",
+      "sourceBindingSha256": "9d220f5ff636318ee5cfc84f62c6f88f13ff1151b83d0be463d542cc21eb8b6e",
+      "sourceTextSha256": "0a52c7253dd9d6ae62c816729dd95c24c35b0eee721da261475186a589c5f88f",
+      "freshTranslation": "瑩㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "AID_ID00026/Sheet1/000003",
+      "sourceBindingSha256": "f9d9d30217ac1388be7c0cb11ca65c8d21004c7ecd117e89ddd4c3d6691ea454",
+      "sourceTextSha256": "73a8e7181e90963c484c820fd3bd2aff2769cd127b0a40e876f1a35fff737b2b",
+      "freshTranslation": "新多元世紀０００１年⑲７月１７日㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "AID_ID00026/Sheet1/000004",
+      "sourceBindingSha256": "d65cb48628b715dda23874fc6654bc94188480cfd7e84d8e4ef5565db3c2853a",
+      "sourceTextSha256": "89b682f88e125edf5bd596fae10322addb890e6d73f51f55e2c29018bf46b4b1",
+      "freshTranslation": "진의 죽음을 넘어선 알토들은 마음을 바꾸고,㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "AID_ID00026/Sheet1/000005",
+      "sourceBindingSha256": "f6f16f4560c551c47a96f683bfaf0bd1ba2a3cd5b95d7e22a0fbd47ceeb3d7fe",
+      "sourceTextSha256": "92b29922c7ef6de7e2e53e9877b97342fc7705ce31b7b75e4e7a2de26270139e",
+      "freshTranslation": "무리 사이의 휴식 속에 있었다.㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "AID_ID00026/Sheet1/000006",
+      "sourceBindingSha256": "583ab057efe703b16b548a290c3e7cc648e1b152f24a080e30d4b98ccbe46606",
+      "sourceTextSha256": "e11f1e2fb1fec76be65252bd8489c849b56de14b247859712f1044c1025a2193",
+      "freshTranslation": "그러나 그것은 새로운 다툼의 시작이기도 했다…㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

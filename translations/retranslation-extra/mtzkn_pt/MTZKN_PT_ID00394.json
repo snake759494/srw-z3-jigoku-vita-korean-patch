@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00394",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00394/Sheet1/000002",
+      "sourceBindingSha256": "3b6dcd0eb4e40503abc2912b0739d1f3a81926e8a70fc1a81da8c75204e0426b",
+      "sourceTextSha256": "ffee1b82cd9db91714bb3b154a063528733cbff8ebd3e501b5f2999a9f3de338",
+      "freshTranslation": "가들라이트 메온삼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00394/Sheet1/000003",
+      "sourceBindingSha256": "08af8f88c8dd90aa0fcb212ae941ba06140b2e604e410b0e7517c4c80f06c1fe",
+      "sourceTextSha256": "919cda4281c9e5a633bf5c875a0381a395a67d55f8d0f3e29c3a4c177ad448ab",
+      "freshTranslation": "가드라이트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00394/Sheet1/000004",
+      "sourceBindingSha256": "131e12c681593a7461a3afd7dabd9f7ba2ca47235ff0c12f2f52172b6c76e1d9",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00394/Sheet1/000005",
+      "sourceBindingSha256": "e30acc6eb7a6109c84b70654085840348edbb5dc4d28545cee6fe063a05282d0",
+      "sourceTextSha256": "79a55024aa7cbfb2590cc6248e5122c8c848f1d4bcb4a14777664add4902b868",
+      "freshTranslation": "사키노 슌스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00394/Sheet1/000006",
+      "sourceBindingSha256": "0420ad20420f1e3c69ab89a17015cdd877a6089f108d7fe591d00824fe4d4891",
+      "sourceTextSha256": "0131ea5a2372ede72754623dea571260338bcbfb8db5cefd9914c7c9fb0c2bc8",
+      "freshTranslation": "제미니스의 대장. ㊥ 인간 안에 잠든 상반된 감정을 역전시킬 수 있어 지구권에 혼란을 ㊥ 일으키고 있었다. ㊥ 게으름과 술을 사랑하고 평소에는 술집에서 스스로가 일으킨 세계의 혼란을 바라보면서 지루함 ㊥일 때를 무위로 보내고 있다. 그 섬세함을 부관 인 안나롯",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00394/Sheet1/000007",
+      "sourceBindingSha256": "4791d21044f82c2e3ba9192016987fbe0fbf961adca7730a886129de113d4753",
+      "sourceTextSha256": "ace774dd51285484e38abf69ecae4309c01ab117afaccaaf9fc09150b2a53452",
+      "freshTranslation": "에 종종 꾸짖는 ㊥ 되지만, 본인은 고칠 생각은 조각도 가지고 있지 않다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00394/Sheet1/000008",
+      "sourceBindingSha256": "3ad3088907cf346cad424e0e478bdf87924ff81069124034cd68e32300f3e392",
+      "sourceTextSha256": "b591a9058d06fe02db8b76c3ff1519248b7c5413d40fd9be30e823ccc8c66be9",
+      "freshTranslation": "제미니스의 대장. ㊥ 스피어 '이동하는 쌍둥이'의 리액션",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00394/Sheet1/000009",
+      "sourceBindingSha256": "0bed3d94ef1a5e32182f4f2248490227ba664469fe0fd89ef5115a4bb482a64b",
+      "sourceTextSha256": "84d2a8fdb553d6c7e24bf8580a8ad2b12b1d72930eab5aaaad124faa1922a9ea",
+      "freshTranslation": "- 행성 제미나이 최강의 기동 무기, ㊥ 제미니어를 달린다. 제미나이드 최강의 전사이기도 하고, 다른 제미니스 대원과 마찬가지로 ㊥ 염동력을 기체의 조종에 반영시켜 싸우지만, 그 힘은 제미니스 내에서도 거짓말의 힘을 ㊥ 자랑한다. ㊥ 스피어의 능력을 사용하여 인간 속에 자는 상반된 감정을 역전시킬 수 있었고, 그것 ㊥에 의해 지구권에 혼란을 일으키고 있었다. 그 최종 목적은 지구 인류가 서로를 멸하고 ㊥ 하는 데 있다. ㊥ 본래는 때의 감옥의 감시자로서 지구에 보내지고 있었지만, 누군가에게 멸망된 어머니㊥별 제미나이에 대해서, 미래가 없다고는 해도, 바알의 습격으로부터 지켜지는 지구의 존재㊥에 격렬하게 질투한다. 그 결과, 본래의 역할을 포기하고 정반대의 목적인 지구인류멸 ㊥ 망을 위해 부하의 제미니스를 움직인다. ㊥ 게으름과 술을 사랑하고 평소에는 술집에서 스스로가 일으킨 세계의 혼란을 바라보면서 지루함 ㊥인 때를 무위로 보내고 있다. 그 섬세함을 부관 인 안나롯",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00394/Sheet1/000010",
+      "sourceBindingSha256": "6e3b1f40357ef9f050485cb41164cabf59eda002257657371a3941feb83cda88",
+      "sourceTextSha256": "4ed510054228ac3f35c7de2dbb23c90eba74e9ce9d6952dfa4a5049e1d0c7c34",
+      "freshTranslation": "에 종종 꾸짖는 ㊥ 되지만, 본인은 고칠 생각은 조각도 가지고 있지 않다. 그러나 그것은 스스로 안에 있는 강한 ㊥ 분노와 그것을 부딪칠 수 없는 포기를 오마화하기 위한 것이고, 그 이면성이 ㊥ 상반되는 감정을 키로 하는 '이잡는 쌍둥이'를 발동시키고 있었다. ㊥ 스피어 리악",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00394/Sheet1/000011",
+      "sourceBindingSha256": "46756e64144134e59c228be85fc959eaf61b7b06428174f925d3a216b2689690",
+      "sourceTextSha256": "7a8c18c206ac56cc7165ce774cde38eda462ed4957e2280204124ab2d655c2c1",
+      "freshTranslation": "- 각성 레벨에 대해서는 써드 스테이지를 자칭하고, ㊥ 유서 인사라움이나 아이임 라이어드를 웃돈다. ㊥마지막은 어드벤트에 의해 상반되는 감정의 균형을 무너뜨리고, 또한 스피어를 ㊥ 제니온 가이에게 빼앗겨 패배했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "schemaVersion":  1,
+    "tool":  {
+                 "name":  "xdelta3",
+                 "version":  "3.2.0",
+                 "sha256":  "53d90226615f217d3380c39892833311b4e24acd863e1ca01f14b5e772e2e6d0",
+                 "releaseUrl":  "https://github.com/jmacd/xdelta/releases/tag/v3.2.0"
+             },
+    "totals":  {
+                   "checked":  251,
+                   "passed":  250,
+                   "failed":  1
+               },
+    "failures":  [
+                     {
+                         "manifest":  "legacy-main",
+                         "targetPath":  "eboot.bin",
+                         "status":  "hash-mismatch",
+                         "expectedSha256":  "cd20bb118eb506382bda5978d09135d963f4723e5c091bfbff40c06b2bb38fbf",
+                         "actualSha256":  "50fb0a348ce8c19278dc46c56fde6b4fe8fc73060c3d3b62eda86aaafcbcc82f",
+                         "exitCode":  0,
+                         "toolMessage":  ""
+                     }
+                 ]
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "xdelta3": {
+    "version": "3.2.0",
+    "releaseUrl": "https://github.com/jmacd/xdelta/releases/tag/v3.2.0",
+    "sourceCommit": "ff322e5",
+    "assetName": "xdelta3-3.2.0-windows-x86_64.zip",
+    "assetUrl": "https://github.com/jmacd/xdelta/releases/download/v3.2.0/xdelta3-3.2.0-windows-x86_64.zip",
+    "assetSha256": "af8ef036cb077a48df080c9a8ac1be4a6e7511c32d11f8bec89b6803a9e52576",
+    "executableSha256": "53d90226615f217d3380c39892833311b4e24acd863e1ca01f14b5e772e2e6d0",
+    "license": "Apache-2.0"
+  },
+  "cpkmakec": {
+    "version": "2.49.32.00",
+    "dllVersion": "3.24.00",
+    "executableSha256": "8cea88e11a5460ff8c4a2cc6b5fd214ebeb40e5a661aec596925538267ab4954",
+    "license": "CRI Middleware proprietary; user-supplied local tool; do not redistribute",
+    "purpose": "ID-only CPK extraction, explicit-ID repack, and verification"
+  }
+}

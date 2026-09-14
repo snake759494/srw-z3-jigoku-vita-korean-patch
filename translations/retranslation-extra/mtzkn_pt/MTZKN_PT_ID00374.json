@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00374",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00374/Sheet1/000002",
+      "sourceBindingSha256": "491d5918ef5dae523223ac1537752fb13bc7046bb90d6356171004901fb1b38d",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00374/Sheet1/000003",
+      "sourceBindingSha256": "80e81cf5453869b8df53d43e3e74767c39740c189690b6eaa139b5e76d0a0b41",
+      "sourceTextSha256": "6412e3c314ba0b271e7932fe2c0b373704cf71b9562e784f84fcf35be8842d45",
+      "freshTranslation": "후지무라 걸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00374/Sheet1/000004",
+      "sourceBindingSha256": "9d459c1d1f3549267a50f53644c74f232e3b8b72439d867886cbbfedfc82cb55",
+      "sourceTextSha256": "2a080e11d89d16cbf9b9c663c97cf6a517ea6a11a8669d0e98ab6d31e3fc0224",
+      "freshTranslation": "네오디바의 요소 후보생. ㊥ 성적이 우수하고 돌보는 학생 회장",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00374/Sheet1/000005",
+      "sourceBindingSha256": "e7f707a1af51e4b10fb13f6108c3149f5c837cfe01bb0fbbdc8abfb2269461bf",
+      "sourceTextSha256": "7ba734dfa3072202570fb70b510738d65451c03c08748b1be3828e0797de6d67",
+      "freshTranslation": "입 어린 소녀. ㊥ 앤디가 「빅뱅」이라고 칭한, 발군의 프로포션을 가진다. ㊥ 완벽주의와 결버증으로 자신과 타인에게 엄격하고 규율 위반이나 남녀 교제도 용서하지 않는다. ㊥ 과거, 아버지가 젊은 여자와 숨은 명소의 온천에 증발해, 어머니의 고생을 보고 자란 것이 트라우마와 ㊥ 되어, 남성과 구멍이 싫어진다. ㊥ 엘리먼트 능력은 \"공간 보충\"으로 분자 구조에 약간의 틈없이 공간을 막을 수 ㊥ 한다. ㊥ 자신과 정반대의 능력 '구멍굴력'을 가진 앤디와는 몇번이나 충돌해 서로의 엘레멘트 ㊥의 능력으로 부딪쳤다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00374/Sheet1/000006",
+      "sourceBindingSha256": "68ac14eae2f0f4dae01be5bf78973afa81a3bc683f01628bec3ae8d53481bde3",
+      "sourceTextSha256": "2a080e11d89d16cbf9b9c663c97cf6a517ea6a11a8669d0e98ab6d31e3fc0224",
+      "freshTranslation": "네오디바의 요소 후보생. ㊥ 성적이 우수하고 돌보는 학생 회장",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00374/Sheet1/000007",
+      "sourceBindingSha256": "aef9b3d72de678e1a93a4f15faeb0b0bd7990da59f76ff101322347741071066",
+      "sourceTextSha256": "7452a385f416ff1dbc17b7d33c98897f7698e0699ce86765930cf975a1de8fd3",
+      "freshTranslation": "입 어린 소녀. ㊥ 앤디가 「빅뱅」이라고 칭한, 발군의 프로포션을 가진다. ㊥ 완벽주의와 결버증으로 자신과 타인에게 엄격하고 규율 위반이나 남녀 교제도 용서하지 않는다. ㊥ 과거, 아버지가 젊은 여자와 숨은 명소의 온천에 증발해, 어머니의 고생을 보고 자란 것이 트라우마와 ㊥ 되어, 남성과 구멍이 싫어진다. ㊥ 엘리먼트 능력은 \"공간 보충\"으로 분자 구조에 약간의 틈없이 공간을 막을 수 ㊥ 한다. ㊥ 자신과 정반대의 능력 '구멍굴력'을 가진 앤디와는 몇번이나 충돌해 서로의 엘레멘트 ㊥의 능력으로 부딪쳤다. ㊥ 알테아 측의 목표가 엘리먼트 능력을 가진 여성을 데리고 가는 것임을 알고, 실연에서 자신 ㊥ 폭자기가 되어 투하하려고 하는 제시카를 구하기 위해 스스로가 잡혀 버린다. ㊥ 그 후, \"이브의 저주\"의 영향으로 육체가 남성화. 기억을 조작되어 소년병으로서 ㊥ 네오디바와 싸우게 된다. ㊥ 마지막은 앤디의 필사적인 설득으로 기억을 되찾고 그의 사랑을 받아 들였다. ㊥ 베가로 돌아가 서서히 육체도 원래대로 돌아가고 있는 것 같다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

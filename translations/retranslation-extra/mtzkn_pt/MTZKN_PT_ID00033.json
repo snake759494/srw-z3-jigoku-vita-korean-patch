@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00033",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00033/Sheet1/000002",
+      "sourceBindingSha256": "75566de0771d4a3340086157b10ec9fb0311c63f02e9df28e9ddadea7c95a232",
+      "sourceTextSha256": "bb1b9d79477ce4c72968854e46f8953c09d7e46b28254548dc8fed5dde12be8c",
+      "freshTranslation": "피아나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00033/Sheet1/000003",
+      "sourceBindingSha256": "f19d8fad4b7dffa2fc3fda079dda4013c00ac2bb5d32ef7e6b9a8a2a6cb825c3",
+      "sourceTextSha256": "bb1b9d79477ce4c72968854e46f8953c09d7e46b28254548dc8fed5dde12be8c",
+      "freshTranslation": "피아나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00033/Sheet1/000004",
+      "sourceBindingSha256": "5ca0debb769e29e67b545a049cf9f672b616f7db105654d83d06b392946852e9",
+      "sourceTextSha256": "095aa56eab1e8a38be44b7470675dbd3bb01e8bb6134a3c94d5e531e65a3923a",
+      "freshTranslation": "장갑 기병 하의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00033/Sheet1/000005",
+      "sourceBindingSha256": "866c74622724502d2fb861f04205474d09e8fba51f003cd9807946aaa118c50e",
+      "sourceTextSha256": "b46f1c460acb1c9be72ead490da349d67567475d3683efe76ecd8c703c15f902",
+      "freshTranslation": "길가메스군이 만들어낸 PS(퍼펙트 솔저) 제1호. ㊥ 뛰어난 전투 능력과 명령에 절대 복종의 병사로 만들어졌다. 완성하려면 Compu㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00033/Sheet1/000006",
+      "sourceBindingSha256": "f064581b46701d689aff497202f712a60f821eb7c546d94739b8413e0541994a",
+      "sourceTextSha256": "07346478c7eb499c902e809d086b5d8f0f9065c701a52e8c70e21b4d03fae2c7",
+      "freshTranslation": "의 집적회로 등에 사용되는 물질 나트륨이 필요하고, 생명의 유지에도 불가결하고 ㊥ 있다. ㊥ 키리코가 소행성 리도 습격 임무를 맡았을 때, PS로서 뇌에 프로그램을 심는 ㊥ 처리가 시작되기 전에 그와 접촉했다. 그 때문에, 키리코를 「처음으로 본 빛」으로서 무의식㊥하에서 특별한 감정을 안고, 이윽고 명령을 무시하고 행동하게 된다. ㊥소체, PS, 프로토원과 다수의 호칭명을 가지지만, 인간다운 이름은 가지고 있지 않은가㊥했다. 나중에 키리코가 빨리 부른 '피아나'가 그녀의 이름이 되고 있다. ㊥ 쿠멘에서는 마침내 비밀 결사 아래를 떠나 키리코와 합류. 이후 마음은 항상 키리코와 함께 ㊥에 있었다. ㊥ 키리코가 와이즈맨을 타도한 후, 자신들의 거처가 지금의 세계에는 없다고 깨닫는다. 키 ㊥ 리코와 함께 동면 캡슐에 들어가면 전쟁이 없는 세계를 꿈꾸며 긴 잠에 들었지만, 희망 ㊥ 낯선 형태로 깨어 버리게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00033/Sheet1/000007",
+      "sourceBindingSha256": "3c91b725ccc8bae46de7b529b6b208e6f99d41d672a87166708a11484033800e",
+      "sourceTextSha256": "b46f1c460acb1c9be72ead490da349d67567475d3683efe76ecd8c703c15f902",
+      "freshTranslation": "길가메스군이 만들어낸 PS(퍼펙트 솔저) 제1호. ㊥ 뛰어난 전투 능력과 명령에 절대 복종의 병사로 만들어졌다. 완성하려면 Compu㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00033/Sheet1/000008",
+      "sourceBindingSha256": "6bf117080cd054cbbe1dc62c547fd02fa7994fab5dee50802da5ed7424f0cc8a",
+      "sourceTextSha256": "94ffe4e567051b0813b5f4190db0cc18169e1d34186fa353b18dd8886042eb43",
+      "freshTranslation": "의 집적회로 등에 사용되는 물질 나트륨이 필요하고, 생명의 유지에도 불가결하고 ㊥ 있다. ㊥ 키리코가 소행성 리도 습격 임무를 맡았을 때, PS로서 뇌에 프로그램을 심는 ㊥ 처리가 시작되기 전에 그와 접촉했다. 그 때문에, 키리코를 「처음으로 본 빛」으로서 무의식㊥하에서 특별한 감정을 안고, 이윽고 명령을 무시하고 행동하게 된다. ㊥소체, PS, 프로토원과 다수의 호칭명을 가지지만, 인간다운 이름은 가지고 있지 않은가㊥했다. 나중에 키리코가 빨리 부른 '피아나'가 그녀의 이름이 되고 있다. ㊥ 쿠멘에서는 마침내 비밀 결사 아래를 떠나 키리코와 합류. 이후 마음은 항상 키리코와 함께 ㊥에 있었다. ㊥ 키리코가 와이즈맨을 타도한 후, 자신들의 거처가 지금의 세계에는 없다고 깨닫는다. 키㊥ 리코와 함께 동면 캡슐에 들어가면 전쟁이 없는 세계를 꿈꾸며 긴 잠에 붙었지만, 희망㊥ 낯선 형태로 깨어 버린다. ㊥ 이윽고 키리코와는 재회를 완수했지만, 그 신체는 한계를 맞이하고 있었다. 키리코를 붙이려고 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00033/Sheet1/000009",
+      "sourceBindingSha256": "719bdd611b38976fdb7c227420b88e4ed3429b1b826dbcb00f69d4ef395807e4",
+      "sourceTextSha256": "bbe549cfd4d37513d1b3e0b656d80ebd35c14e629347fccce7ed3890d33ab683",
+      "freshTranslation": "니어에게 자신 대신에 키리코를 사랑하길 바라는 등 마지막까지 그의 일을 생각㊥하면서 그 팔 속에서 영원한 잠에 붙었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

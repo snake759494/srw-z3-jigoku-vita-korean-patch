@@ -1,0 +1,117 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0037",
+    "fileName": "STG0037.cpk",
+    "target": "DATA/STAGE/STG0037.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "33de492f48264d6149873b8554f774928541cd041537478c4cb2cf409162085b"
+  },
+  "entries": [
+    {
+      "entryId": "STG0037/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "크샤트리아의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0037/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0037/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "카미유 또는 버나지의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0037/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "4턴 이내에 크샤트리아 이외의 적을 전멸시킨 후,\n마지막으로 크샤트리아를 격추시킨다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0037/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "유니콘 건담과 미스라·구니스의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0037/ID00001/OPERATE_TBL/str_tbl/005",
+      "sourceId": 5,
+      "translation": "카미유의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0037/ID00001/OPERATE_TBL/str_tbl/006",
+      "sourceId": 6,
+      "translation": "없음",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0037/ID00001/OPERATE_TBL/str_tbl/007",
+      "sourceId": 7,
+      "translation": "미스라·구니스의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0037/ID00001/OPERATE_TBL/str_tbl/008",
+      "sourceId": 8,
+      "translation": "유니콘 건담의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00008",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00008/Sheet1/000002",
+      "sourceBindingSha256": "e1c1ff16d66b121072c5ad2bdf8463ab170b2f7118b17011a08b2ee95cdfc37b",
+      "sourceTextSha256": "073c2068b0a1450337cf47934ca5bb66462d407028de35c3ed0a1f0b494406c9",
+      "freshTranslation": "다케오 카시로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00008/Sheet1/000003",
+      "sourceBindingSha256": "e6056d1844548420eb40e60033499ad009ebc46aa22307fb161b577fc8ee9cd3",
+      "sourceTextSha256": "7436a6a87909f8e53fb3381e2949db1fc6aafec03ba189d2c7e0a8fca6cb3fd3",
+      "freshTranslation": "가대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00008/Sheet1/000004",
+      "sourceBindingSha256": "2176847f03e2975176967b0c59b265e37c000e3e605b704dc175816342cd8022",
+      "sourceTextSha256": "77c406ff1c1b9634902fdd15ec771c2a07e20db9f0a6b53196dbf872ebd5aa4c",
+      "freshTranslation": "무적 로보 트라이더 G7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00008/Sheet1/000005",
+      "sourceBindingSha256": "5c0576d7957b0af5dae9178268d8137a0a0ab3d8115d48232b928cd227a26dab",
+      "sourceTextSha256": "f9a1b1ca65afdef2b87cc05a4ee8611aacf493c43806ef421f136ae11c0d1dbe",
+      "freshTranslation": "와타의 어머니. 43세. ㊥ 남편을 사고로 잃으면서도 3아의 어머니를 훌륭하게 노력한다. 일은 다케오가의 옆에 있는 보육㊥원의 원장으로, 가사도 일도 교육도 타협을 허락하지 않는 간옥모씨이다. ㊥ 죽은 남편이 사장을 맡고 있었을 무렵부터의 교제도 있어, 다케오 제너럴 컴퍼니의 사㊥원과도 친하게 교류하고 있는 모양. 특히 여성끼리라고 하는 일도 있었는지, 이화란 무엇인가라고㊥ 간호하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00008/Sheet1/000006",
+      "sourceBindingSha256": "1b1c43e6068f1f6251a48a952384c6ffd087bf0c873be1432c10f91dd8b5b485",
+      "sourceTextSha256": "f9a1b1ca65afdef2b87cc05a4ee8611aacf493c43806ef421f136ae11c0d1dbe",
+      "freshTranslation": "와타의 어머니. 43세. ㊥ 남편을 사고로 잃으면서도 3아의 어머니를 훌륭하게 노력한다. 일은 다케오가의 옆에 있는 보육㊥원의 원장으로, 가사도 일도 교육도 타협을 허락하지 않는 간옥모씨이다. ㊥ 죽은 남편이 사장을 맡고 있었을 무렵부터의 교제도 있어, 다케오 제너럴 컴퍼니의 사㊥원과도 친하게 교류하고 있는 모양. 특히 여성끼리라고 하는 일도 있었는지, 이화란 무엇인가라고㊥ 간호하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

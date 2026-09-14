@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00064",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00064/Sheet1/000002",
+      "sourceBindingSha256": "d9ec02e096c4f94a11b43f9e154110ab4ee80b0769bb2a1ea2bec5708be27332",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00064/Sheet1/000003",
+      "sourceBindingSha256": "e3c67a98c4cc0d062ab0c3057ef7521c15cd70ea44ceb6b1210bb619f3e2f0b3",
+      "sourceTextSha256": "e000d144afe56acc2721713b3ecdc1116e8bfaddfb79ab8c92552c1e80fe1ac7",
+      "freshTranslation": "리오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00064/Sheet1/000004",
+      "sourceBindingSha256": "f61ddb079356216e7e11477c37c18770df8d68c61d8c9053de25c0dddccde42c",
+      "sourceTextSha256": "e000d144afe56acc2721713b3ecdc1116e8bfaddfb79ab8c92552c1e80fe1ac7",
+      "freshTranslation": "리오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00064/Sheet1/000005",
+      "sourceBindingSha256": "6b5e0185eeae257aaa5168edd7e1cf2c1d4348129dfcc76a61a7c2b1a52137be",
+      "sourceTextSha256": "183021387ba79f8a553790374e411bef154fef2b89b176395e32ccbae756ce66",
+      "freshTranslation": "히이로 유이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00064/Sheet1/000006",
+      "sourceBindingSha256": "0afaa7030771e9bdbc2060b628d2bbe98266ac8b9b6d0b58f1fe0d078b252f09",
+      "sourceTextSha256": "2bbdb139451a734334d0c2ec7fdc87cc81be2564792d14c12cfac5a6be28442f",
+      "freshTranslation": "지구권 통일연합에서 개발된 모빌슈트. ㊥ 황도 12 별자리의 '시시자'가 이름의 모티프가 되고 있다. ㊥ 양산성과 범용성을 우선으로 개발이 진행되어 지구권 통일연합과 ZO에서 가장 많이 양산 ㊥ 되었다. ㊥ 고정 무장은 없고, 심플하고 버릇이 없는 기체. ㊥ 지상용으로 설계된 모빌 슈트이지만, 배낭을 교환하는 것으로 우주에서의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00064/Sheet1/000007",
+      "sourceBindingSha256": "943cfe281f1af5742ec23729d96ed2a013c6ba8ddbfa996e33160c634aa1bb8c",
+      "sourceTextSha256": "a4f1f4198f42c1a065ce1e8e06eff594d029e7b747796edf6a4b4be3a118d719",
+      "freshTranslation": "㊥도 가능합니다. ㊥개발로부터 20년 이상, 제1선에서 사용되어 온 기체이기 때문에, 많은 변형 ㊥이 존재한다. 이 컬러링은 히이로가 MO-Ⅲ에 잠입했을 때 사용했던 것도 ㊥이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00064/Sheet1/000008",
+      "sourceBindingSha256": "9a54027e525e040dd76960f0ac61b42f989a9f7a6f3f4df129abb6fb67cb35a9",
+      "sourceTextSha256": "2bbdb139451a734334d0c2ec7fdc87cc81be2564792d14c12cfac5a6be28442f",
+      "freshTranslation": "지구권 통일연합에서 개발된 모빌슈트. ㊥ 황도 12 별자리의 '시시자'가 이름의 모티프가 되고 있다. ㊥ 양산성과 범용성을 우선으로 개발이 진행되어 지구권 통일연합과 ZO에서 가장 많이 양산 ㊥ 되었다. ㊥ 고정 무장은 없고, 심플하고 버릇이 없는 기체. ㊥ 지상용으로 설계된 모빌 슈트이지만, 배낭을 교환하는 것으로 우주에서의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00064/Sheet1/000009",
+      "sourceBindingSha256": "cc0278d791d37b4fbaa4a61301d12a46e17f9983dbcbbc2fb5aba0b2cb116ded",
+      "sourceTextSha256": "a4f1f4198f42c1a065ce1e8e06eff594d029e7b747796edf6a4b4be3a118d719",
+      "freshTranslation": "㊥도 가능합니다. ㊥개발로부터 20년 이상, 제1선에서 사용되어 온 기체이기 때문에, 많은 변형 ㊥이 존재한다. 이 컬러링은 히이로가 MO-Ⅲ에 잠입했을 때 사용했던 것도 ㊥이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

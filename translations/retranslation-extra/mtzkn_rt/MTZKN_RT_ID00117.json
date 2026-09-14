@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00117",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00117/Sheet1/000002",
+      "sourceBindingSha256": "112dd93d5e5d37478afa600b55cacc592e516aece96b85adcc682e3bacbba66c",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00117/Sheet1/000003",
+      "sourceBindingSha256": "c911dd06b4ad2b150fc22e80635452a34ea7770bd9e2161089688b08e7e3e35b",
+      "sourceTextSha256": "6946333755ce4a9275df5d9eda08ac4967b9d09220757a1d5ed0b98a5dbef2d4",
+      "freshTranslation": "RVF-25 메사이어 F",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00117/Sheet1/000004",
+      "sourceBindingSha256": "8c6306e9c031c6417b72b50f2ac96cb21688f96587a5f4e1436a76810de12dec",
+      "sourceTextSha256": "a7506b51375feacbb5e6059b65740ddede4ea68b9b0418b62b57de3de1c9b73d",
+      "freshTranslation": "RVF-25 메사이파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00117/Sheet1/000005",
+      "sourceBindingSha256": "dca92a2875d5c56d68e76775eda5e291731050e45572a2a5c6ba00b6dbe7273c",
+      "sourceTextSha256": "9f87d0cca81e114af59b79fc2c59fd639d0fa3d5d5347734a4ff1edba4f6771c",
+      "freshTranslation": "ー모드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00117/Sheet1/000006",
+      "sourceBindingSha256": "cb0793f8627eac2742dc540ce06b07c897b0721427d84b82f26ed344a93c08ca",
+      "sourceTextSha256": "6b4037014479cf350799766a08a71e2941083e49e08ab4b4f63679b64d1f0e35",
+      "freshTranslation": "루카 안젤로니",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00117/Sheet1/000007",
+      "sourceBindingSha256": "cd5c7bace207356b564fe159f89337f8dc8dcc2e58f60d634a685780c95056ae",
+      "sourceTextSha256": "0c22936de2b38b1eb7bef5ee11c3d0092c6d0a66fbe760342b87b449257cfb16",
+      "freshTranslation": "VF-25 메사이아 시리즈의 전자전 장비기. 그 파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00117/Sheet1/000008",
+      "sourceBindingSha256": "c905f2e9316f4a79d9c17fca1a88d3600e4c3c3f0e715033896e798b3f3c3431",
+      "sourceTextSha256": "bc70acabe2efa8562c0412693d0d30e8bfbed6124de8ab50bda5afe98922e4bd",
+      "freshTranslation": "- 모드. ㊥S. M. S에서는 누가가 본 기기에 탑승하고 있다. ㊥ 많은 레이더와 센서류를 탑재해 색적과 전자전에 특화된 기체이다. ㊥ 이지 팩 개를 표준 장비하고, 기체 상부에는 대형",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00117/Sheet1/000009",
+      "sourceBindingSha256": "8f10409368fb914f039b94dc1039ef3821914f7a5679670d041a6328ff2e9ba5",
+      "sourceTextSha256": "da5f05e8e897c2b7f80699be4f21d3414318398aa5831c28d9ce3a7a90d50d62",
+      "freshTranslation": "의 복합식 레돔을 갖추고 있다. ㊥ 레돔은 폴드파로 목표를 탐지하기 때문에 초고속으로의 색적이 가능. 우주 공간에서 ㊥은 원주 부분을 전개시켜 사용한다. ㊥ 그 고급 전자전 능력에 의해, S. M. S의 이목이 된다. ㊥ 레이더류가 많이 장착되어 있는 반면 화력이 부족하기 때문에 누가는 무인기·㊥ 고스트 QF-4000을 관제 유도해 싸운다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00117/Sheet1/000010",
+      "sourceBindingSha256": "06d47d07913889b4b6ea765dc868072add9aaff0e3336e68bb5766cd44417d28",
+      "sourceTextSha256": "0c22936de2b38b1eb7bef5ee11c3d0092c6d0a66fbe760342b87b449257cfb16",
+      "freshTranslation": "VF-25 메사이아 시리즈의 전자전 장비기. 그 파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00117/Sheet1/000011",
+      "sourceBindingSha256": "87768fa8deeae9957415e92d512d59026de0adde2c2bb5fac83b7a4e7a3cc03b",
+      "sourceTextSha256": "bc70acabe2efa8562c0412693d0d30e8bfbed6124de8ab50bda5afe98922e4bd",
+      "freshTranslation": "- 모드. ㊥S. M. S에서는 누가가 본 기기에 탑승하고 있다. ㊥ 많은 레이더와 센서류를 탑재해 색적과 전자전에 특화된 기체이다. ㊥ 이지 팩 개를 표준 장비하고, 기체 상부에는 대형",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00117/Sheet1/000012",
+      "sourceBindingSha256": "9d9efe04a188946705558d3ae2d6790d13b357c9bd0046d8e8991419bf46d612",
+      "sourceTextSha256": "da5f05e8e897c2b7f80699be4f21d3414318398aa5831c28d9ce3a7a90d50d62",
+      "freshTranslation": "의 복합식 레돔을 갖추고 있다. ㊥ 레돔은 폴드파로 목표를 탐지하기 때문에 초고속으로의 색적이 가능. 우주 공간에서 ㊥은 원주 부분을 전개시켜 사용한다. ㊥ 그 고급 전자전 능력에 의해, S. M. S의 이목이 된다. ㊥ 레이더류가 많이 장착되어 있는 반면 화력이 부족하기 때문에 누가는 무인기·㊥ 고스트 QF-4000을 관제 유도해 싸운다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

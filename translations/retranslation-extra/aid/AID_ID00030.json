@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "aid",
+  "assetKey": "AID_ID00030",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "AID_ID00030/Sheet1/000002",
+      "sourceBindingSha256": "c4ea6c64c5ca8c873d9f0d841bb8904956d9da5e85379e0b405fc812d772f01a",
+      "sourceTextSha256": "0a52c7253dd9d6ae62c816729dd95c24c35b0eee721da261475186a589c5f88f",
+      "freshTranslation": "瑩㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "AID_ID00030/Sheet1/000003",
+      "sourceBindingSha256": "1e3e54d38df19a92b2159bd8a5e15e328071b68bec5c1d598ee90ced8623c014",
+      "sourceTextSha256": "ea53c41739aa360c198f903ebc2e116b50456edf0831ccc3e5d7b46dd43c108a",
+      "freshTranslation": "新多元世紀０００１年⑲９月１１日㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "AID_ID00030/Sheet1/000004",
+      "sourceBindingSha256": "d16e140ee15edea5556e623f51764f8956615bbd6a53bd1823bdb086767c1ddf",
+      "sourceTextSha256": "3a2db4c2b74b7e9a0b77cbb871cfbc2302cd3c554fd54121cbec1d42bc555ad0",
+      "freshTranslation": "샤아 아즈나블과의 휴전 협정을 맺은 일행은㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "AID_ID00030/Sheet1/000005",
+      "sourceBindingSha256": "71caa58553510c892aefee2466631a0f42ae92bd5ec1ba0e4845357529cf5ec8",
+      "sourceTextSha256": "87b0ff5b9a13cb59e7b2ed37598e4231fe6b163856972997f53b426e4e157b5a",
+      "freshTranslation": "지상에 내려갈 준비를 진행하고 있었다.㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "AID_ID00030/Sheet1/000006",
+      "sourceBindingSha256": "a77992686c77c55b6cc052726fabd8979312431e04af401f12a09ce71dcb2327",
+      "sourceTextSha256": "bd5cfd1e3c7e31b3756d30fb47ae8dec3dba04e4ced512f76924ff2a6ae4ff61",
+      "freshTranslation": "그 중, 미사토는 어떤 일을 생각하고 고민하고 있었다…㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

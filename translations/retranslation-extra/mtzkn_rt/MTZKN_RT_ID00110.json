@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00110",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00110/Sheet1/000002",
+      "sourceBindingSha256": "60cd5f651618ea1e5490e83a8b6ce57bed6d1b2f98d0ace4467ebc450d251290",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00110/Sheet1/000003",
+      "sourceBindingSha256": "0700f9049fef6657910f253b8c203670fab940c26870fdead60064c8e8ae9e32",
+      "sourceTextSha256": "45d35c47b2c2f6445f8e80cd525954363830ccbcf60d0a058343a9d94c2d7b22",
+      "freshTranslation": "VF-25F 메사이아 B·TP",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00110/Sheet1/000004",
+      "sourceBindingSha256": "3e65a6cfce51b30f29c383dae078420a85de613d1dc6d2d5731b8d96002d6b19",
+      "sourceTextSha256": "d80ea00ab7bdf347bae61f9dc7de726caf330fb006188b533dc81a2be3def191",
+      "freshTranslation": "VF-25F 메사이아 바트로이드 모드·토네이도 팩 장비(대기권 내 사양)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00110/Sheet1/000005",
+      "sourceBindingSha256": "1528e2b04aab7f866f4d9a786f8f922eac4ba0479930073fe62b1f02945cb541",
+      "sourceTextSha256": "c2c2e5756441c5c52c02341c5f7598cd240cfbd22261da490b01b6ba7f0caf88",
+      "freshTranslation": "사오토메 알토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00110/Sheet1/000006",
+      "sourceBindingSha256": "31e4f8c59d10e22eedaf9649be6dd59cfc9d212471b00b8ed412c7fa7afc4e9a",
+      "sourceTextSha256": "779a4a0b7f1333cf7e043515eae3e635033eb7f1fcf7cd03cfcf5892252c9f26",
+      "freshTranslation": "VF-25 메사이어 시리즈의 전위용 기체. 그 배트로이드 모드에 토네이㊥도팩을 장비한 대기권내 사양. ㊥S. M. S에서는 알토가 본 기기에 탑승하고 있다. ㊥VF-25 메사이아는 최신예의 멀티롤 가변 전투기로, 신통합군이 개발한 시험㊥작기 YF-24를 베이스로, 민간 기업의 L. A. I사와 신성인더스트리사가 공동㊥개발한 기체이다. 군에서의 정식 배치 전의 평가 시험의 형태로 S. M. S에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00110/Sheet1/000007",
+      "sourceBindingSha256": "381322106924ca6282a6e1078b4b58102b8dbd7f5812a312d6d5cdaa808b4437",
+      "sourceTextSha256": "9b5a723227d4823c434987b153ee2db019b1ab0640610632f690579276b352d3",
+      "freshTranslation": "사용 ㊥있다. ㊥토네이도팩은 VF-25에 선회식 연장 빔포나 회전식 엔진 포드인 ㊥등을 추가 장비하는 최신예의 강화팩. 이 팩의 장비에 의해 공격력의 증강과 동㊥시에, 기동력,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00110/Sheet1/000008",
+      "sourceBindingSha256": "1abe1c99c5d3b926bfd9bf421b5b3dffe7b3908f2cbbd39bc8eefd92d4dd0158",
+      "sourceTextSha256": "30e606b33a1b7807cf4ce5f77d24ef5ed3cb9a5b341788b42b131099c31e2b65",
+      "freshTranslation": "동성능도 대폭 향상된다. ㊥ 주요 무장으로 뒷면에 장착된 연장 빔포 외에 58mm 개틀링 감포㊥드, 마이크로 미사일 런처, 어설트 나이프 등이 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00110/Sheet1/000009",
+      "sourceBindingSha256": "a04081932f6cb51d5ef799df0784ea03eed4d355f9803bbeb4fc40f62c990040",
+      "sourceTextSha256": "779a4a0b7f1333cf7e043515eae3e635033eb7f1fcf7cd03cfcf5892252c9f26",
+      "freshTranslation": "VF-25 메사이어 시리즈의 전위용 기체. 그 배트로이드 모드에 토네이㊥도팩을 장비한 대기권내 사양. ㊥S. M. S에서는 알토가 본 기기에 탑승하고 있다. ㊥VF-25 메사이아는 최신예의 멀티롤 가변 전투기로, 신통합군이 개발한 시험㊥작기 YF-24를 베이스로, 민간 기업의 L. A. I사와 신성인더스트리사가 공동㊥개발한 기체이다. 군에서의 정식 배치 전의 평가 시험의 형태로 S. M. S에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00110/Sheet1/000010",
+      "sourceBindingSha256": "51747bc9ed6be399df6729b81e7b050b4c73503cb22e7bfc56c4fcfac0b65b47",
+      "sourceTextSha256": "9b5a723227d4823c434987b153ee2db019b1ab0640610632f690579276b352d3",
+      "freshTranslation": "사용 ㊥있다. ㊥토네이도팩은 VF-25에 선회식 연장 빔포나 회전식 엔진 포드인 ㊥등을 추가 장비하는 최신예의 강화팩. 이 팩의 장비에 의해 공격력의 증강과 동㊥시에, 기동력,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00110/Sheet1/000011",
+      "sourceBindingSha256": "e349b83eedf5e9785e870e1b73ac9991f534ad393761d84c8a887be17efd6af3",
+      "sourceTextSha256": "30e606b33a1b7807cf4ce5f77d24ef5ed3cb9a5b341788b42b131099c31e2b65",
+      "freshTranslation": "동성능도 대폭 향상된다. ㊥ 주요 무장으로 뒷면에 장착된 연장 빔포 외에 58mm 개틀링 감포㊥드, 마이크로 미사일 런처, 어설트 나이프 등이 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

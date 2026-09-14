@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00406",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00406/Sheet1/000002",
+      "sourceBindingSha256": "201ab97a0af60b6ec255987b0da16552dea71170b21df4c8e5bf93f7953024e8",
+      "sourceTextSha256": "436da8bba68e52534811013ae5f1f0ac82a1097add8a28cc87853d7403cd2387",
+      "freshTranslation": "제니트리 마세",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00406/Sheet1/000003",
+      "sourceBindingSha256": "1294a26f36c816f6fb8290cfdfcaf2b3be4ef8078db35f4cabd74c1636922988",
+      "sourceTextSha256": "a9798d0900fad4a552b069d4ceb4be8f3ce947b3745a555eb76b64a5c84ba579",
+      "freshTranslation": "제니트리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00406/Sheet1/000004",
+      "sourceBindingSha256": "eda5951972c0f720a13e1275683e7e059a529342de5ad072e3b007b4002cde53",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00406/Sheet1/000005",
+      "sourceBindingSha256": "3acc8677fa9b6f09104c535249071d85d582fb752d49b0adc900f5dd45219d8b",
+      "sourceTextSha256": "fda846931fee01df6375fb2647e7cc4e714d198ede441e3a1cdb3f407d16a62e",
+      "freshTranslation": "대기업 대금업자의 설치 부문에 소속하는 사원. ㊥ 주로 상환이 지연된 요주의 인물로부터의 설치를 담당하고 있다. ㊥ 강한 외형이 팔려서 이 업무를 수행했지만, 뿌리는 인정가의 기분 좋은 인물로 사내 ㊥ 밖에 넓은 인맥을 가진다. ㊥ 또한 심리적 영향",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00406/Sheet1/000006",
+      "sourceBindingSha256": "09ac08d849f5817caa04506aafa9bdd947e5f4df8fbb61f736dc543d604f8efc",
+      "sourceTextSha256": "ff26fac9a84c30ffaebfe792a6b8b82702fbb04c8a4f3270a980ac02afe8605d",
+      "freshTranslation": "그러므로, 머리카락은 스스로 스킨 헤드로 하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00406/Sheet1/000007",
+      "sourceBindingSha256": "42fc9494b360c4ed30bbec1b5c8c602cf29d8ffd6d192fcc202b2ecb2cc44428",
+      "sourceTextSha256": "fda846931fee01df6375fb2647e7cc4e714d198ede441e3a1cdb3f407d16a62e",
+      "freshTranslation": "대기업 대금업자의 설치 부문에 소속하는 사원. ㊥ 주로 상환이 지연된 요주의 인물로부터의 설치를 담당하고 있다. ㊥ 강한 외형이 팔려서 이 업무를 수행했지만, 뿌리는 인정가의 기분 좋은 인물로 사내 ㊥ 밖에 넓은 인맥을 가진다. ㊥ 또한 심리적 영향",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00406/Sheet1/000008",
+      "sourceBindingSha256": "cb7607ae628aca201967cbca1a11ae008d111035a15de4da9a29286b342f5258",
+      "sourceTextSha256": "2e765e3cde19137b0968e09728e53104124fbad88fc7581d196b02321397b433",
+      "freshTranslation": "그러므로, 머리카락은 스스로 스킨 헤드로 하고 있다. ㊥ZEXIS의 멤버와 개인적인 교류가 있었고, 재세전쟁 때에는 그의 빚의 ㊥포함에 따라 100만G의 대금을 대출했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

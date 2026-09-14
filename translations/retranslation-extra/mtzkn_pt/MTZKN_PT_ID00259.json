@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00259",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00259/Sheet1/000002",
+      "sourceBindingSha256": "e143158dcb51ce6f58d8c780ef21f84b3710004d2ba0d218176bb85898013d1e",
+      "sourceTextSha256": "0fad4d5e42123fee2c24495615baa523d43c07f9b017de604579b537a42d2f98",
+      "freshTranslation": "존 하워드 다니간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00259/Sheet1/000003",
+      "sourceBindingSha256": "757cc12536340d25c09dd63eb8e400807a3d549a93fbf6ae95a1926f5284c5bc",
+      "sourceTextSha256": "83ff71d64e1c48c203e6e892506db69ddb19668ba3dcdbd84c7c55721f24030e",
+      "freshTranslation": "다니간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00259/Sheet1/000004",
+      "sourceBindingSha256": "be7f82e6eaddd382607239e74d001ac85bc873ac50862c57f9dbd801f40f55e5",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00259/Sheet1/000005",
+      "sourceBindingSha256": "d9488569f17679e6c3f8e3ca7ce74dc7214c1a3057abfd0f8c98f24b6278be26",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00259/Sheet1/000006",
+      "sourceBindingSha256": "6091e8d237b4a42f59550123abf91fe44c32a0664be5b72c8db33b0b34b8ae87",
+      "sourceTextSha256": "a8cd779e312c0829b431bf8b04e958a6ea9908dbe26dd05bea6af8b618f97edd",
+      "freshTranslation": "대테러 조직 미스릴에 소속된 용병. 계급은 군조. 콜사인은 울즈 12. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00259/Sheet1/000007",
+      "sourceBindingSha256": "7ac190c855b7e5c24adcd505fc222d49cea74b5e755f70b4e57b943f70040125",
+      "sourceTextSha256": "21cb46971625a6e3080cf7d82665f222e3f398fe35a468d6f8cbcd09b304c3d0",
+      "freshTranslation": "국육군 공수부대 출신의 SRT(특별 대응반) 요원이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00259/Sheet1/000008",
+      "sourceBindingSha256": "5526d23ea08f44cb9a06ebf51fc85387e8de80cf1208d9eb334e76c3c127eec9",
+      "sourceTextSha256": "a8cd779e312c0829b431bf8b04e958a6ea9908dbe26dd05bea6af8b618f97edd",
+      "freshTranslation": "대테러 조직 미스릴에 소속된 용병. 계급은 군조. 콜사인은 울즈 12. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00259/Sheet1/000009",
+      "sourceBindingSha256": "a5bf9fb6e86cf2d1e7284a5f91446fa7a788d957b3b1666c5ed71a3b0b6b32c1",
+      "sourceTextSha256": "14478f56668be24e3771892c0acaf0528889153328c299613a8bb31e9bd8b9e1",
+      "freshTranslation": "국육군 공수부대 출신의 SRT(특별 대응반) 요원이다. ㊥ 겐과 함께 미스릴을 배신하고 투아하 데 다낭의 함내에 구속되어 있던 ㊥ 가울른을 놓치고 그 지휘하에 들어간다. 그 후, 레이디 채플을 목표로 하는 카나메를 ㊥ 쫓아가지만, 소스케에게 쓰러진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

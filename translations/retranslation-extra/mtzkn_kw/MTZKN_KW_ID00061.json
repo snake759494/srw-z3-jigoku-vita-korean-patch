@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00061",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00061/Sheet1/000002",
+      "sourceBindingSha256": "89ab33dd57a1e616502a59db9fc090add234e1e71a4a2a97e46b7a2f92f18151",
+      "sourceTextSha256": "dab017d87b5bcad697f2d9b834bc5a496675d0116195a9709ecde61e259ea48f",
+      "freshTranslation": "줄",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00061/Sheet1/000003",
+      "sourceBindingSha256": "096f6e5f10ee4a9be4aeb096ddbd5ce7acffe5de0e58ce8975bec87e8428d021",
+      "sourceTextSha256": "7c009dd74842937366ae7d35de8627b40f62f378bf9c22ed81b6b0393275a32f",
+      "freshTranslation": "「육신 합체 갓 마즈」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00061/Sheet1/000004",
+      "sourceBindingSha256": "244295e1847cf7f6d06cfeb620f9fb0556bca8d1d717ec589c3026dfad0aaf70",
+      "sourceTextSha256": "542822afa76fb72f56ac143f845a4f0d49f98e2cd42e11800c986a89ad54fabe",
+      "freshTranslation": "기신성을 지배하는 황제. ㊥ 모든 우주를 공포와 폭력으로 지배하려고 노력하고 있으며, 지배하에 둔 별의 주민을 ㊥ 모두 스스로의 야망의 조각으로 취급하고 있다. ㊥ 많은 부하를 따르고는 있지만, 그 모두를 「도구」정도 밖에 생각하고 있지 않다. ㊥ 자신의 의사를 따르지 않는 자, 배신자는 결코 용서하지 않고, 실패를 부끄럽게 자결하자 ㊥로 한 부하에게도 \"독수리를 위해 죽어라\"고 말하는 냉혹한 성격의 소유자. ㊥ 기신 별에 탑승",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00061/Sheet1/000005",
+      "sourceBindingSha256": "e3a3cd17c4f955cbef2f77f0cea7046e5983debe342ac8a6fb0959dffabd4ea4",
+      "sourceTextSha256": "9e1412b2b0670454f9fd05474d4498cf67af9583899c939c98a72c55d7cd3260",
+      "freshTranslation": "켈의 결사 전투 전에 패배도 불길한 말을 남겨 ㊥하고 소멸. ㊥ 이윽고 그 말대로 부활을 했지만 많은 사람들의 소원을 받았다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00061/Sheet1/000006",
+      "sourceBindingSha256": "176090be78463202f0ce7b5b88171041af6bba906c9441add98668eb8c12ad4c",
+      "sourceTextSha256": "742c88b998d3b187b3b017a351b236e6f47586e3500686e0d4f1252bc9221ff9",
+      "freshTranslation": "켈의 ㊥ 손에 의해 다시 쓰러졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00061/Sheet1/000007",
+      "sourceBindingSha256": "c4af37583f64c81671c0e774bfc62b6018cd5c4b4ec78b6dd9e92c916fd64caf",
+      "sourceTextSha256": "542822afa76fb72f56ac143f845a4f0d49f98e2cd42e11800c986a89ad54fabe",
+      "freshTranslation": "기신성을 지배하는 황제. ㊥ 모든 우주를 공포와 폭력으로 지배하려고 노력하고 있으며, 지배하에 둔 별의 주민을 ㊥ 모두 스스로의 야망의 조각으로 취급하고 있다. ㊥ 많은 부하를 따르고는 있지만, 그 모두를 「도구」정도 밖에 생각하고 있지 않다. ㊥ 자신의 의사를 따르지 않는 자, 배신자는 결코 용서하지 않고, 실패를 부끄럽게 자결하자 ㊥로 한 부하에게도 \"독수리를 위해 죽어라\"고 말하는 냉혹한 성격의 소유자. ㊥ 기신 별에 탑승",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00061/Sheet1/000008",
+      "sourceBindingSha256": "ac37bddde8296f9b3b9f205ae747f329b4b90d8e8813680acf297b26f5dfea49",
+      "sourceTextSha256": "9e1412b2b0670454f9fd05474d4498cf67af9583899c939c98a72c55d7cd3260",
+      "freshTranslation": "켈의 결사 전투 전에 패배도 불길한 말을 남겨 ㊥하고 소멸. ㊥ 이윽고 그 말대로 부활을 했지만 많은 사람들의 소원을 받았다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00061/Sheet1/000009",
+      "sourceBindingSha256": "ee958a63294a60619bd327be53202a58c1354b67af88f442e3f5201bd762da5c",
+      "sourceTextSha256": "742c88b998d3b187b3b017a351b236e6f47586e3500686e0d4f1252bc9221ff9",
+      "freshTranslation": "켈의 ㊥ 손에 의해 다시 쓰러졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

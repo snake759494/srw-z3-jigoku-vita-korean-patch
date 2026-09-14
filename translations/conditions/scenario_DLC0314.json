@@ -1,0 +1,95 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "DLC0314",
+    "fileName": "DLC0314.cpk",
+    "target": "DLC0314/DLC0314/DLC0314.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "92df0c5bc87da07c210e484b0754348ec27e2447cff489bc93becae2d3087b8d"
+  },
+  "entries": [
+    {
+      "entryId": "DLC0314/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "그렌라간의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "직접 검토한 DLC 조건 번역",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "DLC0314/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "건버스터의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "직접 검토한 DLC 조건 번역",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "DLC0314/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "없음",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "직접 검토한 DLC 조건 번역",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "DLC0314/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "다운로드 콘텐츠에는\nSR 포인트가 없습니다.",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "직접 검토한 DLC 조건 번역",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "DLC0314/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "우주괴수 등장 후 3턴 이내에 적을 전멸시킨다",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "직접 검토한 DLC 조건 번역",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "DLC0314/ID00001/OPERATE_TBL/str_tbl/005",
+      "sourceId": 5,
+      "translation": "아군 유닛 중 하나라도 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "직접 검토한 DLC 조건 번역",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "DLC0314/ID00001/OPERATE_TBL/str_tbl/006",
+      "sourceId": 6,
+      "translation": "우주괴수 등장 후 3턴이 경과한다",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "직접 검토한 DLC 조건 번역",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

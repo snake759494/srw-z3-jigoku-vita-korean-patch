@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00033",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00033/Sheet1/000002",
+      "sourceBindingSha256": "0630e0f89d81d93d8df49779b8cb2eed26cd8743660833fab195845e9e27faf7",
+      "sourceTextSha256": "807c7c81fa31bbf63883f4ed873b9849418168c8e789dbaf6b595acb88a60c6a",
+      "freshTranslation": "액시즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00033/Sheet1/000003",
+      "sourceBindingSha256": "10604704bf350db99f753e207e73ecea2b3b12eff38640d54cf82dce6f07d935",
+      "sourceTextSha256": "9e5464f47a8aff72df3528348b8488c8409eb8196a31c3e3aba2be43794445ef",
+      "freshTranslation": "「기동전사 Z건담」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00033/Sheet1/000004",
+      "sourceBindingSha256": "62467a8f4737a7b6b0ca2314bdfc4fdcf8707f088b50dc1ddfb3970abf5325ca",
+      "sourceTextSha256": "709bcadb0d799ba140d5a53bb9f5e3adfd3c605d5873211c1f7b391370276204",
+      "freshTranslation": "일년 전쟁으로 지구 연방군에 패배하여 지구권을 탈출한 지온 공국군의 잔당이 ㊥ 화성과 목성 사이의 아스테로이드 벨트 소행성에 건조한 기지. 또는, 그 ㊥이를 거점으로 하는 세력을 가리킨다. ㊥ 어린 미네바 자비를 깃발로 자비 집의 부흥을 획책하고, 하만 칸을 진짜 ㊥ 질적인 지도자로 에우고와 티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00033/Sheet1/000005",
+      "sourceBindingSha256": "b1cab014c0a87847edc3b8541127d3df15d791bc41039c66c6d0cd607a245001",
+      "sourceTextSha256": "ee368fca153ebb825a5b83b4f3f3e99fcf673c6c87b05bf7c0e634c1ee11cd2b",
+      "freshTranslation": "네즈 전투의 어부의 이익을 노렸다. ㊥ 해만 칸이 쓰러진 후, 소행성 액시즈는 지구 연방의 관리하에 놓여 ㊥ 되었지만, 네오지온을 새롭게 흥한 샤아 아즈나블에 무장 해제를 ㊥ 조건에 매각되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00033/Sheet1/000006",
+      "sourceBindingSha256": "02f4353e27b494a9d8ad6d4af1c026cff976e1a2d8c4c0192ba25e21b59bd330",
+      "sourceTextSha256": "709bcadb0d799ba140d5a53bb9f5e3adfd3c605d5873211c1f7b391370276204",
+      "freshTranslation": "일년 전쟁으로 지구 연방군에 패배하여 지구권을 탈출한 지온 공국군의 잔당이 ㊥ 화성과 목성 사이의 아스테로이드 벨트 소행성에 건조한 기지. 또는, 그 ㊥이를 거점으로 하는 세력을 가리킨다. ㊥ 어린 미네바 자비를 깃발로 자비 집의 부흥을 획책하고, 하만 칸을 진짜 ㊥ 질적인 지도자로 에우고와 티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00033/Sheet1/000007",
+      "sourceBindingSha256": "f271d48c72f5e18af7be8ee5bc32ef35ce34ae6e591dcdaacb3bb285a8281988",
+      "sourceTextSha256": "a425a948a76e2acf4e2ad24b1abe142cba940b8b883c6fdb476a192af38f7d0a",
+      "freshTranslation": "네즈 전투의 어부의 이익을 노렸다. ㊥ 해만 칸이 쓰러진 후, 소행성 액시즈는 지구 연방의 관리하에 놓여 ㊥ 되었지만, 네오지온을 새롭게 흥한 샤아 아즈나블에 무장 해제를 ㊥ 조건에 매각되었다. ㊥ 그것은 책략이며, 샤아의 목적은 액시즈를 지구에 낙하시키는 지구 한랭㊥화작전에 있었다. 그러나 론도벨의 분전과 아무로 레이가 달리는 ν건㊥댐의 사이코 프레임이 일으킨 수수께끼의 현상으로 인해 작전은 실패로 끝났다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

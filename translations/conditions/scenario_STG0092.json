@@ -1,0 +1,84 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0092",
+    "fileName": "STG0092.cpk",
+    "target": "DATA/STAGE/STG0092.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "c5804395b48ac9d1c60ba1656a378c6309482626b72a1e5d19f80e6b5b089f01"
+  },
+  "entries": [
+    {
+      "entryId": "STG0092/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "적의 전멸",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0092/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0092/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "로저의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0092/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "5턴 이내에 적 전멸시킨다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0092/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "없음",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0092/ID00001/OPERATE_TBL/str_tbl/005",
+      "sourceId": 5,
+      "translation": "빅비누스 격추\n단,로저 이외에는 빅비누스와 전투(맵 병기 제외)시\n상대를 격추하지 못하면 반드시 맵에서 이탈된다",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

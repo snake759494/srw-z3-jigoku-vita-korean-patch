@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00274",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00274/Sheet1/000002",
+      "sourceBindingSha256": "fb4d38d1e921fc2406162633dc393e74ff5b7b8084266a401dc124ce3037798b",
+      "sourceTextSha256": "0eb66df3d6c1e4e88c342bd6f0ba8d01eaf3a9c7c532149a0b42bf8911e34101",
+      "freshTranslation": "미키하라 연꽃",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00274/Sheet1/000003",
+      "sourceBindingSha256": "9abe859b7835dbdaa6f7ca082ce3a0a8de1b3ec56730414af9a2238798586c82",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00274/Sheet1/000004",
+      "sourceBindingSha256": "9753d7b1adbfd4f86351258e81d70d40d72d7e036dd6004cb94a367057315e2a",
+      "sourceTextSha256": "9e9b34d92f4bc3a617bf9dfd80231d1ec66843cd2c627f4c27236be52d8cde21",
+      "freshTranslation": "르 패닉? 후모후",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00274/Sheet1/000005",
+      "sourceBindingSha256": "8e9be57986981ffed48a9424e3818183a44b084d7f2a9d5eeb59ed661f644f27",
+      "sourceTextSha256": "c9b182fc55e36c7b848528129b363ef5b684e26d4d398fd695d1e9d79a1ea609",
+      "freshTranslation": "진대 고등학교 학생회 서기. ㊥ 학생 회장의 임수를 항상 옆에서 보좌하고 있다. ㊥ 촉촉한 성격으로, 소스케가 일으키는 소동 등에도 움직이지 않는다. 그 분위기에서 ㊥ 카나메들에게 「연꽃」이라고 불리고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00274/Sheet1/000006",
+      "sourceBindingSha256": "ee39604af05a824730e491094445b34f8b38f194dfa9668c3e6b5b92084fc5f1",
+      "sourceTextSha256": "07472dc83fb4d390aaebe52a9e8e1c9b9c86018647eee27d78e349522b8de217",
+      "freshTranslation": "진대 고등학교 학생회 서기. ㊥ 학생 회장의 임수를 항상 옆에서 보좌하고 은밀하게 마음을 전하고 있다. ㊥ 촉촉한 성격으로, 소스케가 일으키는 소동 등에도 움직이지 않는다. 그 분위기에서 ㊥ 카나메들에게 「연꽃」이라고 불리고 있다. ㊥ 덧붙여 친가는 테키야를 경영하는 미키 원조.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

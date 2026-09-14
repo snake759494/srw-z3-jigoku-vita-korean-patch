@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00036",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00036/Sheet1/000002",
+      "sourceBindingSha256": "0f19ab27b799618d172c979afcc44a64b3268213fcc6e7ba49fce05378d7f0dc",
+      "sourceTextSha256": "8cf6f5067f8d0d427d8ea448649271c2b93fd1cba0b8687cdd7d09402f6a9b94",
+      "freshTranslation": "브루즈 고우트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00036/Sheet1/000003",
+      "sourceBindingSha256": "d0c5cdb702ac9f97c0d23ae9ac4d19aaccc7c52b7e7d31a123cf4e5fb2e67d3f",
+      "sourceTextSha256": "600e3f050ef8a90af78afbeb044eafb7e2bd1e0040da0cce45094b9396d148f2",
+      "freshTranslation": "고우트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00036/Sheet1/000004",
+      "sourceBindingSha256": "1722fee5f4a8df714122a6bf48dea8e85d4c1a38f48ac5a83f4aedce9fd087e3",
+      "sourceTextSha256": "095aa56eab1e8a38be44b7470675dbd3bb01e8bb6134a3c94d5e531e65a3923a",
+      "freshTranslation": "장갑 기병 하의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00036/Sheet1/000005",
+      "sourceBindingSha256": "7fc6f8eaadcda7e8cb526953a45262a65346060c968c30dc2de3bdb8156e7f44",
+      "sourceTextSha256": "579ea7d5bc365ef5a7238dfb24480aab7d486c9d87c38757879563cdecdbd2a8",
+      "freshTranslation": "한때 우도의 거리에서 뒷가업에 근무하고 있던 어둠 상인. ㊥ 직업 무늬나 사람을 보는 눈은 확실하고, 키리코의 팔을 전망하면 즉각 돈을 벌는 등 행동력㊥도 발군. 어떤 때라도 돈을 제일로 생각하고는 있지만, 비정이 될 수 없는 단맛과 번거로움㊥의 장점을 가진 미워하지 않는 인물. ㊥ 쿠멘에서는 분쟁지대에서 용병 상대의 장사를 영위하는 상인이 되어, 독자적인 전수를 사용한 무기㊥탄약의 조달 등, 변함없는 수완을 보여 어셈블 EX-10에서도 얼굴역이 되어㊥하고 있었다. 키리코가 쿠멘에 도착하여 일찍, 스파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00036/Sheet1/000006",
+      "sourceBindingSha256": "4d5e5ec2234fe7dab6743638a17898db6789b1dcba05f82ece2d4207f14bc6c9",
+      "sourceTextSha256": "5ee6fdf1e32de6abfcdde5d4bb19c08f3924f9482b2662ee167203b294bc3abf",
+      "freshTranslation": "당황했을 때도 고우트의 ㊥ 어쩔 수 없이 일을 얻고 있다. ㊥ 쿠멘 왕국 붕괴 후에도 행성 산사에서 키리코와 재회하고, 더욱 자신의 비밀을 파악 ㊥ 하는 키리코의 여행에 휘말려 마지막 끝까지 그와 사귀게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00036/Sheet1/000007",
+      "sourceBindingSha256": "5880086ac4c588c3fdb4053dcde2c4c77e39dc276ac472cd067cd283582e4633",
+      "sourceTextSha256": "579ea7d5bc365ef5a7238dfb24480aab7d486c9d87c38757879563cdecdbd2a8",
+      "freshTranslation": "한때 우도의 거리에서 뒷가업에 근무하고 있던 어둠 상인. ㊥ 직업 무늬나 사람을 보는 눈은 확실하고, 키리코의 팔을 전망하면 즉각 돈을 벌는 등 행동력㊥도 발군. 어떤 때라도 돈을 제일로 생각하고는 있지만, 비정이 될 수 없는 단맛과 번거로움㊥의 장점을 가진 미워하지 않는 인물. ㊥ 쿠멘에서는 분쟁지대에서 용병 상대의 장사를 영위하는 상인이 되어, 독자적인 전수를 사용한 무기㊥탄약의 조달 등, 변함없는 수완을 보여 어셈블 EX-10에서도 얼굴역이 되어㊥하고 있었다. 키리코가 쿠멘에 도착하여 일찍, 스파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00036/Sheet1/000008",
+      "sourceBindingSha256": "2049f433d8e9c139163f120da33e58278020a67b1cc3571cb4acab09afb55338",
+      "sourceTextSha256": "5ee6fdf1e32de6abfcdde5d4bb19c08f3924f9482b2662ee167203b294bc3abf",
+      "freshTranslation": "당황했을 때도 고우트의 ㊥ 어쩔 수 없이 일을 얻고 있다. ㊥ 쿠멘 왕국 붕괴 후에도 행성 산사에서 키리코와 재회하고, 더욱 자신의 비밀을 파악 ㊥ 하는 키리코의 여행에 휘말려 마지막 끝까지 그와 사귀게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

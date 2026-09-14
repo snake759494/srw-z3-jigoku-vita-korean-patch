@@ -1,0 +1,159 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00023",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00023/Sheet1/000002",
+      "sourceBindingSha256": "ad2506043f6d7297935732fc4dadeda55805b499af49ba822a2a53877815f56e",
+      "sourceTextSha256": "095aa56eab1e8a38be44b7470675dbd3bb01e8bb6134a3c94d5e531e65a3923a",
+      "freshTranslation": "장갑 기병 하의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00023/Sheet1/000003",
+      "sourceBindingSha256": "21563c957661c9f2fe35a0ba534a7378f908c3edeebfbd11c2e22693c9a9363e",
+      "sourceTextSha256": "2d99f7adffe598c9c78b26f78f162031e9f1cf1627ceaa6ae6d1bc3547291f27",
+      "freshTranslation": "퍼티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00023/Sheet1/000004",
+      "sourceBindingSha256": "a73c2fb308774d5867e7adf8d8ea58b14fcd73daa5cb2748d913d234126c4b0d",
+      "sourceTextSha256": "2d99f7adffe598c9c78b26f78f162031e9f1cf1627ceaa6ae6d1bc3547291f27",
+      "freshTranslation": "퍼티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00023/Sheet1/000005",
+      "sourceBindingSha256": "5d4688834cc87d799adbc567fe76dc3fc684e869fce1c5b5f8dd11f411b89241",
+      "sourceTextSha256": "658ec7e3d3a93a02ebb2acdf86d3529e3d89b28dfd26f15b01d527db9bbba28e",
+      "freshTranslation": "발라란트군이 길가메스군에 대항하기 위해 개발한 AT. ㊥ 퍼티는 길가메스에서의 칭칭이며, 발라란트에서의 정식 명칭은 플로거. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00023/Sheet1/000006",
+      "sourceBindingSha256": "e3b1728dc57a912a26c2612d9ee1a1ce9ca2eb2fc63e26dd246903e55673d008",
+      "sourceTextSha256": "6c63e21cb36aacf6172eddafeda89f5e2eef50da21c7f4885d2e2b51a5fb9aa1",
+      "freshTranslation": "둑의 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00023/Sheet1/000007",
+      "sourceBindingSha256": "f45c703c196542bd7359ca6a33c52de2b923adacb7d49141a9c4f4f72fc4e754",
+      "sourceTextSha256": "ede0cef4921cdfa909c6e0cdfd207ad6ce0293ea4122429d32f1ff2d66d5ef9c",
+      "freshTranslation": "화㊥이 잘 못했던 결과이지만, 중장갑이라는 면에서는 좋은 결과를 낳고 있다. ㊥ 롤러 대시 메커니즘은 장착되어 있지 않지만 뒤쪽에 큰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00023/Sheet1/000008",
+      "sourceBindingSha256": "e459e0fbb0beaaa8142a789d66adb2c7c144cd273f89e9dab9f6c36ceaff2c1a",
+      "sourceTextSha256": "c9530cb338d1379754c10c5e5d049e658fa96f534b32998fce133091a993da13",
+      "freshTranslation": "로켓 노즐, 어깨, 허리, ㊥ 발바닥 등 각 곳에 버니어를 가지고 높은 공간 기동성을 실현. 집단전을 전술의 기본과 ㊥해 개별 성능을 이기는 길가메스군의 AT와 호각의 싸움을 펼쳤다. ㊥ 주무장은 무반동",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00023/Sheet1/000009",
+      "sourceBindingSha256": "3900a8d41ca4043506320aecb8e4e1618d5a5f67954cfb3b7d377af38318f5fb",
+      "sourceTextSha256": "585f8527256e489fb01d5ca7c6674934fc202cf85a26c3dfb5c03c38b7538977",
+      "freshTranslation": "펄트 런처이지만, 옵션 장비로서 하드 부 ㊥ 레드 건 등이 존재한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00023/Sheet1/000010",
+      "sourceBindingSha256": "a7dc7982547922d1bb77d43e48a41487a7261839d0c3bea805eaccc5405add03",
+      "sourceTextSha256": "658ec7e3d3a93a02ebb2acdf86d3529e3d89b28dfd26f15b01d527db9bbba28e",
+      "freshTranslation": "발라란트군이 길가메스군에 대항하기 위해 개발한 AT. ㊥ 퍼티는 길가메스에서의 칭칭이며, 발라란트에서의 정식 명칭은 플로거. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00023/Sheet1/000011",
+      "sourceBindingSha256": "d1c03b555b4f1077d563f5beffce6fff69a386d7f05125657ee5deb2ff364e6a",
+      "sourceTextSha256": "6c63e21cb36aacf6172eddafeda89f5e2eef50da21c7f4885d2e2b51a5fb9aa1",
+      "freshTranslation": "둑의 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00023/Sheet1/000012",
+      "sourceBindingSha256": "b3d468128a68c82e0b26f6067ce27d8d16379aefc77f513411db820067c3380e",
+      "sourceTextSha256": "ede0cef4921cdfa909c6e0cdfd207ad6ce0293ea4122429d32f1ff2d66d5ef9c",
+      "freshTranslation": "화㊥이 잘 못했던 결과이지만, 중장갑이라는 면에서는 좋은 결과를 낳고 있다. ㊥ 롤러 대시 메커니즘은 장착되어 있지 않지만 뒤쪽에 큰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00023/Sheet1/000013",
+      "sourceBindingSha256": "1e2a203334f67786bc12fd55f08f5e5e3bc404beea40acc5ce790c92cacf1d06",
+      "sourceTextSha256": "c9530cb338d1379754c10c5e5d049e658fa96f534b32998fce133091a993da13",
+      "freshTranslation": "로켓 노즐, 어깨, 허리, ㊥ 발바닥 등 각 곳에 버니어를 가지고 높은 공간 기동성을 실현. 집단전을 전술의 기본과 ㊥해 개별 성능을 이기는 길가메스군의 AT와 호각의 싸움을 펼쳤다. ㊥ 주무장은 무반동",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00023/Sheet1/000014",
+      "sourceBindingSha256": "3e65577538ad2130f296c185b8fbece37f4fad2b8b334ce32c51dd02e3af96a4",
+      "sourceTextSha256": "585f8527256e489fb01d5ca7c6674934fc202cf85a26c3dfb5c03c38b7538977",
+      "freshTranslation": "펄트 런처이지만, 옵션 장비로서 하드 부 ㊥ 레드 건 등이 존재한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

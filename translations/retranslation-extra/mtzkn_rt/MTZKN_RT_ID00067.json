@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00067",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00067/Sheet1/000002",
+      "sourceBindingSha256": "30b5b49a4c835cff07427f6e7cc1a1a1ac3b568b8d21331c162a411bcffab303",
+      "sourceTextSha256": "15a2e664e80fef55f49873f69b656b86b230b630d2bdafde619513e324977069",
+      "freshTranslation": "기동전사 건담 SEEDDESTINY",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00067/Sheet1/000003",
+      "sourceBindingSha256": "67323ff605c8d1ee411afef16e0ffede167f96355c63f32440e8b84ffc46bd4e",
+      "sourceTextSha256": "0bd6deb021c1c9614bbdd589272de75a044e3e81e620af3ea733e0a80ee40ad5",
+      "freshTranslation": "스트라이크 프리덤 건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00067/Sheet1/000004",
+      "sourceBindingSha256": "bf826394d9d842b59c21053288549e2b316ef50efb216cbaf8cad0987e8e9680",
+      "sourceTextSha256": "0bd6deb021c1c9614bbdd589272de75a044e3e81e620af3ea733e0a80ee40ad5",
+      "freshTranslation": "스트라이크 프리덤 건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00067/Sheet1/000005",
+      "sourceBindingSha256": "0c3f13611d3c4349468c28586792ec835eac2c3f8c71f863c158a93bd97909a7",
+      "sourceTextSha256": "8848233fd12b0ecf4eddd94ebdf1ef417bd98bb21f37bac47c416f8a4dd003f9",
+      "freshTranslation": "키라 야마토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00067/Sheet1/000006",
+      "sourceBindingSha256": "7df84a830b27288ff0459dda2d5a4a06fcff5bcca26677e1eb0e813eaa00f967",
+      "sourceTextSha256": "da295ccd2b998ac0af5a933f3d4cecdc31eec36ed3a6541c4fffe6ea019dc2aa",
+      "freshTranslation": "반듀란달 세력인 클라인파의 거점 '팩토리'에서 인피니트㊥저스티스와 함께 개발된 최신예모빌슈트. ㊥신규",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00067/Sheet1/000007",
+      "sourceBindingSha256": "6e5f2f322b3760a3e0994dbb5e880bc0904371a3443baa5093fc201191e7fd75",
+      "sourceTextSha256": "f438939e2d6aaee347bea10862b63f10e3b8304620f1fe2dc415b56868e421f9",
+      "freshTranslation": "의 레이저 핵융합 엔진을 탑재하고 있어 프리덤의 몇 배의 출력을 자랑한다. ㊥ 새롭게 장비된 '슈퍼 드라군(기동 병장 시스템)'은 기동력을 향상㊥시키는 윙 부분을 분리시켜 무선 유도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00067/Sheet1/000008",
+      "sourceBindingSha256": "e1757ccb2ffe07217fb41abf81a177c5a59b0afcb4dc867795e1338269d5a20a",
+      "sourceTextSha256": "2c47033a8be179444617700be4f0d699bcc2b3fca82dedb9c19c0916f3ee4035",
+      "freshTranslation": "빔 무기로 사용할 수있는 장비. 첫 ㊥ 출격 때에는 이 신병기를 사용해 단 2분만에 총 25대의 자크워리아와 구프㊥ 이그나이티드를 전투 불능으로 만들었다. ㊥ 장갑도 VPS 장갑으로 변경되어 빔 쉴드까지도 내장하고 있기 때문에, 공수에 건네 ㊥ 틈이 발견되지 않는 기체가 되고 있다. ㊥ 그러나 그 힘을 발휘하기 위해서는 높은 조종 기술이 필요하며 키라 이외의 파일럿 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00067/Sheet1/000009",
+      "sourceBindingSha256": "994f125c018a0087278270ecb728c5ca56eb70b54f34835c2182c953fbdea68c",
+      "sourceTextSha256": "9ee33b8d7e25308e635977053c303aabc3792fa3210639002cddd9abf6cc6e2b",
+      "freshTranslation": "용도는 어렵다고 여겨진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00067/Sheet1/000010",
+      "sourceBindingSha256": "23a43cebe23e97e03d00be4c973a5afed0e94033a7a093d8aea1fa80425b30e2",
+      "sourceTextSha256": "da295ccd2b998ac0af5a933f3d4cecdc31eec36ed3a6541c4fffe6ea019dc2aa",
+      "freshTranslation": "반듀란달 세력인 클라인파의 거점 '팩토리'에서 인피니트㊥저스티스와 함께 개발된 최신예모빌슈트. ㊥신규",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00067/Sheet1/000011",
+      "sourceBindingSha256": "11cf6e084b51c5beece693189d7aa8e9561f07eacb247d433e5a946016cc3551",
+      "sourceTextSha256": "f438939e2d6aaee347bea10862b63f10e3b8304620f1fe2dc415b56868e421f9",
+      "freshTranslation": "의 레이저 핵융합 엔진을 탑재하고 있어 프리덤의 몇 배의 출력을 자랑한다. ㊥ 새롭게 장비된 '슈퍼 드라군(기동 병장 시스템)'은 기동력을 향상㊥시키는 윙 부분을 분리시켜 무선 유도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00067/Sheet1/000012",
+      "sourceBindingSha256": "a8027bc9f67615f0bcc9abd4e3d6eca210bfbdd21f01c7cea5b5aa200dd422bb",
+      "sourceTextSha256": "2c47033a8be179444617700be4f0d699bcc2b3fca82dedb9c19c0916f3ee4035",
+      "freshTranslation": "빔 무기로 사용할 수있는 장비. 첫 ㊥ 출격 때에는 이 신병기를 사용해 단 2분만에 총 25대의 자크워리아와 구프㊥ 이그나이티드를 전투 불능으로 만들었다. ㊥ 장갑도 VPS 장갑으로 변경되어 빔 쉴드까지도 내장하고 있기 때문에, 공수에 건네 ㊥ 틈이 발견되지 않는 기체가 되고 있다. ㊥ 그러나 그 힘을 발휘하기 위해서는 높은 조종 기술이 필요하며 키라 이외의 파일럿 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00067/Sheet1/000013",
+      "sourceBindingSha256": "f05e919c64745d37139571f7380b7a7411f5d88155a705a3e1889ae40bc47b99",
+      "sourceTextSha256": "9ee33b8d7e25308e635977053c303aabc3792fa3210639002cddd9abf6cc6e2b",
+      "freshTranslation": "용도는 어렵다고 여겨진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

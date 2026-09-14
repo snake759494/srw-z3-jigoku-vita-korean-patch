@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00041",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00041/Sheet1/000002",
+      "sourceBindingSha256": "af3fe8ad69fcf0630522e238b153488327d8f28fc0102286c0751690d9f11778",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00041/Sheet1/000003",
+      "sourceBindingSha256": "51a570ad8f030e034af3aa6436123e7dda9fe9b498a3d90c6f4b7324fe07ab8d",
+      "sourceTextSha256": "f900544a069fb7ac7968bb9e316316f831ee6431a60a44b6771c26dedece4946",
+      "freshTranslation": "리 가지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00041/Sheet1/000004",
+      "sourceBindingSha256": "bb24847b8e0d70612e264a8119ff16ab14620bf34c0513c0dd37e0a2c4ab0adb",
+      "sourceTextSha256": "f900544a069fb7ac7968bb9e316316f831ee6431a60a44b6771c26dedece4946",
+      "freshTranslation": "리 가지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00041/Sheet1/000005",
+      "sourceBindingSha256": "eaebdd6d7fc3ac30c67d1f1e350808a6662d3a9df7586a338e9ff8e34c225b6d",
+      "sourceTextSha256": "eaec558f90503d8d33e702e739c72360b2cffb4f8a1dbb46e68a973e72eb6d10",
+      "freshTranslation": "애너하임 일렉트로닉스 사가 개발한 프로토 타입 모빌 슈트. ㊥Z건담의 간이 양산 프로토타입기이며, 백 웨폰 시스템을 장비하는 것㊥로 모빌 아머 형태가 된다. 이 기구에 의해 높은 기체 성능을 유지하면서도 생산㊥성의 향상에 성공해, 양산화를 목표로 했다. 그러나 그래도 다른 양산기와 비교하면 제 ㊥ 조비는 비싸고 실전 배치는 런드벨대 1기에만 끝났다. ㊥ 또한 리 가즈는 \"리파인드 건담 제",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00041/Sheet1/000006",
+      "sourceBindingSha256": "3fe132cf2050096f36c6278b6f127ca2386d4da76be5e4b50ccfa05f7bb33bb2",
+      "sourceTextSha256": "e6e4205915daec5f7725382a372f31a3db03738913b4b38eb3de6b054f2d15a5",
+      "freshTranslation": "의 약칭. ㊥ 주요 무장은 백 웨폰 시스템 외에 빔 세이버, 빔 라 ㊥ 이플, 2연장 수류탄 발사기, 발칸포 등이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00041/Sheet1/000007",
+      "sourceBindingSha256": "417b7a129a9564fa028b0ad41988d2af8f1673773e273966bc734e9cb2c27970",
+      "sourceTextSha256": "eaec558f90503d8d33e702e739c72360b2cffb4f8a1dbb46e68a973e72eb6d10",
+      "freshTranslation": "애너하임 일렉트로닉스 사가 개발한 프로토 타입 모빌 슈트. ㊥Z건담의 간이 양산 프로토타입기이며, 백 웨폰 시스템을 장비하는 것㊥로 모빌 아머 형태가 된다. 이 기구에 의해 높은 기체 성능을 유지하면서도 생산㊥성의 향상에 성공해, 양산화를 목표로 했다. 그러나 그래도 다른 양산기와 비교하면 제 ㊥ 조비는 비싸고 실전 배치는 런드벨대 1기에만 끝났다. ㊥ 또한 리 가즈는 \"리파인드 건담 제",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00041/Sheet1/000008",
+      "sourceBindingSha256": "555d413a3fdb641b47b30f5b1e8f3beb2480ec8494958daf5cfc1766bf568c16",
+      "sourceTextSha256": "e6e4205915daec5f7725382a372f31a3db03738913b4b38eb3de6b054f2d15a5",
+      "freshTranslation": "의 약칭. ㊥ 주요 무장은 백 웨폰 시스템 외에 빔 세이버, 빔 라 ㊥ 이플, 2연장 수류탄 발사기, 발칸포 등이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

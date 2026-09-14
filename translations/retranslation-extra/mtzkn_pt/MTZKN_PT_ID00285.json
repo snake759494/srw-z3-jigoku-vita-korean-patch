@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00285",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00285/Sheet1/000002",
+      "sourceBindingSha256": "d229b2aa4dde1d71655d06d4a8042fc5c504b2185430bb80f5246111bc5d0521",
+      "sourceTextSha256": "3217b6dd3177a11222e43409082340cac574495029ccc0f96b4e4ba29c66ab9e",
+      "freshTranslation": "알",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00285/Sheet1/000003",
+      "sourceBindingSha256": "5c70b9b9df78a448e79f90a99d6f987b77e7130a34682b5f0c180abd6583ee0b",
+      "sourceTextSha256": "3217b6dd3177a11222e43409082340cac574495029ccc0f96b4e4ba29c66ab9e",
+      "freshTranslation": "알",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00285/Sheet1/000004",
+      "sourceBindingSha256": "91d8cfb6acf270a18ca02245fbcbe822bfa1f95bb7d2ae2bfd0dfec7dfa48fe5",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00285/Sheet1/000005",
+      "sourceBindingSha256": "5dbd6fc46c926f0af3d11944457137e30565df6b84378c4512ec3474df9f68a9",
+      "sourceTextSha256": "6cbead29f5f3666f5882c4fd6c0d7e56e8208850dd34efe1c72cd7834907e4e2",
+      "freshTranslation": "르 패닉! TheSecondRaid",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00285/Sheet1/000006",
+      "sourceBindingSha256": "c0af495082966dd522e01635f559850b95a14ea1ef5c3fcbeef34bda30bf6e02",
+      "sourceTextSha256": "9a59467fc527ea30070e1cb11d59d38422a273a87448a672dc4c819fc151d879",
+      "freshTranslation": "무로엔 장유",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00285/Sheet1/000007",
+      "sourceBindingSha256": "7c0550b6fd4bb26a26a88fe64fa3274812fc941edbc32b232718c8a7897de3a7",
+      "sourceTextSha256": "060708923c70b99d4abad3b9896815d295d5202e73063313feb69072c77a7c8e",
+      "freshTranslation": "ARX-7 아바레스트의 AI. 음성 응답",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00285/Sheet1/000008",
+      "sourceBindingSha256": "16213486acf485b29888ddf3b4311f6b99190bd647f4c0de7a3c5b9da1a98fe2",
+      "sourceTextSha256": "eef169a1baa51da003110a93e1456c8e04460309241639af59317c5830c5648a",
+      "freshTranslation": ". ㊥ 처음으로 아바레스트를 타는 소스케를 탑승자로 등반",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00285/Sheet1/000009",
+      "sourceBindingSha256": "f16b5fa8dafa93f7ef79148b7c3e2291cdf82ef712afe3e2b40e4bd2bdf0ffb4",
+      "sourceTextSha256": "92369c69a65edf48541a69d0399e89bc0a5531e9a3744c891c4fe6ca142f0596",
+      "freshTranslation": "그리고 최적화되어 간다. ㊥ 이후에는 그 변경이 불가능해지고, 그 이외의 인간에서는 람다 드라이버가 작동할 수 없는 ㊥이 되었다. 또한, 소스케가 조종해도 람다 드라이버의 작동은 불확실하고, 종종 궁지㊥지에 빠졌다. ㊥ 소스케는 그것을 무기로서의 신뢰성이 부족하다고 싫어, 알이나 기체에 대해 혐오감㊥을 안고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00285/Sheet1/000010",
+      "sourceBindingSha256": "06307f8b60ce841830500f4ea2d5e1862baa9141548f7647ed738a91198f3e4e",
+      "sourceTextSha256": "060708923c70b99d4abad3b9896815d295d5202e73063313feb69072c77a7c8e",
+      "freshTranslation": "ARX-7 아바레스트의 AI. 음성 응답",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00285/Sheet1/000011",
+      "sourceBindingSha256": "da95587c6b1faf1dbf921347fe7f780f7f27531632f2a88818f74625e6c357fa",
+      "sourceTextSha256": "eef169a1baa51da003110a93e1456c8e04460309241639af59317c5830c5648a",
+      "freshTranslation": ". ㊥ 처음으로 아바레스트를 타는 소스케를 탑승자로 등반",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00285/Sheet1/000012",
+      "sourceBindingSha256": "0807bbee13d9a45ca9a12bb13cf39745ffb3eeb01090e4f017a5785e28e9c51b",
+      "sourceTextSha256": "83c0f98cf7f4c69c729520d075cfcf23c12f13d64dbea397e566e83c2afd4f1f",
+      "freshTranslation": "그리고 최적화되어 간다. ㊥ 이후에는 그 변경이 불가능해지고, 그 이외의 인간에서는 람다 드라이버가 작동할 수 없는 ㊥이 되었다. 또한, 소스케가 조종해도 람다 드라이버의 작동은 불확실하고, 종종 궁지㊥지에 빠졌다. ㊥ 소스케는 그것을 무기로서의 신뢰성이 부족하다고 싫어, 알이나 기체에 대해 혐오감㊥을 안고 있다. ㊥ 하지만 홍콩에서의 일련의 싸움으로 마음의 망설임을 끊은 소스케를 맞이해, 멋진 코㊥비비네이션으로 게이츠들을 격파. 무네스케에서 '아이돌'이라고 불리게 되면서 동시에 ㊥알 엎드려 '플래그가 서 있는' 상태가 되어 AI이면서 인간다움을 늘려 간다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

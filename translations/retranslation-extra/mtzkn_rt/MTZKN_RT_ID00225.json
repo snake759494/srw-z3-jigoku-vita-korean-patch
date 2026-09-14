@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00225",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00225/Sheet1/000002",
+      "sourceBindingSha256": "9e1ca9361cb23246bcd00867d59b329ccc274dfcb2c56162a1949b0a16c411eb",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00225/Sheet1/000003",
+      "sourceBindingSha256": "9d1395cf17048857b89ca6b2ab0babbeac929fffc1e8518c2f0a07ba351ce0e1",
+      "sourceTextSha256": "a27298a8d9a7666225c5f03d087512d9e569fa3e56720101581a22aebb70c3dc",
+      "freshTranslation": "제9의 사도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00225/Sheet1/000004",
+      "sourceBindingSha256": "908321ef2bb23355a9627bae45a417695b176470a4456d4df2f42eb9a0e5c143",
+      "sourceTextSha256": "a27298a8d9a7666225c5f03d087512d9e569fa3e56720101581a22aebb70c3dc",
+      "freshTranslation": "제9의 사도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00225/Sheet1/000005",
+      "sourceBindingSha256": "ca62e763356ab112f11396e2ecca890fcccdf9fcf515aebc7ed00a6a7964022f",
+      "sourceTextSha256": "55d5ba7e1a2b9ec6330636149c7a3f9673a1e11f44fb02a55d8a2efd77e46b8b",
+      "freshTranslation": "9번째로 출현한 사도. ㊥ 마츠시로에서 실험 중이던 EVA3호기에 내부에서 침식하여 빙의한다. 그 때에 대폭발㊥을 일으켜, 가설 케이지나 지상 관리 시설을 도괴시킨다. 처음에는 분석 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00225/Sheet1/000006",
+      "sourceBindingSha256": "226de17b8690e7d61b216aff708830ac18c23852a42191dd44fd7a166f48f91d",
+      "sourceTextSha256": "396fcd2ffe90e345d7f0fdefe002eb4ab289da6ad97c233cad443fd3b0ffd3fa",
+      "freshTranslation": "룬이 오렌지 ㊥에서 사도로 식별할 수 없었지만, 정지 신호와 엔트리 플러그 배출 코드를 인식하지 못하고, ㊥마지막으로 겐도우에 의해 제 9 사도로 인정되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00225/Sheet1/000007",
+      "sourceBindingSha256": "1fb17f9d9f483224149a6034c29039b89c8725518a0d4c8e6e8a67611361094f",
+      "sourceTextSha256": "55d5ba7e1a2b9ec6330636149c7a3f9673a1e11f44fb02a55d8a2efd77e46b8b",
+      "freshTranslation": "9번째로 출현한 사도. ㊥ 마츠시로에서 실험 중이던 EVA3호기에 내부에서 침식하여 빙의한다. 그 때에 대폭발㊥을 일으켜, 가설 케이지나 지상 관리 시설을 도괴시킨다. 처음에는 분석 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00225/Sheet1/000008",
+      "sourceBindingSha256": "2321fb9870426f850f44bb9662e7e38941890de25445b8b3d3cab524b54719c1",
+      "sourceTextSha256": "07d1ae1aefb4e4638b262ce4e0cabe222c4b4ad9f23a691d5fd714e3809bca94",
+      "freshTranslation": "룬이 오렌지 ㊥에서 사도로 식별할 수 없었지만, 정지 신호와 엔트리 플러그 배출 코드를 인식하지 못하고, ㊥마지막으로 겐도우에 의해 제 9 사도로 인정되었다. ㊥ EVA 초호기와의 싸움에서는 구속구를 깨고 4개의 팔로 공격해 침식을 시도한다. 다 ㊥가 더미 시스템으로 전환된 초호기에 의해 반격을 받았고, 마지막은 엔트리프 ㊥ 러그에 침식하고 있던 코어를 씹어 섬멸되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

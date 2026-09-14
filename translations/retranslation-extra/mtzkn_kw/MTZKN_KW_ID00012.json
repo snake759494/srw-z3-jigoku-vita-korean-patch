@@ -1,0 +1,49 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00012",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00012/Sheet1/000002",
+      "sourceBindingSha256": "6b1d810092e6ef7115f87b26cae5357002d1d6e1389cb6770df561d8a5ab7a66",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00012/Sheet1/000003",
+      "sourceBindingSha256": "c815dfd31d067391d0dd44b310b8f07e61033a9328a0e99febcca62ba11a06b9",
+      "sourceTextSha256": "51f08b760d1a572ef28fb7985f4c351227d35600a5fb0011b8869ff465656717",
+      "freshTranslation": "병행 세계의 하나(=『제2차 슈퍼 로봇 대전 Z』의 세계). ㊥ 그 이름은 「기원 세계」의 약자. ㊥세계 정세는 비교적 안정적이었지만, 대시공진동으로부터 20년 후, 파계사변과 재㊥세전쟁이라는 2개의 차원간 전쟁에 서서 계속 휩쓸린다. ㊥ 특징으로 두 개의 일본 열도와 두 달, 차원의 벽에 차단 된 대륙을 가지고 ㊥했다. 이 가운데 대륙을 덮고 있던 차원의 벽은 파계사변의 초반에 소멸했고, 두 ㊥달의 한쪽은 재세전쟁의 끝반에 소멸했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00012/Sheet1/000004",
+      "sourceBindingSha256": "0b8267a4753243cb36d878de77ae6cbe2884f761ec75e0b675509bdbfbd10437",
+      "sourceTextSha256": "51f08b760d1a572ef28fb7985f4c351227d35600a5fb0011b8869ff465656717",
+      "freshTranslation": "병행 세계의 하나(=『제2차 슈퍼 로봇 대전 Z』의 세계). ㊥ 그 이름은 「기원 세계」의 약자. ㊥세계 정세는 비교적 안정적이었지만, 대시공진동으로부터 20년 후, 파계사변과 재㊥세전쟁이라는 2개의 차원간 전쟁에 서서 계속 휩쓸린다. ㊥ 특징으로 두 개의 일본 열도와 두 달, 차원의 벽에 차단 된 대륙을 가지고 ㊥했다. 이 가운데 대륙을 덮고 있던 차원의 벽은 파계사변의 초반에 소멸했고, 두 ㊥달의 한쪽은 재세전쟁의 끝반에 소멸했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

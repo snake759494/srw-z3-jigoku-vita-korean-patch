@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00203",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00203/Sheet1/000002",
+      "sourceBindingSha256": "e960813b6e813c5ce4a194d8f0501769eb71b1d0d928def96d303d4860b05359",
+      "sourceTextSha256": "3484aadc86372a3f44d7a7e1245113812bb862342cb7f260c7ac088c31751ba9",
+      "freshTranslation": "부드럽게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00203/Sheet1/000003",
+      "sourceBindingSha256": "0ea3025184c0093e9d063e53cb19347e615fb143e3a8167e44d5c0f609b0edb8",
+      "sourceTextSha256": "3484aadc86372a3f44d7a7e1245113812bb862342cb7f260c7ac088c31751ba9",
+      "freshTranslation": "부드럽게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00203/Sheet1/000004",
+      "sourceBindingSha256": "0ff52df413d7d90eaf0462aa3809bdbdbfed859667a130833946913f557c5e62",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00203/Sheet1/000005",
+      "sourceBindingSha256": "545297134da7c2046101e5c3d4c58c543ae03fe86aee3746107f67c0b4cc7801",
+      "sourceTextSha256": "ad5ec82c1c2f2900178b203d1bcd6b625f9460a520765b19fb8dbf4015d76aca",
+      "freshTranslation": "광자력 연구소의 세 박사 중 한 명으로 로봇 공학의 권위. ㊥ 슬로우 모인 인상을 받는 이름이지만, 머리의 회전은 빠르다. ㊥ 다른 세 박사들과 공동으로 밀리언 α, 바이온 β, 다이온 γ 등 마징가 ㊥ 군단의 로봇을 개발하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00203/Sheet1/000006",
+      "sourceBindingSha256": "afc62276523be3f255c5ea319b1a64eea8e66644e376db8635bcc95e330dcec8",
+      "sourceTextSha256": "ad5ec82c1c2f2900178b203d1bcd6b625f9460a520765b19fb8dbf4015d76aca",
+      "freshTranslation": "광자력 연구소의 세 박사 중 한 명으로 로봇 공학의 권위. ㊥ 슬로우 모인 인상을 받는 이름이지만, 머리의 회전은 빠르다. ㊥ 다른 세 박사들과 공동으로 밀리언 α, 바이온 β, 다이온 γ 등 마징가 ㊥ 군단의 로봇을 개발하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00172",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00172/Sheet1/000002",
+      "sourceBindingSha256": "ea340f752821328cf7bd6bf9792d462ac3e5108a87a3849703a5aebb53085177",
+      "sourceTextSha256": "fe82c905a6215168a90a9b27d7eb05a7c47166cb9ec609a131f0bd7583092bde",
+      "freshTranslation": "THE 빅오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00172/Sheet1/000003",
+      "sourceBindingSha256": "c2917674c0a6bfa8c302376d1576eec75d1d21e83b02449ac6d527b71a0830c2",
+      "sourceTextSha256": "ec538a91787a453989084d69910e0efa67f7f128c193d811772339040f039a04",
+      "freshTranslation": "빅파우",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00172/Sheet1/000004",
+      "sourceBindingSha256": "a2bdf301e5a94c988cc3dd2dd5c9d4ec22f0f3b998f8fe3509350d1f657c1ba7",
+      "sourceTextSha256": "ec538a91787a453989084d69910e0efa67f7f128c193d811772339040f039a04",
+      "freshTranslation": "빅파우",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00172/Sheet1/000005",
+      "sourceBindingSha256": "8d38b54f3ae9a434bb1ff6e87366c9f4afaf334580b09391202f95cf7f0a7368",
+      "sourceTextSha256": "a1fb3b79391a25048e5089992339048d55dcb4ace560d2721804100611920ebb",
+      "freshTranslation": "알렉스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00172/Sheet1/000006",
+      "sourceBindingSha256": "05c3769d51b986da3f9aa84d18c935aeecd9b67c72767a47a1140eb4a37bdcc8",
+      "sourceTextSha256": "80745187b2e3079854a23fac3cba0597fbdbbc6243cbc3733af9c68076e663c4",
+      "freshTranslation": "알렉스 로즈워",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00172/Sheet1/000007",
+      "sourceBindingSha256": "edf38f356fccac399c7e018fe789b35db6939b89db19e34fd1cd89a0f6bef4fd",
+      "sourceTextSha256": "af07550820c552fd0bebfb13d9750af694b77fd0b0b758638c74238e7c9e094e",
+      "freshTranslation": "가 조종하는 하얀 메가데우스. ㊥ 육지의 빅오, 하늘의 빅 듀오에 대해서, 바다의 더 빅이라고도 할 수 있는 존재로, ㊥ 수중 활동을 자랑으로 하는 만들기가 되고 있다. ㊥ 이국의 땅에서 전신 엉망진창 상태에서 발견되었기 때문에, 알렉스는 유니온에게 회수를 ㊥ 의뢰. 메가데우스 3체에 각 파트를 짜넣어 패러다임 시티까지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00172/Sheet1/000008",
+      "sourceBindingSha256": "828413d1c0a0a6b439586df6b45ca09821803c2270a4fd3190da30fbd159deb8",
+      "sourceTextSha256": "e830f7302d5859b141457b4125d8f2e501623b053cda11a4f248d1178cbf2e59",
+      "freshTranslation": "바쳤다. ㊥ 패러다임사의 지하공장에서 과학부문이 가질 수 있는 기술을 결집해 조립했지만 코어 ㊥ 메모리가 부족했기 때문에 초진에서 폭주, 기능부전에 빠졌다. 하지만, ㊥ 후에 도로시에서 적출한 메모리 서킷을 짜넣어 코어 메모리로서 ㊥의 기능을 대행시키는 일로, 알렉스는 빅 파우를 완전하게 취급할 수 있게 되었다. ㊥ 등에서 뻗어있는 촉수 모양의 빔포, 어깨에서 쏟아내는 캐논포, 팔의 로우",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00172/Sheet1/000009",
+      "sourceBindingSha256": "f1e3a81d84c4261d40c089bab047e370e64652a5bba8582dd0a2f55e529b1d98",
+      "sourceTextSha256": "4f3ff00c61c39c6c048ba2528a92f012f87ac0e4b5aef2401f60797041ff71d8",
+      "freshTranslation": "를 돌려 ㊥ 돌려 공격하는 '코크스 스크류 펀치'가 무기이다. ㊥ 또한 로우",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00172/Sheet1/000010",
+      "sourceBindingSha256": "9c9c5f1d58e4bc15c2004a5301d4a7b3cfdf3b0e52951cc655a3e08098f8d530",
+      "sourceTextSha256": "1c10a69d65916eace96bbc8440243c84f3c99fdff801ea3b360d0f3495b327b3",
+      "freshTranslation": "을 스크류로 사용하는 것으로, 바다 속을 자유자재로 이동하는 것이 가능㊥능이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00172/Sheet1/000011",
+      "sourceBindingSha256": "2f8511a3dff2dbd7d0b5bd66daeef53f1905fd6ce3d84554a0e11c72a95ff4f2",
+      "sourceTextSha256": "80745187b2e3079854a23fac3cba0597fbdbbc6243cbc3733af9c68076e663c4",
+      "freshTranslation": "알렉스 로즈워",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00172/Sheet1/000012",
+      "sourceBindingSha256": "a68092e44360db57af35b7f7117a6a54aebe7de1787ec16eb7e155d9d291b803",
+      "sourceTextSha256": "af07550820c552fd0bebfb13d9750af694b77fd0b0b758638c74238e7c9e094e",
+      "freshTranslation": "가 조종하는 하얀 메가데우스. ㊥ 육지의 빅오, 하늘의 빅 듀오에 대해서, 바다의 더 빅이라고도 할 수 있는 존재로, ㊥ 수중 활동을 자랑으로 하는 만들기가 되고 있다. ㊥ 이국의 땅에서 전신 엉망진창 상태에서 발견되었기 때문에, 알렉스는 유니온에게 회수를 ㊥ 의뢰. 메가데우스 3체에 각 파트를 짜넣어 패러다임 시티까지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00172/Sheet1/000013",
+      "sourceBindingSha256": "6c0b82f5e89eb4e734f36ee6d531225ac093490e2184e7a6112bf295221768d1",
+      "sourceTextSha256": "e830f7302d5859b141457b4125d8f2e501623b053cda11a4f248d1178cbf2e59",
+      "freshTranslation": "바쳤다. ㊥ 패러다임사의 지하공장에서 과학부문이 가질 수 있는 기술을 결집해 조립했지만 코어 ㊥ 메모리가 부족했기 때문에 초진에서 폭주, 기능부전에 빠졌다. 하지만, ㊥ 후에 도로시에서 적출한 메모리 서킷을 짜넣어 코어 메모리로서 ㊥의 기능을 대행시키는 일로, 알렉스는 빅 파우를 완전하게 취급할 수 있게 되었다. ㊥ 등에서 뻗어있는 촉수 모양의 빔포, 어깨에서 쏟아내는 캐논포, 팔의 로우",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00172/Sheet1/000014",
+      "sourceBindingSha256": "85a861f8df51aff1b125864579b466098a57464fdb21e828e7c9f6bcf7023f1c",
+      "sourceTextSha256": "4f3ff00c61c39c6c048ba2528a92f012f87ac0e4b5aef2401f60797041ff71d8",
+      "freshTranslation": "를 돌려 ㊥ 돌려 공격하는 '코크스 스크류 펀치'가 무기이다. ㊥ 또한 로우",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00172/Sheet1/000015",
+      "sourceBindingSha256": "0f741c2ba2aeeb75572c8b0e68e4e001636fdca2ad43cde7f47a782c1551f4a9",
+      "sourceTextSha256": "3cf1911b6a513f89b6edd25dbf8f93c713dcc0555be891b25a1d81fc0376dd1f",
+      "freshTranslation": "을 스크류로 사용하는 것으로, 바다 속을 자유자재로 이동하는 것이 가능㊥능이다. ㊥ 한때는 빅오를 압도하고, 바다에 투기하는 것도, 재기동한 빅오의 「빅오㊥-파이널 스테이지」에 의해 반신을 잃고, 한층 더 갑자기 나타나는 빅비㊥누스에 의해 소멸되게 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

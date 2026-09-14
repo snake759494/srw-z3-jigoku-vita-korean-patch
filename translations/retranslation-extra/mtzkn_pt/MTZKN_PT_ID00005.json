@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00005",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00005/Sheet1/000002",
+      "sourceBindingSha256": "77197c536bd01e4a54c1a8f9843b89427ca4270d5dae7879750bc438e341fd5d",
+      "sourceTextSha256": "ce53e0a505d4cdde4584a4624fc8076a961cd1101c4d7383ebf0499535597171",
+      "freshTranslation": "스즈키 미에코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00005/Sheet1/000003",
+      "sourceBindingSha256": "1b83421220eff3eff4172e5a48e05b03ecc4c07788ed407c869b17fed811b560",
+      "sourceTextSha256": "adcbc4d7e38491291642db3cec0d317300cb3dae1f5fd1be6de4f9e74619fedb",
+      "freshTranslation": "미에코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00005/Sheet1/000004",
+      "sourceBindingSha256": "b549f652a8cb417b3895b2dbadd7512434d94b3df049f2ffb110e11b8ee4dcd1",
+      "sourceTextSha256": "77c406ff1c1b9634902fdd15ec771c2a07e20db9f0a6b53196dbf872ebd5aa4c",
+      "freshTranslation": "무적 로보 트라이더 G7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00005/Sheet1/000005",
+      "sourceBindingSha256": "15b615f407595e17c9f1fa5ff149fc39f741ce305c0013a35bc5f53f88b70ea7",
+      "sourceTextSha256": "bf737c4eb469e8c0b10c4773992f696ae9c97812ae5657b6492b672000203c1e",
+      "freshTranslation": "미도리가오카 초등학교 6년 2조의 담임 교사. 28세. ㊥ 와타를 비롯한 개성이 풍부한 학생이 많은 6년 2조를 잘 정리하고 있으며, 학생들 ㊥에서도 당황하고 있다. ㊥ 사장에서 초등학생이라고 하는 와타의 미묘한 입장에도 이해를 나타내고 있어 걱정하면서도 보내 ㊥ 내보내는 상냥한 선생님. ㊥ 옆의 클래스의 담임인 다이몬 선생님에게 호의를 받고 있지만, 너무 의도적으로 개입해 ㊥ 없는 모습이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00005/Sheet1/000006",
+      "sourceBindingSha256": "eae9ae6a383fcba0a2d3d4a62c20956e5ef2490d8a2234db419b45f22f8b000a",
+      "sourceTextSha256": "bf737c4eb469e8c0b10c4773992f696ae9c97812ae5657b6492b672000203c1e",
+      "freshTranslation": "미도리가오카 초등학교 6년 2조의 담임 교사. 28세. ㊥ 와타를 비롯한 개성이 풍부한 학생이 많은 6년 2조를 잘 정리하고 있으며, 학생들 ㊥에서도 당황하고 있다. ㊥ 사장에서 초등학생이라고 하는 와타의 미묘한 입장에도 이해를 나타내고 있어 걱정하면서도 보내 ㊥ 내보내는 상냥한 선생님. ㊥ 옆의 클래스의 담임인 다이몬 선생님에게 호의를 받고 있지만, 너무 의도적으로 개입해 ㊥ 없는 모습이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

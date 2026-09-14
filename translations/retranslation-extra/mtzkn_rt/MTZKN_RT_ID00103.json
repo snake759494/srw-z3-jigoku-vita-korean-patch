@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00103",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00103/Sheet1/000002",
+      "sourceBindingSha256": "48b1be3a1989b5e1b295459b4f9ba025cee0272d8cdfdfca99f6339351849e78",
+      "sourceTextSha256": "488b383f92e4f11b65e8a9c06a1cf89c6a23e90c2c7dd33cd82bdf88888ae2d7",
+      "freshTranslation": "상단을 되찾아라!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00103/Sheet1/000003",
+      "sourceBindingSha256": "d7703d0fb6dfdc19245ca3ff2caf806134defa666596a99dc43d936eee448efc",
+      "sourceTextSha256": "d40cb52134bb1b312da512097f2b131f3b8412eb7c8403e4f435aae18acf70ea",
+      "freshTranslation": "우주 괴수·병대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00103/Sheet1/000004",
+      "sourceBindingSha256": "619b21b873dbb63b3bead5c7054a3f774cd3aa3fb466d0795cacb543df4cca5a",
+      "sourceTextSha256": "d40cb52134bb1b312da512097f2b131f3b8412eb7c8403e4f435aae18acf70ea",
+      "freshTranslation": "우주 괴수·병대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00103/Sheet1/000005",
+      "sourceBindingSha256": "ecee332b1b8a82cf86802987d9d36a217562f9c2259c766cef5d949bde957c91",
+      "sourceTextSha256": "d426a975d9be360b06a83142c17f17b0f63a43b495b2a038a82e58e3a0a93370",
+      "freshTranslation": "가장 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00103/Sheet1/000006",
+      "sourceBindingSha256": "b9673d053d317bffae905346932b760dca554103e823372de834df8a2cb59d0c",
+      "sourceTextSha256": "0488d16ccf4aa629417ad91ef64049cbae1a1212525c36cfd63521b320113ed2",
+      "freshTranslation": "10m급 우주 괴수. 정식 학명은 「바보라」. ㊥ 상륙정 내부에 기생하고 있으며, 상륙정에서 돌격 후 방출되어 전투를 한다. ㊥ 개체수는 최대이지만, 생식기관도 소화기관도 가지지 않고, 방출 후 2~3시간 후에는 사멸한다㊥ 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00103/Sheet1/000007",
+      "sourceBindingSha256": "256703adf7840fdab62b8c3bab99566ceea2eaf475d150991aeffd9d3aace25b",
+      "sourceTextSha256": "d426a975d9be360b06a83142c17f17b0f63a43b495b2a038a82e58e3a0a93370",
+      "freshTranslation": "가장 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00103/Sheet1/000008",
+      "sourceBindingSha256": "386785ad51d4ba9ba412aacd049ea4d14ac63373505a5f8a79ff37eab5f9bfd0",
+      "sourceTextSha256": "0488d16ccf4aa629417ad91ef64049cbae1a1212525c36cfd63521b320113ed2",
+      "freshTranslation": "10m급 우주 괴수. 정식 학명은 「바보라」. ㊥ 상륙정 내부에 기생하고 있으며, 상륙정에서 돌격 후 방출되어 전투를 한다. ㊥ 개체수는 최대이지만, 생식기관도 소화기관도 가지지 않고, 방출 후 2~3시간 후에는 사멸한다㊥ 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

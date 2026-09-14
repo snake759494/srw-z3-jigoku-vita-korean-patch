@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00041",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00041/Sheet1/000002",
+      "sourceBindingSha256": "b2f5b08c586b9108463bec66dea4e7b73482e9cc272a18ef5b2c13e7636c7a62",
+      "sourceTextSha256": "281d0f7bfa7162567f0e2b1c4fdb1050f7e39347cbdcfe37b69072e13340bfe5",
+      "freshTranslation": "체로키 수석",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00041/Sheet1/000003",
+      "sourceBindingSha256": "cfd051e7c5d13f459ed82f40057234f0a842a51e8d429e66f977065cb197df71",
+      "sourceTextSha256": "0b297c04ccbd9d836e91c0360d875fe7a8f1b55e9474876984aaa15a1b4fbc0f",
+      "freshTranslation": "체로키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00041/Sheet1/000004",
+      "sourceBindingSha256": "6212a8cd342d2a0897e3af1e59e7e31c5382d6b89380e00383c87f9993c7f1dd",
+      "sourceTextSha256": "d6da0d732e53cf9ec71ba1b1163d4c980ff617b1f4caa65741721bae9928ed9a",
+      "freshTranslation": "장갑 기병 보텀스 빅 배틀",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00041/Sheet1/000005",
+      "sourceBindingSha256": "7d73887e1bd21a26acc746350237d7ef7cc306b6e3d7fef9f5f5925f1b83fd63",
+      "sourceTextSha256": "f9d54d946176ae1903cfdf51adbb17089687cbc0b2544b47aa755a2e61a24829",
+      "freshTranslation": "아 코바 도시의 배틀링 매치 메이커. ㊥ 고우트는 옛 지식의 사이이며, 그와 닮은, 따뜻한 성격의 소유자.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00041/Sheet1/000006",
+      "sourceBindingSha256": "c623d0f8d2cf604deaca821dabf646c0bb202291836fb661f5b2c32d276be3f0",
+      "sourceTextSha256": "c8e61b0124e86689db31be18a9c0797810e4a4860abc0c3bb828f11c5d821fae",
+      "freshTranslation": "아 코바 도시의 배틀링 매치 메이커. ㊥ 고우트는 옛 지식의 사이이며, 그와 닮은, 따뜻한 성격의 소유자. ㊥ 고우트에게는 돈 이야기로, 키리코와 니바의 리얼 배틀을 들고도, 키리코㊥가 승차하지 않는다고 알면 밸런트와 결탁. 그 결과, 피아나는 납치되었고, 키리코는 강한 ㊥ 당겨 배틀링에 참가하도록 봉사되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

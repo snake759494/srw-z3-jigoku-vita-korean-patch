@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00158",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00158/Sheet1/000002",
+      "sourceBindingSha256": "17fe8861c2b0d0167cea11b653d99b11ef71892e41192234f46a86ef1dc45c38",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00158/Sheet1/000003",
+      "sourceBindingSha256": "ce73835cd3617359e0f599e6c42c1161fecee6b3da825ff06e875b10fa7c582b",
+      "sourceTextSha256": "33932d5d5d93308b2ac8fa6ac539e4989a0efa4f541450708852ddd6c785c8e9",
+      "freshTranslation": "그로고스 G5",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00158/Sheet1/000004",
+      "sourceBindingSha256": "642212e267714a3c66e5d472013ebac5cf69457d6079a90d77bbb62486c6434b",
+      "sourceTextSha256": "33932d5d5d93308b2ac8fa6ac539e4989a0efa4f541450708852ddd6c785c8e9",
+      "freshTranslation": "그로고스 G5",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00158/Sheet1/000005",
+      "sourceBindingSha256": "5c0ffeb7c5438981420ef7e487271f9e58c5e443117a388ae1ed7e3110153bab",
+      "sourceTextSha256": "10263d70b73c24fb18de8eaa255f1817b0cd2239adc5819500d816faf0c178fb",
+      "freshTranslation": "제24화 『사선! 총 공격 Dr. 헬! 』에 등장한 기계 짐승. ㊥ 아슈라 남작과의 결투를 위해 십국 고개에 온 마징가 Z를 매복하고 고우㊥ 큐 U5, 우라아 P9, 바마라스 Y1, 버진 B6, 압도라 U6, 도그라 S㊥1, 마그라 F2와의 연계로 궁지로 쫓았다. ㊥마지막은 갓 스크랜더와 합체한 마징가 Z의 로켓 펀치를 안면에 받아 ㊥로 파괴되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00158/Sheet1/000006",
+      "sourceBindingSha256": "72f226be94ed84f31c3a238c30c8baa23969529c96eec02f4de13eb33a302cee",
+      "sourceTextSha256": "10263d70b73c24fb18de8eaa255f1817b0cd2239adc5819500d816faf0c178fb",
+      "freshTranslation": "제24화 『사선! 총 공격 Dr. 헬! 』에 등장한 기계 짐승. ㊥ 아슈라 남작과의 결투를 위해 십국 고개에 온 마징가 Z를 매복하고 고우㊥ 큐 U5, 우라아 P9, 바마라스 Y1, 버진 B6, 압도라 U6, 도그라 S㊥1, 마그라 F2와의 연계로 궁지로 쫓았다. ㊥마지막은 갓 스크랜더와 합체한 마징가 Z의 로켓 펀치를 안면에 받아 ㊥로 파괴되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

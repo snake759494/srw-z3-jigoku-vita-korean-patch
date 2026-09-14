@@ -1,0 +1,73 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0010",
+    "fileName": "STG0010.cpk",
+    "target": "DATA/STAGE/STG0010.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "924ea34ffe078d3e6ff3ea9c14177451d5aada2baf65a3618996ecd92e641d73"
+  },
+  "entries": [
+    {
+      "entryId": "STG0010/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "적의 전멸",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0010/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "키리코의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0010/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "맵 클리어까지 특정 파일럿이\n적을 5기 이상 격추시킨다\n격추 수는 「전황보고」에서 확인할 수 있다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0010/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0010/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "소스케의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

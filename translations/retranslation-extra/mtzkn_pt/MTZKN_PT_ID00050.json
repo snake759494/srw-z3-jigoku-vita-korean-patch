@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00050",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00050/Sheet1/000002",
+      "sourceBindingSha256": "59d4453abf71320e84e3ac462bce8f1dfd5ec817e9f591612d548108a4ad5bd9",
+      "sourceTextSha256": "f552439b8bfeb8a7b866c092b3926c46531f2e6b502d6804673aa46870b8dd85",
+      "freshTranslation": "올슨 D 베른",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00050/Sheet1/000003",
+      "sourceBindingSha256": "e7bec90816b1b5362eb9d49fffd9e877371c4921a75da6a1fbb680498d986f4d",
+      "sourceTextSha256": "bc32e64fc16e7351204c16bc96164456490e5629355ead3bf275c1477cbc8735",
+      "freshTranslation": "올슨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00050/Sheet1/000004",
+      "sourceBindingSha256": "c72e922c4653cdd82fa60da9d54f914c2977be0312fa0156ceaf44ae82095c51",
+      "sourceTextSha256": "55d4cef583236d8712832b2fc554334775bc8e806e1a513982cf659d564d844f",
+      "freshTranslation": "초시공세기 오거스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00050/Sheet1/000005",
+      "sourceBindingSha256": "8b4dbc0c342e6602f5cec0e6bb62ecc84cd0323500a139c3721e60d0c3b3c3a1",
+      "sourceTextSha256": "6986400995e4c88a29cc550a1d12218ddb2c3143d49702ff122617a506b9df18",
+      "freshTranslation": "상극계에 폐쇄된 세계에서 또 하나의 특이점이라고 불리게 된 청년. ㊥카츠라와는 같은 해의 태생이었지만, 혼란 시공에는 카츠라보다 5년 빨리 출현한 것에 의해, ㊥연령도 5세 연상의 25세가 되고 있다. ㊥ 혼란시 공세기에 출현했을 때, 티람군의 마이클 헨더슨 장군의 보호를 받아 ㊥한다. 그 인연도 있어, 장군의 애녀 티나와 마찬가지로 손자의 아테나를 만난다. 티나와 마이㊥ 켈이 무우의 공격으로 사망한 뒤는 아테나의 보호자 겸 교관으로서 공내에게 건너 그녀의 ㊥지원이 되었다. ㊥특이점이라는 중요한 인물인 일과 혼란 시공 이전의 공적을 인정받아 티람군에서는 ㊥특무 소장이라는 파격의 대우를 받고 있다. 카츠라 모두 처음에는 대립하고 있었지만, 티람이 특㊥ 이점을 이용하지 않는 시공 수리 계획을 추진하고 나서는 군을 빠져, 같은 목적을 위해서 싸우는 친구㊥로 돌아왔다. ㊥ 최후는 카츠라와 함께 대특이점에 돌입해, 과거의 자신과 대치. 혼란에 결착을 붙이기 위해 당겨 ㊥ 철을 당겼다. ㊥ 에필로그에서 흐른 무한한 미래의 가능성 속에는 아테나와 입을 주고받는 모습도 아 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00050/Sheet1/000006",
+      "sourceBindingSha256": "6be7f33b992f84deefb443b5bff49ae614a6e5d5f1712a5610e21147fc72ee8d",
+      "sourceTextSha256": "6986400995e4c88a29cc550a1d12218ddb2c3143d49702ff122617a506b9df18",
+      "freshTranslation": "상극계에 폐쇄된 세계에서 또 하나의 특이점이라고 불리게 된 청년. ㊥카츠라와는 같은 해의 태생이었지만, 혼란 시공에는 카츠라보다 5년 빨리 출현한 것에 의해, ㊥연령도 5세 연상의 25세가 되고 있다. ㊥ 혼란시 공세기에 출현했을 때, 티람군의 마이클 헨더슨 장군의 보호를 받아 ㊥한다. 그 인연도 있어, 장군의 애녀 티나와 마찬가지로 손자의 아테나를 만난다. 티나와 마이㊥ 켈이 무우의 공격으로 사망한 뒤는 아테나의 보호자 겸 교관으로서 공내에게 건너 그녀의 ㊥지원이 되었다. ㊥특이점이라는 중요한 인물인 일과 혼란 시공 이전의 공적을 인정받아 티람군에서는 ㊥특무 소장이라는 파격의 대우를 받고 있다. 카츠라 모두 처음에는 대립하고 있었지만, 티람이 특㊥ 이점을 이용하지 않는 시공 수리 계획을 추진하고 나서는 군을 빠져, 같은 목적을 위해서 싸우는 친구㊥로 돌아왔다. ㊥ 최후는 카츠라와 함께 대특이점에 돌입해, 과거의 자신과 대치. 혼란에 결착을 붙이기 위해 당겨 ㊥ 철을 당겼다. ㊥ 에필로그에서 흐른 무한한 미래의 가능성 속에는 아테나와 입을 주고받는 모습도 아 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00338",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00338/Sheet1/000002",
+      "sourceBindingSha256": "092efea6bcca65f512fae76d285de79adfc7ad2b8b9eabfc0d497d6b309f185b",
+      "sourceTextSha256": "50768645487f3f919a01f445be2e6100bd2b1c972d127502f6e55ffc0d20ed27",
+      "freshTranslation": "이카리 겐도우",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00338/Sheet1/000003",
+      "sourceBindingSha256": "9350747f78aa2fa8350c5d2ef2b15cae65b0bff0f27103549652d83f1ba48d11",
+      "sourceTextSha256": "37bdf538d39a7e609e2e47a178a864b137a17b002f9298ee9f791c49395ce82e",
+      "freshTranslation": "겐도우",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00338/Sheet1/000004",
+      "sourceBindingSha256": "796adb8fab5dd2da0a08c698b369b4b2748684f346cb7a3469436218d5516c87",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00338/Sheet1/000005",
+      "sourceBindingSha256": "c849d7d832c2d8e0571ecae463fa1b4f96f2ca60594814c74175a1e6fb61554c",
+      "sourceTextSha256": "2ff2d24e0d7cacff3907e2905929070bccaad7efd954b1b6c09e40d7ac298715",
+      "freshTranslation": "특무기관 NERV의 최고 사령관. 48세. ㊥NERV를 이끌고 사도와 싸우는 뒤에서 SEELE의 생명에 의해 은밀하게 인류 보완 계획을 ㊥ 진행하고 있다. ㊥ 신지의 아버지이지만, 아들에게 유무를 말하지 않는 접하는 방법을 하기 때문에, 부모와 자식 관계는 양호한 ㊥라고는 말할 수 없다. ㊥ 항상 냉혹한 태도이며,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00338/Sheet1/000006",
+      "sourceBindingSha256": "389ebf5c0c1b2533c04f5a6a9c29e5a64f099a5d7cc68b0655c116922279daac",
+      "sourceTextSha256": "cb689a052b70f7e19994d7a766078669212c86dfc0e79a98f36f42980446d6ad",
+      "freshTranslation": "의를 결코 표에 보이지 않는다. 단 하나의 예외가 레이 ㊥과의 관계이며, 레이와는 웃는 얼굴로 대화를 하고, 그녀가 실험 중에 위험한 상태가 되면 느낌㊥정을 드러내 도움으로 향하는 일도 있다. ㊥ 때때로 죽은 아내 유이의 묘참에 방문한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00338/Sheet1/000007",
+      "sourceBindingSha256": "f261d4b28f8c7d33f9099abf1f370e3bc87a91534516d744dfd3e66bf003f1b6",
+      "sourceTextSha256": "2ff2d24e0d7cacff3907e2905929070bccaad7efd954b1b6c09e40d7ac298715",
+      "freshTranslation": "특무기관 NERV의 최고 사령관. 48세. ㊥NERV를 이끌고 사도와 싸우는 뒤에서 SEELE의 생명에 의해 은밀하게 인류 보완 계획을 ㊥ 진행하고 있다. ㊥ 신지의 아버지이지만, 아들에게 유무를 말하지 않는 접하는 방법을 하기 때문에, 부모와 자식 관계는 양호한 ㊥라고는 말할 수 없다. ㊥ 항상 냉혹한 태도이며,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00338/Sheet1/000008",
+      "sourceBindingSha256": "980b8ae75a78c19b78a16641c9b96d7769a843b2764052effd3d4917752316d6",
+      "sourceTextSha256": "f178784dd7ef846d3faef68a247ac0820cc797ce9563d47b399a3ae37241a78a",
+      "freshTranslation": "의를 결코 표에 보이지 않는다. 단 하나의 예외가 레이 ㊥과의 관계이며, 레이와는 웃는 얼굴로 대화를 하고, 그녀가 실험 중에 위험한 상태가 되면 느낌㊥정을 드러내 도움으로 향하는 일도 있다. ㊥ 때때로 죽은 아내 유이의 묘참에 방문해 한 번은 신지도 동행시켰다. ㊥ 이윽고 싸움 속에서 신지를 인정하는 말을 걸게 되고, 신지도 그것을 기뻐한다. ㊥ 그런 두 사람의 마음을 접근시키려고 레이는 식사회를 기획하지만, 3호기가 사도에게 침식㊥된 사건을 계기로 부모와 자식 관계는 수리 불가능한 정도로 악화되어 버린다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

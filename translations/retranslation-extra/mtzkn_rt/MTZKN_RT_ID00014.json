@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00014",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00014/Sheet1/000002",
+      "sourceBindingSha256": "17e58000e99075831461a640e2a072e0ce988b2159d86ad1794d47cf1c60e546",
+      "sourceTextSha256": "2821f723e708a26125b2215f86a494a31e2eb1a3f45f2c6e857b2cc6d0a13f93",
+      "freshTranslation": "롯신 합체 갓 마즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00014/Sheet1/000003",
+      "sourceBindingSha256": "f1c05d277b49c1368e4c8bc942b1d045a243e0b62de128d9eb2116ae0226c5f7",
+      "sourceTextSha256": "a311dc4a724260e43c163d48f1169550f1cdae791edfb34bb510fcaa7671b7a6",
+      "freshTranslation": "코스모 크러셔",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00014/Sheet1/000004",
+      "sourceBindingSha256": "0706fb7eb68dd5342795ffab07e9318fd828242d0db2665c5f520ddf91327418",
+      "sourceTextSha256": "a311dc4a724260e43c163d48f1169550f1cdae791edfb34bb510fcaa7671b7a6",
+      "freshTranslation": "코스모 크러셔",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00014/Sheet1/000005",
+      "sourceBindingSha256": "3695313f4bef58869476a0510687ad5b4cd68058d670c4aa7642df0f74b10dd2",
+      "sourceTextSha256": "89ec37a60df771ec3fb45d5f562d6ef7e34d466cdabc4a6c2c19bb527f475611",
+      "freshTranslation": "아스카 켄지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00014/Sheet1/000006",
+      "sourceBindingSha256": "b3ec18e815f5f279213100f62f1475b334f189a728fae031800b373c5be6c845",
+      "sourceTextSha256": "c116d0d711f57ca6d2e11b7ab3b6f914dc52c5a27b5e3778b8f72dfbf931400e",
+      "freshTranslation": "크러셔대가 타는 전투기. ㊥ 켄지 지휘, 아키라 조종, 나오토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00014/Sheet1/000007",
+      "sourceBindingSha256": "399487a100c717ad999123775e6aeb8232ddbf4c846689e6189ad97f093a67c7",
+      "sourceTextSha256": "d8d0f3f3f700ca27e4e84b2d8c7c6ba4642cd6da76a1b7508bcad3d40ff72e80",
+      "freshTranslation": "켈이 공격, 미카가 통신·색적을 담당하는 ㊥ 한다. 로제도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00014/Sheet1/000008",
+      "sourceBindingSha256": "463cec64c0a111eab3acfa20b98a7ab1b88cc2e6eeb650c47f4278566accb729",
+      "sourceTextSha256": "4a30cfcff8e9731dba214b9dfb941cd29a340b63d419273432fa0291ac7a5bf0",
+      "freshTranslation": "켈들에게 협력을 맹세한 후는 코스모 크러셔에 탑승해,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00014/Sheet1/000009",
+      "sourceBindingSha256": "6b81550e4497d46dbdf6be8de16f765f750550ff6b8e95e1669b8c959d1c2481",
+      "sourceTextSha256": "28bad290bb96fc7f184c3abb13bc435fdbe0e0ff54fea0c0bda7d0c75fbbde47",
+      "freshTranslation": "켈을 대신해 ㊥은 공격을 담당했다. ㊥ 대기권 내외를 불문하고 장시간 비행 및 활동이 가능한 만능기이다. 통상 때에는 쿠㊥ 래셔대의 발로서, 전투시에는 적 전투기와의 직접 전투로부터 가이어나 고드마㊥즈의 원호역으로서, 종횡무진의 일을 보였다. ㊥ 몸통·기수 부분이 되는 1호기와 후부·주익 부분이 되는 2호기가 합체하여 형성되어㊥ 있다. 또한 내부에는 작습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00014/Sheet1/000010",
+      "sourceBindingSha256": "f393f3aff9dce66eb2600b7defa25e528805c1015fc017ec0504cdd9462a53a2",
+      "sourceTextSha256": "e6563a4e93bfb0d65b09136bfb9db03a2d37cfe9646c05bd3c88a6a439adbd48",
+      "freshTranslation": "의 3호기를 탑재하고 있어, 3기에 분리해 사방으로부터 공격㊥을 걸는 「트리플 레이저」는, 숨이 있던 크러셔대만이 가능한 제휴 공격㊥이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00014/Sheet1/000011",
+      "sourceBindingSha256": "ef25a20d5ad6b7e1aab24f6ad41db58a587bac13d1f1d7e10d5eae3b7455724e",
+      "sourceTextSha256": "c116d0d711f57ca6d2e11b7ab3b6f914dc52c5a27b5e3778b8f72dfbf931400e",
+      "freshTranslation": "크러셔대가 타는 전투기. ㊥ 켄지 지휘, 아키라 조종, 나오토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00014/Sheet1/000012",
+      "sourceBindingSha256": "1316b06636684cdf75ba7c9c6306ffe7f11fd71f7e6aa2e20080d6fa7ff7a041",
+      "sourceTextSha256": "d8d0f3f3f700ca27e4e84b2d8c7c6ba4642cd6da76a1b7508bcad3d40ff72e80",
+      "freshTranslation": "켈이 공격, 미카가 통신·색적을 담당하는 ㊥ 한다. 로제도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00014/Sheet1/000013",
+      "sourceBindingSha256": "8d242610daebe0786093d48031e3cf5d2bc3f06bfa8539294588e44c69c16d69",
+      "sourceTextSha256": "4a30cfcff8e9731dba214b9dfb941cd29a340b63d419273432fa0291ac7a5bf0",
+      "freshTranslation": "켈들에게 협력을 맹세한 후는 코스모 크러셔에 탑승해,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00014/Sheet1/000014",
+      "sourceBindingSha256": "2315cc52667290c2e003bb8e026ff1c5dcd85121362a1cbb4db80fcd0066b208",
+      "sourceTextSha256": "28bad290bb96fc7f184c3abb13bc435fdbe0e0ff54fea0c0bda7d0c75fbbde47",
+      "freshTranslation": "켈을 대신해 ㊥은 공격을 담당했다. ㊥ 대기권 내외를 불문하고 장시간 비행 및 활동이 가능한 만능기이다. 통상 때에는 쿠㊥ 래셔대의 발로서, 전투시에는 적 전투기와의 직접 전투로부터 가이어나 고드마㊥즈의 원호역으로서, 종횡무진의 일을 보였다. ㊥ 몸통·기수 부분이 되는 1호기와 후부·주익 부분이 되는 2호기가 합체하여 형성되어㊥ 있다. 또한 내부에는 작습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00014/Sheet1/000015",
+      "sourceBindingSha256": "745b3eef1dc3533a18a9833d9ba288eb63e041e303e0d56552bab229ab8aabe6",
+      "sourceTextSha256": "e6563a4e93bfb0d65b09136bfb9db03a2d37cfe9646c05bd3c88a6a439adbd48",
+      "freshTranslation": "의 3호기를 탑재하고 있어, 3기에 분리해 사방으로부터 공격㊥을 걸는 「트리플 레이저」는, 숨이 있던 크러셔대만이 가능한 제휴 공격㊥이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00023",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00023/Sheet1/000002",
+      "sourceBindingSha256": "d1efbbc7a1019258bf9015c9dabf131bfdc5354b6a347e962b3a4541261ff167",
+      "sourceTextSha256": "89ec37a60df771ec3fb45d5f562d6ef7e34d466cdabc4a6c2c19bb527f475611",
+      "freshTranslation": "아스카 켄지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00023/Sheet1/000003",
+      "sourceBindingSha256": "aa0fb52cf56787365e334619ffc2c0fb9a6a3e073956d9d27059a0cf885d9d49",
+      "sourceTextSha256": "f8ce59b6f3add56e1e47315d1e049f67552b97c45b12d632d636dee4140cd5fa",
+      "freshTranslation": "켄지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00023/Sheet1/000004",
+      "sourceBindingSha256": "48580309db82c1fb3b5cb534c80553a5a4180faaa2c1ed80676ef378dc72448e",
+      "sourceTextSha256": "2821f723e708a26125b2215f86a494a31e2eb1a3f45f2c6e857b2cc6d0a13f93",
+      "freshTranslation": "롯신 합체 갓 마즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00023/Sheet1/000005",
+      "sourceBindingSha256": "9e0e63939f7f5d8d29ad48affdeb816ff59191c7cec394b3c40b6c4c894e8225",
+      "sourceTextSha256": "b326ea11394628df9b5a1bafd210361acc8a0c6c8d7463447b2a4f2aa2979a94",
+      "freshTranslation": "이시마루 히로야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00023/Sheet1/000006",
+      "sourceBindingSha256": "dc676e11fe00ccc9a58a6bd82c64d7c75809fa0305010452bbbc24cc2b3cbad9",
+      "sourceTextSha256": "f9091c7460a9de6ef8782adba332a3a0c2a59adef186b9105f8e465fa7ec652d",
+      "freshTranslation": "오츠카 장관 직속의 특수 부대인 크러셔대의 대장. 24세. ㊥ 어떤 때라도 냉정하고 마음을 흐트러뜨리는 일이 없고, 오츠카 장관이나 대원들로부터의 신뢰는 두껍다. 대㊥장이라는 입장의 무게를 십이분에 이해하고 있으며 책임감도 매우 강하다. ㊥ 기신성과의 싸움에서는 현장에서의 전투 지휘를 담당하고, 크러셔대는 그의 지시에 따라 ㊥라고 싸웠다. ㊥ 그 후는 우주 정거장 케레스의 사령관이 되어 활동의 폭을 넓혔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00023/Sheet1/000007",
+      "sourceBindingSha256": "942699f9ed6d31ce74fbc37d19cc66cf3dd97bbc8232bf29457463da087f50cc",
+      "sourceTextSha256": "f9091c7460a9de6ef8782adba332a3a0c2a59adef186b9105f8e465fa7ec652d",
+      "freshTranslation": "오츠카 장관 직속의 특수 부대인 크러셔대의 대장. 24세. ㊥ 어떤 때라도 냉정하고 마음을 흐트러뜨리는 일이 없고, 오츠카 장관이나 대원들로부터의 신뢰는 두껍다. 대㊥장이라는 입장의 무게를 십이분에 이해하고 있으며 책임감도 매우 강하다. ㊥ 기신성과의 싸움에서는 현장에서의 전투 지휘를 담당하고, 크러셔대는 그의 지시에 따라 ㊥라고 싸웠다. ㊥ 그 후는 우주 정거장 케레스의 사령관이 되어 활동의 폭을 넓혔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

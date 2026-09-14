@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "canonicalTranslationWorkbookRoot": "01_스테이지 xlsx 모음",
+  "controlTokens": ["⑲", "⑳", "㊥", "㊦", "㊧", "㊨", "$n", "$l", "$c"],
+  "equivalentControlTokens": {
+    "$ｎ": "$n",
+    "$ｌ": "$l",
+    "$ｃ": "$c",
+    "＄ｎ": "$n",
+    "＄ｌ": "$l",
+    "＄ｃ": "$c"
+  },
+  "controlSignature": {
+    "serialization": "compact-json-array-string",
+    "emptyValue": "[]",
+    "normalization": "control-tokens-only-no-nfkc"
+  },
+  "statuses": ["imported", "review", "approved", "blocked"],
+  "releaseAllowedStatuses": ["approved"],
+  "releaseRequirements": {
+    "reviewer": {"required": true, "minLength": 1},
+    "sourceArtifactSha256": {
+      "required": true,
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "payloadSha256": {
+      "required": true,
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "encodedLength": {"required": true, "allowNull": false},
+    "mappingSha256": {
+      "requiredAtAssetProfile": true,
+      "pattern": "^[0-9a-f]{64}$"
+    }
+  },
+  "checks": {
+    "uniqueEntryId": true,
+    "preserveControlSignature": true,
+    "rejectUnmappedCharacters": true,
+    "rejectEncodedLengthOverflow": true,
+    "flagSourceEqualsTranslation": true,
+    "flagJapaneseRemainder": true,
+    "requireSourceArtifactSha256": true,
+    "requirePayloadSha256ForRelease": true,
+    "requireMappingSha256ForRelease": true,
+    "requireReviewerForRelease": true,
+    "requireEncodedLengthForRelease": true
+  }
+}

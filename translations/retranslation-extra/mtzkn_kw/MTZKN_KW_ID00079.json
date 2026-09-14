@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00079",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00079/Sheet1/000002",
+      "sourceBindingSha256": "e4901166bfb34f6e220f5bd2bb2198438a3f77e6d06abba28ad3397f8893853d",
+      "sourceTextSha256": "d1a424bced33babc697dc17392983ef6d01ea7711ada33f6eef222bffad05408",
+      "freshTranslation": "공장",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00079/Sheet1/000003",
+      "sourceBindingSha256": "78e75e0d25c98b5ed39128dfd8914446cae9a584516e11272c0ce1e93f988b86",
+      "sourceTextSha256": "b32f3283f80d7caf29d28fd55849a9c647ab2f8c197870f3e239d695ed4d21e2",
+      "freshTranslation": "「초시 공세기 오거스」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00079/Sheet1/000004",
+      "sourceBindingSha256": "1145725e4688c51b1e7f06806b390362c733a4e5e47537fa998fc7c28d2199a9",
+      "sourceTextSha256": "9b5be5e3de4538df58be29a6077d58e12e067b31bbdda2a02a3c154a9681c5d5",
+      "freshTranslation": "글로마에서 전 세계를 여행하는 에만의 캐러밴. ㊥ 리더는 샤이아 토브. ㊥20년 전 지구로부터",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00079/Sheet1/000005",
+      "sourceBindingSha256": "c4fc755ef23e977329d5ec67dccfd75985cd73a746d9ee3dded3fdb40f638398",
+      "sourceTextSha256": "8d7d09fb944075bd9eaffd830fbbc643f599f1029757ab39757231818f162630",
+      "freshTranslation": "임슬립해온 가쓰라기 가쓰라도 여기에 소속되어, 거기서 ㊥ 알게 된 밈지 러스와의 사이에 아이를 벌었다. ㊥ 시공 수복의 열쇠인 특이점을 둘러싸고, 모국 에만, 그것과 적대하는 국가에서 ㊥ 있는 티람의 양쪽으로부터 쫓기는 시기도 있었다. 그러나 궁극적으로는 양자의 하시도 ㊥적인 역할을 완수하고 시공복구에 크게 공헌했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00079/Sheet1/000006",
+      "sourceBindingSha256": "f561879cc33cb733e347c237b2193d03052caf2b01657c278d58b4783a3449ee",
+      "sourceTextSha256": "9b5be5e3de4538df58be29a6077d58e12e067b31bbdda2a02a3c154a9681c5d5",
+      "freshTranslation": "글로마에서 전 세계를 여행하는 에만의 캐러밴. ㊥ 리더는 샤이아 토브. ㊥20년 전 지구로부터",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00079/Sheet1/000007",
+      "sourceBindingSha256": "3d9335ad90a4e0196b4b8f6acad498ae88beb4d106e39f398590b5607389ad38",
+      "sourceTextSha256": "8d7d09fb944075bd9eaffd830fbbc643f599f1029757ab39757231818f162630",
+      "freshTranslation": "임슬립해온 가쓰라기 가쓰라도 여기에 소속되어, 거기서 ㊥ 알게 된 밈지 러스와의 사이에 아이를 벌었다. ㊥ 시공 수복의 열쇠인 특이점을 둘러싸고, 모국 에만, 그것과 적대하는 국가에서 ㊥ 있는 티람의 양쪽으로부터 쫓기는 시기도 있었다. 그러나 궁극적으로는 양자의 하시도 ㊥적인 역할을 완수하고 시공복구에 크게 공헌했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

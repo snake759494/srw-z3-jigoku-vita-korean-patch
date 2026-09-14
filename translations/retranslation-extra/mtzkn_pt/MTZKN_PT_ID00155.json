@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00155",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00155/Sheet1/000002",
+      "sourceBindingSha256": "480d6315e6efdcd805e277dc8c6c76f1c94bed93b268f4474d89f4035e6bd690",
+      "sourceTextSha256": "e2ed68115f322f1fea0394aa81a2251ecd7e66d8d7fbeaa0099dd1a5dacbd49e",
+      "freshTranslation": "오드리 번",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00155/Sheet1/000003",
+      "sourceBindingSha256": "f265a3b6233dc558b6be68fce75134f6f9df4270a11df04159f63eb0570f6888",
+      "sourceTextSha256": "275b5717c58f3061ea774b405d1571941f6d20bda75c70114599ed18ce1b66c1",
+      "freshTranslation": "오드리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00155/Sheet1/000004",
+      "sourceBindingSha256": "7fe447f2da0ff31325e2855d69536a87930277ce560d84725ac47996bcc05ca6",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00155/Sheet1/000005",
+      "sourceBindingSha256": "49e192afa6218e66676384b27d4398c586f3ef4764eaba073ab71f0fd9c245a3",
+      "sourceTextSha256": "6412e3c314ba0b271e7932fe2c0b373704cf71b9562e784f84fcf35be8842d45",
+      "freshTranslation": "후지무라 걸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00155/Sheet1/000006",
+      "sourceBindingSha256": "2c200e1dbc08fb4daab45275bba9d3af6b07a4a2753e65a19de120364473ba19",
+      "sourceTextSha256": "4f5409055bee6f550ec6bca7786ba69fd6e1919797e30b6000b2b1ded0857d20",
+      "freshTranslation": "인더스트리얼 7에서 배너지가 도왔던 소녀. ㊥ 때때로 날카로운 통찰력과 위엄을 보여 에메랄드색 눈동자에는 강한 의지가 담겨 있다. ㊥전쟁을 멈추기 위해, 우연히 알게 된 배너지와 함께 카디아스 아래로 향해㊥우도, 협상은 결렬해, 연금되어 버린다. ㊥ 그 후 전투에 휘말려 배너지들과 함께 네엘 아가마에 수용된다. ㊥ 조금 세상 모르는 곳이 있어, 핫도그를 먹을 때에 서식에 당황하거나 ㊥ 하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00155/Sheet1/000007",
+      "sourceBindingSha256": "60164f49c0f1ad826122cb6203da2657adb44bc7c6ef05be4be0e207f0395a06",
+      "sourceTextSha256": "bacca7bf02c1392a63def3dee572e31eb1450baadef9edc47a4e3c586c2db912",
+      "freshTranslation": "인더스트리얼 7에서 배너지가 도왔던 소녀. ㊥ 때때로 날카로운 통찰력과 위엄을 보여 에메랄드색 눈동자에는 강한 의지가 담겨 있다. ㊥전쟁을 멈추기 위해, 우연히 알게 된 배너지와 함께 카디아스 아래로 향해㊥우도, 협상은 결렬해, 연금되어 버린다. ㊥ 그 후 전투에 휘말려 배너지들과 함께 네엘 아가마에 수용된다. ㊥ 조금 세상 모르는 곳이 있어, 핫도그를 먹을 때에 서식에 당황하거나 ㊥ 하고 있었다. ㊥ 그 정체는 지온의 유아, 미네바 라오 자비이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

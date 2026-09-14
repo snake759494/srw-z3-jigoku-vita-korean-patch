@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00251",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00251/Sheet1/000002",
+      "sourceBindingSha256": "e920a4a21709cfd11c34e9ba90afc6d8b5028d9e92f3dbfdfd647c5fa47ec98a",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00251/Sheet1/000003",
+      "sourceBindingSha256": "5350732a819e0d0411d31d650e4b571de2edc6b63d9b25f4b7a615940dc731c9",
+      "sourceTextSha256": "fd5d94ca6e1c60c868295439ae7a9b1cd7b1a00d0985f03f5f85dad9650d243d",
+      "freshTranslation": "아스클렙스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00251/Sheet1/000004",
+      "sourceBindingSha256": "9b629d3b003b7f40ba35ebb75bb659820a4f4ccd8f0786ff198a506d85516eb3",
+      "sourceTextSha256": "fd5d94ca6e1c60c868295439ae7a9b1cd7b1a00d0985f03f5f85dad9650d243d",
+      "freshTranslation": "아스클렙스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00251/Sheet1/000005",
+      "sourceBindingSha256": "b54b072c6cc0a6707ce3a38e622957227df51e08cf74a267156a2a7af6e4ffc2",
+      "sourceTextSha256": "441e14216accee98d270dd11342369965c2d06e384649b7293f068be3528c081",
+      "freshTranslation": "Advent의 달리는 사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00251/Sheet1/000006",
+      "sourceBindingSha256": "4497f1d741f5a95100935d1b0d5359d1ae6b512d8a452acf8ededecd5d3cba21",
+      "sourceTextSha256": "9f307262635aeaa0ecbc570004e523dd851838f8a62adc2d84b4de593dbb5afa",
+      "freshTranslation": "기동 무기. ㊥ 높은 기동성과 균형 잡힌 무장을 갖고, 조종자인 어드벤트의 기량과 합쳐 ㊥, 모든 장면에서 십이분에 힘을 발휘한다. ㊥ 개발 경위는 수수께끼에 싸여 있지만, 동력원에는 어떠한 형태로 차원력이 사용되고 있는 ㊥사가 추측된다. ㊥ 덧붙여 양산기도 존재하고 있어 이쪽도 높은 전투력을 자랑한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00251/Sheet1/000007",
+      "sourceBindingSha256": "ad67efb450023ad4a3970cb9e5d20f4d2bd7bc884c9890acb8d428602d7af01c",
+      "sourceTextSha256": "441e14216accee98d270dd11342369965c2d06e384649b7293f068be3528c081",
+      "freshTranslation": "Advent의 달리는 사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00251/Sheet1/000008",
+      "sourceBindingSha256": "fcb5b4e955214eb62c78cfacec3083b3954100e07dc460996013e693d4ed10b4",
+      "sourceTextSha256": "d4007a30e67b1d40561453dff52b143e74b249232fea0a15c9aeae80c9d1b0e5",
+      "freshTranslation": "기동 무기. ㊥ 높은 기동성과 균형 잡힌 무장을 갖고, 조종자인 어드벤트의 기량과 합쳐 ㊥, 모든 장면에서 십이분에 힘을 발휘한다. ㊥ 개발 경위는 수수께끼에 싸여 있지만, 동력원에는 어떠한 형태로 차원력이 사용되고 있어, ㊥ 그 출력이나 사건 제어는 스피어 탑재기에 필적하는 레벨에 있다. ㊥ 덧붙여 크로노 개혁파는 본기의 양산 버젼을 사용하고 있어, 이쪽도 높은 전투력㊥을 자랑한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

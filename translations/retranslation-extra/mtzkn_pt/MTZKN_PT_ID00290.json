@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00290",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00290/Sheet1/000002",
+      "sourceBindingSha256": "ad59bb645ab9184c0b8160d8c6fa610723c4b9a33cdb2d829f7a9dfa64ab0e18",
+      "sourceTextSha256": "99f7329e47c9a182fcb1dafe35c8ee3c63e62d9a15f1e69da318c9544cef5379",
+      "freshTranslation": "제롬 보더",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00290/Sheet1/000003",
+      "sourceBindingSha256": "9b83a273e4dca8f361134219c21c65442e656c6d2b82cf7b606f1965fdbda284",
+      "sourceTextSha256": "8bd7f05afdd63d927963b4fc2cc057b3842a82cae7a7e22dd32c1ffae7c3788b",
+      "freshTranslation": "국경",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00290/Sheet1/000004",
+      "sourceBindingSha256": "a1e86fb38c6cb7e9b42a4d2eae38fa0fc7d1ae4f110b77054d90616220fa0a27",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00290/Sheet1/000005",
+      "sourceBindingSha256": "d09ce1d6596ca95061ce2284265656e2127208e55169b6bb8b1d6133b8905f60",
+      "sourceTextSha256": "6cbead29f5f3666f5882c4fd6c0d7e56e8208850dd34efe1c72cd7834907e4e2",
+      "freshTranslation": "르 패닉! TheSecondRaid",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00290/Sheet1/000006",
+      "sourceBindingSha256": "0b376674a8f2572ab029f7a0844d22d3c2c110642ae8b2204c9d0fc804837c0f",
+      "sourceTextSha256": "b3fc197b0746f61c3a8eec61cd6a3509d797e16dba92e5589dc0fbe31c040f5c",
+      "freshTranslation": "미스릴의 임원. ㊥ 작전부의 장관으로, 테사의 상관이기도 하다. ㊥ 온화한 인물로 지도자로서 높은 능력을 가진다. ㊥또한 테사의 아버지 칼 테스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00290/Sheet1/000007",
+      "sourceBindingSha256": "8e5f86ef95c987828cb913a754a736faa2e29c2d716eb1bee9a0391a866e3e5f",
+      "sourceTextSha256": "7582d5a1299113c48fcb4e23d37a5d5f62148c2690ea10325e23332c29781f06",
+      "freshTranslation": "로사는 옛부터 아는 사람이며, 그 딸㊥의 테사와도 개인적인 친교가 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00290/Sheet1/000008",
+      "sourceBindingSha256": "de3b80e21845df6dcc27875a22111e08fbfe8b6ad687d457cd3403426c08db5f",
+      "sourceTextSha256": "b3fc197b0746f61c3a8eec61cd6a3509d797e16dba92e5589dc0fbe31c040f5c",
+      "freshTranslation": "미스릴의 임원. ㊥ 작전부의 장관으로, 테사의 상관이기도 하다. ㊥ 온화한 인물로 지도자로서 높은 능력을 가진다. ㊥또한 테사의 아버지 칼 테스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00290/Sheet1/000009",
+      "sourceBindingSha256": "b6405a0d2e392de1b1ae0e7c1d10bf886bcbb730d1d308c5b741298e0198f241",
+      "sourceTextSha256": "7582d5a1299113c48fcb4e23d37a5d5f62148c2690ea10325e23332c29781f06",
+      "freshTranslation": "로사는 옛부터 아는 사람이며, 그 딸㊥의 테사와도 개인적인 친교가 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

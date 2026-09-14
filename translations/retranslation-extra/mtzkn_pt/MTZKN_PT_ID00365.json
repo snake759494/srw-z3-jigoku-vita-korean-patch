@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00365",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00365/Sheet1/000002",
+      "sourceBindingSha256": "3d7977036ace7b4156fcbfef2c121d1dbf085912e8d9021d06248aa7aea945f2",
+      "sourceTextSha256": "5e442855607bfa6709cbdb6d8d47f1a29694f2da4c891c06be4e8fcb4999e17b",
+      "freshTranslation": "시노자키 사키세코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00365/Sheet1/000003",
+      "sourceBindingSha256": "fcfac05b195970ed4f59e60eb2308a4d3a7e345f77519fcd74ebd8ea6800e132",
+      "sourceTextSha256": "c1ae97a0beae68863664d9151166ec798360eabff6d2e95af05fa2dbcae08b1b",
+      "freshTranslation": "사키세자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00365/Sheet1/000004",
+      "sourceBindingSha256": "4f2a694335cd43e83a6ae19cc81ba8ac61ccae6adf73c3ade08e99c03327ee26",
+      "sourceTextSha256": "b40f8de117e644be3d8ab8c76b9b5779575051515b39a54c7b5cfa1a85297d19",
+      "freshTranslation": "코드기어스 반역의 루루슈 R2",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00365/Sheet1/000005",
+      "sourceBindingSha256": "021479ac22b9cafbf2b1eeca3bd973f8756856fb781d750c5a9f78acd73cf07f",
+      "sourceTextSha256": "fa65ca8416592e56ca50ac141bfc59117d8ba83a978b5a2d67a055ff5f7322a5",
+      "freshTranslation": "한때 애쉬포드 가문에서 루루슈와 나나리를 돌보도록 파견된 ㊥ 메이드로 명예 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00365/Sheet1/000006",
+      "sourceBindingSha256": "c4b1ecf7ae825e15a46d3472d92b5b61c928de9332598684deb47f3eb299c096",
+      "sourceTextSha256": "b38a508abb0e611d8b5698129c010f9c4d1dcdd49feededc91b06049a79f6e91",
+      "freshTranslation": "니어 사람. 25세. ㊥ 그 실체는 시노자키류 제37대째의 SP로, 뒤에서는 검은 기사단에 참가하고 있었다. ㊥ 블랙 리베리온 후에 디트하르트 등과 함께 중화연방에 잠복하고 있었지만, 제로㊥의 부활을 알고 검은 기사단에 합류. 이후는 주로 루루슈의 그림자로 일했지만, ㊥ 이전의 천연 성격으로 사태를 혼란시키는 일도 자주 있었다. ㊥ 제2차 도쿄결전에서는 총독이 된 나나리를 탈취하기 위해 정청에 침입. 붙잡힌 ㊥ 당했던 카렌 구출은 성공하지만 나나리 탈환에는 이르지 않았다. ㊥ 그 후는 오랫동안 행방불명이 되어 있었지만, 황제 루루슈 아래로 뛰어들어 참 ㊥후까지 협력을 계속했다. 일본인이면서 주군과 결정한 루루슈를 따라가는 그 ㊥ 자세를 가까운 처지에 있는 제레미아는 기사도로 평가했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00365/Sheet1/000007",
+      "sourceBindingSha256": "2c1d4f54007e8f739c037e44fc18dcee902c8095cbce5a012e23480a76f6b320",
+      "sourceTextSha256": "fa65ca8416592e56ca50ac141bfc59117d8ba83a978b5a2d67a055ff5f7322a5",
+      "freshTranslation": "한때 애쉬포드 가문에서 루루슈와 나나리를 돌보도록 파견된 ㊥ 메이드로 명예 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00365/Sheet1/000008",
+      "sourceBindingSha256": "aa39a1152ac184014d7f2852e7f64d98305e0287aac28a1b5551d8dcdbcf29c4",
+      "sourceTextSha256": "b38a508abb0e611d8b5698129c010f9c4d1dcdd49feededc91b06049a79f6e91",
+      "freshTranslation": "니어 사람. 25세. ㊥ 그 실체는 시노자키류 제37대째의 SP로, 뒤에서는 검은 기사단에 참가하고 있었다. ㊥ 블랙 리베리온 후에 디트하르트 등과 함께 중화연방에 잠복하고 있었지만, 제로㊥의 부활을 알고 검은 기사단에 합류. 이후는 주로 루루슈의 그림자로 일했지만, ㊥ 이전의 천연 성격으로 사태를 혼란시키는 일도 자주 있었다. ㊥ 제2차 도쿄결전에서는 총독이 된 나나리를 탈취하기 위해 정청에 침입. 붙잡힌 ㊥ 당했던 카렌 구출은 성공하지만 나나리 탈환에는 이르지 않았다. ㊥ 그 후는 오랫동안 행방불명이 되어 있었지만, 황제 루루슈 아래로 뛰어들어 참 ㊥후까지 협력을 계속했다. 일본인이면서 주군과 결정한 루루슈를 따라가는 그 ㊥ 자세를 가까운 처지에 있는 제레미아는 기사도로 평가했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00140",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00140/Sheet1/000002",
+      "sourceBindingSha256": "746ec967325b60e6658ee5f8b3d9f7fd87ba3e0b9795b24644aec86151a758a8",
+      "sourceTextSha256": "52035819ffd01088ad3556842fb0bd97fcda0929f674e9a372dd0e431b1bfa70",
+      "freshTranslation": "멜란",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00140/Sheet1/000003",
+      "sourceBindingSha256": "8104a7839ca10289a9cd8795edcfb76d3b7d90fe038f3b2c5f0a90d17dbae45a",
+      "sourceTextSha256": "52035819ffd01088ad3556842fb0bd97fcda0929f674e9a372dd0e431b1bfa70",
+      "freshTranslation": "멜란",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00140/Sheet1/000004",
+      "sourceBindingSha256": "48e55bd3b84dd41597bc5f8ef72737af5e802de4a2d236f498accff616141815",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00140/Sheet1/000005",
+      "sourceBindingSha256": "c7fdbdd1977b389338d5eb13631fa7c439446a0f69cffc6744855a39f5c2cecc",
+      "sourceTextSha256": "9898c1aa63ab9a1d360fec0f8ce0745b2fc26c3192048f48d5941def7e080853",
+      "freshTranslation": "이시즈카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00140/Sheet1/000006",
+      "sourceBindingSha256": "57941e8c5a7cc9cbd2dbc79b174986163880d452cb771754bf340949eb8244da",
+      "sourceTextSha256": "d5c2bf06bbe4f5614c9dc3e1d83faecdcb81395ea46f14c07cf09347aa9f6198",
+      "freshTranslation": "라 카이람 부장. 계급은 중령. ㊥ 냉정 침착한 성격으로, 제2차 네오지온 항쟁의 무렵부터, 함장의 브라이트의 서포트㊥를 행해 왔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00140/Sheet1/000007",
+      "sourceBindingSha256": "7315957fa65b49ccf25aa9800a75d7f2cd34418f02577a15cff09159817ec098",
+      "sourceTextSha256": "d5c2bf06bbe4f5614c9dc3e1d83faecdcb81395ea46f14c07cf09347aa9f6198",
+      "freshTranslation": "라 카이람 부장. 계급은 중령. ㊥ 냉정 침착한 성격으로, 제2차 네오지온 항쟁의 무렵부터, 함장의 브라이트의 서포트㊥를 행해 왔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

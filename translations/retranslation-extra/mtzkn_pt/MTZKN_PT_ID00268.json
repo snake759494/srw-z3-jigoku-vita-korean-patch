@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00268",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00268/Sheet1/000002",
+      "sourceBindingSha256": "981ae83276c6124634364918d9e758e0f9c5a5dce53e3927d056ebff5f6e19ec",
+      "sourceTextSha256": "d119a8530cb8a6619d5d1df15cf04c95dc33e5481d4c612b81b514c47566d137",
+      "freshTranslation": "토키와 쿄코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00268/Sheet1/000003",
+      "sourceBindingSha256": "7ad94d0beb6d66353719fe210189364d49f732004708c4a2acf067996dd71901",
+      "sourceTextSha256": "300b0480c85250ab67538578f8a0afec91f87332f762fb86368a2ce0d9741753",
+      "freshTranslation": "쿄코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00268/Sheet1/000004",
+      "sourceBindingSha256": "d3e8ae17cd38cdc2165df4f6ebacae95defaab236ec83c10af15be3f14925a46",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00268/Sheet1/000005",
+      "sourceBindingSha256": "3c4bf3ffd2a897095dcd9cf0d7bbedc0b5f4d094de371d69019df08719603aba",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00268/Sheet1/000006",
+      "sourceBindingSha256": "3fda28755b15d270f013ceb5c8aa83c95ed9e310c152349a6d3a9b0f85c4abf5",
+      "sourceTextSha256": "5b4d0f4a0084c95c4994a99d4aa8ef18f5c0d9056c6925d7dd1478d2a7d58e63",
+      "freshTranslation": "진대고교 2년 4조의 학생. ㊥ 카나메의 동료이자 가장 친한 친구이기도합니다. ㊥ 소프트볼부에 소속되어 있고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00268/Sheet1/000007",
+      "sourceBindingSha256": "428a57f5c07d1b2b15464f5d111a86971ced272665596a0e9db91929865f8bfd",
+      "sourceTextSha256": "03165452e4f8ae354f3c18b01d2ba545708735f2b4ceb0a16a1b4588debb6ab3",
+      "freshTranslation": "동신경 발군의 카나메에 잘 돕는 사람을 부탁한다. 또, ㊥카나메에 동경하고 있는 남자와의 데이트를 세팅하는 등 돌보는 일도 있다. ㊥ 카나메의 최대의 이해자로, 본심을 숨기거나 카메에 돌진을 넣을 때도 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00268/Sheet1/000008",
+      "sourceBindingSha256": "c279a79e186f3faa33e301a5eaee69be4cfb35971170645fe8af7eb949ed747b",
+      "sourceTextSha256": "5b4d0f4a0084c95c4994a99d4aa8ef18f5c0d9056c6925d7dd1478d2a7d58e63",
+      "freshTranslation": "진대고교 2년 4조의 학생. ㊥ 카나메의 동료이자 가장 친한 친구이기도합니다. ㊥ 소프트볼부에 소속되어 있고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00268/Sheet1/000009",
+      "sourceBindingSha256": "0fc1050378f5132ccb1f47421d07cac543d50c316c7de5c7862247c870af3d3a",
+      "sourceTextSha256": "03165452e4f8ae354f3c18b01d2ba545708735f2b4ceb0a16a1b4588debb6ab3",
+      "freshTranslation": "동신경 발군의 카나메에 잘 돕는 사람을 부탁한다. 또, ㊥카나메에 동경하고 있는 남자와의 데이트를 세팅하는 등 돌보는 일도 있다. ㊥ 카나메의 최대의 이해자로, 본심을 숨기거나 카메에 돌진을 넣을 때도 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

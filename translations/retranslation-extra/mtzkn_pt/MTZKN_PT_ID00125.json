@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00125",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00125/Sheet1/000002",
+      "sourceBindingSha256": "d1b2590c18d25486460dd523d76fd07cfce3b67c3d00a92074e4aa69e2aecfdb",
+      "sourceTextSha256": "ef4efb5d7ecffe26793b9b850ab75be9e7794b2310647890d2c246b562a58198",
+      "freshTranslation": "클라우스 그라드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00125/Sheet1/000003",
+      "sourceBindingSha256": "814ac44616064a938cfb91f120a27f08ee0ee7e026e69bef743599bc2a754db2",
+      "sourceTextSha256": "0209cec4bc5be76a55832ed6095dfe08cc8771deb4b8a2a03d1660132e84e37a",
+      "freshTranslation": "클라우스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00125/Sheet1/000004",
+      "sourceBindingSha256": "4331fa3a6b3448958f79ff974f44f0f5ee4998f8c6940bdff3a1eae7cc43f556",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00125/Sheet1/000005",
+      "sourceBindingSha256": "a4f375bf80801d0b30263d69f737141e854505968dc8088c94e21e1b5e4e759c",
+      "sourceTextSha256": "bb211ab6705606492180070237aabcd1042ba38c990e41ed8c5800dd4a9f484b",
+      "freshTranslation": "지구 연방 의원. 31 세 ㊥ 원래는",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00125/Sheet1/000006",
+      "sourceBindingSha256": "65b7978e13f86eb38a1f565ceede96892ac29dc353de495e483fbb136851f173",
+      "sourceTextSha256": "d4117cdb73be3a9c50125151bbb213d63b28995f1275e802994c3f56b6925506",
+      "freshTranslation": "론 중동 지부의 지도자이자 강한 리더십을 가진 이지 ㊥ 인물. 어로우즈의 만행을 위험시하고 질서 있는 평화로운 사회를 만들기를 바란다. ㊥ 어로우즈에 의해 아지트를 괴멸시키고 도망을 강요당한 후에도 그 마음은 굴㊥ 하는 일 없이 동지 실린과 함께 마리나를 지키면서 활동을 계속하고 있었다. ㊥ 이노베이드와의 최종 결전 때,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00125/Sheet1/000007",
+      "sourceBindingSha256": "e352c99b12267894bc203c99054be6310e4dc2bdde5a8d24c738677b14c76d6c",
+      "sourceTextSha256": "ffa6eb21ed6964a040fddad2122c9851a0d417ce7b17cac3cf986a17f1dd1e7e",
+      "freshTranslation": "론의 잔존 전력을 이끌고 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00125/Sheet1/000008",
+      "sourceBindingSha256": "43ad7798eef77c0cf23c07977336ae327d69cc7a01dcbf09fdab91e345d90153",
+      "sourceTextSha256": "bdb143a24be864c1f3063150b25dbd000678da535da2af4b8c3e9c0fe04fb9d4",
+      "freshTranslation": "루비이㊥구의 위기를 구했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00125/Sheet1/000009",
+      "sourceBindingSha256": "23a63ffb0fe6efe565a9fe6b29c3422f6afd3c664fab667c72abc382aff452f4",
+      "sourceTextSha256": "bb211ab6705606492180070237aabcd1042ba38c990e41ed8c5800dd4a9f484b",
+      "freshTranslation": "지구 연방 의원. 31 세 ㊥ 원래는",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00125/Sheet1/000010",
+      "sourceBindingSha256": "4a881709c252e9c9000333ef3034503c7edf406134960090842b3b11993a60d6",
+      "sourceTextSha256": "d4117cdb73be3a9c50125151bbb213d63b28995f1275e802994c3f56b6925506",
+      "freshTranslation": "론 중동 지부의 지도자이자 강한 리더십을 가진 이지 ㊥ 인물. 어로우즈의 만행을 위험시하고 질서 있는 평화로운 사회를 만들기를 바란다. ㊥ 어로우즈에 의해 아지트를 괴멸시키고 도망을 강요당한 후에도 그 마음은 굴㊥ 하는 일 없이 동지 실린과 함께 마리나를 지키면서 활동을 계속하고 있었다. ㊥ 이노베이드와의 최종 결전 때,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00125/Sheet1/000011",
+      "sourceBindingSha256": "7bee5810443078092da4f428f1047d767f3e6c84c470bb7ecf90bd2ca86186ac",
+      "sourceTextSha256": "ffa6eb21ed6964a040fddad2122c9851a0d417ce7b17cac3cf986a17f1dd1e7e",
+      "freshTranslation": "론의 잔존 전력을 이끌고 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00125/Sheet1/000012",
+      "sourceBindingSha256": "bb25093e6a998b7a5b93f639e20d5f95bf7afacc062bbbc1f02182bd6824a56d",
+      "sourceTextSha256": "bdb143a24be864c1f3063150b25dbd000678da535da2af4b8c3e9c0fe04fb9d4",
+      "freshTranslation": "루비이㊥구의 위기를 구했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

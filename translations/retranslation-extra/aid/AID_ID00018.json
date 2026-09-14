@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "aid",
+  "assetKey": "AID_ID00018",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "AID_ID00018/Sheet1/000002",
+      "sourceBindingSha256": "64ed4175ad9ce7b29b5312dde655e37da03248cf080d21c4a47e551488821c19",
+      "sourceTextSha256": "0a52c7253dd9d6ae62c816729dd95c24c35b0eee721da261475186a589c5f88f",
+      "freshTranslation": "瑩㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "AID_ID00018/Sheet1/000003",
+      "sourceBindingSha256": "b986377b16f324d5969c781bb68d5d283cd7e98d1f76399baa5f53da7e920b9e",
+      "sourceTextSha256": "0307be1f2c2b8519386e509b484dd0ff7623c08ef08f855393bb50b4604ed985",
+      "freshTranslation": "新多元世紀０００１年⑲４月２４日㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "AID_ID00018/Sheet1/000004",
+      "sourceBindingSha256": "5b9f3d6c48e7da1f2e1c3f5122bf63df8c1b8593c570165a658d5d358da7f883",
+      "sourceTextSha256": "1f59b40d7f87b89e6d2f0c7e2c11ef442310d63681ec64c2d21e45aa253f68ba",
+      "freshTranslation": "미스릴 서태평양전대는 전국의 확대에 따라㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "AID_ID00018/Sheet1/000005",
+      "sourceBindingSha256": "e57499c444a1388ba6b2b0a4a6697101180137b7332e1097c127faa47783ac44",
+      "sourceTextSha256": "b62adaf013144e994364cf2bc455f76d7c98cacd23e168e2283ef27f68a84f20",
+      "freshTranslation": "우수한 군인을 찾고 있었다.㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "AID_ID00018/Sheet1/000006",
+      "sourceBindingSha256": "0fa091fa9a5ac63226aee048010cfea345d3521df14b1d8592e4f971d193625c",
+      "sourceTextSha256": "edea49fea9dc4bc927b27e412a8d41834cc20cfb62792c20840cf388c77ea374",
+      "freshTranslation": "총사령관 테레사 테스타로사는 남미의 무법도시에㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "AID_ID00018/Sheet1/000007",
+      "sourceBindingSha256": "6400fc1fdf38fac1bba42fc02c4a562f02bff29febb33dc55f34145df5f2dd43",
+      "sourceTextSha256": "a6ffff01346b5c475cc52b40ea30fa4257639c7b9a4a922f8869d492b3b58008",
+      "freshTranslation": "그 인재를 요구했다…㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

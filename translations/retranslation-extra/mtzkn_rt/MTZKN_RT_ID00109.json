@@ -1,0 +1,181 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00109",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00109/Sheet1/000002",
+      "sourceBindingSha256": "45105d23d85c6a5ba3f9fa991dbabd988e6f5311d7e88946f1a29c9b96e96c46",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00109/Sheet1/000003",
+      "sourceBindingSha256": "4bd2095b232237a93a11b3dc9a60373d7b3c03252e57da91b210d3e6ce50b610",
+      "sourceTextSha256": "988ff6cb2da98d78e57cdc4229937f89b6e0859b9bd541e9f675a7d5aa5c6d4e",
+      "freshTranslation": "VF-25F 메사이어 F·TP",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00109/Sheet1/000004",
+      "sourceBindingSha256": "0009792fc5c75e6fe1d9e37a48afd26f0e9c1c03dd059c8c24e3da858b3ca301",
+      "sourceTextSha256": "1dee48cb51e64134eba58729b22f8f5722d83750b641262f11efe6cb0108c5ca",
+      "freshTranslation": "VF-25F 메사이파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00109/Sheet1/000005",
+      "sourceBindingSha256": "7eca0fcf94baf539b88184dd860da54b3df53927fca9289083ecb2496fcd35bc",
+      "sourceTextSha256": "d18b712d3d1dcf2775c03508f7b900f9cc518ffcd6291ea772ffcb7f4c7d995c",
+      "freshTranslation": "ー모드・토르네이드 팩 장비(대기권 내 사양)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00109/Sheet1/000006",
+      "sourceBindingSha256": "59e8a54fda74920dba11e6bb9e1fd97b490c6a105c5276206cdfae52d509a5fe",
+      "sourceTextSha256": "c2c2e5756441c5c52c02341c5f7598cd240cfbd22261da490b01b6ba7f0caf88",
+      "freshTranslation": "사오토메 알토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00109/Sheet1/000007",
+      "sourceBindingSha256": "4dfa215b578195ea1fe62e51d4d91f6b5a4496830d2a6a578666fdfeae75cd1e",
+      "sourceTextSha256": "1860dfce69d127df4b2537589aded2c9a5daccdd83fd01305e807e852e8aee59",
+      "freshTranslation": "VF-25 메사이어 시리즈의 전위용 기체. 그 파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00109/Sheet1/000008",
+      "sourceBindingSha256": "d4451142f971368ea4a79e7788f0cff7afff8006583a8b94de4276dcfe8e1984",
+      "sourceTextSha256": "96bcdb244c281108c1d4ed24ad20fcf7d584981073df3bf8b8b0fc863e292e91",
+      "freshTranslation": "- 모드로 토네㊥도팩을 장비한 대기권 내 사양.㊥S. M. S에서는 알토가 본 기기에 탑승하고 있다.㊥VF-25 메사이아는 최신예의 멀티롤 가변 전투기로 신통합군이 개발한 시험㊥작기 YF-24를 베이스로, 민간 기업의 L. A. I사와 신성인더스트리사가 공동㊥개발한 기체이다. 군에서의 정식 배치 전의 평가 시험의 형태로 S. M. S에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00109/Sheet1/000009",
+      "sourceBindingSha256": "404e70077f129697d5d2422363909e3372c9be621820806f0959a54856cdf526",
+      "sourceTextSha256": "9b5a723227d4823c434987b153ee2db019b1ab0640610632f690579276b352d3",
+      "freshTranslation": "사용 ㊥있다. ㊥토네이도팩은 VF-25에 선회식 연장 빔포나 회전식 엔진 포드인 ㊥등을 추가 장비하는 최신예의 강화팩. 이 팩의 장비에 의해 공격력의 증강과 동㊥시에, 기동력,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00109/Sheet1/000010",
+      "sourceBindingSha256": "360efbe23907babe6b181af7513c17227e01eec793d3afbe0d9709e941442fd0",
+      "sourceTextSha256": "aa1ed2a81c160fe336abbb4e715fe894a5b3a69f7c6c3a189ac61d8b05950727",
+      "freshTranslation": "동성능도 대폭 향상된다. ㊥ 통상이라면 장대한 포신의 연장 빔포를 대기권 내에서 선회시켰을 경우, 공기역학적 ㊥ 문제가 발생하지만, 가동식 엔진 포드에서 공력의 변화를 보정하는 것으로, 그들을 ㊥ 해소하고 있다. ㊥이 엔진 포드에 의해 토네이도 팩은 슈퍼 팩 장착시보다 높은 ㊥인 공전 기동성을 VF-25로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00109/Sheet1/000011",
+      "sourceBindingSha256": "3734ab826aa2c86fd1326379f3287cab41fff5e4cb7ec9224790468e056f18d7",
+      "sourceTextSha256": "a266eb699d7d2033ea76543aa3281e0c9a7a1cca16437a582296642813b484d4",
+      "freshTranslation": "네.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00109/Sheet1/000012",
+      "sourceBindingSha256": "b2a63c6a0d867ce5ef1d25b80aaac7f0a3786bb84d0c60ac436a12c06dacf44e",
+      "sourceTextSha256": "1860dfce69d127df4b2537589aded2c9a5daccdd83fd01305e807e852e8aee59",
+      "freshTranslation": "VF-25 메사이어 시리즈의 전위용 기체. 그 파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00109/Sheet1/000013",
+      "sourceBindingSha256": "dd3ad7f39d3a34472fe62d7da41ee6886826b4f44ea63d96cb5e50dd5d1509cd",
+      "sourceTextSha256": "96bcdb244c281108c1d4ed24ad20fcf7d584981073df3bf8b8b0fc863e292e91",
+      "freshTranslation": "- 모드로 토네㊥도팩을 장비한 대기권 내 사양.㊥S. M. S에서는 알토가 본 기기에 탑승하고 있다.㊥VF-25 메사이아는 최신예의 멀티롤 가변 전투기로 신통합군이 개발한 시험㊥작기 YF-24를 베이스로, 민간 기업의 L. A. I사와 신성인더스트리사가 공동㊥개발한 기체이다. 군에서의 정식 배치 전의 평가 시험의 형태로 S. M. S에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00109/Sheet1/000014",
+      "sourceBindingSha256": "6438f9cff1bcfc54e89310b4182b08d2018a843e70c59cc52af59e6739ab0072",
+      "sourceTextSha256": "9b5a723227d4823c434987b153ee2db019b1ab0640610632f690579276b352d3",
+      "freshTranslation": "사용 ㊥있다. ㊥토네이도팩은 VF-25에 선회식 연장 빔포나 회전식 엔진 포드인 ㊥등을 추가 장비하는 최신예의 강화팩. 이 팩의 장비에 의해 공격력의 증강과 동㊥시에, 기동력,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00109/Sheet1/000015",
+      "sourceBindingSha256": "bb3cdc81b6bb27aff4a7699c802c5c9d0bd2187c0dfaf1f9cac70eba91c6cee4",
+      "sourceTextSha256": "aa1ed2a81c160fe336abbb4e715fe894a5b3a69f7c6c3a189ac61d8b05950727",
+      "freshTranslation": "동성능도 대폭 향상된다. ㊥ 통상이라면 장대한 포신의 연장 빔포를 대기권 내에서 선회시켰을 경우, 공기역학적 ㊥ 문제가 발생하지만, 가동식 엔진 포드에서 공력의 변화를 보정하는 것으로, 그들을 ㊥ 해소하고 있다. ㊥이 엔진 포드에 의해 토네이도 팩은 슈퍼 팩 장착시보다 높은 ㊥인 공전 기동성을 VF-25로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00109/Sheet1/000016",
+      "sourceBindingSha256": "8d3f27404946436eea98e3bfc90f714c2960480e4263e5f9bfcffb03af7e1516",
+      "sourceTextSha256": "a266eb699d7d2033ea76543aa3281e0c9a7a1cca16437a582296642813b484d4",
+      "freshTranslation": "네.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["format", "formatVersion", "policy", "sources"],
+  "properties": {
+    "format": {"const": "siok-extra-asset-sources"},
+    "formatVersion": {"const": 1},
+    "policy": {
+      "type": "object",
+      "required": ["method", "existingTranslations"],
+      "properties": {
+        "method": {"const": "fresh-from-japanese"},
+        "existingTranslations": {"const": "reference-only"}
+      },
+      "additionalProperties": false
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["scope", "sheet"],
+        "properties": {
+          "scope": {"type": "string", "minLength": 1},
+          "assetKey": {"type": "string", "minLength": 1},
+          "assetKeyTemplate": {"type": "string", "minLength": 1},
+          "path": {"type": "string", "minLength": 1},
+          "glob": {"type": "string", "minLength": 1},
+          "idRegex": {"type": "string", "minLength": 1},
+          "sheet": {"type": "string", "minLength": 1}
+        },
+        "additionalProperties": false,
+        "allOf": [
+          {
+            "oneOf": [
+              {"required": ["path", "assetKey"]},
+              {"required": ["glob", "assetKeyTemplate", "idRegex"]}
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "additionalProperties": false
+}

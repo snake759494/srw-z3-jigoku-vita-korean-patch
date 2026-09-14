@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00020",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00020/Sheet1/000002",
+      "sourceBindingSha256": "b17fb800d73a57d6ece489d3b985c385f59c7a5715325027949c5c51d74dc5a0",
+      "sourceTextSha256": "095aa56eab1e8a38be44b7470675dbd3bb01e8bb6134a3c94d5e531e65a3923a",
+      "freshTranslation": "장갑 기병 하의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00020/Sheet1/000003",
+      "sourceBindingSha256": "8f62372643952a0cfbed615422d0e81a32fca625c584de92aba0e0bf5c567834",
+      "sourceTextSha256": "34b4084ca5116f57726640815a04f7cb1d5a466612d4862846876c6f3aabc827",
+      "freshTranslation": "스코프독 RM",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00020/Sheet1/000004",
+      "sourceBindingSha256": "e08a57bf1070992c1f43078da0771ed3836f3203de9dca6566c16abeb72d2caf",
+      "sourceTextSha256": "a815b31ecbf2b8a3e3aa37a6d3f3a713da9254a2533c967a7229c4f262657327",
+      "freshTranslation": "스코프 독 (라운드 무버 - 장비)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00020/Sheet1/000005",
+      "sourceBindingSha256": "f01d25039c218c276a8995c240914a359880443d58da123864d4b6ff7f604ce9",
+      "sourceTextSha256": "30de01d67004e3e9c62ad042d3411bfa7e18898d04225ae5ad90202d482279e0",
+      "freshTranslation": "스코프 독이 라운드 무버 자크를 장착한 상태. ㊥ 라운드 무버는 09계의 AT를 우주 공간에서 활동시키기 위한 버니어가 있는 미㊥ 션팩. 가속 성능이나 가동 시간에 관해서는 우주용 전투기에 미치지 않기 때문에 장거리 침㊥공에는 적합하지 않지만, 사방으로 뻗은 스러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00020/Sheet1/000006",
+      "sourceBindingSha256": "1911e300a235acb08ce1e77da2a8d9d80f83459df91333190eae1cf09426c7b1",
+      "sourceTextSha256": "53c5390ec3b63a517e0208626483ce237fb73ec384f0a7654f48b4828accf5f6",
+      "freshTranslation": "- 유닛에 따라 높음",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00020/Sheet1/000007",
+      "sourceBindingSha256": "797bb1a562377b839b1e94c5fa305bb1688e8f45087a95fc38544e7c0b275bae",
+      "sourceTextSha256": "e0e271f4b92c84ed5207ef77f8e475c11776def07ba1385c9eadf5a8d4bcaaf2",
+      "freshTranslation": "동성을 얻어㊥할 수 있어 360도의 공간 기동도 가능하게 된다는 편리함이 좋은 장비이다. ㊥09계의 AT는 그 밖에도 대기권 내 강하 작전용 팩인 낙하산 잭을 착용 ㊥착용할 수도 있다. 이것에 의해 우주 공간에서 지표까지, 폭넓은 영역에 있어서의 작전행㊥동동이 가능해지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00020/Sheet1/000008",
+      "sourceBindingSha256": "5c94b536cf60ee358d14fe90b0d9fecffa4e4185c6ab7ca7aa43701c82aa865b",
+      "sourceTextSha256": "30de01d67004e3e9c62ad042d3411bfa7e18898d04225ae5ad90202d482279e0",
+      "freshTranslation": "스코프 독이 라운드 무버 자크를 장착한 상태. ㊥ 라운드 무버는 09계의 AT를 우주 공간에서 활동시키기 위한 버니어가 있는 미㊥ 션팩. 가속 성능이나 가동 시간에 관해서는 우주용 전투기에 미치지 않기 때문에 장거리 침㊥공에는 적합하지 않지만, 사방으로 뻗은 스러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00020/Sheet1/000009",
+      "sourceBindingSha256": "a5fa1d70ea33857f9036a96c0fb70f4410153fe54172fb0f63eb503fe7e56ff6",
+      "sourceTextSha256": "53c5390ec3b63a517e0208626483ce237fb73ec384f0a7654f48b4828accf5f6",
+      "freshTranslation": "- 유닛에 따라 높음",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00020/Sheet1/000010",
+      "sourceBindingSha256": "36c23cb69fe01c880831e963a7fe269ce97c49fea05a89c3d3d09b3380e36451",
+      "sourceTextSha256": "e0e271f4b92c84ed5207ef77f8e475c11776def07ba1385c9eadf5a8d4bcaaf2",
+      "freshTranslation": "동성을 얻어㊥할 수 있어 360도의 공간 기동도 가능하게 된다는 편리함이 좋은 장비이다. ㊥09계의 AT는 그 밖에도 대기권 내 강하 작전용 팩인 낙하산 잭을 착용 ㊥착용할 수도 있다. 이것에 의해 우주 공간에서 지표까지, 폭넓은 영역에 있어서의 작전행㊥동동이 가능해지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

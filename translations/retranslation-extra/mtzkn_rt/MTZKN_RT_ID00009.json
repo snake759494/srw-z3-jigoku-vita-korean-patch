@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00009",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00009/Sheet1/000002",
+      "sourceBindingSha256": "98a1d7b2d2865c78bdcb5102b838a95c2bfe2cc9c2aefa4312b14720d4bed457",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00009/Sheet1/000003",
+      "sourceBindingSha256": "cf0a95eb1f9af442aaadd1f902f62fbc4b27413bf049af83eac085ae8cadff7f",
+      "sourceTextSha256": "00e002e0607f36fcb284cfa33a0cea180d0e85d94f72869ad960480ec8fa3cb4",
+      "freshTranslation": "스페이스 로보 7호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00009/Sheet1/000004",
+      "sourceBindingSha256": "1a0de385359dd0b8cee9cfe9ee3fc4cd4c914e6b9fcf02b46653b348254ca015",
+      "sourceTextSha256": "00e002e0607f36fcb284cfa33a0cea180d0e85d94f72869ad960480ec8fa3cb4",
+      "freshTranslation": "스페이스 로보 7호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00009/Sheet1/000005",
+      "sourceBindingSha256": "1769d0065fa6e7a67fc421b244c9507285c1c1d18db4ffaabe4343355a2b8ed0",
+      "sourceTextSha256": "16100e54405964aa6e96e6f0625b215b601620ba0932ebf45a95c4c86034b6c7",
+      "freshTranslation": "구라 킹 Jr.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00009/Sheet1/000006",
+      "sourceBindingSha256": "e61bb9d8dcc16b549854561065bdcb2f4cb925749ac044af80c25a6fffe7a90e",
+      "sourceTextSha256": "fd02445def7b08444dbe66073472b5e319894d220bb941b75bfc6b84deeedf02",
+      "freshTranslation": "50화 '구라 왕자 죽는다! 』에 등장한 로봇. ㊥ 마사타로와의 결전의 결의를 굳힌 구라가 달리는 스페이스 로보의 제7호로, 서양의 기사㊥와 같은 외관을 가진다. ㊥ 구라가 자랑으로 하는 검의 공격은 강력하며, 손가락 끝에서 방출하는 전자기 넷으로 바위를 던져 ㊥ 하는 등의 걸쇠도 이용한다. 월면에서 철인과의 격투를 펼쳤다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00009/Sheet1/000007",
+      "sourceBindingSha256": "9a512617f9ab18068630c29b34962b21044602666cade728e14139112bd6da46",
+      "sourceTextSha256": "a71a55fc89f68358b94ae41cf15df29d3917f0dfee901ee76aea6efee7a13834",
+      "freshTranslation": "50화 '구라 왕자 죽는다! 』에 등장한 로봇. ㊥ 마사타로와의 결전의 결의를 굳힌 구라가 달리는 스페이스 로보의 제7호로, 서양의 기사㊥와 같은 외관을 가진다. ㊥ 구라가 자랑으로 하는 검의 공격은 강력하며, 손가락 끝에서 방출하는 전자기 넷으로 바위를 던져 ㊥ 하는 등의 걸쇠도 이용한다. 월면에서 철인과의 격투를 펼쳤다. ㊥ 최후는 검을 철인에게 빼앗겨 자신의 무기로 일도 양단으로 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

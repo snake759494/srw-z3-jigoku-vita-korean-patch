@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00289",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00289/Sheet1/000002",
+      "sourceBindingSha256": "a8c9e3b47bcdac902b4a5e8c71034b9a18da394658ff6deb95e22138437109e9",
+      "sourceTextSha256": "2c91005cb5f6eec035483c4e8af2ce678d762087143d617c1060d3603ef08c1b",
+      "freshTranslation": "말로리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00289/Sheet1/000003",
+      "sourceBindingSha256": "6483c4ccf7878213ebd45555c60c8fb156e6fe82a5b61cd670174cee58a4160a",
+      "sourceTextSha256": "2c91005cb5f6eec035483c4e8af2ce678d762087143d617c1060d3603ef08c1b",
+      "freshTranslation": "말로리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00289/Sheet1/000004",
+      "sourceBindingSha256": "2fe178250f9157c745b0c599b63849505837d3a44b189cde55c9a39722b9f4bb",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00289/Sheet1/000005",
+      "sourceBindingSha256": "6467890cd4264aff80af795eb4ceea57650a4a16cbb08077327c6be38eb16849",
+      "sourceTextSha256": "6cbead29f5f3666f5882c4fd6c0d7e56e8208850dd34efe1c72cd7834907e4e2",
+      "freshTranslation": "르 패닉! TheSecondRaid",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00289/Sheet1/000006",
+      "sourceBindingSha256": "4bdab84441ab1c986955c5283594cb68814f32c56c609a717ad0b5f4a1079f83",
+      "sourceTextSha256": "e1c17fe7d44b6f665818c86170e3b587dff5b2041cee5f89f48abdff38761fc6",
+      "freshTranslation": "미스릴의 임원. ㊥ 미스릴의 창시자라고 하는 인물.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00289/Sheet1/000007",
+      "sourceBindingSha256": "017c11d59686483d0e5ecf2772ec093f8b0674c1a606eafedbb9a87a79b9d984",
+      "sourceTextSha256": "e1c17fe7d44b6f665818c86170e3b587dff5b2041cee5f89f48abdff38761fc6",
+      "freshTranslation": "미스릴의 임원. ㊥ 미스릴의 창시자라고 하는 인물.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

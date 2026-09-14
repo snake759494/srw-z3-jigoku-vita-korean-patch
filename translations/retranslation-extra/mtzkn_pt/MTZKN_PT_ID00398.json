@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00398",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00398/Sheet1/000002",
+      "sourceBindingSha256": "c5b30c6cc0f5e44514b947e2d19e848037b32225e87945ae94dff9ce9c135fba",
+      "sourceTextSha256": "2b332d34824faf037be69c5c1f7c8da5a64f4fa88f56641322c9f03750af9f82",
+      "freshTranslation": "사이가스 에일로니",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00398/Sheet1/000003",
+      "sourceBindingSha256": "80f7befdb0e65770985d43b27a5cc38a9606677dfd927c60c4014e63dd660ee3",
+      "sourceTextSha256": "172a9d0339aac1a7416c52a3ea9f7b5a2b657caf6fe1931b35b568926eaf0956",
+      "freshTranslation": "사이가스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00398/Sheet1/000004",
+      "sourceBindingSha256": "97ee9e06edaa44debfae263270fec7ad24a193c92a3f28c91397e21c9a3aff46",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00398/Sheet1/000005",
+      "sourceBindingSha256": "5b1d1a407196116823ffc2091ff09321c8b8835d86b6afec851c7f1410703a94",
+      "sourceTextSha256": "1a7234de71c3dceb503da5db35465f378185051383643a2e581b8380ef1d8706",
+      "freshTranslation": "지구 연방군 준장. ㊥ 총 사령부 내",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00398/Sheet1/000006",
+      "sourceBindingSha256": "533feaef91f2d6cf04205dfe5324ea9850bd451af294160c9b6ac7129ac2e5a7",
+      "sourceTextSha256": "6d5b8bdceb966dc6d5484b4aa2fdf23191d944c136e30bbf5cdc960185dc1d13",
+      "freshTranslation": "카파의 필두로 면면히 존재하는 지구 지상주의자 조직의 뒷받침을 ㊥ 받고 있다. ㊥ 성격은 음습하며 권력을 갓에 입고 모든 횡포를 통한다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00398/Sheet1/000007",
+      "sourceBindingSha256": "0561be19a4750313bd28646f97d87564b809efca48528fdba541379e0b60f05f",
+      "sourceTextSha256": "89c3f0ba792797eccc0fc74397da2ce27d14cc9b047aa2ad9cb4478247045329",
+      "freshTranslation": "입.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00398/Sheet1/000008",
+      "sourceBindingSha256": "000a55c5b24193c679cc820de11be6a2e61d365280c6b7c1b3c40022c6772e5e",
+      "sourceTextSha256": "1a7234de71c3dceb503da5db35465f378185051383643a2e581b8380ef1d8706",
+      "freshTranslation": "지구 연방군 준장. ㊥ 총 사령부 내",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00398/Sheet1/000009",
+      "sourceBindingSha256": "1d7b7a2daee6035b9de584e5b93a68879fddb9889eba6b9008c7d661add7acff",
+      "sourceTextSha256": "faafe9caee4dba4d08c4d7058b82fa3e3b882c0cf776873eeb1a85ba1b35a083",
+      "freshTranslation": "카파의 필두로 면면히 존재하는 지구 지상주의자 조직의 뒷받침을 ㊥ 받고 있다. 나중에 「인류의 진화를 감시하는 자」를 자칭하는 수수께끼의 조직, 크로노의 구성원㊥이 되어, 그 생명에 의해, 스페이스 콜로니에 전면 공격을 하려고 했다. ㊥ 성격은 음습하고 권력을 갓에 입고 모든 횡포를 통한다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00398/Sheet1/000010",
+      "sourceBindingSha256": "53a30f4816ac1c1c394ce4585277f2e7f8ae683b23422175ebde2e4cf4191411",
+      "sourceTextSha256": "2c40006aeee553505e82efcd4cf37ae51c9ff709d3ca215d2838f29d426e7373",
+      "freshTranslation": "입고, 그것은 크로노와 ㊥라는 뒤 방패를 얻어 더욱 과격함을 늘렸다. ㊥ 시공 수복 후 협력자인 가돌라이트의 역린을 만져 비참한 최후를 맞았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

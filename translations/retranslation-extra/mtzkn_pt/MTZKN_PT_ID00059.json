@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00059",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00059/Sheet1/000002",
+      "sourceBindingSha256": "291da8bd2bd834497e53506776abb5ae5f3ca6a3a6e8c91c58a32284a3018f3a",
+      "sourceTextSha256": "e403dedad78f97a41b4e244f09ae977a7214be44c0504a45d5b18e6a3d1a78d7",
+      "freshTranslation": "벨토치카 일마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00059/Sheet1/000003",
+      "sourceBindingSha256": "e798bf87c9f3760cd715529cd612e8b79a691e19123fc9d9114513d1cfd43b39",
+      "sourceTextSha256": "bf4b64c11e7dfa5d75857d4e497bf062dccc0e5bfcd7dde840e43a1d8ef8afd6",
+      "freshTranslation": "벨토치카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00059/Sheet1/000004",
+      "sourceBindingSha256": "9e9dd6a90e5fe8f554ef046c725bf27225c86882b230ae7ae5b67376db4398af",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00059/Sheet1/000005",
+      "sourceBindingSha256": "84d6fbc68d40caf68300db7ac20d937bb10a685377b69304055e4f2271fbe8bf",
+      "sourceTextSha256": "72cebc7865a7f2f233754f43a593b8f707150c676c89d6924c6f84270d2c0588",
+      "freshTranslation": "에고의 지원 조직인 카라바의 멤버. ㊥ 활동적인 여성이지만, 생각한 일을 곧바로 입에 버리는 성격 때문에, 주위의 반감을 ㊥ 사는 일도 자주 있었다. ㊥ 아우드무라와 접촉했을 때에는, 원래부터 흥미를 가지고 있었다고 하는 일년 전쟁의 영웅 암㊥로와 만날 수 있었던 것을 기뻐하고 있었다. 곧바로 그에게 강렬한 어프로치를 반복해, 이윽고 분기해㊥한 아무로를 연인으로서 지지하게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00059/Sheet1/000006",
+      "sourceBindingSha256": "a9afb957be89963ee7f16a03e799dcba4fc3fdf60f1c32a30febae7e76f3bdff",
+      "sourceTextSha256": "72cebc7865a7f2f233754f43a593b8f707150c676c89d6924c6f84270d2c0588",
+      "freshTranslation": "에고의 지원 조직인 카라바의 멤버. ㊥ 활동적인 여성이지만, 생각한 일을 곧바로 입에 버리는 성격 때문에, 주위의 반감을 ㊥ 사는 일도 자주 있었다. ㊥ 아우드무라와 접촉했을 때에는, 원래부터 흥미를 가지고 있었다고 하는 일년 전쟁의 영웅 암㊥로와 만날 수 있었던 것을 기뻐하고 있었다. 곧바로 그에게 강렬한 어프로치를 반복해, 이윽고 분기해㊥한 아무로를 연인으로서 지지하게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0036",
+    "fileName": "STG0036.cpk",
+    "target": "DATA/STAGE/STG0036.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "933d844516dfc2baf846950ac258e0cf0d562c9e80fc6a34747c101a365b61b2"
+  },
+  "entries": [
+    {
+      "entryId": "STG0036/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "4턴 이내에 넬·아가마를 포인트에 도달시킨다",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0036/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0036/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "5턴째를 맞이한다",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0036/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "3턴 이내에 적을 전멸시킨다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0036/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "유니콘을 넬·아가마 옆에 인접시킨다",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0036/ID00001/OPERATE_TBL/str_tbl/005",
+      "sourceId": 5,
+      "translation": "버나지의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0036/ID00001/OPERATE_TBL/str_tbl/006",
+      "sourceId": 6,
+      "translation": "없음",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

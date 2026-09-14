@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00307",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00307/Sheet1/000002",
+      "sourceBindingSha256": "dcf07f60ed6d8dd54ea4f93b67a10fbe8eb7047aeecb1bb6522c7263283063d1",
+      "sourceTextSha256": "a2f825b234713a21f5d4948c8558c8cc4e77888035445dcde6793d428a20a1e2",
+      "freshTranslation": "이사벨 크론 카이트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00307/Sheet1/000003",
+      "sourceBindingSha256": "3deb021517e126f8873b328193547b1f6014b508715a8283247821d3941dfa14",
+      "sourceTextSha256": "8584b5a6eeb6d9eeec6485ecfedad9c20c9dc42a9c7daba0348d2ae9d3d567c9",
+      "freshTranslation": "이사벨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00307/Sheet1/000004",
+      "sourceBindingSha256": "be0803525e797f22689a2c2a8801b145bb7bc2375aade270bc1ce95bf36577ec",
+      "sourceTextSha256": "1e56b9ff86dcef266f12989d9d9c1a049376962d8d547fa14759ae90a788c964",
+      "freshTranslation": "수장기공 단쿠가노바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00307/Sheet1/000005",
+      "sourceBindingSha256": "8e6bff5b36be60f21e0c6b76812be245ede06097f46f1964dbfefb350f88465e",
+      "sourceTextSha256": "fe669dd25029e989d6e9ae3530a170adeba9f07d721d43d9bcbedb14ba5e646c",
+      "freshTranslation": "BWC 소속의 저널리스트. ㊥ 단쿠가노바의 행동과 존재에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00307/Sheet1/000006",
+      "sourceBindingSha256": "c9014b5d447ac26ba888410fabd7fd208064de29ebd6197f6ab4ebd57d3fa627",
+      "sourceTextSha256": "c4c2c405b9dbd6e87a2e094da51f48292031916e7c33cf5ca202b90331dff042",
+      "freshTranslation": "염려하고 있으며, 위험을 감수하지 않고 전장을 날아다니는 ㊥ 사에서 '육탄 취재 기자'라고도 불리고 있다. ㊥ 취재 기사를 정리한 '단쿠가는 전장에 필요한가?'에서 퓨리처상을 수상㊥하고 있다. ㊥ 활동을 계속하는 동안 위로부터의 압력을 받지만, 어쨌든 취재를 계속하는 신념을 ㊥ 가진다. ㊥ 이윽고 지나친 행동에 의해 매스 미디어 전체에 압력이 걸리지만, 회사를 그만두고 ㊥까지 취재를 속행. 이고르 콘체른의 파티 장소에서 알게 된 아스카의 정보 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00307/Sheet1/000007",
+      "sourceBindingSha256": "4d7d1eb2ab5faa0830da758595feffc9ff58431e75c376baaade91098d573cb5",
+      "sourceTextSha256": "7c504b136e09b02dfdaaddc445cdaa2eedf191e1427123d827078feab7319602",
+      "freshTranslation": "열매로 다가갔다. ㊥WILL의 입에서 모든",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00307/Sheet1/000008",
+      "sourceBindingSha256": "de081be2c1231561015c56e0f31a0173a7628978e63a672e522da47abb4c2101",
+      "sourceTextSha256": "c50daa5751d723750db19e3c8aa4a9e9a79538085e9d846cdef2b05a219bf6d6",
+      "freshTranslation": "상이 말되었을 때에는, 기사로 하는 일을 포기하는 입㊥만이었다. 하지만, 살아 있는 한 단쿠가를 계속 취재하겠다는 의사는 흔들리는 ㊥ 일은 없고, 달에서의 최종 결전에 동행해 모두를 지켜봤다. ㊥ 단쿠가의 싸움이 끝난 후, 역시 저널리스트로서의 충동을 억제할 수 있는 ㊥였는지, WILL에 관한 보도를 행하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00307/Sheet1/000009",
+      "sourceBindingSha256": "9c6676cd700675e48880048ff49ba4ca746cfbe190dbbef5d2ada569870efc4b",
+      "sourceTextSha256": "fe669dd25029e989d6e9ae3530a170adeba9f07d721d43d9bcbedb14ba5e646c",
+      "freshTranslation": "BWC 소속의 저널리스트. ㊥ 단쿠가노바의 행동과 존재에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00307/Sheet1/000010",
+      "sourceBindingSha256": "27f4e06c698fef5ad1e1e1b12fee8fc85d4f3c4205a1f86c30b1c90c8d21a416",
+      "sourceTextSha256": "c4c2c405b9dbd6e87a2e094da51f48292031916e7c33cf5ca202b90331dff042",
+      "freshTranslation": "염려하고 있으며, 위험을 감수하지 않고 전장을 날아다니는 ㊥ 사에서 '육탄 취재 기자'라고도 불리고 있다. ㊥ 취재 기사를 정리한 '단쿠가는 전장에 필요한가?'에서 퓨리처상을 수상㊥하고 있다. ㊥ 활동을 계속하는 동안 위로부터의 압력을 받지만, 어쨌든 취재를 계속하는 신념을 ㊥ 가진다. ㊥ 이윽고 지나친 행동에 의해 매스 미디어 전체에 압력이 걸리지만, 회사를 그만두고 ㊥까지 취재를 속행. 이고르 콘체른의 파티 장소에서 알게 된 아스카의 정보 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00307/Sheet1/000011",
+      "sourceBindingSha256": "bc8ae99a3e6426eaf4546cafc9c220d7479051211c6dacf9f0e4d8744dc44eff",
+      "sourceTextSha256": "7c504b136e09b02dfdaaddc445cdaa2eedf191e1427123d827078feab7319602",
+      "freshTranslation": "열매로 다가갔다. ㊥WILL의 입에서 모든",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00307/Sheet1/000012",
+      "sourceBindingSha256": "e82393a220268d9da532cf72b77da01e92ee18d6a759f4729a99505fea1b06fc",
+      "sourceTextSha256": "c50daa5751d723750db19e3c8aa4a9e9a79538085e9d846cdef2b05a219bf6d6",
+      "freshTranslation": "상이 말되었을 때에는, 기사로 하는 일을 포기하는 입㊥만이었다. 하지만, 살아 있는 한 단쿠가를 계속 취재하겠다는 의사는 흔들리는 ㊥ 일은 없고, 달에서의 최종 결전에 동행해 모두를 지켜봤다. ㊥ 단쿠가의 싸움이 끝난 후, 역시 저널리스트로서의 충동을 억제할 수 있는 ㊥였는지, WILL에 관한 보도를 행하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

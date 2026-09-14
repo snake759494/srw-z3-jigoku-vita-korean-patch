@@ -1,0 +1,203 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00143",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000002",
+      "sourceBindingSha256": "c63435ca76a474da9ad56715e0cda9fba5d055d4206c982a2910acf127d482ce",
+      "sourceTextSha256": "2e50e921e3c7b75fbcf433d1563a8398e58c77dd78a57ca4d82d5572435bab13",
+      "freshTranslation": "(체인지!)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000003",
+      "sourceBindingSha256": "8d155dfb40b107d922feac75ce2773d3fd4d9b5b23ccced620028eeb3beefe8d",
+      "sourceTextSha256": "7c3cb5cb2ef14de63eec14acd214053a7f20637efe0ffd4631309ea46fb1a51d",
+      "freshTranslation": "- 로보 세계 마지막 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000004",
+      "sourceBindingSha256": "425d4d6be544ded832abf6421ca5f4ac390ffadbb2df8dc57d8bbb22abca7613",
+      "sourceTextSha256": "9c4bb75225f70a575dd294494515837459e8ee9a0a4b79c4d6a9793edccfd24b",
+      "freshTranslation": "블랙게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000005",
+      "sourceBindingSha256": "d545c7694a775ad2982c0151230662d2bc0ab96989c6e811392c8f2cb424a19a",
+      "sourceTextSha256": "9c4bb75225f70a575dd294494515837459e8ee9a0a4b79c4d6a9793edccfd24b",
+      "freshTranslation": "블랙게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000006",
+      "sourceBindingSha256": "62d67585c1e0682778ba098f595ca70d0e8a0628399499ca815558a153ca622d",
+      "sourceTextSha256": "4073b29d4a1e82ff650355db6dfc435004a48401464fe8f5ab7abd7c65e795a2",
+      "freshTranslation": "유룡마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000007",
+      "sourceBindingSha256": "63137588a902bc39011e1980320ca153430c73a68177b32daca6de2485901773",
+      "sourceTextSha256": "f9f6fdebfd6e6fb2e4d772ba71c704718d36d21efdb8f14390a1c8ce6c8c4c79",
+      "freshTranslation": "미래로 날아간 류마가 달의 표면에서 찢어졌습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000008",
+      "sourceBindingSha256": "74e68739572b3ac38e7846f1b660c052f39ad381993d44e7796bc4fb80cdb513",
+      "sourceTextSha256": "5e2f6c6464fb18da329852e5fa77c74b4aa3de5f434da491b8d6fbf48e59e21c",
+      "freshTranslation": "- 1을 수리 · 개수하여 건설㊥올린 기체. 1인승으로 분리·합체는 불능.㊥원래는 정상입니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000009",
+      "sourceBindingSha256": "6d4b680b2b0ba89f62f82a2747cee11b4f12592a32bd3207202973689e212e53",
+      "sourceTextSha256": "9109af4f458d8090b2e35dca7754aa25bba00a6e4b4f0dedff6cc5c299d42735",
+      "freshTranslation": "- 같은 색이었지만, 대기권 돌입시에 도장이 타고 검게되어㊥있다.㊥각성을 시작했다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000010",
+      "sourceBindingSha256": "8dfa4e3089f376202586bd9e8250b08612e0222fc0b063de73478599389246cf",
+      "sourceTextSha256": "5a8c1c0eec4c396ac51999b4a98311224fe8d86e85d590487ab88a82ecc7d7f6",
+      "freshTranslation": "드래곤에 에너지를 흡수되어 바다로 낙하. 이후 용마가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000011",
+      "sourceBindingSha256": "14920a2cbd8387f9a151b90d82a284cd6d326a080e464ec48c90b35d64cdc525",
+      "sourceTextSha256": "fec29af2f72b11dfab5d53f4d65e56afd005576c777de17eba5ad3ec29fa039a",
+      "freshTranslation": "겟㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000012",
+      "sourceBindingSha256": "a3ae3d9eab372b03249620cb2e148b84f4220a7868a3b788a0f0be6ebc9965c4",
+      "sourceTextSha256": "7e8992cb8c6fa1d2a3b8bae703beed96697e0264dafbf0262b2739f88c56cb02",
+      "freshTranslation": "에 갈아타서 등장하지 않았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000013",
+      "sourceBindingSha256": "dc50fbf58b62eb5bc21e7c9b1219f2a38520b89bee971b872afb5bb38bffe692",
+      "sourceTextSha256": "f9f6fdebfd6e6fb2e4d772ba71c704718d36d21efdb8f14390a1c8ce6c8c4c79",
+      "freshTranslation": "미래로 날아간 류마가 달의 표면에서 찢어졌습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000014",
+      "sourceBindingSha256": "032f50ddafb69989dbf13b4148cfb36be62f5c8bbbca88be2b9001b33d03df30",
+      "sourceTextSha256": "5e2f6c6464fb18da329852e5fa77c74b4aa3de5f434da491b8d6fbf48e59e21c",
+      "freshTranslation": "- 1을 수리 · 개수하여 건설㊥올린 기체. 1인승으로 분리·합체는 불능.㊥원래는 정상입니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000015",
+      "sourceBindingSha256": "8d9661a638b3a446be7f3c923aa323ea04043de3cd90f9246e77d4ac3c8cc1de",
+      "sourceTextSha256": "9109af4f458d8090b2e35dca7754aa25bba00a6e4b4f0dedff6cc5c299d42735",
+      "freshTranslation": "- 같은 색이었지만, 대기권 돌입시에 도장이 타고 검게되어㊥있다.㊥각성을 시작했다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000016",
+      "sourceBindingSha256": "184f004aba2e6f2994f6ccf2c74f89197034753e04948f7ad7e0d31083c9f982",
+      "sourceTextSha256": "5a8c1c0eec4c396ac51999b4a98311224fe8d86e85d590487ab88a82ecc7d7f6",
+      "freshTranslation": "드래곤에 에너지를 흡수되어 바다로 낙하. 이후 용마가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000017",
+      "sourceBindingSha256": "514b1f37f78ac8aafebecc8bcc189defdc05cc858c645a0a04dae78bda886d1f",
+      "sourceTextSha256": "fec29af2f72b11dfab5d53f4d65e56afd005576c777de17eba5ad3ec29fa039a",
+      "freshTranslation": "겟㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00143/Sheet1/000018",
+      "sourceBindingSha256": "5ea5291fa5d8a45db3a42e0a29176b470863ef0513291b3f63fb9a6f9bcb4e20",
+      "sourceTextSha256": "7e8992cb8c6fa1d2a3b8bae703beed96697e0264dafbf0262b2739f88c56cb02",
+      "freshTranslation": "에 갈아타서 등장하지 않았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

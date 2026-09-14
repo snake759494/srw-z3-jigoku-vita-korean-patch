@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00066",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00066/Sheet1/000002",
+      "sourceBindingSha256": "2a33166001e2a32c25e9fa0a6e68800c44f463d15660bae52a642b2aaed00298",
+      "sourceTextSha256": "15a2e664e80fef55f49873f69b656b86b230b630d2bdafde619513e324977069",
+      "freshTranslation": "기동전사 건담 SEEDDESTINY",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00066/Sheet1/000003",
+      "sourceBindingSha256": "eb181447067bb42e9e87f1792483ff28813c0c3b5e35a71c21cb6a5b00e81944",
+      "sourceTextSha256": "14962daf4a67beb10645637bc3cfd71cf2cd5bc906d087d6cae4d31f5061b23c",
+      "freshTranslation": "데스티니 건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00066/Sheet1/000004",
+      "sourceBindingSha256": "0911c905cfc1cf60f8e323b2c9fefdba1cada34367c91f7cdbde0ea0dbe8f6e6",
+      "sourceTextSha256": "14962daf4a67beb10645637bc3cfd71cf2cd5bc906d087d6cae4d31f5061b23c",
+      "freshTranslation": "데스티니 건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00066/Sheet1/000005",
+      "sourceBindingSha256": "a7168e337a81123a1a52a54e7075fca722410e882f4c6745a55ea3efc6247501",
+      "sourceTextSha256": "bd97a5d4cbe761a7ebd13bc50c263324b082166649adb4a12a3e003acfe38fe6",
+      "freshTranslation": "신 아스카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00066/Sheet1/000006",
+      "sourceBindingSha256": "9d8b5b8f317261af4ff4039b86675fa577c6a2f9071bc18c90ac7ce64e8dbcdb",
+      "sourceTextSha256": "43ac964ef814cac2ddf2a21a785505feb3d65b38783939ce6b23e70109124288",
+      "freshTranslation": "지구 연합군과의 싸움에 결착을 붙이기 위해서 개발된, 자프트의 최신예 모빌 슈트. ㊥신의 급속한 성장에 따라, 임펄스 건담에서는 그 재능을 살릴 수 없다고 생각㊥ 했던 듀란달의 손에 의해 세부에 조정이 더해졌기 때문에, 사실상, 씬의 전용기㊥가 되고 있다. ㊥ 핵동력과 듀트리온 빔송전시스템을 병용한 동력기관 '하이퍼듀 ㊥ 트리온엔진'을 장비하고 있으며, 윙 파트에서 빛의 날개를 발생시켜 절대적인 ㊥ 기동성을 발휘한다. ㊥ 임펄스 건담의 3 형태 각각의 장점을 겸비하고 거리를 가리지 않는 다채로운 무 ㊥장과 발군의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00066/Sheet1/000007",
+      "sourceBindingSha256": "46878734ab7def251b3f3e4f53de6a8928e6928c26abc3dba2528aa4f7e4693a",
+      "sourceTextSha256": "da8feeb38e98d8b0c58d8d131f97a0d7f00c52cde797bfc73a5014e821543ad1",
+      "freshTranslation": "동성을 양립시키는 데 성공했다. 게다가 장부 빔포나 미라지코로㊥이드를 응용한 잔상 현상 등의 독자적인 기능도 더해져, 단기로 모든 전황에 대응하는㊥이라는 컨셉을 실현한 기체가 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00066/Sheet1/000008",
+      "sourceBindingSha256": "5677cb64818350ee7742b4cd7d096c7dddab4dbc2825e03f6a3e17c4eb512ea2",
+      "sourceTextSha256": "43ac964ef814cac2ddf2a21a785505feb3d65b38783939ce6b23e70109124288",
+      "freshTranslation": "지구 연합군과의 싸움에 결착을 붙이기 위해서 개발된, 자프트의 최신예 모빌 슈트. ㊥신의 급속한 성장에 따라, 임펄스 건담에서는 그 재능을 살릴 수 없다고 생각㊥ 했던 듀란달의 손에 의해 세부에 조정이 더해졌기 때문에, 사실상, 씬의 전용기㊥가 되고 있다. ㊥ 핵동력과 듀트리온 빔송전시스템을 병용한 동력기관 '하이퍼듀 ㊥ 트리온엔진'을 장비하고 있으며, 윙 파트에서 빛의 날개를 발생시켜 절대적인 ㊥ 기동성을 발휘한다. ㊥ 임펄스 건담의 3 형태 각각의 장점을 겸비하고 거리를 가리지 않는 다채로운 무 ㊥장과 발군의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00066/Sheet1/000009",
+      "sourceBindingSha256": "7d89bea9b0f97ba811ca01444030ea222fdb3736d38d322cbab3ec43f65ae329",
+      "sourceTextSha256": "ad2645c7594d19c5027c84fee7da23f851d853836e33b43798d068d712403ba3",
+      "freshTranslation": "동성을 양립시키는 데 성공했다. 게다가 장부 빔포나 미라지코로㊥이드를 응용한 잔상 현상 등의 독자적인 기능도 더해져, 단기로 모든 전황에 대응하는㊥이라는 컨셉을 실현한 기체가 되고 있다. ㊥ 메사이아 공방전 중, 인피니트 저스티스와의 전투에서 대파해, 그대로 ㊥월면으로 낙하해 전선을 이탈했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

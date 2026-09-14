@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00024",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00024/Sheet1/000002",
+      "sourceBindingSha256": "4a976c599e364ad24691650870351b17f6031ba2a426e2e6302013ddb78bac69",
+      "sourceTextSha256": "5a5d8b45681a5497301b4c0b683f3c3566e9a3b5106ec6aa11c6e9ddc4eafb8e",
+      "freshTranslation": "이슈인 나오토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00024/Sheet1/000003",
+      "sourceBindingSha256": "b07ff2942d145ce8648f610c9a9f2f6eac1aac46bf79da2a82e15f7779a96496",
+      "sourceTextSha256": "e32e3400ee24e0130cb7a5e3e01ec572b6365ff99509b8e15bb055c0e2b2bde4",
+      "freshTranslation": "나오토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00024/Sheet1/000004",
+      "sourceBindingSha256": "ce2e1ab8c74372070367ae7df8e0743f754467c4568849d46985f1db4d4d1b38",
+      "sourceTextSha256": "2821f723e708a26125b2215f86a494a31e2eb1a3f45f2c6e857b2cc6d0a13f93",
+      "freshTranslation": "롯신 합체 갓 마즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00024/Sheet1/000005",
+      "sourceBindingSha256": "8cf34d1cf6e10519da3be0b94de900ae855a3f950d3041db51c38cd9b514e8f0",
+      "sourceTextSha256": "b58ee9139cc8bfc294865ebd8f4364c0b89d151c5386579eaceaa53179a10031",
+      "freshTranslation": "시노미야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00024/Sheet1/000006",
+      "sourceBindingSha256": "c380c0dfed38551ccaf4e01f2999e4a51720c29dd8d6986b38b8a89609232caf",
+      "sourceTextSha256": "51228c5fceb9a83e57965e9d431f470b4875ef4d4055f0449b2a7079da1bea29",
+      "freshTranslation": "크러셔대의 일원. 17세. ㊥ 아이러니한 곳이 있어 치아에 옷을 입지 않는 언동 때문에 오해되기 쉽지만, 뿌리는 동료 구상의 우㊥인 남자이다. ㊥ 코스모 크러셔 내에서는 사격을 담당하고 있어, 전투 때에는 '샤라쿠세에!' ㊥의 버릇과 함께 스코프를 들여다보면 레이저를 발사하는 장면이 많이 보였다. ㊥ 같은 사격 담당이었던 시절부터",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00024/Sheet1/000007",
+      "sourceBindingSha256": "02d285c57915cd3f2989de9dd9f998e5de77449ea97e21ceb3ff304deb9ecf54",
+      "sourceTextSha256": "e9e31b3d6ba21d01c4f60e2cc1273510f457efaa946facf6cc5bb7c98279d53f",
+      "freshTranslation": "켈을 라이벌 시청하고 있으며,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00024/Sheet1/000008",
+      "sourceBindingSha256": "f949cf1fcc1cd082865d8b2e1d2e6c123639bc5d011d908f5140a92bf365573a",
+      "sourceTextSha256": "97b4eb71d996e4274d401b13c9fa4e80056a2e8e86b2e0440222a01b094e3f41",
+      "freshTranslation": "켈의 출생을 알았을 때 ㊥에는 사람 한배 괴롭게 맞았다. 하지만,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00024/Sheet1/000009",
+      "sourceBindingSha256": "c80c67a753fed1d4ac3be5f12859a043c35ab025e50334a5907b0e35d0a860ef",
+      "sourceTextSha256": "88258e46b3ecd71d81ce0763590dcaaa94c16931126610a24483bd248e9f861a",
+      "freshTranslation": "켈의 심근을 접해 화해한 뒤 다시 신뢰관계㊥를 구축하고 있다. ㊥ 줄이 부활하면 그 몸을 희생합니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00024/Sheet1/000010",
+      "sourceBindingSha256": "dd12054a603f423ea41a02c27a5c66396829a8e83c6f746f346662870b282cbf",
+      "sourceTextSha256": "e6fc2960ec31345bf56b73845b8f38792e1293abf56b5fd238342802f06960fc",
+      "freshTranslation": "켈의 힘이 되려고 했지만 장미㊥의 기사에게 구원받았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00024/Sheet1/000011",
+      "sourceBindingSha256": "094c445f4dfcaaa89d99eb215c4dec2a33fbac52a0348525f3f5a30522703a03",
+      "sourceTextSha256": "51228c5fceb9a83e57965e9d431f470b4875ef4d4055f0449b2a7079da1bea29",
+      "freshTranslation": "크러셔대의 일원. 17세. ㊥ 아이러니한 곳이 있어 치아에 옷을 입지 않는 언동 때문에 오해되기 쉽지만, 뿌리는 동료 구상의 우㊥인 남자이다. ㊥ 코스모 크러셔 내에서는 사격을 담당하고 있어, 전투 때에는 '샤라쿠세에!' ㊥의 버릇과 함께 스코프를 들여다보면 레이저를 발사하는 장면이 많이 보였다. ㊥ 같은 사격 담당이었던 시절부터",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00024/Sheet1/000012",
+      "sourceBindingSha256": "87f0314bf132a8cf855fec4a4b37954c39ebe7c4d04fc2a8b00912ff27592027",
+      "sourceTextSha256": "e9e31b3d6ba21d01c4f60e2cc1273510f457efaa946facf6cc5bb7c98279d53f",
+      "freshTranslation": "켈을 라이벌 시청하고 있으며,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00024/Sheet1/000013",
+      "sourceBindingSha256": "cf24a23822bf381dfafc67bcc5fb0548fa12ce59b1505207e2b6bf5df1cc121b",
+      "sourceTextSha256": "97b4eb71d996e4274d401b13c9fa4e80056a2e8e86b2e0440222a01b094e3f41",
+      "freshTranslation": "켈의 출생을 알았을 때 ㊥에는 사람 한배 괴롭게 맞았다. 하지만,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00024/Sheet1/000014",
+      "sourceBindingSha256": "0c840fee7ece95d08e55497c7fe33a6166502523dc29b39b1a9ab76b6194e7f6",
+      "sourceTextSha256": "88258e46b3ecd71d81ce0763590dcaaa94c16931126610a24483bd248e9f861a",
+      "freshTranslation": "켈의 심근을 접해 화해한 뒤 다시 신뢰관계㊥를 구축하고 있다. ㊥ 줄이 부활하면 그 몸을 희생합니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00024/Sheet1/000015",
+      "sourceBindingSha256": "7e41c20d00cbc88d2c2276028961cc4dd95533d4aa80c21048d252067c9f1ad1",
+      "sourceTextSha256": "e6fc2960ec31345bf56b73845b8f38792e1293abf56b5fd238342802f06960fc",
+      "freshTranslation": "켈의 힘이 되려고 했지만 장미㊥의 기사에게 구원받았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

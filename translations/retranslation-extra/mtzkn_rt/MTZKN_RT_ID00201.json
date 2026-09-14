@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00201",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00201/Sheet1/000002",
+      "sourceBindingSha256": "17acb4f4be2383d7e3e06713f6113d262ed1f86738114a645690450e11388e3c",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00201/Sheet1/000003",
+      "sourceBindingSha256": "4196360bab8196206430fbb96a1a308866313122b65ddba381d4de5709260a95",
+      "sourceTextSha256": "9f6b597c8160e51dca8064f12a7b0f48383860b3925233c8f9a52136c9668c2e",
+      "freshTranslation": "우주 감마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00201/Sheet1/000004",
+      "sourceBindingSha256": "9437875f0c3132ef769a5052b8f8beef6314420f03c54ee6088c756d264f8a65",
+      "sourceTextSha256": "9f6b597c8160e51dca8064f12a7b0f48383860b3925233c8f9a52136c9668c2e",
+      "freshTranslation": "우주 감마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00201/Sheet1/000005",
+      "sourceBindingSha256": "bb99ed3556306678ab19162bf495f4cb467084a1a4eb9d8b2d5ca4ec10908727",
+      "sourceTextSha256": "d688ca9f1795b5a7a75633fa17e9ab5e0de8932105a340a18d3c45448159297b",
+      "freshTranslation": "달리 아다이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00201/Sheet1/000006",
+      "sourceBindingSha256": "11ed958bb512116d3daa3c132d0ed0d47d3364725ce9b1b4fb5215b3e18e1330",
+      "sourceTextSha256": "9e6a206410d2877b32325b5a58d1a506fd5e6f105d4e97bc7ff14deff8322467",
+      "freshTranslation": "큰 글렌단",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00201/Sheet1/000007",
+      "sourceBindingSha256": "f663c051d85603d648274ea7cf44daa819b14637d7f8570580124a21b0229ea5",
+      "sourceTextSha256": "2ebd41652083b79d46ffc1fa7897f96b64e8c777009579dea3c0df25059b7655",
+      "freshTranslation": "사용할 양산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00201/Sheet1/000008",
+      "sourceBindingSha256": "da31910db00d5f5673779385566223f9572ef1d6aad3a7264a3c80aecd11e283",
+      "sourceTextSha256": "64d0f099b950b48e0d2c4ef32b1ffdb2c23e5dad62037ceab23fb8e140135352",
+      "freshTranslation": "우주 건멘. ㊥라젠간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00201/Sheet1/000009",
+      "sourceBindingSha256": "57cba57280ecc8245d724206944616ed05095d72dcf570113a7bd7c731565cd6",
+      "sourceTextSha256": "652a18c87589cd7925b746ed0a6328c6ad017b382f5fa627d9be79f0d3419995",
+      "freshTranslation": "입의 양산기이자 카테드랄 라젠간 안에 수용되어 있던 ㊥ 것을 발견, 주로 신정부군의 병사들이 탑승하게 되었다. ㊥ 달리가 탑승하는 기체는, 각소 악센트가 되는 컬러링, 및 머리의 형상㊥가 일반기와 다르다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00201/Sheet1/000010",
+      "sourceBindingSha256": "700a77480d421c296f0af60f018bc79b15d2f6294ed9275da737b4d15997dfe2",
+      "sourceTextSha256": "9e6a206410d2877b32325b5a58d1a506fd5e6f105d4e97bc7ff14deff8322467",
+      "freshTranslation": "큰 글렌단",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00201/Sheet1/000011",
+      "sourceBindingSha256": "b7d78e163e147c4fdfa5545ce5066cbf715f112c7bc0afb2c873c525883abe3e",
+      "sourceTextSha256": "2ebd41652083b79d46ffc1fa7897f96b64e8c777009579dea3c0df25059b7655",
+      "freshTranslation": "사용할 양산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00201/Sheet1/000012",
+      "sourceBindingSha256": "a97d6724ae0f1e45e52d556517c2173a89f69918a6d2dc145578e53560696f75",
+      "sourceTextSha256": "64d0f099b950b48e0d2c4ef32b1ffdb2c23e5dad62037ceab23fb8e140135352",
+      "freshTranslation": "우주 건멘. ㊥라젠간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00201/Sheet1/000013",
+      "sourceBindingSha256": "f6bc8c3dd3fd9706a8a24ad17a19eece5cca65a5c14dd92cb363d71b562b1250",
+      "sourceTextSha256": "652a18c87589cd7925b746ed0a6328c6ad017b382f5fa627d9be79f0d3419995",
+      "freshTranslation": "입의 양산기이자 카테드랄 라젠간 안에 수용되어 있던 ㊥ 것을 발견, 주로 신정부군의 병사들이 탑승하게 되었다. ㊥ 달리가 탑승하는 기체는, 각소 악센트가 되는 컬러링, 및 머리의 형상㊥가 일반기와 다르다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+ctranslate2==4.8.1
+fugashi==1.5.2
+optimum[onnxruntime]
+sentencepiece==0.2.2
+transformers==5.14.1
+unidic-lite==1.0.8

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "aid",
+  "assetKey": "AID_ID00031",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "AID_ID00031/Sheet1/000002",
+      "sourceBindingSha256": "17bf2055fd561e326fbaf39bf0cdda9c5084cc39ffeb529034d3b76aa6ead11a",
+      "sourceTextSha256": "0a52c7253dd9d6ae62c816729dd95c24c35b0eee721da261475186a589c5f88f",
+      "freshTranslation": "瑩㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "AID_ID00031/Sheet1/000003",
+      "sourceBindingSha256": "66433ed00086d8bf8b71b95519334be9fb8b654977eaba6335ff2f28a86bd109",
+      "sourceTextSha256": "b2eac480744c72c5651d64f9b8e9fc0022f3c80b31bce864624b7985167846a3",
+      "freshTranslation": "新多元世紀０００１年⑲９月１２日㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "AID_ID00031/Sheet1/000004",
+      "sourceBindingSha256": "af29ee5f68be4f745e35337fb032d4f4c1550efc0f4a2ae53e48cf3838f30b0d",
+      "sourceTextSha256": "66977ed04918b9756dc1ce6994eb11f88383a8eab817d525872b6de54d5c5c6c",
+      "freshTranslation": "지상에 내린 일행은 미스릴 서태평양전대의 기지㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "AID_ID00031/Sheet1/000005",
+      "sourceBindingSha256": "319a626fb9a7b282d6e6404d51d436572260895e9d938b51de33989fa29f8e0e",
+      "sourceTextSha256": "e4cd2cc350ead847e40f455f705fc8d39fb05164474805b6e9ed94a17cf1eafa",
+      "freshTranslation": "메리다 섬에서 보급을 받고 무리 사이의 휴식을 즐겼다.㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "AID_ID00031/Sheet1/000006",
+      "sourceBindingSha256": "4a05d145a2e4b437913ce6e0ce92d89b29a9df85db7421fe7d38cb92214a24ea",
+      "sourceTextSha256": "f58dd2ce00b27183a2c56b295269304ad7e2a47962481ad973c7c24ae13dfa8c",
+      "freshTranslation": "그러나 테레사 테스타로사에 평화를 느낄 때는㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "AID_ID00031/Sheet1/000007",
+      "sourceBindingSha256": "bc1e51210d450954b897b09f2e153dc3987b4ff33642fa5a1b2bb967bbf9a538",
+      "sourceTextSha256": "b61702b49525d28d2e97564829fecc4fa9c78f8ccd0d4ebf0479d33e76f8be17",
+      "freshTranslation": "방문하지 않았다…㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦㊦",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

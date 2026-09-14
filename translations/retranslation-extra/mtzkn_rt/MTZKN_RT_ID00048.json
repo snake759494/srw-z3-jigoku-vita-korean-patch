@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00048",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00048/Sheet1/000002",
+      "sourceBindingSha256": "9c84201f32eea713bd0ff41992bdd36676f85069fd8ede811ee515284bbe1579",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00048/Sheet1/000003",
+      "sourceBindingSha256": "01b95b8ed1664de5fec3966e0ec2e8a0c1555e056abf3d681e572c47380219c5",
+      "sourceTextSha256": "d21b1da16c1fe5a3f44f35b5c0805a6c47a7e0d8618dd1cf217da04de38e44a2",
+      "freshTranslation": "야크트 도가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00048/Sheet1/000004",
+      "sourceBindingSha256": "85d80a12b4eb7805de78990a4cd323a388bbe4f6aaec806cbe585505513757c3",
+      "sourceTextSha256": "d21b1da16c1fe5a3f44f35b5c0805a6c47a7e0d8618dd1cf217da04de38e44a2",
+      "freshTranslation": "야크트 도가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00048/Sheet1/000005",
+      "sourceBindingSha256": "b9be42e6ad2959044d7ec946ec4a0f385f976b9bd590989aca407d339214ec66",
+      "sourceTextSha256": "55c3a40f50d08f982e972a57e23b03d39dda0bd8de5f95926edfc66e15c42ebc",
+      "freshTranslation": "퀘스 파라야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00048/Sheet1/000006",
+      "sourceBindingSha256": "d1bfb60ba8f40d32597a442b7d321930a3b69755a50b6a92f76ab077607105d0",
+      "sourceTextSha256": "bc5764569dedd0a9b2d30ba6f998a89b4bd27439ef83dbe7f2f0b9d2162596f1",
+      "freshTranslation": "네오지온군의 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00048/Sheet1/000007",
+      "sourceBindingSha256": "f305a63fe126624522ec90e58cfc5ed5406f6dfbe104b8565d5a0787296caca9",
+      "sourceTextSha256": "e648283efd856cf24b83b11458c95fa30381b2e1506c40b97eff692e4c51b1bd",
+      "freshTranslation": "입 전용 모빌 슈트. ㊥ 애너하임 일렉트로닉스사의 그라나다 공장에서 개발된다. 프로토타입기로서 2㊥기 제조되었으며, 그 중 빨간 기체가 퀘스의 전용기가 되었다. ㊥ 사이코 프레임을 채용하여 조종의 추종성과 즉응성이 우수하다. ㊥6기의 깔때기를 비롯한 무장의 대부분은 규네이기와 공통이지만, 퀘스기 ㊥는 메가 개틀링 건을 장비하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00048/Sheet1/000008",
+      "sourceBindingSha256": "a874a3690a1bc782caf07bd7ac0cc88458a82882b419d6cdd2e65543e39cae47",
+      "sourceTextSha256": "bc5764569dedd0a9b2d30ba6f998a89b4bd27439ef83dbe7f2f0b9d2162596f1",
+      "freshTranslation": "네오지온군의 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00048/Sheet1/000009",
+      "sourceBindingSha256": "ef74515527201a633dae6dad475fd3a01c49c56cf1193b52b87fb8a4f7e6bd07",
+      "sourceTextSha256": "e648283efd856cf24b83b11458c95fa30381b2e1506c40b97eff692e4c51b1bd",
+      "freshTranslation": "입 전용 모빌 슈트. ㊥ 애너하임 일렉트로닉스사의 그라나다 공장에서 개발된다. 프로토타입기로서 2㊥기 제조되었으며, 그 중 빨간 기체가 퀘스의 전용기가 되었다. ㊥ 사이코 프레임을 채용하여 조종의 추종성과 즉응성이 우수하다. ㊥6기의 깔때기를 비롯한 무장의 대부분은 규네이기와 공통이지만, 퀘스기 ㊥는 메가 개틀링 건을 장비하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

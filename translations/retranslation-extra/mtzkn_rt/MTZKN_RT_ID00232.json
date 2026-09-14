@@ -1,0 +1,203 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00232",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000002",
+      "sourceBindingSha256": "976d72a724ee54979e5ddddba5ccec3757ce62435483e62097d00851089d299d",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000003",
+      "sourceBindingSha256": "18c0a5bf6689c9bc7800299e07ff8d0b84bb08b2e77d64f86189c6c31aa42ed5",
+      "sourceTextSha256": "1d24f1a8eebff6b51c8a52292bba3fd4b815decbe87fb8c0917067da02f3704f",
+      "freshTranslation": "아쿠에리온스파다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000004",
+      "sourceBindingSha256": "b08b27d7a9665440feb633c90e8fa7e3514b853772f432e944f7f7d10545f788",
+      "sourceTextSha256": "1d24f1a8eebff6b51c8a52292bba3fd4b815decbe87fb8c0917067da02f3704f",
+      "freshTranslation": "아쿠에리온스파다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000005",
+      "sourceBindingSha256": "3bf20f4968401633b54188663aa0fbcc2b9d54cfa9476530b30608f048d57838",
+      "sourceTextSha256": "7b2662049512e32d98ccff6ba79616fb227704168d4cc240c40d975fd60c8e37",
+      "freshTranslation": "네오디바가 소유한 기계 천사. ㊥백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000006",
+      "sourceBindingSha256": "3858b8efd9319ad21058ee208c46609f0c2b8d013a3ef798dfda7224a056d3e3",
+      "sourceTextSha256": "1a354cf9bed8837b4590dd7e407b1b423b1ed3205f4a67cbc9eea7548f133fa1",
+      "freshTranslation": "-머신이라고 불리는 3기의 전투기가 합체하는 것으로 완성된다. ㊥ 조합에 의해 3종류의 형태에 합체하는 것이 가능하고, 각각의 형태마다 전투㊥투스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000007",
+      "sourceBindingSha256": "300c82976bd38171dda11e05ef5837574c3c0ee4e9c32456a1b1168a29b325f4",
+      "sourceTextSha256": "3de699fd8aae27638cf4f5ae701f37a0e4a4fe1ba8e33638446fdfe0916d390a",
+      "freshTranslation": "일과 외관이 크게 변화한다. ㊥ 탑승자가 되는 것은 엘리먼트 능력자라고 불리는 초능력을 가진 소년 소녀들. 합체㊥에는 그들의 힘이 필요하며, 합체 후의 기체 스펙은 그들의 능력이나 정신 상태에 ㊥에 의해서도 크게 좌우된다. ㊥ 아쿠에리온스파다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000008",
+      "sourceBindingSha256": "5b0df8c988db8dd5e8247c922cbc27fe7e33b563598a9ad979737c2759c663ed",
+      "sourceTextSha256": "efc483c49dfb10ec77219cc76d6b7cc0ba0a608de83535554b514cee17353e78",
+      "freshTranslation": "- 실론이 상체, 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000009",
+      "sourceBindingSha256": "d413cd01c14cb698705a186dfbab614c070dbbd3f91b35c1cd7ed854fd1981d0",
+      "sourceTextSha256": "573472d1ef61a534e60e133f0a4636940d20368d10dabb04576644173ec1965c",
+      "freshTranslation": "제드가 하체, 백㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000010",
+      "sourceBindingSha256": "11060479877031c9d4953c31f1aedff531c84d5da43e86d7940946cf1337899c",
+      "sourceTextSha256": "41c3743e45ff06596002d06e2afc81268d8a0f5d3ebfc73b5aa135a74848d460",
+      "freshTranslation": "익스가 백을 구성한다. ㊥ 오른손에는 에너지 소드, 왼손에는 실드가 표준 장비되어 있다. ㊥음속을 넘는 이동속도를 자랑하며, 그것을 살린 고속 전투를 자랑하고 있다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000011",
+      "sourceBindingSha256": "0aea808b5533dff022ecf3ac502b5ce3a38038caeec0d7601c095e051df74022",
+      "sourceTextSha256": "58934ac074506409dac0a4e32bde8a6139cba78f944aba9fd8bbac25841c0f6f",
+      "freshTranslation": "용에는 높은 엘리먼트 능력이 필요하며 고속 기체를 다루는 기량도 필요㊥로 되기 때문에 탑승자 자신의 능력이 가장 요구되는 형태이다. ㊥ 주로 슈레이드가 탑승한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000012",
+      "sourceBindingSha256": "d66d18868fec0258e1989afd3a876af898018e87c8e4c20642ab5dd8e87e7c0e",
+      "sourceTextSha256": "7b2662049512e32d98ccff6ba79616fb227704168d4cc240c40d975fd60c8e37",
+      "freshTranslation": "네오디바가 소유한 기계 천사. ㊥백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000013",
+      "sourceBindingSha256": "cca2bf721f1a0809de2260ed5ffd49b484d5bc74522b7ce3c3e0291c8268f067",
+      "sourceTextSha256": "1a354cf9bed8837b4590dd7e407b1b423b1ed3205f4a67cbc9eea7548f133fa1",
+      "freshTranslation": "-머신이라고 불리는 3기의 전투기가 합체하는 것으로 완성된다. ㊥ 조합에 의해 3종류의 형태에 합체하는 것이 가능하고, 각각의 형태마다 전투㊥투스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000014",
+      "sourceBindingSha256": "d7ff67f5dad771e1dfd8fc52157fdc79a1db81af8045d9e1a18cb2a0c4a55c40",
+      "sourceTextSha256": "3de699fd8aae27638cf4f5ae701f37a0e4a4fe1ba8e33638446fdfe0916d390a",
+      "freshTranslation": "일과 외관이 크게 변화한다. ㊥ 탑승자가 되는 것은 엘리먼트 능력자라고 불리는 초능력을 가진 소년 소녀들. 합체㊥에는 그들의 힘이 필요하며, 합체 후의 기체 스펙은 그들의 능력이나 정신 상태에 ㊥에 의해서도 크게 좌우된다. ㊥ 아쿠에리온스파다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000015",
+      "sourceBindingSha256": "4d75bc61152490dc97e3a645f1b59e26103523e84253e75d03c9f5e90d51a64e",
+      "sourceTextSha256": "efc483c49dfb10ec77219cc76d6b7cc0ba0a608de83535554b514cee17353e78",
+      "freshTranslation": "- 실론이 상체, 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000016",
+      "sourceBindingSha256": "d71a86913d6fcaa97295a18af5ec9639f049ef043ed28e45cdafce1b04af6ad1",
+      "sourceTextSha256": "573472d1ef61a534e60e133f0a4636940d20368d10dabb04576644173ec1965c",
+      "freshTranslation": "제드가 하체, 백㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000017",
+      "sourceBindingSha256": "4addf7791b39dbc48c7f6f441d7e159fd97dd357223e783d0462f531dc4c78a7",
+      "sourceTextSha256": "41c3743e45ff06596002d06e2afc81268d8a0f5d3ebfc73b5aa135a74848d460",
+      "freshTranslation": "익스가 백을 구성한다. ㊥ 오른손에는 에너지 소드, 왼손에는 실드가 표준 장비되어 있다. ㊥음속을 넘는 이동속도를 자랑하며, 그것을 살린 고속 전투를 자랑하고 있다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00232/Sheet1/000018",
+      "sourceBindingSha256": "3393fc23547c14f10f712579d6dcb13056baa3c98b016e9f76a2135aea51ea38",
+      "sourceTextSha256": "c4dfe1f756dcb16870c416625bb081004aeeb8d67a987968dcff55243587de32",
+      "freshTranslation": "용에는 높은 엘리먼트 능력이 필요하며 고속 기체를 다루는 기량도 필요㊥로 되기 때문에 탑승자 자신의 능력이 가장 요구되는 형태이다. ㊥ 주로 슈레이드가 탑승한다. ㊥ 최종 결전에서는 카이엔이 탑승. 슈레이드가 남긴 영혼의 선율을 느끼고, 새로운 형태㊥태, 아쿠에리온 게파다를 낳고, 미카게와 싸웠다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

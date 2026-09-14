@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00182",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00182/Sheet1/000002",
+      "sourceBindingSha256": "7c00fb1011eb720eb80f61b66123f3baf9e94fde3fcd864cb06737b9b4152a7c",
+      "sourceTextSha256": "107ce18c1c4826733be7e9495e36980b72ae86439d68254ce3b579f9e8cfc859",
+      "freshTranslation": "미나 로샨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00182/Sheet1/000003",
+      "sourceBindingSha256": "35827997adaf63dfe6ba43a2dcff9cbaafde381c194ff553c7f467eb6ec6609b",
+      "sourceTextSha256": "ad9cdc4eda4ce05f8cccfa7e060a24eb633e1ca5eb90f823aad0f558ddccd8d5",
+      "freshTranslation": "미나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00182/Sheet1/000004",
+      "sourceBindingSha256": "d144b23cda6d5ef527c0e3d5597ee29e181f27f482b85d8e9a784fa77ff30861",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00182/Sheet1/000005",
+      "sourceBindingSha256": "85430f6e4932fab604c4bb23ee6dd09a411a273e9916f6ce6e5fd2687ef3381e",
+      "sourceTextSha256": "c0d3a63f2fec78158d842fcc9a7a1204a1f896ed8e48e569596715eb59975d55",
+      "freshTranslation": "마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00182/Sheet1/000006",
+      "sourceBindingSha256": "0109eebf396d978830b107141260921620114c722217439d3750bd1a8a996e10",
+      "sourceTextSha256": "80634b56fed5a5e3c9c83384440dc20f07f4a0513545dce1124a624f53b66b26",
+      "freshTranslation": "- 오퍼레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00182/Sheet1/000007",
+      "sourceBindingSha256": "438906c51c4a89c7a02e66a39b8dd7a17978dfe1469d76be001594514b21ffd9",
+      "sourceTextSha256": "dd823ec95876f263ebdae38913224205ecf1cf0ed43debba7903577a22466c8d",
+      "freshTranslation": "ー.㊥함내 스테이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00182/Sheet1/000008",
+      "sourceBindingSha256": "589b3295532562eafe0e0816db29b57fd27e857709c85b6657689d49e7695989",
+      "sourceTextSha256": "0f9b34ff12d158221b615c60f0c208f3d90588ca2ac97987493f0f73901ab814",
+      "freshTranslation": "관리를 담당. ㊥ 마이 페이스로 잡는 곳이 없는 성격을 하고 있지만, 실은 IQ180의 천재이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00182/Sheet1/000009",
+      "sourceBindingSha256": "1b4c6b226e4ba61e4a378e8f08a29306c6a2d7149066a92ada67a513ec2a2dcf",
+      "sourceTextSha256": "c0d3a63f2fec78158d842fcc9a7a1204a1f896ed8e48e569596715eb59975d55",
+      "freshTranslation": "마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00182/Sheet1/000010",
+      "sourceBindingSha256": "f53792003b4edfc566638fdacdf8c77ce15cfe75d0cab6b3630991259d36ebd8",
+      "sourceTextSha256": "80634b56fed5a5e3c9c83384440dc20f07f4a0513545dce1124a624f53b66b26",
+      "freshTranslation": "- 오퍼레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00182/Sheet1/000011",
+      "sourceBindingSha256": "902a44a26acab58f25b31e645ee25734887a2073b23bbfd52be83de70d70b135",
+      "sourceTextSha256": "dd823ec95876f263ebdae38913224205ecf1cf0ed43debba7903577a22466c8d",
+      "freshTranslation": "ー.㊥함내 스테이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00182/Sheet1/000012",
+      "sourceBindingSha256": "09719249018e9d74cdda469e1fe85b553f786ab15ab961282eefdd80ac129920",
+      "sourceTextSha256": "0f9b34ff12d158221b615c60f0c208f3d90588ca2ac97987493f0f73901ab814",
+      "freshTranslation": "관리를 담당. ㊥ 마이 페이스로 잡는 곳이 없는 성격을 하고 있지만, 실은 IQ180의 천재이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

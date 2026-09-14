@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00318",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00318/Sheet1/000002",
+      "sourceBindingSha256": "d2df0529e1753673d6c39fef91425bc38170d57f3cd214f9029a6be8c71ff7c1",
+      "sourceTextSha256": "ca25cc5b91568ebd1192a04178ff1a3b3b0d9da056dfd118cfb8e9e1f35851f4",
+      "freshTranslation": "로제놈 헤드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00318/Sheet1/000003",
+      "sourceBindingSha256": "8a214f3f359f4bb554bab141cf69c835ac3bd6d6e19e7100d9f2c17aab2b227a",
+      "sourceTextSha256": "d8e7f8c0d69005beae394e365e2414f1ada0bf93fe8d0b0169d101450db6c921",
+      "freshTranslation": "로제놈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00318/Sheet1/000004",
+      "sourceBindingSha256": "c606fe0191640c719c2d5eb9eefc90a870f7d3ca189fc45da3ea45dedc5c4c21",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00318/Sheet1/000005",
+      "sourceBindingSha256": "c97fb6fe16bd903fe0f942501c786cea4cc6ffd63fcee3a41ea5f1cff3ab5428",
+      "sourceTextSha256": "20b270714b8d8984b0dc5e4cfe24d97b18fed49dcd6eb39190d998a6a26db205",
+      "freshTranslation": "이케다 나리시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00318/Sheet1/000006",
+      "sourceBindingSha256": "75bb1fd9a702d9dfacb3ccf968f3e0f1330c299c719ee4646c2ed6315cb0b8b6",
+      "sourceTextSha256": "19e57fac7afc1e4595caaa71de51b3b58ebdd825d7a5b1263b4767cc49fb62a0",
+      "freshTranslation": "생체 컴퓨팅",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00318/Sheet1/000007",
+      "sourceBindingSha256": "cdeb9cc2ef556c9e2a256eb0c7f28d37b9534184810c4222f2456528b7b61fbe",
+      "sourceTextSha256": "4c623b3879c26e08654b331488535085a703929c3bb9c6d562b3d96336fffb48",
+      "freshTranslation": "가 된 나선왕 로제놈. ㊥ 로시우가 로제놈이 죽을 때 떠난 말의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00318/Sheet1/000008",
+      "sourceBindingSha256": "f3f3bea630b7e42b8c15948c75ac0759c9ed6dff972d253677577eb8fa2f0870",
+      "sourceTextSha256": "f22a7e3d8f00148c4003c62060f30c0ed6422a8873cb8d70111e10b8e62bd34b",
+      "freshTranslation": "열매를 알기 위해 세포의 한 걸음 ㊥ 등으로부터 탄생시켰다. ㊥ 나선왕 본인이 아니라고 자칭하지만, 지식이나 기억은 생전과 동등한 것을 가진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00318/Sheet1/000009",
+      "sourceBindingSha256": "fd3c8868fc337b83e531aa781a4ad158964782bc8661563aabdc09220fc84283",
+      "sourceTextSha256": "19e57fac7afc1e4595caaa71de51b3b58ebdd825d7a5b1263b4767cc49fb62a0",
+      "freshTranslation": "생체 컴퓨팅",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00318/Sheet1/000010",
+      "sourceBindingSha256": "75c801218acada5eecd81efe0595098c86b1531a6f37a107badb87b3d7f73634",
+      "sourceTextSha256": "4c623b3879c26e08654b331488535085a703929c3bb9c6d562b3d96336fffb48",
+      "freshTranslation": "가 된 나선왕 로제놈. ㊥ 로시우가 로제놈이 죽을 때 떠난 말의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00318/Sheet1/000011",
+      "sourceBindingSha256": "21fb9528cf6c9982dee94e6d1fe832445bf73ed501b926ab45c2137de3aca78c",
+      "sourceTextSha256": "4b8007c29a837181f2335a7c0100fec73c359f1f7a63486978514abc71d429ab",
+      "freshTranslation": "열매를 알기 위해 세포의 한 걸음 ㊥ 등으로부터 탄생시켰다. ㊥ 나선왕 본인이 아니라고 자칭하지만, 지식이나 기억은 생전과 동등한 것을 가진다. ㊥ 안티 스파이럴과의 최종 결전 때에는 생전의 모습을 되찾고 나선족 전사의 생㊥ 잔존으로 시몬들과 함께 싸웠다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

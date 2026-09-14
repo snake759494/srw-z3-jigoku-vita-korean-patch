@@ -1,0 +1,4640 @@
+{
+  "$schema": "../../config/dialogue-review.schema.json",
+  "format": "siok.dialogue-review",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "dialogueType": "scenario",
+  "languages": {
+    "source": "ja",
+    "target": "ko"
+  },
+  "asset": {
+    "assetKey": "STG0068a",
+    "fileName": "STG0068a.cpk",
+    "target": "DATA/STAGE/STG0068a.cpk",
+    "source": {
+      "kind": "normalized-translations-tsv",
+      "fileName": "translations.tsv"
+    },
+    "localized": null
+  },
+  "sourceSnapshot": {
+    "fileName": "translations.tsv",
+    "sha256": "7a7bd4a37228b384a5d8ed7225ccdcb378bbe38cb6196c8057cc439730cbe1cf",
+    "rowCount": 175210
+  },
+  "encoding": {},
+  "policy": {
+    "requiresUserOwnedGame": true,
+    "gameBinaryIncluded": false,
+    "originalJapaneseTextIncluded": true,
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "counts": {
+    "entries": 85,
+    "uniqueSourceTexts": 58,
+    "translatedEntries": 85
+  },
+  "entries": [
+    {
+      "entryId": "STG0068a/ID00004/000002",
+      "translation": "샐리",
+      "sourceTextSha256": "f8f34391a09bbf0629f31b47ec9a32688883efdc9fca46c89f0986b4dc28fc5a",
+      "translationTextSha256": "051791e0c3cc888f8b69cb2dff766748da81a528b40a4273676ec306681a1b34",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 2,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "e485aa03f35181b4cdc74ac5970b68bb37711bc8df6547d7e68653c21bae3da9"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "사리",
+        "legacyTranslation": "",
+        "importedTranslation": "샐리"
+      },
+      "metadata": {
+        "replacementText": "侍軒",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "사리",
+      "newTranslationTextSha256": "6905deebd62cfaf7da3ebad2b4bfe3b7c648f090757e3dfe3d08abecad2280fd",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000003",
+      "translation": "큭…！",
+      "sourceTextSha256": "5bca6da8ecb6aaeab02e5a22863fa5110f97d666065235a519e4697647e7f875",
+      "translationTextSha256": "9c79c2470a30dc97a830383f9a83e8080265b9bf2e9402c0c730ac16cdcfcc26",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 3,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "0c3d80d02f473e65f206f553a0d18eccdab89674ec65894bdeb4ec7aa2ef3814"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "헉...!",
+        "legacyTranslation": "",
+        "importedTranslation": "큭…！"
+      },
+      "metadata": {
+        "replacementText": "的…！",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "큭…!",
+      "newTranslationTextSha256": "ab39d4cc6199378d681f61ea8cde2fcff3365901fe39d7f55504010f9e181641",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000004",
+      "translation": "여기까지 녀석들을 몰아붙였는데…",
+      "sourceTextSha256": "50a2b6e9b87bc45f66bbd22471e28b2bea855d116c4e544619aac945b786e41b",
+      "translationTextSha256": "3f0ceddd0a2fed3c19d53635e49da188f7c1fad581c7b356a51912e2eb04637f",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 4,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "a4bbad773fa78ce42d37ecc37b7dec7bd8ba13acd7157dd4bfcde0ae8681df70"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 34,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "여기까지 무리를 몰아붙이면서…",
+        "legacyTranslation": "",
+        "importedTranslation": "여기까지 녀석들을 몰아붙였는데…"
+      },
+      "metadata": {
+        "replacementText": "食奄猿走　橿汐級聖　侯焼細心澗汽…",
+        "byteLimit": null,
+        "encodedLength": 34
+      },
+      "newTranslation": "여기까지 놈들을 몰아붙였는데…",
+      "newTranslationTextSha256": "ecdcf7e818045fcbda4c9ebf030d963f73814ebc1e96eb7d7b61392a79fec355",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000005",
+      "translation": "마리메이아병",
+      "sourceTextSha256": "b2dd5d2b9df80bb73f27a7f91f573746371683728d5c615aac65821d288d84b5",
+      "translationTextSha256": "ec5fd439366716939ca36e9a284912133e519bf02d9ca4c59cffc713cebfcaef",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 5,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "129c94cb0bcdfc9c2361c50e05514987d45b30e63d15ea2b7f3411179af65ab3"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어병",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아병"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼佐",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "마리메이아 병사",
+      "newTranslationTextSha256": "2974b3b364a1d2001804445522e16a41b7b67c095335149df89e084ffd5ba74e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000006",
+      "translation": "봤냐,연방의 개자식들!",
+      "sourceTextSha256": "80ad27ae95e2fd1712d3fb9f1faa90a32fdd1c1b9a08bcbf15c3cfad47e97cba",
+      "translationTextSha256": "ac30fbec6bb2a40942f25ba8c8f086f8b11b26f36a915f4d22160c949868158b",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 6,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "686e2c1b1ef1febfdacb53597a3a722aa8cf6aef1eaabd75eb3bfdf1b02e202a"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 24,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "봤니, 연방의 개 같은 놈아!",
+        "legacyTranslation": "",
+        "importedTranslation": "봤냐,연방의 개자식들!"
+      },
+      "metadata": {
+        "replacementText": "挫劃，尻号税　鯵切縦級！",
+        "byteLimit": null,
+        "encodedLength": 24
+      },
+      "newTranslation": "봤냐, 연방의 개들!",
+      "newTranslationTextSha256": "f27212faf41906e6222fcdaef42d96929322879e76765601d0e1d34ea5396d10",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000007",
+      "translation": "마리메이아병",
+      "sourceTextSha256": "b2dd5d2b9df80bb73f27a7f91f573746371683728d5c615aac65821d288d84b5",
+      "translationTextSha256": "ec5fd439366716939ca36e9a284912133e519bf02d9ca4c59cffc713cebfcaef",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 7,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "7249c4eb4551f6089fc241add0ef6c40c4c89cac6f7a5382dc3fa74ca000796a"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어병",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아병"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼佐",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "마리메이아 병사",
+      "newTranslationTextSha256": "2974b3b364a1d2001804445522e16a41b7b67c095335149df89e084ffd5ba74e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000008",
+      "translation": "우리들은 자유롭게 살 거다!",
+      "sourceTextSha256": "63b7d63aa55f037e7df286479a1cda689d6396ffe7e77c9621904d1281186e06",
+      "translationTextSha256": "8163a33f9a60524ea77e956214419f77f57adf31a46ddfa43a1c41245450cbc8",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 8,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "fe1de3c5f2e074fe0412739dbbe6a5b2fe4602893e2dda5f7de29319de88c64b"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 30,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "우리는 마음대로 살 거야!",
+        "legacyTranslation": "",
+        "importedTranslation": "우리들은 자유롭게 살 거다!"
+      },
+      "metadata": {
+        "replacementText": "酔軒級精　切政罫惟　詞　暗陥！",
+        "byteLimit": null,
+        "encodedLength": 30
+      },
+      "newTranslation": "우리는 마음대로 산다!",
+      "newTranslationTextSha256": "116e3326a900cd993e1a29d0774d23bb0bff25218ccdab7024f232e876530b71",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000009",
+      "translation": "누구의 지시도 받지 않고!",
+      "sourceTextSha256": "8ceb8cf8951a058898782b06616823ffb9917aabbc9beed539157d202951611c",
+      "translationTextSha256": "2c4f668527d7d8f0ac1f7664088545050873b7ffdf701de1bc20571bbad0fe28",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 9,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "655e23fac94bef17be98a16bf830ab0acc5947553f96575d0babf02116cc321b"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 28,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "누구의 지시도 받지 않고 말이야!",
+        "legacyTranslation": "",
+        "importedTranslation": "누구의 지시도 받지 않고!"
+      },
+      "metadata": {
+        "replacementText": "刊姥税　走獣亀　閤走　省壱！",
+        "byteLimit": null,
+        "encodedLength": 28
+      },
+      "newTranslation": "누구의 지시도 안 받고!",
+      "newTranslationTextSha256": "898fd776d7099194edeb7a56fbcf3c1eb11db4ed7a4c14fcb8a4e22d50276fd4",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000010",
+      "translation": "샐리",
+      "sourceTextSha256": "f8f34391a09bbf0629f31b47ec9a32688883efdc9fca46c89f0986b4dc28fc5a",
+      "translationTextSha256": "051791e0c3cc888f8b69cb2dff766748da81a528b40a4273676ec306681a1b34",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 10,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "4ff6eab55b994ae59721497ef33dfb4153f15327a7bcac7be4a7781f1b33ad1c"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "사리",
+        "legacyTranslation": "",
+        "importedTranslation": "샐리"
+      },
+      "metadata": {
+        "replacementText": "侍軒",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "사리",
+      "newTranslationTextSha256": "6905deebd62cfaf7da3ebad2b4bfe3b7c648f090757e3dfe3d08abecad2280fd",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000011",
+      "translation": "마리메이아군의 잔당들…",
+      "sourceTextSha256": "a757dbb1bc728e502fd735485b15c733b25224564edd2d9dea7ed37500ef60e6",
+      "translationTextSha256": "d8885985f35f0780428505e9acb857ab7b3b0d23a6129ccc4f0a9c4b63870b5c",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 11,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "954b06b0cae664a024d388cc83f94233789764ac01908b4742f77f1636fdc152"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 24,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어군의 잔당…",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아군의 잔당들…"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼浦税　接雁級…",
+        "byteLimit": null,
+        "encodedLength": 24
+      },
+      "newTranslation": "마리메이아군의 잔당….",
+      "newTranslationTextSha256": "249f469eb09fde2e32b417248b6734d80197285a9541d830e20134df1372df2e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000012",
+      "translation": "이대로 도적이 될 생각인가…",
+      "sourceTextSha256": "d8e1bd83ccf3e84d57773642f1ec4345a92fa40a4f810407851c4bbe4dcae0e6",
+      "translationTextSha256": "c177bb6a3e2d0f871abcc75af5a32e5b97bf6d3049f0a437e13e6daa7f258584",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 12,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "cb61efb4b79c1131e42d596049e90af604d8dda187a1931b5977cfde4819abfb"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 30,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "이대로 야도가 될 작정인가…",
+        "legacyTranslation": "",
+        "importedTranslation": "이대로 도적이 될 생각인가…"
+      },
+      "metadata": {
+        "replacementText": "戚企稽　亀旋戚　吃　持唖昔亜…",
+        "byteLimit": null,
+        "encodedLength": 30
+      },
+      "newTranslation": "이대로 야도가 될 셈인가…",
+      "newTranslationTextSha256": "3518244ae3632f0328c1f35469c3b869e28806b73a9cf634939b8a7fc1c48af9",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000013",
+      "translation": "마리메이아병",
+      "sourceTextSha256": "b2dd5d2b9df80bb73f27a7f91f573746371683728d5c615aac65821d288d84b5",
+      "translationTextSha256": "ec5fd439366716939ca36e9a284912133e519bf02d9ca4c59cffc713cebfcaef",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 13,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "2ba5bfb026f16aca731ee5270b3054e42a92169b5e3a09d60fc63479404da8ad"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어병",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아병"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼佐",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "마리메이아 병사",
+      "newTranslationTextSha256": "2974b3b364a1d2001804445522e16a41b7b67c095335149df89e084ffd5ba74e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000014",
+      "translation": "일단 도주 자금이 필요하다",
+      "sourceTextSha256": "d98525628281827ee1498b8aa73086de912875953cf6ff1ba0026b3234f7866c",
+      "translationTextSha256": "708ad30d0c9d9a693ca50a756094e296ab33a0c63c142d4d7a7612d6f7a58431",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 14,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "496ca3703cbf1483332ff3b584f4e6b5a1b2afb9fefec071cc494159c66e2b9d"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 28,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "일단의 도주 자금이 필요하다.",
+        "legacyTranslation": "",
+        "importedTranslation": "일단 도주 자금이 필요하다"
+      },
+      "metadata": {
+        "replacementText": "析舘　亀爽　切榎戚　琶推馬陥",
+        "byteLimit": null,
+        "encodedLength": 28
+      },
+      "newTranslation": "일단 도주 자금이 필요하다.",
+      "newTranslationTextSha256": "75ab8f498921e8fdd30f3e841a31968ffa9c96bc76f60909d2ee6b1907b00484",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000015",
+      "translation": "그건,이 앞의 마을에서 조달하도록 하지",
+      "sourceTextSha256": "f1df795cde67027e9177fcbb6aba8c93818cc7329a3c25d2fabf9b76ad4b1e0c",
+      "translationTextSha256": "c12422b50812e490fe81ba092ef5bc7780286fa6c11d2371fc942466c6e70971",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 15,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "bcb8f3531f654240031738c8f6549b02f44bdf524a541bd7f20a2b89a1e18e1f"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 42,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "그것은 이 앞의 마을에서 조달한다고 하자",
+        "legacyTranslation": "",
+        "importedTranslation": "그건,이 앞의 마을에서 조달하도록 하지"
+      },
+      "metadata": {
+        "replacementText": "益闇，戚　蒋税　原聖拭辞　繕含馬亀系　馬走",
+        "byteLimit": null,
+        "encodedLength": 42
+      },
+      "newTranslation": "그건, 이 앞의 마을에서 조달하자",
+      "newTranslationTextSha256": "abe404658395737906cea5e1b1cf279e8fe9261cac31c4c6cb8742388c0307db",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000016",
+      "translation": "마리메이아병",
+      "sourceTextSha256": "b2dd5d2b9df80bb73f27a7f91f573746371683728d5c615aac65821d288d84b5",
+      "translationTextSha256": "ec5fd439366716939ca36e9a284912133e519bf02d9ca4c59cffc713cebfcaef",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 16,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "3c2a758b7d184e4bae96e5b15a84abecb79fcbfe0e5eb0e34cf25763103b7d13"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어병",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아병"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼佐",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "마리메이아 병사",
+      "newTranslationTextSha256": "2974b3b364a1d2001804445522e16a41b7b67c095335149df89e084ffd5ba74e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000017",
+      "translation": "기다려!",
+      "sourceTextSha256": "64f2802365d92b2de675ec0811f28308be10f27d14b08cbda99c4da835e85736",
+      "translationTextSha256": "7bfc34d18d3a6f9710ee37f560d75914c8c59c3bd7ad29c4c411fac602af7f7c",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 17,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "31175cca1bdc4ea2a342d9cd1e30b81ef8b0f4f122d8ea4341cd793b60e2f405"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 8,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "기다려!",
+        "legacyTranslation": "",
+        "importedTranslation": "기다려!"
+      },
+      "metadata": {
+        "replacementText": "奄陥形！",
+        "byteLimit": null,
+        "encodedLength": 8
+      },
+      "newTranslation": "기다려!",
+      "newTranslationTextSha256": "7bfc34d18d3a6f9710ee37f560d75914c8c59c3bd7ad29c4c411fac602af7f7c",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000018",
+      "translation": "뭔가 온다!",
+      "sourceTextSha256": "dde9f8168464274c8a0089e3575f1e30c62b0758cb7f4989b113ff20194eedfc",
+      "translationTextSha256": "2be0ea587342935092bd68de5c210636ef062315aabe51b5b55fb284b8c6e96e",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 18,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "f2fb99f27be34ceded29467c9e53f936924f3ca508bf1bb2e9a6af8504227a87"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "뭐 온다!",
+        "legacyTranslation": "",
+        "importedTranslation": "뭔가 온다!"
+      },
+      "metadata": {
+        "replacementText": "杭亜　紳陥！",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "뭔가 온다!",
+      "newTranslationTextSha256": "2be0ea587342935092bd68de5c210636ef062315aabe51b5b55fb284b8c6e96e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000019",
+      "translation": "샐리",
+      "sourceTextSha256": "f8f34391a09bbf0629f31b47ec9a32688883efdc9fca46c89f0986b4dc28fc5a",
+      "translationTextSha256": "051791e0c3cc888f8b69cb2dff766748da81a528b40a4273676ec306681a1b34",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 19,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "a03b50c019964b4708259da11e5a9af3ccd9c115099f299ea39300d174fd89a8"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "사리",
+        "legacyTranslation": "",
+        "importedTranslation": "샐리"
+      },
+      "metadata": {
+        "replacementText": "侍軒",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "사리",
+      "newTranslationTextSha256": "6905deebd62cfaf7da3ebad2b4bfe3b7c648f090757e3dfe3d08abecad2280fd",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000020",
+      "translation": "저건…！",
+      "sourceTextSha256": "4bc80501e54c784562c8abeb36c898d6d5e43a6dd94f0b674e03b39511d90055",
+      "translationTextSha256": "4a546eef4db5e7a12783e90450c44493ad02d7df6bdfac51086396bc98484a3e",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 20,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "8d25c4e34fb673e54ba9a999a16e6425028f7fdfeb1e901a93559d2c83980237"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 8,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "저거는...!",
+        "legacyTranslation": "",
+        "importedTranslation": "저건…！"
+      },
+      "metadata": {
+        "replacementText": "煽闇…！",
+        "byteLimit": null,
+        "encodedLength": 8
+      },
+      "newTranslation": "저건…!",
+      "newTranslationTextSha256": "1a861bd4b8b58ff99e437d9a0714292cd56ef753c04c231e04191b00f8ad24f2",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000021",
+      "translation": "마리메이아병",
+      "sourceTextSha256": "b2dd5d2b9df80bb73f27a7f91f573746371683728d5c615aac65821d288d84b5",
+      "translationTextSha256": "ec5fd439366716939ca36e9a284912133e519bf02d9ca4c59cffc713cebfcaef",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 21,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "15b40d557b1e6fe823043693a4b75e9354337bbf98d6dc962cd10d6ff91b238a"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어병",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아병"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼佐",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "마리메이아 병사",
+      "newTranslationTextSha256": "2974b3b364a1d2001804445522e16a41b7b67c095335149df89e084ffd5ba74e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000022",
+      "translation": "뭐,뭐야…",
+      "sourceTextSha256": "2d68d7c4f80e7309d41bbbee51ceae3a31138e2bb348b023259bf8230c46d8b6",
+      "translationTextSha256": "0ea14f6d6f72059a94a44317bcff275900903b8046950cff1d6a45e2cd693a1d",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 22,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "b4fb98aa12e65289d9b7fd0cf5b408ee7c0f5de478ee90a5a256344cdda76d15"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 10,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "뭐야, 뭐야...",
+        "legacyTranslation": "",
+        "importedTranslation": "뭐,뭐야…"
+      },
+      "metadata": {
+        "replacementText": "更，更醤…",
+        "byteLimit": null,
+        "encodedLength": 10
+      },
+      "newTranslation": "뭐, 뭐야….",
+      "newTranslationTextSha256": "57ef0e8ab7bc91b9caff5aeef807c77644000804f88a5e2e1596ac6a94b627e4",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000023",
+      "translation": "마리메이아군에 협력하고 있던 건담인가",
+      "sourceTextSha256": "317a1c804f49ef5102a45ce1707a0ded24ba3bd6a4028477e032312af4ef4ad5",
+      "translationTextSha256": "0a4094cea1a166637170e96fa7e0884b6c26fc53c55c4b9e9a9bf93de9cde041",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 23,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "3653a52a5c54bd4f7ccd6e4540e2900baa809fe9a3eca41c167098a72857a466"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 40,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어군에 협력하고 있던 건담인가",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아군에 협력하고 있던 건담인가"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼浦拭　漠径馬壱　赤揮　闇眼昔亜",
+        "byteLimit": null,
+        "encodedLength": 40
+      },
+      "newTranslation": "마리메이아군에 협력하던 건담인가",
+      "newTranslationTextSha256": "5e9038070a60b1fb530dcfa50dfca855039a2d0e0c7f607af168667f7059d01b",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000024",
+      "translation": "우페이",
+      "sourceTextSha256": "156ca7c5a5b7924504743afe8add456d40a03f7167e62f43c65203034968374c",
+      "translationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 24,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "85c21148251e3d6b9ce876eac5e7dc532a3137afbc407162969edd524a288699"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "오비",
+        "legacyTranslation": "",
+        "importedTranslation": "우페이"
+      },
+      "metadata": {
+        "replacementText": "酔凪戚",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "우페이",
+      "newTranslationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000025",
+      "translation": "………",
+      "sourceTextSha256": "4be66cf94e7033822cdfc8a62cfb6122805b339fe22766c4e71d115cc89cb60f",
+      "translationTextSha256": "4be66cf94e7033822cdfc8a62cfb6122805b339fe22766c4e71d115cc89cb60f",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 25,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "c2ac357fb65e37d41bf2e854b06c9c62f475d336cc0db73b1c01ea16bb5c0bf8"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "………",
+        "legacyTranslation": "",
+        "importedTranslation": "………"
+      },
+      "metadata": {
+        "replacementText": "………",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "………",
+      "newTranslationTextSha256": "4be66cf94e7033822cdfc8a62cfb6122805b339fe22766c4e71d115cc89cb60f",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000026",
+      "translation": "마리메이아병",
+      "sourceTextSha256": "b2dd5d2b9df80bb73f27a7f91f573746371683728d5c615aac65821d288d84b5",
+      "translationTextSha256": "ec5fd439366716939ca36e9a284912133e519bf02d9ca4c59cffc713cebfcaef",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 26,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "cb4cab47add8b6edcaaa887dc7080f8a7d5f273102028d59f9b881f10eaf0eeb"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어병",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아병"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼佐",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "마리메이아 병사",
+      "newTranslationTextSha256": "2974b3b364a1d2001804445522e16a41b7b67c095335149df89e084ffd5ba74e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000027",
+      "translation": "너도 브뤼셀 전투 이후",
+      "sourceTextSha256": "00509db2bdce79c5a737f327890e0b517fd08744891ac1105212008bb76ea2bf",
+      "translationTextSha256": "0195133cea582b63d980c312ccb7b118c9c9c7b06da909bdb3d6907bffb85d9d",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 27,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "78dd44da46e3e01a6f589f6a2425ef4dc60b41b894f813def85052c97e5fb146"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 24,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "너도 브뤼셀 전투 이후로,",
+        "legacyTranslation": "",
+        "importedTranslation": "너도 브뤼셀 전투 이후"
+      },
+      "metadata": {
+        "replacementText": "格亀　崎健漆　穿燈　戚板",
+        "byteLimit": null,
+        "encodedLength": 24
+      },
+      "newTranslation": "너도 브뤼셀 전투 이래,",
+      "newTranslationTextSha256": "5d5029dc47ed3c3160dbb2a60e10f35a922ccf20489ea282442b60eac6a03625",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000028",
+      "translation": "고생하고 있는 것 같군",
+      "sourceTextSha256": "63d059a94b98500150fb44bf706326c508226501123dcd8b3f732a8b51804a90",
+      "translationTextSha256": "fff852983f1dfc1432ff2e0895cdc9c9ab0ebc23c651b10731252629b1ebfd02",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 28,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "3bcfec99d155bf8e7cfd14b74f0ab87b9b9eca2ad00c817c08753d7fdf523b44"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 24,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "고생하고 있는 모양이군",
+        "legacyTranslation": "",
+        "importedTranslation": "고생하고 있는 것 같군"
+      },
+      "metadata": {
+        "replacementText": "壱持馬壱　赤澗　依　旭浦",
+        "byteLimit": null,
+        "encodedLength": 24
+      },
+      "newTranslation": "고생하는 모양이군",
+      "newTranslationTextSha256": "b38db8400443483a10764bb7a7188ee083672df550deb63c16e006ad5ebccba4",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000029",
+      "translation": "마리메이아병",
+      "sourceTextSha256": "b2dd5d2b9df80bb73f27a7f91f573746371683728d5c615aac65821d288d84b5",
+      "translationTextSha256": "ec5fd439366716939ca36e9a284912133e519bf02d9ca4c59cffc713cebfcaef",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 29,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "031e2170ae7e24ba73c3ff6ee25ae724d585a3f2ea98b52c1e261bc62fe6503a"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어병",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아병"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼佐",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "마리메이아 병사",
+      "newTranslationTextSha256": "2974b3b364a1d2001804445522e16a41b7b67c095335149df89e084ffd5ba74e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000030",
+      "translation": "어떻게 할래,우리랑 같이 올래?",
+      "sourceTextSha256": "0203032ac68aead4bc4af836efdd0c5b93ba11e617debd259d35b8bc908a0627",
+      "translationTextSha256": "bedefeda1b732a7efad6f64cc7d1c1dea6f4e64b7662391df041022abf16c873",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 30,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "19ec5df2773283113ba6cfc219d0761dc4cec20cd16eccc245992bb5bafc90ab"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 34,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "그럼 우리랑 같이 올까?",
+        "legacyTranslation": "",
+        "importedTranslation": "어떻게 할래,우리랑 같이 올래?"
+      },
+      "metadata": {
+        "replacementText": "嬢胸惟　拝掘，酔軒櫛　旭戚　臣掘？",
+        "byteLimit": null,
+        "encodedLength": 34
+      },
+      "newTranslation": "뭣하면, 우리와 함께 갈래?",
+      "newTranslationTextSha256": "2948ed27837795b25772fc0dc56a9fce30274e7fa13523ec187e140d46466695",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000031",
+      "translation": "경호원 대신으로 고용해 줘도 괜찮은데",
+      "sourceTextSha256": "5845ded6ac0d6ecd5121b70a4191c0f037aa5714e7fb92041f4e1f4c143016da",
+      "translationTextSha256": "a3cd16ff7e3f05ad760eaeabf97603aa54941ef797a62bbc849c72294d7caceb",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 31,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "ac6884a10c588c8376419a4da83bde69fbcfd16b1c21a3e9a1cd8caf721d18b7"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 40,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "경호원 대신 고용해 줘도 좋다",
+        "legacyTranslation": "",
+        "importedTranslation": "경호원 대신으로 고용해 줘도 괜찮은데"
+      },
+      "metadata": {
+        "replacementText": "井硲据　企重生稽　壱遂背　操亀　右諾精汽",
+        "byteLimit": null,
+        "encodedLength": 40
+      },
+      "newTranslation": "용심봉 대신 고용해 줘도 좋아",
+      "newTranslationTextSha256": "88c83ec41aa3890639b26c06f441b957a95349d7713637eb4af2673a5774abcc",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000032",
+      "translation": "우페이",
+      "sourceTextSha256": "156ca7c5a5b7924504743afe8add456d40a03f7167e62f43c65203034968374c",
+      "translationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 32,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "9beeeff14610c7422eab993a7ef85f2a304b17fae834d121677a134d034f8d68"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "오비",
+        "legacyTranslation": "",
+        "importedTranslation": "우페이"
+      },
+      "metadata": {
+        "replacementText": "酔凪戚",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "우페이",
+      "newTranslationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000033",
+      "translation": "너희들에게… 정의는 있는 건가?",
+      "sourceTextSha256": "91c537bc58e8f6eb2b7a86c2075d2a809436ca51faf56357e769129983b0b134",
+      "translationTextSha256": "4803b7dcfc8f3eb9c04e9793f3644235134c11b188cbe54f621a942e5585607c",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 33,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "313f0735f203da136bfdc4e1a331325e0b92c01822c547fbf306526d45b1d3bd"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 34,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "너희들에게... 정의는 있는가?",
+        "legacyTranslation": "",
+        "importedTranslation": "너희들에게… 정의는 있는 건가?"
+      },
+      "metadata": {
+        "replacementText": "格費級拭惟…　舛税澗　赤澗　闇亜？",
+        "byteLimit": null,
+        "encodedLength": 34
+      },
+      "newTranslation": "너희에게… 정의는 있나?",
+      "newTranslationTextSha256": "65a364c8f1d285f4abffbbbd0be3b109ec18b0e0a32df401a7a8d38ad02786f0",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000034",
+      "translation": "마리메이아병",
+      "sourceTextSha256": "b2dd5d2b9df80bb73f27a7f91f573746371683728d5c615aac65821d288d84b5",
+      "translationTextSha256": "ec5fd439366716939ca36e9a284912133e519bf02d9ca4c59cffc713cebfcaef",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 34,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "434c35b79f1fefbd1797a3d795cdbcdf371d2ee0ed5fd61414ce78e921b453d5"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어병",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아병"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼佐",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "마리메이아 병사",
+      "newTranslationTextSha256": "2974b3b364a1d2001804445522e16a41b7b67c095335149df89e084ffd5ba74e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000035",
+      "translation": "정의…？",
+      "sourceTextSha256": "ea1387f547a5c78a33a54279e07c0b9bb3a6ad651be609e40710e1652025c9a7",
+      "translationTextSha256": "36a0f97f4f625e60c333cbefd49721ebdd9975a64c6030a56c51d5967f18aa90",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 35,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "1f6c97bd951d6d0c478fc3feda4b0f91645d15312cafedb43233ee3c3b2c39b8"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 8,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "정의...?",
+        "legacyTranslation": "",
+        "importedTranslation": "정의…？"
+      },
+      "metadata": {
+        "replacementText": "舛税…？",
+        "byteLimit": null,
+        "encodedLength": 8
+      },
+      "newTranslation": "정의…?",
+      "newTranslationTextSha256": "782ebbfb0d127b7c894318b951de7b16e8579265650e3e9ecdb8e00ca4b2e59b",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000036",
+      "translation": "이제 와서 무슨 소릴 하는 거야?",
+      "sourceTextSha256": "e863ce7cfcb8a9988630003f4d4be471181cc86dffeb58da81119dc727c797b6",
+      "translationTextSha256": "85beb59f05b6b8b17c4d79c7833e670f506255721a2f01de403dd4272cf32b62",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 36,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "eee769d088bea524094f285b5f3bb0aa623a2c52c9c5a5d919e62ef517b96a70"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 36,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "이제 와서 무슨 소리야?",
+        "legacyTranslation": "",
+        "importedTranslation": "이제 와서 무슨 소릴 하는 거야?"
+      },
+      "metadata": {
+        "replacementText": "戚薦　人辞　巷充　社険　馬澗　暗醤？",
+        "byteLimit": null,
+        "encodedLength": 36
+      },
+      "newTranslation": "이제 와서 무슨 소리야?",
+      "newTranslationTextSha256": "24ed27cb1354c623b8f62f32e4b831c7621135c537a5f504387f189a953fc99b",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000037",
+      "translation": "우페이",
+      "sourceTextSha256": "156ca7c5a5b7924504743afe8add456d40a03f7167e62f43c65203034968374c",
+      "translationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 37,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "3987f8237c3002ded2a1adb28a8df91ab905ff422aae247c13c069d526ee2e96"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "오비",
+        "legacyTranslation": "",
+        "importedTranslation": "우페이"
+      },
+      "metadata": {
+        "replacementText": "酔凪戚",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "우페이",
+      "newTranslationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000038",
+      "translation": "대답해",
+      "sourceTextSha256": "0401820d24e40dd9e1ffbab3056459ba985c8ae9f71111c0db0c7c40f344a5d8",
+      "translationTextSha256": "a0d59a5bc255457fdf6c85ece71f017512cec9a8cf13305daf30ab892923fc25",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 38,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "2bf7f4b9e7acf6b713bd6d03577be10635a97eeaa9d74c940921639b987beddd"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "대답해.",
+        "legacyTranslation": "",
+        "importedTranslation": "대답해"
+      },
+      "metadata": {
+        "replacementText": "企岩背",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "답해라.",
+      "newTranslationTextSha256": "954f5e3479debeb7b57a1cef2b2945e382d1665b961f0ee9af020e1d209e262d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000039",
+      "translation": "너희들은 마리메이아와 데킴이 말하는 정의를 믿고",
+      "sourceTextSha256": "319ea962f109bc56a1d976b9d7333037502a6640870c67f23af9c0796c8aeb39",
+      "translationTextSha256": "6666ee58237e1d2dd50f8b01ca1a3cdf36bb820048e15be2380ec976f4f6d2cc",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 39,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "86a34118f613b00a980ddb3508715b07158978bb8b5298f5dff36cdcf20c5bcb"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 52,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "너희들은 마리메아와 데김이 말하는 정의를 믿고",
+        "legacyTranslation": "",
+        "importedTranslation": "너희들은 마리메이아와 데킴이 말하는 정의를 믿고"
+      },
+      "metadata": {
+        "replacementText": "格費級精　原軒五戚焼人　汽鉄戚　源馬澗　舛税研　肱壱",
+        "byteLimit": null,
+        "encodedLength": 52
+      },
+      "newTranslation": "너희는 마리메이아와 데킴이 말하는 정의를 믿고",
+      "newTranslationTextSha256": "7b3063424f93da1296fabbd39e8f059f181bcfbc865662686df3447244337707",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000040",
+      "translation": "싸워 온 것이 아니었나?",
+      "sourceTextSha256": "17157cf1656e2b985168895a16c8c38bdc01fd9522deb50ee844b19dce32c6f4",
+      "translationTextSha256": "7a59973f9892824042b292f97295a4d36ee5ae10d94c1461ffdb99981a79e365",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 40,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "1633283902fe4f516f4c8a439c5679779f060c50a7f05c6a38308adaabbd27fd"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 26,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "싸워온 것이 아닌가?",
+        "legacyTranslation": "",
+        "importedTranslation": "싸워 온 것이 아니었나?"
+      },
+      "metadata": {
+        "replacementText": "塾趨　紳　依戚　焼艦醸蟹？",
+        "byteLimit": null,
+        "encodedLength": 26
+      },
+      "newTranslation": "싸워 온 게 아닌가?",
+      "newTranslationTextSha256": "971441de1e235f9c8e7e0a2c51b1290763ddd8a12e2a2bebb42baea3b8675b9d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000041",
+      "translation": "우페이",
+      "sourceTextSha256": "156ca7c5a5b7924504743afe8add456d40a03f7167e62f43c65203034968374c",
+      "translationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 41,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "e8c1d6d0bba72491a6b2e92be3f72c61b4fd72f9d7679ecc48c08ec96561df6e"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "오비",
+        "legacyTranslation": "",
+        "importedTranslation": "우페이"
+      },
+      "metadata": {
+        "replacementText": "酔凪戚",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "우페이",
+      "newTranslationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000042",
+      "translation": "그 신념은,그놈이 쓰러져도",
+      "sourceTextSha256": "65f64c518808de33bcdff376a39dff48c2639497525851f0a3cd0e438b1ef98e",
+      "translationTextSha256": "0d4f3b8384b06f4fa01f7d14403d0cd5b8959a851a1179f9a6b0da6b5e1f3ccc",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 42,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "27d255fabcc11c3f2a95e04d9a8c5241b2304d06d3b1e33987cee1c5ccd71ea1"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 28,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "그 신념은, 놈이 쓰러져도",
+        "legacyTranslation": "",
+        "importedTranslation": "그 신념은,그놈이 쓰러져도"
+      },
+      "metadata": {
+        "replacementText": "益　重割精，益叶戚　床君閃亀",
+        "byteLimit": null,
+        "encodedLength": 28
+      },
+      "newTranslation": "그 신념은, 놈이 쓰러져도",
+      "newTranslationTextSha256": "dccc2925af65b55863d658c68b1cabd1c01d488f5545dc169c5abeea996eb4e6",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000043",
+      "translation": "계속 살아있는 것이 아니었나?",
+      "sourceTextSha256": "3785b487ee97cb490160d8af9aca719372122068f2574c6d67fc3b2900489586",
+      "translationTextSha256": "8d1210dd3f0db8d4655174d42804eb32cd8f1c1f84225d0bdfcddcd3373acd58",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 43,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "efadf0438166443ab61eccc53e0a81f29f6c54f38d84db010b793ddc9905b0ab"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 32,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "계속 살고 있는 것은 아닌가?",
+        "legacyTranslation": "",
+        "importedTranslation": "계속 살아있는 것이 아니었나?"
+      },
+      "metadata": {
+        "replacementText": "域紗　詞焼赤澗　依戚　焼艦醸蟹？",
+        "byteLimit": null,
+        "encodedLength": 32
+      },
+      "newTranslation": "계속 살아 있는 게 아닌가?",
+      "newTranslationTextSha256": "ffcc183a2d92f65a1cab12e3fd8b3e7db14495f2292b91e3161ac04a7908aa28",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000044",
+      "translation": "마리메이아병",
+      "sourceTextSha256": "b2dd5d2b9df80bb73f27a7f91f573746371683728d5c615aac65821d288d84b5",
+      "translationTextSha256": "ec5fd439366716939ca36e9a284912133e519bf02d9ca4c59cffc713cebfcaef",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 44,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "b00ceb00a4d87597b4b15e12d46a308acd65db791095dfd5e94cab7692816894"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어병",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아병"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼佐",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "마리메이아 병사",
+      "newTranslationTextSha256": "2974b3b364a1d2001804445522e16a41b7b67c095335149df89e084ffd5ba74e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000045",
+      "translation": "그만둬",
+      "sourceTextSha256": "3fa4deb6bfcb2525972e2d677151fa888abd6426cf01e998f94000c3609a535f",
+      "translationTextSha256": "164767267897607f25fee9fbc8162a6dd867bad5783553d0263df0cc93d7f006",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 45,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "1f3bcc02d677290d53ad5903be519eb12d1878fafc1385b16e04dafd34154f2b"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "그만둬.",
+        "legacyTranslation": "",
+        "importedTranslation": "그만둬"
+      },
+      "metadata": {
+        "replacementText": "益幻丘",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "그만둬.",
+      "newTranslationTextSha256": "2d12b7fd3e1eb07c1049e08cbdfe5219c76668693c48430188b8e56f0b8ce19b",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000046",
+      "translation": "그런 녀석들도 있었을지 모르지만 요컨대",
+      "sourceTextSha256": "d32b31b5edc2db37257c06d642547ab158d4d590d2cf453bbe5169b911bd1f9d",
+      "translationTextSha256": "a7c37e326d108ada859043b2f2e6288c12cbb1fc8536d55adb373fcf5743b065",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 46,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "f42be461c5f9027ce5d7fe642582deeff6e4a429e150d86832af38eacc6ab621"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 42,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "그런 패거리도 있었을지 모르지만,",
+        "legacyTranslation": "",
+        "importedTranslation": "그런 녀석들도 있었을지 모르지만 요컨대"
+      },
+      "metadata": {
+        "replacementText": "益訓　橿汐級亀　赤醸聖走　乞牽走幻　推珍企",
+        "byteLimit": null,
+        "encodedLength": 42
+      },
+      "newTranslation": "그런 무리도 있었을지 모르지만,",
+      "newTranslationTextSha256": "a2cb3a311577a2e0c3b77ac0569686f48739f7b2b3b9be4a1c4e36d3c2a467c5",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000047",
+      "translation": "우리들은 이기는 편에 붙으려고 했을 뿐이야",
+      "sourceTextSha256": "a6c2252540a7050f85b2a5d9fa061485953ef861eabfc0bb82d9fcdf35c95375",
+      "translationTextSha256": "a28e2a3f39a37874ae98e3c2393b54b94da1f96cfb32bd32c10f854a6cff81d4",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 47,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "92e664f0f96c6f027d982c94704d4f8681b75f4aa81c7f259c9a45b6d8b82479"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 46,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "간단히 말해서, 우리는 단지 승전마를 타려고 했을 뿐이다",
+        "legacyTranslation": "",
+        "importedTranslation": "우리들은 이기는 편에 붙으려고 했을 뿐이야"
+      },
+      "metadata": {
+        "replacementText": "酔軒級精　戚奄澗　畷拭　細生形壱　梅聖　屍戚醤",
+        "byteLimit": null,
+        "encodedLength": 46
+      },
+      "newTranslation": "요컨대 우리는 이긴 말에 타려 했을 뿐이야",
+      "newTranslationTextSha256": "922aa644a52825800c400454ba433c385b9c8db5386b8e44dfbdb7aac044ee1a",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000048",
+      "translation": "마리메이아병",
+      "sourceTextSha256": "b2dd5d2b9df80bb73f27a7f91f573746371683728d5c615aac65821d288d84b5",
+      "translationTextSha256": "ec5fd439366716939ca36e9a284912133e519bf02d9ca4c59cffc713cebfcaef",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 48,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "e8474b8285410b5ee4f26d059adad37c8380f4c307637a1de725cc647ceb25f2"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어병",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아병"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼佐",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "마리메이아 병사",
+      "newTranslationTextSha256": "2974b3b364a1d2001804445522e16a41b7b67c095335149df89e084ffd5ba74e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000049",
+      "translation": "그런 거다",
+      "sourceTextSha256": "d012a085a5b498172ab3471c87229222052903c20ccddfb5b472b09b7370026b",
+      "translationTextSha256": "d5d64191a8375e33f890b20200cca26762be43b6a7c23a6e3c4872ba8a67f1fe",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 49,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "72a7b8c0b525fda91930c56304acb275d859a9d8a46bbb236674b62e790a65e6"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 10,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "그런 것이다.",
+        "legacyTranslation": "",
+        "importedTranslation": "그런 거다"
+      },
+      "metadata": {
+        "replacementText": "益訓　暗陥",
+        "byteLimit": null,
+        "encodedLength": 10
+      },
+      "newTranslation": "그런 거다.",
+      "newTranslationTextSha256": "299b36b4c1eebde2e210c6a29ab0ce6fb938b2cf02afdbfca1134a1537953379",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000050",
+      "translation": "앞으로는 퇴직금 대신 받은,이 서펜트로",
+      "sourceTextSha256": "248a9f974634554a01ce98bc3f8ce85b19861e47d9d4c66e50c86aa3b1adab49",
+      "translationTextSha256": "d6b59e80b643a2dd942a712f7ece674d5fd2989eb9347438e015209dfd0efddb",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 50,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "3488cb316f41a3fe9b41e4b607b7143cc7e54a2ab13dea34b8fe94da4fefe886"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 42,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "이제는 퇴직금 대신 받은 이 서펜트로",
+        "legacyTranslation": "",
+        "importedTranslation": "앞으로는 퇴직금 대신 받은,이 서펜트로"
+      },
+      "metadata": {
+        "replacementText": "蒋生稽澗　盗送榎　企重　閤精，戚　辞謎闘稽",
+        "byteLimit": null,
+        "encodedLength": 42
+      },
+      "newTranslation": "앞으로는 퇴직금 대신 받은, 이 서펀트로",
+      "newTranslationTextSha256": "0cde17fe5e638a394fcc435c13c9e8793a320e5f52294a214891dc1bf2a6a80b",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000051",
+      "translation": "자유롭게 살아갈 뿐이다",
+      "sourceTextSha256": "0f8c2c92ae71ceffe2f435826aa428e9dd618bda56b71aed7cd15720a3f1d4e1",
+      "translationTextSha256": "e861fd457429f3a2d886213500eb67ffdd1b96aa57f89d8794d3017977bd36b0",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 51,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "fb10a05646aacb22991e36b10d7961d1c70998e4c941c12b282f5c555226c0f1"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 24,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마음대로 살아갈 뿐이다",
+        "legacyTranslation": "",
+        "importedTranslation": "자유롭게 살아갈 뿐이다"
+      },
+      "metadata": {
+        "replacementText": "切政罫惟　詞焼哀　屍戚陥",
+        "byteLimit": null,
+        "encodedLength": 24
+      },
+      "newTranslation": "마음대로 살아갈 뿐이다",
+      "newTranslationTextSha256": "b2b89c8450a882c43068d13b0342291b530813def71d4275a4676bac636cd62f",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000052",
+      "translation": "우페이",
+      "sourceTextSha256": "156ca7c5a5b7924504743afe8add456d40a03f7167e62f43c65203034968374c",
+      "translationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 52,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "c498f447c3f1c9116536a852817e2b6b2af8b676feab82186c28e4bc7d40329a"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "오비",
+        "legacyTranslation": "",
+        "importedTranslation": "우페이"
+      },
+      "metadata": {
+        "replacementText": "酔凪戚",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "우페이",
+      "newTranslationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000053",
+      "translation": "너희들은 자신의 신념을 위해 싸운 병사가 아니야",
+      "sourceTextSha256": "c95e9d7774951ec3297da975eb7bddeb583e239dd32d2435bebb2f4632989fd9",
+      "translationTextSha256": "03d0099ed5da7c10881bbef876bdd28c7dd1e2be63e8f489a43aa4fcfcc49a1f",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 53,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "94f8019caa5a9c59da8ee935ff657e4574401a994001512719c635da9906ed90"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 52,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "너희들은 스스로의 신념을 위해 싸운 병사들이 아니다...",
+        "legacyTranslation": "",
+        "importedTranslation": "너희들은 자신의 신념을 위해 싸운 병사가 아니야"
+      },
+      "metadata": {
+        "replacementText": "格費級精　切重税　重割聖　是背　塾錘　佐紫亜　焼艦醤",
+        "byteLimit": null,
+        "encodedLength": 52
+      },
+      "newTranslation": "…너희는 자기 신념을 위해 싸운 병사가 아니다…",
+      "newTranslationTextSha256": "f9fb3af0359204c7727e7b4c2258ae0cfe88acf0483b8ad0e28bd734c98794c6",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000054",
+      "translation": "마리메이아병",
+      "sourceTextSha256": "b2dd5d2b9df80bb73f27a7f91f573746371683728d5c615aac65821d288d84b5",
+      "translationTextSha256": "ec5fd439366716939ca36e9a284912133e519bf02d9ca4c59cffc713cebfcaef",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 54,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "5793866e80e3145f7472dd208d4840f4cf60f0dfd188c24d95f065ae4a9f1757"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어병",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아병"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼佐",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "마리메이아 병사",
+      "newTranslationTextSha256": "2974b3b364a1d2001804445522e16a41b7b67c095335149df89e084ffd5ba74e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000055",
+      "translation": "뭐?",
+      "sourceTextSha256": "1133d732b7e5e575e91bd0b3a15b74a1548e70e4a7e3b88e820e0531c38b7c93",
+      "translationTextSha256": "ad515411f8355b6183c96154ec9514f8daa2a114beedbd128930008eb202d731",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 55,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "85f3b04f247e1b9d03d2f6a7f1210c10a6ec3234c635819ac1f29eb892130d47"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "뭐야?",
+        "legacyTranslation": "",
+        "importedTranslation": "뭐?"
+      },
+      "metadata": {
+        "replacementText": "更？",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "뭐?",
+      "newTranslationTextSha256": "ad515411f8355b6183c96154ec9514f8daa2a114beedbd128930008eb202d731",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000056",
+      "translation": "우페이",
+      "sourceTextSha256": "156ca7c5a5b7924504743afe8add456d40a03f7167e62f43c65203034968374c",
+      "translationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 56,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "7753f5665b0e53a44e9694353b48f3dbbde6cb4062384e4d1ef08a363ef96acd"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "오비",
+        "legacyTranslation": "",
+        "importedTranslation": "우페이"
+      },
+      "metadata": {
+        "replacementText": "酔凪戚",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "우페이",
+      "newTranslationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000057",
+      "translation": "너희들은 평화속에서 갈 곳을 잃은 병사도 아니야",
+      "sourceTextSha256": "d4438d2806b080fdd03c83891760890e8fbc185f97d9abde0875e0dabdcb86ab",
+      "translationTextSha256": "26844cb1579514cc508b367a1ad1154ab373edb4912a7b842a65671c8335dca7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 57,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "87246fea5b0d7f24ae65393125832bdcf2c2d1783848af078eca5fb69cceb1ec"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 52,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "너희는 평화 속에서 갈 곳을 잃은 병사도 아니다.",
+        "legacyTranslation": "",
+        "importedTranslation": "너희들은 평화속에서 갈 곳을 잃은 병사도 아니야"
+      },
+      "metadata": {
+        "replacementText": "格費級精　汝鉢紗拭辞　哀　員聖　籍精　佐紫亀　焼艦醤",
+        "byteLimit": null,
+        "encodedLength": 52
+      },
+      "newTranslation": "너희는 평화 속에서 갈 곳을 잃은 병사도 아니다",
+      "newTranslationTextSha256": "478b65c6411fb589cacaea60a8b4ed8bcb4b6e7e0698eed8728ac4351b55edf4",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000058",
+      "translation": "너희들은…",
+      "sourceTextSha256": "7bec0c7f9a95ba8a474671d7deec2fc3ea0fd83cd246477fd8e50c00e99b39ac",
+      "translationTextSha256": "bf01d6141f3402ab50789aee69ca485a6e888358c0b502ac4b1b0b1c8ac04377",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 58,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "958cc67e9b1246056974aae10c8b26610183bf7daa1eec58fb6bac26c75db6bb"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 10,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "너희들은...",
+        "legacyTranslation": "",
+        "importedTranslation": "너희들은…"
+      },
+      "metadata": {
+        "replacementText": "格費級精…",
+        "byteLimit": null,
+        "encodedLength": 10
+      },
+      "newTranslation": "너희는…",
+      "newTranslationTextSha256": "2388d1aba936beaecf9612be960e1bee80ebd3b35a8237685d9d297db94ec372",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000059",
+      "translation": "우페이",
+      "sourceTextSha256": "156ca7c5a5b7924504743afe8add456d40a03f7167e62f43c65203034968374c",
+      "translationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 59,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "b510307638dc8beada64eb9514ff48fb1916ed14cd7b74aeaaebe433fd8c8ac3"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "오비",
+        "legacyTranslation": "",
+        "importedTranslation": "우페이"
+      },
+      "metadata": {
+        "replacementText": "酔凪戚",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "우페이",
+      "newTranslationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000060",
+      "translation": "쓰레기다…！",
+      "sourceTextSha256": "3c504fff9b118aa36db0a0bc6e47cfb52f1d933c1bdc95dc4216ccf76035a6e9",
+      "translationTextSha256": "ad8c5cdca19068295fb50b457d64440cc180eece3c12140d6607192b0a8ac12f",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 60,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "cb2e4a146d849c6b5c4f59fa2338dde1f26a8e12c5e7fd0bcc21db20f8301a0c"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "하중이다...!",
+        "legacyTranslation": "",
+        "importedTranslation": "쓰레기다…！"
+      },
+      "metadata": {
+        "replacementText": "床傾奄陥…！",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "저열한 놈이다…!",
+      "newTranslationTextSha256": "ae8756a1e49469d83b765feee5a6c504d19a1939ab41e584bb0b8db8124cd930",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000061",
+      "translation": "마리메이아병",
+      "sourceTextSha256": "b2dd5d2b9df80bb73f27a7f91f573746371683728d5c615aac65821d288d84b5",
+      "translationTextSha256": "ec5fd439366716939ca36e9a284912133e519bf02d9ca4c59cffc713cebfcaef",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 61,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "a518a4242b04f55c883644ddd2ecd133cf111891e8ab86a0881e53746749cb70"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어병",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아병"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼佐",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "마리메이아 병사",
+      "newTranslationTextSha256": "2974b3b364a1d2001804445522e16a41b7b67c095335149df89e084ffd5ba74e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000062",
+      "translation": "말하게 해 줘…！",
+      "sourceTextSha256": "145f2a236315d763ea621cd3a29d303b3b595a78307223b66156ac43c49b3923",
+      "translationTextSha256": "1e33d91457bc9bf52512c6fd41136958e1e0f472e2da5254592a5b28995b5cdc",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 62,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "74d8033ff29786cef7304837582a92a78ef41dff9e578175aa5b0d8d091f2f1e"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 18,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "말하게 해두면…!",
+        "legacyTranslation": "",
+        "importedTranslation": "말하게 해 줘…！"
+      },
+      "metadata": {
+        "replacementText": "源馬惟　背　操…！",
+        "byteLimit": null,
+        "encodedLength": 18
+      },
+      "newTranslation": "가만 놔뒀더니…!",
+      "newTranslationTextSha256": "d0d17284ec073a176c6da6b3630f701e6e39dfe65db36192f9f5eccdd8a567e5",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000063",
+      "translation": "마리메이아병",
+      "sourceTextSha256": "b2dd5d2b9df80bb73f27a7f91f573746371683728d5c615aac65821d288d84b5",
+      "translationTextSha256": "ec5fd439366716939ca36e9a284912133e519bf02d9ca4c59cffc713cebfcaef",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 63,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "f0369dab3510acdf86e4a7441fefbacbba7fde8b16e505bfb2d289be0aa4b9bc"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어병",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아병"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼佐",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "마리메이아 병사",
+      "newTranslationTextSha256": "2974b3b364a1d2001804445522e16a41b7b67c095335149df89e084ffd5ba74e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000064",
+      "translation": "그게 뭐가 나빠!",
+      "sourceTextSha256": "0f5929d4fb77281c725633edce3467dcc4a97c47816f095c8987a64a96adbaa0",
+      "translationTextSha256": "7c76c762319d4e4255119ea7ea2364f67d21e4b356fd8bbeaa5bde12e56e1cc3",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 64,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "f1d4911defd5a3fdc280df72ca18319d8564d4152a2ba424c64923c408694c1d"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 18,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "그게 뭐가 나빠!",
+        "legacyTranslation": "",
+        "importedTranslation": "그게 뭐가 나빠!"
+      },
+      "metadata": {
+        "replacementText": "益惟　更亜　蟹匙！",
+        "byteLimit": null,
+        "encodedLength": 18
+      },
+      "newTranslation": "그게 뭐가 나쁜데!",
+      "newTranslationTextSha256": "dd950c435c5e87ff2ae73c11d459df65f39a6821d8ea166c3ebd2174ddb916a3",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000065",
+      "translation": "어차피,이런 세상이야!",
+      "sourceTextSha256": "6a8d2c7a3d9b3813b47e2cd6ab3bb38a58f0ac14088b8740d2b5f00a9c56f3b2",
+      "translationTextSha256": "4315e010ee1f78b0b457c6256a4e33311d4ad5ff3e55f774088ec5c9b0552bb8",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 65,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "5f5a4abf166ec68c490d8a8061180b7be4c06ade5cb7cdfb12dd822672faeeef"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 24,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "어차피 이런 세상이야!",
+        "legacyTranslation": "",
+        "importedTranslation": "어차피,이런 세상이야!"
+      },
+      "metadata": {
+        "replacementText": "嬢託杷，戚訓　室雌戚醤！",
+        "byteLimit": null,
+        "encodedLength": 24
+      },
+      "newTranslation": "어차피, 이런 세계다!",
+      "newTranslationTextSha256": "62d97730a5a215adf0bb844f47bb07da37843a149c374dc29a857d6fd922145f",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000066",
+      "translation": "우리들은…",
+      "sourceTextSha256": "d230a332358cdeb2b40e398aee8ff89f3527c427ff04123713c0062b9590f7d5",
+      "translationTextSha256": "79a054d96bda3fbad0354ae6d44642c6860b2818ace5effc53e867d53d1c24b1",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 66,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "6ff92ffd49f97f97b458689c5cc05ad852bff62caeace799d199f56654d75d88"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 10,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "우리는...",
+        "legacyTranslation": "",
+        "importedTranslation": "우리들은…"
+      },
+      "metadata": {
+        "replacementText": "酔軒級精…",
+        "byteLimit": null,
+        "encodedLength": 10
+      },
+      "newTranslation": "우리는…",
+      "newTranslationTextSha256": "54289955155d3ad785179fd672c9e398da391792bcefd8fc08f6831e1577b10e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000067",
+      "translation": "우페이",
+      "sourceTextSha256": "156ca7c5a5b7924504743afe8add456d40a03f7167e62f43c65203034968374c",
+      "translationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 67,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "961da01819124a21d2090d36009923877eebd5993f419e7bd17ef7b34e99f99e"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "오비",
+        "legacyTranslation": "",
+        "importedTranslation": "우페이"
+      },
+      "metadata": {
+        "replacementText": "酔凪戚",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "우페이",
+      "newTranslationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000068",
+      "translation": "묻지도 따지지도 않고!",
+      "sourceTextSha256": "2045ec62114f468ee86353864725ceba6d21c7b946cbe5b9dbd6c1018de48424",
+      "translationTextSha256": "a0d0eeb522cf0df8e53692a3f5feee6c9cde8a3387e4645e4a07fcfa52ef7ec4",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 68,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "0fcfa30b85aca5dfc060198fc0da531ef61c0cbffdfcff0a4c93edf30a72ad34"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 24,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "문답 무용!",
+        "legacyTranslation": "",
+        "importedTranslation": "묻지도 따지지도 않고!"
+      },
+      "metadata": {
+        "replacementText": "康走亀　魚走走亀　省壱！",
+        "byteLimit": null,
+        "encodedLength": 24
+      },
+      "newTranslation": "문답무용!",
+      "newTranslationTextSha256": "db30a910eb9d38fc570004b5586c84ab1e8a8540e4ff714af0290c8456007c49",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000069",
+      "translation": "마리메이아병",
+      "sourceTextSha256": "b2dd5d2b9df80bb73f27a7f91f573746371683728d5c615aac65821d288d84b5",
+      "translationTextSha256": "ec5fd439366716939ca36e9a284912133e519bf02d9ca4c59cffc713cebfcaef",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 69,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "de29e987bea35c990179a24b4f499ffc6aef3a599d569fb712f446fb66705026"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어병",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아병"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼佐",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "마리메이아 병사",
+      "newTranslationTextSha256": "2974b3b364a1d2001804445522e16a41b7b67c095335149df89e084ffd5ba74e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000070",
+      "translation": "뭐…！？",
+      "sourceTextSha256": "5b62729e8d7a7d84e992680563596caa5dd358bd0a4ce4669ade84891aa69b07",
+      "translationTextSha256": "e40aa29be15901c5c7ffb66fdc6d9ed813a51b420d19745840056694d9e03f46",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 70,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "9881fcccb3c662f8c04aaa0a643f8f1883a037772968cfc0f2dcace15f5abb72"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 8,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "뭐...!?",
+        "legacyTranslation": "",
+        "importedTranslation": "뭐…！？"
+      },
+      "metadata": {
+        "replacementText": "更…！？",
+        "byteLimit": null,
+        "encodedLength": 8
+      },
+      "newTranslation": "뭐…!?",
+      "newTranslationTextSha256": "4cf4985a511ac59e0e131bf34a6db846101b7785aec05012cb2d1b76aca7fbb0",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000071",
+      "translation": "마리메이아병",
+      "sourceTextSha256": "b2dd5d2b9df80bb73f27a7f91f573746371683728d5c615aac65821d288d84b5",
+      "translationTextSha256": "ec5fd439366716939ca36e9a284912133e519bf02d9ca4c59cffc713cebfcaef",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 71,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "69ce10cae95d4713344dab6960bea95ce6b68ff54e5659cfbbe484881f26c3c6"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마리메이어병",
+        "legacyTranslation": "",
+        "importedTranslation": "마리메이아병"
+      },
+      "metadata": {
+        "replacementText": "原軒五戚焼佐",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "마리메이아 병사",
+      "newTranslationTextSha256": "2974b3b364a1d2001804445522e16a41b7b67c095335149df89e084ffd5ba74e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000072",
+      "translation": "말,말도 안 돼…",
+      "sourceTextSha256": "a3da2e67846a7ba56b3a0ce285452dd8194f0a4c41e9bba989ae682286b792f7",
+      "translationTextSha256": "45546c115d79b453928a2734ee7967bd55d60ff7658477c6f9d57d203f0baa6e",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 72,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "406ada26cf5ba4366cdde1f9032643ac5a5374b8aec0d5acd70ea3e6036b06f5"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 18,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "바, 바보 같은...",
+        "legacyTranslation": "",
+        "importedTranslation": "말,말도 안 돼…"
+      },
+      "metadata": {
+        "replacementText": "源，源亀　照　掬…",
+        "byteLimit": null,
+        "encodedLength": 18
+      },
+      "newTranslation": "마, 말도 안 돼…",
+      "newTranslationTextSha256": "b19a3fe36f38e34b5622a24477ede2d5e9074c1cee5af001c1ac77aa7c782072",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000073",
+      "translation": "우페이",
+      "sourceTextSha256": "156ca7c5a5b7924504743afe8add456d40a03f7167e62f43c65203034968374c",
+      "translationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 73,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "dda70cb0fdc486f9bab824d9cc2eb80130ec7c1e7e52a7306f0390f218d05d2f"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "오비",
+        "legacyTranslation": "",
+        "importedTranslation": "우페이"
+      },
+      "metadata": {
+        "replacementText": "酔凪戚",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "우페이",
+      "newTranslationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000074",
+      "translation": "지금의 나에게는,정의도 악도 말할 자격은 없어…",
+      "sourceTextSha256": "9dab9779c56aa85952cba2bc4c38da12e568eb814ecc20212ce2154c2f11e441",
+      "translationTextSha256": "618ca27b81860a2850b645a51042207f8d51417a8855a3621cff4ff7ee489d74",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 74,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "d437be0ff6eccf2999cdba7707ad429b141c64f0f63985572a49d52a0bd5d215"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 52,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "지금의 나에게는 정의도 악도 말할 자격은 없어...",
+        "legacyTranslation": "",
+        "importedTranslation": "지금의 나에게는,정의도 악도 말할 자격은 없어…"
+      },
+      "metadata": {
+        "replacementText": "走榎税　蟹拭惟澗，舛税亀　焦亀　源拝　切維精　蒸嬢…",
+        "byteLimit": null,
+        "encodedLength": 52
+      },
+      "newTranslation": "지금의 나에겐, 정의도 악도 말할 자격은 없다…",
+      "newTranslationTextSha256": "25ea9280fe953046125ccd088d3c83354b413f236a7767a90ef9d590b5c63b7d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000075",
+      "translation": "우페이",
+      "sourceTextSha256": "156ca7c5a5b7924504743afe8add456d40a03f7167e62f43c65203034968374c",
+      "translationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 75,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "6d7eb2976b8598884efdd0b94be240b960640823fb4d28f4f50db244ffb61ab1"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "오비",
+        "legacyTranslation": "",
+        "importedTranslation": "우페이"
+      },
+      "metadata": {
+        "replacementText": "酔凪戚",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "우페이",
+      "newTranslationTextSha256": "b165255fd8f3fcac8f6b6f59b6437469dc11ee5a7f1b6725395b7252cd90c81d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000076",
+      "translation": "알려줘,나타쿠…",
+      "sourceTextSha256": "0ab540ac95a5035827d7e41876097609cb6ba1b74fe0e7eda706e14499283bb8",
+      "translationTextSha256": "25ac69031a0db132566535b9263da990a57ce2782187c792999013cc159e7058",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 76,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "9eb85d7c59d28db3e6b858e90f1af35d552b7bb6740a9f572bcf6b3d64bfeadf"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 16,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "알려줘, 나탁아...",
+        "legacyTranslation": "",
+        "importedTranslation": "알려줘,나타쿠…"
+      },
+      "metadata": {
+        "replacementText": "硝形操，蟹展庭…",
+        "byteLimit": null,
+        "encodedLength": 16
+      },
+      "newTranslation": "가르쳐 다오, 나타쿠….",
+      "newTranslationTextSha256": "b5c61957532ce5c4ca1f63fbb5c2584ccff33328030bbd0f09e6291ceddf4115",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000077",
+      "translation": "나는… 무엇을 위해 살아가야 하는가…",
+      "sourceTextSha256": "e18d49af8e19367c792c81f8c612bc3ecdb2f2cf719c453791eea06909548106",
+      "translationTextSha256": "e441b82f8282d97bf1944a02914d48f50796b860dcb3264aa59583dbbf3e6721",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 77,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "2d24f93748e61af896f89158191295ae8ae93eda5d9ccb51a0f7e0b95ffbea67"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 40,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "나는...무엇을 위해 살아가야해...",
+        "legacyTranslation": "",
+        "importedTranslation": "나는… 무엇을 위해 살아가야 하는가…"
+      },
+      "metadata": {
+        "replacementText": "蟹澗…　巷譲聖　是背　詞焼亜醤　馬澗亜…",
+        "byteLimit": null,
+        "encodedLength": 40
+      },
+      "newTranslation": "나는… 무엇을 위해 살아가면 되지…",
+      "newTranslationTextSha256": "f18d1290a647d5231570540ae7f4b842ca50727dd8bae82b80878e41f208a4bf",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000078",
+      "translation": "샐리",
+      "sourceTextSha256": "f8f34391a09bbf0629f31b47ec9a32688883efdc9fca46c89f0986b4dc28fc5a",
+      "translationTextSha256": "051791e0c3cc888f8b69cb2dff766748da81a528b40a4273676ec306681a1b34",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 78,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "178402e0598e004bd7ad134c79a80f3ed214e09653d6eb9822a546133fdaee83"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "사리",
+        "legacyTranslation": "",
+        "importedTranslation": "샐리"
+      },
+      "metadata": {
+        "replacementText": "侍軒",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "사리",
+      "newTranslationTextSha256": "6905deebd62cfaf7da3ebad2b4bfe3b7c648f090757e3dfe3d08abecad2280fd",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000079",
+      "translation": "우페이…",
+      "sourceTextSha256": "5dc4dc71b74f7fd102bd84ed9c251f033aaf1ded81b1716ee04887fdd902baec",
+      "translationTextSha256": "d4c2609ae72317c574bb16a5abfb4dff4fb4ba57832bf74ab8e26d01c3ed8d5b",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 79,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "5efd105ee2a2735be490e11be0a713625d8c85aba90b2e02def84ee1b9a85bc2"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 8,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "오비...",
+        "legacyTranslation": "",
+        "importedTranslation": "우페이…"
+      },
+      "metadata": {
+        "replacementText": "酔凪戚…",
+        "byteLimit": null,
+        "encodedLength": 8
+      },
+      "newTranslation": "우페이….",
+      "newTranslationTextSha256": "bcb3c3b16a063fc4262ec3a5189f944744cb0d355f50123bad30804b9964f359",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000080",
+      "translation": "당신은… 망설임 속에 있는 거야…",
+      "sourceTextSha256": "ccdf5b5888878974a14eb4e637fdbd4e8be6d6e34cc1151f2baf0b2394022d14",
+      "translationTextSha256": "9a33ce9e3f981c8ef5e54c0c2ca91b0e83deef10eb9647cdcf85c31f707a87f8",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 80,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "1e963110792d95f6f5516d7d7228088b4363d72abb14790ca6641543b3c640b3"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 36,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "당신은...미혹속에 있는거야...",
+        "legacyTranslation": "",
+        "importedTranslation": "당신은… 망설임 속에 있는 거야…"
+      },
+      "metadata": {
+        "replacementText": "雁重精…　諺竺績　紗拭　赤澗　暗醤…",
+        "byteLimit": null,
+        "encodedLength": 36
+      },
+      "newTranslation": "당신은… 망설임 속에 있어…",
+      "newTranslationTextSha256": "374cdfbc7bc90fe1bcb75b2a4106e9d4dcad910b92c829b62891e3270231d0d2",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000081",
+      "translation": "？？？",
+      "sourceTextSha256": "3fe3a9d5ff5031b4a1a9f594cb565c8f7ef7186527690676d3e3ef2f40304c71",
+      "translationTextSha256": "3fe3a9d5ff5031b4a1a9f594cb565c8f7ef7186527690676d3e3ef2f40304c71",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 81,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "8530df17021cba62a7287c45edd462dae5fd10e8adab0031650bae404c6f5c42"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "？？？",
+        "legacyTranslation": "",
+        "importedTranslation": "？？？"
+      },
+      "metadata": {
+        "replacementText": "？？？",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "???",
+      "newTranslationTextSha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000082",
+      "translation": "걱정할 필요 없습니다",
+      "sourceTextSha256": "8d3b25296228b4cc93246214fda96901a92d8292b76eb96c25123938e1fd8e4d",
+      "translationTextSha256": "1040d4c661fd2e01602fb9d96b93ea00239913545522d07268206447deba0d1d",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 82,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "ea1cc0cbb4d1e34b5c6b32f4d52398a8e9ddc57f53b032f9b87832b9afc434a5"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 22,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "걱정할 것 없습니다",
+        "legacyTranslation": "",
+        "importedTranslation": "걱정할 필요 없습니다"
+      },
+      "metadata": {
+        "replacementText": "案舛拝　琶推　蒸柔艦陥",
+        "byteLimit": null,
+        "encodedLength": 22
+      },
+      "newTranslation": "걱정은 무용입니다",
+      "newTranslationTextSha256": "240b95a432336d6a68f8986b723ca99bcc3b37f4b2160be843e522d07378b679",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000083",
+      "translation": "샐리",
+      "sourceTextSha256": "f8f34391a09bbf0629f31b47ec9a32688883efdc9fca46c89f0986b4dc28fc5a",
+      "translationTextSha256": "051791e0c3cc888f8b69cb2dff766748da81a528b40a4273676ec306681a1b34",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 83,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "91c02cd63ead6ef390601d2b0056b9b66d03274f331546296f7e39c753cd4bd0"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "사리",
+        "legacyTranslation": "",
+        "importedTranslation": "샐리"
+      },
+      "metadata": {
+        "replacementText": "侍軒",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "사리",
+      "newTranslationTextSha256": "6905deebd62cfaf7da3ebad2b4bfe3b7c648f090757e3dfe3d08abecad2280fd",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000084",
+      "translation": "당신은…",
+      "sourceTextSha256": "968bed483e33547012dca287ed4a7ddd40d58b6670b0554e529ba22029f4b673",
+      "translationTextSha256": "bae68e749680de0bac07efe8bdaf2e383d30e39a44d094a6fd659f70c5a3fc67",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 84,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "a4333422427bdc21f0120d480b71fdacaf639656a68e86ffee0173c6cadfcc4a"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 8,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "당신은...",
+        "legacyTranslation": "",
+        "importedTranslation": "당신은…"
+      },
+      "metadata": {
+        "replacementText": "雁重精…",
+        "byteLimit": null,
+        "encodedLength": 8
+      },
+      "newTranslation": "너는…",
+      "newTranslationTextSha256": "f14ae0da954d29a2df5624726fc202417b1364c5b474b2ab0fedb647a7c67fc8",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000085",
+      "translation": "호시키쿠",
+      "sourceTextSha256": "d6e5b194b3631fbe5e3cb7876a094ba77897d7a7febfe795e9ec17c50146f602",
+      "translationTextSha256": "fcc89ff87e1a0fc30e439d4ebf79cbdb39b41ef80f9a27ad56a1e836cd18bf1e",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 85,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "f3f8f4d3f6e9eea549741d840e6cf9b3bb775ac0d91c662a61984299d8c5f41e"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 8,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "성각",
+        "legacyTranslation": "",
+        "importedTranslation": "호시키쿠"
+      },
+      "metadata": {
+        "replacementText": "硲獣徹庭",
+        "byteLimit": null,
+        "encodedLength": 8
+      },
+      "newTranslation": "성각",
+      "newTranslationTextSha256": "603c31f79f9f558e3c6be8bdcf3530e2415c9113f810e561f32c773db677b08f",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0068a/ID00004/000086",
+      "translation": "저 남자는 분명… 스스로 답을 찾아낼 겁니다",
+      "sourceTextSha256": "3cda8513a8aef1ffab4798ee3eb7e4df08d6907118576c07afa5ed11bc3068ef",
+      "translationTextSha256": "ba434ec10ce2ecdabad12f5b6496dd5aefd14fdcaff892fbfbb755e193926e84",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0068a",
+        "internalId": "ID00004",
+        "sourceRow": 86,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0068a(40화C)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "1784466604fa7a7cf6b13dad39f35dc8115fcc1c5c7dcbebd6424d84c8de57e2",
+        "sourceBindingSha256": "6e5d3c292b5d45d0dbf4c0696bf290117dda2a3225df7f1dddd9d5bc09d0a21b"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 48,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "저 남자는 분명…스스로 답을 찾아냅니다",
+        "legacyTranslation": "",
+        "importedTranslation": "저 남자는 분명… 스스로 답을 찾아낼 겁니다"
+      },
+      "metadata": {
+        "replacementText": "煽　害切澗　歳誤…　什什稽　岩聖　達焼馨　位艦陥",
+        "byteLimit": null,
+        "encodedLength": 48
+      },
+      "newTranslation": "저 남자는 분명… 스스로 답을 찾아냅니다",
+      "newTranslationTextSha256": "4a0db285c5c041082f02cedf938bc7ebd788111d6d3a08ade942f6395302b387",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0068a 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    }
+  ],
+  "retranslationPreview": {
+    "scope": "scenario_STG0068a.json",
+    "version": "STG0068a-settings-v1",
+    "field": "newTranslation",
+    "activeTranslationUnchanged": true,
+    "spacePolicy": "입력·미리보기는 반각 U+0020 공백; 최종 삽입 단계에서만 0xFEFE 치환",
+    "linePolicy": "기존 번역에서 산출한 파일별 최대 행 길이를 기준으로 뷰어가 표시 줄을 재배치",
+    "translationPolicy": "일본어 원문·로컬 용어사전·인물 관계 자료 우선; 기존 번역은 참고용"
+  }
+}

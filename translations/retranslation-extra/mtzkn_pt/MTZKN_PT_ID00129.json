@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00129",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00129/Sheet1/000002",
+      "sourceBindingSha256": "bd1b76c322eb8a27b832526194903ecdcaece8a5be8078dde9f8e771218e2854",
+      "sourceTextSha256": "359de383573188110b961f97cceb1df6bef2f5074c7b919989c51dfc51317c2c",
+      "freshTranslation": "제니퍼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00129/Sheet1/000003",
+      "sourceBindingSha256": "6bc141b5ddb00b62421e4da35927691b2a3d820ababae9e89f9611c24acfcd9f",
+      "sourceTextSha256": "359de383573188110b961f97cceb1df6bef2f5074c7b919989c51dfc51317c2c",
+      "freshTranslation": "제니퍼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00129/Sheet1/000004",
+      "sourceBindingSha256": "cb55572c00862fd7b285a6e586b514e5ff6157fe6c74e0f7e829b15fa121ecb5",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00129/Sheet1/000005",
+      "sourceBindingSha256": "173cbdbf69b436f1c160ec6ad69d6159babc8eb44a83a56b4e5b1f304a851b67",
+      "sourceTextSha256": "c782d0d1214dd3a6718b5b384b761f0bcbaa84f042136c40b4edba337657bbe2",
+      "freshTranslation": "극중 영화 '솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00129/Sheet1/000006",
+      "sourceBindingSha256": "9134bf3c6221eef7a8d3343cf8c1436b6a18b67e9595b76358d6e7cbd53017aa",
+      "sourceTextSha256": "c0db26b6ce8af4d2d2ac17e13c5f62da9daab6a609e001f764fd6cfce308d2bc",
+      "freshTranslation": "루비잉에 등장하는 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00129/Sheet1/000007",
+      "sourceBindingSha256": "8d6ebccdb285912d54b60c2b4ebb4e1025931d9c24cd4b3af645dfc3ed61d636",
+      "sourceTextSha256": "3ec0aaa70369cefdb918778c61daa2ccaee4c5d346f2c46180a8795cb33aff86",
+      "freshTranslation": "ー.㊥아리오스 건담에 탑승하는 팀의 홍일점으로, 본래의 탑승자인 알레르야란㊥닮아도 닮지 않는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00129/Sheet1/000008",
+      "sourceBindingSha256": "7d8d1b54fe2e7a9753168495bb15b278d960582476f98d3dc7766924855266f3",
+      "sourceTextSha256": "c782d0d1214dd3a6718b5b384b761f0bcbaa84f042136c40b4edba337657bbe2",
+      "freshTranslation": "극중 영화 '솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00129/Sheet1/000009",
+      "sourceBindingSha256": "c80ea2aecbccf7a4b294c9df91cffd9b102d6ea636b20de6504804e3ea90437b",
+      "sourceTextSha256": "c0db26b6ce8af4d2d2ac17e13c5f62da9daab6a609e001f764fd6cfce308d2bc",
+      "freshTranslation": "루비잉에 등장하는 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00129/Sheet1/000010",
+      "sourceBindingSha256": "c5fab4b631fb16cc64400f0b60894c6e50d7a5f557655a0893cfeea63d0a4dc7",
+      "sourceTextSha256": "3ec0aaa70369cefdb918778c61daa2ccaee4c5d346f2c46180a8795cb33aff86",
+      "freshTranslation": "ー.㊥아리오스 건담에 탑승하는 팀의 홍일점으로, 본래의 탑승자인 알레르야란㊥닮아도 닮지 않는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

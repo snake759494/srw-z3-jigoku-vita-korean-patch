@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00377",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00377/Sheet1/000002",
+      "sourceBindingSha256": "c25304f935de21df290731f1c73e679246a73b445e3a0a4b989be7da2aba2d00",
+      "sourceTextSha256": "d8103af2e64078c873de7d720dfd38700a9c1c5f6c016b426678b385b4894901",
+      "freshTranslation": "서던카 비앙카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00377/Sheet1/000003",
+      "sourceBindingSha256": "8af1ff4e7d03463cc6820d43b4af9e86922196c29fa9db41feb09894b28b16af",
+      "sourceTextSha256": "64f70b5e23bef871c11a8d3a3c5d2f15561ebe73b1a9405d77589e7bdd5439c3",
+      "freshTranslation": "사잔카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00377/Sheet1/000004",
+      "sourceBindingSha256": "82142b10b841185134e479fc1c388415657e2ef1b3a55f0dae17f096b259a83a",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00377/Sheet1/000005",
+      "sourceBindingSha256": "26a2e058439fca68196d1ad6e97001e7fcb545a8062265945a4894accf4a8783",
+      "sourceTextSha256": "fd0121b415f7a2457f3ad482343a42ec7d15f2451cc78db89e6039df938d696d",
+      "freshTranslation": "나카지마 아이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00377/Sheet1/000006",
+      "sourceBindingSha256": "dccfe1221ffc7fe47c5b04202fc7ba79964fa8049dde5ac9845b4bc424c566f0",
+      "sourceTextSha256": "63826b9b23005ba8a5bcc2e688d57196ed27183bf15b0c21039f22ce449aa588",
+      "freshTranslation": "네오디바의 요소 후보생.㊥밝고 망상을 사랑하는 소녀. 아름다운 남자끼리의 합체를 좋아합니다.㊥율레이드와 카이엔의 커플링으로 망상하고 코피를 흘리고 있다. 버릇은 \"썩다.㊥으~! \".㊥뱃사공도 취미이며 실익을 겸비한 사진",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00377/Sheet1/000007",
+      "sourceBindingSha256": "2044cbd70d60cba0e5d47cb09ea0aed2fc4224a7e3c806978df159d93e76c9e5",
+      "sourceTextSha256": "1b25fbd08383da926bbe16056215e8341eec174c25a4e0affe6bd7b0a23a52a1",
+      "freshTranslation": "을 팔고 엄청난 상혼㊥도 가지고있다. ㊥ 요소 능력은 \"부식력\". 모든 물질을 썩게 하고 썩게 하는 능력을 가진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00377/Sheet1/000008",
+      "sourceBindingSha256": "41a152cbe93e5c4c6774516232961a8f2f7dbba55e3cfc8c54215ca44f4db25d",
+      "sourceTextSha256": "63826b9b23005ba8a5bcc2e688d57196ed27183bf15b0c21039f22ce449aa588",
+      "freshTranslation": "네오디바의 요소 후보생.㊥밝고 망상을 사랑하는 소녀. 아름다운 남자끼리의 합체를 좋아합니다.㊥율레이드와 카이엔의 커플링으로 망상하고 코피를 흘리고 있다. 버릇은 \"썩다.㊥으~! \".㊥뱃사공도 취미이며 실익을 겸비한 사진",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00377/Sheet1/000009",
+      "sourceBindingSha256": "28dddade19a144abec4a76a07275cdeb82f3354ec96937947f616efc6d74103d",
+      "sourceTextSha256": "e4f30e61520082e1f537582521a51d39998bcc66892e86c284e4b2e7a984f6ff",
+      "freshTranslation": "을 팔고 엄청난 상혼㊥도 가지고있다. ㊥ 요소 능력은 \"부식력\". 모든 물질을 썩게 하고 썩게 하는 능력을 가진다. ㊥ 모의전에서는, 카이엔, 모로이와 짜, EVOL의 다리를 썩게 해, 움직임을 잡을 수 없는 ㊥ 하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

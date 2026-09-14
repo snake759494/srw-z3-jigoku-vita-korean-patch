@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00173",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00173/Sheet1/000002",
+      "sourceBindingSha256": "f9b0cbfa2b51201e1307cce9e1fc50191eb0d4cf01003db1f6948cfb248f557c",
+      "sourceTextSha256": "fe82c905a6215168a90a9b27d7eb05a7c47166cb9ec609a131f0bd7583092bde",
+      "freshTranslation": "THE 빅오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00173/Sheet1/000003",
+      "sourceBindingSha256": "318e51db592ffee1031dc107766310fcae0b254e7443185f2949699c0c01ebf2",
+      "sourceTextSha256": "131f30d4ee2994ee2e2b45a036ad8b318a025bfa105de7e9adfbea4bd2b52bfa",
+      "freshTranslation": "빅 비누스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00173/Sheet1/000004",
+      "sourceBindingSha256": "b59583f643a90700b92734889816eb5b1546ff01c64fbd7e97196c486fea4009",
+      "sourceTextSha256": "131f30d4ee2994ee2e2b45a036ad8b318a025bfa105de7e9adfbea4bd2b52bfa",
+      "freshTranslation": "빅 비누스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00173/Sheet1/000005",
+      "sourceBindingSha256": "6f4e4a313e3bd0c0ff36c588e64520e4fac8a4ebf9aaa1959d16cd0c756dd23a",
+      "sourceTextSha256": "18df4e5f92f5713a900322f8edc84b421f2c163b797ad1e770f004f4f0329b32",
+      "freshTranslation": "천사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00173/Sheet1/000006",
+      "sourceBindingSha256": "c54b9295379f2eadc1a0b3b8877c769bf89520d3d7c252ddffec100fdefed920",
+      "sourceTextSha256": "9095f8e775cd3a2ecc772c77f08f7e96add64575efe4422dc07ea5f5515a87c3",
+      "freshTranslation": "모든 것이 수수께끼에 싸인 메가데우스. ㊥ 빅오의 색채를 반전시킨 것 같은 컬러링을 가진다. ㊥ 화려한 형상을 가지고, 엔젤의 아자와 마찬가지로 날개를 낳은 흔적 같은 것이 등 ㊥안에 있는 것이 특징. ㊥세계를 리셋하는 역할을 하고 있으며, 통과한 것의 존재 전부를 지우는 특수한 ㊥ 능력을 가지고 있다. ㊥ 패러다임 시티 창조",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00173/Sheet1/000007",
+      "sourceBindingSha256": "05f8e0ad3ed4ee3971ecc70bfd47ad14bb5ffd5388c41478e5a00c47aa7137de",
+      "sourceTextSha256": "0d75adde9589eb9102dccf1e43a7a9e75afdb30c3e3623388c603c73d46a8f8f",
+      "freshTranslation": "-인 엔젤이, 메모리로서의 자기의 존재㊥재를 알아차리고, 원래의 장소로 돌아가려고 한 일로 각성했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00173/Sheet1/000008",
+      "sourceBindingSha256": "3678491c72351e056fa647eb164efd00ba15aed651eebafe15ad731af61ff05f",
+      "sourceTextSha256": "9095f8e775cd3a2ecc772c77f08f7e96add64575efe4422dc07ea5f5515a87c3",
+      "freshTranslation": "모든 것이 수수께끼에 싸인 메가데우스. ㊥ 빅오의 색채를 반전시킨 것 같은 컬러링을 가진다. ㊥ 화려한 형상을 가지고, 엔젤의 아자와 마찬가지로 날개를 낳은 흔적 같은 것이 등 ㊥안에 있는 것이 특징. ㊥세계를 리셋하는 역할을 하고 있으며, 통과한 것의 존재 전부를 지우는 특수한 ㊥ 능력을 가지고 있다. ㊥ 패러다임 시티 창조",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00173/Sheet1/000009",
+      "sourceBindingSha256": "83ef82b0dd55338a0bdf9fa071110bcf82770ffe214593926fa6f994c4942c14",
+      "sourceTextSha256": "5f92889834f9b6470caea6647d57657e7e47e67bbbc0ec35e8367bd86fa70128",
+      "freshTranslation": "-인 엔젤이, 메모리로서의 자기의 존재㊥재를 알아차리고, 원래의 장소로 돌아가려고 한 일로 각성. 로저와 빅오는 그녀와 ㊥ 협상하기 위해이 빅 비누스와 대치했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

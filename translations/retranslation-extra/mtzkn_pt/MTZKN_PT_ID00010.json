@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00010",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00010/Sheet1/000002",
+      "sourceBindingSha256": "e6570a6e109b84e7e0ffd31dd2ce641168c558b40c2ed294948d5ac090db6eb2",
+      "sourceTextSha256": "e844a032bf38acd7da4d347a7bc79b2b1d9a10ecb9ef3e265bcca33be910ca1b",
+      "freshTranslation": "타케오 시게루",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00010/Sheet1/000003",
+      "sourceBindingSha256": "72f6447c9ca094cc798d47e74857259b6e446f7d6f12b48519f2ffc588ee79cf",
+      "sourceTextSha256": "44ea0d129c893820356f0013030e41f6b193a8fe18b6076f60c23ed82ed19160",
+      "freshTranslation": "시시하다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00010/Sheet1/000004",
+      "sourceBindingSha256": "773ffe198641d0e495bf5ded4a27d1b16ce7ce1e149c3023039f56ce97e95e2b",
+      "sourceTextSha256": "77c406ff1c1b9634902fdd15ec771c2a07e20db9f0a6b53196dbf872ebd5aa4c",
+      "freshTranslation": "무적 로보 트라이더 G7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00010/Sheet1/000005",
+      "sourceBindingSha256": "570d1b16c2bc87884dbdd3d978dd24311e62e108f1e54d4231c72aad648da51b",
+      "sourceTextSha256": "0f042548c2486561a644d58a407c652f00172e635976532327d998cc4a24183b",
+      "freshTranslation": "와타의 동생. 5세. ㊥ 활기가 넘치는 와타나 누나의 사치코에 비하면 어른스러운 성격의 소년. ㊥ 언니 아이로 항상 사치코에 붙어 행동하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00010/Sheet1/000006",
+      "sourceBindingSha256": "6f042850283df68c16e495fd1c895038d6f356353b6ab17e24ba0b0aefa06ebd",
+      "sourceTextSha256": "0f042548c2486561a644d58a407c652f00172e635976532327d998cc4a24183b",
+      "freshTranslation": "와타의 동생. 5세. ㊥ 활기가 넘치는 와타나 누나의 사치코에 비하면 어른스러운 성격의 소년. ㊥ 언니 아이로 항상 사치코에 붙어 행동하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

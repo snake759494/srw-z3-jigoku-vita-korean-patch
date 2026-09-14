@@ -1,0 +1,49 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00124",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00124/Sheet1/000002",
+      "sourceBindingSha256": "915154d593a03058cef7c0379067fb1e76a8f22b9caf8a6aa41460102e81a365",
+      "sourceTextSha256": "7669c78573db7851e69684ca226465fd07fe9556c10d361219f1dde2c7e809ab",
+      "freshTranslation": "「극장판 기동전사 건담 00-AwakeningofftheTrailblazer-」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00124/Sheet1/000003",
+      "sourceBindingSha256": "7ab7690952da82e2df639c207e0e165303e8b676b3a8a4715f9baef2c277718c",
+      "sourceTextSha256": "11084dfc01f56a4c9936d3983800cddc27871f3504219e0b10ebe6bc087cab84",
+      "freshTranslation": "중동 크루지스 공화국의 반정부 게릴라 조직. ㊥ 리더는 앨리 알 서서스였고 어린 시절의 찰나도 소속되어 있었다. ㊥ 신앙도 주의 주장도 없는 서셰스의 정신 제어에 의해 소속한 소년 병들은 ㊥ 국내외에서 수많은 비인도적인 테러 활동을 했다. ㊥ 디란디 형제가 가족을 잃은 테러의 실행범도 이 KPSA이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00124/Sheet1/000004",
+      "sourceBindingSha256": "5ff65eae4acc18a41516d415fe6f4cbb78e77fbcfe35f829426652c127395ba5",
+      "sourceTextSha256": "11084dfc01f56a4c9936d3983800cddc27871f3504219e0b10ebe6bc087cab84",
+      "freshTranslation": "중동 크루지스 공화국의 반정부 게릴라 조직. ㊥ 리더는 앨리 알 서서스였고 어린 시절의 찰나도 소속되어 있었다. ㊥ 신앙도 주의 주장도 없는 서셰스의 정신 제어에 의해 소속한 소년 병들은 ㊥ 국내외에서 수많은 비인도적인 테러 활동을 했다. ㊥ 디란디 형제가 가족을 잃은 테러의 실행범도 이 KPSA이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

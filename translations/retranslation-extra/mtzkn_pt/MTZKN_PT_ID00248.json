@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00248",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00248/Sheet1/000002",
+      "sourceBindingSha256": "df2e7be6abba092ce0f5e70aa9897c71de0597698f101ce4dcdcf35f21d11291",
+      "sourceTextSha256": "3ebfb90dd8432ab0957d32f5ad9cbdf4384e31526f8fa3025824eb8eab178db9",
+      "freshTranslation": "더브",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00248/Sheet1/000003",
+      "sourceBindingSha256": "3d9f45ec02c62ef20e676c45ed1105f47ec188995cea432ac0a9c1f47d04becc",
+      "sourceTextSha256": "3ebfb90dd8432ab0957d32f5ad9cbdf4384e31526f8fa3025824eb8eab178db9",
+      "freshTranslation": "더브",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00248/Sheet1/000004",
+      "sourceBindingSha256": "979bcec6e4c4b3274c60d0a454e6724e6cd8fa6109c16d5a38cebe4ad81d167e",
+      "sourceTextSha256": "fe82c905a6215168a90a9b27d7eb05a7c47166cb9ec609a131f0bd7583092bde",
+      "freshTranslation": "THE 빅오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00248/Sheet1/000005",
+      "sourceBindingSha256": "aabc3932d34c49972822423bd7d8c5762c0ddd5c943cf36bd61e9d41d2dce1b4",
+      "sourceTextSha256": "24b070aba0ceb031998e0f1c5df956ed7d2c894fcdae95e59d61969f17923905",
+      "freshTranslation": "치다 미츠오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00248/Sheet1/000006",
+      "sourceBindingSha256": "5e37f912c8b6e2178bb5e99a182ab5fa53019341497d8cf2f3d5fb9ed8405f15",
+      "sourceTextSha256": "f5b828410256977b2950ae781b0b3fe51019d921bc17f564523ef005f3fdde14",
+      "freshTranslation": "벡의 부하에 색깔된 남자. ㊥ 오카마와 같은 말투로 말하는 것이 특징.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00248/Sheet1/000007",
+      "sourceBindingSha256": "3618c4c90b932bfcef7a92f07c0a61f87ddce8dd33a2262c419b3cd8446d8cd8",
+      "sourceTextSha256": "f5b828410256977b2950ae781b0b3fe51019d921bc17f564523ef005f3fdde14",
+      "freshTranslation": "벡의 부하에 색깔된 남자. ㊥ 오카마와 같은 말투로 말하는 것이 특징.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

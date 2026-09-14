@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00008",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00008/Sheet1/000002",
+      "sourceBindingSha256": "76767cb1c655368d1698587c329871c896ce2a7eb98fc18fd81d6e08862dc442",
+      "sourceTextSha256": "91afd106b160a3f6de84734160c1c29d65740bc510d0e0a57f1e969e8fb9f77d",
+      "freshTranslation": "특별교육실습생",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00008/Sheet1/000003",
+      "sourceBindingSha256": "4f70ed658678ef9c6682f4c9054e9bab4f9bb02246ed7ff6a6882c02cfbc42a8",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00008/Sheet1/000004",
+      "sourceBindingSha256": "9c2410fabaf9a5afc3f7f960289f2967c6f163eb141fe2425576b801ec0a49be",
+      "sourceTextSha256": "afe0b571024ba282e452d805f625b34d6d3f2afddf17b8082e77fcbfb005033f",
+      "freshTranslation": "연구학원도시인 제2신도쿄시에 시험적으로 도입되고 있는 교육실습제도. ㊥ 통상은 1개월 정도의 실습 기간을 1년간으로 연장해, 연간의 행사를 통해서, 교사㊥의 역할을 배우는 것이 목적. 그 때문에 부활동이나 자원봉사활동 등 과외활동에 ㊥의 참가도 추천되고 있다. ㊥실습생으로 선택되는 학생은 열의뿐만 아니라 3학년 때까지 졸업에 필요한 단㊥위(교육실습 제외)의 취득이 필수가 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00008/Sheet1/000005",
+      "sourceBindingSha256": "ffcb1120f949c2998d08fbdf50e2d3cc16006b98f70dab590111524d560bc30f",
+      "sourceTextSha256": "afe0b571024ba282e452d805f625b34d6d3f2afddf17b8082e77fcbfb005033f",
+      "freshTranslation": "연구학원도시인 제2신도쿄시에 시험적으로 도입되고 있는 교육실습제도. ㊥ 통상은 1개월 정도의 실습 기간을 1년간으로 연장해, 연간의 행사를 통해서, 교사㊥의 역할을 배우는 것이 목적. 그 때문에 부활동이나 자원봉사활동 등 과외활동에 ㊥의 참가도 추천되고 있다. ㊥실습생으로 선택되는 학생은 열의뿐만 아니라 3학년 때까지 졸업에 필요한 단㊥위(교육실습 제외)의 취득이 필수가 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

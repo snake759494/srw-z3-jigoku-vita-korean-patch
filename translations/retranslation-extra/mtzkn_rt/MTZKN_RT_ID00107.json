@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00107",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00107/Sheet1/000002",
+      "sourceBindingSha256": "b40e675d67d3eeb78bd56017a0ecd769bb6eeea7d0af8733d77a9c5adde7335f",
+      "sourceTextSha256": "c1758e7351f74ec3cb72cb78c6d26cd6eeb745582c8a9473ce6f39bda42875b8",
+      "freshTranslation": "마크로스 다이너마이트 7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00107/Sheet1/000003",
+      "sourceBindingSha256": "df89a7fff89a9ea2215cd3a194fae1456cc37db13350c3504ed9fe3f8c39fb85",
+      "sourceTextSha256": "765c620da5424a84bda50e213cb8eb75cc0771b2629ef8f11e5c82c4013f2069",
+      "freshTranslation": "VF-22SS 보겔ⅡF",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00107/Sheet1/000004",
+      "sourceBindingSha256": "08708018252c0a50e42924d069f819757a5cbdfc4fb080d218ac678e5898b10e",
+      "sourceTextSha256": "815423811f45ef789fb0c0b1a548a03906be0035b6b842873a3e53c15d79080e",
+      "freshTranslation": "VF-22S 슈투름보겔 II파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00107/Sheet1/000005",
+      "sourceBindingSha256": "41ec1b1f35cd72fa18011840a6bebe0ebf4aefe306dc2a64a1ae38f7010bb4bc",
+      "sourceTextSha256": "9f87d0cca81e114af59b79fc2c59fd639d0fa3d5d5347734a4ff1edba4f6771c",
+      "freshTranslation": "ー모드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00107/Sheet1/000006",
+      "sourceBindingSha256": "b12bcae29d909accdb1b16cef94c7732b4884dea33fd55ef3892be6f076d10af",
+      "sourceTextSha256": "09e8453cad950579d228ebadd4c680f4fef56f3bbd688d56188bf4bf28e76065",
+      "freshTranslation": "껌린·키자키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00107/Sheet1/000007",
+      "sourceBindingSha256": "84f25f40916a6e8a91b894269b2ce4cca7be51c63d601d675378bf80dcf29d96",
+      "sourceTextSha256": "6bd21a3a81d77762662a36ca2b7f4289a7855ca5ff62999e23d7e0878a2eaa96",
+      "freshTranslation": "마크로스 7 선단에서 공식 채용 된 가변 전투기의 파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00107/Sheet1/000008",
+      "sourceBindingSha256": "30bbf027769e5f3bbaea91e86cea77e2cfa73c6b11721c53e9539cb3676c1637",
+      "sourceTextSha256": "1f2ab1685f8425e5bfefe0f1ee336fcb8c7bf73305e85141e50798dc3d882835",
+      "freshTranslation": "- 형태. ㊥ 한때 YF-19와 경쟁 한 YF-21",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00107/Sheet1/000009",
+      "sourceBindingSha256": "70cbb2aea120a5ba7d7154701eaa28b5415fbd5bd94b7959bafa1a1b5f6a2128",
+      "sourceTextSha256": "181a4f2d173709354eaf35204fab4b2d1be6f56f977d51de64f0d3842bc83f58",
+      "freshTranslation": "하고있다. ㊥YF-21의 가장 큰 특징 인 뇌파 조종 시스템은 잘라내어 시야, 수동 조종 ㊥ 세로 호환 콕핏으로 대체되었습니다. 이러한 변화에 의해 비용의 대폭 삭감과 ㊥ 기체의 경량화에 성공하고 있다. ㊥ 기체 경량화, 형상 변화 가능한 주익 등에 의해, 프로토타입기인 YF-21에 필적하는 ㊥ 정도의 높은 기동성을 가지고 있다. ㊥ 감림은 이 기체에서 바사라를 쫓아 행성 졸라로 향해 졸라 주류군 은하 패트로 ㊥ 르대와 은하 고래 밀렵단의 전투에 참가했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00107/Sheet1/000010",
+      "sourceBindingSha256": "46801feb2b0a8ba324b297cf468f07fb24f4ccb499eec477c2c964db4cffc618",
+      "sourceTextSha256": "6bd21a3a81d77762662a36ca2b7f4289a7855ca5ff62999e23d7e0878a2eaa96",
+      "freshTranslation": "마크로스 7 선단에서 공식 채용 된 가변 전투기의 파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00107/Sheet1/000011",
+      "sourceBindingSha256": "515a5e904f9a3f8c926f84ba7b966cfa9d4e7e6b79e1f5b07468ae0c42103da3",
+      "sourceTextSha256": "1f2ab1685f8425e5bfefe0f1ee336fcb8c7bf73305e85141e50798dc3d882835",
+      "freshTranslation": "- 형태. ㊥ 한때 YF-19와 경쟁 한 YF-21",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00107/Sheet1/000012",
+      "sourceBindingSha256": "83995b63c7f55390e6708392f4ed14b232550eaa526e19605a3281b82cffc0a0",
+      "sourceTextSha256": "181a4f2d173709354eaf35204fab4b2d1be6f56f977d51de64f0d3842bc83f58",
+      "freshTranslation": "하고있다. ㊥YF-21의 가장 큰 특징 인 뇌파 조종 시스템은 잘라내어 시야, 수동 조종 ㊥ 세로 호환 콕핏으로 대체되었습니다. 이러한 변화에 의해 비용의 대폭 삭감과 ㊥ 기체의 경량화에 성공하고 있다. ㊥ 기체 경량화, 형상 변화 가능한 주익 등에 의해, 프로토타입기인 YF-21에 필적하는 ㊥ 정도의 높은 기동성을 가지고 있다. ㊥ 감림은 이 기체에서 바사라를 쫓아 행성 졸라로 향해 졸라 주류군 은하 패트로 ㊥ 르대와 은하 고래 밀렵단의 전투에 참가했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

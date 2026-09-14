@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:siok:scenario-glossary:v2",
+  "type": "object",
+  "required": [
+    "format",
+    "formatVersion",
+    "records",
+    "speechProfiles",
+    "relationships",
+    "seriesStyles",
+    "qualityRules"
+  ],
+  "properties": {
+    "format": {
+      "const": "siok.scenario-glossary"
+    },
+    "formatVersion": {
+      "const": 2
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "kind",
+          "ja",
+          "preferredKo",
+          "sources"
+        ]
+      }
+    },
+    "speechProfiles": {
+      "type": "array"
+    },
+    "relationships": {
+      "type": "array"
+    },
+    "seriesStyles": {
+      "type": "array"
+    },
+    "referenceRulesFile": {
+      "type": "string"
+    },
+    "seriesReferenceFile": {
+      "type": "string"
+    },
+    "referenceReview": {
+      "type": "object",
+      "required": [
+        "checkedAt",
+        "sourceFolder",
+        "workCount"
+      ]
+    },
+    "qualityRules": {
+      "type": "array",
+      "minItems": 1
+    }
+  },
+  "additionalProperties": true
+}

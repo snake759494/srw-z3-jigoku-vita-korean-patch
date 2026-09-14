@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00053",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00053/Sheet1/000002",
+      "sourceBindingSha256": "ba1f0ea23c4f66ed7d19ed7ff261ed983ec48c8a186c26377ba4a08e63023e7a",
+      "sourceTextSha256": "053fe2dbecb1f81ae77c0bde8cef39571dcd3ab4ca4bd2103d2ae1b10b491856",
+      "freshTranslation": "화유이리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00053/Sheet1/000003",
+      "sourceBindingSha256": "436f05cef92652a2c2475c09911cf6c85814fdd4a32d64afc9d995d931544072",
+      "sourceTextSha256": "a23753fe36e82b72471f5b64e2aa17ae4dbd83447327d0e2425facf6b5639b07",
+      "freshTranslation": "화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00053/Sheet1/000004",
+      "sourceBindingSha256": "655e879f9059ee33d8fa4fcd01d897b1749f597df45dd066871c328610181547",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00053/Sheet1/000005",
+      "sourceBindingSha256": "21bb75c4ce0ec4a4b02c2caa4821a0412ea62a6cc6e86cf5804a9d469b589c44",
+      "sourceTextSha256": "75328ccfeb99e0da6cb2f63c44c2f330240d4e69b52df29927d916bc82d369d0",
+      "freshTranslation": "아라이 사토미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00053/Sheet1/000006",
+      "sourceBindingSha256": "f8749794d64cbcc6e2bc12a6d4ce62cfe49d3efef41050381b7a79f4745dd4f0",
+      "sourceTextSha256": "0cc3a60aa62ed261c112434cb9e268e1ace4695fcc9a3c2f633032166140b623",
+      "freshTranslation": "카미유의 소꿉친구. 17세. ㊥ 건담 Mk-Ⅱ를 강탈한 카미유와 아는 것이었다는 이유로 부모님 모두 ㊥ 바스크에 잡혀 있었다. 밝은 도움이 된 후에,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00053/Sheet1/000007",
+      "sourceBindingSha256": "0f1355364c676925ceea50737fd9fe4d49f411331b7d433ae932d62b70f62e65",
+      "sourceTextSha256": "50bb793f9c048a739034af64b8844fd8fc6ec59b646970158d3c004745535869",
+      "freshTranslation": "앤즈에 대한 반 ㊥ 항심과 카미유의 편에 있기 위해 에우고에 참가하고 파일럿에게 지원한다. 스스로의 ㊥역량 부족에 고뇌하면서도 그립스 전역을 싸웠다. ㊥ 돌봐 구운 성격을 하고 있어, 옛날부터 카미유의 생활 태도나 버릇 등에 주의를 하고 있었다. ㊥ 그 입 시끄러움에, 카미유는 내심으로 흔들리고 있던 모양. 그 성격 때문인지, 콰트㊥로가 아가마에 데려온 고아신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00053/Sheet1/000008",
+      "sourceBindingSha256": "e26326e35ed8a6014983840c5a69949ac7e340f591da2b0468d48167a63676b9",
+      "sourceTextSha256": "10a3fd09ea118444e0115f8333ce4b8c3a01dc730da8384ad7372175982fea71",
+      "freshTranslation": "야쿰의 돌보기도 그녀의 역할이 되었다. ㊥ TV판에서는 최종 결전에서 가장 사랑하는 카미유가 정신에 이상을 가져왔기 때문에, 전 ㊥장을 떠나 그의 돌봐와 간호에 전념하고 있었다. 그러나 극장판에서는 서로의 무사를 기뻐 ㊥ 맞는 모습이 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00053/Sheet1/000009",
+      "sourceBindingSha256": "3a1cddfd97f82f84aa82c24b39927400847fe15c725a7e401297b839063d6340",
+      "sourceTextSha256": "0cc3a60aa62ed261c112434cb9e268e1ace4695fcc9a3c2f633032166140b623",
+      "freshTranslation": "카미유의 소꿉친구. 17세. ㊥ 건담 Mk-Ⅱ를 강탈한 카미유와 아는 것이었다는 이유로 부모님 모두 ㊥ 바스크에 잡혀 있었다. 밝은 도움이 된 후에,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00053/Sheet1/000010",
+      "sourceBindingSha256": "f0f1fcb0b1da68b8bd180c057f26a3e7dc85784b5a822575023cc7ae1522197e",
+      "sourceTextSha256": "50bb793f9c048a739034af64b8844fd8fc6ec59b646970158d3c004745535869",
+      "freshTranslation": "앤즈에 대한 반 ㊥ 항심과 카미유의 편에 있기 위해 에우고에 참가하고 파일럿에게 지원한다. 스스로의 ㊥역량 부족에 고뇌하면서도 그립스 전역을 싸웠다. ㊥ 돌봐 구운 성격을 하고 있어, 옛날부터 카미유의 생활 태도나 버릇 등에 주의를 하고 있었다. ㊥ 그 입 시끄러움에, 카미유는 내심으로 흔들리고 있던 모양. 그 성격 때문인지, 콰트㊥로가 아가마에 데려온 고아신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00053/Sheet1/000011",
+      "sourceBindingSha256": "28959f8254918e1ced476cc3a348e86bc524140609e2ffbf4a2f6d78c9516f01",
+      "sourceTextSha256": "10a3fd09ea118444e0115f8333ce4b8c3a01dc730da8384ad7372175982fea71",
+      "freshTranslation": "야쿰의 돌보기도 그녀의 역할이 되었다. ㊥ TV판에서는 최종 결전에서 가장 사랑하는 카미유가 정신에 이상을 가져왔기 때문에, 전 ㊥장을 떠나 그의 돌봐와 간호에 전념하고 있었다. 그러나 극장판에서는 서로의 무사를 기뻐 ㊥ 맞는 모습이 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

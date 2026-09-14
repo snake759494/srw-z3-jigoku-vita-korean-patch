@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00084",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00084/Sheet1/000002",
+      "sourceBindingSha256": "ef5a9500ca7a6d5b945312815992695636be70b40f2ae338075fc37ff1fd482b",
+      "sourceTextSha256": "e922a5aea9899be985df11992c2d85d55459345e64ea470a1e2fb9f8f9d9672b",
+      "freshTranslation": "마리 메이어 쿠슈리나다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00084/Sheet1/000003",
+      "sourceBindingSha256": "79b8c3daf91136af5b45c033b3f0cf405c3b5325a7e9a7d85af829e321858f01",
+      "sourceTextSha256": "048cd9236711a4763b596dfa52c5c7fd8d2fb4104160b899f9b7f40a903daa4e",
+      "freshTranslation": "마리 메이어",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00084/Sheet1/000004",
+      "sourceBindingSha256": "c4e08db1532b31d5760e06ce01c0d8b7320246438897b2ccb6c5c3dda0f9de1a",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00084/Sheet1/000005",
+      "sourceBindingSha256": "0827e0a61e1e0b339b2cb785c941f7b1fca4fc7d8f7356de73a5d23bd1c70b1f",
+      "sourceTextSha256": "aba4bfc800d0f285ceca66cccb546d0284197891e66c3373e1215abe6fe94b5d",
+      "freshTranslation": "마리 메이어 군대의 상징 소녀입니다. 7세. ㊥ 트레이스와 레이어 바튼 사이에 태어난 딸로 데킴 바튼은 그녀의 할아버지 ㊥에 해당한다. ㊥ 트레이즈의 딸인 것을 자랑스럽게 하며, 7세의 소녀라고는 생각되지 않는 사명을 가지고 있다. ㊥이지만, 한편으로 데킴의 괴롭힘으로 키워진 것으로부터, 그의 왜곡된 생각도 쇄도되어 ㊥ 있어, 타인에 대해서 불편한 태도를 취한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00084/Sheet1/000006",
+      "sourceBindingSha256": "24ed834d0ec5c8f226e2c768cf7387a9db7e96652a88f7dd5a0ee81640d0e02b",
+      "sourceTextSha256": "c4a42da456babf30178be47ae7c26cb4862ff7013b6bf20c046792659292d7ee",
+      "freshTranslation": "마리 메이어 군대의 상징 소녀입니다. 7세. ㊥ 트레이스와 레이어 바튼 사이에 태어난 딸로 데킴 바튼은 그녀의 할아버지 ㊥에 해당한다. ㊥ 트레이즈의 딸인 것을 자랑스럽게 하며, 7세의 소녀라고는 생각되지 않는 사명을 가지고 있다. ㊥이지만, 한편으로 데킴의 괴롭힘으로 키워진 것으로부터, 그의 왜곡된 생각도 쇄도되어 ㊥ 있어, 타인에 대해서 불편한 태도를 취한다. ㊥ 싸움 속, 릴리나의 설득이나 건담 파일럿들의 행동으로부터 자신의 잘못을 깨닫고 ㊥ 하고, 데킴의 총탄으로부터 몸을 짜서 릴리나를 지켰다. ㊥ 상징인 마리 메이어의 전의 상실과 실질적 지도자인 데킴의 죽음으로 인해 싸움 ㊥은 종결되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00075",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00075/Sheet1/000002",
+      "sourceBindingSha256": "493673964daa94b5061eb2c46e6d5d7ca1004eaf7c2a2c814cd1dbe1dd956033",
+      "sourceTextSha256": "018ac3bf4c82f2b5773d11d312acf1d4bb9744f85e8df75ce7608fb42c42433c",
+      "freshTranslation": "이능생존체",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00075/Sheet1/000003",
+      "sourceBindingSha256": "e79b0498db95c45558ec204b959fce16d4874cf61660f1a3b1be05c05c43e7c7",
+      "sourceTextSha256": "00c3cbf4c1fa840433f934400fe630426ff59429734dff11e4e9b153142371e1",
+      "freshTranslation": "「장갑 기병 보텀스」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00075/Sheet1/000004",
+      "sourceBindingSha256": "f72de8dff94c868fb15f072cce16d9c38cc0c2fb6a4d13a51eb18f6d4709bec1",
+      "sourceTextSha256": "d446500cd667cfc68685c9efcad4be36470c74198133080ea15f34a82ce61a13",
+      "freshTranslation": "250억분의 1의 확률로 탄생하는 죽지 않는 인간. ㊥상인을 훨씬 뛰어넘는 육체의 회복력에 더해, 죽음의 원인이 되는 것들을 ㊥씩 회피한다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00075/Sheet1/000005",
+      "sourceBindingSha256": "558eb9bc9b0f9f7e46a1ffd728fa30acb50213fbf1bceedecd8826f8b4575486",
+      "sourceTextSha256": "dae59cdc7f1a5165517332c77dd008fe037385c26d289137f5f742d6f102bcae",
+      "freshTranslation": "좋은 점에서 정리할 수없는 무언가가 있습니다. ㊥ 그 존재에 매료된 사람은 연구 끝에 마침내 키리코 큐비야말로 ㊥ 이능생존체임을 확신한다. ㊥ 덧붙여 이 능력을 가지고 있는 일로 키리코는, 이능자 와이즈만의 후계자에게 손가락㊥명명되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00075/Sheet1/000006",
+      "sourceBindingSha256": "a22496b549700f5d14793bee308bf487ad8302f6412615044d620c0645f0a2ec",
+      "sourceTextSha256": "d446500cd667cfc68685c9efcad4be36470c74198133080ea15f34a82ce61a13",
+      "freshTranslation": "250억분의 1의 확률로 탄생하는 죽지 않는 인간. ㊥상인을 훨씬 뛰어넘는 육체의 회복력에 더해, 죽음의 원인이 되는 것들을 ㊥씩 회피한다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00075/Sheet1/000007",
+      "sourceBindingSha256": "a37fb36f3b4ce07b967b6fc4d86f8887893bc566c63bde32ad2699b7b2eb287a",
+      "sourceTextSha256": "dae59cdc7f1a5165517332c77dd008fe037385c26d289137f5f742d6f102bcae",
+      "freshTranslation": "좋은 점에서 정리할 수없는 무언가가 있습니다. ㊥ 그 존재에 매료된 사람은 연구 끝에 마침내 키리코 큐비야말로 ㊥ 이능생존체임을 확신한다. ㊥ 덧붙여 이 능력을 가지고 있는 일로 키리코는, 이능자 와이즈만의 후계자에게 손가락㊥명명되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

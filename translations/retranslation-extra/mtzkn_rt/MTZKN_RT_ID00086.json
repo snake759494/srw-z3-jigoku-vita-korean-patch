@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00086",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00086/Sheet1/000002",
+      "sourceBindingSha256": "af442d348cf49b24a2d0de3a9f592de7989f736750ed92c6c8d45cebb9ccba91",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00086/Sheet1/000003",
+      "sourceBindingSha256": "c86bf87b170af32a978084f34edf80e8f2ebc1c58dca9a088d405899127b4b8a",
+      "sourceTextSha256": "4b7e549889792b0061b14f860d02a143ef7257b914364452d3c4c62facf0b019",
+      "freshTranslation": "네엘 아가마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00086/Sheet1/000004",
+      "sourceBindingSha256": "53402f0f309499714a354c46341af8c7275bf1e40e97d1dfcecde7742b167e0c",
+      "sourceTextSha256": "4b7e549889792b0061b14f860d02a143ef7257b914364452d3c4c62facf0b019",
+      "freshTranslation": "네엘 아가마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00086/Sheet1/000005",
+      "sourceBindingSha256": "e7f3db2325fd12cc48a40f09aa88b77ec600093ef36866ab8c140dc3cd3e5487",
+      "sourceTextSha256": "8896fd03039d3435a5f87014bd3c58db217b46f315f61e5161f22e6dbc8612d8",
+      "freshTranslation": "오토 미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00086/Sheet1/000006",
+      "sourceBindingSha256": "ca441479a0aef3cdfa9455265ada54320b1574513313fa2fc8dd8f795a763d58",
+      "sourceTextSha256": "0a2e1ee9d7ef26e399f3ebc5685d71c25aed139739e776b5d2ea937c13780b6f",
+      "freshTranslation": "제1차 네오지온 항쟁시대에 건조된 아가마급의 후계함. ㊥ 이름은 \"아가마에 가까운 사람\"을 의미한다. ㊥ 제1차 네오지온 항쟁 중에는 ZZ 건담 등을 필두로 신예기를 함재해 항쟁 종결 ㊥의 큰 힘이 되었다. ㊥ 종전 후 대규모 개보수가 이루어졌습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00086/Sheet1/000007",
+      "sourceBindingSha256": "3d364e3136e092aafc3934ca52bc82d15df775a1e7da049a4fa27db1190ab7ed",
+      "sourceTextSha256": "f3e2a4966d0b339c7e7c095d6eb826a1de9db8cba2057ca6271d814b8f7953cd",
+      "freshTranslation": "팔트 블록의 용적이 확충되었고 무장도 근대㊥화되었다. ㊥ 론도 벨대의 소속이지만,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00086/Sheet1/000008",
+      "sourceBindingSha256": "2db7e2d48d5426b980100865f37768163bac6d7c4295388fbc088697441f2df8",
+      "sourceTextSha256": "87572fda2eb529848e2b4f0783b202738ff184077349f53110487a9b52ec9a5e",
+      "freshTranslation": "함이 존재하지 않는 것에 의한 호환성이 없음㊥나, 성능이 독특하고 함대 편성에 향하지 않는 것으로부터, 주로 특수한 임무에 대해서, 단함으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00086/Sheet1/000009",
+      "sourceBindingSha256": "09e3d9396ac262df0a0ee2a0d3b92b934b6c2070052126198bfb79f593d51767",
+      "sourceTextSha256": "640ab3dd69cde9acaf0df21564c54ec48ab2bf72857f4dd235a0094a40a476ed",
+      "freshTranslation": "㊥되었습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00086/Sheet1/000010",
+      "sourceBindingSha256": "5aeaa3fcd299fed88ac2f378c2d6387b82cac51e9b32fed2640376453b0a1903",
+      "sourceTextSha256": "0a2e1ee9d7ef26e399f3ebc5685d71c25aed139739e776b5d2ea937c13780b6f",
+      "freshTranslation": "제1차 네오지온 항쟁시대에 건조된 아가마급의 후계함. ㊥ 이름은 \"아가마에 가까운 사람\"을 의미한다. ㊥ 제1차 네오지온 항쟁 중에는 ZZ 건담 등을 필두로 신예기를 함재해 항쟁 종결 ㊥의 큰 힘이 되었다. ㊥ 종전 후 대규모 개보수가 이루어졌습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00086/Sheet1/000011",
+      "sourceBindingSha256": "1d215d17b60464bb70d117d7c9aa11307e509c7cdbec1f4f72aeac859d1c3b1f",
+      "sourceTextSha256": "f3e2a4966d0b339c7e7c095d6eb826a1de9db8cba2057ca6271d814b8f7953cd",
+      "freshTranslation": "팔트 블록의 용적이 확충되었고 무장도 근대㊥화되었다. ㊥ 론도 벨대의 소속이지만,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00086/Sheet1/000012",
+      "sourceBindingSha256": "d9d897052c5a439533492c2b9b9f8b2df2fe97c9073ab77d7e565990f61d4bdc",
+      "sourceTextSha256": "87572fda2eb529848e2b4f0783b202738ff184077349f53110487a9b52ec9a5e",
+      "freshTranslation": "함이 존재하지 않는 것에 의한 호환성이 없음㊥나, 성능이 독특하고 함대 편성에 향하지 않는 것으로부터, 주로 특수한 임무에 대해서, 단함으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00086/Sheet1/000013",
+      "sourceBindingSha256": "c1ccbc526447240e9e3c43e389913d16c865b5266db14e28459e357758ae951e",
+      "sourceTextSha256": "640ab3dd69cde9acaf0df21564c54ec48ab2bf72857f4dd235a0094a40a476ed",
+      "freshTranslation": "㊥되었습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

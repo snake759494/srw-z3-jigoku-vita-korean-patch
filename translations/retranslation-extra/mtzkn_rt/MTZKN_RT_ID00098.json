@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00098",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00098/Sheet1/000002",
+      "sourceBindingSha256": "2db8a94189d1ab4f7fc2039b31ab84317ee2277a8b38d3f2a8f0b89f519f1b86",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00098/Sheet1/000003",
+      "sourceBindingSha256": "68834a3643c3fe5f8844c998a11b734221abd7638610137cb16622a59f30947c",
+      "sourceTextSha256": "8dceb3f588d87e17f90cc43c3dfe948d2ff9039dab4a9017a5480b0fa968d701",
+      "freshTranslation": "주곡",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00098/Sheet1/000004",
+      "sourceBindingSha256": "948d9b5e454357309f8649f098339147141d699372eef0a68c928b12a000dafb",
+      "sourceTextSha256": "8dceb3f588d87e17f90cc43c3dfe948d2ff9039dab4a9017a5480b0fa968d701",
+      "freshTranslation": "주곡",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00098/Sheet1/000005",
+      "sourceBindingSha256": "1a42c5d60f1dbe7d93f578b9a86194f88235fff2ac16085d1ebb30c6c4ca9481",
+      "sourceTextSha256": "e690a31b4341bf9914ad91e3e39da9ee03e39d3691fb104e2235ba51990c0316",
+      "freshTranslation": "지온 공국군이 개발한 수륙 양용 모빌 슈트. ㊥냉각 시스템에 수냉·공냉 방식을 채용해, 수중과 육상의 양국면에서 높은 성능을 발휘한다㊥한다. 모노아이도 전주 회전식으로 되어 있어 시야각에도 틈이 없다. ㊥팔부에는 메가 입자포와 클로가 장비되어 있어 격투전도 상정되고 있다. ㊥ 수륙 양용 모빌 슈트의 완성형으로서 파생기도 개발되었다. ㊥ 일년 전쟁시에는 블루계의 칼라링이 사용되고 있었지만, 소매 첨부에 협력한 지오㊥인 공국군의 잔당의 기체는 그린계에 도장되고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00098/Sheet1/000006",
+      "sourceBindingSha256": "21c2389a934dbb7c9899278c53b935b19d2bdb243db0bd4c777cdfac9f1c39e2",
+      "sourceTextSha256": "e690a31b4341bf9914ad91e3e39da9ee03e39d3691fb104e2235ba51990c0316",
+      "freshTranslation": "지온 공국군이 개발한 수륙 양용 모빌 슈트. ㊥냉각 시스템에 수냉·공냉 방식을 채용해, 수중과 육상의 양국면에서 높은 성능을 발휘한다㊥한다. 모노아이도 전주 회전식으로 되어 있어 시야각에도 틈이 없다. ㊥팔부에는 메가 입자포와 클로가 장비되어 있어 격투전도 상정되고 있다. ㊥ 수륙 양용 모빌 슈트의 완성형으로서 파생기도 개발되었다. ㊥ 일년 전쟁시에는 블루계의 칼라링이 사용되고 있었지만, 소매 첨부에 협력한 지오㊥인 공국군의 잔당의 기체는 그린계에 도장되고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

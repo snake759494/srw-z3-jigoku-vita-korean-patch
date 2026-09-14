@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00069",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00069/Sheet1/000002",
+      "sourceBindingSha256": "588cbdf44e95055b0091db775ca19f0933196d579dd0e81b38942d01398c3c20",
+      "sourceTextSha256": "c09ded309ee8ed589ac5fdc9cd102fccf2c4aa6578d73661c2e1bbc0fa7b0820",
+      "freshTranslation": "나나이 미구엘",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00069/Sheet1/000003",
+      "sourceBindingSha256": "b23a388dff4c8a1b68a82860568961ade32434f69e799a6a5dab77c7c54b789d",
+      "sourceTextSha256": "0b195926e3a806688f6cc0249bb000e3be40767811acde968360b7e031b35bdc",
+      "freshTranslation": "나나이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00069/Sheet1/000004",
+      "sourceBindingSha256": "4e2972e9f31cc29ea6704ce0e71cdb7e82f221609bd20bced13397cecd503e36",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00069/Sheet1/000005",
+      "sourceBindingSha256": "c2d22ffbd565c29db1b0cbec882ddbe14ec7ba7e655a3c373ee5dc4f2dc9056a",
+      "sourceTextSha256": "4c9a2bfa93100c0cf0bfbcd6304dde3a6baa33221adc10767ed8a71add7e3363",
+      "freshTranslation": "네오 지온의 전술 사관이며,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00069/Sheet1/000006",
+      "sourceBindingSha256": "f11ab1839aa95576e77785646e84453b6805bdfd59e5db81011838a2c7fe9d0e",
+      "sourceTextSha256": "28d3fd3da904bbaac22db5d4ba9ece1eda86a23f13e84526a5dc72df1ea8f6ef",
+      "freshTranslation": "입 연구소의 소장. ㊥ 전술사관으로서는, 루나투 기습작전의 지휘를 맡는 ​​등, 샤아로부터의 신임도 ㊥ 두껍다. 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00069/Sheet1/000007",
+      "sourceBindingSha256": "62058bc02a2e5a61ee63f844302e2f9c73c4ae22fc4f679325132dc09c4f7b8e",
+      "sourceTextSha256": "840d954e6772b9edbad63e19f8b5d577a052e5185a2421383a360f7b8a237d79",
+      "freshTranslation": "입연구소에서도 규네이를 키우는 등 실적을 남기고 있다. ㊥ 샤아의 애인이며 개인적으로 여성으로 그를 지원합니다. 하지만, 샤아가 연㊥ 되어 온 퀘스에 대해서는 불쾌함을 드러냈다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00069/Sheet1/000008",
+      "sourceBindingSha256": "029e8d5f6e04a1b5a7d67bdf459be6e944af6736f16e002bd099566d05d42e76",
+      "sourceTextSha256": "4c9a2bfa93100c0cf0bfbcd6304dde3a6baa33221adc10767ed8a71add7e3363",
+      "freshTranslation": "네오 지온의 전술 사관이며,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00069/Sheet1/000009",
+      "sourceBindingSha256": "49c9fe329bd716cc5e376be638037a8b3332d9de88f1e327b945a24b25095aaa",
+      "sourceTextSha256": "28d3fd3da904bbaac22db5d4ba9ece1eda86a23f13e84526a5dc72df1ea8f6ef",
+      "freshTranslation": "입 연구소의 소장. ㊥ 전술사관으로서는, 루나투 기습작전의 지휘를 맡는 ​​등, 샤아로부터의 신임도 ㊥ 두껍다. 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00069/Sheet1/000010",
+      "sourceBindingSha256": "710e9f5cbd8b4c7b735bd5bfd121e9143c5aebf4f4c279c39b13b6720d5ab782",
+      "sourceTextSha256": "840d954e6772b9edbad63e19f8b5d577a052e5185a2421383a360f7b8a237d79",
+      "freshTranslation": "입연구소에서도 규네이를 키우는 등 실적을 남기고 있다. ㊥ 샤아의 애인이며 개인적으로 여성으로 그를 지원합니다. 하지만, 샤아가 연㊥ 되어 온 퀘스에 대해서는 불쾌함을 드러냈다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

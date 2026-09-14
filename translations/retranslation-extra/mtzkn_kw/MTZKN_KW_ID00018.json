@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00018",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00018/Sheet1/000002",
+      "sourceBindingSha256": "77dccb68895a5e051c4a51912a7c5980c330d3abead8a3d369dcd1de264d287f",
+      "sourceTextSha256": "8d83be0d2e50feaded4ed72e0bb06b96aa2119a103e92aa1e8c4b76b47d610cb",
+      "freshTranslation": "도쿠가와 키이치로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00018/Sheet1/000003",
+      "sourceBindingSha256": "ffcc9741406703c78ff6e56a1f49ed279ecec074e65372b409d62757763474a9",
+      "sourceTextSha256": "31c764623d52432620b3bb884db9aee6770918a264a5c8eb13a97b086dc7f753",
+      "freshTranslation": "「극장판 마크로스 F～이츠와리노우",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00018/Sheet1/000004",
+      "sourceBindingSha256": "bac0c3c59a1da8506b6bef9e363947685b9a2cdd9824650d96fd9fbb28aa6d06",
+      "sourceTextSha256": "f165f3f41f42032eb0d4e573c6b87da39f21da7e3633a8815ef2298e07eb2c62",
+      "freshTranslation": "히메~」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00018/Sheet1/000005",
+      "sourceBindingSha256": "3c08953ad2703b9752e852633a8764ee38f9ad37a7d605d420688b565e033f67",
+      "sourceTextSha256": "a3c13c68bcd2fcda3a91b734685cd1458ee14da1f087cb2b193d4f4d60fddec5",
+      "freshTranslation": "연예 프로덕션, 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00018/Sheet1/000006",
+      "sourceBindingSha256": "3a23a44d0eb92b480f3aa88223795e615ec50d562a7c79765fe53d14789f6e19",
+      "sourceTextSha256": "383a77b8d3f7ed20aadbcba30c804e7ee02c87d30d446c0e0efcac2fdab5ad96",
+      "freshTranslation": "- 프로모션에 소속된 젠트라디의 ㊥ 거인 연가 가수. ㊥CM에도 출연하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00018/Sheet1/000007",
+      "sourceBindingSha256": "2a511006e258d702e774f5a56157ab3be562bf4565dfad88825d8c530e3421dc",
+      "sourceTextSha256": "a3c13c68bcd2fcda3a91b734685cd1458ee14da1f087cb2b193d4f4d60fddec5",
+      "freshTranslation": "연예 프로덕션, 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00018/Sheet1/000008",
+      "sourceBindingSha256": "8af1548f8f85f05e118bfc4104357f509f616ed47134e82df181bc01cbd0f30d",
+      "sourceTextSha256": "383a77b8d3f7ed20aadbcba30c804e7ee02c87d30d446c0e0efcac2fdab5ad96",
+      "freshTranslation": "- 프로모션에 소속된 젠트라디의 ㊥ 거인 연가 가수. ㊥CM에도 출연하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

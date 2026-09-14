@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00071",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00071/Sheet1/000002",
+      "sourceBindingSha256": "6aef1a892d0a651962cf53797c7d64ac335a3066463ef6c2a28ce351d34cff36",
+      "sourceTextSha256": "cb53096461f86af4396cfe44aa1076c716b84fbf5a74f15bc2304837cebce4fd",
+      "freshTranslation": "해서웨이 노아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00071/Sheet1/000003",
+      "sourceBindingSha256": "d59ae43f93fb5206472cad6e41ef3095199e0ea717e16eb2926403d9f1bf21fe",
+      "sourceTextSha256": "19c2b85b1fa6f8bfc2cd9be47b26ac8507a59b65dbb392d267c1c8693d66392f",
+      "freshTranslation": "해서웨이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00071/Sheet1/000004",
+      "sourceBindingSha256": "c02ff0e56c85488212dd387100f3ff963cfc9d470d809a8a9823e1fb6cb87781",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00071/Sheet1/000005",
+      "sourceBindingSha256": "92223e9d4fede90da4ea39a69a64629c5e8b934e56629ea89f36e6d6bc32c9ab",
+      "sourceTextSha256": "c976932877b0831c6443b62e37b73c35b87b45d32bb1d72e280b3baab47b0b86",
+      "freshTranslation": "사사키 노조미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00071/Sheet1/000006",
+      "sourceBindingSha256": "70f0e5f311cc14bb109e458439f886636d58bb508ef820a8dcd75640e849da9e",
+      "sourceTextSha256": "3d56b39e9442e1a4a037a571faed16ab8ecd6b0aa2437a7014a5b12aac1d1dd9",
+      "freshTranslation": "밝고 미라이 사이에 태어난 아들. 아래에는 여동생의 체민이 있다. ㊥ 네오지온과 지구연방과의 전쟁의 영향을 받아 어머니와 여동생과 함께 론데니온을 향해 ㊥ 가려고 하지만, 아데나우어가 정치 특권으로 인터럽트했기 때문에 티켓이 1장밖에 손 ㊥에 들어가지 않고, 그가 하나. ㊥ 거기서 퀘스를 만나, 분방한 그녀에게 강하게 끌린다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00071/Sheet1/000007",
+      "sourceBindingSha256": "3e210373d660f258ba96e58f2b690e1b554f83b56a175cf749db81b24392e669",
+      "sourceTextSha256": "279a6b4872a734264ee7956c542e2862bd14e8d4fd35abb56ed73eb66b59f357",
+      "freshTranslation": "밝고 미라이 사이에 태어난 아들. 아래에는 여동생의 체민이 있다. ㊥ 네오지온과 지구연방과의 전쟁의 영향을 받아 어머니와 여동생과 함께 론데니온을 향해 ㊥ 가려고 하지만, 아데나우어가 정치 특권으로 인터럽트했기 때문에 티켓이 1장밖에 손 ㊥에 들어가지 않고, 그가 하나. ㊥ 거기서 퀘스를 만나, 분방한 그녀에게 강하게 끌린다. ㊥ 퀘스가 샤아 아래로 떠난 후, 그녀를 다시 만나기 위해 라 카이람에게 밀항한다㊥. ㊥ 액시즈를 둘러싼 공방전 속 제간에서 전장에 나오지만 눈앞에서 퀘스는 격추되어 ㊥ 버린다. 거기에 역상해, 퀘스를 쏴 체인을 반대로 격추해 버린다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00090",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00090/Sheet1/000002",
+      "sourceBindingSha256": "de8f5b9ae114c905bfa0878528131b98ed1d7ab8117a2eb24069bc5a598bd3bd",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00090/Sheet1/000003",
+      "sourceBindingSha256": "aa619f21a144a9f40c6cbce81b9001942405645fcf9896154ea1101b970e05bf",
+      "sourceTextSha256": "4b11e5255540e596af8d86d747f4920477c3c07606efd6af1227fdf98f13d08f",
+      "freshTranslation": "길라 줄",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00090/Sheet1/000004",
+      "sourceBindingSha256": "1e23879f854e9805696d906c9e5885d0264fa5f3a8e03c5c1a821e1c488288e2",
+      "sourceTextSha256": "4b11e5255540e596af8d86d747f4920477c3c07606efd6af1227fdf98f13d08f",
+      "freshTranslation": "길라 줄",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00090/Sheet1/000005",
+      "sourceBindingSha256": "8f73833f49896268cd918f6aa3715b3eba8aa32bb43b65da9a94a66d984647e5",
+      "sourceTextSha256": "c79eb97fff1478f502260525b91f307d4b10860ef861ae1a27059f877552e69a",
+      "freshTranslation": "길라 줄의 변형으로 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00090/Sheet1/000006",
+      "sourceBindingSha256": "d72eb30f4ffa3e9393d4fac5fab76c366b0719f9a24d90a76edd42d2a9b95180",
+      "sourceTextSha256": "37fda4c66c7f44c940c40034f6de5eb2d6ad308d7ec8be18ca929314794f7568",
+      "freshTranslation": "르의 친위대가 탑승한다. ㊥ 풀 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00090/Sheet1/000007",
+      "sourceBindingSha256": "cfc5710dc57d83dec3d1f472b4ff16342da1e58896f6a0ab64d23caa49135d1b",
+      "sourceTextSha256": "455af3b73d183dbdec92e90baf7af80155cfd9d05b43db12c89eb8b06ed36467",
+      "freshTranslation": "르와 제휴를 취할 필요성으로부터, 일반의 길라·즈르에 비해 출력의 방향㊥상이 도모되고 있다. ㊥ 또한, 양 어깨가 스파이크로 변경되어 각부에 베풀어진 장식이, 보다 세세한 것이 되어 ㊥ 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00090/Sheet1/000008",
+      "sourceBindingSha256": "41eadbed269321e226af880c34f797a1e4aad50f92fdf3b4b508230f19b19d83",
+      "sourceTextSha256": "c79eb97fff1478f502260525b91f307d4b10860ef861ae1a27059f877552e69a",
+      "freshTranslation": "길라 줄의 변형으로 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00090/Sheet1/000009",
+      "sourceBindingSha256": "5ed7e1bfbb274229aaf53bf57e2773244f37ca2e5d7a1427aa2c1fa6a70a7dfc",
+      "sourceTextSha256": "37fda4c66c7f44c940c40034f6de5eb2d6ad308d7ec8be18ca929314794f7568",
+      "freshTranslation": "르의 친위대가 탑승한다. ㊥ 풀 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00090/Sheet1/000010",
+      "sourceBindingSha256": "20b2f3ff76ee8c4686861696609ea49b293b4aeee5cb4d1f0d9a0d90de8cb80e",
+      "sourceTextSha256": "455af3b73d183dbdec92e90baf7af80155cfd9d05b43db12c89eb8b06ed36467",
+      "freshTranslation": "르와 제휴를 취할 필요성으로부터, 일반의 길라·즈르에 비해 출력의 방향㊥상이 도모되고 있다. ㊥ 또한, 양 어깨가 스파이크로 변경되어 각부에 베풀어진 장식이, 보다 세세한 것이 되어 ㊥ 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

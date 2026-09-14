@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00083",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00083/Sheet1/000002",
+      "sourceBindingSha256": "966b5aa5e9a9b0c7ed385e01ad3eb77677c4e9c524538ff3fbeb044fccd4e520",
+      "sourceTextSha256": "13abfe4003e7e2f81d54618660fa2c5637392cc0f167ea9e9a6fd9c92afe0f26",
+      "freshTranslation": "릴리나 도리안",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00083/Sheet1/000003",
+      "sourceBindingSha256": "a82b059db8a6f6124005173572c3755933dec0b5208d033c3fc1fba44cb8dd35",
+      "sourceTextSha256": "62095fcde58ab7ded1aec29b7bf3724f9d5d63aab1131b0c51a1d062078ca8e3",
+      "freshTranslation": "릴리나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00083/Sheet1/000004",
+      "sourceBindingSha256": "f9c8d8c947f0fa0c46aba6c359f381bf287ea92e66dd4e6ca37bd3334507ebc5",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00083/Sheet1/000005",
+      "sourceBindingSha256": "72c43dea0fb53fd4ed4fe14fff9e8205ade072a1e4e2d82291b9759aba011b79",
+      "sourceTextSha256": "fc445150bf3f249270cd6bfd67d1c5add711576100f90a0466fb8da52d6543e1",
+      "freshTranslation": "지구권 통일 국가의 외무 차관. 16세. ㊥ 한때 완전 평화주의를 주창한 생크 킹덤의 공주이기도 하며, 본명은 릴리나 ㊥피스크래프트. ㊥ 도리안 외무 차관의 딸로 키워졌지만, 아버지의 암살에 의해 그 출생을 ㊥ 알면 완전 평화주의를 주창한 친아버지의 유지를 이어 선크 킹덤을 재흥했다. ㊥OZ의 침공에 의해, 국가는 붕괴해 버리지만, 로옴페라 재단의 안내로 세㊥계 국가 원수로서 취임. 정치의 사상에 의해 농락당하면서도, 일관되게 비무장·비㊥폭력의 완전 평화주의를 세계에 계속 호소했다. ㊥ 트레이즈의 대두에 의해, 세계 국가 원수의 자리는 물러나게 되지만, 그녀의 평화를 요구 ㊥ 계속한 자세는, 많은 인간으로부터 지지되고, 종전 후에도 절대적인 영향력을 가지고 있다. ㊥세계가 비무장화의 흐름이 되어, 아버지의 이념이 달성된 현재는, 장인인 도리아㊥의 일을 완수시키기 위해, 외무 차관으로서 콜로니와 지구의 다리를 맡아 ㊥한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00083/Sheet1/000006",
+      "sourceBindingSha256": "b60cc9c955a21c712d11cc6c5b345e032d8f2ced7a9e8cd8b3bb74ef8965f64e",
+      "sourceTextSha256": "75434b2e6baf5d9c38cab32ae4f1a8cb8cbf9bc267dcd45c4ffdadc22bc5853f",
+      "freshTranslation": "지구권 통일 국가의 외무 차관. 16세. ㊥ 한때 완전 평화주의를 주창한 생크 킹덤의 공주이기도 하며, 본명은 릴리나 ㊥피스크래프트. ㊥ 도리안 외무 차관의 딸로 키워졌지만, 아버지의 암살에 의해 그 출생을 ㊥ 알면 완전 평화주의를 주창한 친아버지의 유지를 이어 선크 킹덤을 재흥했다. ㊥OZ의 침공에 의해, 국가는 붕괴해 버리지만, 로옴페라 재단의 안내로 세㊥계 국가 원수로서 취임. 정치의 사상에 의해 농락당하면서도, 일관되게 비무장·비㊥폭력의 완전 평화주의를 세계에 계속 호소했다. ㊥ 트레이즈의 대두에 의해, 세계 국가 원수의 자리는 물러나게 되지만, 그녀의 평화를 요구 ㊥ 계속한 자세는, 많은 인간으로부터 지지되고, 종전 후에도 절대적인 영향력을 가지고 있다. ㊥세계가 비무장화의 흐름이 되어, 아버지의 이념이 달성된 현재는, 장인인 도리아㊥의 일을 완수시키기 위해, 외무 차관으로서 콜로니와 지구의 다리를 맡아 ㊥한다. ㊥ 그 영향력의 크기에서 마리 메이어 군에 납치되더라도 겁먹지 않고 마리 ㊥ 메이아와 부딪쳐 그녀의 설득을 계속했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

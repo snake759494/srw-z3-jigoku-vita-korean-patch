@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00101",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00101/Sheet1/000002",
+      "sourceBindingSha256": "afdd49f635bf087fa724427b7fa3d565a26541c094922412cccb79cb787fa152",
+      "sourceTextSha256": "997682702f566d8ee83446a6261dd2894c0ceaeae5d1dc05cf93a87702526626",
+      "freshTranslation": "유서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00101/Sheet1/000003",
+      "sourceBindingSha256": "9d3c1ce184550f729705d72b6b0e097d99e152ea29483afebb5a3f95b8f9f2c8",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00101/Sheet1/000004",
+      "sourceBindingSha256": "87039f1f4f5948d93811ed8585b6bcbb432db17f9bf161c4847191a5b647e0eb",
+      "sourceTextSha256": "78fa1b9086204790f066184c00c34e90231a490de4bab736c36e80014aad54a9",
+      "freshTranslation": "전체 이름은 유서 인사라움. ㊥ 성 인사라움 왕국의 첫 황자. ㊥ 선왕 킹 인사라움 72세의 친자이며, 즉위는 아직이지만, 72㊥세의 사후는 인사라움의 통치자가 된다. ㊥ 따뜻하고 사려 깊고 배려가 넘치는 인물로 백성에게 당황했습니다. ㊥ 그 사랑은 인사라움에게 전해지는 성왕기 지인서에 탑재된 '진한 ㊥ 물병'의 스피어를 깨운다. ㊥감히 오명을 겪는 것을 인지하고 지구 침공의 모든 책임을 일신에 모아 싸우고, 자신㊥신의 패배로 전쟁을 종결시킨다. 게다가 민들을 자신의 독재의 피해자로 하는 것으로 ㊥ 지구에 받아들여 마그리트에 인사라움의 미래를 맡겼다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00101/Sheet1/000005",
+      "sourceBindingSha256": "11c2a327989464f89e12539b52fb2a236e5e8cf0338b5f681086774a08068bb8",
+      "sourceTextSha256": "78fa1b9086204790f066184c00c34e90231a490de4bab736c36e80014aad54a9",
+      "freshTranslation": "전체 이름은 유서 인사라움. ㊥ 성 인사라움 왕국의 첫 황자. ㊥ 선왕 킹 인사라움 72세의 친자이며, 즉위는 아직이지만, 72㊥세의 사후는 인사라움의 통치자가 된다. ㊥ 따뜻하고 사려 깊고 배려가 넘치는 인물로 백성에게 당황했습니다. ㊥ 그 사랑은 인사라움에게 전해지는 성왕기 지인서에 탑재된 '진한 ㊥ 물병'의 스피어를 깨운다. ㊥감히 오명을 겪는 것을 인지하고 지구 침공의 모든 책임을 일신에 모아 싸우고, 자신㊥신의 패배로 전쟁을 종결시킨다. 게다가 민들을 자신의 독재의 피해자로 하는 것으로 ㊥ 지구에 받아들여 마그리트에 인사라움의 미래를 맡겼다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

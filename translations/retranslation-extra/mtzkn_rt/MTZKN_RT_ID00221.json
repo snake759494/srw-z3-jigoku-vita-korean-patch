@@ -1,0 +1,247 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00221",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000002",
+      "sourceBindingSha256": "3cb3f3bec491705ec04dd49527b947cf2fc214abb682ec4170d9050382b65a81",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000003",
+      "sourceBindingSha256": "50f87701ae01519792cc5b391e7e7edd563a21baf445f88f357b0d25b9798a8d",
+      "sourceTextSha256": "c5c287ff44b6ba2360367c77aa4c0b02462414158c8c0034e7b7749176aae921",
+      "freshTranslation": "에반게리온 2호기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000004",
+      "sourceBindingSha256": "b3003166b36f326144cb2c3896b597829723c592f5c3e4ced444660e66450bc4",
+      "sourceTextSha256": "a8d1650a451a96d19ca8d59585b3e080bc9ab9f0dd3154eabd7d9e9654ff5d81",
+      "freshTranslation": "범용 인간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000005",
+      "sourceBindingSha256": "eac6ab34b41ffa841f647e0a888a22cf4a7775954840177ede2c39ac5e114ba1",
+      "sourceTextSha256": "17fb081c4c4183ee3ada40b0d2f669e53fe5417627688be91716d719e2470118",
+      "freshTranslation": "결전 무기 인조 인간 에반게리온 정규 실용",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000006",
+      "sourceBindingSha256": "4758dc4b18824be3eb43067c02b0631453dfa8feda1c9c6c28c5c8b516e4f07a",
+      "sourceTextSha256": "718ba5519f5b4a21ec0173dd78e2cdac586d2da47b68626c7b786735924aaa21",
+      "freshTranslation": "2호기(선행 양산기)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000007",
+      "sourceBindingSha256": "06202f80628ee0c41de54b48029baf9c76f4a11b334829508bf9ab92d26caf6d",
+      "sourceTextSha256": "f3d84f241039f7d10a3bd7d941f987de44b7ee11742c64f8d5797b43ea5d2743",
+      "freshTranslation": "식파 · 아스카 · 랭글리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000008",
+      "sourceBindingSha256": "8373e7fd98f0caa8a390f4fff4353d4125e5275d1cf8bb2fb032ebf85e4a79ef",
+      "sourceTextSha256": "a8d1650a451a96d19ca8d59585b3e080bc9ab9f0dd3154eabd7d9e9654ff5d81",
+      "freshTranslation": "범용 인간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000009",
+      "sourceBindingSha256": "c276d3e1d27f2f19b31fbe49b195d18cb279003ff3873f48c74085ff824c6857",
+      "sourceTextSha256": "37049f1f4657f051699d98e5f9fa85ccb272a658606913190e769db0c6768499",
+      "freshTranslation": "결전 무기 · 인조 인간 에반게리온의 정규 실용",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000010",
+      "sourceBindingSha256": "2f09fad7c1ee06e63390c714349317d77e5a5f8829e434ee74df9eb4f7a9ac77",
+      "sourceTextSha256": "5d3002e5768c571de75a98a23bbc80748be2a87c5ef41b8b8fa397c425da575c",
+      "freshTranslation": "2호기. ㊥ 담당 파일럿은 식파 아스카 랭글리. 메인 컬러는 빨강. ㊥ 개발 과정의 프로토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000011",
+      "sourceBindingSha256": "a1f8fe0f63bc42d9511ddcf35dcfb535a684f13337f1936bf81a0e64243cd14a",
+      "sourceTextSha256": "f285fa7bd39576cd5eace38bf90b297026a3bda0a2ddef53114d11280046816a",
+      "freshTranslation": "입과 테스트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000012",
+      "sourceBindingSha256": "ad5850cf90b924384174730ee89c6def062d0e0309a080d0bc602075360bb357",
+      "sourceTextSha256": "5dcf417b7954965fba5b7ede1784193931009884814e1f28d89a90d0e5ea5361",
+      "freshTranslation": "입이었던 영호기와 초호기와 달리 실전용㊥에 만들어진 세계 최초의 제식",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000013",
+      "sourceBindingSha256": "e80f6749e1386748fc4c92973cecebdd586383676740fbcfa618a53567ecd441",
+      "sourceTextSha256": "e5cd3d2f981a4da3010a8c2504bfcab40f568d399fdbf1c1da2da4fa2f335960",
+      "freshTranslation": "입이다. 아스카는 본 기기를 「진짜 에반게리온」㊥이라고 부른다. ㊥ 주요 무장은 근접 전투용 프로그레시브 나이프나 초전자 양궁총 등. 또한 수송기 또는 ㊥ 등의 강하시에 사용하는 S",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000014",
+      "sourceBindingSha256": "db6e2180c382195cf36a62741420ac0b6ea56fcd9bd0371f616b527e2469c72f",
+      "sourceTextSha256": "22856245abac9e7d80ecffd810d02ccbe4965e4740d97752f64afe12e06538a8",
+      "freshTranslation": "장비도 존재한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000015",
+      "sourceBindingSha256": "75fb53549936027169ab0d5604434987359c798b8b826895e471ccf1dd52ded2",
+      "sourceTextSha256": "a8d1650a451a96d19ca8d59585b3e080bc9ab9f0dd3154eabd7d9e9654ff5d81",
+      "freshTranslation": "범용 인간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000016",
+      "sourceBindingSha256": "cdafd8cf7f738a2090e5bb0473a1972e07fa88b011b13d156ef5da63987d535b",
+      "sourceTextSha256": "37049f1f4657f051699d98e5f9fa85ccb272a658606913190e769db0c6768499",
+      "freshTranslation": "결전 무기 · 인조 인간 에반게리온의 정규 실용",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000017",
+      "sourceBindingSha256": "73590a3954296d07ff19b721bfe0de742e54f4f9d4ead24553ea1c68eca8f57a",
+      "sourceTextSha256": "5d3002e5768c571de75a98a23bbc80748be2a87c5ef41b8b8fa397c425da575c",
+      "freshTranslation": "2호기. ㊥ 담당 파일럿은 식파 아스카 랭글리. 메인 컬러는 빨강. ㊥ 개발 과정의 프로토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000018",
+      "sourceBindingSha256": "31211d5ef5b250f406ef811d1afcd5dd62e99ac112993361fccdb3e1462f9c5f",
+      "sourceTextSha256": "f285fa7bd39576cd5eace38bf90b297026a3bda0a2ddef53114d11280046816a",
+      "freshTranslation": "입과 테스트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000019",
+      "sourceBindingSha256": "bc7a4a494e40718f088e9a1007a8e9d7bbb2596580955530d5ef3207c4fc769c",
+      "sourceTextSha256": "5dcf417b7954965fba5b7ede1784193931009884814e1f28d89a90d0e5ea5361",
+      "freshTranslation": "입이었던 영호기와 초호기와 달리 실전용㊥에 만들어진 세계 최초의 제식",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000020",
+      "sourceBindingSha256": "4bb3eddf5af6703e056a2438547110ebb6134b86a4f0d1aca76ff819c6cd4fdc",
+      "sourceTextSha256": "e5cd3d2f981a4da3010a8c2504bfcab40f568d399fdbf1c1da2da4fa2f335960",
+      "freshTranslation": "입이다. 아스카는 본 기기를 「진짜 에반게리온」㊥이라고 부른다. ㊥ 주요 무장은 근접 전투용 프로그레시브 나이프나 초전자 양궁총 등. 또한 수송기 또는 ㊥ 등의 강하시에 사용하는 S",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000021",
+      "sourceBindingSha256": "3b648fec8a891080349b2bd04a484d0f687cce8fd284d9422506a9b7acaf07d7",
+      "sourceTextSha256": "5305ee8cd582ae3f11ce9ea7464273cdceb19b7a16bacbdc57a980cfc550edbc",
+      "freshTranslation": "장비도 존재한다. ㊥ 제7의 사도가 출현했을 때, 수송기로부터 강하해 등장. 걷어차기에 의해 화살을 코어에 찔러 ㊥ 통과한다는 곡예적인 싸움 방법으로 사도를 섬멸했다. ㊥ 또한 조종사 아스카가 전선에서 벗어난 후,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00221/Sheet1/000022",
+      "sourceBindingSha256": "c640025666f81c0bb3aeaed152c1dc01032f91f80266b72dd532f654996ae37c",
+      "sourceTextSha256": "6a88422738421ce116fa263b9c82d9077d862f9a04a00a347633d7abd196b64e",
+      "freshTranslation": "키나미·마리·일러스트 리어스㊥가 타고, 제10의 사도와 싸웠다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

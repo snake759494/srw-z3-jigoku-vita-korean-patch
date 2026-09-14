@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00092",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00092/Sheet1/000002",
+      "sourceBindingSha256": "edb251ad4dfc03d9dc1b0f621a728572aa708e94544a51d61a43b0cdb15cb5c1",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00092/Sheet1/000003",
+      "sourceBindingSha256": "2a1eb67354ffac3eeac1eec389e66ea37e1da67760b7ead2e4f57e1c9be7e926",
+      "sourceTextSha256": "d668ebebe0e806f390d42d67c0cf2fc3a2562e88b81399764df8f20fcb790b85",
+      "freshTranslation": "드라체",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00092/Sheet1/000004",
+      "sourceBindingSha256": "06d44d919c35c4b6db1315eb90b675496843c2bf693df41285538bba04509bac",
+      "sourceTextSha256": "d668ebebe0e806f390d42d67c0cf2fc3a2562e88b81399764df8f20fcb790b85",
+      "freshTranslation": "드라체",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00092/Sheet1/000005",
+      "sourceBindingSha256": "29ef59810c91fb236d42e450279e109145a1e449656d75e022fa5174030d26de",
+      "sourceTextSha256": "25fcc105812262f8857459aa026c07ae4fab9279a0596782fa57d66e856af946",
+      "freshTranslation": "지온 잔당의 딜러스 플릿이 독자적으로 개발한 모빌 슈트. ㊥개발이라기 보다는 개수에 가까워 일년 전쟁 시대의 무기 부품을 유용해 조립한 ㊥사이에 맞춘 기체이다. ㊥ 그러나 우주 공간에서의 기동성은 높고, 국면에 따라서는 전력이 된다고 판단되어 어느 ㊥정도의 수가 생산되었다. ㊥ 「소매 첨부」가 팔라우에 배치하고 있던 기체는, 당시의 기체가 잔존하고 있던 것으로 추측㊥ 되지만, 기체색이나 장비 등, 각부에 보수나 개조가 가해지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00092/Sheet1/000006",
+      "sourceBindingSha256": "aa49b2b13a1ba5ec117aee57d88870a1b4f8a35d411af8be0f553e9a26d01daa",
+      "sourceTextSha256": "25fcc105812262f8857459aa026c07ae4fab9279a0596782fa57d66e856af946",
+      "freshTranslation": "지온 잔당의 딜러스 플릿이 독자적으로 개발한 모빌 슈트. ㊥개발이라기 보다는 개수에 가까워 일년 전쟁 시대의 무기 부품을 유용해 조립한 ㊥사이에 맞춘 기체이다. ㊥ 그러나 우주 공간에서의 기동성은 높고, 국면에 따라서는 전력이 된다고 판단되어 어느 ㊥정도의 수가 생산되었다. ㊥ 「소매 첨부」가 팔라우에 배치하고 있던 기체는, 당시의 기체가 잔존하고 있던 것으로 추측㊥ 되지만, 기체색이나 장비 등, 각부에 보수나 개조가 가해지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

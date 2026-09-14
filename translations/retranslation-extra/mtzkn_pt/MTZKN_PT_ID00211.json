@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00211",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00211/Sheet1/000002",
+      "sourceBindingSha256": "77278b0825821dac06ddc06e1bc18ef2aea49ea72e576d37fd9f7e6ad5492be3",
+      "sourceTextSha256": "63571c38692f810d2443fa17fb9c893b5b1a97373e8e3da32286d7a588352cfc",
+      "freshTranslation": "로렐라이 하인리히",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00211/Sheet1/000003",
+      "sourceBindingSha256": "ef335d0d82c16112eb58405d733527dda5bc291dba62d5214498f3fadf9a1e69",
+      "sourceTextSha256": "7a460c2e1f45cf48862fb772e1005f8186d58c56b7301bd766c8bce679b7863e",
+      "freshTranslation": "로렐라이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00211/Sheet1/000004",
+      "sourceBindingSha256": "6885c78c3c18ec5fcb935d32c74f97dd271077fb877d09292a54269ead96bb15",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00211/Sheet1/000005",
+      "sourceBindingSha256": "b09c43ddc88abed071afb762f13f1c5cd5d9a7887f6be13e24944936c346e768",
+      "sourceTextSha256": "cb0277e878d13c493f4814127f3667214d2bb584a29d689888567886cf2b51cd",
+      "freshTranslation": "슈트로하임 하인리히의 딸인 금발·여안의 소녀. ㊥ 어느 날 갑자기 구로가네야에 나타나 시로와 친해진다. ㊥ 그 정체는 다뉴브 α1의 두뇌로, 시로와 친구가 된 것은 슬픔의 감정을 가르쳐줘 ㊥ 하려고 한 슈트로하임의 차금에 의한 것이었다. ㊥ 그러나 아슈라 남작에게 빼앗긴 다뉴브 α1을 되찾으려고 스트로하임이 ㊥ 사망. 사랑하는 아버지를 잃은 것으로 슬픔의 감정을 알면 로렐라이는 합체장치인 머리㊥의 리본을 뽑아 다뉴브α1과 하나가 된다. 그리고 아버지의 소원이었던 마징가㊥-Z 타도 때문에 싸움에 임했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00211/Sheet1/000006",
+      "sourceBindingSha256": "75d2f44710dec60049af934361473b61f51b820ba93e0b16e4178530f1936c72",
+      "sourceTextSha256": "5f5fe3b704a27d6cdedf622d8a94919e59a191f48ba7d5979dbf2c9bd3a92659",
+      "freshTranslation": "슈트로하임 하인리히의 딸인 금발·여안의 소녀. ㊥ 어느 날 갑자기 구로가네야에 나타나 시로와 친해진다. ㊥ 그 정체는 다뉴브 α1의 두뇌로, 시로와 친구가 된 것은 슬픔의 감정을 가르쳐줘 ㊥ 하려고 한 슈트로하임의 차금에 의한 것이었다. ㊥ 그러나 아슈라 남작에게 빼앗긴 다뉴브 α1을 되찾으려고 스트로하임이 ㊥ 사망. 사랑하는 아버지를 잃은 것으로 슬픔의 감정을 알면 로렐라이는 합체장치인 머리㊥의 리본을 뽑아 다뉴브α1과 하나가 된다. 그리고 아버지의 소원이었던 마징가㊥-Z 타도 때문에 싸움에 임했다. ㊥ 마징가 Z와는 호각 이상으로 교차하는 것도 결과는 패배. 시로의 계곡이 울리는 가운데, ㊥ 깨진 다뉴브의 기계는 마치 로렐라이의 노래와 같이 슬프게 소리를 내고 계속했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

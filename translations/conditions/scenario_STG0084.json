@@ -1,0 +1,95 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0084",
+    "fileName": "STG0084.cpk",
+    "target": "DATA/STAGE/STG0084.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "f6c515109536fcb6c6282be8c8f17902c31f122a17e371822621d7b7ba5a820d"
+  },
+  "entries": [
+    {
+      "entryId": "STG0084/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "용자 가라다블라의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0084/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0084/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "코우지의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0084/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "4턴 이내에 모든 기계수를 격추하고\n또한 가라다블라를 격추시킨다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0084/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "하데스의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0084/ID00001/OPERATE_TBL/str_tbl/005",
+      "sourceId": 5,
+      "translation": "코우지,제우스의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0084/ID00001/OPERATE_TBL/str_tbl/006",
+      "sourceId": 6,
+      "translation": "없음",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

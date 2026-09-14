@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00198",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00198/Sheet1/000002",
+      "sourceBindingSha256": "9523af1f478df67dc83bd9e077a6ff04581b75f382ad00a8bb37dbfcb39906ab",
+      "sourceTextSha256": "052cda3cc4a086a260e2442c51301f2e2baffed1c4ddbbea5b588f8d4bd3c29b",
+      "freshTranslation": "누케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00198/Sheet1/000003",
+      "sourceBindingSha256": "ccd1d490f6eca9feb6234c6b49044ae9135f87173fbbe0e2a4deba3b6e99104b",
+      "sourceTextSha256": "052cda3cc4a086a260e2442c51301f2e2baffed1c4ddbbea5b588f8d4bd3c29b",
+      "freshTranslation": "누케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00198/Sheet1/000004",
+      "sourceBindingSha256": "bee144bb26eaf536f0aa39fb9770e7f7691decd3ab76c00ad1f06f8cd2e6cee8",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00198/Sheet1/000005",
+      "sourceBindingSha256": "149a07d1fc79f1564d7bc17e95618c00ee4f69fc1daae288fae84ffef5ccfa22",
+      "sourceTextSha256": "d3497300bd594b4e2908a4697a32fb112e5f6622e5f0844d30752ddc16e13530",
+      "freshTranslation": "요시카이 세이토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00198/Sheet1/000006",
+      "sourceBindingSha256": "cf9c5b11217b1340129a42ae5f2654ad7668fdd5e41b178f2ab9623f9647ace9",
+      "sourceTextSha256": "0d176f88aa26781abdc9108e0042629b108ddb218d0e8301537dcb4947fe5bd7",
+      "freshTranslation": "보스의 자분. ㊥ 마음이 빠진 표정과 콧물을 늘어뜨린 외모로부터는 상상도 되지 않지만, 취권의 달인으로 일본㊥ 챔프의 솜씨. ㊥ 그 팔로 순식간에 철 가면을 얹어 보여줬을 때는 무차와 함께 갑아에게 \"보스보다 ㊥ 강한 것이 아닌가\"라고 말해졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00198/Sheet1/000007",
+      "sourceBindingSha256": "7498fd8b69e1e27cd8c70813fda8c127d8a148fff674bfc2ab0de43911a17b8b",
+      "sourceTextSha256": "0d176f88aa26781abdc9108e0042629b108ddb218d0e8301537dcb4947fe5bd7",
+      "freshTranslation": "보스의 자분. ㊥ 마음이 빠진 표정과 콧물을 늘어뜨린 외모로부터는 상상도 되지 않지만, 취권의 달인으로 일본㊥ 챔프의 솜씨. ㊥ 그 팔로 순식간에 철 가면을 얹어 보여줬을 때는 무차와 함께 갑아에게 \"보스보다 ㊥ 강한 것이 아닌가\"라고 말해졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

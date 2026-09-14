@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00282",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00282/Sheet1/000002",
+      "sourceBindingSha256": "53a5fc3797f020327d17a9cb6ce9fae854f39ec3548db425eaecb37fb90b15ce",
+      "sourceTextSha256": "80cc2909fc76c7713f439222370d3936be66c3f71b087d2054a75f2f4faedd94",
+      "freshTranslation": "와카나 요코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00282/Sheet1/000003",
+      "sourceBindingSha256": "6b97175e7a7e460b83ef352e6e274e6da672ab9aeb345c6e5a3cf7e1e2152367",
+      "sourceTextSha256": "f2b3ba8f4b9c8ff64b54fc7d3f538b9ca01841b7063233aa3dd4249c10942a83",
+      "freshTranslation": "요코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00282/Sheet1/000004",
+      "sourceBindingSha256": "df93bb23d291f4240b21f2257c447e7f47bf221c16c6efd9a2d99cddfb5adf45",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00282/Sheet1/000005",
+      "sourceBindingSha256": "94671194008003466ae2cc78557d7627e73cb2ed577da3652bb4c6d3b1b42496",
+      "sourceTextSha256": "9e9b34d92f4bc3a617bf9dfd80231d1ec66843cd2c627f4c27236be52d8cde21",
+      "freshTranslation": "르 패닉? 후모후",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00282/Sheet1/000006",
+      "sourceBindingSha256": "c352b7dbaa6667a91c064218eef7119ebac89363a83e0a4eeb14efb47007a205",
+      "sourceTextSha256": "c9ad1567105a07c83b8aba30990b27a04d5d96e8eb26db26cb4436929227851f",
+      "freshTranslation": "교통과 소속의 부인 경찰관. ㊥ 범인의 체포에 이상한 정도의 집념을 불태우고, 이를 위해서는 모두를 고민하지 않는 파멸적인 성격. ㊥우수",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00282/Sheet1/000007",
+      "sourceBindingSha256": "4bc489d420265700b40866c6c75ab179ea8de09d589d76359c9bf857d2740659",
+      "sourceTextSha256": "063099839f44b296fe5216ed05f478a6ef991099460b5ce88d1a7c1f98e5b3b2",
+      "freshTranslation": "전 기술로 미니 파트를 달려,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00282/Sheet1/000008",
+      "sourceBindingSha256": "84e69c3d964965b33cc6a2b2eb22432e9efdcbc32fd2a1063f44db4822778e7d",
+      "sourceTextSha256": "cb048c46fbdede5c6a6695ecb7764ccaa2e2ba80685be6c78f09c962050d6170",
+      "freshTranslation": "동신경 발군으로 사격의 솜씨도 천재적이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00282/Sheet1/000009",
+      "sourceBindingSha256": "ec2a852f27d0d115a31d9a8af03dd1df122fb9a24eb1d573b7cf80e71b2b29d8",
+      "sourceTextSha256": "c9ad1567105a07c83b8aba30990b27a04d5d96e8eb26db26cb4436929227851f",
+      "freshTranslation": "교통과 소속의 부인 경찰관. ㊥ 범인의 체포에 이상한 정도의 집념을 불태우고, 이를 위해서는 모두를 고민하지 않는 파멸적인 성격. ㊥우수",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00282/Sheet1/000010",
+      "sourceBindingSha256": "e4c9558006f87a3b6c1c2bc13cc79ff3085bdd9ab182a2804ed11616f08be077",
+      "sourceTextSha256": "063099839f44b296fe5216ed05f478a6ef991099460b5ce88d1a7c1f98e5b3b2",
+      "freshTranslation": "전 기술로 미니 파트를 달려,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00282/Sheet1/000011",
+      "sourceBindingSha256": "e54c5c0644f1b1ca73aad95475a947daf5c98eb6751d6ffbfc7a06396d28f3af",
+      "sourceTextSha256": "145f70a8abf29c654eaa73e6fdc64db119af876bc611109c988bf9bc7d2b1215",
+      "freshTranslation": "동신경 발군으로 사격의 솜씨도 천재적이다. ㊥ 자전거에 두 사람을 탄 종개들을 초절적인 드라이빙 테크닉으로 추적하거나 보㊥ 태군과 장절한 총격전을 연기하기도 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

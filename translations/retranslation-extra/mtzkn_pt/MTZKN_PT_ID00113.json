@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00113",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00113/Sheet1/000002",
+      "sourceBindingSha256": "216a213d76e78a50654987ba6cedec6a737faaa633fafcedcf2ad3efad630c98",
+      "sourceTextSha256": "49b0fafca34b64f5c29f26ff9d6dc3184094c2d0e9adc1367b23898509f4ceb6",
+      "freshTranslation": "밀레이나 바스티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00113/Sheet1/000003",
+      "sourceBindingSha256": "f0a778ff1538c7b7f121f75d60d07528ff099e463244d05213011859e9ba6816",
+      "sourceTextSha256": "8df7fafcd76acbdce9752ff25b551ec16fc4e47287db50263aea62d2d91095dd",
+      "freshTranslation": "밀레이나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00113/Sheet1/000004",
+      "sourceBindingSha256": "e27e22197183109d7803a924c5a40537e3dbff691a94fca876f50e35f3dff45f",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00113/Sheet1/000005",
+      "sourceBindingSha256": "100b760b1bc581749ea2498cca39b8936be69e6a58b6025353d375ff861a0fd1",
+      "sourceTextSha256": "6659d120e33f41f9f52f1a1781b0b373c050f9a4d68c3a80f724fc22234720f9",
+      "freshTranslation": "토마츠 하루카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00113/Sheet1/000006",
+      "sourceBindingSha256": "d8706232f5f922cf2eaf997033e5a1d25d91e623cf7bbd8d1fb690e8e12eb9b7",
+      "sourceTextSha256": "60ab39ee46d9d117af3d38eeeb451b5f18b9dee829fbea392f7fa6b7fb03b51b",
+      "freshTranslation": "프톨레마이오스 2개 전황 오페레",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00113/Sheet1/000007",
+      "sourceBindingSha256": "2eb441568a72f6700ab3fe666d28456a7fda2d0c2fbb2e301e52c0575a94b273",
+      "sourceTextSha256": "e7ae948a26bdd38a40990026a266cdf9378cb3690fe951e0a43514d4b4cd6efd",
+      "freshTranslation": "-16세. ㊥ 밝은 성격의 소유자이고 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00113/Sheet1/000008",
+      "sourceBindingSha256": "9a10e4ac8cbbda43e0440045f9b1041d5ef7a80bd13a4a7ec882152333cd8439",
+      "sourceTextSha256": "fe602c3b280c25e43901f1563b884b09555151e92d967096b3df1c637777db2c",
+      "freshTranslation": "루비잉의 분위기 메이커라고 할 수 있는 존재. 단어 ㊥ 꼬리에 \"~입니다\", 다른 멤버를 \"묘자 + 씨\"로 부르는 것이 특징. ㊥ 대전을 경험하고 머리카락",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00113/Sheet1/000009",
+      "sourceBindingSha256": "9796009c6df391a9fc484ce191d3b281067922bef468f35b004e3bf54d3cd8a8",
+      "sourceTextSha256": "3c0a21b01554997790fc0cedce2e44fede61bacbe0451d53895d45289dbaf9c4",
+      "freshTranslation": "또한 바꾸어 여성답게 성장하고 있지만 그 성격은 건재하다. ㊥ 이안과 린다의 딸로, 유사시에는 부모 양보의 메카닉의 솜씨를 선보이는 것도 ㊥ 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00113/Sheet1/000010",
+      "sourceBindingSha256": "c5110595daa4f71800036029b0fe5a0bd29340ef2fd23f889aa5085e0de58e59",
+      "sourceTextSha256": "60ab39ee46d9d117af3d38eeeb451b5f18b9dee829fbea392f7fa6b7fb03b51b",
+      "freshTranslation": "프톨레마이오스 2개 전황 오페레",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00113/Sheet1/000011",
+      "sourceBindingSha256": "edc021000fd8a57a005641b762d3232c4d40df07cf3a5b83ee20f2e0238020d0",
+      "sourceTextSha256": "e7ae948a26bdd38a40990026a266cdf9378cb3690fe951e0a43514d4b4cd6efd",
+      "freshTranslation": "-16세. ㊥ 밝은 성격의 소유자이고 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00113/Sheet1/000012",
+      "sourceBindingSha256": "aa1f9f0b4037f80eed2f65a9095e50af4f6bdbbba82d03a5a95231101fb01aef",
+      "sourceTextSha256": "fe602c3b280c25e43901f1563b884b09555151e92d967096b3df1c637777db2c",
+      "freshTranslation": "루비잉의 분위기 메이커라고 할 수 있는 존재. 단어 ㊥ 꼬리에 \"~입니다\", 다른 멤버를 \"묘자 + 씨\"로 부르는 것이 특징. ㊥ 대전을 경험하고 머리카락",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00113/Sheet1/000013",
+      "sourceBindingSha256": "ba8e1d1ae5a58c66be90fb6cfb38e12f0fbd4f1467539ce18b8f614925a52a23",
+      "sourceTextSha256": "3c0a21b01554997790fc0cedce2e44fede61bacbe0451d53895d45289dbaf9c4",
+      "freshTranslation": "또한 바꾸어 여성답게 성장하고 있지만 그 성격은 건재하다. ㊥ 이안과 린다의 딸로, 유사시에는 부모 양보의 메카닉의 솜씨를 선보이는 것도 ㊥ 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

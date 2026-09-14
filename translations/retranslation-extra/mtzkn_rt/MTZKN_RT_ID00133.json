@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00133",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00133/Sheet1/000002",
+      "sourceBindingSha256": "ecb3ffdee2a25fd0d40e88548ff866944674473e3fb40ea1bff9f1c6a41e0c7b",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00133/Sheet1/000003",
+      "sourceBindingSha256": "3b0974a3d54dd24f7fab62357a26cbc2545bae2a0d495d36cf6cb75ccfcad889",
+      "sourceTextSha256": "2d97e38d7f5e8df5e02d391e71bfda22c36c56999649a762de0605c1f4c56e91",
+      "freshTranslation": "고스트 V9",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00133/Sheet1/000004",
+      "sourceBindingSha256": "f1ce99006de66fc0c77204bef06ea5072a6b2d7b8bd81ce3206fb176bdb2c543",
+      "sourceTextSha256": "06d480bdb608b072185a1bb199d144255bf4f0915d54acc9425cce08e00f17a4",
+      "freshTranslation": "갤럭시 선단의 주력이 되는 무인 전투기. ㊥제식명칭은 AIF-9V. ㊥ 무인기이기 때문에 파일럿의 안전성을 고려하지 않고, 유인기일 수 없는 ㊥ 높은 기동력을 자랑한다. 그러나 과거 사건으로 인해 무인 항공기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00133/Sheet1/000005",
+      "sourceBindingSha256": "7f1397b24d54c3fab6549e94c0423960e5ab295f75d0ca9b82345e74b45441f3",
+      "sourceTextSha256": "fee514afe513e352299904dcfb7b7f2b2976e982c31061cff7a8afff76937fd0",
+      "freshTranslation": "용에는 제한이 걸려 ㊥, 고스트 시리즈에서 최고의 전투력을 가진 본 기기의 사용은 엄격히 제한되어있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00133/Sheet1/000006",
+      "sourceBindingSha256": "3a88712c1e55eecfff40d704fb16eb8d49092d5f10df6192af933d8e8d8a4a2d",
+      "sourceTextSha256": "06d480bdb608b072185a1bb199d144255bf4f0915d54acc9425cce08e00f17a4",
+      "freshTranslation": "갤럭시 선단의 주력이 되는 무인 전투기. ㊥제식명칭은 AIF-9V. ㊥ 무인기이기 때문에 파일럿의 안전성을 고려하지 않고, 유인기일 수 없는 ㊥ 높은 기동력을 자랑한다. 그러나 과거 사건으로 인해 무인 항공기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00133/Sheet1/000007",
+      "sourceBindingSha256": "909ea71da5b5924daab825a65d17e56877fb353eb611c4f0548a4a19cfc7bc56",
+      "sourceTextSha256": "fee514afe513e352299904dcfb7b7f2b2976e982c31061cff7a8afff76937fd0",
+      "freshTranslation": "용에는 제한이 걸려 ㊥, 고스트 시리즈에서 최고의 전투력을 가진 본 기기의 사용은 엄격히 제한되어있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

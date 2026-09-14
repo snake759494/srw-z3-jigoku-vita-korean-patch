@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00170",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00170/Sheet1/000002",
+      "sourceBindingSha256": "00a03e89d8f7daaf0eb9bc4b54d6461e5b33e7b873c4b1b54d09cadd2da4ee9a",
+      "sourceTextSha256": "09e8453cad950579d228ebadd4c680f4fef56f3bbd688d56188bf4bf28e76065",
+      "freshTranslation": "껌린·키자키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00170/Sheet1/000003",
+      "sourceBindingSha256": "7aac861efc25cc20acac5265097a857e80d234197ab5fa6516fac847fb931a7a",
+      "sourceTextSha256": "bf35a95046f2af1b6c5f04bc194976d5fbe099bed12c3bdd4a6ec9b1671d9c65",
+      "freshTranslation": "감림",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00170/Sheet1/000004",
+      "sourceBindingSha256": "d0aa726aa33672e61c39ed1b6c9ff4c9462a392b0531f4ba736e3fda94a1dd5b",
+      "sourceTextSha256": "6d44622aa9064e71c34e42e7ff6f24f624bb0c6ebacd9fea4e30a2357bb5d0b6",
+      "freshTranslation": "마크로스 7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00170/Sheet1/000005",
+      "sourceBindingSha256": "0a2ed30831e89be6f2d331f93da08515b1b724932256012fb76fdada8c640380",
+      "sourceTextSha256": "af328c6cf6d91894b90cc23f56b302bfb6605c039bab4d9e89961531eaed4f1f",
+      "freshTranslation": "시안 무인",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00170/Sheet1/000006",
+      "sourceBindingSha256": "b5a8fa2540209ebb73559c2d81d0fbc32185591d46442c63e90fde113c1c7467",
+      "sourceTextSha256": "41b53e5001c4ae3b1db6c3b87504a2e0bb8e9700362de128eff9a9a17ee11bf1",
+      "freshTranslation": "마크로스 7 선단의 엘리트 부대인 다이아몬드 포스의 대장. 계급은 대위. ㊥ 뿌리부터",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00170/Sheet1/000007",
+      "sourceBindingSha256": "0106182de7b86c8f0c1b7061ec7bb2c03cd507189a4740f4f797f051defad1d2",
+      "sourceTextSha256": "f181ec0f82550f6b386fbd5ba06647a0eadc4429b958dcd122d81ee024bad13a",
+      "freshTranslation": "흥미로운 인간이기 때문에 만난 당초는 전장에서 노래하는 바사라를 즐겁게 생각하고 ㊥ 없었다. 하지만 싸움에서 바사라의 열정을 만지고 지금은 그의 좋은 이해자가되고 ㊥있다. ㊥ 바사라와 어울리는 상대였던 밀레느들과의 교류에 의해, 단단한 성격은 약간 이완㊥ 완화되었지만, 여성 관계에 뚜렷한 부분은 변화는 없었다. 프로토데비른과 ㊥의 결전 전에 프로포즈까지 한 밀레느와의 사이도 그 이후, 눈에 띄는 진전은 보여 ㊥없는 모양. ㊥ 목적지도 말하지 않고 여행에 나선 바사라를 위해 노래에 집중할 수 없게 된 밀레인을 ㊥ 걱정하고, 그를 데려가기 위해 행성 졸라로 향했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00170/Sheet1/000008",
+      "sourceBindingSha256": "ffbd904101d0d9df7518d95c56afccf8d36a66d9490484e4f7c2fc00469af85d",
+      "sourceTextSha256": "41b53e5001c4ae3b1db6c3b87504a2e0bb8e9700362de128eff9a9a17ee11bf1",
+      "freshTranslation": "마크로스 7 선단의 엘리트 부대인 다이아몬드 포스의 대장. 계급은 대위. ㊥ 뿌리부터",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00170/Sheet1/000009",
+      "sourceBindingSha256": "e954c6b06d86541fbffe2a013938809ae6159f349c09352777864d18b2270e0f",
+      "sourceTextSha256": "f181ec0f82550f6b386fbd5ba06647a0eadc4429b958dcd122d81ee024bad13a",
+      "freshTranslation": "흥미로운 인간이기 때문에 만난 당초는 전장에서 노래하는 바사라를 즐겁게 생각하고 ㊥ 없었다. 하지만 싸움에서 바사라의 열정을 만지고 지금은 그의 좋은 이해자가되고 ㊥있다. ㊥ 바사라와 어울리는 상대였던 밀레느들과의 교류에 의해, 단단한 성격은 약간 이완㊥ 완화되었지만, 여성 관계에 뚜렷한 부분은 변화는 없었다. 프로토데비른과 ㊥의 결전 전에 프로포즈까지 한 밀레느와의 사이도 그 이후, 눈에 띄는 진전은 보여 ㊥없는 모양. ㊥ 목적지도 말하지 않고 여행에 나선 바사라를 위해 노래에 집중할 수 없게 된 밀레인을 ㊥ 걱정하고, 그를 데려가기 위해 행성 졸라로 향했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

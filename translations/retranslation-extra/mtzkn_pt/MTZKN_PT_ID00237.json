@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00237",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00237/Sheet1/000002",
+      "sourceBindingSha256": "e9c448586b3affefcfd2f6a6107f7539b25d71c0ad0609ae287c7f5f14312d4b",
+      "sourceTextSha256": "37640a675e9003c1f85120fd18fdf6aa9d248073b2c2a34315169e600ab925a5",
+      "freshTranslation": "사에키 토오루",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00237/Sheet1/000003",
+      "sourceBindingSha256": "ed97a8b004e582e31dcbb8d899a27a159f1a771e49ec7b7760667d077336ecaf",
+      "sourceTextSha256": "b40de550c9eb3ef55541d7c385ae14f702ef150b284230731b9a15c667d406cf",
+      "freshTranslation": "사키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00237/Sheet1/000004",
+      "sourceBindingSha256": "0b980bfb3850d5f14ac338397e3382f004ae089540d5d063cefbafce4e4c5c0f",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00237/Sheet1/000005",
+      "sourceBindingSha256": "181fc7a4f402263b7b3e5b6f8ff53795d2b8cf9e12df83e28bf01349b066de08",
+      "sourceTextSha256": "e7b456ddd1959daf107231f7ad44901730384dd2325750873b4f019d32b48716",
+      "freshTranslation": "안보군이 홍보 2과와의 제휴를 강화하는 명목으로 파견한 전술 어드바이저 보좌. ㊥ 런던의 전술연구소에서는 제일 기대주였던 것 같고, 상응하게 명확한 두뇌를 가지고 ㊥ 있다. ㊥ 선배인 시로타를 숭배하고 있으며, 과거에 가르친 “효율의 추구가 가장 중요하다” ㊥라는 그의 말을 자신의 전술의 지표로 하고 있었다. 하지만 머리가 굳고 융통성이 없는 부분㊥도 과거의 시로타와 마찬가지로, 군과 니시지마가 내는 무리난제를 잇달아 홍보 2과에 몰려오는 ㊥ 존재가 되었다. ㊥시로타가 홍보 2과의 무언가를 지키기 위한 싸움 방법에 감화되어 간 것을 괴롭게 생각해 ㊥ 있어, 군으로부터 새롭게 다이 가드의 파일럿을 선출하는 등, 홍보 2과를 해산시켜 ㊥하려고 활동했다. ㊥이지만, 그 기획은 실패로 끝나고, 더욱 그 자신도 아카기들의 열기에 감화된 일로 효㊥율만이 아닌 싸움 방법을 의식하게 되어, 그들에게 신뢰를 보게 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00237/Sheet1/000006",
+      "sourceBindingSha256": "f58704fe48ae56b7eeeab4af68411e956708f1bd5eeb2575a91a729578730b27",
+      "sourceTextSha256": "e7b456ddd1959daf107231f7ad44901730384dd2325750873b4f019d32b48716",
+      "freshTranslation": "안보군이 홍보 2과와의 제휴를 강화하는 명목으로 파견한 전술 어드바이저 보좌. ㊥ 런던의 전술연구소에서는 제일 기대주였던 것 같고, 상응하게 명확한 두뇌를 가지고 ㊥ 있다. ㊥ 선배인 시로타를 숭배하고 있으며, 과거에 가르친 “효율의 추구가 가장 중요하다” ㊥라는 그의 말을 자신의 전술의 지표로 하고 있었다. 하지만 머리가 굳고 융통성이 없는 부분㊥도 과거의 시로타와 마찬가지로, 군과 니시지마가 내는 무리난제를 잇달아 홍보 2과에 몰려오는 ㊥ 존재가 되었다. ㊥시로타가 홍보 2과의 무언가를 지키기 위한 싸움 방법에 감화되어 간 것을 괴롭게 생각해 ㊥ 있어, 군으로부터 새롭게 다이 가드의 파일럿을 선출하는 등, 홍보 2과를 해산시켜 ㊥하려고 활동했다. ㊥이지만, 그 기획은 실패로 끝나고, 더욱 그 자신도 아카기들의 열기에 감화된 일로 효㊥율만이 아닌 싸움 방법을 의식하게 되어, 그들에게 신뢰를 보게 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

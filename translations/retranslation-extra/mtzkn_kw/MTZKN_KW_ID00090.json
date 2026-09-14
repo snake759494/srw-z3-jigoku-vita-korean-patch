@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00090",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00090/Sheet1/000002",
+      "sourceBindingSha256": "0d25ca8196d16b358fc6f7072e60f5a8f8aa8f56e90d74fafd47cfc26be8f0d3",
+      "sourceTextSha256": "d3af03ade287d97f760f7b70bdc3fc2840657c6ef58e366696123f03bae9f586",
+      "freshTranslation": "카라바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00090/Sheet1/000003",
+      "sourceBindingSha256": "7e7d0236ce1e10b698cd0a01c7c75dcd42af93fe4da308a5df1b46f6a6607448",
+      "sourceTextSha256": "9e5464f47a8aff72df3528348b8488c8409eb8196a31c3e3aba2be43794445ef",
+      "freshTranslation": "「기동전사 Z건담」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00090/Sheet1/000004",
+      "sourceBindingSha256": "2232416c8b50957a525dd5d43c18ff463a5120c568d49b77f18c3b17cbeb6247",
+      "sourceTextSha256": "b440fb7e682d4026d57183a6c09df8d83bd43efb83810fbbb6b068a870c7da68",
+      "freshTranslation": "반지구 연방 조직 에우고를 돕는 지구 조직. ㊥ 대기권 내에 침공한 에우고의 부대를 지원할 뿐만 아니라 자신의 전투 ㊥ 힘을 가지고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00090/Sheet1/000005",
+      "sourceBindingSha256": "ee1f53fa975a5a1a9ab82913f25aabcf675848c0dd8e974e1a2869e361321051",
+      "sourceTextSha256": "5a29226843f391d20f894caacb00d823a121d572b102a645010c090d1f7b211a",
+      "freshTranslation": "네즈와 싸우고 있다. ㊥ 1년 전쟁에서는 화이트 베이스를 타고 있던 하야트 코바야시가 전선에서 지휘를 ㊥ 집행, 아무로 레이도 연방군의 감시하에서 탈주한 뒤 카라바에 참가했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00090/Sheet1/000006",
+      "sourceBindingSha256": "6a7c06872fe3d57aebc3e77ecab0f60ff90cb748a05cc6f96361915cff23a6f9",
+      "sourceTextSha256": "b440fb7e682d4026d57183a6c09df8d83bd43efb83810fbbb6b068a870c7da68",
+      "freshTranslation": "반지구 연방 조직 에우고를 돕는 지구 조직. ㊥ 대기권 내에 침공한 에우고의 부대를 지원할 뿐만 아니라 자신의 전투 ㊥ 힘을 가지고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00090/Sheet1/000007",
+      "sourceBindingSha256": "0b73631a8d2a367b891c5ee4fe6140d3e2670b5512c58e08ad860b232d5c00aa",
+      "sourceTextSha256": "5a29226843f391d20f894caacb00d823a121d572b102a645010c090d1f7b211a",
+      "freshTranslation": "네즈와 싸우고 있다. ㊥ 1년 전쟁에서는 화이트 베이스를 타고 있던 하야트 코바야시가 전선에서 지휘를 ㊥ 집행, 아무로 레이도 연방군의 감시하에서 탈주한 뒤 카라바에 참가했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

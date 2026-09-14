@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00244",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00244/Sheet1/000002",
+      "sourceBindingSha256": "cdcf2ded75574e40dce8914954cc3fdfee4421429012de06923f859a64bbda5c",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00244/Sheet1/000003",
+      "sourceBindingSha256": "1e502a3cd634a6244f5d7e3706f6ecc945a956a97aa47374d5dce538dc7f58e4",
+      "sourceTextSha256": "15a0736c6666612b4df84b737b9276e598ff2de187207171f22d618960a69400",
+      "freshTranslation": "쌍둥이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00244/Sheet1/000004",
+      "sourceBindingSha256": "c34941ff2baa67ea898f41ff1c6746eec92340c43c55a274adf806d8b015950b",
+      "sourceTextSha256": "15a0736c6666612b4df84b737b9276e598ff2de187207171f22d618960a69400",
+      "freshTranslation": "쌍둥이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00244/Sheet1/000005",
+      "sourceBindingSha256": "2e4180a18bb5fd46ca90b2d80c5cc9ca314b6b10300bcd95da9543225ba006b0",
+      "sourceTextSha256": "ffee1b82cd9db91714bb3b154a063528733cbff8ebd3e501b5f2999a9f3de338",
+      "freshTranslation": "가들라이트 메온삼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00244/Sheet1/000006",
+      "sourceBindingSha256": "9907bb937cf5a1ee826985588946d0b789491f95976fa0abca2083bac57e1216",
+      "sourceTextSha256": "776c1ab56cff6a33e6ba4ffa18439b801c572b0b07b5edb7cfd6f579baae1560",
+      "freshTranslation": "가드라이트가 탑승하는 기동병기. ㊥ \"이끼 맞는 쌍둥이\"의 스피어가 탑재되어 있다. ㊥ 행성 제미나이 최강의 파일럿인 가드라이트를 위해 개발된 기체이며, ㊥ 제미나이 최고의 기술이 모여 있다. ㊥ 기본 설계는 디오스크를 답습하고 있어, 염동 컨트롤과 광 입자에 의한 무장, 고㊥인 격투 성능은 공통되어 있다. 하지만 그들에게 가들라이트의 강력한 염동력과 탁월한 조 ㊥ 세로 기술, 더욱 스피어의 차원력이 조합되는 일로 압도적인 전투력을 만들어낸다. 총 ㊥ 산상에서는 그 전투력은 디오스크로 구성된 대대에 필적한다. ㊥ 제미나이드들에게 있어서 모성의 번영의 상징이며, 단순한 일기동병기를 넘은 존재 ㊥이기 때문에, 본기와 닮은 제니온 가이를 제미니스는 증오하고 ㊥한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00244/Sheet1/000007",
+      "sourceBindingSha256": "acaaa1010b272e612b704627167fa00b83e0b9c27ff8eb331de9f9895a61c767",
+      "sourceTextSha256": "eb455e25ba26d8c4b4812b11e4b79f5c4ba3ff7bb7882806c76792e51da4bf89",
+      "freshTranslation": "가드라이트가 탑승하는 기동병기. ㊥ \"이끼 맞는 쌍둥이\"의 스피어가 탑재되어 있다. ㊥ 행성 제미나이 최강의 파일럿인 가드라이트를 위해 개발된 기체이며, ㊥ 제미나이 최고의 기술이 모여 있다. 그 때에 탑재된 스피어는 처음에는 해㊥석중이었지만, 가드라이트가 리액",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00244/Sheet1/000008",
+      "sourceBindingSha256": "7e14626c833b3207f9a65b8dc9bfc28d4d804e0016f9d6bbf68ba1936eab7dd4",
+      "sourceTextSha256": "23f583aeafbe60ed438f44ef74d9a2b263fd2e47f8e43fe30ad763c6c96c61f6",
+      "freshTranslation": "에 각성한 것으로 다양한 기능이 해명되어 ㊥제미니어는 완성되었다. ㊥ 기본 설계는 디오스크를 답습하고 있어, 염동 컨트롤과 광 입자에 의한 무장, 고㊥인 격투 성능은 공통되어 있다. 하지만 그들에게 가들라이트의 강력한 염동력과 탁월한 조 ㊥ 세로 기술, 또한 스피어의 차원력이 조합되는 것으로 압도적인 전투력을 만들어낸다. 총 ㊥ 산상에서는 그 전투력은 디오스크로 구성된 대대에 필적한다. ㊥ 스피어의 이벤트 제어는 본 기기의 기동성과",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00244/Sheet1/000009",
+      "sourceBindingSha256": "26ab1d63f41a68a648930d10f756e341672a6a37a86002f86d894c4995045825",
+      "sourceTextSha256": "92c931d40d741649492858a87f1c399ad92c6d38cbff7250bf49a107cca83804",
+      "freshTranslation": "동성의 향상과 적에게의 확실한 타격에 정리㊥되고 있기 때문에, 다른 스피어 탑재기에 비하면 수수한 인상을 받지만, 그 모두가㊥필살의 일격을 내기 위한 개념에 통일되어 있어, 다른 스피어 탑재기㊥ ㊥제미나이드들에게 있어서 모성의 번영의 상징이며, 단순한 일기동병기를 넘은 존재㊥이 되어 있기 때문에, 본기와 닮은 제니온 가이를 제미니스는 증오하고 ㊥한다. ㊥ 제미니스와 함께 상승 무패였지만 유일한 패배로 인해 행성 제미나이는 멸망 ㊥의 날을 맞이했다. ㊥ 시공수리 후 결전에서 '이잡는 쌍둥이'의 스피어를 제니온 가이에게 빼앗겨 ㊥ 패배했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

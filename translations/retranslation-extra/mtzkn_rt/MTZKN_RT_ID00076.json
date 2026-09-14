@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00076",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00076/Sheet1/000002",
+      "sourceBindingSha256": "5070b98c18ef8b2604a37dc820f82cb61bba1f63e1f937d6696ca2ac871c7f6b",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00076/Sheet1/000003",
+      "sourceBindingSha256": "192ef12b578d17478612d4b594e83929ec6ef499eccc250fc40bdfafa8d2d5f6",
+      "sourceTextSha256": "e58cbcc818649602266cd555d8880379898b118ac31069972087601b2260df2c",
+      "freshTranslation": "브레이브",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00076/Sheet1/000004",
+      "sourceBindingSha256": "f2d074e931932d7c40814f77bf04ca3a271db3676ad1a4530df1493e057a07a0",
+      "sourceTextSha256": "f8ef9ed5e320f140cbc431e2f63ca14ca42c9fee53e47c96725b8adcfc85bede",
+      "freshTranslation": "브레이브 지휘관용 시험기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00076/Sheet1/000005",
+      "sourceBindingSha256": "96cae808a9e252d40e3c2e4addcbe1ca5ccdad0accc4992b9b285f6a97e7f2fd",
+      "sourceTextSha256": "8e7703b9a15bbce562c11eac0aa25e1544caf4ec7b578907d3002e3adca94e0c",
+      "freshTranslation": "그레이엄 에이커",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00076/Sheet1/000006",
+      "sourceBindingSha256": "006060d9266d15dce5adf79872151f0cfecb69ded0ee66b9e7a93a1507e4f280",
+      "sourceTextSha256": "4514921f1a3a176ec48ea4dbc17c1c4b8a1c235fa820c705957fa2bf0380b7d6",
+      "freshTranslation": "구 유니온·AEU의 기술자를 중심으로 개발된, 지구 연방군의 기술 시험기. ㊥ 실수",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00076/Sheet1/000007",
+      "sourceBindingSha256": "b87d40938f5faafd80677ecba5e42ed2d839e899cf51df2fcdfe7df0574c8a7b",
+      "sourceTextSha256": "71890f5b2bdd6241992ee9e556e886697d0a61829494d40351e150af07a2fce9",
+      "freshTranslation": "- 부시도의 전용기였던 마스라오의 범용화와 긴급 전개 부대의 편성을 ㊥ 컨셉으로 개발되었다. ㊥ 컨셉상, 본기에는 항속거리의 확대와 기동성의 향상이 요구되었기 때문에, 마스라㊥오에서는 옴짓 되고 있던 순항 형태에의 가변 기구가 탑재되고 있다. ㊥ 격투전을 중심으로 한 휴대 화기도 GN 빔 라이플 등의 사격 무기로 변경. ㊥이 장비는 고출력 빔 라이플로 사용할 수있을뿐만 아니라 팁을 제거하여 ㊥ 연사성을 높일 수있는 등 전황에 맞는 폭넓은 사용법이 가능. ㊥ 또한 그레이엄이 탑승하는 지휘관",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00076/Sheet1/000008",
+      "sourceBindingSha256": "f666aedb8990a8a6ca757172103e5417269acff42a10603d8f23adae1b0777c1",
+      "sourceTextSha256": "26970de5c3ac746a09e623c0a4c08bbf12fa36deb628d390f051dc98021c1bc5",
+      "freshTranslation": "2 개의 의사 태양로 외에도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00076/Sheet1/000009",
+      "sourceBindingSha256": "8bf3ec790ed59b10f03a5ea318654501b9c3a381d4e9db6daa95fbffce9d1d2b",
+      "sourceTextSha256": "6c4d4ab766777fec91c1636ddc5dd188f41c578820551b21da48453438ce0714",
+      "freshTranslation": "의 GN비㊥무사벨이 장비되어 있어 마스라오 같은 격투전을 할 수 있다. ㊥ 이미 평가 시험 단계에 들어가 선행 양산된 기체가 그레이엄이 이끄는 '솔㊥ 브레이브스'에 배치되어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00076/Sheet1/000010",
+      "sourceBindingSha256": "7fea3194870be766098dda50d5eabf1c55323b0775b4e83bb034ed45a0556749",
+      "sourceTextSha256": "4514921f1a3a176ec48ea4dbc17c1c4b8a1c235fa820c705957fa2bf0380b7d6",
+      "freshTranslation": "구 유니온·AEU의 기술자를 중심으로 개발된, 지구 연방군의 기술 시험기. ㊥ 실수",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00076/Sheet1/000011",
+      "sourceBindingSha256": "0a589e5d550fdab186f176e8755ca844910a506a39e076d3ea16bc637250cf3c",
+      "sourceTextSha256": "71890f5b2bdd6241992ee9e556e886697d0a61829494d40351e150af07a2fce9",
+      "freshTranslation": "- 부시도의 전용기였던 마스라오의 범용화와 긴급 전개 부대의 편성을 ㊥ 컨셉으로 개발되었다. ㊥ 컨셉상, 본기에는 항속거리의 확대와 기동성의 향상이 요구되었기 때문에, 마스라㊥오에서는 옴짓 되고 있던 순항 형태에의 가변 기구가 탑재되고 있다. ㊥ 격투전을 중심으로 한 휴대 화기도 GN 빔 라이플 등의 사격 무기로 변경. ㊥이 장비는 고출력 빔 라이플로 사용할 수있을뿐만 아니라 팁을 제거하여 ㊥ 연사성을 높일 수있는 등 전황에 맞는 폭넓은 사용법이 가능. ㊥ 또한 그레이엄이 탑승하는 지휘관",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00076/Sheet1/000012",
+      "sourceBindingSha256": "6fe1b26702b0c0b95ef69e77024d444032854e79d6e8eeff735214b083411e55",
+      "sourceTextSha256": "26970de5c3ac746a09e623c0a4c08bbf12fa36deb628d390f051dc98021c1bc5",
+      "freshTranslation": "2 개의 의사 태양로 외에도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00076/Sheet1/000013",
+      "sourceBindingSha256": "3f4cbf5b67959d4dade40f61ebcd32fe38bd3273d9b38ad9adef3ffe43bd0436",
+      "sourceTextSha256": "6c4d4ab766777fec91c1636ddc5dd188f41c578820551b21da48453438ce0714",
+      "freshTranslation": "의 GN비㊥무사벨이 장비되어 있어 마스라오 같은 격투전을 할 수 있다. ㊥ 이미 평가 시험 단계에 들어가 선행 양산된 기체가 그레이엄이 이끄는 '솔㊥ 브레이브스'에 배치되어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

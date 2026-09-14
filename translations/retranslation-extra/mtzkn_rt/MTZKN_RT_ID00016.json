@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00016",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00016/Sheet1/000002",
+      "sourceBindingSha256": "f28e45ca85c04c79534469e6b6f126092972b8eba23054cd75d351e25c352a61",
+      "sourceTextSha256": "2821f723e708a26125b2215f86a494a31e2eb1a3f45f2c6e857b2cc6d0a13f93",
+      "freshTranslation": "롯신 합체 갓 마즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00016/Sheet1/000003",
+      "sourceBindingSha256": "648f8053bc7fba2d0792c43239a48c541b93012bfc469e147e741c86d0239ac5",
+      "sourceTextSha256": "842f382911173df2ae9a2a89923f80b9e0f0c4690f01bb1b6fee3d4b6ee5dc71",
+      "freshTranslation": "배플",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00016/Sheet1/000004",
+      "sourceBindingSha256": "4452eacaa7e8c380399cacfd922809441c18b95a881346593cd6de2a083283d6",
+      "sourceTextSha256": "842f382911173df2ae9a2a89923f80b9e0f0c4690f01bb1b6fee3d4b6ee5dc71",
+      "freshTranslation": "배플",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00016/Sheet1/000005",
+      "sourceBindingSha256": "8ac6b4a79539acee4e521b3a52945e16f5ef8887f36e8b9b8a5f5c88ad1168ab",
+      "sourceTextSha256": "1ec10e1977a95777a224cf79fa49348f8cdf2730edaeecb8e43f33a21de66cee",
+      "freshTranslation": "제57화 『장미의 기사군은… ! 』에 등장한 전투 메카. ㊥ 지구에 다가오는 소행성에서 출현하여 게슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00016/Sheet1/000006",
+      "sourceBindingSha256": "f818321e618732d664e9002a030a18f280004c0de4c7c0aaa3b0fe238290fcd2",
+      "sourceTextSha256": "fd43ae020be41699abf0dc314e26448d88e01c0e08bd3e5df94d3490b0822b28",
+      "freshTranslation": "루트의 스냅퍼와 너커의 조종으로 ㊥ 크러셔대를 공격했다. ㊥ 머리에서 뇌파 차단 광선으로 오신 로보의 호출을 방해. 갓마즈에 합체㊥할 수 없는 가이어를 몰아넣었다. ㊥ 그러나 갑자기 나타난 장미의 기사의 공격에 의해 머리에 공격을 받고 뇌파 차단 광선은 ㊥ 끊어져 버린다. 갓 마즈에의 합체를 용서한 뒤는 순식간에 파괴되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00016/Sheet1/000007",
+      "sourceBindingSha256": "1c5150069ee5fc7c6a2de2e63f226c3e439d751f90e9543a31653ad35e98dc9d",
+      "sourceTextSha256": "1ec10e1977a95777a224cf79fa49348f8cdf2730edaeecb8e43f33a21de66cee",
+      "freshTranslation": "제57화 『장미의 기사군은… ! 』에 등장한 전투 메카. ㊥ 지구에 다가오는 소행성에서 출현하여 게슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00016/Sheet1/000008",
+      "sourceBindingSha256": "b9ceff9dbb6e05224afe823b57bbeeaabb9d105030ad777a67d69a87a97a4394",
+      "sourceTextSha256": "fd43ae020be41699abf0dc314e26448d88e01c0e08bd3e5df94d3490b0822b28",
+      "freshTranslation": "루트의 스냅퍼와 너커의 조종으로 ㊥ 크러셔대를 공격했다. ㊥ 머리에서 뇌파 차단 광선으로 오신 로보의 호출을 방해. 갓마즈에 합체㊥할 수 없는 가이어를 몰아넣었다. ㊥ 그러나 갑자기 나타난 장미의 기사의 공격에 의해 머리에 공격을 받고 뇌파 차단 광선은 ㊥ 끊어져 버린다. 갓 마즈에의 합체를 용서한 뒤는 순식간에 파괴되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

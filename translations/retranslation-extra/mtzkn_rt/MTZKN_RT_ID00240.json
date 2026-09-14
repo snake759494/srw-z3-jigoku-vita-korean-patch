@@ -1,0 +1,203 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00240",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000002",
+      "sourceBindingSha256": "df5cc166d99f96bf92a85c500e658fd25dd078c749d45ce5e2e5dc84c2a72b05",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000003",
+      "sourceBindingSha256": "ddc6328509c2ec405f81537c4b4bea32d21f59b0b494bc8b1b5fb29cd33bac49",
+      "sourceTextSha256": "09ea11c3764780755a85f27fe16c58a6e6dc985c07402a5827d7e2ec8b5d8bb1",
+      "freshTranslation": "솔라 아쿠에리온",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000004",
+      "sourceBindingSha256": "72281389952ddceed34426317be42eb34d2fad037bdf2f8ca417bbb855d5fed2",
+      "sourceTextSha256": "09ea11c3764780755a85f27fe16c58a6e6dc985c07402a5827d7e2ec8b5d8bb1",
+      "freshTranslation": "솔라 아쿠에리온",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000005",
+      "sourceBindingSha256": "ea02435bfcbd8e9a344db8ae587986fd21706e8b7d6bd2e441f1ba8258a9744e",
+      "sourceTextSha256": "36e0329789e49c8b8ff08e429d78bf73f6a9b3f978e2a4d15ef774b63c249d28",
+      "freshTranslation": "2만 4000년 전, 아폴로니아스가 대타천 천용으로 만들어낸 기계 천사. 신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000006",
+      "sourceBindingSha256": "5f7aa92f4bf87120422abc984a143d44d3db405d6ff8b22b10a20d1e3e27bb8d",
+      "sourceTextSha256": "7527fefdd91eb068a385a467c4783cf3ff8606fa2822a2d5405e4e0f0250baed",
+      "freshTranslation": "악㊥엘리온이라고도 불린다.㊥3대의 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000007",
+      "sourceBindingSha256": "2ba398cfdc75d9420544ad4fb5c509f6e052e73e0693279b23e2a284b236b303",
+      "sourceTextSha256": "fe4fbd66095b99eacd8800cc0466f5b0a48bcc9ced2fb083cd31e1f536dc2b46",
+      "freshTranslation": "- 기계가 합체하는 것으로, 3 종류의 형태로의 변형이 가능. 그 구성 순서 ㊥에 의해 완성 후의 형태와 능력은 크게 변화한다. ㊥ 태양 아쿠아리온은 베크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000008",
+      "sourceBindingSha256": "303546a5a7ac73a5dd36b190ce1bb6624b7f193af4dc0f173bf65e5f9e766ca1",
+      "sourceTextSha256": "84d8038d69064a23aa03df20741d2a37727f092fc986965b0ac01c331af5fcd5",
+      "freshTranslation": "- 솔이 상체를, 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000009",
+      "sourceBindingSha256": "7f08e3c2391b2b83fd2f4f3935714d1108483ed6085a32cab76ab1c7bc38161e",
+      "sourceTextSha256": "fa090f7998417e63c871984cb4017c4bbeb63adf6d387b4ff41c0252ec29b56e",
+      "freshTranslation": "루마스가 하체를, 베㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000010",
+      "sourceBindingSha256": "b93ca2e3817a485d3b971d3eeaf6a2582a2915b4dc161a8cd2f1e4ea856fc67d",
+      "sourceTextSha256": "b9e5ccb5aa81c0d4b019f2c41969728f57563bd67c423dadc4378e5e5ce0eebd",
+      "freshTranslation": "루나가 백을 구성한다. ㊥레드를 기조로 한 컬러링과 태양을 모티브로 한 머리 부분이 특징으로 양 어깨와 ㊥ 양 스네에 생체 에너지 및 고차원 양자력을 증폭시키는 파워 스톤이 장착되어 ㊥있다. ㊥1 만 2000 년 전의 싸움 끝에 세상을 붕괴로부터 구하기 위해 사람의 기둥이되어 잠에 ㊥ 있었지만, 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000011",
+      "sourceBindingSha256": "dfcb50f7f62d0565a02c6d046ef3cdd39cf4daede73d5bfbe56770afd1dab3d7",
+      "sourceTextSha256": "019a645b5d1d929a1643122220501a6799e974c2435aab99e441b98507dc530f",
+      "freshTranslation": "그리고 카구라의 전투에 반응하여 부활. 황금빛으로 빛나는 모습이 되어 두 사람 앞에 ㊥ 출현했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000012",
+      "sourceBindingSha256": "4439d03532548641a852cf98c7a8617020e58e7f22c89ed5a8a258b90c6a0968",
+      "sourceTextSha256": "36e0329789e49c8b8ff08e429d78bf73f6a9b3f978e2a4d15ef774b63c249d28",
+      "freshTranslation": "2만 4000년 전, 아폴로니아스가 대타천 천용으로 만들어낸 기계 천사. 신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000013",
+      "sourceBindingSha256": "a8bb09945bf1da4473673a7bcb36ebe8c669a8b963927660bd15913d10b44a57",
+      "sourceTextSha256": "7527fefdd91eb068a385a467c4783cf3ff8606fa2822a2d5405e4e0f0250baed",
+      "freshTranslation": "악㊥엘리온이라고도 불린다.㊥3대의 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000014",
+      "sourceBindingSha256": "8ef2547cbcb7dd6a50b55d73d1ecb88d57dbde69daf26a09d25f86d0210d8acf",
+      "sourceTextSha256": "fe4fbd66095b99eacd8800cc0466f5b0a48bcc9ced2fb083cd31e1f536dc2b46",
+      "freshTranslation": "- 기계가 합체하는 것으로, 3 종류의 형태로의 변형이 가능. 그 구성 순서 ㊥에 의해 완성 후의 형태와 능력은 크게 변화한다. ㊥ 태양 아쿠아리온은 베크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000015",
+      "sourceBindingSha256": "259421a1ae00bd1e519026b1d43fca3104679933bee52f094fe874b4bce11bed",
+      "sourceTextSha256": "84d8038d69064a23aa03df20741d2a37727f092fc986965b0ac01c331af5fcd5",
+      "freshTranslation": "- 솔이 상체를, 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000016",
+      "sourceBindingSha256": "b3ee53d469ab3c0d749f10d35316c9090198448ad9723c2da756a4a4e3527465",
+      "sourceTextSha256": "fa090f7998417e63c871984cb4017c4bbeb63adf6d387b4ff41c0252ec29b56e",
+      "freshTranslation": "루마스가 하체를, 베㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000017",
+      "sourceBindingSha256": "2b83db92d827c2a4844b5221b2f00e8059c958c50896285ce2a94aed8a28a9ee",
+      "sourceTextSha256": "b9e5ccb5aa81c0d4b019f2c41969728f57563bd67c423dadc4378e5e5ce0eebd",
+      "freshTranslation": "루나가 백을 구성한다. ㊥레드를 기조로 한 컬러링과 태양을 모티브로 한 머리 부분이 특징으로 양 어깨와 ㊥ 양 스네에 생체 에너지 및 고차원 양자력을 증폭시키는 파워 스톤이 장착되어 ㊥있다. ㊥1 만 2000 년 전의 싸움 끝에 세상을 붕괴로부터 구하기 위해 사람의 기둥이되어 잠에 ㊥ 있었지만, 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00240/Sheet1/000018",
+      "sourceBindingSha256": "b1ed2123e2980a17d36cc4f49f5e2fb340b117f85ec7817a10f1d6ffd4429e46",
+      "sourceTextSha256": "83fba0ee08922030e479db65256a4cad77acac98abaa22a70f07d1833940878b",
+      "freshTranslation": "그리고 카구라의 전투에 반응하여 부활. 황금빛으로 빛나는 모습이 되어 두 사람 앞에 ㊥ 출현했다. ㊥ 카구라와 미코노, 제시카에 의해 깨어나지만, 미카게에게 빼앗겨 고대 ㊥AQ로 변화되어 버렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00021",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00021/Sheet1/000002",
+      "sourceBindingSha256": "2041530e0ce238518c02fa842d685add749e41bbea8543aebd41f51fe2bbc971",
+      "sourceTextSha256": "e50c96e063d61d411be6c59728b9a9d96c48f796ad4cc146cfacba73c896241f",
+      "freshTranslation": "파이어 버그",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00021/Sheet1/000003",
+      "sourceBindingSha256": "ab33597b2fdb946b4f6310d3d5f3d15980f095d40324b6d7c6b57b057f91a6af",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00021/Sheet1/000004",
+      "sourceBindingSha256": "743f1838de58b2307916b2456f25648ca4bac53effa6f4d54aafa6b3b7620e33",
+      "sourceTextSha256": "3522183a8ebbb5f087d70bf2e640446d9fdfab78ed7f6e22e6d3652cb795106e",
+      "freshTranslation": "ADW 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00021/Sheet1/000005",
+      "sourceBindingSha256": "c952e362b0e84e80036098641f52f436d98b3ff228e0883a6987d0e2d526e1da",
+      "sourceTextSha256": "3f360b40592cccec181a079546bf8750840f7504e7027eea5bbef244301e1e7d",
+      "freshTranslation": "니어 유니온 군의 특수 부대. ㊥ '방화마'의 이름대로 각지 분쟁의 비합법적인 화부역으로서 다양한 전쟁의 ㊥ 뒤에 그 그림자가 있었다. 어려운 임무를 달성하기 위해, 대원 한사람 한사람은 고도의 첩보㊥ 능력과 기동 무기 조종 기술을 가지고 있다. ㊥ 그러나 점차 대원들은 폭주를 시작하고 중반 탈주하는 형태로 군을 빠진다. ㊥ 현재 남아 있는 대원들은 전장에서만 살아갈 수 있고, 전쟁을 최고의 ㊥ 놀이라고 생각하거나 하는 등 인격 이상자 투성이지만, 전원이 대장의 마릴린 ㊥ 캣에 심취에 가까운 충성을 맹세했다. ㊥군을 제대한 뒤에는 마릴린을 중심으로 용병으로 활동하고, 재세전쟁에서는 성인㊥사라움 왕국에 고용되어 싸웠다. ㊥ 마릴린을 잃은 현재 남은 대원들은 용병으로 활동을 계속하지만, ㊥정도의 기세도 없고, 그 실적도 악명도 과거의 것이 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00021/Sheet1/000006",
+      "sourceBindingSha256": "f830d68bbcde0cf096c45aed3cf5f6091621662bf65967ee2231208609e753ac",
+      "sourceTextSha256": "3522183a8ebbb5f087d70bf2e640446d9fdfab78ed7f6e22e6d3652cb795106e",
+      "freshTranslation": "ADW 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00021/Sheet1/000007",
+      "sourceBindingSha256": "9277f41ed1c8a1d505bb0ea2753221a69badbd99da2ab72d6d70f6e6b3701b9b",
+      "sourceTextSha256": "3f360b40592cccec181a079546bf8750840f7504e7027eea5bbef244301e1e7d",
+      "freshTranslation": "니어 유니온 군의 특수 부대. ㊥ '방화마'의 이름대로 각지 분쟁의 비합법적인 화부역으로서 다양한 전쟁의 ㊥ 뒤에 그 그림자가 있었다. 어려운 임무를 달성하기 위해, 대원 한사람 한사람은 고도의 첩보㊥ 능력과 기동 무기 조종 기술을 가지고 있다. ㊥ 그러나 점차 대원들은 폭주를 시작하고 중반 탈주하는 형태로 군을 빠진다. ㊥ 현재 남아 있는 대원들은 전장에서만 살아갈 수 있고, 전쟁을 최고의 ㊥ 놀이라고 생각하거나 하는 등 인격 이상자 투성이지만, 전원이 대장의 마릴린 ㊥ 캣에 심취에 가까운 충성을 맹세했다. ㊥군을 제대한 뒤에는 마릴린을 중심으로 용병으로 활동하고, 재세전쟁에서는 성인㊥사라움 왕국에 고용되어 싸웠다. ㊥ 마릴린을 잃은 현재 남은 대원들은 용병으로 활동을 계속하지만, ㊥정도의 기세도 없고, 그 실적도 악명도 과거의 것이 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

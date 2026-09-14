@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00025",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00025/Sheet1/000002",
+      "sourceBindingSha256": "63865946681ca1fa970fe9fda110f66529a77c0f314e37be57c5f9d597513378",
+      "sourceTextSha256": "095aa56eab1e8a38be44b7470675dbd3bb01e8bb6134a3c94d5e531e65a3923a",
+      "freshTranslation": "장갑 기병 하의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00025/Sheet1/000003",
+      "sourceBindingSha256": "5e07c81e9690a10e77afe8fd2627fbd1f59d4b4c7313199b3805733763fb0698",
+      "sourceTextSha256": "ad7162991ff7bfdb4bcf5d060dd051076c4f1d4d163f271ecb08c36cf87794a3",
+      "freshTranslation": "스카라베",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00025/Sheet1/000004",
+      "sourceBindingSha256": "b0cfff7cd3ea015d6399d9275f840d34eea67ad8a948220854c2e3150cc542f6",
+      "sourceTextSha256": "ad7162991ff7bfdb4bcf5d060dd051076c4f1d4d163f271ecb08c36cf87794a3",
+      "freshTranslation": "스카라베",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00025/Sheet1/000005",
+      "sourceBindingSha256": "7c340a456d1bde47741ee307bb5798100a28370df2ec740f1277966ec06f8039",
+      "sourceTextSha256": "e96c909657246ef44513aa4b655ac2bca283abffc962d8d81a822e0aa5aaf17d",
+      "freshTranslation": "발라란트군이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00025/Sheet1/000006",
+      "sourceBindingSha256": "431ac44e86175af8d6322076c3848af46207e9d1b8545e5b07c200eb7dccf8fe",
+      "sourceTextSha256": "8dc193dd55458a78ddcc24639ffc3c60ac5c615a324806f607e4c36c01193bae",
+      "freshTranslation": "사용할 장륜식 대 AT 소",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00025/Sheet1/000007",
+      "sourceBindingSha256": "1f317ac1db46dfac7908beb783493fb8f19d57e2c9dbb64addbaba1b1d1c3c39",
+      "sourceTextSha256": "f3cf798037c036abd4a20b816bd9ae8be2547006fc09d602a3245961445db6be",
+      "freshTranslation": "장갑차. ㊥37mm 연장포에 의한 전투나 지원, 병원",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00025/Sheet1/000008",
+      "sourceBindingSha256": "1ee3d91666a7cae0b16e51b251fc2b85cd586e2532531957732e560b2826fba6",
+      "sourceTextSha256": "776440ea1165a660ffdbec8fe22a3e198b4aacdf6d685c884823d58c0abc3ae3",
+      "freshTranslation": "전송과 같은 다양한 용도로 사용됩니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00025/Sheet1/000009",
+      "sourceBindingSha256": "f70d25ddb42fe2d37f58fd573f09d201a852ff33bc913ee8332b06f63f81ee49",
+      "sourceTextSha256": "e96c909657246ef44513aa4b655ac2bca283abffc962d8d81a822e0aa5aaf17d",
+      "freshTranslation": "발라란트군이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00025/Sheet1/000010",
+      "sourceBindingSha256": "c1b62894c9fa2d312462752cc1e44f761f05f9f3d448dc0dabfc0b8c679eb7e1",
+      "sourceTextSha256": "8dc193dd55458a78ddcc24639ffc3c60ac5c615a324806f607e4c36c01193bae",
+      "freshTranslation": "사용할 장륜식 대 AT 소",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00025/Sheet1/000011",
+      "sourceBindingSha256": "0426d054af7da6279d610d5e3537492be174488d95f14c29b576fd61cb5ec231",
+      "sourceTextSha256": "f3cf798037c036abd4a20b816bd9ae8be2547006fc09d602a3245961445db6be",
+      "freshTranslation": "장갑차. ㊥37mm 연장포에 의한 전투나 지원, 병원",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00025/Sheet1/000012",
+      "sourceBindingSha256": "30de3ca754d23ce6a14f3ebd323b039f39c7c1a18f9f5ca456db797b4883a5ff",
+      "sourceTextSha256": "776440ea1165a660ffdbec8fe22a3e198b4aacdf6d685c884823d58c0abc3ae3",
+      "freshTranslation": "전송과 같은 다양한 용도로 사용됩니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

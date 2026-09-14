@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00070",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00070/Sheet1/000002",
+      "sourceBindingSha256": "43949625b6437a6c5197f19894cde6df5ed0c12cf0bfe89f0f1cb1239ddeffed",
+      "sourceTextSha256": "3315ef82ebd30cf7369a303f2ac2f2f4b05a3a37a8876c2b1fdc94b84f0dfbb1",
+      "freshTranslation": "마티알",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00070/Sheet1/000003",
+      "sourceBindingSha256": "d19361c2d705a8616c11f74030afb65ca380773820e9b68c2c355e8d8a5ef410",
+      "sourceTextSha256": "daa8e2c28b371afcecc977c2a6b49ed831c79da4d8e164e6fdc4f57b539927ac",
+      "freshTranslation": "「장갑 기병 보텀스 사타루 이단」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00070/Sheet1/000004",
+      "sourceBindingSha256": "f6644bfff19da638dd69e1549592b2bf11afd9069fc13a99404f90c95c98afea",
+      "sourceTextSha256": "280464777afca71333a756036fdff1c4ab98c014cd1733dd531b9dc2b3d3d696",
+      "freshTranslation": "「싸움이야말로 만물의 원리」를 교리로 하는 범은하 종교 결사. ㊥ 길가메스, 발라란트 양진영에 걸쳐 널리 믿어지고 있다. 특히 군인㊥의 경우 무공이 그대로 마티알 내의 계위와 직결되어 있으며 열심한 신자가 ㊥ 다수 존재하고 있다. ㊥ 그 모든 것을 묶는 것이 법황이며 큰 권력을 가진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00070/Sheet1/000005",
+      "sourceBindingSha256": "1da6be465530bab5e0151f5d0536672f4357a57a445be82c19ab55a09f12d1ac",
+      "sourceTextSha256": "05ecd2f391445cdaf91c9e5de0da7048312de92f0f634379d8d80e7713901d24",
+      "freshTranslation": "「싸움이야말로 만물의 원리」를 교리로 하는 범은하 종교 결사. ㊥ 길가메스, 발라란트 양진영에 걸쳐 널리 믿어지고 있다. 특히 군인㊥의 경우 무공이 그대로 마티알 내의 계위와 직결되어 있으며 열심한 신자가 ㊥ 다수 존재하고 있다. ㊥ 그 모든 것을 묶는 것이 법황이며 큰 권력을 가진다. ㊥ 누구에게도 굴하지 않고, 와이즈만조차 묻힌 키리코 큐비에 관해서는, ㊥ 「접할 수 없는 사람」이라고 인정해, 수출을 하지 않는 것을 결정하고 있었다. 그러나 몬테 ㊥ = 웰스 추기경은 차기 법황선의 어필 때문에 딸 테이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00070/Sheet1/000006",
+      "sourceBindingSha256": "2eee085a06f0542b9777f7f6abcc20a582ed8e2dff06194acbacaf5c58d998ac",
+      "sourceTextSha256": "88e97650a6299464edcf199688bdddcf023a0f54e904b544ab7c004eff77ad3f",
+      "freshTranslation": "니어에게 키리코의 말㊥살을 명령해, 이것이 마티알의 권위를 실추시키는 사건의 계기가 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

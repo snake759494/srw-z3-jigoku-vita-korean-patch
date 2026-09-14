@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00090",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00090/Sheet1/000002",
+      "sourceBindingSha256": "dfec46299e789f4e4dd203a8d5b7f8bdaabe5d7a5413ebb3d6b3fec24d635577",
+      "sourceTextSha256": "bd97a5d4cbe761a7ebd13bc50c263324b082166649adb4a12a3e003acfe38fe6",
+      "freshTranslation": "신 아스카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00090/Sheet1/000003",
+      "sourceBindingSha256": "060abbc4263abd80e07e3424f496ea3c767fbd2d4457ed75e35fbd3b5a341d3d",
+      "sourceTextSha256": "fc7931c25e37b8b170dced5d7d48995dd0fb0a34946fbea7c5f3298dafcf5423",
+      "freshTranslation": "신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00090/Sheet1/000004",
+      "sourceBindingSha256": "4479bd043af40fe47dfe1b3a1b79206559dcdb75ec676d53171d7d64db310a60",
+      "sourceTextSha256": "15a2e664e80fef55f49873f69b656b86b230b630d2bdafde619513e324977069",
+      "freshTranslation": "기동전사 건담 SEEDDESTINY",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00090/Sheet1/000005",
+      "sourceBindingSha256": "d58e66cf7fbad31c82d627cbb41cc5acbbf09d770b237e6195b57796387cebdc",
+      "sourceTextSha256": "3f0a4f18f2e72b3100c5e184d8c0402a99a6130b28390137fd05683ab042102f",
+      "freshTranslation": "스즈무라 켄이치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00090/Sheet1/000006",
+      "sourceBindingSha256": "fbc230b243efb167ba55edbcec3f58e2134cab4c94d362fe713ac9a65da7014f",
+      "sourceTextSha256": "f66117f73229cdbe575a2e3f300de441def33d37009774618ab86934e86f3830",
+      "freshTranslation": "자프트의 미네르바 소속의 모빌 슈트 파일럿. 16세. ㊥ 출생도 자라도 오브로, 가족과 함께 전쟁을 모르고 평화롭게 지내고 있었다. 하지만 전㊥대전에서 지구연합군의 오브 침공 때 눈앞에서 부모와 여동생을 한 번에 잃고 있다. ㊥ 곧 오브의 군인 토다카의 추천으로 플랜트에 이주해, 「소중한 것을 지키기 위해 ㊥에는 힘이 필요하다」라고 생각해 자프트에 입대. 우수한 성적으로 아카데미를 졸업하고, 엘리트㊥파일럿의 간증인 적복을 착용하기까지 되었다. 이러한 경위로부터인가, 쾌활㊥이면서도 매우 나이브인 면이 있어, 공격성이 강하게 표에 나오는 일이 있다. ㊥ 숨겨진 힘을 듀란달에 기대되어 최신예 기체인 임펄스 건담의 파㊥이롯으로 선정된다. 그리고 세컨드 스테이지의 건담 3대가 강탈되면 그 ㊥을 빼앗기 위해 출격했다. ㊥ 당초에는 실전 경험이 부족한 것도 있어, 그다지 전과는 들 수 없었지만, ㊥ 이윽고 반복되는 전투와 죽음에의 반발로부터 SEED를 발현시킨다. 이후는 사자분신의 ㊥ 활약을 보여 에이스로 성장해 갔다. 아스란의 일은 존경하면서도, 어딘가 끓여 ㊥ 안타까운 태도에 분노를 부딪치는 일도 자주였다. ㊥ 스텔라를 둘러싼 전투에서 키라를 원수로 인식하고 키라와 프리덤 건담을 격추한다. ㊥ 또한 듀란달에서 벗어난 아스란을 격추하고 이를 계기로 데스티니 건㊥댐",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00090/Sheet1/000007",
+      "sourceBindingSha256": "ca2b82f258e2ff72e46e97fe416958abde85cd2a952220043d92d1ecf57ae41c",
+      "sourceTextSha256": "7aa10757c1db3ff551b206ed3762aa4f96f32ed024ad91e2885a820706be29ff",
+      "freshTranslation": "예, 특무대 FAITH의 일원으로 임명되는 등 꾸준히 듀란달의 ㊥ 첨병으로 되어 갔다. ㊥ 최종 결전 때에도 아스란의 설득을 받지만, 어쨌든 싸움을 계속한다. 착란의 아㊥마리, 마음을 다루고 있던 루나마리아에게조차 공격을 가할 것 같지만, 아와야와 ㊥ 이런 곳을 아스란에 격추되어 환상 속에서 스텔라와 재회. 루나마리아의 무릎에 ㊥ 일어나 눈물 속에서 싸움의 종말을 맞이했다. ㊥ '파이널 플러스'에서 추가된 후일담에서는 오브의 위령비를 방문했을 때 2번 ㊥째가 되는 키라와의 대면을 한다. 그리고 평화를 유지하는 싸움을 함께 계속하겠다는 맹세㊥의 악수를 나누었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00090/Sheet1/000008",
+      "sourceBindingSha256": "8f5c18aae572b82c8e3b0404db09ff046862dd735271a70b781adb137af9c19b",
+      "sourceTextSha256": "f66117f73229cdbe575a2e3f300de441def33d37009774618ab86934e86f3830",
+      "freshTranslation": "자프트의 미네르바 소속의 모빌 슈트 파일럿. 16세. ㊥ 출생도 자라도 오브로, 가족과 함께 전쟁을 모르고 평화롭게 지내고 있었다. 하지만 전㊥대전에서 지구연합군의 오브 침공 때 눈앞에서 부모와 여동생을 한 번에 잃고 있다. ㊥ 곧 오브의 군인 토다카의 추천으로 플랜트에 이주해, 「소중한 것을 지키기 위해 ㊥에는 힘이 필요하다」라고 생각해 자프트에 입대. 우수한 성적으로 아카데미를 졸업하고, 엘리트㊥파일럿의 간증인 적복을 착용하기까지 되었다. 이러한 경위로부터인가, 쾌활㊥이면서도 매우 나이브인 면이 있어, 공격성이 강하게 표에 나오는 일이 있다. ㊥ 숨겨진 힘을 듀란달에 기대되어 최신예 기체인 임펄스 건담의 파㊥이롯으로 선정된다. 그리고 세컨드 스테이지의 건담 3대가 강탈되면 그 ㊥을 빼앗기 위해 출격했다. ㊥ 당초에는 실전 경험이 부족한 것도 있어, 그다지 전과는 들 수 없었지만, ㊥ 이윽고 반복되는 전투와 죽음에의 반발로부터 SEED를 발현시킨다. 이후는 사자분신의 ㊥ 활약을 보여 에이스로 성장해 갔다. 아스란의 일은 존경하면서도, 어딘가 끓여 ㊥ 안타까운 태도에 분노를 부딪치는 일도 자주였다. ㊥ 스텔라를 둘러싼 전투에서 키라를 원수로 인식하고 키라와 프리덤 건담을 격추한다. ㊥ 또한 듀란달에서 벗어난 아스란을 격추하고 이를 계기로 데스티니 건㊥댐",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00090/Sheet1/000009",
+      "sourceBindingSha256": "e179d604222a3099154c5515f4d6b5107ec5bf20df28d01bfd4b1e5f1d5c4586",
+      "sourceTextSha256": "7aa10757c1db3ff551b206ed3762aa4f96f32ed024ad91e2885a820706be29ff",
+      "freshTranslation": "예, 특무대 FAITH의 일원으로 임명되는 등 꾸준히 듀란달의 ㊥ 첨병으로 되어 갔다. ㊥ 최종 결전 때에도 아스란의 설득을 받지만, 어쨌든 싸움을 계속한다. 착란의 아㊥마리, 마음을 다루고 있던 루나마리아에게조차 공격을 가할 것 같지만, 아와야와 ㊥ 이런 곳을 아스란에 격추되어 환상 속에서 스텔라와 재회. 루나마리아의 무릎에 ㊥ 일어나 눈물 속에서 싸움의 종말을 맞이했다. ㊥ '파이널 플러스'에서 추가된 후일담에서는 오브의 위령비를 방문했을 때 2번 ㊥째가 되는 키라와의 대면을 한다. 그리고 평화를 유지하는 싸움을 함께 계속하겠다는 맹세㊥의 악수를 나누었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

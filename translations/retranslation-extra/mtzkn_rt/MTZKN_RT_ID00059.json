@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00059",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00059/Sheet1/000002",
+      "sourceBindingSha256": "feae2206cd08cf141c2d386575d7c5de3d3a6dcd5b833a329a22c6b2c22b38aa",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00059/Sheet1/000003",
+      "sourceBindingSha256": "35dd946f06cb6d7ae92a6a84975c9c7afc3f4810ff322ad4902c1989ec74ae5f",
+      "sourceTextSha256": "2e56a38e2d528bb8ba593292a0c7ca165b0755e185d3c07b2bf0fbe4b66496de",
+      "freshTranslation": "알트론 건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00059/Sheet1/000004",
+      "sourceBindingSha256": "2b9489c9ceb372a4029e535e21481dc9e845b23ffc2353d85bdf453c2010d5ad",
+      "sourceTextSha256": "2e56a38e2d528bb8ba593292a0c7ca165b0755e185d3c07b2bf0fbe4b66496de",
+      "freshTranslation": "알트론 건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00059/Sheet1/000005",
+      "sourceBindingSha256": "7ba1cbededd63b20295a93df4e735b4015ea95f2358037ee9f73b19e9d88bd76",
+      "sourceTextSha256": "641592d3c23eef291adc4fc96933beb6ec18203d51dcaa4b23f48b75ce70e747",
+      "freshTranslation": "張五飛",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00059/Sheet1/000006",
+      "sourceBindingSha256": "4c7326eb3f8067a6e8a478253dfb283255d9fdc21e103f6bd784e9cf3979e059",
+      "sourceTextSha256": "f48a369b44b212e9114d0d2e7199c335bb374ab7dfc6617949c4fc8cd0101784",
+      "freshTranslation": "오비의 탑승하는 건담. ㊥ 격투전에 특화된 기체로 뛰어난",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00059/Sheet1/000007",
+      "sourceBindingSha256": "a33a3e49a2c29d0ac0c3c8dbe1f87c179ee5a446b1fecc20548e1fb573a26b4b",
+      "sourceTextSha256": "3ae072ef34bfdbfbb6df0ba09bf512850662384554265d4d3fdb7ce9393a5fb7",
+      "freshTranslation": "동성능을 가진다. ㊥휴대용 무기는 빔 트라이던트 밖에 가지지 않고, 극단적인까지 격투전에 특화되어 ㊥하지만, 양팔에 장비된 드래곤 행을 사용하는 것으로 중거리의 전투도 가능해진다. 「쌍㊥두룡」의 이름을 구현하는, 이 무기는, 자유자재로 신축시킬 수 있는 데다 정사각형의 파㊥트가 연결한 다중 관절에 의해, 플렉시블한 공격을 내보내는 것이 가능하다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00059/Sheet1/000008",
+      "sourceBindingSha256": "138717a97a1965c8aeadf820fbe93f635b0986c73a41b0aee38a5fb024359f7d",
+      "sourceTextSha256": "f48a369b44b212e9114d0d2e7199c335bb374ab7dfc6617949c4fc8cd0101784",
+      "freshTranslation": "오비의 탑승하는 건담. ㊥ 격투전에 특화된 기체로 뛰어난",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00059/Sheet1/000009",
+      "sourceBindingSha256": "7a32cbe2ed9e027ba0f857efcedfe74f329444d6337d3a91089a95acc312eaeb",
+      "sourceTextSha256": "0814adb9a87ea041edce725fbb4a347bca013e42073a59cbfa1677900b3546da",
+      "freshTranslation": "동성능을 가진다. ㊥휴대용 무기는 빔 트라이던트 밖에 가지지 않고, 극단적인까지 격투전에 특화되어 ㊥하지만, 양팔에 장비된 드래곤 행을 사용하는 것으로 중거리의 전투도 가능해진다. 「쌍㊥두룡」의 이름을 구현하는, 이 무기는, 자유자재로 신축시킬 수 있는 데다 정사각형의 파㊥트가 연결한 다중 관절에 의해, 플렉시블한 공격을 내보내는 것이 가능하다. ㊥ 마리메이어군에 속해 히이로들 앞에 막혔지만 반란진압 후 오비 자신의 ㊥ 손으로 폐기됐다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

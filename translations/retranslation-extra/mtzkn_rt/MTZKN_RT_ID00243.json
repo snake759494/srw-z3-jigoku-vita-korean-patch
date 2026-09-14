@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00243",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00243/Sheet1/000002",
+      "sourceBindingSha256": "423d901e4695f6be1d4d780b0ee9b0d31fdc97df6f12037b67971882e8fe94ba",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00243/Sheet1/000003",
+      "sourceBindingSha256": "430590e023ab98c1b34ae4e7e6b470b8a6f55c2f74e3bb9621151af456496b00",
+      "sourceTextSha256": "427be0f0eb6ec7c427fd6014667fdf82ce8b730bd8c87129d2226df69a628bb9",
+      "freshTranslation": "제니온 가이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00243/Sheet1/000004",
+      "sourceBindingSha256": "4fa8f81fd3ef098f71c9a5b7c540eef1b0ca8e8f1ccf299c22fd4e8973b78725",
+      "sourceTextSha256": "427be0f0eb6ec7c427fd6014667fdf82ce8b730bd8c87129d2226df69a628bb9",
+      "freshTranslation": "제니온 가이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00243/Sheet1/000005",
+      "sourceBindingSha256": "5347bfcebcab7bf6572c8be81cb2e49bb7fcc94166193be1f1caa5f9aea7f048",
+      "sourceTextSha256": "a36bd0f5391f66dd11e1e511ab7db21d9721834bd5a454aec7e6c44e92f9655c",
+      "freshTranslation": "제니온이 「GAI 모드」를 발동한 형태. ㊥ \"GAI\"는 \"GlitterArmamentInfinity\"의 약어로 ㊥이며, AG가 명명했다. ㊥ 그 존재는 에이전트의 AG에조차 알려지지 않았고, 처음 발동은 우연히 가까운 ㊥ 상황이었다. ㊥ 발동에는 탑승자의 정신 상태가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00243/Sheet1/000006",
+      "sourceBindingSha256": "7e35dc47b640af3d2fa8275c293d007db1789ea75b33c6fccfe7bb96f3c19e8a",
+      "sourceTextSha256": "c04657dc6cb8916391b0b845deec17a28bec8b5f98c164f590b34a0e9a3692d1",
+      "freshTranslation": "하고있다. 이것은 Jenion의 \"TS-DEM㊥\"ON\"이 단순한 차원 힘의 제어에 그치지 않고 탑승자의 감정과 의지를 감지하고,㊥라고 차원력을 끌어내는 모드, 소위 제2단계로 시프트시킬 필요가 있기 때문이라고 추측㊥측정되었습니다.㊥차원력을 동력원으로 사용하는데 머물렀던 제니온과 달리 GAI 모드㊥그러면 차원력의 최대 특징인 사건의 제어를 적극적으로 무장으로 전용하고 있다. 그 결㊥과연, 전투력은 제니온을 능가하고, 압도적인 파괴력을 자랑한다.㊥단점은 제2단계의 TS-DEMON이 인출한 차원력에 양적인 한계가 있다는 점에서,㊥현재는 1~2분 정도밖에 이 형태를 유지할 수 없다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00243/Sheet1/000007",
+      "sourceBindingSha256": "76989d7b557d7c391bf9ab9d57b1cbc709e2ab1072db52ae7b58c8644bcfc928",
+      "sourceTextSha256": "a36bd0f5391f66dd11e1e511ab7db21d9721834bd5a454aec7e6c44e92f9655c",
+      "freshTranslation": "제니온이 「GAI 모드」를 발동한 형태. ㊥ \"GAI\"는 \"GlitterArmamentInfinity\"의 약어로 ㊥이며, AG가 명명했다. ㊥ 그 존재는 에이전트의 AG에조차 알려지지 않았고, 처음 발동은 우연히 가까운 ㊥ 상황이었다. ㊥ 발동에는 탑승자의 정신 상태가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00243/Sheet1/000008",
+      "sourceBindingSha256": "d13ff230fd6c9bb20f9d8cf17cfc93e6e5bfcfef33402df696f6926996d4912d",
+      "sourceTextSha256": "e118521a098111fe3ed99ff3208a5c97af3a8c16ea002caead73b6dd978aa809",
+      "freshTranslation": "하고있다. 이것은 Jenion의 \"TS-DEM㊥\"ON\"이 단순한 차원 힘의 제어에 그치지 않고 탑승자의 감정과 의지를 감지하고,㊥라고 차원력을 끌어내는 모드, 소위 제2단계로 시프트시킬 필요가 있기 때문이라고 추측㊥측정되었습니다.㊥차원력을 동력원으로 사용하는데 머물렀던 제니온과 달리 GAI 모드㊥그러면 차원력의 최대 특징인 사건의 제어를 적극적으로 무장으로 전용하고 있다. 그 결㊥과연, 전투력은 제니온을 능가하고, 압도적인 파괴력을 자랑한다.㊥그 모습은 행성 제미나이에서 개발된 제미니어와 매우 유사하며, 어떤 관련㊥성이 엿보인다. AG는 이것을 '이동하는 쌍둥이'의 스피어를 빼앗기위한 의도적㊥수렴 진화(같은 성질을 가지는 것이, 형상도 닮아 가는 것)라고 표현했다. 스피어㊥리악",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00243/Sheet1/000009",
+      "sourceBindingSha256": "823380fd1666247f8847de6a312dde8f833532da7571941e5bfa99c478926550",
+      "sourceTextSha256": "d30dd4a757b3028e47bb2819225c3392e97905e57f5eb74011e00c995bfbbed0",
+      "freshTranslation": "-간에 밖에 일어날 수 없다고 생각되고 있던 스피어의 탈취가 일어난 일로부터도, ㊥본기의 개발 목적이 「이잡는 쌍둥이」의 스피어의 탈취에 있던 것은 확실시되고 ㊥한다. ㊥ 당초는 제2단계의 TS-DEMON이 인출한 차원력에 양적인 한계가 있었고, 1~㊥2분 정도밖에 이 형태를 유지할 수 없었다. 그러나 제미니어로부터 '이동하는 ㊥쌍둥이'의 스피어를 빼앗는 것으로, 이 문제는 해소되는 일이 되었다. 또한 탑승자의 리㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00243/Sheet1/000010",
+      "sourceBindingSha256": "153f0b63272369205e1495c0b9710ff9269292fa5d1209538804d83f7b55c58b",
+      "sourceTextSha256": "d2e115ce36bf5d8b45274ffd9aa85ee9ad2870452dac2ec106d810fb346ee314",
+      "freshTranslation": "-로서의 자질에 의해, TS-DEMON은 스피어를 제어해, 지금까지 이상㊥의 전투력을 가지게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00286",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00286/Sheet1/000002",
+      "sourceBindingSha256": "d65121cc8e7f85c6a51cae7a5e2200a5be4781a3591e0ec744bb75621c1e632e",
+      "sourceTextSha256": "1990e27a0390b946eb791efdfebebaf2085e76f029ccda9339b8eef31ca47c20",
+      "freshTranslation": "개빈 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00286/Sheet1/000003",
+      "sourceBindingSha256": "1c9d3f226a5195cff7894426ccab8b77bd3de1cb81844fc685503369dccd5072",
+      "sourceTextSha256": "ea76b26a3d5353e68c65f669931ea0410dc40e2cf05df38b611e7146f81bee62",
+      "freshTranslation": "한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00286/Sheet1/000004",
+      "sourceBindingSha256": "9dd036406a87eb6da17d868a8012420885c9894e8f2c6ecd91c94e0b242e9fbe",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00286/Sheet1/000005",
+      "sourceBindingSha256": "b28d228b90b55f83d8a47a5403b4b6759b2c6c9040d940e83894af2b8d38ae81",
+      "sourceTextSha256": "6cbead29f5f3666f5882c4fd6c0d7e56e8208850dd34efe1c72cd7834907e4e2",
+      "freshTranslation": "르 패닉! TheSecondRaid",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00286/Sheet1/000006",
+      "sourceBindingSha256": "10562a4eff8e6361476f8c3007eeed5aee87c75e6c1072373a042931cae207a8",
+      "sourceTextSha256": "b804c3370c1581433b4794540a4d72e7ec399d0e1b21bb621ce8ecccbb19637f",
+      "freshTranslation": "미스릴 정보부 홍콩 지국의 부원. ㊥ 외형은 정직한 직장인풍으로, 앞면은 무역상으로 활동하고 있다. ㊥종개들이 홍콩에서 활동할 때 작전에 필요한 정보와 물자를 제공했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00286/Sheet1/000007",
+      "sourceBindingSha256": "4da4fa22068b16fb1a16c1f753f012c580815d773b480b292aed437add0f8184",
+      "sourceTextSha256": "b804c3370c1581433b4794540a4d72e7ec399d0e1b21bb621ce8ecccbb19637f",
+      "freshTranslation": "미스릴 정보부 홍콩 지국의 부원. ㊥ 외형은 정직한 직장인풍으로, 앞면은 무역상으로 활동하고 있다. ㊥종개들이 홍콩에서 활동할 때 작전에 필요한 정보와 물자를 제공했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00217",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00217/Sheet1/000002",
+      "sourceBindingSha256": "ffc260cc718ca187856bc952e5d5f5f033a5ed13eea06c645f890c27d4881c79",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00217/Sheet1/000003",
+      "sourceBindingSha256": "a25f05e12f3f3747f75615e5df9393de000ed16d6f4f2e62567700342e8069fd",
+      "sourceTextSha256": "9f1aca489bc035e5ff83f7459000a29dd50f0aed61a75ade6ccaa44836f4b827",
+      "freshTranslation": "에반게리온 초호기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00217/Sheet1/000004",
+      "sourceBindingSha256": "7733c8a856fc542f763ba54661a39266ef4c642b84dcbfd199fa80262019a387",
+      "sourceTextSha256": "a8d1650a451a96d19ca8d59585b3e080bc9ab9f0dd3154eabd7d9e9654ff5d81",
+      "freshTranslation": "범용 인간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00217/Sheet1/000005",
+      "sourceBindingSha256": "07a1a735942a6725a70a3a9d8e976cb20d1ac4d77be527a9cb9e7ecbf070e45e",
+      "sourceTextSha256": "152bef1319107e076d50aff5ef1513732a9658ec53d5aa44a1cfa302425f2318",
+      "freshTranslation": "결전 무기 인조 인간 에반게리온 시험 초호기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00217/Sheet1/000006",
+      "sourceBindingSha256": "968414fb73cf44880ebe98e2181a04046855a34eebeb283e84037c657da2d205",
+      "sourceTextSha256": "c75e6b3d4a8437f222c11861a9da7bd3c00d2b75c940e80f2569e4a3d6339f5a",
+      "freshTranslation": "이카리 신지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00217/Sheet1/000007",
+      "sourceBindingSha256": "db6b59df74042e8e9e7bc6c1a8db5455e6368f0f8df75c308401478f50cc0a50",
+      "sourceTextSha256": "a8d1650a451a96d19ca8d59585b3e080bc9ab9f0dd3154eabd7d9e9654ff5d81",
+      "freshTranslation": "범용 인간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00217/Sheet1/000008",
+      "sourceBindingSha256": "606726dda2f168ef20900589c5a11156f351cfe787dd6c3e460ec9ae2e0fb261",
+      "sourceTextSha256": "bab8a93b91364a60c067df28e0624b39d1857dba00bdf777874bff444b19f513",
+      "freshTranslation": "결전 무기·인조 인간 에반게리온의 시험 초호기. ㊥EVA 시리즈는 사도에 대항 가능한 인류 유일한 무기이며 특무기관 NERV가 ㊥ 거비를 들여 개발·건조를 진행하고 있다. ㊥의 가장 큰 특징은 A. T. 필드를 전개시키는 능력에 있다. ㊥ 주동력은 뒷면의 앰빌리컬 케이블에서 공급되는 전력. 케이블이 단선되는 ㊥와 내장 전원으로 전환되지만 5분 만에 활동 한계에 이른다. ㊥초호기의 주요 무장으로서 근접 전투용 프로그레시브 나이프, 대구경 209mm 소㊥총, 휴대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00217/Sheet1/000009",
+      "sourceBindingSha256": "fa05db331d49baf43911e875e293616056b5c38d890b6c1cc1f3528023adffad",
+      "sourceTextSha256": "b3ab665d147a700351cf970d26db150ba8efe07507ca3a37a656aaeab78e700b",
+      "freshTranslation": "회전식 다포신 440mm 기관포 등을 사용한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00217/Sheet1/000010",
+      "sourceBindingSha256": "6c8f422da9a713115ff0ec6ac9758571610188e76a1fbe8ed395c65bedc8ef38",
+      "sourceTextSha256": "a8d1650a451a96d19ca8d59585b3e080bc9ab9f0dd3154eabd7d9e9654ff5d81",
+      "freshTranslation": "범용 인간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00217/Sheet1/000011",
+      "sourceBindingSha256": "ad846de78596d243dfc0a47ca9111fd3c01a36e9c736126c3aed465868827c6c",
+      "sourceTextSha256": "4889febb3f0051f8686ffb8261cac0f89e02fe1b08ce9d1783fc41c316b015c2",
+      "freshTranslation": "결전 무기·인조 인간 에반게리온의 시험 초호기. ㊥EVA 시리즈는 사도에 대항할 수 있는 인류 유일한 무기이며, 세계 각지의 NERV㊥이 거비를 들여 개발·건조를 진행하고 있다. ㊥의 가장 큰 특징은 A. T. 필드를 전개시키는 능력에 있다. \"AT\"와 ㊥은 \"ABSOLUTETERROR\"의 약자이며 사도가 전개하는 절대 불가침 영역 ㊥을 의미한다. EVA도 같은 능력을 갖춘 것으로, 상대의 필드를 침식해 코어 등 ㊥에의 공격을 처음으로 가능하게 하는 것이다. ㊥ 주동력은 뒷면의 앰빌리컬 케이블에서 공급되는 전력. 케이블이 단선되는 ㊥과 내장 전원으로 전환되지만 5분간 활동 한계에 이른다. ㊥초호기의 주요 무장으로서 근접 전투용 프로그레시브 나이프, 대구경 209mm 소㊥총, 휴대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00217/Sheet1/000012",
+      "sourceBindingSha256": "973ded0cde4008c1ad7ffb5b46b608435c5b94436d3666e809a64114423aafc4",
+      "sourceTextSha256": "8deca68fcb59c87ee32c4bc780c42330f83302df864282b626a8c1345ba90056",
+      "freshTranslation": "회전식 다포신 440mm 기관포 등을 사용한다. ㊥ 제9 사도와의 싸움에서는 제어를 더미 시스템으로 전환함으로써 통상 이후 ㊥ 상의 압도적인 힘으로 제9 사도가 된 EVA3호기를 철저히 파괴했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

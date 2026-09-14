@@ -1,0 +1,73 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0100a",
+    "fileName": "STG0100a.cpk",
+    "target": "DATA/STAGE/STG0100a.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "a515dbc5c976e9e4be0f3e5dd2934c50ea0c4b5153a63158c728ca1a033dc0d3"
+  },
+  "entries": [
+    {
+      "entryId": "STG0100a/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "시세이텐의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0100a/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "4턴을 맞이한다",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0100a/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0100a/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "이 시나리오는 SR포인트가 존재하지 않습니다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0100a/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "???",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

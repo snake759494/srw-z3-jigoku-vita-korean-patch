@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00178",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00178/Sheet1/000002",
+      "sourceBindingSha256": "988a3cd70993353af6583ff1faa5aad8f70aa0971e37ea56ffe3cf62c1e92f14",
+      "sourceTextSha256": "17678b5f0c786c5d4f595c79241f5b3dace84368d807342c05ca7623a1d110cd",
+      "freshTranslation": "제프리 와일더",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00178/Sheet1/000003",
+      "sourceBindingSha256": "bf074242999f232aa127d5fc9e603503973ac297cd64499b8949a8158c3699c5",
+      "sourceTextSha256": "5669cc977af82c0ee7dde2833e63534732b88cad1ddfb83da5227744cf2df97d",
+      "freshTranslation": "제프리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00178/Sheet1/000004",
+      "sourceBindingSha256": "9df4ce5c099a17db09f0ba8ad73bc8bdca867664b51beeee18d897d299edd7eb",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00178/Sheet1/000005",
+      "sourceBindingSha256": "5858bd00fa1ed7878c1d4a856889b34529ba27d7a69cc6d9054e6a78c30b0f37",
+      "sourceTextSha256": "f85c9845053b5d7a1d2402c2779ca244d9444e862a5aeb77e45b28e4a832e735",
+      "freshTranslation": "오카와 토오루",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00178/Sheet1/000006",
+      "sourceBindingSha256": "3e44275eed2f1b95005edd54c291fbf785bf46219e6c4058dfdea05374ed4943",
+      "sourceTextSha256": "001259e4df66017cfc7cbd161fd47353c73cc5a08e802c616fe2b85a312499d0",
+      "freshTranslation": "S. M. S의 기함 마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00178/Sheet1/000007",
+      "sourceBindingSha256": "af8325c69ac87c0c97edb5dcf282f39bb9522fd61fc5afb5362ac966ced11c98",
+      "sourceTextSha256": "e1b10ff38afa226ad798cfaf4deb459fb737fe5340e2d483845f2f988170de4a",
+      "freshTranslation": "의 함장. 계급은 대령. ㊥ 얼굴에 큰 고상을 가진 역전 용사. 원래는 파일럿으로 역대 통합군 주력 전투기에 ㊥ 탑승한 경험을 가진다. 차분한 허리와 때때로 보이는 유머, 묻어나는 관록으로 ㊥S. M. S의 멤버로부터는 전폭의 신뢰를 두고 있다. 그리고 승부소에서는 대담한 ㊥전법을 결행하는 호기스러운 일면도 있다. ㊥ 취미는 서핑.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00178/Sheet1/000008",
+      "sourceBindingSha256": "19e903ab09f9054011a6b856d92aa4dd17d9d726cd2a09d411587e3d10459b78",
+      "sourceTextSha256": "001259e4df66017cfc7cbd161fd47353c73cc5a08e802c616fe2b85a312499d0",
+      "freshTranslation": "S. M. S의 기함 마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00178/Sheet1/000009",
+      "sourceBindingSha256": "8ac0e37cb7a98565a49f12d6aa1e35db1aa0c6fe85287c55967367f1b13ac3ce",
+      "sourceTextSha256": "e1b10ff38afa226ad798cfaf4deb459fb737fe5340e2d483845f2f988170de4a",
+      "freshTranslation": "의 함장. 계급은 대령. ㊥ 얼굴에 큰 고상을 가진 역전 용사. 원래는 파일럿으로 역대 통합군 주력 전투기에 ㊥ 탑승한 경험을 가진다. 차분한 허리와 때때로 보이는 유머, 묻어나는 관록으로 ㊥S. M. S의 멤버로부터는 전폭의 신뢰를 두고 있다. 그리고 승부소에서는 대담한 ㊥전법을 결행하는 호기스러운 일면도 있다. ㊥ 취미는 서핑.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

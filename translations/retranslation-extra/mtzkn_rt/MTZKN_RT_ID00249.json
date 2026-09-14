@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00249",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00249/Sheet1/000002",
+      "sourceBindingSha256": "d1d2986789b88f7dc744d6a70da40f4acf15b4a5189f1f32d381140fc179d3c3",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00249/Sheet1/000003",
+      "sourceBindingSha256": "05111b7acf8220f66e93350d9ca559080442fbb6615467d432c8c55e4326dd81",
+      "sourceTextSha256": "ef05add0e73340d07bb5d909f19e88507f37c405127618831bfe03807546ac17",
+      "freshTranslation": "데이몬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00249/Sheet1/000004",
+      "sourceBindingSha256": "33340b668e4bd1a0977fbcc053465d46aa15aad8fa4bdbc78664f4c77cd1d10f",
+      "sourceTextSha256": "ef05add0e73340d07bb5d909f19e88507f37c405127618831bfe03807546ac17",
+      "freshTranslation": "데이몬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00249/Sheet1/000005",
+      "sourceBindingSha256": "8eebb263baa4a17952550b7eb24490261135ef28af2272224053ac00aefb906d",
+      "sourceTextSha256": "2659e2710a7437c4d314ba7871389eb5ccadf327c8d86a83a606125afa946d92",
+      "freshTranslation": "제미니스가 사용하는 양산 기동 무기. ㊥ 기본적으로 무인 항공기이며 AI에 의해 제어됩니다. ㊥ 언뜻 보면 화려한 외관이지만, 심플한 구조에 더해 탑승자의 안전성을 전혀 ㊥ 고려하지 않는 것에 의해 다소의 데미지는 무시할 수 있기 때문에 높은 내구력을 가진다. ㊥ 공격력은 안게로이에 비해 떨어지지만, 전술한 내구력과 양에 의한 전술에 의해, 가나㊥의 위협이 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00249/Sheet1/000006",
+      "sourceBindingSha256": "c2b0be505fbb73979a5a7b1e3fb0766c52e7cbb61e731650d8cd2ea00acd7bd4",
+      "sourceTextSha256": "85254a7650812b9315020bd9fa9c3e7f4f284e6b11c0963bc80c36466be00451",
+      "freshTranslation": "사이데리얼이 사용하는 양산 기동 무기. ㊥ 기본적으로 무인 항공기이며 AI에 의해 제어됩니다. ㊥ 언뜻 보면 화려한 외관이지만, 심플한 구조에 더해 탑승자의 안전성을 전혀 ㊥ 고려하지 않는 것에 의해 다소의 데미지는 무시할 수 있기 때문에 높은 내구력을 가진다. ㊥ 공격력은 안게로이에 비해 떨어지지만, 전술한 내구력과 양에 의한 전술에 의해, 가나㊥의 위협이 된다. ㊥ 안게로이와 달리, 부대별 컬러링의 차이는 보이지 않는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

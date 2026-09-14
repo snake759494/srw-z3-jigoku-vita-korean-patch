@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00085",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00085/Sheet1/000002",
+      "sourceBindingSha256": "19d7088173da3a23523b2ea366b1c1daed135c0f33494d768dbcc7dbc41e7e50",
+      "sourceTextSha256": "4ca8798ecfe489b8e9510ae5aca5be4fcedc90d8000a051f547e3cca1249e94c",
+      "freshTranslation": "데킴 바튼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00085/Sheet1/000003",
+      "sourceBindingSha256": "dcfd30d96e9380303deddc78741908018dd5bfba9e1baa822b064d313c209f89",
+      "sourceTextSha256": "ac93dac5a9c744e88b32ca444d48e22ee28f11d18134f204105084d43e8cb398",
+      "freshTranslation": "데킴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00085/Sheet1/000004",
+      "sourceBindingSha256": "2d9a22ebe03d15476f7235236ddc470aa5ff0ba64ce5b70a9eff99b8b053d278",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00085/Sheet1/000005",
+      "sourceBindingSha256": "76bb22f76a8cd015ac6bc3e53f1de726c1dc07e6f6268b89279764f04312b2ec",
+      "sourceTextSha256": "1a68595d8d3be1c972ed37291d1333249e7f7e4a2b6292ce325de54bd5bec87c",
+      "freshTranslation": "바튼 재단 총수로, 마리 메이아의 할아버지. ㊥재단의 총수로서 활동하는 한편, 뒤에서는 칸즈등 반항세력에 지원을 실시해, 오페㊥레이션·메테오의 계획을 진행하고 있던 그림자의 권력자. ㊥ 권력욕이 강한 인물이며, 마리 메이어를 상징으로, 전 화이트팡의 병사 ㊥나 트레이즈파의 잔당의 일부를 마리 메이어 군으로서 편성. ㊥ 무장을 포기하고 있는 지구권을 모빌슈트 부대에서 장악해, 그 지배를 눈에 띄는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00085/Sheet1/000006",
+      "sourceBindingSha256": "abe3167897fc893c8590f78d1a86ecd5ae22711a20c71856d4ee11e20f5ebb94",
+      "sourceTextSha256": "976fc3933211c9760fbda500488381a1b604702242cdb6dd54592cbba3ca86fb",
+      "freshTranslation": "바튼 재단 총수로, 마리 메이아의 할아버지. ㊥재단의 총수로서 활동하는 한편, 뒤에서는 칸즈등 반항세력에 지원을 실시해, 오페㊥레이션·메테오의 계획을 진행하고 있던 그림자의 권력자. ㊥ 권력욕이 강한 인물이며, 마리 메이어를 상징으로, 전 화이트팡의 병사 ㊥나 트레이즈파의 잔당의 일부를 마리 메이어 군으로서 편성. ㊥ 무장을 포기하고 있는 지구권을 모빌슈트 부대에서 장악해, 그 지배를 눈에 띄는다. ㊥ 그러나 건담 조종사와 헥스 프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00085/Sheet1/000007",
+      "sourceBindingSha256": "0c6609e22bc1c74259195ac63ca2388ec9ef8099848de05c187018462e497302",
+      "sourceTextSha256": "690227e3f39cd05c28c44478e50b721c66bcf305cd60c65983c5435289fa354c",
+      "freshTranslation": "-의 활약, 평화를 바라는 시민들㊥의 봉기에 의해 반란은 실패. 망집에 사로잡힌 데킴은 마리 메이어를 버렸다.㊥에서 야망을 실현하려고했지만, 부하인 전 트레이즈파의 청년 장교에 역적으로서 사살㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

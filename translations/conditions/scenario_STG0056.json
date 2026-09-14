@@ -1,0 +1,84 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0056",
+    "fileName": "STG0056.cpk",
+    "target": "DATA/STAGE/STG0056.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "6f5446259717ad34018f1f5e896f19307449c73bc2550f102f120c8e2a2cfc35"
+  },
+  "entries": [
+    {
+      "entryId": "STG0056/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "디오스크A의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0056/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0056/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "아마타,주인공,어드벤트 중 하나라도 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0056/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "다른 적을 전멸시킨 후,4턴 이내에 디오스크A를\n맥시멈 브레이크로 격추시킨다\n단,그때 원호공격,재공격을 조합해도 가능",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0056/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "적의 전멸",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0056/ID00001/OPERATE_TBL/str_tbl/005",
+      "sourceId": 5,
+      "translation": "없음",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

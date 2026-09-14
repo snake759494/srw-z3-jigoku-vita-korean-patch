@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00067",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00067/Sheet1/000002",
+      "sourceBindingSha256": "5bebdf3c15b85f54752adf625e037d0372b5d3ccb42ce8097f7f5ade3811e3c6",
+      "sourceTextSha256": "51c683c9fca07c151e5d6392b44ff187fcd6e7fdd1dbf38368703de082195306",
+      "freshTranslation": "네오 플라네츠",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00067/Sheet1/000003",
+      "sourceBindingSha256": "ae378547feb946cde8834e683e7b565e66f03c0f5b45bbfac40887b5ba49a796",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00067/Sheet1/000004",
+      "sourceBindingSha256": "6604c1e91b89a607a28cbd6b5f498a8bedecdcdf7678bd1d78d536050c6ec620",
+      "sourceTextSha256": "b9c5ffb868649357b52c09cecfc34c7801a87c55e10fe8f6aec5973249ec4f1b",
+      "freshTranslation": "대시공진동이나 그 후의 시공진동으로 태양계로 전이해 온 행성을 가리킨다. ㊥ 지구권 밖에서 목성까지의 사이에 점재하고 있지만, 거주 가능한 행성은 적다. ㊥ 그들에 사는 민족은 극히 소수이며, 독자적인 문화, 문명을 가지고 있지만, 지구㊥와는 상호 불간섭의 입장을 취하고 있기 때문에, 사실상 존재는 무시되고 있는 것 등 ㊥이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00067/Sheet1/000005",
+      "sourceBindingSha256": "ac23870190907914afecc00298d5e99b7be231711bf5d39afc10bf32ad57975b",
+      "sourceTextSha256": "b9c5ffb868649357b52c09cecfc34c7801a87c55e10fe8f6aec5973249ec4f1b",
+      "freshTranslation": "대시공진동이나 그 후의 시공진동으로 태양계로 전이해 온 행성을 가리킨다. ㊥ 지구권 밖에서 목성까지의 사이에 점재하고 있지만, 거주 가능한 행성은 적다. ㊥ 그들에 사는 민족은 극히 소수이며, 독자적인 문화, 문명을 가지고 있지만, 지구㊥와는 상호 불간섭의 입장을 취하고 있기 때문에, 사실상 존재는 무시되고 있는 것 등 ㊥이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

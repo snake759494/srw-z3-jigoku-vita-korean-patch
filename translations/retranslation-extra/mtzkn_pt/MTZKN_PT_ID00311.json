@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00311",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00311/Sheet1/000002",
+      "sourceBindingSha256": "be84fa8afdbcc5c05068c921d5ace803694dd947bb9d57c35f1b6ff04e34d361",
+      "sourceTextSha256": "a9978b183ad0ac3242a3a623a947cacf87098bbffa38358256598d219df6e5a2",
+      "freshTranslation": "요코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00311/Sheet1/000003",
+      "sourceBindingSha256": "2fcba3d6151ee6bb1a759f8dfe7bfbb27ce943a441f3ce584db2f4ae54108505",
+      "sourceTextSha256": "a9978b183ad0ac3242a3a623a947cacf87098bbffa38358256598d219df6e5a2",
+      "freshTranslation": "요코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00311/Sheet1/000004",
+      "sourceBindingSha256": "0443f450127b9e09588b9e071427eaebd01254b94b67f51f31d77ba964eaec8e",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00311/Sheet1/000005",
+      "sourceBindingSha256": "65f3c0717502832d4a9a7ec41ba4ac0b739b446f403670cfd9fdd4dc8f2f5fb2",
+      "sourceTextSha256": "72d655f1dc33e9cb312bc5fb8511d76c1cc4472a20583085c53bbf6bdb8dadc1",
+      "freshTranslation": "이노우에 마리나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00311/Sheet1/000006",
+      "sourceBindingSha256": "c3429df767166387fa36a47f1da2c7e0d80bf71b838746e63765fcff964f43c7",
+      "sourceTextSha256": "0d42680a949b2543bbbae33ede429386afb36ad27e134fc9f17fb8ed4c6dc4ba",
+      "freshTranslation": "리트너 마을 출신의 스나이퍼. ㊥ 현실적이고 시비어한 면을 가지는 한편, 뒤표가 없는 솔직하고 밝은 성격으로 대그렌단의 무㊥드 메이커라고 할 수 있는 존재였지만, 월일의 경과와 함께 침착과 포용력을 더한 여자㊥성으로 성장했다. ㊥ 자신의 신장보다 큰 스나이퍼 라이플을 가볍게 조종해, 마을 제일을 자부하고 있던 ㊥ 사격의 팔은 조금도 쇠퇴하고 있지 않다. ㊥신정부 발족 후 무늬가 아니기 때문에 동료들의 밑을 떠나 단신 콜레하나 섬에 건너면 요㊥마코라고 이름을 바꾸어 교사가 되었다. ㊥ 세계의 위기가 다가오는 가운데 아이들을 위해 싸울 결의를 굳히고 다시 큰 글렌단에 합류. 옥㊥중의 시몬과 빌랄의 핀치를 구해, 우주로 뛰쳐나갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00311/Sheet1/000007",
+      "sourceBindingSha256": "85b71e8393af48b420f0efecfd7530cb5aad8372642ebcb3c0ab37e23b6ee6a7",
+      "sourceTextSha256": "a5179d369d206289298a0ea31a96203e4d251f7b5bbbf100097d2a8ade0bfab1",
+      "freshTranslation": "리트너 마을 출신의 스나이퍼. ㊥ 현실적이고 시비어한 면을 가지는 한편, 뒤표가 없는 솔직하고 밝은 성격으로 대그렌단의 무㊥드 메이커라고 할 수 있는 존재였지만, 월일의 경과와 함께 침착과 포용력을 더한 여자㊥성으로 성장했다. ㊥ 자신의 신장보다 큰 스나이퍼 라이플을 가볍게 조종해, 마을 제일을 자부하고 있던 ㊥ 사격의 팔은 조금도 쇠퇴하고 있지 않다. ㊥신정부 발족 후 무늬가 아니기 때문에 동료들의 밑을 떠나 단신 콜레하나 섬에 건너면 요㊥마코라고 이름을 바꾸어 교사가 되었다. ㊥ 세계의 위기가 다가오는 가운데 아이들을 위해 싸울 결의를 굳히고 다시 큰 글렌단에 합류. 옥㊥중의 시몬과 빌랄의 핀치를 구해, 우주로 튀어나와, 안티 스파이럴과 싸워㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

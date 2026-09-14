@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00199",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00199/Sheet1/000002",
+      "sourceBindingSha256": "b7ea89f3fa3cdf80d5af5f9f8305727b9b923352e8f7957644b6875be5284751",
+      "sourceTextSha256": "cb99f5c6f258d1d85455e33d14bc0073328c28aec0ffed5426ecdafb19b72a4b",
+      "freshTranslation": "무차",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00199/Sheet1/000003",
+      "sourceBindingSha256": "0e9f39da045fffc47f81e16b63e80f9fb42b0eae6c389c76be534546d73439ea",
+      "sourceTextSha256": "cb99f5c6f258d1d85455e33d14bc0073328c28aec0ffed5426ecdafb19b72a4b",
+      "freshTranslation": "무차",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00199/Sheet1/000004",
+      "sourceBindingSha256": "89db7f207381fa881a3cc682325442706a6fe81efdead813bda0ef74610c1e60",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00199/Sheet1/000005",
+      "sourceBindingSha256": "69113fc20b1b2ffe0dd8b32237da16bbca5514378346cfe00e4244616fc827a2",
+      "sourceTextSha256": "fe7cdced8d245cdb74e9675ff79cc7e1fe7fb3ba63d0f4f049c89d193165ae42",
+      "freshTranslation": "나카니시 히데키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00199/Sheet1/000006",
+      "sourceBindingSha256": "cf327930b4ab73e5dcd84752c4c7ec65874650919626a7e30f32951d1199727b",
+      "sourceTextSha256": "d2ec1948c7e0173e712d30f67b467e6b7416dfc0557e38d3c4d58f692d3af21d",
+      "freshTranslation": "보스의 자분. ㊥ 몸집이 작은 몸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00199/Sheet1/000007",
+      "sourceBindingSha256": "0ee9b0fe32c116f8be59b9c7be6246b74c5c1e3803ec1da9752090c93f05cf9b",
+      "sourceTextSha256": "649120180d84127ce10a2fd65ef3ad3414bde2c794ad7ca69e6fcf277e6531bb",
+      "freshTranslation": "와 보스에의 순종으로부터, 언뜻 보면 그냥 허리 건착이지만, 실은 지탄의 명수. ㊥총을 든 철 가면보다 빨리, 그 안면에 흠뻑 구슬을 두드린 적도 있는 등, ㊥실력은 진짜이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00199/Sheet1/000008",
+      "sourceBindingSha256": "2f3ddc7c0dd37c2833b13915ad0afac7b74aeaf585cf89bc4304908096df7a46",
+      "sourceTextSha256": "d2ec1948c7e0173e712d30f67b467e6b7416dfc0557e38d3c4d58f692d3af21d",
+      "freshTranslation": "보스의 자분. ㊥ 몸집이 작은 몸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00199/Sheet1/000009",
+      "sourceBindingSha256": "6aa04e9550f39d784fdf1a3d7415ece5629c58fc1db6fb5d7c1336c08511b219",
+      "sourceTextSha256": "649120180d84127ce10a2fd65ef3ad3414bde2c794ad7ca69e6fcf277e6531bb",
+      "freshTranslation": "와 보스에의 순종으로부터, 언뜻 보면 그냥 허리 건착이지만, 실은 지탄의 명수. ㊥총을 든 철 가면보다 빨리, 그 안면에 흠뻑 구슬을 두드린 적도 있는 등, ㊥실력은 진짜이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

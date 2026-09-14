@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00232",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00232/Sheet1/000002",
+      "sourceBindingSha256": "ac6301ba6a4297df1b7baff4591f4fddf8a1e5831de8d0a6b2f73c5b05b11b71",
+      "sourceTextSha256": "fb063473ddb810877ffd2d3c7f4da4d17b9d6d1ab04351632f7e809b7f26ed44",
+      "freshTranslation": "百目鬼里香",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00232/Sheet1/000003",
+      "sourceBindingSha256": "99cfef821385868769cad16aeda472934a93f6384f6a939ced3b0b15c880eb98",
+      "sourceTextSha256": "51513d1de03d4ec7ca10ac85a6e8cc24e22512049ce070cca83cc5368fd9c954",
+      "freshTranslation": "백메 오니",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00232/Sheet1/000004",
+      "sourceBindingSha256": "0be25c1abb320d8257b6d917e9a1ee334e8e35cd0695a8d931427bac7f0c9e5f",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00232/Sheet1/000005",
+      "sourceBindingSha256": "449df0e19988a2dd09b557add644b352d8cf881a8d02859930a83293f85f1214",
+      "sourceTextSha256": "79ad664c7e21cff301bd5ae3455bc2d1bb6335cd66f4e9abdb99247b1d60bf88",
+      "freshTranslation": "21세기 경비 보장 기술부 주임. 17세. ㊥ 천재적인 두뇌를 가지고 헤테로다인 연구에 관해서는 세계적 권위. 어렸을 때부터 왜 ㊥도 알고 버렸기 때문에 세상을 지루한 것으로 파악하고 있었다. 하지만 헤테로㊥다인에 관해서는 아무것도 몰랐던 것이 아마 관심을 끄는 요인이 되고, 수수께끼를 해명해㊥하고 싶은 말에 현재에 이르고 있다. ㊥ 오랫동안 수수께끼에 싸여 있던 헤테로 다인을 구성하는 기초 \"플라크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00232/Sheet1/000006",
+      "sourceBindingSha256": "289db0b7b704eda74ef02ed31a7af100887e9f545ad65f28f7be75dc684008bc",
+      "sourceTextSha256": "484e0bee912bce6aa6940caa3d129c4509d3629d164140bfcfaf939ee7545b7c",
+      "freshTranslation": "르노트 '발 ㊥보기. 다이 가드의 신병기, 관련 기기도 차례로 설계 및 고안하고 있다. ㊥일반·사회적 상식이 부족한 부분이 있는 것과 사람의 기분이나 마음과 같은 것에 대해 ㊥이 심하게 둔감한 것이 결점. ㊥신병기 매듭 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00232/Sheet1/000007",
+      "sourceBindingSha256": "33d3c44e02b935d2529431b3cf2b6e466ea03d1cc7a52bf313b68f031cebf3cc",
+      "sourceTextSha256": "57d656233d514f83d04d2be59c8da10fc2fc05672db290fa4d4f4fa7efe76642",
+      "freshTranslation": "-를 개발했을 때에는 하청 회사와 임시 계약도 맺지 않았다 ㊥ 하여 군에 접수되어 버렸다. ㊥ 또, 이부키의 친부 사쿠라다 에이지로가 헤테로다인을 연구하고 있던 이유를 지적 호기심㊥을 채우기 위해서였다고 지적해, 이부키의 정신 상태를 불안정하게 해 버린 일도 있어㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00232/Sheet1/000008",
+      "sourceBindingSha256": "c6b3385964be2829ff68bdb6d00305f662295f89b3533d2d4d304668917ee715",
+      "sourceTextSha256": "79ad664c7e21cff301bd5ae3455bc2d1bb6335cd66f4e9abdb99247b1d60bf88",
+      "freshTranslation": "21세기 경비 보장 기술부 주임. 17세. ㊥ 천재적인 두뇌를 가지고 헤테로다인 연구에 관해서는 세계적 권위. 어렸을 때부터 왜 ㊥도 알고 버렸기 때문에 세상을 지루한 것으로 파악하고 있었다. 하지만 헤테로㊥다인에 관해서는 아무것도 몰랐던 것이 아마 관심을 끄는 요인이 되고, 수수께끼를 해명해㊥하고 싶은 말에 현재에 이르고 있다. ㊥ 오랫동안 수수께끼에 싸여 있던 헤테로 다인을 구성하는 기초 \"플라크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00232/Sheet1/000009",
+      "sourceBindingSha256": "7310cb7e9f5f2bd4a116c598a2d16bac875edbbd93581dfe054a8ba600efb2c3",
+      "sourceTextSha256": "484e0bee912bce6aa6940caa3d129c4509d3629d164140bfcfaf939ee7545b7c",
+      "freshTranslation": "르노트 '발 ㊥보기. 다이 가드의 신병기, 관련 기기도 차례로 설계 및 고안하고 있다. ㊥일반·사회적 상식이 부족한 부분이 있는 것과 사람의 기분이나 마음과 같은 것에 대해 ㊥이 심하게 둔감한 것이 결점. ㊥신병기 매듭 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00232/Sheet1/000010",
+      "sourceBindingSha256": "4c69d79df7312e56f129a556a8791c8d0000612516c3a25ae67485116f54a58d",
+      "sourceTextSha256": "57d656233d514f83d04d2be59c8da10fc2fc05672db290fa4d4f4fa7efe76642",
+      "freshTranslation": "-를 개발했을 때에는 하청 회사와 임시 계약도 맺지 않았다 ㊥ 하여 군에 접수되어 버렸다. ㊥ 또, 이부키의 친부 사쿠라다 에이지로가 헤테로다인을 연구하고 있던 이유를 지적 호기심㊥을 채우기 위해서였다고 지적해, 이부키의 정신 상태를 불안정하게 해 버린 일도 있어㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

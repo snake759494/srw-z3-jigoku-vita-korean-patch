@@ -1,0 +1,107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:pcsg00264:schema:translation-row:v2",
+  "title": "시옥편 정규 번역 행",
+  "type": "object",
+  "required": [
+    "entry_id",
+    "scope",
+    "asset_key",
+    "internal_id",
+    "source_row",
+    "source_artifact",
+    "source_artifact_sha256",
+    "source_text",
+    "translation",
+    "replacement_text",
+    "control_signature",
+    "status"
+  ],
+  "properties": {
+    "entry_id": {
+      "type": "string",
+      "pattern": "^[^/\\s]+/[^/\\s]+/[0-9]{6}$"
+    },
+    "scope": {
+      "type": "string"
+    },
+    "asset_key": {
+      "type": "string"
+    },
+    "internal_id": {
+      "type": "string"
+    },
+    "source_row": {
+      "type": "integer",
+      "minimum": 2
+    },
+    "source_artifact": {
+      "type": "string"
+    },
+    "source_artifact_sha256": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "payload_sha256": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "source_offset": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "source_text": {
+      "type": "string",
+      "minLength": 1
+    },
+    "google_translation": {
+      "type": "string"
+    },
+    "legacy_translation": {
+      "type": "string"
+    },
+    "translation": {
+      "type": "string"
+    },
+    "replacement_text": {
+      "type": "string"
+    },
+    "byte_limit": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "encoded_length": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "control_signature": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "imported",
+        "review",
+        "approved",
+        "blocked"
+      ]
+    },
+    "reviewer": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

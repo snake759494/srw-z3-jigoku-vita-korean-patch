@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00393",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00393/Sheet1/000002",
+      "sourceBindingSha256": "ccdb6a24cb07e223784566789d123ac14b607d81d001dface6370864859249d5",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00393/Sheet1/000003",
+      "sourceBindingSha256": "1fed64bcc43519966336699a121da53b64d57170db9d145392dd89dea3ab9e03",
+      "sourceTextSha256": "13b42cf4056c7e5a2d0088c7addc4f5d7cd615de28f5afd3be9c6c9b006fab76",
+      "freshTranslation": "병행 세계를 가랑이에 걸치는 기업 그룹 「DEM 코퍼레이션」의 에이전트로㊥보. 그 이름은 \"AGENT\"의 약자. ㊥ 제니온과 함께 차원 떨림에 휘말려 지구로 내려가고 나서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00393/Sheet1/000004",
+      "sourceBindingSha256": "3c5b9bace593213600624c1dfe723e1a33d2d88d7286da19ab4e4f438b85454f",
+      "sourceTextSha256": "0f91346726b1a4ea49fe27c96a5ed52ab38003ccae157744a99cfe06a6729b75",
+      "freshTranslation": "취득 목적으로 ㊥ 제니온의 실전 테스트를 감독한다. ㊥ 또한, 독자적인 매입 루트에 의한 차원 숍 「D 트레이더」를",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00393/Sheet1/000005",
+      "sourceBindingSha256": "664bb3083e49a723154e96a3b70717f4219096330634a3e3af254754cac0e7a9",
+      "sourceTextSha256": "a96b56b2e7f57161d7451626946bf4522e3aa23e15e0ace6952e1c82682243a3",
+      "freshTranslation": "운영하고 스스로 ㊥의 안내인을 맡는다. ㊥ 조율자이며, 로봇이라고는 생각되지 않을 만큼, 풍부한 감정을 가지고, 주위를 긁어 회㊥한다. 한편, 타인의 섬세한 감정에 민감하고, 그 내면에 밟은 조언을 하는 ㊥하는 등 귀찮은 좋은 곳도 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00393/Sheet1/000006",
+      "sourceBindingSha256": "14a9f0b19f72a7592bcf777a50c12f3b4330574a5d3e69512b12e80719208c36",
+      "sourceTextSha256": "13b42cf4056c7e5a2d0088c7addc4f5d7cd615de28f5afd3be9c6c9b006fab76",
+      "freshTranslation": "병행 세계를 가랑이에 걸치는 기업 그룹 「DEM 코퍼레이션」의 에이전트로㊥보. 그 이름은 \"AGENT\"의 약자. ㊥ 제니온과 함께 차원 떨림에 휘말려 지구로 내려가고 나서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00393/Sheet1/000007",
+      "sourceBindingSha256": "68f4d81e25dddaba16dbf6b1fdd54894e790eef7d547506419c6823f37fd8a34",
+      "sourceTextSha256": "0f91346726b1a4ea49fe27c96a5ed52ab38003ccae157744a99cfe06a6729b75",
+      "freshTranslation": "취득 목적으로 ㊥ 제니온의 실전 테스트를 감독한다. ㊥ 또한, 독자적인 매입 루트에 의한 차원 숍 「D 트레이더」를",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00393/Sheet1/000008",
+      "sourceBindingSha256": "2d07ad7b1cae29894b2fba7e7fccaf2a44eb1b59b8777808542885cee4635ac0",
+      "sourceTextSha256": "4f54f50c5945e7b3eec8056ed046111a962b492fc51e80434deaba2e38a99c38",
+      "freshTranslation": "운영하고 스스로 ㊥의 안내인을 맡는다. ㊥ 조율자이며, 로봇이라고는 생각되지 않을 만큼, 풍부한 감정을 가지고, 주위를 긁어 회㊥한다. 한편, 타인의 섬세한 감정에 민감하고, 그 내면에 밟은 조언을 하는 ㊥하는 등 귀찮은 좋은 곳도 있다. ㊥시의 감옥이 파괴된 뒤에는 당면의 완성을 맞이한 제니온 가이와 함께 DEM에 ㊥ 귀환하는 것을 생각하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

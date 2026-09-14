@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00054",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00054/Sheet1/000002",
+      "sourceBindingSha256": "c2f1fe6ea5b374778d2e56067520c8cfa7a4e0c5d166b20175f60ff8455de4d1",
+      "sourceTextSha256": "246d9ef2d7f9075371c2449a1e51ca97976ad8d0e86367180837786292a4b09a",
+      "freshTranslation": "포우 무라 상어",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00054/Sheet1/000003",
+      "sourceBindingSha256": "0f199811fe7a48dc24b6e360c3b3c2970477301b586267ded2e5224e29bbe1fe",
+      "sourceTextSha256": "242048308cbbc2a0113bd0945756d593065103098200b109e2e235fc3dd6559c",
+      "freshTranslation": "포우",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00054/Sheet1/000004",
+      "sourceBindingSha256": "7ee427a0b6db7972001900c41f6ad134f58d34a2d9e2b30fd8ce8725a6366a5f",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00054/Sheet1/000005",
+      "sourceBindingSha256": "d2c9e0ef29d9886396744efe1d997d0986ea4c59e76f965795c12017a481269f",
+      "sourceTextSha256": "51c4bf06baeae8ecf3714fc359a04382ad6f37beeeaddeea5103c4c49a861e79",
+      "freshTranslation": "유카나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00054/Sheet1/000006",
+      "sourceBindingSha256": "12fb898e562b8241bf3b74cfb2106c3bd9d005a974f32109d3d2c8453308d016",
+      "sourceTextSha256": "e9a8429217afa9213e7a775d343340846bcdcb61a3b66f93c28ca5239c219914",
+      "freshTranslation": "무라사메 연구소에서 양성된 강화 인간으로, 사이코 건담의 파일럿. 명목상 ㊥의 계급은 소위. ㊥ 평소에는 밝고 쾌활한 성격을 하고 있지만, 사이코 건담을 타면 정신 컨트롤 ㊥ 루파의 영향을 받아 강렬한 두통과 함께 흉포한 인격으로 변모해 버린다. ㊥ 과거의 기억을 잃고 있어, 그 일이 마음의 상처가 되어 자신을 힘내게 묶어 ㊥ 하고 있다. 포우라는 이름도 본명이 아니라 얼룩 상어 연구소에서 네 번째 실험체라는 ㊥ 의미로 그렇게 불리고 있을 뿐이다. 하지만 건담 Mk-Ⅱ를 쓰러뜨리면 기억을 되찾아 ㊥하게 한다는 말을 믿고 두통을 참아 사이코 건담으로 싸웠다. ㊥ 카미유를 만난 일로 사람의 마음의 따뜻함을 접하지만, 그가 건담 Mk-Ⅱ의 파이㊥ 로트라고 나중에 알고 고뇌하는 일이 되었다. ㊥ TV판, 극장판 모두 정신적인 저주를 뿌리고 카미유를 위해 그 몸을 던져 ㊥ 내어 전화 속에서 목숨을 잃는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00054/Sheet1/000007",
+      "sourceBindingSha256": "d9d430995c00879ccc28370bb1592fd009f65ea7361aa2eaa2e12d36bca6b5fa",
+      "sourceTextSha256": "e9a8429217afa9213e7a775d343340846bcdcb61a3b66f93c28ca5239c219914",
+      "freshTranslation": "무라사메 연구소에서 양성된 강화 인간으로, 사이코 건담의 파일럿. 명목상 ㊥의 계급은 소위. ㊥ 평소에는 밝고 쾌활한 성격을 하고 있지만, 사이코 건담을 타면 정신 컨트롤 ㊥ 루파의 영향을 받아 강렬한 두통과 함께 흉포한 인격으로 변모해 버린다. ㊥ 과거의 기억을 잃고 있어, 그 일이 마음의 상처가 되어 자신을 힘내게 묶어 ㊥ 하고 있다. 포우라는 이름도 본명이 아니라 얼룩 상어 연구소에서 네 번째 실험체라는 ㊥ 의미로 그렇게 불리고 있을 뿐이다. 하지만 건담 Mk-Ⅱ를 쓰러뜨리면 기억을 되찾아 ㊥하게 한다는 말을 믿고 두통을 참아 사이코 건담으로 싸웠다. ㊥ 카미유를 만난 일로 사람의 마음의 따뜻함을 접하지만, 그가 건담 Mk-Ⅱ의 파이㊥ 로트라고 나중에 알고 고뇌하는 일이 되었다. ㊥ TV판, 극장판 모두 정신적인 저주를 뿌리고 카미유를 위해 그 몸을 던져 ㊥ 내어 전화 속에서 목숨을 잃는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00295",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00295/Sheet1/000002",
+      "sourceBindingSha256": "f43538111f36330254e4bf893f8a7bb3186d8fc8b6aecc530f0d670f624674c5",
+      "sourceTextSha256": "aaea4be9b1b99d0aaff20ec7564998bc5d9ceafc44515bcbbfe6c56fce8b0497",
+      "freshTranslation": "나츠타마란",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00295/Sheet1/000003",
+      "sourceBindingSha256": "05df86318045dacf149a907c5bb196f26b017787a2aaa309616bf1e5fb438a8d",
+      "sourceTextSha256": "fe07a882d940adf53101733071578aad29b13ecf95cf77c7f6d96e164d62c762",
+      "freshTranslation": "타마란",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00295/Sheet1/000004",
+      "sourceBindingSha256": "40061e9c9d38c83ecef721d1dc00f70ebcf00506b1a4cf2511db94ce76873ece",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00295/Sheet1/000005",
+      "sourceBindingSha256": "8ca847cbfcd73b2c111737dd275c5e7f678a666e8a0898c9a078068b16f81d30",
+      "sourceTextSha256": "6cbead29f5f3666f5882c4fd6c0d7e56e8208850dd34efe1c72cd7834907e4e2",
+      "freshTranslation": "르 패닉! TheSecondRaid",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00295/Sheet1/000006",
+      "sourceBindingSha256": "25504653308c0c8003f7bfc144c8816a3e83d16cccdd5b383ac47641b5290fa8",
+      "sourceTextSha256": "f7c492ab7229a19ea18a2941adb3a95181c3d6024ec2b37896e74319a73e40b5",
+      "freshTranslation": "사와키 미유키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00295/Sheet1/000007",
+      "sourceBindingSha256": "a51ce0d0785f175209c976dfb9257a62fe71de137d9370e228cbd6a5819f7592",
+      "sourceTextSha256": "4299e573a4a56e847e53da6357ff0bbfe49dbc4e5555f4629b0b8463c09a5906",
+      "freshTranslation": "비밀 조직 아말감에 속하는 소녀. 16세. ㊥명은 '샤유이란'이라고 읽는다. ㊥ 고도의 훈련을 받은 암살자로, 초절적인 격투 센스를 가진다. 마체트(산도)나 ㊥나이프를 사용해, 기계와 같이 무표정으로 임무를 수행해 간다. 그 냉혹함은 쌍둥이의 언니㊥의 옥방향으로 '공포를 느끼는 일이 없다' 때문이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00295/Sheet1/000008",
+      "sourceBindingSha256": "72a8d9b679094779d94a2a9f1464f0af4e58dfbaa80a9e510e61336b863791fe",
+      "sourceTextSha256": "d6462c96f46feee0a18d4b3fa9b892c807c84a610648782ca314371676f06bd1",
+      "freshTranslation": "비밀 조직 아말감에 속하는 소녀. 16세. ㊥명은 '샤유이란'이라고 읽는다. ㊥ 고도의 훈련을 받은 암살자로, 초절적인 격투 센스를 가진다. 마체트(산도)나 ㊥나이프를 사용해, 기계와 같이 무표정으로 임무를 수행해 간다. 그 냉혹함은 쌍둥이의 언니㊥의 옥방향으로 '공포를 느끼는 일이 없다' 때문이다. ㊥타마요시와 마찬가지로 전투술의 스승인 가울룬에 심취하고 있다. ㊥장강횡단터널 내 사건에서는 피해자를 치고 미스릴에 다가가 격투전에서 마㊥오를 몰아낸다. ㊥ 그 후, 소스케를 노리는 가우룬의 명령을 수행하기 위해 조직을 탈주하고, 그에게 영적인 ㊥ 데미지를 입힙니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00295/Sheet1/000009",
+      "sourceBindingSha256": "c9bb1b43c67232f2173dc78e36e37b65c041e08ca9f309e72687f245374b580e",
+      "sourceTextSha256": "b4bdae5a79a87d67476de65259296627c1ff8c195344bc49eea540207fe07da4",
+      "freshTranslation": "하기 위해 카나메를 암살하려고 하지만, 뜻밖의 반격을 당해 실패. 그 ㊥ 후, 나타난 레나드의 앨러스트와 싸워 사망한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

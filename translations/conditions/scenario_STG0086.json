@@ -1,0 +1,84 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0086",
+    "fileName": "STG0086.cpk",
+    "target": "DATA/STAGE/STG0086.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "533cefc1ee7cbb4b4e23560ef06a61972e93a5917713e91062d90a9a314251cd"
+  },
+  "entries": [
+    {
+      "entryId": "STG0086/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "솔라 아쿠에리온의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0086/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0086/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "아마타 또는 알토의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0086/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "4턴 이내에 다른 적을 모두 격추하고\n마지막으로 솔라 아쿠에리온을 격추시킨다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0086/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "에인션트AQ의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0086/ID00001/OPERATE_TBL/str_tbl/005",
+      "sourceId": 5,
+      "translation": "없음",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

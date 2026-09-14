@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00084",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00084/Sheet1/000002",
+      "sourceBindingSha256": "b605f0223aba50c5b034972603410cac8ad0be727ddf28ca4b4091522ffd7c76",
+      "sourceTextSha256": "99b702589f48758368bed6a2f5d9149fdde1e1fd0523ecd8538c12015b8020f7",
+      "freshTranslation": "디 에델 베르날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00084/Sheet1/000003",
+      "sourceBindingSha256": "2a6b30838f8326a64e7cb82b8c3b1b770412c0bdad8a6b7a486803f2b678f179",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00084/Sheet1/000004",
+      "sourceBindingSha256": "1c3cd6fb9e34879976ed3ae32207e2a6f2b7b270b41a1e0f15a1f0a1a5fc885f",
+      "sourceTextSha256": "6a831e69e7c9d2ee9e938952519c502bf607d1818e3835b38cb704f4483047de",
+      "freshTranslation": "UCW의 다원 전쟁의 흑막.㊥카이메라의 수첩이었던 지구 연방군 준장의 에델 베르날을 창조하고,㊥이들이 원하는 자유로운 세계에서 놀기 위해 세계 정세를 컨트롤했다.㊥원리의 힘(오리진·로우)의 한정적인 제어에 성공하고 있어 그 힘을 사용해,㊥욕망의 부유한 채로 행동한다. 그 행동 원리는 「재미있으면 좋다!」의 한마디이며,㊥시공진동탄에 의해 탄생한 다원 세계의 존재를 누구보다 즐기고 있다.㊥원리의 힘을 적용하여 병행 세계 사이에 존재하는 여러 자기 능력을 통합㊥오리, 모든 면에서 상인을 능가한다.㊥또한 윤리감과 도덕과 같은 개념에서도 해방되고 있으며 다른 사람들은 이해하기 어렵습니다.㊥욕망에 뛰어들기 때문에 그 의도나 행동을 읽는 것은 어렵다.㊥덧붙여 그가 원리의 힘을 해명한 과정은, 병행 세계의 동일 인물인 엘간·㊥로딕에 의해 검은 영지에 접했기 때문이라고 한다.㊥그 모습은 아름다운 청년이지만 최종 결전까지는 추악한 노과 과학자 지에 베이베㊥르를 연기하고 있었다.㊥또한 에델 베르날라는 이름도 편의상이며 본명은 별도로㊥존재한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00084/Sheet1/000005",
+      "sourceBindingSha256": "e40167471f1da327844db69deb72386c39543ecd18de0804a733091db58642ff",
+      "sourceTextSha256": "6a831e69e7c9d2ee9e938952519c502bf607d1818e3835b38cb704f4483047de",
+      "freshTranslation": "UCW의 다원 전쟁의 흑막.㊥카이메라의 수첩이었던 지구 연방군 준장의 에델 베르날을 창조하고,㊥이들이 원하는 자유로운 세계에서 놀기 위해 세계 정세를 컨트롤했다.㊥원리의 힘(오리진·로우)의 한정적인 제어에 성공하고 있어 그 힘을 사용해,㊥욕망의 부유한 채로 행동한다. 그 행동 원리는 「재미있으면 좋다!」의 한마디이며,㊥시공진동탄에 의해 탄생한 다원 세계의 존재를 누구보다 즐기고 있다.㊥원리의 힘을 적용하여 병행 세계 사이에 존재하는 여러 자기 능력을 통합㊥오리, 모든 면에서 상인을 능가한다.㊥또한 윤리감과 도덕과 같은 개념에서도 해방되고 있으며 다른 사람들은 이해하기 어렵습니다.㊥욕망에 뛰어들기 때문에 그 의도나 행동을 읽는 것은 어렵다.㊥덧붙여 그가 원리의 힘을 해명한 과정은, 병행 세계의 동일 인물인 엘간·㊥로딕에 의해 검은 영지에 접했기 때문이라고 한다.㊥그 모습은 아름다운 청년이지만 최종 결전까지는 추악한 노과 과학자 지에 베이베㊥르를 연기하고 있었다.㊥또한 에델 베르날라는 이름도 편의상이며 본명은 별도로㊥존재한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

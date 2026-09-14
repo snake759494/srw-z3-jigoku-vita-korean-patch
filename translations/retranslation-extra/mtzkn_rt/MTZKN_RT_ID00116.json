@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00116",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00116/Sheet1/000002",
+      "sourceBindingSha256": "5cd93c542656d1e09ef6372fd1035c7333f874bdfd0f0c7bf1b8ecd4fd6d12b5",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00116/Sheet1/000003",
+      "sourceBindingSha256": "08920028a859311cb470c40c562136ec46cf987d452a66a718518164c45c8f2f",
+      "sourceTextSha256": "328da9c53a745a1a665d0db62160bab5e06efea46407559d0dc1bb1bd1d3e374",
+      "freshTranslation": "VF-25G 메사이아 B·TP",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00116/Sheet1/000004",
+      "sourceBindingSha256": "c7fa443b1b60ee9e06d96d991ceadce5b062164fcc0a625999cf47cdd159d310",
+      "sourceTextSha256": "6f118943a345d767f8e0be798001d816a007f543884c8bbc5bb7b50c414b8598",
+      "freshTranslation": "VF-25G 메사이아 배트로이드 모드·토네이도 팩 장비(대기권 외 사양)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00116/Sheet1/000005",
+      "sourceBindingSha256": "5945126ba340067bc2a0ce50d85f7fb6dc1763324bea729fbde8aa3982b429b4",
+      "sourceTextSha256": "a244a056ccdaed31e36c0bf7311e503532c10f2734c6a8a411dd00620b6a01b6",
+      "freshTranslation": "마이클 블랑",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00116/Sheet1/000006",
+      "sourceBindingSha256": "0e87ddfe1e8743615cb1662c8452a50b84441a81118593f7c503f42ac5baf6c9",
+      "sourceTextSha256": "c111103aeb7a84c1e67b15af68fb5ad3e014bbdfcfea27214bccbb5fad20e687",
+      "freshTranslation": "VF-25 메사이어 시리즈의 장거리 저격기. 그 배트로이드 모드에 토네이㊥도팩을 장비한 대기권외 사양. ㊥S. M. S에서는 미셸이 본 기기에 탑승하고 있다. ㊥머리 메인 카메라는 장거리 사격용 단안",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00116/Sheet1/000007",
+      "sourceBindingSha256": "c4e588ca602e7666d0532ce99e554371a079c5b85e30de4c51221e010019ffc9",
+      "sourceTextSha256": "a16f9cb6e7ad7ea5a79a27b4ce233b01a8aa9a49f9129bc0491df49faa30a3ba",
+      "freshTranslation": "입. 스나이퍼 팩과 EX-기어에 ㊥ 통합된 건너 키트와의 연동에 의해 고정밀도의 저격이 가능해지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00116/Sheet1/000008",
+      "sourceBindingSha256": "3babc5b532a2ad5ad4946a96aeab2b979d5fa9114901a346eb396c20c5c5ae18",
+      "sourceTextSha256": "c111103aeb7a84c1e67b15af68fb5ad3e014bbdfcfea27214bccbb5fad20e687",
+      "freshTranslation": "VF-25 메사이어 시리즈의 장거리 저격기. 그 배트로이드 모드에 토네이㊥도팩을 장비한 대기권외 사양. ㊥S. M. S에서는 미셸이 본 기기에 탑승하고 있다. ㊥머리 메인 카메라는 장거리 사격용 단안",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00116/Sheet1/000009",
+      "sourceBindingSha256": "a68ed9a1532c027f0a2b373621610c17486521a23e23964bececd4f36270d901",
+      "sourceTextSha256": "a16f9cb6e7ad7ea5a79a27b4ce233b01a8aa9a49f9129bc0491df49faa30a3ba",
+      "freshTranslation": "입. 스나이퍼 팩과 EX-기어에 ㊥ 통합된 건너 키트와의 연동에 의해 고정밀도의 저격이 가능해지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

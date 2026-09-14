@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00169",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00169/Sheet1/000002",
+      "sourceBindingSha256": "b81c7fd020c801b895ca76c925d6c6ffc5e6884092c39405279e702e6ae65639",
+      "sourceTextSha256": "fe82c905a6215168a90a9b27d7eb05a7c47166cb9ec609a131f0bd7583092bde",
+      "freshTranslation": "THE 빅오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00169/Sheet1/000003",
+      "sourceBindingSha256": "0a9dff52c3c2b14bc7759a68e643e89dc15e6200acfba3e0b68bb7b50009d04f",
+      "sourceTextSha256": "03877eb34a65e587c9d7b1c05e98e6583d2c0e92f778f1d26fa060b7e1490386",
+      "freshTranslation": "빅오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00169/Sheet1/000004",
+      "sourceBindingSha256": "2780e14dc6431ee1b57aa24239e702bfc87ed582d347b25a0eb4f0dc5103ae0e",
+      "sourceTextSha256": "03877eb34a65e587c9d7b1c05e98e6583d2c0e92f778f1d26fa060b7e1490386",
+      "freshTranslation": "빅오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00169/Sheet1/000005",
+      "sourceBindingSha256": "8a481b70624c94e51cec522b5a864d146bdac262d7a64bfe7511efad294bf39c",
+      "sourceTextSha256": "6dc1dddd41c664449e4bb230c17a9a5c95cd9932666b1ffd9a1efcd13a13fbb9",
+      "freshTranslation": "로저 스미스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00169/Sheet1/000006",
+      "sourceBindingSha256": "392aa84f712375bb4492dd01da20a51c3b9ee5b0a54524898e8a66c187bcfe3c",
+      "sourceTextSha256": "e0fb849fc3ef75517ac781158cd20e1565105aaa542e7f716ae133c57ea635ea",
+      "freshTranslation": "로저 스미스가 탑승하는 검은 메가데우스. ㊥ 로저가 왼팔의 손목시계에 '빅오, 쇼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00169/Sheet1/000007",
+      "sourceBindingSha256": "8428b3d93e29ef7ef59371055303e87c1e6932df1268fd7e9fefe50a13e7e471",
+      "sourceTextSha256": "91a0daa967510e086db696554adaca2be90e03267986046d47e0e753ba6b1e91",
+      "freshTranslation": "임! \"라고 외치는 일로 땅㊥아래보다 나타나, 그와 함께 적에게 맞서다. ㊥ 로저 탑승 시 전면 모니",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00169/Sheet1/000008",
+      "sourceBindingSha256": "e49a9a96547745754d3b4552195da98a804f93195a19d53aa03e088916fe894f",
+      "sourceTextSha256": "f6f785a0b6bf684d85b0d5d2170af8d5e3dfa3d523b720f362ea1c96900dd6e4",
+      "freshTranslation": "'에 'CASTINTHENAMEOF㊥GODYENOTGUILTY(우리 하나님의 이름으로 이를 주조하는 여의 등㊥죄 없음)'의 철자가 표시된다. ㊥ 평소에는 로저의 저택 지하에 보관되어 있습니다. 하지만 일단 로저에서 소환㊥이 걸리면 더 이상 사용되지 않는 지하 교통을 전용 트랜스포",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00169/Sheet1/000009",
+      "sourceBindingSha256": "f7d498aef3535cf77211696bb008efafc03cd272e97504915fec8c91df1f6631",
+      "sourceTextSha256": "358f124f97e9865ec2a858334d5a15bcf0fe76e6ea9aae7947954b18cda4d3df",
+      "freshTranslation": "- \"플레이 리드 ㊥ 개\"로 질주하고 목적지로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00169/Sheet1/000010",
+      "sourceBindingSha256": "bf08d6e8eb43971c14bbe298d0cfabeae7494b010ccb4d8ff6152ae437ec4289",
+      "sourceTextSha256": "1a817f66a632809f8430f78145ce80167e122bc2e70ea740b2a2372a7ca5955e",
+      "freshTranslation": "흔들린다. ㊥눈에서 발하는 광선 '아크 라인', 흉부와 복부에서 발하는 '캐논 ​​파티' ㊥ '미사일 파티' 등의 내장 화기를 숨기고 있지만, 최대의 결정기는 팔의 파업 ㊥라이크 파일을 치는 일격 필살의 타격. ㊥ 게다가, 그 밖에도 무장은 존재하고, 그들은 싸움 속에서 밝혀져 갔다. ㊥ 때때로, 의지가 있는 것처럼 자발적인 행동을 일으키는 등, 다른 더 빅처럼 수수께끼가 ㊥ 많고, 언제, 어디에서, 누가 무엇을 위해서 제조했는지의 대답은, 탑승자인 로저에서 ㊥조차 모른다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00169/Sheet1/000011",
+      "sourceBindingSha256": "ae3c1679e89877241672d74ab2ab9f023f1a02086d5417ddd5103993208391e8",
+      "sourceTextSha256": "e0fb849fc3ef75517ac781158cd20e1565105aaa542e7f716ae133c57ea635ea",
+      "freshTranslation": "로저 스미스가 탑승하는 검은 메가데우스. ㊥ 로저가 왼팔의 손목시계에 '빅오, 쇼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00169/Sheet1/000012",
+      "sourceBindingSha256": "730dc205644fe89c8d30ffe8f754c522022d3e4e88e14c20f29dd0c60da23732",
+      "sourceTextSha256": "91a0daa967510e086db696554adaca2be90e03267986046d47e0e753ba6b1e91",
+      "freshTranslation": "임! \"라고 외치는 일로 땅㊥아래보다 나타나, 그와 함께 적에게 맞서다. ㊥ 로저 탑승 시 전면 모니",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00169/Sheet1/000013",
+      "sourceBindingSha256": "c7c32cc5b24d1882a0f746c97d271360482b0da3300dcdaaf0d7e079febe8f86",
+      "sourceTextSha256": "f6f785a0b6bf684d85b0d5d2170af8d5e3dfa3d523b720f362ea1c96900dd6e4",
+      "freshTranslation": "'에 'CASTINTHENAMEOF㊥GODYENOTGUILTY(우리 하나님의 이름으로 이를 주조하는 여의 등㊥죄 없음)'의 철자가 표시된다. ㊥ 평소에는 로저의 저택 지하에 보관되어 있습니다. 하지만 일단 로저에서 소환㊥이 걸리면 더 이상 사용되지 않는 지하 교통을 전용 트랜스포",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00169/Sheet1/000014",
+      "sourceBindingSha256": "d1014f84da8f479bb4daef385681126ba9fa677e6444dce440f1d74173946fe7",
+      "sourceTextSha256": "358f124f97e9865ec2a858334d5a15bcf0fe76e6ea9aae7947954b18cda4d3df",
+      "freshTranslation": "- \"플레이 리드 ㊥ 개\"로 질주하고 목적지로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00169/Sheet1/000015",
+      "sourceBindingSha256": "b5f7ab79662e1deb67f0f61723e72230bc0fed88371db81d05feb8efa5b2449c",
+      "sourceTextSha256": "1a817f66a632809f8430f78145ce80167e122bc2e70ea740b2a2372a7ca5955e",
+      "freshTranslation": "흔들린다. ㊥눈에서 발하는 광선 '아크 라인', 흉부와 복부에서 발하는 '캐논 ​​파티' ㊥ '미사일 파티' 등의 내장 화기를 숨기고 있지만, 최대의 결정기는 팔의 파업 ㊥라이크 파일을 치는 일격 필살의 타격. ㊥ 게다가, 그 밖에도 무장은 존재하고, 그들은 싸움 속에서 밝혀져 갔다. ㊥ 때때로, 의지가 있는 것처럼 자발적인 행동을 일으키는 등, 다른 더 빅처럼 수수께끼가 ㊥ 많고, 언제, 어디에서, 누가 무엇을 위해서 제조했는지의 대답은, 탑승자인 로저에서 ㊥조차 모른다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00118",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00118/Sheet1/000002",
+      "sourceBindingSha256": "d8c4b1d823a29b83a850a734c4344397ff7afeac875550d44e043d40f5f158d9",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00118/Sheet1/000003",
+      "sourceBindingSha256": "c5a0fd1bba9e52c07af61fcec33ffe904ed03881a6c345aac9065bd73f28bc54",
+      "sourceTextSha256": "a581b7e6aeda798650ba6e8b106d1b79215c2e74ce6ae8e57c5e99e5b90d8399",
+      "freshTranslation": "RVF-25 메사이아 B",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00118/Sheet1/000004",
+      "sourceBindingSha256": "642238f763a0d791a03ae920384085f4944c5fffc0188089defeb3c7c9e2516b",
+      "sourceTextSha256": "d9b8103e961f2498898cd26cc6b60d6243990827f1a4e4cee70ec15caf093606",
+      "freshTranslation": "RVF-25 메사이아 바트로이드 모드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00118/Sheet1/000005",
+      "sourceBindingSha256": "2f1574fd7e03a4443df8cb161b72b50584f97b911e53fe3616c575d66f6cacd6",
+      "sourceTextSha256": "6b4037014479cf350799766a08a71e2941083e49e08ab4b4f63679b64d1f0e35",
+      "freshTranslation": "루카 안젤로니",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00118/Sheet1/000006",
+      "sourceBindingSha256": "be7fced331c2d4bcd5db1c36805ec068429f385e9e86167fab3c04d2cc166c82",
+      "sourceTextSha256": "49cd8a696c786a56a35799851427571dd9130006de2013860a15631e9e0dc385",
+      "freshTranslation": "VF-25 메사이아 시리즈의 전자전 장비기. 그 배트로이드 모드. ㊥S. M. S에서는 누가가 본 기기에 탑승하고 있다. ㊥ 많은 레이더와 센서류를 탑재해 색적과 전자전에 특화된 기체이다. ㊥ 머리에는 고성능 센서가 탑재되어 F",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00118/Sheet1/000007",
+      "sourceBindingSha256": "00301ca84da1b354b1a87416fbe698679953523c7dddca2d7e9b576592ab3486",
+      "sourceTextSha256": "fcde7a87f38966962a90627dfe60339e7a046076b25ec1efc239dbabd13daae2",
+      "freshTranslation": "또는 S",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00118/Sheet1/000008",
+      "sourceBindingSha256": "d810e6684a651f24b88c35d120394ed5f29895c0244afff66af766e16908ccf5",
+      "sourceTextSha256": "55d8dc0e1b08be6ed277fe8cb1bb3a59046e7bdf759328ebcdb27d9ff5f64470",
+      "freshTranslation": "에 장착된 레이저 기계총도 ㊥ 고정밀 안테나로 환장되어 있다. 또, 배면에 탑재한 복합식 레돔의 중량이 재해㊥ 하고, 직접 전투에는 적합하지 않지만, 루카는 무인기·고스트 QF-4000을 관㊥제 유도하는 것으로, 전투 능력의 부족을 보충하고 있다. ㊥ 그 고급 전자전 능력에 의해 S. M. S의 이목이 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00118/Sheet1/000009",
+      "sourceBindingSha256": "d94948b82ad529f71db6484d61eefb134ae7fb1d2ae1aa780c8e6beb99f7e1b9",
+      "sourceTextSha256": "49cd8a696c786a56a35799851427571dd9130006de2013860a15631e9e0dc385",
+      "freshTranslation": "VF-25 메사이아 시리즈의 전자전 장비기. 그 배트로이드 모드. ㊥S. M. S에서는 누가가 본 기기에 탑승하고 있다. ㊥ 많은 레이더와 센서류를 탑재해 색적과 전자전에 특화된 기체이다. ㊥ 머리에는 고성능 센서가 탑재되어 F",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00118/Sheet1/000010",
+      "sourceBindingSha256": "7163287153316492b26691b70f4dbc7a14b885e666d5235e2cc620efb409d5f5",
+      "sourceTextSha256": "fcde7a87f38966962a90627dfe60339e7a046076b25ec1efc239dbabd13daae2",
+      "freshTranslation": "또는 S",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00118/Sheet1/000011",
+      "sourceBindingSha256": "ba8b0d8fc2d573a4ade7579220d99a006a58399b84b53429258fe61e46880e23",
+      "sourceTextSha256": "55d8dc0e1b08be6ed277fe8cb1bb3a59046e7bdf759328ebcdb27d9ff5f64470",
+      "freshTranslation": "에 장착된 레이저 기계총도 ㊥ 고정밀 안테나로 환장되어 있다. 또, 배면에 탑재한 복합식 레돔의 중량이 재해㊥ 하고, 직접 전투에는 적합하지 않지만, 루카는 무인기·고스트 QF-4000을 관㊥제 유도하는 것으로, 전투 능력의 부족을 보충하고 있다. ㊥ 그 고급 전자전 능력에 의해 S. M. S의 이목이 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

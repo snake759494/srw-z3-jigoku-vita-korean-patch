@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00043",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00043/Sheet1/000002",
+      "sourceBindingSha256": "dd0ea21d11ac2eaf7aff59b5cdc4eddd062e7e29b78b5f2ecbae23bc205b28ea",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00043/Sheet1/000003",
+      "sourceBindingSha256": "862175d937f9005e9f34bed349ef675a20596ec49d042c13f8f1d3c691aca71c",
+      "sourceTextSha256": "87052306281fef37f44b638f9b04d27a360d890da54260e891bdb522919489e0",
+      "freshTranslation": "제간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00043/Sheet1/000004",
+      "sourceBindingSha256": "db72eddf8d760f1de58ee5bc3bed60e482c226d2da50e20963e91be95ef8c88f",
+      "sourceTextSha256": "87052306281fef37f44b638f9b04d27a360d890da54260e891bdb522919489e0",
+      "freshTranslation": "제간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00043/Sheet1/000005",
+      "sourceBindingSha256": "738555b2297c49e1a5bacabd611f2d78e6f3e2c2a483df9af875b5286fa1225e",
+      "sourceTextSha256": "cf9bd720a098b04443b67d0c9656ab12ba491229462ce52f28f087c08960ae39",
+      "freshTranslation": "지구 연방군의 주력이 되는 양산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00043/Sheet1/000006",
+      "sourceBindingSha256": "63b044cefefb1559fac21ac1b8366d5957970353f28bac2d8b486d5301644aaa",
+      "sourceTextSha256": "c331d938ff51b52dccec1b549509f3a2db4e19046a204c2502ab18084e531186",
+      "freshTranslation": "모바일 슈트. ㊥ 다양한 개발 및 개선이 이루어진 체육관과 네모 시스템의 설계 데이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00043/Sheet1/000007",
+      "sourceBindingSha256": "5cba20c3c4cb08156f538ed069c9fe303d14a67f591f89aaa90f9ffb5dc52152",
+      "sourceTextSha256": "11f9e087d28bdeb25832101102d279e307735954978f2eca6426f3b756ec8866",
+      "freshTranslation": "을 통합하여 개발된 ㊥ 기체로 높은 성능과 신뢰성을 자랑한다. 론도 벨대에 우선적으로 배치되어 있으며 이후 ㊥도 오랜 기간 각 방면에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00043/Sheet1/000008",
+      "sourceBindingSha256": "82320a59688404af233548113058bd200835a5abf181f7b16fd32e71cb0b14b6",
+      "sourceTextSha256": "573755972de2d47c7b260eaa5a975db6010a7959acecd433726630982ad1b7fb",
+      "freshTranslation": "사용되었다. ㊥ 또한 연방군의 주력기로서는 처음으로 군 내부가 아니라 애너하임 일렉트로㊥닉스에서 개발·양산되었다. ㊥ 주요 무장은 빔 라이플, 빔 세이버, 발칸 포, 핸드 그레네 ㊥ 드 등이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00043/Sheet1/000009",
+      "sourceBindingSha256": "804be77c87ebd29fb684f6472a809d03f6f04c8b040ca4d8a1844762bf973dfb",
+      "sourceTextSha256": "cf9bd720a098b04443b67d0c9656ab12ba491229462ce52f28f087c08960ae39",
+      "freshTranslation": "지구 연방군의 주력이 되는 양산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00043/Sheet1/000010",
+      "sourceBindingSha256": "cbfd56d278deeb4d296b5f1b68561bbc08be108f2d296c4ede09d073472ecb4e",
+      "sourceTextSha256": "c331d938ff51b52dccec1b549509f3a2db4e19046a204c2502ab18084e531186",
+      "freshTranslation": "모바일 슈트. ㊥ 다양한 개발 및 개선이 이루어진 체육관과 네모 시스템의 설계 데이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00043/Sheet1/000011",
+      "sourceBindingSha256": "3cc1337056f97ff9d9248a3fc8c9c77502af1f935d89755fc9e812f5e5ed514c",
+      "sourceTextSha256": "11f9e087d28bdeb25832101102d279e307735954978f2eca6426f3b756ec8866",
+      "freshTranslation": "을 통합하여 개발된 ㊥ 기체로 높은 성능과 신뢰성을 자랑한다. 론도 벨대에 우선적으로 배치되어 있으며 이후 ㊥도 오랜 기간 각 방면에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00043/Sheet1/000012",
+      "sourceBindingSha256": "fe40c94d60013adb5bfa98b8899ec0dbca28c501cee0dd48684474a3f840ec50",
+      "sourceTextSha256": "573755972de2d47c7b260eaa5a975db6010a7959acecd433726630982ad1b7fb",
+      "freshTranslation": "사용되었다. ㊥ 또한 연방군의 주력기로서는 처음으로 군 내부가 아니라 애너하임 일렉트로㊥닉스에서 개발·양산되었다. ㊥ 주요 무장은 빔 라이플, 빔 세이버, 발칸 포, 핸드 그레네 ㊥ 드 등이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

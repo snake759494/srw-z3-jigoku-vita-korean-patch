@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00056",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00056/Sheet1/000002",
+      "sourceBindingSha256": "1d6c8c77127e3f7be403f9ae1f4c8c9dac0b5382282d7030832f7da96bd4d481",
+      "sourceTextSha256": "732db651ca9824d6d41a624154ab5bef0686deaebc79b123286a39d9ac6fb243",
+      "freshTranslation": "듀란달",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00056/Sheet1/000003",
+      "sourceBindingSha256": "45c31561d9c66e6f9cd8e74226c3b4bc27f62d2741dddae65715b8bfb881c8e0",
+      "sourceTextSha256": "46972028b0d87190e9d5bc75048d5bd3819834caf71211a163e3d40415fa49f0",
+      "freshTranslation": "「기동전사 건담 SEEDDESTINY」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00056/Sheet1/000004",
+      "sourceBindingSha256": "efec33f5368de41c8c650aff7812633b447bc2128818974a801d3407ed404bf9",
+      "sourceTextSha256": "6a8ffc7fd30ec9906204d7743fcc8385ef6c9ee7b676654c01a15aa484350f2b",
+      "freshTranslation": "전체 이름은 길버트 듀란달. ㊥ 플랜트 최고 평의 회의장. ㊥ 전 의장 패트릭 자라와는 달리, 자연과의 공존·평화에의 길을 모방㊥색색하고 있는 온건파. 유니우스 세븐 낙하 사건이나 그 후의 지구 연합군과의 전투 ㊥ 때에는 항상 냉정하고 정확한 판단을 내리고 뛰어난 리더십을 보였다. ㊥ 유전자 연구의 권위이기도 하고, 라우 르 크루제나 레이 더 배럴과는 ㊥의 인연으로 알게 되었다. 또 신의 재능에도 일찍부터 주목하고 있었다. ㊥ 그 최종 목적은 인류를 유전자 수준으로 통제하는 관리사회를 구축하는 것으로 ㊥ 있어, 그것을 「데스티니 플랜」이라고 칭했다. 인류의 전쟁의 역사를 뒤에서 코㊥ 트롤하고 있던 로고스를 멸망한 후, 세계를 향해 플랜의 도입·실행을 ㊥ 선언하는 것도, 진화가 멈추어 버리는 세계를 거부하는 키라들에 의해 저지되었다. ㊥ 마지막은 열매의 아들처럼 신뢰를 받고 있던 레이에게 쏠린다. 그리고 한때 ㊥은 연인끼리였고, 헤어져도 여전히 생각을 계속했습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00056/Sheet1/000005",
+      "sourceBindingSha256": "1cb2df10f43be8cebcd5b1b2c562eb7aa05537c9f06176a78aed0e06f65a3358",
+      "sourceTextSha256": "a4512485ebf1305778985f9992368b7b9542d820a264b134c78440a0f270e5a9",
+      "freshTranslation": "리아에 안겨, 그 ㊥의 평생의 막을 내렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00056/Sheet1/000006",
+      "sourceBindingSha256": "9eafd8185deee3fc383d012d80d1ba0c9b3dfe9f26bab8a1a0320b26b92dc05f",
+      "sourceTextSha256": "6a8ffc7fd30ec9906204d7743fcc8385ef6c9ee7b676654c01a15aa484350f2b",
+      "freshTranslation": "전체 이름은 길버트 듀란달. ㊥ 플랜트 최고 평의 회의장. ㊥ 전 의장 패트릭 자라와는 달리, 자연과의 공존·평화에의 길을 모방㊥색색하고 있는 온건파. 유니우스 세븐 낙하 사건이나 그 후의 지구 연합군과의 전투 ㊥ 때에는 항상 냉정하고 정확한 판단을 내리고 뛰어난 리더십을 보였다. ㊥ 유전자 연구의 권위이기도 하고, 라우 르 크루제나 레이 더 배럴과는 ㊥의 인연으로 알게 되었다. 또 신의 재능에도 일찍부터 주목하고 있었다. ㊥ 그 최종 목적은 인류를 유전자 수준으로 통제하는 관리사회를 구축하는 것으로 ㊥ 있어, 그것을 「데스티니 플랜」이라고 칭했다. 인류의 전쟁의 역사를 뒤에서 코㊥ 트롤하고 있던 로고스를 멸망한 후, 세계를 향해 플랜의 도입·실행을 ㊥ 선언하는 것도, 진화가 멈추어 버리는 세계를 거부하는 키라들에 의해 저지되었다. ㊥ 마지막은 열매의 아들처럼 신뢰를 받고 있던 레이에게 쏠린다. 그리고 한때 ㊥은 연인끼리였고, 헤어져도 여전히 생각을 계속했습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00056/Sheet1/000007",
+      "sourceBindingSha256": "ee482718d16ca806812f66429a3ead6e0739ceac6f59aa67eba2633d35952cb2",
+      "sourceTextSha256": "a4512485ebf1305778985f9992368b7b9542d820a264b134c78440a0f270e5a9",
+      "freshTranslation": "리아에 안겨, 그 ㊥의 평생의 막을 내렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00222",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00222/Sheet1/000002",
+      "sourceBindingSha256": "9aa366f321e18a5f6a5af575fc4c1945b65a1876488c76b0a61a9d34608f343b",
+      "sourceTextSha256": "3d85d3767b4e291744c2fee53007b3ed77f20604dd84964e044c62e962b0d146",
+      "freshTranslation": "이즈카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00222/Sheet1/000003",
+      "sourceBindingSha256": "33ad5f760d7e21ee2760099fbd9663aedb0b0be3cbc9cb1e81a0b81be75403d4",
+      "sourceTextSha256": "3d85d3767b4e291744c2fee53007b3ed77f20604dd84964e044c62e962b0d146",
+      "freshTranslation": "이즈카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00222/Sheet1/000004",
+      "sourceBindingSha256": "743e69355ed5615208f30ee4427a032ae77e2f5d6ff949461b8d17a5a512434a",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00222/Sheet1/000005",
+      "sourceBindingSha256": "5a9ea131faa84b80de637fc6a6bea5dad69d083da48ff98edec19dd0826e527e",
+      "sourceTextSha256": "b03b894d3af796640f202d55b16d9243baad4a22047511d4530a15f493a1b7e0",
+      "freshTranslation": "코쿠보우거의 메인 파일럿. ㊥ 아카기의 국방대시대의 은사로 실기교관을 맡고 있다. 학생 시절부터 아카기의 일을 「아㊥카텐(적점)」이라고 부르고, 지금도 불가능한 가르침에 접하는 것처럼 취급하고 있다. ㊥ 노인 때문에 화려함은 없지만, 경험에 뒷받침된 확실한 실력을 가진다. 항상 냉정하고 적㊥확실한 판단력, 이부키나 아오야마가 눈치채지 못한 아카기의 컨디션 불량을 간파하는 통찰력, 코쿠보㊥우거의 서브 파일럿 두 사람을 정리하는 통율력 등, 곳곳에서 높은 능력을 보였다. ㊥ 기본적으로 위로부터의 명령에는 충실하게 따르지만, 인명을 첫째로 생각할 수 있는 양식인으로 ㊥ 있다. 코쿠보우가가 헤테로다인에 도입되었을 때에는 명령 위반이라고 알면서 자신 ㊥신의 위험을 고민하지 않고 서브 파일럿의 두 사람을 탈출시키고 있다. 게다가 헤테로다인 殲㊥멸을 최우선으로 삼아 OE무기를 사용하려고 하는 상관에 대해 이의를 제기하는 등 인간미 넘치는㊥되는 행동이 곳곳에서 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00222/Sheet1/000006",
+      "sourceBindingSha256": "bc71dc873ca13cfc9186876b4728825889a98badfbee042bc3dec2bc302425dc",
+      "sourceTextSha256": "b03b894d3af796640f202d55b16d9243baad4a22047511d4530a15f493a1b7e0",
+      "freshTranslation": "코쿠보우거의 메인 파일럿. ㊥ 아카기의 국방대시대의 은사로 실기교관을 맡고 있다. 학생 시절부터 아카기의 일을 「아㊥카텐(적점)」이라고 부르고, 지금도 불가능한 가르침에 접하는 것처럼 취급하고 있다. ㊥ 노인 때문에 화려함은 없지만, 경험에 뒷받침된 확실한 실력을 가진다. 항상 냉정하고 적㊥확실한 판단력, 이부키나 아오야마가 눈치채지 못한 아카기의 컨디션 불량을 간파하는 통찰력, 코쿠보㊥우거의 서브 파일럿 두 사람을 정리하는 통율력 등, 곳곳에서 높은 능력을 보였다. ㊥ 기본적으로 위로부터의 명령에는 충실하게 따르지만, 인명을 첫째로 생각할 수 있는 양식인으로 ㊥ 있다. 코쿠보우가가 헤테로다인에 도입되었을 때에는 명령 위반이라고 알면서 자신 ㊥신의 위험을 고민하지 않고 서브 파일럿의 두 사람을 탈출시키고 있다. 게다가 헤테로다인 殲㊥멸을 최우선으로 삼아 OE무기를 사용하려고 하는 상관에 대해 이의를 제기하는 등 인간미 넘치는㊥되는 행동이 곳곳에서 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

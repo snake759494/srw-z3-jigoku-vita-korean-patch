@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00214",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00214/Sheet1/000002",
+      "sourceBindingSha256": "dba071868a0161a558e88bc33147316784f8e5307ffa62338cd9f765bc1f5aec",
+      "sourceTextSha256": "74552147d6d90a7fe064004f2b2f68e7273241d3e0e743571534fce4574c3fb2",
+      "freshTranslation": "아슈라 남작",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00214/Sheet1/000003",
+      "sourceBindingSha256": "0cf4dff4aa282a58a1b258d5a9e5e05129363dfe76eb9910e1be04d6f3338b6c",
+      "sourceTextSha256": "990311841754c67e774034acd7ae12ccfd3adfc3ece6ddbf22eb4810b70c601d",
+      "freshTranslation": "아슈라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00214/Sheet1/000004",
+      "sourceBindingSha256": "0154f6ed667ff2c7a1570f7ac3f9ef054719bc3bd9a1fe74ed3bcb1f4461114e",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00214/Sheet1/000005",
+      "sourceBindingSha256": "56f8a89e2aff43365ddc804abfe923c9e4c36cca9e765fba5cdf8c70f0f3830a",
+      "sourceTextSha256": "f8fdd6a78f96696d3278e5763b651e9cc474fe3e3fe179d512d1fe3e6ed76c1b",
+      "freshTranslation": "Dr. 헬 부하의 개조 인간으로, 오대 군단의 하나 「아슈라 군단」의 지휘관. ㊥ 원래는 바도스 섬에서 잠에 잠긴 한 세트의 남녀이었지만, Dr. 헬들의 손에 따라 ㊥하고 몸을 연결되어 부활했다. 그 때, 니시키오리 츠바사의 생명을 노리자 신체에 전㊥류가 흐르도록 세공되었다. ㊥ 손에 넣은 버드스의 지팡이로 기계 짐승을 자유자재로 조종, 마징가 Z를 달리는 갑아와 격투를 벌어 ㊥ 펼쳤다. ㊥생신에서도 높은 전투력을 자랑하며, 그 일격은 마징가 Z를 흔들릴 정도의 위력을 가지고 ㊥개.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00214/Sheet1/000006",
+      "sourceBindingSha256": "89f6c23da5c60fb664696f910269c38249be68d0cb6fd9e15a1593dce286ad3f",
+      "sourceTextSha256": "e5eb9b7290ee4c3059ed7443b34a5ebed536b3dcc515d0eb42b58fc7929c8bd4",
+      "freshTranslation": "Dr. 헬 부하의 개조 인간으로, 오대 군단의 하나 「아슈라 군단」의 지휘관. ㊥ 손에 넣은 버드스의 지팡이로 기계 짐승을 자유자재로 조종, 마징가 Z를 달리는 갑아와 격투를 벌어 ㊥ 펼쳤다. ㊥생신에서도 높은 전투력을 자랑하며, 그 일격은 마징가 Z를 흔들릴 정도의 위력을 가지고 ㊥개. ㊥ 원래는 바도스 섬에서 잠에 잠긴 고대 미케네의 무녀 트리스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00214/Sheet1/000007",
+      "sourceBindingSha256": "fa2566a8e5fb8a78a0b7307425ec48446de92540c30a708fc307341f3237f230",
+      "sourceTextSha256": "ed7eb26cf913ec03e6854fb9f5e52caffd809acf512f9e84e6c1d41b05fdce88",
+      "freshTranslation": "네와 이졸데㊥그러나 Dr. 헬의 책략에 의해 서로의 반신을 상실. 잃어버린 반신을 보충하는 형태로 두 몸을 연결㊥어울려, 아슈라 남작으로서 부활했다. 그 때 주인 Dr. 헬과 소생 손㊥술을 한 니시키오리 츠바사에 반항할 수 없도록 암시가 걸려 있다.㊥또 암시는 또 하나 있고, Dr. 헬이 살아있는 한, 아슈라 남작은 스스로 생명㊥을 끊을 수 없다.㊥자신을 재생시킨 주로 Dr. 헬에게 절대적인 충성을 맹세했지만 케도라㊥가 보여준 과거 속에서 반신을 잃은 것이 Dr. 헬의 작업이었음을 알고 반항을 결정했습니다.㊥의. 최종 결전에서는 갑아와 츠바사와 손을 잡고 Dr. 헬 타도를 완수한다.㊥하지만 아슈라 남작의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00214/Sheet1/000008",
+      "sourceBindingSha256": "dd8f8f9fa97fb9708c722b3c41bd4c7fd4d16e7c261d2530d002e01897846229",
+      "sourceTextSha256": "0ed4cdb2936a59bc35eb7a926d4578f9b3e3960ac929c29374f667d92ac03d8e",
+      "freshTranslation": "의 목적은 Dr. 헬의 암시를 풀어 스스로 생명을 끊는 일로㊥ 있었다. 그에 따라 미케네의 신들이 부활하고 세계는 최악의 사태를 맞이하게 ㊥ 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

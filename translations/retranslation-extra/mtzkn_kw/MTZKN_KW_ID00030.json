@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00030",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00030/Sheet1/000002",
+      "sourceBindingSha256": "44b71eceda8f394e51f163a7645134b391280b16071fefa275841e53eab0a5c6",
+      "sourceTextSha256": "45daab8f0dfb910345e74f0461212e0e0a15a30beaf13efd31d7cb975279e012",
+      "freshTranslation": "후모후모랜드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00030/Sheet1/000003",
+      "sourceBindingSha256": "24f64f1f0b2cadfdd8d67326eec69bc5e345ff609833d68cb0a02aff6ca3338b",
+      "sourceTextSha256": "914af5dcbc8c0b6cb94015d0f98c70513418c5ec15557e2cb76c03973f5ce3bb",
+      "freshTranslation": "\"풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00030/Sheet1/000004",
+      "sourceBindingSha256": "5bda1ad15b6c5ad70497bbc2336d3a026085be0e4e988188a5db953b0c332d4f",
+      "sourceTextSha256": "983aba52bd5705db667e47e82a5457e818e6c23cd7092b5947890b663276695d",
+      "freshTranslation": "르 패닉! \"",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00030/Sheet1/000005",
+      "sourceBindingSha256": "699ec95d5ab9dcf4b602c5f32ecd4da9cf0cb71b75e124330d5d50e300a95700",
+      "sourceTextSha256": "ce438b5767cd0cec1d688ced569c4b6172b8797ee4be4d4795dbe71f03f0f026",
+      "freshTranslation": "본 태군을 마스코트 캐릭터",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00030/Sheet1/000006",
+      "sourceBindingSha256": "a5059462e4e1b19c075ff73ba26f021a7b7a8ebcb30f5968b9e5e067d18bbba4",
+      "sourceTextSha256": "465b430df79c6fff187262613367648be3396711eb88eedd8850bfb4bdc9b18d",
+      "freshTranslation": "하는 유원지.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00030/Sheet1/000007",
+      "sourceBindingSha256": "10c18912c13ca81d2f3e29ee6843d7f42dfe7a9b60554ffc511fc53ba7165eb5",
+      "sourceTextSha256": "ce438b5767cd0cec1d688ced569c4b6172b8797ee4be4d4795dbe71f03f0f026",
+      "freshTranslation": "본 태군을 마스코트 캐릭터",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00030/Sheet1/000008",
+      "sourceBindingSha256": "7e3513d866d78353db3ef5e92d7c5102962454777665318c5f28faa57da70fa3",
+      "sourceTextSha256": "465b430df79c6fff187262613367648be3396711eb88eedd8850bfb4bdc9b18d",
+      "freshTranslation": "하는 유원지.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

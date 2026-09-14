@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00062",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00062/Sheet1/000002",
+      "sourceBindingSha256": "31b4d6d781a1f5f2bbf45fd6dbcbf593a232a49343d192cf270ee06b19585862",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00062/Sheet1/000003",
+      "sourceBindingSha256": "9e64d015d930b47c9c44eacdefc4a079d723dd160c6abb424fb5139b494086a7",
+      "sourceTextSha256": "f441831d49010b245afb22ad1988a3be0630f3f4f8eec12b2bb977b18a563b10",
+      "freshTranslation": "토르기스 III",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00062/Sheet1/000004",
+      "sourceBindingSha256": "1eb064763a7b1a8aac8b5372f59473d702912f3e4758785292fb50ee0bc9cccc",
+      "sourceTextSha256": "f441831d49010b245afb22ad1988a3be0630f3f4f8eec12b2bb977b18a563b10",
+      "freshTranslation": "토르기스 III",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00062/Sheet1/000005",
+      "sourceBindingSha256": "e4a8feab6a2c9440657d179b8a2b66b2b3d7c61a0645d0d1d933324107298b35",
+      "sourceTextSha256": "6a1ab94e8b79077dce751fdcc5215ffc17182e23996e305df2c3cba3d9e3d5c1",
+      "freshTranslation": "젝스 마키스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00062/Sheet1/000006",
+      "sourceBindingSha256": "5930fb656e2a7b443b95ee5a6b44d08c82faf5f867704bdac5a43dcac2f68ad5",
+      "sourceTextSha256": "d2b3885c210f64b7a51eb0e98502f3bfea339aedd48b9c92de552fd5bb228864",
+      "freshTranslation": "트레이즈 쿠슈리나다의 지시에 의해 개발된 토르기스의 파생기. ㊥ 「고기동・중장갑」이라고 하는 토르기스의 극단적인 성능을 유지한 채, 더욱 공격력의 ㊥ 강화를 도모한 기체이다. ㊥ 그 컨셉대로 새롭게 장비된 메가캐논은 도버건을 웃도는 위력㊥을 가지고 최대출력으로 발사되었을 경우 자원위성조차도 일격으로 파괴한다. ㊥ 또, 메가 캐논은 포신의 길이에 의해 위력을 조절할 수 있기 때문에, 전황에 ㊥ 맞추어 임기 응변인 싸움 방법을 취할 수 있게 되어 있다. ㊥ 종전 후 프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00062/Sheet1/000007",
+      "sourceBindingSha256": "cfaf9b0b1b9c4c90206635b0df49af6927fdc73a6184d41bd5469463f0f47767",
+      "sourceTextSha256": "40064db4a60de618d23556c8cb4c30db884d69560fac4ede9f70665adea25c3c",
+      "freshTranslation": "- 손으로 관리되었지만 마리 메이어 군대의 반란시에㊥수 마르키스의 승기로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00062/Sheet1/000008",
+      "sourceBindingSha256": "ac8e901ca64a2cc5906f8781320c3af4f64240732b564facc79407cfa9740427",
+      "sourceTextSha256": "890e5c3fbbe38131362af31dc86dfde2c66b31ac396a628eed0552c559d4a837",
+      "freshTranslation": "사용되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00062/Sheet1/000009",
+      "sourceBindingSha256": "0c15c05c5b49f81d6ac42845cb91c12b81bf2c144afa5b24d8bb2447c8f8ed12",
+      "sourceTextSha256": "d2b3885c210f64b7a51eb0e98502f3bfea339aedd48b9c92de552fd5bb228864",
+      "freshTranslation": "트레이즈 쿠슈리나다의 지시에 의해 개발된 토르기스의 파생기. ㊥ 「고기동・중장갑」이라고 하는 토르기스의 극단적인 성능을 유지한 채, 더욱 공격력의 ㊥ 강화를 도모한 기체이다. ㊥ 그 컨셉대로 새롭게 장비된 메가캐논은 도버건을 웃도는 위력㊥을 가지고 최대출력으로 발사되었을 경우 자원위성조차도 일격으로 파괴한다. ㊥ 또, 메가 캐논은 포신의 길이에 의해 위력을 조절할 수 있기 때문에, 전황에 ㊥ 맞추어 임기 응변인 싸움 방법을 취할 수 있게 되어 있다. ㊥ 종전 후 프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00062/Sheet1/000010",
+      "sourceBindingSha256": "6d01877a3baea89c86136e788c0769bd76a8092b8ca7397c13e8e166a4aa4e91",
+      "sourceTextSha256": "40064db4a60de618d23556c8cb4c30db884d69560fac4ede9f70665adea25c3c",
+      "freshTranslation": "- 손으로 관리되었지만 마리 메이어 군대의 반란시에㊥수 마르키스의 승기로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00062/Sheet1/000011",
+      "sourceBindingSha256": "fd576a3d934d70b4d77653264d9d47ff57bb3ff8fe2f617af7a59c7e8096ddf8",
+      "sourceTextSha256": "890e5c3fbbe38131362af31dc86dfde2c66b31ac396a628eed0552c559d4a837",
+      "freshTranslation": "사용되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

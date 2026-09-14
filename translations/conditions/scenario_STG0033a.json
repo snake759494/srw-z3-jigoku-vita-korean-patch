@@ -1,0 +1,62 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0033a",
+    "fileName": "STG0033a.cpk",
+    "target": "DATA/STAGE/STG0033a.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "c82d9f7d5d7bae4ffe2bdcb29f290365c37b3825a661cd4f98df97d7375e676d"
+  },
+  "entries": [
+    {
+      "entryId": "STG0033a/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "우페이의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0033a/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "히이로의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0033a/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "없음",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0033a/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "아군 유닛 중 하나라도 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

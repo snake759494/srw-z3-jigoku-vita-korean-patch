@@ -1,0 +1,49 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00048",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00048/Sheet1/000002",
+      "sourceBindingSha256": "06aeda4828c3051cea9d650566e70265cf6e46d9cf011d1dbdde0b5bc8d4cae2",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00048/Sheet1/000003",
+      "sourceBindingSha256": "a8334214462122ec758a8497009b66702f7c8691a22bd899df5ba0aeef9fc07d",
+      "sourceTextSha256": "2455ecd0fae706c86a9734b206239302f6ed916054eeeb70d1ec97020f5dc449",
+      "freshTranslation": "UCW에서 사용된 정보 네트워크 시스템. ㊥ \"Universal Network\"의 약칭으로, \"유에누\"라고 발음 ㊥된다. ㊥ 다원 세계의 정보의 일원화와 공유화를 목적으로 부설된 것으로, 단말마저 ㊥ 있으면 누구나 정보의 열람이나 발신이 가능해지고 있다. ㊥ 시민들에게 귀중한 정보원인 동시에 오락 미디어이기도 하며, 다원세 ㊥계에서 매우 중요한 인프라가 되고 있다. ㊥ 신세시 공진동 후의 세계에서도 정보 인프라의 통일 규격으로서 채용되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00048/Sheet1/000004",
+      "sourceBindingSha256": "be6a7bd85a7d944519f0fd0d95db6dc8e9c07aa89764c13575206d7400cf7b0b",
+      "sourceTextSha256": "2455ecd0fae706c86a9734b206239302f6ed916054eeeb70d1ec97020f5dc449",
+      "freshTranslation": "UCW에서 사용된 정보 네트워크 시스템. ㊥ \"Universal Network\"의 약칭으로, \"유에누\"라고 발음 ㊥된다. ㊥ 다원 세계의 정보의 일원화와 공유화를 목적으로 부설된 것으로, 단말마저 ㊥ 있으면 누구나 정보의 열람이나 발신이 가능해지고 있다. ㊥ 시민들에게 귀중한 정보원인 동시에 오락 미디어이기도 하며, 다원세 ㊥계에서 매우 중요한 인프라가 되고 있다. ㊥ 신세시 공진동 후의 세계에서도 정보 인프라의 통일 규격으로서 채용되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

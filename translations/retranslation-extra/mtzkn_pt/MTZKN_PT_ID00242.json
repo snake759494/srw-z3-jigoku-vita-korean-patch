@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00242",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00242/Sheet1/000002",
+      "sourceBindingSha256": "f285473e149df23140ad98dca969e58ec9c0f4409a6b5f6732ea052bae22e367",
+      "sourceTextSha256": "2369ed55313f961406cf54e50a2f824428594fe0d0e673c57c3a06d650b68c80",
+      "freshTranslation": "던 더스턴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00242/Sheet1/000003",
+      "sourceBindingSha256": "7707b460083edb57b86dc32dbae36078102091333d8740a2a2dbd6ed454ff130",
+      "sourceTextSha256": "a0605afb0b75ace719af093aa9fafdcd1c6f160990d6b3e70970c71a29b12358",
+      "freshTranslation": "더스턴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00242/Sheet1/000004",
+      "sourceBindingSha256": "e21abf493081276cf45ffe00a912cf5e7f8db165b62cfb883578f0826ff79cec",
+      "sourceTextSha256": "fe82c905a6215168a90a9b27d7eb05a7c47166cb9ec609a131f0bd7583092bde",
+      "freshTranslation": "THE 빅오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00242/Sheet1/000005",
+      "sourceBindingSha256": "8d09e427e6910b228e5d044ea2bffa0ca50aac764b8451c915583e5b76228af8",
+      "sourceTextSha256": "ef5336e8755f391366239af97efc1878549760cac9f526ffdfc3e37ad2382346",
+      "freshTranslation": "패러다임군 경찰의 서장으로 기동부대 지휘관. 47세. ㊥ 군 경찰의 일에 자부심을 가지고 있으며, 직무에 충실하게 따르는 무골인 인물. 돔의 내외㊥에 관계없이, 시민을 지키기 위해서라면 위로부터의 명령에 반대해, 스스로의 생각으로 움직일 수 있어㊥하는 정의감의 소유자이기도 하다. 그런 그를 당황하고 행동을 함께 하는 부하도 많다. ㊥ 한때 부하였던 로저는 때로는 반목하면서도 마음 밑에서는 신뢰하고 있어 ㊥ 있어 좋은 친구 관계를 구축하고 있다. ㊥ 메가데우스 사건에서 비력한 자신과 군 경찰에 자극, 군 경찰 그 자체의 존재가치 ㊥에 헤매는 것을 기억하기 시작했지만, 로저가 빅오의 탑승자로 판명되고 나서는, 앞으로 ㊥로 그의 서포트를 맡도록(듯이). ㊥ 최종화에서는 핀치에 빠진 빅오를 구하기 위해 자신의 자랑이라고도 할 수 있는 군경찰 ㊥의 배지를 망설임 없이 버린다는 기개를 보이고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00242/Sheet1/000006",
+      "sourceBindingSha256": "3af7910e2d4cfa5120a88c10ea4bbf9b8112375e777ec575c95fd75cea01e0f7",
+      "sourceTextSha256": "ef5336e8755f391366239af97efc1878549760cac9f526ffdfc3e37ad2382346",
+      "freshTranslation": "패러다임군 경찰의 서장으로 기동부대 지휘관. 47세. ㊥ 군 경찰의 일에 자부심을 가지고 있으며, 직무에 충실하게 따르는 무골인 인물. 돔의 내외㊥에 관계없이, 시민을 지키기 위해서라면 위로부터의 명령에 반대해, 스스로의 생각으로 움직일 수 있어㊥하는 정의감의 소유자이기도 하다. 그런 그를 당황하고 행동을 함께 하는 부하도 많다. ㊥ 한때 부하였던 로저는 때로는 반목하면서도 마음 밑에서는 신뢰하고 있어 ㊥ 있어 좋은 친구 관계를 구축하고 있다. ㊥ 메가데우스 사건에서 비력한 자신과 군 경찰에 자극, 군 경찰 그 자체의 존재가치 ㊥에 헤매는 것을 기억하기 시작했지만, 로저가 빅오의 탑승자로 판명되고 나서는, 앞으로 ㊥로 그의 서포트를 맡도록(듯이). ㊥ 최종화에서는 핀치에 빠진 빅오를 구하기 위해 자신의 자랑이라고도 할 수 있는 군경찰 ㊥의 배지를 망설임 없이 버린다는 기개를 보이고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

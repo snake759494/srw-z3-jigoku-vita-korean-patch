@@ -1,0 +1,73 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0078",
+    "fileName": "STG0078.cpk",
+    "target": "DATA/STAGE/STG0078.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "512577dfbac21b9f0564b25fccd2b0aaca72b84f4c65b1ef0ca4ebf59c5ca48e"
+  },
+  "entries": [
+    {
+      "entryId": "STG0078/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "5턴 이내에 EVA 초호기를 북쪽(맵 위)의 포인트,\n영호기를 동쪽(맵 오른쪽), 2호기를 서쪽(맵 왼쪽)의\n포인트에 도달시킨다",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0078/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0078/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "신지·레이·아스카 중 하나라도 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0078/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "6턴째를 맞이한다",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0078/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "승리 조건 달성 시 맵 상의 모든 적을 격추한 상태로 한다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

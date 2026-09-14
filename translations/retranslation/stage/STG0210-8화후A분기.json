@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "stage",
+  "assetKey": "STG0210-8화후A분기",
+  "baseline": {
+    "sha256": "7a7bd4a37228b384a5d8ed7225ccdcb378bbe38cb6196c8057cc439730cbe1cf",
+    "rowCount": 175210
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "STG0210-8화후A분기/ID00003/000002",
+      "sourceBindingSha256": "a666de10de784732d9be99fb5d34145e2822b3860422c6239f38757ad23445ed",
+      "sourceTextSha256": "e5e40bfe29836fbe855f98f588e6a5b447cb9a8c2e0cc3356fea11bc38876970",
+      "freshTranslation": "$n",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0210-8화후A분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0210-8화후A분기/ID00003/000003",
+      "sourceBindingSha256": "fed6db563911d1e907f8bc96f9605e422c0f505f30809382f22e8134c79baf66",
+      "sourceTextSha256": "4be66cf94e7033822cdfc8a62cfb6122805b339fe22766c4e71d115cc89cb60f",
+      "freshTranslation": "………",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0210-8화후A분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0210-8화후A분기/ID00003/000006",
+      "sourceBindingSha256": "ae8a6a3e8ad61dbaa9efc75d395793e96d02597a0e045941fb2ad9c770801dbf",
+      "sourceTextSha256": "f8f79cfefa9e11706140035c0318ca52eac153121c751dc58da2ded78d29a199",
+      "freshTranslation": "~D 트레이더~",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0210-8화후A분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0210-8화후A분기/ID00003/000007",
+      "sourceBindingSha256": "9bba903a7517c6fd8db5c69ed2c672cab05ba1e69e826eda18fb40fd735eba98",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0210-8화후A분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0210-8화후A분기/ID00003/000008",
+      "sourceBindingSha256": "d3e50e6fccecc3836d9047c5ead13d95c3ebba26f1c34edbb8d7b86d5191cc1d",
+      "sourceTextSha256": "2123058de5b7432b71a54874934e329dc5a5e35c74a8db380cf5ec864690a97b",
+      "freshTranslation": "자자, $n 씨네는",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0210-8화후A분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0210-8화후A분기/ID00003/000009",
+      "sourceBindingSha256": "60320007128f0b4d88bf81bd96fec0f0900c692f1ab9780b3331629c1d30d6d0",
+      "sourceTextSha256": "a9751f5820108fb11a7416a65cdbcf6c48364c40b6e80d2302a9f5a20fb76f2d",
+      "freshTranslation": "변질자를 쫓게 된 모양입니다만…",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0210-8화후A분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0210-8화후A분기/ID00003/000010",
+      "sourceBindingSha256": "20f6ab8760b8b65e81cb692f02fe6699b9ebd8d2517dcb3d65fc96ff785e3ce2",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0210-8화후A분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0210-8화후A분기/ID00003/000011",
+      "sourceBindingSha256": "7267b503f89d62512ebb918fd5cc00cd80fd15c69f59aaa3743a42c8e55883a1",
+      "sourceTextSha256": "da4478d4e2cc933f77a53a30d708db461ded3aa34ced0392ea6cbcef7ba6f2b2",
+      "freshTranslation": "과연, 그 변질자의 정체는!?",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0210-8화후A분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0210-8화후A분기/ID00003/000012",
+      "sourceBindingSha256": "c494063524bb8fbd732205fa7b7a27b30a7ffe33e38941adbc883e5c017fab4b",
+      "sourceTextSha256": "c8ddec6c9d03ddd4e0b646fa8771cb0a6ca32cc1d30a7c400be43ccf2df84a16",
+      "freshTranslation": "풍운급을 고하는 다음 회를 놓치지 마!",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0210-8화후A분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0210-8화후A분기/ID00003/000013",
+      "sourceBindingSha256": "d7a81eb1071dc3fb65ec7cbba9f22cd6fbcb55a2659de464b08adbe906d455c8",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0210-8화후A분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0210-8화후A분기/ID00003/000014",
+      "sourceBindingSha256": "e8a54cff0b9b82759390bbd6f12068f806d4d1fbdbebb055db6b0cc4ceb94a05",
+      "sourceTextSha256": "1e417271fd211a25cdac4ddc5828720cbeed5dace2367bb06fbb24f4ef5ab153",
+      "freshTranslation": "라~ 고 예고편처럼 부추겨 보기도.",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0210-8화후A분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0210-8화후A분기/ID00003/000015",
+      "sourceBindingSha256": "52e75f5285e84ed57a4189e243d579ab2f9837b0b0c9c10ab56d9d8c55f96595",
+      "sourceTextSha256": "c46d7290248b44507db8e776b60c7e9ca0e47fb7b035bf238ad4a905869c7e12",
+      "freshTranslation": "오늘도 힘차게… 장사, 장사!",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0210-8화후A분기 신규 번역 초안"
+    }
+  ]
+}

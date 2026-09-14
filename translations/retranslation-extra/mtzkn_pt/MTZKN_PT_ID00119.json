@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00119",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00119/Sheet1/000002",
+      "sourceBindingSha256": "61256003d0efa3758c35d9750fed07675795b4f4162eeffa4fc3000f3778b025",
+      "sourceTextSha256": "3c489c49c390a3f8f7b1a2599c44cbf767bf53b488af9a156fa7b18cef0369a3",
+      "freshTranslation": "빌리 카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00119/Sheet1/000003",
+      "sourceBindingSha256": "db7072f0ead4c4d0005a2a79dfc8c7fd626b8d3c8113f7d6f7d58b257bc8b4cc",
+      "sourceTextSha256": "0e5fcdddb4c53fcefeb4dbe18b450620d832ebdcdb92877491d335b7a94f8dd4",
+      "freshTranslation": "길리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00119/Sheet1/000004",
+      "sourceBindingSha256": "9dcd44619450684f0c41146ca72aa2dc9e1dac4cb97d94c9f006570013df6495",
+      "sourceTextSha256": "082af1583e2ba421ca8dad9ec065d6fcdf844f0b15e18d807948b3e2135149af",
+      "freshTranslation": "빌리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00119/Sheet1/000005",
+      "sourceBindingSha256": "f8e6f002dfee5962580434f866707b367457d1a04e4a5ef0e45e2c0ff26501a4",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00119/Sheet1/000006",
+      "sourceBindingSha256": "ee5472bd90af847fe3381efe54845f2b77c9cbff577673fe96fc73dfb4b07d1b",
+      "sourceTextSha256": "aa8e502c94ea6fc7d1ed6e9a73d5a8a4ab0fbf5bc2a6e2f0f9deebec3b58029a",
+      "freshTranslation": "전 어로우즈의 모빌슈트 개발 주임으로, 현재는 지구 연방군의 기술 고문을 맡고 있다. ㊥38세. ㊥모빌슈트 개발의 권위인 레이프 에이프만 교수의 가르침으로, 이전에는 유니오㊥n의 MSWAD의 기술 고문을 맡고 있었다. ㊥솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00119/Sheet1/000007",
+      "sourceBindingSha256": "552fc424b349dfc5619cb9541237c2da38be43b0524f139d6adba507f5790bcb",
+      "sourceTextSha256": "ae8c4fbcae0a16a180743a404bdde6e537cfb10a0ef6c1095a3f502344c9fb88",
+      "freshTranslation": "루비잉과 유엔군의 싸움 후, 가는 곳을 없앤 스멜라기를, 그렇게 ㊥는 모르고 집에 살게 했다. ㊥ 이윽고 나타난 세츠나의 입에서 마음을 전하는 구조가 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00119/Sheet1/000008",
+      "sourceBindingSha256": "b8fbb4b269a57d24dd9354e33415de526e541e8f8fb9375a67882c04fb2617aa",
+      "sourceTextSha256": "153e9d2a7873e5a4cbd6e3f0280b377f27ba4b7059c27815cf5afcf1965b0165",
+      "freshTranslation": "루비잉의 남자 ㊥ 바였던 것을 알고 배신당한 분노와 미움의 마음에서 알로우즈로 향했다. ㊥ 실수",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00119/Sheet1/000009",
+      "sourceBindingSha256": "c359ac5ec7ff187ebf29162d65f4ae40ac80d3794d4c21ab8ef486072a1b45ac",
+      "sourceTextSha256": "50642d20486659ffd6d79506764ad191c86fc7b71024c622653e1c3ead9cd57e",
+      "freshTranslation": "- 부시도(=그라함)는 유니온 시대부터 변함없는 교류를 갖고 그 ㊥을 위해 트랜잠을 갖춘 마슬라오, 스사노오를 개발했다. ㊥솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00119/Sheet1/000010",
+      "sourceBindingSha256": "de8076db3621c66da2c67728cd2468758cbe5927bcaf28ad7538d08979f65750",
+      "sourceTextSha256": "594b05c468db5a7be7f0359c63687c5c085b19dabbd01cc5ad3ad76b0e96234f",
+      "freshTranslation": "루비잉과 이노베이드와의 결전에서는 스스로 오토마톤과 함께 푸트레㊥ 마이오스 2에 탑승한다. 수메라기와 대치하지만 GN 입자에 의해 그녀의 마음 안을 ㊥ 알고 화해했다. ㊥ 종전 후에는 기술 고문으로서 브레이브의 개발을 실시했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00119/Sheet1/000011",
+      "sourceBindingSha256": "61f495d13e41b2e75b56880de3ccae43cf9982e448fcd3ba245ae067c357728f",
+      "sourceTextSha256": "aa8e502c94ea6fc7d1ed6e9a73d5a8a4ab0fbf5bc2a6e2f0f9deebec3b58029a",
+      "freshTranslation": "전 어로우즈의 모빌슈트 개발 주임으로, 현재는 지구 연방군의 기술 고문을 맡고 있다. ㊥38세. ㊥모빌슈트 개발의 권위인 레이프 에이프만 교수의 가르침으로, 이전에는 유니오㊥n의 MSWAD의 기술 고문을 맡고 있었다. ㊥솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00119/Sheet1/000012",
+      "sourceBindingSha256": "5b32ef957437dcaa8005a448bdb2ce2a65fec0947f76068def29320c9af9606a",
+      "sourceTextSha256": "ae8c4fbcae0a16a180743a404bdde6e537cfb10a0ef6c1095a3f502344c9fb88",
+      "freshTranslation": "루비잉과 유엔군의 싸움 후, 가는 곳을 없앤 스멜라기를, 그렇게 ㊥는 모르고 집에 살게 했다. ㊥ 이윽고 나타난 세츠나의 입에서 마음을 전하는 구조가 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00119/Sheet1/000013",
+      "sourceBindingSha256": "3ee58d7f645246f24be7db8b4dec52e95ac75fe21082af375470903184b5017b",
+      "sourceTextSha256": "153e9d2a7873e5a4cbd6e3f0280b377f27ba4b7059c27815cf5afcf1965b0165",
+      "freshTranslation": "루비잉의 남자 ㊥ 바였던 것을 알고 배신당한 분노와 미움의 마음에서 알로우즈로 향했다. ㊥ 실수",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00119/Sheet1/000014",
+      "sourceBindingSha256": "4a0fe37d9e053742de0ddcd30597a7b0171064a307f8809d71e277ad8c2a39e1",
+      "sourceTextSha256": "50642d20486659ffd6d79506764ad191c86fc7b71024c622653e1c3ead9cd57e",
+      "freshTranslation": "- 부시도(=그라함)는 유니온 시대부터 변함없는 교류를 갖고 그 ㊥을 위해 트랜잠을 갖춘 마슬라오, 스사노오를 개발했다. ㊥솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00119/Sheet1/000015",
+      "sourceBindingSha256": "33936fc72fd10adfe54b1b572f9658ec146ace2dcbedecbe466cd4060d158350",
+      "sourceTextSha256": "594b05c468db5a7be7f0359c63687c5c085b19dabbd01cc5ad3ad76b0e96234f",
+      "freshTranslation": "루비잉과 이노베이드와의 결전에서는 스스로 오토마톤과 함께 푸트레㊥ 마이오스 2에 탑승한다. 수메라기와 대치하지만 GN 입자에 의해 그녀의 마음 안을 ㊥ 알고 화해했다. ㊥ 종전 후에는 기술 고문으로서 브레이브의 개발을 실시했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

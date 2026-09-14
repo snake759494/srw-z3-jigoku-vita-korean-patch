@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00251",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00251/Sheet1/000002",
+      "sourceBindingSha256": "76d26934160bddda394f272d061a301374d1a8e6cad7777cc104bbf4c7b74ccc",
+      "sourceTextSha256": "52fa980f460bbedff1c7d04eb815784fd53074da84f2c01e6015014ccc60d76c",
+      "freshTranslation": "멜리사 마오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00251/Sheet1/000003",
+      "sourceBindingSha256": "cba6e9fa9de05732aa95614471dd868dba8260a3a8e668b784b2014adcfa8290",
+      "sourceTextSha256": "6723de6793ab3c3c6eaffd9b7ade49006811707639a00de366a37256a8e9af1b",
+      "freshTranslation": "마오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00251/Sheet1/000004",
+      "sourceBindingSha256": "9589d61bf09a1391cffa444b59a81329f8755a87fd8f53c620b31e61fb622419",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00251/Sheet1/000005",
+      "sourceBindingSha256": "d581462f7fbeb04a5937f057bc03de586291db074f3205ef34a29b7c27b4d6b8",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00251/Sheet1/000006",
+      "sourceBindingSha256": "ac434720fabcf8ecbd748f29c03a2200546adea00ea37a7c2c1b6ad58bb7f9e7",
+      "sourceTextSha256": "7140f407c068ef38b18bfaaf3e3f9be35280620d3cfca509fc0f8fa9d9c332fd",
+      "freshTranslation": "네타니 미치코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00251/Sheet1/000007",
+      "sourceBindingSha256": "15dd30ad56ad83612957b387fcebbdef0862d3ffead1ed2e3ebaf06a41a5ea12",
+      "sourceTextSha256": "30f28f25921212994514e35bac9269a6af5bf57995a5004827cc7323b5cb342c",
+      "freshTranslation": "대테러 조직 미스릴에 소속된 용병. 계급은 조장. 콜사인은 울즈2. ㊥ 투아하 데 다낭의 SRT(특별 대응반) 요원으로, 소스케와 크루츠의 상관으로 ㊥한다. 해병대 출신으로, AS의 조종, 격투, 잠입, 통신 기기의 조작 등, 모든 임무에 ㊥정통. 도흉도 뻗어 있어 종개들로부터 절대적인 신뢰를 두고 있다. ㊥ 짧은 머리와 암컷",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00251/Sheet1/000008",
+      "sourceBindingSha256": "8ca69eb5a736d779ae921bb23ab1731ba68a1e12ddbb29ea7e0dad900dd72773",
+      "sourceTextSha256": "054876f70b6c279242b861f42e70b8be706c7fb16562a2cf0b6efe151b59242c",
+      "freshTranslation": "같은 유연한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00251/Sheet1/000009",
+      "sourceBindingSha256": "9fb1247b394a540c9a4f13b315cd6a96d71cae13faab051ca1dafa7bb8540145",
+      "sourceTextSha256": "5dca73d3b8b7d78839bd6a24014f66243e9a94469977ee0a00d8f4c1233dd558",
+      "freshTranslation": "일이 특징으로, 맥주를 각별히 사랑한다㊥한다. ㊥데다낭 함장의 테사와는 프라이빗이라도 사이가 좋고, 사적인 장소에서는 그녀로부터 메㊥리사라고 불린다. ㊥ 치토리 카나메를 호위하는 임무를 갖고, 소스케와 크루츠와 함께 일본에 파견된다. 이후 ㊥ 소스케와 함께 다양한 적과 싸워 간다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00251/Sheet1/000010",
+      "sourceBindingSha256": "f4520d742f65f05341362caadda298c545fe52655445b1bdf5bf25d0774d2fd1",
+      "sourceTextSha256": "30f28f25921212994514e35bac9269a6af5bf57995a5004827cc7323b5cb342c",
+      "freshTranslation": "대테러 조직 미스릴에 소속된 용병. 계급은 조장. 콜사인은 울즈2. ㊥ 투아하 데 다낭의 SRT(특별 대응반) 요원으로, 소스케와 크루츠의 상관으로 ㊥한다. 해병대 출신으로, AS의 조종, 격투, 잠입, 통신 기기의 조작 등, 모든 임무에 ㊥정통. 도흉도 뻗어 있어 종개들로부터 절대적인 신뢰를 두고 있다. ㊥ 짧은 머리와 암컷",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00251/Sheet1/000011",
+      "sourceBindingSha256": "b1c6b255ca202d30a6e0173feafd3b6875d40bbc29a2ba78534741538ede478e",
+      "sourceTextSha256": "054876f70b6c279242b861f42e70b8be706c7fb16562a2cf0b6efe151b59242c",
+      "freshTranslation": "같은 유연한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00251/Sheet1/000012",
+      "sourceBindingSha256": "f9fdce953f78fe67f6f39ccf1a049a760f6af9292db9753b8fc121213a2218d0",
+      "sourceTextSha256": "5dca73d3b8b7d78839bd6a24014f66243e9a94469977ee0a00d8f4c1233dd558",
+      "freshTranslation": "일이 특징으로, 맥주를 각별히 사랑한다㊥한다. ㊥데다낭 함장의 테사와는 프라이빗이라도 사이가 좋고, 사적인 장소에서는 그녀로부터 메㊥리사라고 불린다. ㊥ 치토리 카나메를 호위하는 임무를 갖고, 소스케와 크루츠와 함께 일본에 파견된다. 이후 ㊥ 소스케와 함께 다양한 적과 싸워 간다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

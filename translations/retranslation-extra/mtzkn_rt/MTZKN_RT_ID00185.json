@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00185",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00185/Sheet1/000002",
+      "sourceBindingSha256": "4cac123a1db71b7c41b21fba2949540c260646bdbfa3e7e0f422b302c285c5b8",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00185/Sheet1/000003",
+      "sourceBindingSha256": "cbc4084fe7d97009867961534da644e863f3f06cde3a43ce295a24ec95204db7",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00185/Sheet1/000004",
+      "sourceBindingSha256": "51780851767f3330f4a548190feea44f4cd4bfa912bbb9983d47484a17d62dbc",
+      "sourceTextSha256": "a5a99ab5ddae0397744250f7aef32ab9aefdd734e169e51a0437870473efafa3",
+      "freshTranslation": "플랜 1056 코다르 i",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00185/Sheet1/000005",
+      "sourceBindingSha256": "16463c793ece9488a03032ca4efb21dbdb8f607b20a42f5a99c65bae6d8af998",
+      "sourceTextSha256": "a5a99ab5ddae0397744250f7aef32ab9aefdd734e169e51a0437870473efafa3",
+      "freshTranslation": "플랜 1056 코다르 i",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00185/Sheet1/000006",
+      "sourceBindingSha256": "d20f0be439c08d8b36b0f36345ed8a51ed7c510409ca20060b9bd9d4960bd258",
+      "sourceTextSha256": "46c5d4043e8658decfcb508d7ff365ee2dee1055f6b73ef22c71f59311af35db",
+      "freshTranslation": "가우룬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00185/Sheet1/000007",
+      "sourceBindingSha256": "9d6e25ac86d409d60041b8f1af1192905465638dc7d88841878cf58453e57f86",
+      "sourceTextSha256": "947523bdb0cca402568fa1fc870818016e54a8c92006c3bf603d5c736506749d",
+      "freshTranslation": "수수께끼의 조직",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00185/Sheet1/000008",
+      "sourceBindingSha256": "6c50056b6b44831cab0e88b2dbb12cb1e3d903c472d9dc5a2119098c2188612e",
+      "sourceTextSha256": "2417e3d5c06c3292804d6ca531a3cbca105f7280e81ef299365830a6db4cc8e5",
+      "freshTranslation": "사용하는 AS로 가울룬이 탑승한다. ㊥ 레드 컬러링이 특징으로 미스릴에서 '베놈'이라고 불린다. ㊥코다르의 동계열기이지만, 각부에 개량이 가해지고 있어 머리를 시작으로 드㊥자인도 다르다. 무장도 새롭게 개틀링 캐논을 장비하고 있다. ㊥ 베릴다 오브 섬 등의 전투에서 그 성능을 발휘하여 미스릴을 따라잡는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00185/Sheet1/000009",
+      "sourceBindingSha256": "35f289aecb41faf2202545568fb0f3166bb63bb87ffe4f53c9d70b453f51d020",
+      "sourceTextSha256": "717d8b95834f25c8410d3b3d56dc9ac0124c8b664ff483869e1298e0997d0fde",
+      "freshTranslation": "비밀 조직 아말감",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00185/Sheet1/000010",
+      "sourceBindingSha256": "11ffde9330b5e6561f9f06f91e6fb523ddb4451b1e8bd9aacfeea9b64737501c",
+      "sourceTextSha256": "2d0edf5313a9ea5cf345c78f80a10a2571432ec749b80e4a24684afb86198ca5",
+      "freshTranslation": "사용하는 AS로 가울룬이 탑승한다. ㊥ 레드 컬러링이 특징으로 미스릴에서 '베놈'이라고 불린다. ㊥코다르의 동계열기이지만, 각부에 개량이 가해지고 있어 머리를 시작으로 드㊥자인도 다르다. 무장도 새롭게 개틀링 캐논을 장비하고 있다. ㊥ 베릴다 오브 섬 등의 전투에서 그 성능을 발휘하여 미스릴을 몰아낸다. 하지만, ㊥ 데 다낭 함내에서의 아바레스트와의 싸움 속에, 함마다 파괴하려고 자폭 장치를 작동㊥ 시키지만,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00185/Sheet1/000011",
+      "sourceBindingSha256": "4f25fa89b8ff3c1f5d50a9e7509e85b5237741f94816153c9f2290184c178cec",
+      "sourceTextSha256": "67b581a7a94b56262b735342980a10a128890d1f9fdcdd39370dcb402fdffcff",
+      "freshTranslation": "팔트로 사출되어 해상에서 대폭발한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

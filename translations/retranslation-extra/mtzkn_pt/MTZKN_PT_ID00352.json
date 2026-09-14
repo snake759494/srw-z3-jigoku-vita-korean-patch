@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00352",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00352/Sheet1/000002",
+      "sourceBindingSha256": "85e4fb60637d287b93bb2dbc957ca8de7d2bb7f8d870ed6641455bd528d55e8b",
+      "sourceTextSha256": "df194452d1619e2ba0500f56b9a09c1dffea0bb4702bd009ae5832319114ffcd",
+      "freshTranslation": "교사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00352/Sheet1/000003",
+      "sourceBindingSha256": "da9268b4866d3d8bd3182d0b7334b5538cf4935a1800517ac9588836f2b4120b",
+      "sourceTextSha256": "df194452d1619e2ba0500f56b9a09c1dffea0bb4702bd009ae5832319114ffcd",
+      "freshTranslation": "교사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00352/Sheet1/000004",
+      "sourceBindingSha256": "cbb6829fb72ef4c265bc5805f5ca7a87d16a95ed19d96bc06a257745b79c3255",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00352/Sheet1/000005",
+      "sourceBindingSha256": "d1aa62ed52a8a6520d7750a38c7d388882757ba401b6f9a4c9964db801eb012f",
+      "sourceTextSha256": "70e7bcb89871e7d042de2a3c40e5b7c81003275c87b0e17d04c9156eaae37b3b",
+      "freshTranslation": "제3신도쿄 시립 제일 중학교의 교사. ㊥ 신지들이 있는 2년 A조의 담임이기도 하다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00352/Sheet1/000006",
+      "sourceBindingSha256": "dceee96fd0a25a096300e0da1c6fa74d8687b26a258e83f621442e9b72dc5c6b",
+      "sourceTextSha256": "70e7bcb89871e7d042de2a3c40e5b7c81003275c87b0e17d04c9156eaae37b3b",
+      "freshTranslation": "제3신도쿄 시립 제일 중학교의 교사. ㊥ 신지들이 있는 2년 A조의 담임이기도 하다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

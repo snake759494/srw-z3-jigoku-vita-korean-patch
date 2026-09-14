@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00013",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00013/Sheet1/000002",
+      "sourceBindingSha256": "5535c02405e3197ee545fd2d064868d7202419f36e4893cbbeafb7e0c82a4aef",
+      "sourceTextSha256": "ea1d43ca8f386f6d975d51e4d958cac7c34c7482ad487eb2eabda9a91161d9d5",
+      "freshTranslation": "대시공진동",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00013/Sheet1/000003",
+      "sourceBindingSha256": "0c6990f12396707b298f2be8776c7abb73e9bb417716a5d0d068a646d3ddfcff",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00013/Sheet1/000004",
+      "sourceBindingSha256": "dda9f3879f32bad9a58b233f01d9212f806fb1568c5b376828fb9de1c2c59a42",
+      "sourceTextSha256": "917d119ddf18953821d63f00f48d17989568be1bb295f428e443bb1b13e72e23",
+      "freshTranslation": "어느 세계에서 발생한 거대한 시공진동. ㊥ 그 충격에 의해 모든 병행 세계를 분리하는 벽은 붕괴되어 다양한 다원 세계가 탄생㊥ 하게 되었다. ㊥ 그 발생은 시공진동탄이라고 불리는 무기의 폭주로 인한 것으로 알려져 있지만, ㊥시 공진동탄의 개발자나 개발기술의 유래 등에는 많은 수수께끼와",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00013/Sheet1/000005",
+      "sourceBindingSha256": "07c8da5dbf06d67b1b95fe4d3864bc1fd2016f9d07ae66391f119b0fe58e3d65",
+      "sourceTextSha256": "d651b979696bccf825d9aabccfe20d69d2730407b50da57c860e0fa5033b8650",
+      "freshTranslation": "질문이 남아있다. ㊥ 또한, 대시 공진동의 발생 현장에 있던 인물은 특이점이라고 불리며, 다원 세계를 재구성 ㊥ 이루는 시공 수복에는 불가결한 존재로 여겨지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00013/Sheet1/000006",
+      "sourceBindingSha256": "d608873e05600bc180d499be1b8427431b89de8d8fab7d7b3c4d4d5adf7ffb90",
+      "sourceTextSha256": "917d119ddf18953821d63f00f48d17989568be1bb295f428e443bb1b13e72e23",
+      "freshTranslation": "어느 세계에서 발생한 거대한 시공진동. ㊥ 그 충격에 의해 모든 병행 세계를 분리하는 벽은 붕괴되어 다양한 다원 세계가 탄생㊥ 하게 되었다. ㊥ 그 발생은 시공진동탄이라고 불리는 무기의 폭주로 인한 것으로 알려져 있지만, ㊥시 공진동탄의 개발자나 개발기술의 유래 등에는 많은 수수께끼와",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00013/Sheet1/000007",
+      "sourceBindingSha256": "86e2eaa1680931d2cc97288c3ba6891957f1a4646815ac1060ca287ca9f725ba",
+      "sourceTextSha256": "d651b979696bccf825d9aabccfe20d69d2730407b50da57c860e0fa5033b8650",
+      "freshTranslation": "질문이 남아있다. ㊥ 또한, 대시 공진동의 발생 현장에 있던 인물은 특이점이라고 불리며, 다원 세계를 재구성 ㊥ 이루는 시공 수복에는 불가결한 존재로 여겨지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

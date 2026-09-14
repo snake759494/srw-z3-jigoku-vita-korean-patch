@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00027",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00027/Sheet1/000002",
+      "sourceBindingSha256": "679c9bea870e25fe338b761a464d61aa0d0117284469c7928560d75e97ee8452",
+      "sourceTextSha256": "be83765a3c83a67e6329c2eb5cb1a43d9c9d9571df1b5a656da6aeca98e8ace0",
+      "freshTranslation": "구로가네야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00027/Sheet1/000003",
+      "sourceBindingSha256": "c6012f4538818c410688010fa966bedb1f8961c7d3ed0966c1d30b328cd97bf2",
+      "sourceTextSha256": "8230cb715b0c19fda6d4b52e4057a547a4695f557cd8d1904d6bc865cf96f396",
+      "freshTranslation": "마징가 충격! Z편」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00027/Sheet1/000004",
+      "sourceBindingSha256": "2d030f9b5fc6b148c629b1628677335d778c34dae13048b519b9422e13b255f5",
+      "sourceTextSha256": "7496ca45217f197b29b816898e91085ba3fc6911fb2548f9f7b2a84eb5c53788",
+      "freshTranslation": "고지의 어머니, 니시키오리 츠바사가 여장을 맡는 아타미의 온천 숙소. ㊥번두의 크로스, 유덴계의 안, 송영계의 장고, 이타마에의 선생님, 나카이의 키쿠노스케㊥와, 종업원도 개성파 갖추어져 있다. ㊥ 갑아의 할아버지, 토쿠조는, 여기의 온천을 별로 사랑하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00027/Sheet1/000005",
+      "sourceBindingSha256": "ca4606dc4cca38ec36f3530cd213d300c76c5d137d157bfa853ad3cc833d1ea9",
+      "sourceTextSha256": "7496ca45217f197b29b816898e91085ba3fc6911fb2548f9f7b2a84eb5c53788",
+      "freshTranslation": "고지의 어머니, 니시키오리 츠바사가 여장을 맡는 아타미의 온천 숙소. ㊥번두의 크로스, 유덴계의 안, 송영계의 장고, 이타마에의 선생님, 나카이의 키쿠노스케㊥와, 종업원도 개성파 갖추어져 있다. ㊥ 갑아의 할아버지, 토쿠조는, 여기의 온천을 별로 사랑하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

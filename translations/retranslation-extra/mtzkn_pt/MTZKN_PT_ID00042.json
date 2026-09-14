@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00042",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00042/Sheet1/000002",
+      "sourceBindingSha256": "9c3c1dd3ba7c9fcccaf76c882e991e1ec081769ea6ad79135b4cfc1dfabe96a5",
+      "sourceTextSha256": "30affda7d45261aff17f3fa4787d58c0df89dce003c7dcb164c76bd0d0691cae",
+      "freshTranslation": "칼만 톰스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00042/Sheet1/000003",
+      "sourceBindingSha256": "8133a9eeba197d45e5c0561f3ff7463a528a53cf663594e8d04cd9ff13055636",
+      "sourceTextSha256": "ef470fd332ddc72afdab9512be3ee7a3395dedbfd9f07d702f9a2885848827b4",
+      "freshTranslation": "톰스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00042/Sheet1/000004",
+      "sourceBindingSha256": "939e9cd06b657935a6e52b1217eddb58742c29af702cb92bc6a7208130a0bfe7",
+      "sourceTextSha256": "d6da0d732e53cf9ec71ba1b1163d4c980ff617b1f4caa65741721bae9928ed9a",
+      "freshTranslation": "장갑 기병 보텀스 빅 배틀",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00042/Sheet1/000005",
+      "sourceBindingSha256": "95f383a34ed9ca61fb399afefda904d639bea7e02c4593192bfdd71107d36fce",
+      "sourceTextSha256": "f7e7bfb3ea6aeff2eb7a72b53d95c6d5713243c16b039922047ff2e105c3f556",
+      "freshTranslation": "멜키아 군의 기술 장교. ㊥PS의 연구에 종사하고 있으며, 피아나를 찾아 아 코바의 거리를 방문했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00042/Sheet1/000006",
+      "sourceBindingSha256": "1911b6d4f8f90d5d2c396a7c0be63403b09dab378f6ae28729cef5ccead662e9",
+      "sourceTextSha256": "83df13578a55ff83d29c318018bd417a1602223f9c08a275d703d9bcacee2002",
+      "freshTranslation": "멜키아 군의 기술 장교. ㊥PS의 연구에 종사하고 있으며, 피아나를 찾아 아 코바의 거리를 방문했다. ㊥ 키리코로부터 PS를 보통 인간에게 되돌릴 수 있는지 물어볼 수 있다고 대답하지만, ㊥ 직후, 니바에 의해 노출된다. 거기서 똑같이 노출된 피아나와 대면하는 ㊥도 폭주한 니바에 의해 살해되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

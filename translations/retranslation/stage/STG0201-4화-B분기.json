@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "stage",
+  "assetKey": "STG0201-4화-B분기",
+  "baseline": {
+    "sha256": "7a7bd4a37228b384a5d8ed7225ccdcb378bbe38cb6196c8057cc439730cbe1cf",
+    "rowCount": 175210
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "STG0201-4화-B분기/ID00003/000002",
+      "sourceBindingSha256": "eaf5004b2a204bc8b8b6b3f5a1662b262731a8ec6720dc178faf1d02dca1fed8",
+      "sourceTextSha256": "e5e40bfe29836fbe855f98f588e6a5b447cb9a8c2e0cc3356fea11bc38876970",
+      "freshTranslation": "$n",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0201-4화-B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0201-4화-B분기/ID00003/000003",
+      "sourceBindingSha256": "582185ea4deda24f1d3b7dd666a9ad9f69167bab1966beed1849e24c4ec29a80",
+      "sourceTextSha256": "4be66cf94e7033822cdfc8a62cfb6122805b339fe22766c4e71d115cc89cb60f",
+      "freshTranslation": "………",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0201-4화-B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0201-4화-B분기/ID00003/000006",
+      "sourceBindingSha256": "acd46eef6e3a8a1859adf0ac3acc71eed7d9680dd69f9f8f6bcad51cf60ca276",
+      "sourceTextSha256": "6996a893b0cae7ad98fcc680d2096594caeb714fec3f5a6146f2da1f572c60ff",
+      "freshTranslation": "~D 트레이더~",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0201-4화-B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0201-4화-B분기/ID00003/000007",
+      "sourceBindingSha256": "256a5b9c868a49ec486ec2e82f1f62e5e0cd8bd83f4f490ed10e6cdd639d9347",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0201-4화-B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0201-4화-B분기/ID00003/000008",
+      "sourceBindingSha256": "2c494e5e77aefdda94c3b6d1d6c49726a472c17ae05ad14cbf6fd1e9e9d7777d",
+      "sourceTextSha256": "2123058de5b7432b71a54874934e329dc5a5e35c74a8db380cf5ec864690a97b",
+      "freshTranslation": "자자, $n 씨네는",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0201-4화-B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0201-4화-B분기/ID00003/000009",
+      "sourceBindingSha256": "7b5599501187451d039eb72e79777125d8f88afcc282e5a5c078b1f9ecdd513a",
+      "sourceTextSha256": "d0a17e090b4094a8007ba7c2a22fb1767ee918a7b958da442642be524d44a25b",
+      "freshTranslation": "하이킹에 가게 된 모양입니다만…",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0201-4화-B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0201-4화-B분기/ID00003/000010",
+      "sourceBindingSha256": "69e459b1547a7ee402936ddca5667c463cbe7dd2f309e3172ef3f90c83bc52f1",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0201-4화-B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0201-4화-B분기/ID00003/000011",
+      "sourceBindingSha256": "64c374da4ce6a055474e48c0c41bda62766b98541ffcb92c405293b23e1b76bf",
+      "sourceTextSha256": "17ffdeefbfa8ff58da6efd7b8614eae28d7dc6699ce634d7a50c59c74ab4cd55",
+      "freshTranslation": "그 선택은 과연 옳았던 걸까요?",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0201-4화-B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0201-4화-B분기/ID00003/000012",
+      "sourceBindingSha256": "4f95db269ff7a946cf37d9d12f9d8933d8eb7e980c4016cd44c49b0b42a63329",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0201-4화-B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0201-4화-B분기/ID00003/000013",
+      "sourceBindingSha256": "43c8332357d7fdb0403be3c90387f065dc562c4d8424bef3446ddac3f5bde7e5",
+      "sourceTextSha256": "0b314e9630fca01df7a6933d1910e703ba91d50f677d0adcde49024759d887c6",
+      "freshTranslation": "라~ 고 불안을 부추겨 보기도.",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0201-4화-B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0201-4화-B분기/ID00003/000014",
+      "sourceBindingSha256": "9c35c7c2eb24ab594ae866a3c6476a776edaa2daaf9472f28fdd14c040fd1a3b",
+      "sourceTextSha256": "76420ec0dcf29bf3f10f2bcb1f5b38e2f2979dc520b9062008b2eab37a5f1bb4",
+      "freshTranslation": "자 힘차게… 장사, 장사!",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0201-4화-B분기 신규 번역 초안"
+    }
+  ]
+}

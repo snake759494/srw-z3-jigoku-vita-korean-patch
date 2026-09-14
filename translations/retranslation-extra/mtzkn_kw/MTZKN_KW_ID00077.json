@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00077",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00077/Sheet1/000002",
+      "sourceBindingSha256": "4850214298f486b8d69a37854d2fd1bf5568b04922b743670de94397a74b07e1",
+      "sourceTextSha256": "1d7c2232a4d687d3d84574fc67300ae22cc890d7fd5205af0efdaf2423ba52f4",
+      "freshTranslation": "물병이 춤추는 하늘",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00077/Sheet1/000003",
+      "sourceBindingSha256": "996a86bc8e540651eb1652daff3e793124d34c1276180f073d35fe30b0024cde",
+      "sourceTextSha256": "344e35a137e92c696ff659ba0711b7b468502bdcdfe73298842ed0ce0e7bfc55",
+      "freshTranslation": "「어쿠어리온 EVOL」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00077/Sheet1/000004",
+      "sourceBindingSha256": "734ca131035bdab4cd5ced8cba98fecd0bbd4d48af5453c4df84d5ea9bfad352",
+      "sourceTextSha256": "1ac1f309eac1f5f421f1b902c7d1716fad99e3ccc834167804c20e9298c38dd0",
+      "freshTranslation": "1만2000년 전 타천선족과 신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00077/Sheet1/000005",
+      "sourceBindingSha256": "75b83226b4081e795807f1884473552be62d8ec5a3017a195d0d5914fff33afd",
+      "sourceTextSha256": "b262de5f4d2a731c2dadcaec3917c0437d264dbaaca7589ccd9381a3cd85cdd3",
+      "freshTranslation": "아쿠에리온을 달리는 사람들의 싸움을 그린 ㊥ 한 영화. 신화를 베이스로 하면서, 타천족족의 용사가 환생한 아폴론과 실 ㊥피의 사랑이 테마가 된 러브 스토리. ㊥ 또한 물병자리는 아쿠에리온을 의미합니다. ㊥ 작품 자체는 그다지 아니지만, 실피를 연기한 주연 여배우 알리시아의 노래하는 주 ㊥제가는 높이 평가되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00077/Sheet1/000006",
+      "sourceBindingSha256": "035c3f434f3600ec8006f36b8e4e2dc8b8bac6d0fc349efa29b997c14507b89e",
+      "sourceTextSha256": "1ac1f309eac1f5f421f1b902c7d1716fad99e3ccc834167804c20e9298c38dd0",
+      "freshTranslation": "1만2000년 전 타천선족과 신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00077/Sheet1/000007",
+      "sourceBindingSha256": "1e8b67f4711827d2bd6bda9197a242df5ebf20d94327da5331cc95ea1249c286",
+      "sourceTextSha256": "b262de5f4d2a731c2dadcaec3917c0437d264dbaaca7589ccd9381a3cd85cdd3",
+      "freshTranslation": "아쿠에리온을 달리는 사람들의 싸움을 그린 ㊥ 한 영화. 신화를 베이스로 하면서, 타천족족의 용사가 환생한 아폴론과 실 ㊥피의 사랑이 테마가 된 러브 스토리. ㊥ 또한 물병자리는 아쿠에리온을 의미합니다. ㊥ 작품 자체는 그다지 아니지만, 실피를 연기한 주연 여배우 알리시아의 노래하는 주 ㊥제가는 높이 평가되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

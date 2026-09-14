@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00385",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00385/Sheet1/000002",
+      "sourceBindingSha256": "201ac208502f443fe55eeac393a055ef792321a7c40c58450fa427b30b4f18ac",
+      "sourceTextSha256": "f49952bd5abc03b563ef6ae8bd0dec186fea6267bf3aa252356b787f631c9792",
+      "freshTranslation": "수오미 코네피",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00385/Sheet1/000003",
+      "sourceBindingSha256": "f1c62353b70b05b9fd17664ee17bd49c0296e3ebfd2ca7cedd5db6505c63652d",
+      "sourceTextSha256": "b6d33228b30be0ee793b4f6a586f2460fdf71c4f1cc19fb6bcef9c648c2e5254",
+      "freshTranslation": "수오미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00385/Sheet1/000004",
+      "sourceBindingSha256": "8644a63c0108940486133f765f49e31278046b6b2b70194d93163548304a8806",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00385/Sheet1/000005",
+      "sourceBindingSha256": "aedb50b40b2517ba5053646e53b26186c6fd36d84f57f6055f415b0e8b24fc5e",
+      "sourceTextSha256": "bd115e461c34107320f76ecb7349ed8fa56b5194805a8543dbb6497348c1d700",
+      "freshTranslation": "네오디바의 사령보좌 겸 성천사학원 교사. ㊥ 베를린 붕괴 이전에는 여자 측의 교사를 하고 있었다. ㊥ 견고한 수준",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00385/Sheet1/000006",
+      "sourceBindingSha256": "2e4acdc80c26c45d8688b7f8af6f98ae3768953bb601bc392f93c926946bedd4",
+      "sourceTextSha256": "9398a6a479ebdf864d5e18e6691c251eedd19740475eaf62438995cba435689f",
+      "freshTranslation": "흥미로운 성격을 하고 있기 때문에, 이성끼리의 합체를 너무 쾌적하게 생각해 ㊥ 하지 않고, 약간 남성을 경시하는 경향이 있다. ㊥ 도나르나 사령보다 취임이 느리기 때문에 어쿠어리온 관련",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00385/Sheet1/000007",
+      "sourceBindingSha256": "846c3dea10a031515adbaeb94cef291ddd84ebc8ba8bc1761720926459bd2ced",
+      "sourceTextSha256": "d48a0f8493fdfd1081f6f15f9452555ab98e47a73670d96fb4e4ce52d54db5ca",
+      "freshTranslation": "열매를 거의 모르는 ㊥이었다. ㊥ 사령 보좌끼리인 도나르와는 함께 있는 경우가 많지만, 생각이 정반대를 위해 ㊥ 때때로 의견이 대립하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00385/Sheet1/000008",
+      "sourceBindingSha256": "4f3c476e44d2cdded991e61badbe6c7cde3d8c16df47289033f4c6efe87b72b5",
+      "sourceTextSha256": "bd115e461c34107320f76ecb7349ed8fa56b5194805a8543dbb6497348c1d700",
+      "freshTranslation": "네오디바의 사령보좌 겸 성천사학원 교사. ㊥ 베를린 붕괴 이전에는 여자 측의 교사를 하고 있었다. ㊥ 견고한 수준",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00385/Sheet1/000009",
+      "sourceBindingSha256": "0c89972fa050dae809a25bafda2b9614494630bdbc960b1cebb96f8a6510fadb",
+      "sourceTextSha256": "9398a6a479ebdf864d5e18e6691c251eedd19740475eaf62438995cba435689f",
+      "freshTranslation": "흥미로운 성격을 하고 있기 때문에, 이성끼리의 합체를 너무 쾌적하게 생각해 ㊥ 하지 않고, 약간 남성을 경시하는 경향이 있다. ㊥ 도나르나 사령보다 취임이 느리기 때문에 어쿠어리온 관련",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00385/Sheet1/000010",
+      "sourceBindingSha256": "79c812e83582a6ee977f698a20f3a0695b3157e7b14474fde390c5ff9e3d2e10",
+      "sourceTextSha256": "78eb37e0afc61bdc3f5b3d14eb1dd0d5c47b78a8fb3455dc418a9cc9250437b9",
+      "freshTranslation": "열매를 거의 모르는 ㊥이었다. ㊥ 사령 보좌끼리인 도나르와는 함께 있는 경우가 많지만, 생각이 정반대를 위해 ㊥ 때때로 의견이 대립하고 있다. ㊥이지만, 싸움 속에서 심경이 변화해 가고, 점차 도나르를 의식하기 시작한다. ㊥ 최종 결전을 앞두고 출격하려고 하는 클레어로부터 만약의 때에는 도날과 새로운 때 ㊥대의 아담과 이브가 된다고 한다고 거기에 동의했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

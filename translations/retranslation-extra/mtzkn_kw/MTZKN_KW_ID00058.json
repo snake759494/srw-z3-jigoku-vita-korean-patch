@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00058",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00058/Sheet1/000002",
+      "sourceBindingSha256": "e898526fe08313bb933ba8d53a116e2131046696849192633a63d90c4a247d88",
+      "sourceTextSha256": "46972028b0d87190e9d5bc75048d5bd3819834caf71211a163e3d40415fa49f0",
+      "freshTranslation": "「기동전사 건담 SEEDDESTINY」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00058/Sheet1/000003",
+      "sourceBindingSha256": "55ba2787733d85ff20a8522da56917f84ef36fe4d20c46de2b74cb10ae7acde8",
+      "sourceTextSha256": "69eda929d2dbcc822521ebdcdc5fdb87fec1e4a3c3fee7f6c0bd6227c0063f79",
+      "freshTranslation": "플랜트의 자경조직인 자프트의 특무대에서, 「FastActing㊥IntegrateTacticalHeadquarters(전술통㊥합응응본부)」의 약칭. ㊥ 우수한 인격과 전적을 인정받은 자만이 국방위원장과 플랜트 평의회의장 ㊥의 승인을 얻어 소속을 인정받는다. 간증으로 실버 배지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00058/Sheet1/000004",
+      "sourceBindingSha256": "63c2b2c5661df72b4aa04e4e8ef1c08b6608a1aa40c6130233320b245f51f288",
+      "sourceTextSha256": "eaa5a80ea8284ff33affc346d29b4fc0d3b24f0ab81b074c7950ebee5b7adaff",
+      "freshTranslation": "예, 그 소유자 ㊥는 주위의 존경과 부러움을 모은다. ㊥특무대라고 하지만 부대에 소속되는 것은 아니고, 독자적인 판단에 의한 행동·㊥명령을 하는 것이 허용되고 있다. ㊥ 그 권한은 크고 현장 지휘관에 대한 명령도 가능할 정도이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00058/Sheet1/000005",
+      "sourceBindingSha256": "00f28cf12795ec0cd890f1d2dfb12823a7de20664eb3429a126ec2e272a38160",
+      "sourceTextSha256": "69eda929d2dbcc822521ebdcdc5fdb87fec1e4a3c3fee7f6c0bd6227c0063f79",
+      "freshTranslation": "플랜트의 자경조직인 자프트의 특무대에서, 「FastActing㊥IntegrateTacticalHeadquarters(전술통㊥합응응본부)」의 약칭. ㊥ 우수한 인격과 전적을 인정받은 자만이 국방위원장과 플랜트 평의회의장 ㊥의 승인을 얻어 소속을 인정받는다. 간증으로 실버 배지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00058/Sheet1/000006",
+      "sourceBindingSha256": "3fb1cd3996ef8fd77159b5ee73dc489aa62d1b6a2eee47d907e00062ca2f244c",
+      "sourceTextSha256": "eaa5a80ea8284ff33affc346d29b4fc0d3b24f0ab81b074c7950ebee5b7adaff",
+      "freshTranslation": "예, 그 소유자 ㊥는 주위의 존경과 부러움을 모은다. ㊥특무대라고 하지만 부대에 소속되는 것은 아니고, 독자적인 판단에 의한 행동·㊥명령을 하는 것이 허용되고 있다. ㊥ 그 권한은 크고 현장 지휘관에 대한 명령도 가능할 정도이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

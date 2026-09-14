@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00116",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00116/Sheet1/000002",
+      "sourceBindingSha256": "029e692f4ca9ecf1019c48128a7316bf667ddc3b3a868521347bdde3d57b6e6c",
+      "sourceTextSha256": "19c983b648024bd1eaa5c5762736cc2c6869c15715c1cf4f5a268710af911e4c",
+      "freshTranslation": "패트릭 마네킹",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00116/Sheet1/000003",
+      "sourceBindingSha256": "9cea91d2dfc36561d8274dca9839b974a12f79939623636e8b6fffef7c82774e",
+      "sourceTextSha256": "0613b97b4d496b2f8d8b5a65603157fce3e30741d64be1538ebf8a5b807a64fe",
+      "freshTranslation": "콜라 사워",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00116/Sheet1/000004",
+      "sourceBindingSha256": "cbfba850f6f523cf399acdc6c5481b9a3fa093a85b740d3da16e7427178a6aa3",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00116/Sheet1/000005",
+      "sourceBindingSha256": "a560989dd2a253d72e557ea4553a87c1a986b3087851269c1c2147e8ebb34b62",
+      "sourceTextSha256": "9708653a3f39457f8d24aed0d52106fabbf469acaff638851de174702a178704",
+      "freshTranslation": "하마다 켄지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00116/Sheet1/000006",
+      "sourceBindingSha256": "2bb9365e62bab9078aa831d442b219216f5e46fa7f337c3d199613d340fa9391",
+      "sourceTextSha256": "d362f850321d6f63cfd68ac35d3eaabec219ebef993e0b5e559b4621a6e067c1",
+      "freshTranslation": "지구 연방군의 모빌 슈트 조종사. 35세. ㊥ 전 AEU의 에이스 파일럿이며, 첫 무력 개입부터 마지막 ​​총력전까지, 실로 7㊥도의 대 건담전을 경험. 그 때마다 격추되지만, 항상 생환을 한다. ㊥ 그 생환율의 높이로부터, 언제밖에 「불사신의 콜라 사워」라고 불리게 되어㊥했다. 야유의 의미를 어쩌면 포함한 호칭이었지만, 본인은 신경쓰지 않았던 커녕, ㊥ 오히려 자랑스러웠다. ㊥ 어로우즈에의 전속은 스스로의 희망이며, 그 이유는 사랑하는 사람 카티의 측에 있고 싶다고 ㊥ 말하는 단지 일점이었다. ㊥부대가 바뀌어도 변함없는 피격추왕이었지만, 생존율의 높이와 카티에의 생각㊥아무리 바뀌지 않았다. ㊥ 이윽고 카티가 어로우즈에서 벗어나면 헤매지 않고 같은 길을 진행한다. ㊥ 이노베이드와의 최종 결전 때 카티의 함에 다가오는 특공 무기를 몸을 속이고 막아 사랑의 ㊥ 고백과 함께 폭발에 마셨다. ㊥ 하지만 불사신의 이름에 어울리며 생환을 하며 카티와의 결혼에 빠진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00116/Sheet1/000007",
+      "sourceBindingSha256": "cc0c95d78964bf6337fdcad79da46251af8736f2aef97b2c45df195e246f6a31",
+      "sourceTextSha256": "2891e4885af0a8f72d7d5bd4594ba27db065d6eb656cef46132e7fc0e942ffb6",
+      "freshTranslation": "키㊥시드에 몸을 감싸고 부드러운 웃음과 함께 '불사신의 콜라 사워'에서 '행복의 코㊥라사워'가 된 것을 자칭하면서 카티와의 식을 꼽았다. ㊥ 카티가 지구 연방군 준장이 된 이후에도, 변함없이 '대령'이라고 부르고, 화가 난 ㊥이, 그것은 책무에 머리를 괴롭히는 일이 많은 그녀를 힘쓰기 위한, 그 나름의 걱정이다. ㊥ 덧붙여 카티가 콜라 사워라고 하는 성을 싫어했기 때문에, 그녀의 성을 자칭해, 호적상㊥는 「패트릭·마네킹」이 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00116/Sheet1/000008",
+      "sourceBindingSha256": "1ef42c6b616b422908aba889b093321fc4b75cf24d6a3dc69bb1e5372ba91582",
+      "sourceTextSha256": "d362f850321d6f63cfd68ac35d3eaabec219ebef993e0b5e559b4621a6e067c1",
+      "freshTranslation": "지구 연방군의 모빌 슈트 조종사. 35세. ㊥ 전 AEU의 에이스 파일럿이며, 첫 무력 개입부터 마지막 ​​총력전까지, 실로 7㊥도의 대 건담전을 경험. 그 때마다 격추되지만, 항상 생환을 한다. ㊥ 그 생환율의 높이로부터, 언제밖에 「불사신의 콜라 사워」라고 불리게 되어㊥했다. 야유의 의미를 어쩌면 포함한 호칭이었지만, 본인은 신경쓰지 않았던 커녕, ㊥ 오히려 자랑스러웠다. ㊥ 어로우즈에의 전속은 스스로의 희망이며, 그 이유는 사랑하는 사람 카티의 측에 있고 싶다고 ㊥ 말하는 단지 일점이었다. ㊥부대가 바뀌어도 변함없는 피격추왕이었지만, 생존율의 높이와 카티에의 생각㊥아무리 바뀌지 않았다. ㊥ 이윽고 카티가 어로우즈에서 벗어나면 헤매지 않고 같은 길을 진행한다. ㊥ 이노베이드와의 최종 결전 때 카티의 함에 다가오는 특공 무기를 몸을 속이고 막아 사랑의 ㊥ 고백과 함께 폭발에 마셨다. ㊥ 하지만 불사신의 이름에 어울리며 생환을 하며 카티와의 결혼에 빠진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00116/Sheet1/000009",
+      "sourceBindingSha256": "65166172a4777ab94326cb84ff8f5da9e725d522c06f6af01061d4624967bfa3",
+      "sourceTextSha256": "2891e4885af0a8f72d7d5bd4594ba27db065d6eb656cef46132e7fc0e942ffb6",
+      "freshTranslation": "키㊥시드에 몸을 감싸고 부드러운 웃음과 함께 '불사신의 콜라 사워'에서 '행복의 코㊥라사워'가 된 것을 자칭하면서 카티와의 식을 꼽았다. ㊥ 카티가 지구 연방군 준장이 된 이후에도, 변함없이 '대령'이라고 부르고, 화가 난 ㊥이, 그것은 책무에 머리를 괴롭히는 일이 많은 그녀를 힘쓰기 위한, 그 나름의 걱정이다. ㊥ 덧붙여 카티가 콜라 사워라고 하는 성을 싫어했기 때문에, 그녀의 성을 자칭해, 호적상㊥는 「패트릭·마네킹」이 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

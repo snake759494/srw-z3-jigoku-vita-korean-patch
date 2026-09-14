@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00037",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00037/Sheet1/000002",
+      "sourceBindingSha256": "3984fa8fd21ceae06a0556c5dff4cd46418133bbc912c1b6dcdee5e586dfa4dd",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00037/Sheet1/000003",
+      "sourceBindingSha256": "e4d98de4bca2a33c09650c79a477e812852eb6e106987aaba03b86db98ab1679",
+      "sourceTextSha256": "76fdd64e6ace88a2b1ec84e47c218ff8c3043d52b4a2820bf01e91f17d6d3173",
+      "freshTranslation": "UCW의 다원전쟁을 종결시킨 독립부대. ㊥ \"Zemergency Unionoff Terrestrial㊥Human\"의 약칭으로 \"지구 인류 긴급 구호 연합\"을 의미한다. ㊥ 다원 세계를 스스로의 욕망대로 컨트롤 하려고 했던 디 에델 베 ㊥ 루널과 싸웠다. ㊥ 다원전쟁 종료 후 이그제크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00037/Sheet1/000004",
+      "sourceBindingSha256": "ad384e806f9d0af5a586f4f9a07b983a96a1cf7edc632854958a395069b4c015",
+      "sourceTextSha256": "35ac5733d3194c758efca5279b0d173a147fa31def033c99414e63236e89cf3c",
+      "freshTranslation": "-와의 싸움으로 재집결한다. ㊥ 그 후, 멤버의 일부는 ADW에 파계의 왕이 출현했을 때의 시공진동 「카라㊥ 미티 버스」의 영향으로 ADW에 전이된다. 이들도 ADW에서 파계사㊥ 이상, 재세전쟁을 싸우고 나서 어비스를 통해 UCW로 귀환했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00037/Sheet1/000005",
+      "sourceBindingSha256": "d511f974d176066e2716abd630b64eaab55184365b70b872227b979f2aab3b3c",
+      "sourceTextSha256": "76fdd64e6ace88a2b1ec84e47c218ff8c3043d52b4a2820bf01e91f17d6d3173",
+      "freshTranslation": "UCW의 다원전쟁을 종결시킨 독립부대. ㊥ \"Zemergency Unionoff Terrestrial㊥Human\"의 약칭으로 \"지구 인류 긴급 구호 연합\"을 의미한다. ㊥ 다원 세계를 스스로의 욕망대로 컨트롤 하려고 했던 디 에델 베 ㊥ 루널과 싸웠다. ㊥ 다원전쟁 종료 후 이그제크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00037/Sheet1/000006",
+      "sourceBindingSha256": "a76589c78fd51794c190b9e88b215c6d028ee80096ff095f2ae5331308766fb3",
+      "sourceTextSha256": "35ac5733d3194c758efca5279b0d173a147fa31def033c99414e63236e89cf3c",
+      "freshTranslation": "-와의 싸움으로 재집결한다. ㊥ 그 후, 멤버의 일부는 ADW에 파계의 왕이 출현했을 때의 시공진동 「카라㊥ 미티 버스」의 영향으로 ADW에 전이된다. 이들도 ADW에서 파계사㊥ 이상, 재세전쟁을 싸우고 나서 어비스를 통해 UCW로 귀환했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

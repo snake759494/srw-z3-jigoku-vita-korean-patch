@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00250",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00250/Sheet1/000002",
+      "sourceBindingSha256": "64f46af04871b06fb6be297c601efcaaa9ebaf8c54e5531e8d49bbe5d576777e",
+      "sourceTextSha256": "f91afdc28beeb902f129d5bc6b845c29aa164b9130da1547c25a16cbec2052dc",
+      "freshTranslation": "사가라 무네스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00250/Sheet1/000003",
+      "sourceBindingSha256": "108c4c6bd7816e0c8a0eda96d8cddc4e3d5270ae57d235c861dc17882923b1c4",
+      "sourceTextSha256": "6f42d8c360d18f29d6f3eb31b4566d00027dcf6d3990efd479a16ce8c1f811ed",
+      "freshTranslation": "소스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00250/Sheet1/000004",
+      "sourceBindingSha256": "f43ad9aa1fa3dcd3ec68f0ead7e267879f7c9c75c4025be80f2f41f6fb523dfb",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00250/Sheet1/000005",
+      "sourceBindingSha256": "45c828d8699df53f49b439dab16b730a17c6462c44a52a8f19a69b850a2bcb1c",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00250/Sheet1/000006",
+      "sourceBindingSha256": "e4b6dc6f5d560e0ef9a6908e73d0a10d9f926e6753bde5f198daf6406dd5a8b6",
+      "sourceTextSha256": "ee2d0387b1975cead3c32955c5f8bdb0850a21ace33c14e5e3e7d57593473026",
+      "freshTranslation": "세키 토모이치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00250/Sheet1/000007",
+      "sourceBindingSha256": "d6eddb9ca70017ab4d25b68cdb034530478a1b2968fb399147b80022e46288d1",
+      "sourceTextSha256": "927f7d96210f04b7184b066bde0086535c3dcdf0758b36053fbdb08788fccc90",
+      "freshTranslation": "대테러 조직 미스릴에 소속된 용병. 계급은 군조. 콜사인은 울즈 7. ㊥ 인종적으로는 일본인 같고, 신체적인 특징으로서 왼쪽 뺨에 십자가의 상처가 있다. ㊥투아하 데 다낭에서는 SRT(특별 대응반) 요원이며, 같은 멤버의 마㊥오나 크루츠와 함께 행동하는 경우가 많다. AS의 조종이나 총기의 취급에 뛰어나고 있어, 냉㊥정적 판단력과 신속한 행동력을 갖춘 전투의 프로페셔널. 성격은 생",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00250/Sheet1/000008",
+      "sourceBindingSha256": "3251a7b190eeb991fbb694d82e1b195d8da9b2a9581cc2ef06276bc2487cbed9",
+      "sourceTextSha256": "8ced7cbdabdd8233021a8ae6f88d780b87f2dbaec99bd1ce109b4d0613343746",
+      "freshTranslation": "흥미롭고, ㊥ 병사로서 항상 불측의 사태에 대응할 수 있도록 유의하고 있다. ㊥ 미스릴에 소속되기 전에는 「카심」이라고 자칭해, 8세 무렵부터 게릴라에 참가. 그 후, ㊥ 용병으로서 각지의 분쟁지대를 전전하고 있던 과거를 가진다. 미스릴에서의 상관인 카㊥ 리닌은 그 당시부터의 지인이며, 함께 몇번이나 사선을 빠져나왔다. ㊥ 치도리 카나메를 호위한다는 극비 임무 때문에 진대 고등학교 2년 4조에 전입하지만, ㊥ 익숙하지 않은 학생 생활과 임무에 너무 충실한 성격에 의해 많은 소동을 일으키고, 트러블 ㊥ 메이커로서 주위에 막대한 폐를 끼친다. ㊥ 시끄러운 고등학교 생활을 보내면서도, 수많은 적과 싸워, 카나메를 지켜나간다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00250/Sheet1/000009",
+      "sourceBindingSha256": "b18a3622a0e3970f962f23fe94408d93ce6995b3803accb8bd8cf81d1a931190",
+      "sourceTextSha256": "927f7d96210f04b7184b066bde0086535c3dcdf0758b36053fbdb08788fccc90",
+      "freshTranslation": "대테러 조직 미스릴에 소속된 용병. 계급은 군조. 콜사인은 울즈 7. ㊥ 인종적으로는 일본인 같고, 신체적인 특징으로서 왼쪽 뺨에 십자가의 상처가 있다. ㊥투아하 데 다낭에서는 SRT(특별 대응반) 요원이며, 같은 멤버의 마㊥오나 크루츠와 함께 행동하는 경우가 많다. AS의 조종이나 총기의 취급에 뛰어나고 있어, 냉㊥정적 판단력과 신속한 행동력을 갖춘 전투의 프로페셔널. 성격은 생",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00250/Sheet1/000010",
+      "sourceBindingSha256": "8540536a64a435dedc8e1fbbb44b34e47b8efe919741bcf59d1896f2a036f86c",
+      "sourceTextSha256": "e138000f8440bbe53cd4ada17b9fa0b552a197b360ac119551d0ac3ed9f0ee19",
+      "freshTranslation": "흥미롭고, ㊥ 병사로서 항상 불측의 사태에 대응할 수 있도록 유의하고 있다. ㊥ 미스릴에 소속되기 전에는 「카심」이라고 자칭해, 8세 무렵부터 게릴라에 참가. 그 후, ㊥ 용병으로서 각지의 분쟁지대를 전전하고 있던 과거를 가진다. 미스릴에서의 상관인 카㊥ 리닌은 그 당시부터의 지인이며, 함께 몇번이나 사선을 빠져나왔다. ㊥ 치도리 카나메를 호위한다는 극비 임무 때문에 진대 고등학교 2년 4조에 전입하지만, ㊥ 익숙하지 않은 학생 생활과 임무에 너무 충실한 성격에 의해 많은 소동을 일으키고, 트러블 ㊥ 메이커로서 주위에 막대한 폐를 끼친다. ㊥ 전투 중 미스릴이 보유한 유일한 람다 드라이버 탑재 AS, 아바레스트의 ㊥ 전속 탑승자가 된다. ㊥ 불안정한 람다 드라이버를 무기로서의 신뢰성이 부족하게 하고, 아바레스트나 ㊥ 탑재 AI의 알에 대해서 당초부터 혐오감을 안는다. 홍콩에서의 작전에서는 다양한 일이 중㊥ 되어 마침내 탑승하고 싸우는 것을 거부하기까지 하지만 카나메와 재회하고 마음의 헤매를 끊어 ㊥ 끊은 후에는 아바레스트에 다시 탑승한다. 또, 그 싸움으로, 알을 「친구」라고 인정 ㊥하게 된다. ㊥ 시끄러운 고등학교 생활을 보내면서도, 수많은 적과 싸우고, 카나메를 지켜나가는 가운데, ㊥ 서투르면서도 그녀와 마음을 통하고, 서로를 둘 수 없는 인간이라고 생각하게 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

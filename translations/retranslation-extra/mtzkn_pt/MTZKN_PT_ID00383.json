@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00383",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00383/Sheet1/000002",
+      "sourceBindingSha256": "54b796df54fec6da807ae134cc447db4d461a0d401e3e7f189269af0a4036b86",
+      "sourceTextSha256": "a3bae00fd66f31001bd10c17166ad5987cb63fbe511399ec3dd1479fab534221",
+      "freshTranslation": "학원장",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00383/Sheet1/000003",
+      "sourceBindingSha256": "bebd048bd29a61cdfa66f540126048ee1bd21c0212d8cbfb1f389a5badd68799",
+      "sourceTextSha256": "a3bae00fd66f31001bd10c17166ad5987cb63fbe511399ec3dd1479fab534221",
+      "freshTranslation": "학원장",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00383/Sheet1/000004",
+      "sourceBindingSha256": "6555d6cc62870b0f1049cea5b035f332c30995033bc28045c880236a45a166a2",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00383/Sheet1/000005",
+      "sourceBindingSha256": "8033d99c1b5470bab0db3a25c522484b21ec9ea0402227877bfca1b8434ca75f",
+      "sourceTextSha256": "80afd564f511c4f55a041fe06d5a792ed2e144374e0e5d1ae7be0785ef63a426",
+      "freshTranslation": "네오디바의 사령관 겸 성천사 학원의 학원장. ㊥ 군인 같은 모습을하고 있으며, \"수역\"",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00383/Sheet1/000006",
+      "sourceBindingSha256": "bac06e06ce75ddb4dad0b40fad9c1f345fd94e00995821e480764bb360c38f56",
+      "sourceTextSha256": "47d64b84d0bd1ed4b6fa4ae00631aecebff8c67d4666b95ce8a7687ddc888a83",
+      "freshTranslation": "의 이름이 \"어쿠리에온\"인 ㊥ 일을 알고 있던 몇 안되는 사람. 부동, 클레어의 복귀 이후는 의자를 클레어에 돌려주고, ㊥ 그녀에게 따랐다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00383/Sheet1/000007",
+      "sourceBindingSha256": "0dd1d6ed18af5b52285e3f85eb2784121c424fc65d64a62587d1c8c742ebab49",
+      "sourceTextSha256": "80afd564f511c4f55a041fe06d5a792ed2e144374e0e5d1ae7be0785ef63a426",
+      "freshTranslation": "네오디바의 사령관 겸 성천사 학원의 학원장. ㊥ 군인 같은 모습을하고 있으며, \"수역\"",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00383/Sheet1/000008",
+      "sourceBindingSha256": "0abfb141a52cd0800678f8bdf1b5f4ff7fa2a7a2e3b7ea93df6795c06db5a082",
+      "sourceTextSha256": "47d64b84d0bd1ed4b6fa4ae00631aecebff8c67d4666b95ce8a7687ddc888a83",
+      "freshTranslation": "의 이름이 \"어쿠리에온\"인 ㊥ 일을 알고 있던 몇 안되는 사람. 부동, 클레어의 복귀 이후는 의자를 클레어에 돌려주고, ㊥ 그녀에게 따랐다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

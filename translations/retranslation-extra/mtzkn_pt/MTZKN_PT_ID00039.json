@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00039",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00039/Sheet1/000002",
+      "sourceBindingSha256": "965e6039cb98fb102089c48abb0b972fb3458bd57ddfd851d75bb01ff3e952c3",
+      "sourceTextSha256": "fec1ad2637b344ea4745b1479d7a6fa56c01c4b5ef71b242deacf646452c2507",
+      "freshTranslation": "장 폴 로치나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00039/Sheet1/000003",
+      "sourceBindingSha256": "6619949312a097f207040b49aff5c64d56acadc63ab22ca0b95ae2b377d5ff2e",
+      "sourceTextSha256": "31976057302ccc8da9b7af61a20baa44df7257bfbd14af07851c7ae8189f8cbf",
+      "freshTranslation": "로치나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00039/Sheet1/000004",
+      "sourceBindingSha256": "5690e0b748f2f48436182a9f3a7f5f9b3100781813d148107587f1ebc839642c",
+      "sourceTextSha256": "095aa56eab1e8a38be44b7470675dbd3bb01e8bb6134a3c94d5e531e65a3923a",
+      "freshTranslation": "장갑 기병 하의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00039/Sheet1/000005",
+      "sourceBindingSha256": "aebcb8deaa177e02232e7f9b4243c7953ba4bd4d0e7e287c491b50098d4cb6a8",
+      "sourceTextSha256": "e38fb98a1abdc25350bd712cbb4faf7acb152704401faba39aae1131f3de1528",
+      "freshTranslation": "길가메스 진영의 메르키아군 정보부에 소속된 군인. 계급은 대위. ㊥소체 탈환의 임을 받아 키리코의 동향을 감시하고 있다. ㊥ 현재 이름이 실명인지는 불분명합니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00039/Sheet1/000006",
+      "sourceBindingSha256": "b06973df7362ebbbd5892fbff6e03c0c9fad9ddca0735306ebd14458af87511f",
+      "sourceTextSha256": "cb3b1f5edbb60081f5bedb9bc83980e9cbbd19b300137bee1c252b047eac8e6a",
+      "freshTranslation": "・루스케」라고 자칭하고 있었다. ㊥ 페르젠의 힘에 매료되어 그의 라이벌이었던 옛 상관 페독 보드카㊥무를 사살했을 때 이름을 바꾸고 있다. ㊥ 길가메스군을 그만둔 후, 발라란트군의 대령이 되어, 행성 산사에서 다시 키리코의 ㊥전에 모습을 나타냈다. ㊥ 그 숨겨진 목적은 그의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00039/Sheet1/000007",
+      "sourceBindingSha256": "93c20d151445ea85cc651d5f6914668d4b7b70fa143a2b0515b22cf03710f1f0",
+      "sourceTextSha256": "9842035d3902c3e799b57a3bd3c49ba138e7df1a22bae8f27e9e07f732c96e05",
+      "freshTranslation": "의 주인인 와이즈맨의 생명에 따라 그의 후계자 후보 ㊥이었던 키리코를 감시하고 인도하는 것이었다. ㊥ 후계자로 선정된 키리코가 와이즈맨을 배신하고, 그 기억장치를 파괴했을 때는, 자신㊥분이 얼마나 요구해도 얻을 수 없었던 것을 스스로 버리는 키리코에 대해 분노와 절망의 ㊥소리를 올렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00039/Sheet1/000008",
+      "sourceBindingSha256": "096d39ccd256090b8ee919fe6c5bc459708a58d17d66e8e81ccd784279421e7c",
+      "sourceTextSha256": "e38fb98a1abdc25350bd712cbb4faf7acb152704401faba39aae1131f3de1528",
+      "freshTranslation": "길가메스 진영의 메르키아군 정보부에 소속된 군인. 계급은 대위. ㊥소체 탈환의 임을 받아 키리코의 동향을 감시하고 있다. ㊥ 현재 이름이 실명인지는 불분명합니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00039/Sheet1/000009",
+      "sourceBindingSha256": "7231f382f430b5c2a9b155b9f435fdbe3d10c8013f8c77f296541aa9d0f8dbb7",
+      "sourceTextSha256": "cb3b1f5edbb60081f5bedb9bc83980e9cbbd19b300137bee1c252b047eac8e6a",
+      "freshTranslation": "・루스케」라고 자칭하고 있었다. ㊥ 페르젠의 힘에 매료되어 그의 라이벌이었던 옛 상관 페독 보드카㊥무를 사살했을 때 이름을 바꾸고 있다. ㊥ 길가메스군을 그만둔 후, 발라란트군의 대령이 되어, 행성 산사에서 다시 키리코의 ㊥전에 모습을 나타냈다. ㊥ 그 숨겨진 목적은 그의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00039/Sheet1/000010",
+      "sourceBindingSha256": "006d5ff30ec8283348d4e005e429e6d4b1acdc33f511fa9700a81c8717673309",
+      "sourceTextSha256": "802e30fe9ddb591072790d25b8456af0faba811cfeb3bd7a4b319f4fd4a4524e",
+      "freshTranslation": "의 주인인 와이즈맨의 생명에 따라 그의 후계자 후보 ㊥이었던 키리코를 감시하고 인도하는 것이었다. ㊥ 후계자로 선정된 키리코가 와이즈맨을 배신하고, 그 기억장치를 파괴했을 때는, 자신㊥분이 얼마나 요구해도 얻을 수 없었던 것을 스스로 버리는 키리코에 대해 분노와 절망의 ㊥소리를 올렸다. ㊥ 키리코가 냉동 수면에 들어간 뒤, 범은하 결사 마티알의 성지 알레기움의 지하㊥에서 그의 자료를 편찬해, 나이가 들어갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

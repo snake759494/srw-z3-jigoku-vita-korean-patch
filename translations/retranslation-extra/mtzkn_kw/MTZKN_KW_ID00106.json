@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00106",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00106/Sheet1/000002",
+      "sourceBindingSha256": "27d0b13cec3c549775679aefd91e1e592cacc032534f5eee4f579bc92def9f05",
+      "sourceTextSha256": "f8efe880ea8ff2c82366c54b27a7c5cf455490730bb07dbd395390f313b3ecfb",
+      "freshTranslation": "아카식 레코드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00106/Sheet1/000003",
+      "sourceBindingSha256": "5ceeb6403d1cad78a379ce985b449a45b0afd17fda90916738960b7142d6f992",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00106/Sheet1/000004",
+      "sourceBindingSha256": "e5308adc993b5b8843eeefddd294a63c8f918e7251fc35115eccc858aa427524",
+      "sourceTextSha256": "cfe866ae21576350da67c218a1306a557402e48a2d3193812ad376d05fadd748",
+      "freshTranslation": "모든 사건의 과거와 미래가 기록되어 있다고 하는 개념. ㊥ 그것에 접근하는 것은 물질세계를 떠나 시간을 초월한 무한을 얻고 ㊥하는 것과 같다고 여겨진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00106/Sheet1/000005",
+      "sourceBindingSha256": "3bdd4b66b0e0a8ba63cefe96d268f404755f4402f7e5c607e8fff1ee818af1af",
+      "sourceTextSha256": "cfe866ae21576350da67c218a1306a557402e48a2d3193812ad376d05fadd748",
+      "freshTranslation": "모든 사건의 과거와 미래가 기록되어 있다고 하는 개념. ㊥ 그것에 접근하는 것은 물질세계를 떠나 시간을 초월한 무한을 얻고 ㊥하는 것과 같다고 여겨진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

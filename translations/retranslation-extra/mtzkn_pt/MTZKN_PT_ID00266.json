@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00266",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00266/Sheet1/000002",
+      "sourceBindingSha256": "a5135194dfbb87cab6bd099335c635d4b3dd2e4d4800ba6a9134b16cd6e7d3ed",
+      "sourceTextSha256": "5ce47d6e6853d1478d0e7bf6a4e2cfaadd96f57dcd1e3fc5f0dffdc995270f7e",
+      "freshTranslation": "오노데라 타카타로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00266/Sheet1/000003",
+      "sourceBindingSha256": "7d7d5863326d3d7fb6e406fdca50da50bf5e6703b3c231edbfeaea7c54bda408",
+      "sourceTextSha256": "b3d4a8c2f097b6b2b3a6c50be7949233e2702da2b278161ec23912618ccc694e",
+      "freshTranslation": "오노 D",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00266/Sheet1/000004",
+      "sourceBindingSha256": "d5c4cfdc0e34576a33e63e6bf8b591d9192564ca741313a0d6bb24d083c00d98",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00266/Sheet1/000005",
+      "sourceBindingSha256": "9f08dc1bef35162ce5796170b2073182135907fa9b5409ea883b67d8c3b07f94",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00266/Sheet1/000006",
+      "sourceBindingSha256": "76a1c4fc1e096bd027b962dc6f32e4d03326e99ce5095d8a9cff9245877e8d92",
+      "sourceTextSha256": "2ff975bfe83fbe26de24006b2157febb84512b7d76a70bc73bda387ea11b15aa",
+      "freshTranslation": "진대고교 2년 4조의 학생. ㊥ 활발한 성격으로 클래스의 분위기 메이커적 존재.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00266/Sheet1/000007",
+      "sourceBindingSha256": "bdbafd56dc0a9b74c0e355fde84bdd029ea97a77a97ad821d88986b2222d577b",
+      "sourceTextSha256": "9d06005ff6e2af8b807cf278b28fa8ffe4225167124b66ebbf272b99c0cd2136",
+      "freshTranslation": "진대고교 2년 4조의 학생. ㊥ 활발한 성격으로 클래스의 분위기 메이커적 존재. ㊥ 평균적인 남자 고등학생으로서 온천 여행에 갔을 때에는 여탕을 찾아 크루츠와 공동 ㊥ 전선을 치고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

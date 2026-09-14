@@ -1,0 +1,214 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00356",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000002",
+      "sourceBindingSha256": "10009b7345f6b60eb59f9ad9f3d6b84b6113def241c23ad14ad0fc29efac6760",
+      "sourceTextSha256": "d9b18dd4972ffd025b5d420a4668470eac690e8e16934f711c5e7e8cadcd39ad",
+      "freshTranslation": "홍월 카렌",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000003",
+      "sourceBindingSha256": "704bbab29ae9e09d0f7d33acb9e508eaa7022a3825f9ea6ef1eea2ae69c71ea8",
+      "sourceTextSha256": "ffcb16ddb06f2d28280d96b46848a45a3f88edc84b30007dd57facc6aca65c4e",
+      "freshTranslation": "카렌",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000004",
+      "sourceBindingSha256": "841a05a47d030e29a26a45332e253b36a40b21d6ddf7e61ae9e15580a23fb1e6",
+      "sourceTextSha256": "b40f8de117e644be3d8ab8c76b9b5779575051515b39a54c7b5cfa1a85297d19",
+      "freshTranslation": "코드기어스 반역의 루루슈 R2",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000005",
+      "sourceBindingSha256": "db12aa35eca093b2dc582a08ffdbbb197d90ec4d5ea5caed429b2cbfb30b61e2",
+      "sourceTextSha256": "bdb4ff896356278c48d5b855087e45008d1d6b5f33f5365ef5a1ed97b69f6041",
+      "freshTranslation": "코시미즈 아미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000006",
+      "sourceBindingSha256": "013422846243445c6043c265bfcb83a8cfcafa7c4b07192f92a522f0d6f6e0d0",
+      "sourceTextSha256": "724033b846e8a1bd3dd953c4796d9bd474c37ad815bd5d19b3c1d730efde14db",
+      "freshTranslation": "브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000007",
+      "sourceBindingSha256": "680830d593cf7cb28f31bc7cd48783f1b559fab724541475b43bb8ca19cf2007",
+      "sourceTextSha256": "5bcc7eba3bf86b3e075673f5382034e17a02e450fa5362f0e3979e60b2217da2",
+      "freshTranslation": "니어 귀족의 아버지와 일본인의 어머니 사이에서 태어난 하프로, 검은 기사단 창설시부터 ㊥의 멤버. 18세. ㊥ 활동적이고 잃지 않고 싫어하고 조국 인 일본을 제압 한 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000008",
+      "sourceBindingSha256": "757592d0d2718a658146e919081d306ee9c24f87f15a75165578d0afdcd8f4a2",
+      "sourceTextSha256": "2361b56e0b26d196f48ea5094dfcac43927200cf904d98eab05cb4ad6ff60b48",
+      "freshTranslation": "니어에게 강한 분노㊥리를 안고 있다. ㊥레지스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000009",
+      "sourceBindingSha256": "bafd26c2762b4c11fecc3ad3ac790db41938e041b8544e2f0ce868992bf4502b",
+      "sourceTextSha256": "b702bf99c13fd3bfee16d74a3f528b6396ea9edf749b8e19ea40c091893db474",
+      "freshTranslation": "언스 활동 중에 제로를 만나, 그가 일으키는 몇 가지 기적을 눈에 띄게 ㊥하고, 언제밖에 제로를 신뢰하게 되었다. 이윽고 뛰어난 KMF 조종 기술이 평㊥가 되고, 검은 기사단 결성 후에는 제로의 친위대인 영번대 대장에 취임.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000010",
+      "sourceBindingSha256": "0ffedbca646b1b572f611bff469498903372867de1bea4c68185838f6d574887",
+      "sourceTextSha256": "4cca281aab876362cbd61c7a794a5defba9065d82b7a332f721ee300f6c025dd",
+      "freshTranslation": "홍의 전용기 ㊥ 몸, 홍련이식을 달려 기사단의 에이스로서 최전선을 달려갔다. ㊥ 블랙 리베리온 도중, 랜슬롯을 쫓아 카미네지마로 향해, 거기서 제로의 ㊥정체가 르루슈인 것을 알게 된다. 한때는 멍하니 자실의 상태에 빠져 버려, ㊥루루슈를 버리는 모습이 되지만, 제로에 대한 신뢰가 완전히 사라진 것은 아니다㊥했다. ㊥ 일년의 잠복 기간을 거쳐 자신의 감정과 루루슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000011",
+      "sourceBindingSha256": "39f4c4ba431ef6f24e4abceec9a2b91c7beb60cd722a6f0f83f7c3b1451d6535",
+      "sourceTextSha256": "5b25ca86044051a78b0f2fe1a0377b04a2ac2aa403c09513f79c27e3fad8d1ad",
+      "freshTranslation": "의를 확인하기 위해 C.I. C. ㊥ 등과 비연 4호 작전을 결행. 제로를 부활시키는 데 성공했다. ㊥ 이후, 라운드에도 필적한다고 평가받은 팔과 애기의 홍련으로, 수많은 전장에서 승리를 수 ㊥ 하는 것도, 별각과 싸웠을 때에 에너지 부족을 일으켜 포박되어 버린다. ㊥ 포로가 된 카렌은 수작에게 인도되어, 제2차 도쿄 결전시에 사키세자에게 구㊥가 나올 때까지, 오랫동안 전장을 떠나게 되었다. ㊥ 검은 기사단에서 추방된 제로가 황제 루루슈가 되었을 때, 회담의 장소에서 재회한 ㊥ 루루슈에게 결별의 키스를 주었다. ㊥ 최종결전에서는 수자크와 사투를 벌이고 相打에 가까운 형태이지만 승리를 거두고 있다. ㊥ 그 후, 반역자로 처형당한 몸이었던 카렌은 눈앞에서 제로 레퀴엠을 눈㊥ 격격했다. ㊥ 루루슈와 수자크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000012",
+      "sourceBindingSha256": "9ab32d7877178687951e649ec976ecc971bebc2d6cd02cea66ffb74d3e94c427",
+      "sourceTextSha256": "dc384ebefa800b550a24036a6a309564b9c733af4e9c7387de83a45ea2600a95",
+      "freshTranslation": "뜻을 깨달은 카렌은 루루슈가 바라던 새로운 세계에서 생㊥ 왔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000013",
+      "sourceBindingSha256": "4388b94f5400a6a6453dac3884586d951b5e799117cc0797a9050576ae699da3",
+      "sourceTextSha256": "724033b846e8a1bd3dd953c4796d9bd474c37ad815bd5d19b3c1d730efde14db",
+      "freshTranslation": "브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000014",
+      "sourceBindingSha256": "981b3345bce7ba5d9a37e1eda376af96c613d7e1a0476b2af9dc31ec544647ea",
+      "sourceTextSha256": "5bcc7eba3bf86b3e075673f5382034e17a02e450fa5362f0e3979e60b2217da2",
+      "freshTranslation": "니어 귀족의 아버지와 일본인의 어머니 사이에서 태어난 하프로, 검은 기사단 창설시부터 ㊥의 멤버. 18세. ㊥ 활동적이고 잃지 않고 싫어하고 조국 인 일본을 제압 한 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000015",
+      "sourceBindingSha256": "10597ef6886d00a332141f8c2c89773cb279641ac0a4d844d9b16c9a136100e3",
+      "sourceTextSha256": "2361b56e0b26d196f48ea5094dfcac43927200cf904d98eab05cb4ad6ff60b48",
+      "freshTranslation": "니어에게 강한 분노㊥리를 안고 있다. ㊥레지스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000016",
+      "sourceBindingSha256": "9fc64dbd3c2788a27cee2c63a73854215d21df9da0d3ad4c67731d9c0d65ef1a",
+      "sourceTextSha256": "b702bf99c13fd3bfee16d74a3f528b6396ea9edf749b8e19ea40c091893db474",
+      "freshTranslation": "언스 활동 중에 제로를 만나, 그가 일으키는 몇 가지 기적을 눈에 띄게 ㊥하고, 언제밖에 제로를 신뢰하게 되었다. 이윽고 뛰어난 KMF 조종 기술이 평㊥가 되고, 검은 기사단 결성 후에는 제로의 친위대인 영번대 대장에 취임.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000017",
+      "sourceBindingSha256": "422667a57a49c6ef5dd5a48e2a77da6feb07384ff6502c6a603500ad149ec89b",
+      "sourceTextSha256": "4cca281aab876362cbd61c7a794a5defba9065d82b7a332f721ee300f6c025dd",
+      "freshTranslation": "홍의 전용기 ㊥ 몸, 홍련이식을 달려 기사단의 에이스로서 최전선을 달려갔다. ㊥ 블랙 리베리온 도중, 랜슬롯을 쫓아 카미네지마로 향해, 거기서 제로의 ㊥정체가 르루슈인 것을 알게 된다. 한때는 멍하니 자실의 상태에 빠져 버려, ㊥루루슈를 버리는 모습이 되지만, 제로에 대한 신뢰가 완전히 사라진 것은 아니다㊥했다. ㊥ 일년의 잠복 기간을 거쳐 자신의 감정과 루루슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000018",
+      "sourceBindingSha256": "fdcc79a409e0bde25e43ddd975819f9b989b50620143ba26349f7c3c1bb7d6eb",
+      "sourceTextSha256": "5b25ca86044051a78b0f2fe1a0377b04a2ac2aa403c09513f79c27e3fad8d1ad",
+      "freshTranslation": "의를 확인하기 위해 C.I. C. ㊥ 등과 비연 4호 작전을 결행. 제로를 부활시키는 데 성공했다. ㊥ 이후, 라운드에도 필적한다고 평가받은 팔과 애기의 홍련으로, 수많은 전장에서 승리를 수 ㊥ 하는 것도, 별각과 싸웠을 때에 에너지 부족을 일으켜 포박되어 버린다. ㊥ 포로가 된 카렌은 수작에게 인도되어, 제2차 도쿄 결전시에 사키세자에게 구㊥가 나올 때까지, 오랫동안 전장을 떠나게 되었다. ㊥ 검은 기사단에서 추방된 제로가 황제 루루슈가 되었을 때, 회담의 장소에서 재회한 ㊥ 루루슈에게 결별의 키스를 주었다. ㊥ 최종결전에서는 수자크와 사투를 벌이고 相打에 가까운 형태이지만 승리를 거두고 있다. ㊥ 그 후, 반역자로 처형당한 몸이었던 카렌은 눈앞에서 제로 레퀴엠을 눈㊥ 격격했다. ㊥ 루루슈와 수자크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00356/Sheet1/000019",
+      "sourceBindingSha256": "f1235de120317c0fc855e14d1ca507c50ba6d666e5feeb7aa70babd4e8b28f0d",
+      "sourceTextSha256": "dc384ebefa800b550a24036a6a309564b9c733af4e9c7387de83a45ea2600a95",
+      "freshTranslation": "뜻을 깨달은 카렌은 루루슈가 바라던 새로운 세계에서 생㊥ 왔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

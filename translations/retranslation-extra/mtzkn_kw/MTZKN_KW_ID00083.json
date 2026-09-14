@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00083",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00083/Sheet1/000002",
+      "sourceBindingSha256": "373ad586d77a9316a2fc83162d18406ddea61f2f93dbe7522fb0a9149601a4f5",
+      "sourceTextSha256": "055b394058dfe9bbea723d2b1fec1827031985c84143833410d40e0d8f16f7cb",
+      "freshTranslation": "검은 영지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00083/Sheet1/000003",
+      "sourceBindingSha256": "032961cc51730acf265e8dca22907ee47d27cbf8aaecda2a5ad7bb44ec68357a",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00083/Sheet1/000004",
+      "sourceBindingSha256": "53f4a539ffd59002b8d3b08cfdcac9e457521b224e3fca363491c3b53aa3dc84",
+      "sourceTextSha256": "39da3bd3e52ad82a816a54d324db86f167148346bce247c9c5bdd9f117c00ca4",
+      "freshTranslation": "과거부터 미래의 모든 지식을 모은 것으로, 태극의 조각이라고도 불린다. ㊥ 그 실태는 불명하고, 개념인지 물체인지도 밝혀지지 않았다. ㊥ 그것을 손에 든 사람은 무한한 지식을 얻는 대가로 근원적인 재앙이 기다리는 절망의 ㊥ 미래를 알게 된다고 한다. ㊥ 디 에델 베르날도 검은 영지에 접한 혼자이며, 차원력을 제어하는 ​​㊥ 능력은 그것에 의해 얻은 것으로 추측되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00083/Sheet1/000005",
+      "sourceBindingSha256": "fa4a520a599c87fde5ad91d734c1fde901a5bc7b67d12ae2ee5fe88eba233b6e",
+      "sourceTextSha256": "39da3bd3e52ad82a816a54d324db86f167148346bce247c9c5bdd9f117c00ca4",
+      "freshTranslation": "과거부터 미래의 모든 지식을 모은 것으로, 태극의 조각이라고도 불린다. ㊥ 그 실태는 불명하고, 개념인지 물체인지도 밝혀지지 않았다. ㊥ 그것을 손에 든 사람은 무한한 지식을 얻는 대가로 근원적인 재앙이 기다리는 절망의 ㊥ 미래를 알게 된다고 한다. ㊥ 디 에델 베르날도 검은 영지에 접한 혼자이며, 차원력을 제어하는 ​​㊥ 능력은 그것에 의해 얻은 것으로 추측되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

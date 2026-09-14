@@ -1,0 +1,181 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00123",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00123/Sheet1/000002",
+      "sourceBindingSha256": "7e998f722cac81eea3f9c9273a0ad7c31d6ae346960d0091d3e52410c11b5fa9",
+      "sourceTextSha256": "763e6f5c3b4330811a37614a0c93e2460631c05f23f071803a596a703977632d",
+      "freshTranslation": "마리나 이스마일",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00123/Sheet1/000003",
+      "sourceBindingSha256": "7dbf91a95a2dd3f9e7413b1c141c9ac846cb154e612da6ee77411bdf7cd5ee15",
+      "sourceTextSha256": "834ac1327790cdcd82afd5c98a03bb1c6de7fdc18cb61a2e012767098abc8a13",
+      "freshTranslation": "마리나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00123/Sheet1/000004",
+      "sourceBindingSha256": "9b8ef9cea37fe0668c0c247873d1d6e31653724bea53f010d41ed4e6dc19cd64",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00123/Sheet1/000005",
+      "sourceBindingSha256": "9f4ae79f123a0179c907c1042c4650afccb7399fcb0cb6acf0f5a5987f8da23a",
+      "sourceTextSha256": "23ca6c1e0e47c6e1b03ffa34f137cb5d45ad8a1fe924c1ebbcc176d62369a73c",
+      "freshTranslation": "아자디스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00123/Sheet1/000006",
+      "sourceBindingSha256": "b14917ca607a745cd95cb63275482d1fa9832941924994bc2833f38eb8a364e3",
+      "sourceTextSha256": "a2d7c8a361293dbf1835b8e8e8ef113ba578779c242463ecd052ef25829f2a56",
+      "freshTranslation": "왕국의 제일황녀. 31세. ㊥ 일반 시민으로 자랐지만 석유 자원의 고갈된 자국 경제를 재건하기 위해 부활한 ㊥ 왕제의 톱에 축제된 경력을 가진다. ㊥국가의 지도자로서, 거친 국가를 개혁하려는 의지는 강했지만, 지도자로서 ㊥의 경험 부족 때문에, 개혁파로부터는 비판의, 보수파로부터는 증오의 대상이 되고 있었다. ㊥ 싸움에 휘말리는 가운데 세츠나를 만나지만, 함께 평화를 바라면서도 삶의 차이 ㊥부터 계속 엇갈렸다. ㊥솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00123/Sheet1/000007",
+      "sourceBindingSha256": "7450138e3bab4342b055b07715382402a8bab826c3675141d8a9f1e147434be4",
+      "sourceTextSha256": "d9e6959635144f5322f58852359c465bc87e8f3d998c43accdb4691d55ca0f7c",
+      "freshTranslation": "루비 잉과 관련이 있기 때문에, 일시적으로 그 관계",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00123/Sheet1/000008",
+      "sourceBindingSha256": "0a7524433944c1bdccd789a4b10f73cefbcb27b91a87cc4b81f9fb59f86e1444",
+      "sourceTextSha256": "6e11f8c76ebc9d218f8aebce6140d1101317b730cab9a1c99cae5c229a756be0",
+      "freshTranslation": "구속 ㊥ 되더라도 알레르야와 함께 찰나들에 의해 구출된다. ㊥ 그러나 조국은 서페이스에 의해 파괴되었고 연방의 통제하에 놓여 있으며 ㊥ 이후에는",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00123/Sheet1/000009",
+      "sourceBindingSha256": "b7dd069d1460af4999beec685bcfc0b7c4c967d5177d249161cb0fecb1c86dee",
+      "sourceTextSha256": "a3ac46c58f7c3a1594481dee544f825a7c008741c98d0e3f53ef8a687c03f20c",
+      "freshTranslation": "론과 행동을 함께했다. ㊥ 싸움이 펼쳐지는 가운데 싸움 이외의 길을 모색하고 평화의 마음을 사람들에게 전달하려고 애 ㊥ 공달과 노래를 만들었다. 그 노래는 전세계에 흘러 평화에의 뒷받침이 되어 갔다. ㊥ 종전 후 부흥한 아자디스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00123/Sheet1/000010",
+      "sourceBindingSha256": "cc126085473f0493401efb98a70ed47599d42970856e5e94bc86ed6a180f64fc",
+      "sourceTextSha256": "b780e6b2df03f080722aa8b383dffa11e75d54e6681adc45beb5c722832c3bc6",
+      "freshTranslation": "황녀로 복귀. 대전중에 지구연방정부가 진행해 ㊥한 정책을 개정시키기 위한 활동을 실시하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00123/Sheet1/000011",
+      "sourceBindingSha256": "8ceedef1a74a4106d179b97040047f938c969ab861a1788e6473db3f7430d88f",
+      "sourceTextSha256": "23ca6c1e0e47c6e1b03ffa34f137cb5d45ad8a1fe924c1ebbcc176d62369a73c",
+      "freshTranslation": "아자디스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00123/Sheet1/000012",
+      "sourceBindingSha256": "757ed4c247160f9c4f46ec8dc9f70ae28a5f1528173352758dd538aee154b887",
+      "sourceTextSha256": "a2d7c8a361293dbf1835b8e8e8ef113ba578779c242463ecd052ef25829f2a56",
+      "freshTranslation": "왕국의 제일황녀. 31세. ㊥ 일반 시민으로 자랐지만 석유 자원의 고갈된 자국 경제를 재건하기 위해 부활한 ㊥ 왕제의 톱에 축제된 경력을 가진다. ㊥국가의 지도자로서, 거친 국가를 개혁하려는 의지는 강했지만, 지도자로서 ㊥의 경험 부족 때문에, 개혁파로부터는 비판의, 보수파로부터는 증오의 대상이 되고 있었다. ㊥ 싸움에 휘말리는 가운데 세츠나를 만나지만, 함께 평화를 바라면서도 삶의 차이 ㊥부터 계속 엇갈렸다. ㊥솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00123/Sheet1/000013",
+      "sourceBindingSha256": "890e39107cd0a6b456ab2a36fc8ed298acc4dbd9214ae6406db609de6316b5fe",
+      "sourceTextSha256": "d9e6959635144f5322f58852359c465bc87e8f3d998c43accdb4691d55ca0f7c",
+      "freshTranslation": "루비 잉과 관련이 있기 때문에, 일시적으로 그 관계",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00123/Sheet1/000014",
+      "sourceBindingSha256": "4e485c0db6e57b825f2504e78468200add46f182807ab087355b52ceaf2e4d25",
+      "sourceTextSha256": "6e11f8c76ebc9d218f8aebce6140d1101317b730cab9a1c99cae5c229a756be0",
+      "freshTranslation": "구속 ㊥ 되더라도 알레르야와 함께 찰나들에 의해 구출된다. ㊥ 그러나 조국은 서페이스에 의해 파괴되었고 연방의 통제하에 놓여 있으며 ㊥ 이후에는",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00123/Sheet1/000015",
+      "sourceBindingSha256": "7cd33f85d33e3681e15fb512733f6bff2d60ac68d1867358d3f3855b87b06137",
+      "sourceTextSha256": "a3ac46c58f7c3a1594481dee544f825a7c008741c98d0e3f53ef8a687c03f20c",
+      "freshTranslation": "론과 행동을 함께했다. ㊥ 싸움이 펼쳐지는 가운데 싸움 이외의 길을 모색하고 평화의 마음을 사람들에게 전달하려고 애 ㊥ 공달과 노래를 만들었다. 그 노래는 전세계에 흘러 평화에의 뒷받침이 되어 갔다. ㊥ 종전 후 부흥한 아자디스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00123/Sheet1/000016",
+      "sourceBindingSha256": "392d67e3ce87a90839dfe44bdb405b1e7cc7f14cec7228e70e2a22f0d3c0ac74",
+      "sourceTextSha256": "b780e6b2df03f080722aa8b383dffa11e75d54e6681adc45beb5c722832c3bc6",
+      "freshTranslation": "황녀로 복귀. 대전중에 지구연방정부가 진행해 ㊥한 정책을 개정시키기 위한 활동을 실시하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

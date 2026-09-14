@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00033",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00033/Sheet1/000002",
+      "sourceBindingSha256": "ab74900206b668a5a25d87b0df44b50bb4860fdd95fbfc49a05e3cecdfac3130",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00033/Sheet1/000003",
+      "sourceBindingSha256": "4af1d43b9143d82f40a43620cf70e5f4e7682cea24dd280e4e9e683eb70e2e1e",
+      "sourceTextSha256": "24957450688dfae4636580aa665c720e783ce36cab56d0df9aad577038178a56",
+      "freshTranslation": "Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00033/Sheet1/000004",
+      "sourceBindingSha256": "b15f897e016b9c9e2402af3a9bfbb121581bb553492c60d00ac47b4b87a98acd",
+      "sourceTextSha256": "24957450688dfae4636580aa665c720e783ce36cab56d0df9aad577038178a56",
+      "freshTranslation": "Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00033/Sheet1/000005",
+      "sourceBindingSha256": "d3f0b8a352d0473ebc6345f0100d61b1d6b370bfc87f4cb95b8c0d289aea8343",
+      "sourceTextSha256": "d72595ce57e8679feb314e6426c2571d6ee1c1cc313ef81ff2ee35269ca9bc64",
+      "freshTranslation": "카미유 비단",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00033/Sheet1/000006",
+      "sourceBindingSha256": "f9a0cb51aab41c31de11193d377a699004f4548d80ceb2da4ad78228a8e17e30",
+      "sourceTextSha256": "b1c2297eb5bd39abce1316848383179c641962db96c3ce4f0b7c8ad925f083b1",
+      "freshTranslation": "애너하임 일렉트로닉스가 개발한 에우고의 가변 모빌 슈트. ㊥Z계획에서 길러진 노하우의 집대성이 되는 기체로, 건담 Mk-Ⅱ의 이동식 ㊥·프레임 기술과 플라잉 아머의 아이디어를 조합해 완성했다. ㊥ 장갑재의 건다리움·γ와 신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00033/Sheet1/000007",
+      "sourceBindingSha256": "f326cc830f0850c519db5504a7df8274b3491bcdee90c49f88e7147d66508c89",
+      "sourceTextSha256": "33b1fefcfe778aa82981bcf541139487945b2a20b20c96afafa994d5a74802c1",
+      "freshTranslation": "제네리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00033/Sheet1/000008",
+      "sourceBindingSha256": "042bb6db2c242e5367d1afe1dd8ae9437eb59011216b21e35003b2be0fef7034",
+      "sourceTextSha256": "855bf57f6f8f82030294721a7778575d0bf02e5309f7408d22f42027caf89ea5",
+      "freshTranslation": "-의 채용에 의해 파워 웨이트 레시㊥오가 뛰어나군을 뽑은 기동력을 실현하고 있다. 그 높은 출력은 메가 바주카 라㊥인처에도 필적하는 위력을 가진 휴대 무기, 하이퍼 메가 런처의 사용을 가능㊥능으로 한다. ㊥ 더 웨이브 라이더로 변형함으로써 장대한 항속력과 가속력을 발휘한다. ㊥ 단기로의 대기권 돌입이나 대기권 내에서 단독 비행, 동료를 등에 탑재한 작전 행동 등 ㊥ 모든 장면에서 활약이 가능한 기체가 되고 있다. ㊥ 후에 간이 사이코뮤인 바이오센서가 탑재된 것으로, 갈라진 게 ㊥유의 반응에 대한 추종성을 손에 넣었다. 게다가 적모빌슈트의 움직임에 간섭해 정지 ㊥ 정지시키는 등, 사양에는 포함되지 않는 불가해한 현상의 발현도 확인되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00033/Sheet1/000009",
+      "sourceBindingSha256": "79dc2964355ef2c0d1868fddda69b24d062c144c546bc4fa184c5c6e096e8f14",
+      "sourceTextSha256": "b1c2297eb5bd39abce1316848383179c641962db96c3ce4f0b7c8ad925f083b1",
+      "freshTranslation": "애너하임 일렉트로닉스가 개발한 에우고의 가변 모빌 슈트. ㊥Z계획에서 길러진 노하우의 집대성이 되는 기체로, 건담 Mk-Ⅱ의 이동식 ㊥·프레임 기술과 플라잉 아머의 아이디어를 조합해 완성했다. ㊥ 장갑재의 건다리움·γ와 신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00033/Sheet1/000010",
+      "sourceBindingSha256": "462b1548f17817a9772fb11105a7b361cd43bd1dd4d318b94a082642de1c523a",
+      "sourceTextSha256": "33b1fefcfe778aa82981bcf541139487945b2a20b20c96afafa994d5a74802c1",
+      "freshTranslation": "제네리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00033/Sheet1/000011",
+      "sourceBindingSha256": "2ecfb06296672c19250c75eff262f4254e54470d6d2437a4ec7e8c6ebeb071ac",
+      "sourceTextSha256": "855bf57f6f8f82030294721a7778575d0bf02e5309f7408d22f42027caf89ea5",
+      "freshTranslation": "-의 채용에 의해 파워 웨이트 레시㊥오가 뛰어나군을 뽑은 기동력을 실현하고 있다. 그 높은 출력은 메가 바주카 라㊥인처에도 필적하는 위력을 가진 휴대 무기, 하이퍼 메가 런처의 사용을 가능㊥능으로 한다. ㊥ 더 웨이브 라이더로 변형함으로써 장대한 항속력과 가속력을 발휘한다. ㊥ 단기로의 대기권 돌입이나 대기권 내에서 단독 비행, 동료를 등에 탑재한 작전 행동 등 ㊥ 모든 장면에서 활약이 가능한 기체가 되고 있다. ㊥ 후에 간이 사이코뮤인 바이오센서가 탑재된 것으로, 갈라진 게 ㊥유의 반응에 대한 추종성을 손에 넣었다. 게다가 적모빌슈트의 움직임에 간섭해 정지 ㊥ 정지시키는 등, 사양에는 포함되지 않는 불가해한 현상의 발현도 확인되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

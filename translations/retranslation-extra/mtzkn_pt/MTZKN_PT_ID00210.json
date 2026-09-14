@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00210",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00210/Sheet1/000002",
+      "sourceBindingSha256": "e963b6ae4124f5fe0e7876d59880420c34dc54988985754cbf827ab0d234d4ef",
+      "sourceTextSha256": "526674df23c8d439b01d45200f0e1b8cd39226cc026c8cbef11b68c5efdb9042",
+      "freshTranslation": "기쿠노스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00210/Sheet1/000003",
+      "sourceBindingSha256": "548581e6b82f9e17c605321679721ae8bf797559bb1687d3d3a18a59431dc8e4",
+      "sourceTextSha256": "a5d8d2daad3d2dcef32c66bbaa05f3b0ce46ede58719861a00cfdff7b1312b5b",
+      "freshTranslation": "국화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00210/Sheet1/000004",
+      "sourceBindingSha256": "655c8fb07bb75d166ea486f5132d30fabeb1ecfd4c18a28df7bbc89f09bd74c5",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00210/Sheet1/000005",
+      "sourceBindingSha256": "1b2cbd5f3e8a5ce57ca1fd0888009663120cf67ef791b733ad0d9abb260f3e74",
+      "sourceTextSha256": "37214efe0c3260dc2e7bac618702a08e78d357cfbde7df5d077c52e7b34edcd6",
+      "freshTranslation": "구로가네 오인중의 한 명. ㊥ 평소에는 구로가네야의 중거두를 맡고 있어, 아무런 변철도 없는 노파로 보이지만, 실력은 ㊥5인중 최강. 츠바사도 「기쿠키 씨」라고 부르며 한눈에 두고 있다. ㊥득물은 초합금 Z제의 철선. 몸짓도 낯설고 있어, 싸움으로 보스를 압도해 ㊥한 갑아가 전력으로 도전해도, 그 신체에는 손가락 한 개 접할 수 없었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00210/Sheet1/000006",
+      "sourceBindingSha256": "dd01c194b9747c40cdb27994cd3241b03654323e0914a630e08f6d883a94cba5",
+      "sourceTextSha256": "37214efe0c3260dc2e7bac618702a08e78d357cfbde7df5d077c52e7b34edcd6",
+      "freshTranslation": "구로가네 오인중의 한 명. ㊥ 평소에는 구로가네야의 중거두를 맡고 있어, 아무런 변철도 없는 노파로 보이지만, 실력은 ㊥5인중 최강. 츠바사도 「기쿠키 씨」라고 부르며 한눈에 두고 있다. ㊥득물은 초합금 Z제의 철선. 몸짓도 낯설고 있어, 싸움으로 보스를 압도해 ㊥한 갑아가 전력으로 도전해도, 그 신체에는 손가락 한 개 접할 수 없었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

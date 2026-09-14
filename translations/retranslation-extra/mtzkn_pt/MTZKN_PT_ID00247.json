@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00247",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00247/Sheet1/000002",
+      "sourceBindingSha256": "de07cb23e2db483f7a590902ce05e2725f6c290aba200c38da55d2ba514eb5af",
+      "sourceTextSha256": "74c855268b0794edf808d2894830006e623fad8152cd1d7ababc68f725185f9d",
+      "freshTranslation": "제이슨 벡",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00247/Sheet1/000003",
+      "sourceBindingSha256": "1812f373c74a867098aa9f1f4d3e184f9b6b00ee88b7dfbc91ad83a2beb9f893",
+      "sourceTextSha256": "a903985f9a15394f74944dd6d54d0cd14c60de7ee8501b72e1f66fb9107a73d0",
+      "freshTranslation": "벡",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00247/Sheet1/000004",
+      "sourceBindingSha256": "30282401a9cd7495785c5275275f2dd8b6e9156ae52590e73ff02351b4171b6f",
+      "sourceTextSha256": "fe82c905a6215168a90a9b27d7eb05a7c47166cb9ec609a131f0bd7583092bde",
+      "freshTranslation": "THE 빅오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00247/Sheet1/000005",
+      "sourceBindingSha256": "19317ed0c53f6d13c26799d98145526c040f5e601b945af9de79328322c269d5",
+      "sourceTextSha256": "30c7c88ab4e915d4090657d3a538ffbc0abaa532ad62596de304411a278b69e2",
+      "freshTranslation": "오츠카 요시타다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00247/Sheet1/000006",
+      "sourceBindingSha256": "82f42c3ca84a3cdbb3aa9b551a55b8afabc21a192d296759c640031dfc059420",
+      "sourceTextSha256": "5a08e6c01bf5783d15a744e318217c522b4ddd7dc688317f11f30c9a2c91e133",
+      "freshTranslation": "패러다임 시티에서 부정을 거듭하는 범죄자. 22세. ㊥ 저속한 웃음과 함께 나타나 은행 강도, 납치, 사기 등 모든 범죄에 손을 물들인다. 그 ㊥의 언동은 친필라 그 자체로, 로저 웬 \"프로인 자격없는 범죄자\". ㊥ 메가데우스 조종에 중요한 인",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00247/Sheet1/000007",
+      "sourceBindingSha256": "29ba3a52cf852a7a60a61c4f2871323bc23a292ff121343512bff758dc1896c3",
+      "sourceTextSha256": "73573461bb0df07ed2a23ae0c8c17b23d148f5cb69ffc7b7097b7ad578e13ee9",
+      "freshTranslation": "- 페이스 대체 기술의 메모리를 가지고 ㊥하기 위해 메가 데우스를 조달하고 범죄에 사용하고있다. ㊥ 솔다노 영양 납치 사건으로 로저에게 감옥에 보내진 후, 그를 '까마귀' ㊥라고 부르고 복수를 맹세한다. 그리고 탈옥을 반복해서는, 로저에게 인도를 건네주기 위해서 몇번이나 ㊥ 없이 책을 Fuck한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00247/Sheet1/000008",
+      "sourceBindingSha256": "2af21ef425aae247430bfde4379e7d257318a23eda72f93f25cdf2fc55bf802e",
+      "sourceTextSha256": "5a08e6c01bf5783d15a744e318217c522b4ddd7dc688317f11f30c9a2c91e133",
+      "freshTranslation": "패러다임 시티에서 부정을 거듭하는 범죄자. 22세. ㊥ 저속한 웃음과 함께 나타나 은행 강도, 납치, 사기 등 모든 범죄에 손을 물들인다. 그 ㊥의 언동은 친필라 그 자체로, 로저 웬 \"프로인 자격없는 범죄자\". ㊥ 메가데우스 조종에 중요한 인",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00247/Sheet1/000009",
+      "sourceBindingSha256": "8c1baa5ef824e434079355e3450efd55bfd62b26816a70349f7d5d389e08d5e7",
+      "sourceTextSha256": "8a8d356549364e5375a37e422b87b2f53dbddbd1b0752e34d9706e0c434345f9",
+      "freshTranslation": "- 페이스 대체 기술의 메모리를 가지고 ㊥하기 위해 메가 데우스를 조달하고 범죄에 사용하고있다. ㊥ 솔다노 영양 납치 사건으로 로저에게 감옥에 보내진 후, 그를 '까마귀' ㊥라고 부르고 복수를 맹세한다. 그리고 탈옥을 반복해서는, 로저에게 인도를 건네주기 위해서 몇번이나 ㊥ 없이 책을 Fuck 하는 것도, 정말로 실패하고 있다. ㊥ 후에 사형 판결을 받지만, 판결을 취소하는 대신 패러다임사에의 협력을 강요㊥ 되었기 때문에, 스며들면서도 손을 빌려준다. ㊥메모리 유닛을 빼앗겨도 움직이는 도로시를 신기하게 생각하면서도, 마지막은 도로㊥씨에게 「빅오 파이널 스테이지」발동을 위한 어드바이스를 해, 싸움의㊥행방을 지켜봤다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00226",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00226/Sheet1/000002",
+      "sourceBindingSha256": "2f8a3e74579f070b09538756efb8bda9fb676cda97d76aa9ca9d680019bc6627",
+      "sourceTextSha256": "b40f8de117e644be3d8ab8c76b9b5779575051515b39a54c7b5cfa1a85297d19",
+      "freshTranslation": "코드기어스 반역의 루루슈 R2",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00226/Sheet1/000003",
+      "sourceBindingSha256": "e6c419fd28d1eb17f9f570d7f66fdcd0818bafcddaffbadc99fd90373e67ac53",
+      "sourceTextSha256": "537ea444d602e46d32600ca0868ab2cf94bd15c3058589d05965c1c6863017c7",
+      "freshTranslation": "신기루",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00226/Sheet1/000004",
+      "sourceBindingSha256": "bcf4f3f6cec358fe7818cf4841ddb3f777af7d7f0472946f67a27f8bec1be8ce",
+      "sourceTextSha256": "537ea444d602e46d32600ca0868ab2cf94bd15c3058589d05965c1c6863017c7",
+      "freshTranslation": "신기루",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00226/Sheet1/000005",
+      "sourceBindingSha256": "d0c35152cd494133dabecda4a365ac763f47b26bef2fd0e5d03075627d662f55",
+      "sourceTextSha256": "32778b29fea58065310a90200d4724635cfcb412a39c0e13877cd9f349b18b42",
+      "freshTranslation": "제로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00226/Sheet1/000006",
+      "sourceBindingSha256": "98d6105b6436481b54419f8f4fbf18b401a2d8e463a87c0a69d6026d675e91c3",
+      "sourceTextSha256": "21729ba9409f49e888fd3a7d41a680283c040987c8640d3f995171e5c985c70b",
+      "freshTranslation": "제로 전용 KMF. ㊥ 가변 기구를 탑재해, 포트리스 모드로 변형 가능하게 되어 있어, 고속 비행만 ㊥이 아니고 수중 항행도 가능. ㊥ 블랙 기사단용 기체에서 파생기이지만, 가웨인의 드루이드 시스템을 전㊥ 사용한 것으로 경이적인 연산 능력을 자랑한다. 세계 최고의 방어력을 자랑한다고 하는 강력한 방어㊥필드 '절대 수호영역'을 최적의 상태로 사용하기 위해서는 주위의 상황을 순간 ㊥ 또한 정확하게 드루이드 시스템에 입력할 필요가 있다. ㊥ 또한 흉부에는 고체상 액체 금속을 발사하고 거기에 입자포를 조사함으로써 액체 금속 ㊥이 입자를 확산시키는 확산 구조상 전이포가 장착되어 있다. ㊥ 이 특징적인 2개의 공방 장비를 다루기 위해서는 드루이드 시스템의 힘을 끌어내 ㊥만 하는 고급 정보 처리 능력이 필요하다. 그 때문에, 루루슈 이외의 사람에서는, ㊥ 조종할 수 있어도 성능을 충분히 끌어낼 수 없다고 되어 있다. ㊥ 계산을 할 때,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00226/Sheet1/000007",
+      "sourceBindingSha256": "8ba3fc536cbc3778907272a806cf6035c1bca7b83006c9eca1655003bb1306a8",
+      "sourceTextSha256": "2f2e4e05889d5b667ec7ea6831157820dc6168d2670b0b19c2d252ed541bd2c7",
+      "freshTranslation": "치패널식의 키보드가 사용되는 탓인지, 조종석내는 ㊥ 락셔",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00226/Sheet1/000008",
+      "sourceBindingSha256": "0a965f98a84ff01dd190e58c21e568df470065538cf3bb8425f49980b477c129",
+      "sourceTextSha256": "72b9c35b129d99e9989bc180a377ac3feba71574098ed3999494ec5ba56e8f3e",
+      "freshTranslation": "디자인의 오토바이가 아닌 가웨인과 같은 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00226/Sheet1/000009",
+      "sourceBindingSha256": "2326f79e1242056b8a0a669acc87052486d9011f063509ff8b00966a34171f90",
+      "sourceTextSha256": "2d721512bb98a61955d679506ebe5b7450feba9480ce5b8c40578f5d1aa6a54f",
+      "freshTranslation": "니어계에 가까이㊥인것이 되고 있다. ㊥ 또 장거리의 이동도 고려되고 있기 때문에, 다른 KMF에 비해 조종석은 널리 ㊥이며, 제로의 가면이나 의상이라고 하는 것을 수납하는 일도 가능.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00226/Sheet1/000010",
+      "sourceBindingSha256": "d1ee5fbf2c5eb03400284c1d5e5df7d1372703f29db1897507ca9a795273ea9c",
+      "sourceTextSha256": "21729ba9409f49e888fd3a7d41a680283c040987c8640d3f995171e5c985c70b",
+      "freshTranslation": "제로 전용 KMF. ㊥ 가변 기구를 탑재해, 포트리스 모드로 변형 가능하게 되어 있어, 고속 비행만 ㊥이 아니고 수중 항행도 가능. ㊥ 블랙 기사단용 기체에서 파생기이지만, 가웨인의 드루이드 시스템을 전㊥ 사용한 것으로 경이적인 연산 능력을 자랑한다. 세계 최고의 방어력을 자랑한다고 하는 강력한 방어㊥필드 '절대 수호영역'을 최적의 상태로 사용하기 위해서는 주위의 상황을 순간 ㊥ 또한 정확하게 드루이드 시스템에 입력할 필요가 있다. ㊥ 또한 흉부에는 고체상 액체 금속을 발사하고 거기에 입자포를 조사함으로써 액체 금속 ㊥이 입자를 확산시키는 확산 구조상 전이포가 장착되어 있다. ㊥ 이 특징적인 2개의 공방 장비를 다루기 위해서는 드루이드 시스템의 힘을 끌어내 ㊥만 하는 고급 정보 처리 능력이 필요하다. 그 때문에, 루루슈 이외의 사람에서는, ㊥ 조종할 수 있어도 성능을 충분히 끌어낼 수 없다고 되어 있다. ㊥ 계산을 할 때,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00226/Sheet1/000011",
+      "sourceBindingSha256": "cf66a2afb3d37920634ab780fdb0f6b0b9b9c0823085ae7af5d5b16e2f05a5cd",
+      "sourceTextSha256": "2f2e4e05889d5b667ec7ea6831157820dc6168d2670b0b19c2d252ed541bd2c7",
+      "freshTranslation": "치패널식의 키보드가 사용되는 탓인지, 조종석내는 ㊥ 락셔",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00226/Sheet1/000012",
+      "sourceBindingSha256": "7dfbb81e235179b5e539bf60e2aa5e73cbd0342087a3ce0b51117c0a60df08c3",
+      "sourceTextSha256": "72b9c35b129d99e9989bc180a377ac3feba71574098ed3999494ec5ba56e8f3e",
+      "freshTranslation": "디자인의 오토바이가 아닌 가웨인과 같은 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00226/Sheet1/000013",
+      "sourceBindingSha256": "ad9d48d5b779dd6190578c8f38a2d71028a64646e1bad9298196d227c9ea196f",
+      "sourceTextSha256": "810faa40a43f8c3d7ba9d388d7211d7890208b9f8613f261aa34d794c5e8af85",
+      "freshTranslation": "니어계에 가까이㊥인것이 되고 있다. ㊥ 또 장거리의 이동도 고려되고 있기 때문에, 다른 KMF에 비해 조종석은 널리 ㊥이며, 제로의 가면이나 의상이라고 하는 것을 수납하는 일도 가능. ㊥ 제로가 검은 기사단에서 쫓겨 났을 때, 로로가 도망 용으로 빼앗았기 때문에 끝까지 루루 ㊥ 슈의 승기가되어,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00226/Sheet1/000014",
+      "sourceBindingSha256": "bb943d95bf8c675ed8d9f7735a0e277d1d38fe715d70beab0e6cdb07e88cdb7a",
+      "sourceTextSha256": "bc38908b0ff36c079306285236a1be7bb59178061a843bc5be57b9fc92416ffd",
+      "freshTranslation": "니어 황제로도 탑승했다. ㊥ 최종 결전에서 플레이어의 폭발을 멈추기 위해 플레이어 제거",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00226/Sheet1/000015",
+      "sourceBindingSha256": "5f1da3d99e54fa20b0d7525ed12184d0cbd6e2536d5d6a989bfb53810f733567",
+      "sourceTextSha256": "a66cf41c2fa470c4c16d0e555a248fb956e450d21abb30edf3c2e0d4816da20a",
+      "freshTranslation": "-를 탑재하고 ㊥ 출격. 폭발까지 19초 동안 환경의 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00226/Sheet1/000016",
+      "sourceBindingSha256": "05dc225f08912119cf1e638e10db5a4d2584c122cff624bef393344c0c002f47",
+      "sourceTextSha256": "380053911d2da6b2379cc854f18002f6e1769de08bd737fed86d612f6d98a9d6",
+      "freshTranslation": "를 박아 스자쿠와의 공동 플레이로 플레㊥이어의 저지에 성공했다. ㊥마지막은 다모클레스에서 지노 타는 트리스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00226/Sheet1/000017",
+      "sourceBindingSha256": "2a9101a09478a84015ca9345966b81c2eeaa34dbcbeea088f014c44211841d0c",
+      "sourceTextSha256": "239dbf4de4fa63ea2389ab0037564a86e288e0d57a1c860a1729597f7c1eb9ab",
+      "freshTranslation": "n 디바이더에게 격파되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

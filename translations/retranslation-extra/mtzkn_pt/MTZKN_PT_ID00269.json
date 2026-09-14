@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00269",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00269/Sheet1/000002",
+      "sourceBindingSha256": "670bf4b838bd647df609443a2c9ff86c565d9ea5affd1d635166783da0fade9a",
+      "sourceTextSha256": "cbd89f2ffd9b9b8d458948f5d713d98acda8f069e2242a1535e819c7f5861110",
+      "freshTranslation": "쿠도 시오리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00269/Sheet1/000003",
+      "sourceBindingSha256": "213677ae7f21951c99815e7a0ebc5671eedb29b6e905d0724455fe1a9a11bd71",
+      "sourceTextSha256": "2cea46d620cc41da9e8032da3a30c1be0d95cebc91aaece2e09562ec8bb4378f",
+      "freshTranslation": "시오리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00269/Sheet1/000004",
+      "sourceBindingSha256": "b482aee2b143288310350cc96d0b70dd5f81489c525c621b9b764045d0a7f2a2",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00269/Sheet1/000005",
+      "sourceBindingSha256": "f0a3890d376a31c822165c2757b3f0ff9f7529107e93f2b0bfa46d9c5aee5dd8",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00269/Sheet1/000006",
+      "sourceBindingSha256": "9d1d6888a8f9343215c04a372f55adde050422d3ac83a233125cd89b3147f96d",
+      "sourceTextSha256": "f042755b7b3854f7b75bf561f59c289bb1a5f80548bcda2b9d18e659b885317a",
+      "freshTranslation": "진대고교 2년 4조의 학생. ㊥ 단축키가 특징인 여학생으로, 카나메, 쿄코와 사이가 좋다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00269/Sheet1/000007",
+      "sourceBindingSha256": "e9bb2023bc3d989750cadad42767864ab2f05fb67603efe101d3cb146641b042",
+      "sourceTextSha256": "f042755b7b3854f7b75bf561f59c289bb1a5f80548bcda2b9d18e659b885317a",
+      "freshTranslation": "진대고교 2년 4조의 학생. ㊥ 단축키가 특징인 여학생으로, 카나메, 쿄코와 사이가 좋다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

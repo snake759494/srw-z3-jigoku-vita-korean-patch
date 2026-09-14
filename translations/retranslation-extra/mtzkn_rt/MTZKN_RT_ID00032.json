@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00032",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00032/Sheet1/000002",
+      "sourceBindingSha256": "681a8a8367d862b47340c60e2484f15f4c6ec06ab97b81f1ade108b3c48c6be2",
+      "sourceTextSha256": "55d4cef583236d8712832b2fc554334775bc8e806e1a513982cf659d564d844f",
+      "freshTranslation": "초시공세기 오거스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00032/Sheet1/000003",
+      "sourceBindingSha256": "80de47ef8bd143da0757f8f7e79853ecff08493aebfea7581edc49570a380902",
+      "sourceTextSha256": "478934d086261211536caea1ba4bddece674f99f5215616ff43b9aa9c076f32d",
+      "freshTranslation": "오거스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00032/Sheet1/000004",
+      "sourceBindingSha256": "5b9f0b36f5c62640c1e59aba0131fb202cc008e989fea5c9a2ee60f774d0187f",
+      "sourceTextSha256": "478934d086261211536caea1ba4bddece674f99f5215616ff43b9aa9c076f32d",
+      "freshTranslation": "오거스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00032/Sheet1/000005",
+      "sourceBindingSha256": "31089ed3837bc3744ba1a25361c4a174718b0562d80d8e6bf1e87fb173923dd1",
+      "sourceTextSha256": "fe64d8bb9b35bcf1026175e4fdfb2ba111480513ce6dae4c3e2af39ea625300d",
+      "freshTranslation": "가쓰라의 애기였던 브론코Ⅱ가 대파했을 때, 수리에 맞추어 에만의 기술로 강화·㊥개조를 실시해 완성한 기체. ㊥ 브론코Ⅱ의 다리는 그대로 몰라버를 조종했을 때 사용하기 좋았던 ㊥카츠라의 요망으로 그 팔부가 설치되었다. 게다가 감응 시스템에 더해, 3기의 관성제㊥어 시스템과 2기의 반중력 부양 장치, 50만마력에 육박하는 출력을 가지는 원자로를 탑재하는㊥사에 의해, 급격하면서도 종래의 드리펀드를 능가하는 성능을 가지게 된다. ㊥ 그 고성능에서 나중에 양산기도 개발되게 되었다. ㊥명",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00032/Sheet1/000006",
+      "sourceBindingSha256": "247e69cd51ca832e1cf2664f958d101505e822711e2a11160e2289dee1935395",
+      "sourceTextSha256": "72508a9b43cf53e3ac13b2f70b47fd3b8a4be85d5c8e7ebadf40e8c546f58335",
+      "freshTranslation": "형태인 오가로이드 외에 플라이어, 가워크,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00032/Sheet1/000007",
+      "sourceBindingSha256": "332e2b38d58220f9da548b7c8970c4015127970f0a28d8925905e7af3f18a90d",
+      "sourceTextSha256": "ef29c74b90ab90513cc9839b8522e4e46636b2e320ed3eed51052d8998f78931",
+      "freshTranslation": "NUK와 상황㊥4 가지 형태를 취할 수있는 형태 변화 능력 (VARIABLEGEO㊥METRI)도 큰 특징입니다.㊥완성시에 팩토리의 면면이 새로운 브론코Ⅱ를 어떻게 부를 것인가를 토론하는 장면이 있어,㊥「발하라」나 「개먼」 등, 모두 각각 좋아 마음대로 제안하고 있었다. 결국㊥팩토리의 멤버 자비가 전한 세계 전투의 신의 이름에서 \"오거스\"㊥되었다.㊥덧붙여서, 명안의 하나로 꼽힌 「네뷸라드」는, 기획 단계에서의 프로그램㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00032/Sheet1/000008",
+      "sourceBindingSha256": "9819447f2cd73ea6c6a9623bba937fa25de264abc7e64558624d784d3045c9fe",
+      "sourceTextSha256": "54727a00c97c580d79048d5a738b1a2e1267016380090c66ebb0699801710cc6",
+      "freshTranslation": "이틀이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00032/Sheet1/000009",
+      "sourceBindingSha256": "865368869137efd79ab4c3d37cd8dabbf75b7d10178116bca02d78e112b9c241",
+      "sourceTextSha256": "fe64d8bb9b35bcf1026175e4fdfb2ba111480513ce6dae4c3e2af39ea625300d",
+      "freshTranslation": "가쓰라의 애기였던 브론코Ⅱ가 대파했을 때, 수리에 맞추어 에만의 기술로 강화·㊥개조를 실시해 완성한 기체. ㊥ 브론코Ⅱ의 다리는 그대로 몰라버를 조종했을 때 사용하기 좋았던 ㊥카츠라의 요망으로 그 팔부가 설치되었다. 게다가 감응 시스템에 더해, 3기의 관성제㊥어 시스템과 2기의 반중력 부양 장치, 50만마력에 육박하는 출력을 가지는 원자로를 탑재하는㊥사에 의해, 급격하면서도 종래의 드리펀드를 능가하는 성능을 가지게 된다. ㊥ 그 고성능에서 나중에 양산기도 개발되게 되었다. ㊥명",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00032/Sheet1/000010",
+      "sourceBindingSha256": "76707690d388cb0cef8786efa5b80b214dc844250ced5b888aba7dd7e36ca642",
+      "sourceTextSha256": "72508a9b43cf53e3ac13b2f70b47fd3b8a4be85d5c8e7ebadf40e8c546f58335",
+      "freshTranslation": "형태인 오가로이드 외에 플라이어, 가워크,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00032/Sheet1/000011",
+      "sourceBindingSha256": "b752ee1202caa57446348f4ca990f66d1f2ac65e23340fd616ff5cfa498673b7",
+      "sourceTextSha256": "ef29c74b90ab90513cc9839b8522e4e46636b2e320ed3eed51052d8998f78931",
+      "freshTranslation": "NUK와 상황㊥4 가지 형태를 취할 수있는 형태 변화 능력 (VARIABLEGEO㊥METRI)도 큰 특징입니다.㊥완성시에 팩토리의 면면이 새로운 브론코Ⅱ를 어떻게 부를 것인가를 토론하는 장면이 있어,㊥「발하라」나 「개먼」 등, 모두 각각 좋아 마음대로 제안하고 있었다. 결국㊥팩토리의 멤버 자비가 전한 세계 전투의 신의 이름에서 \"오거스\"㊥되었다.㊥덧붙여서, 명안의 하나로 꼽힌 「네뷸라드」는, 기획 단계에서의 프로그램㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00032/Sheet1/000012",
+      "sourceBindingSha256": "0bbd742543da63567974777c6f028460841292e30381a189f3d142da04849ab2",
+      "sourceTextSha256": "54727a00c97c580d79048d5a738b1a2e1267016380090c66ebb0699801710cc6",
+      "freshTranslation": "이틀이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

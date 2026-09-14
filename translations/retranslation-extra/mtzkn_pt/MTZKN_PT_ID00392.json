@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00392",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00392/Sheet1/000002",
+      "sourceBindingSha256": "8a0fd8d0437b81b3271625a7f5581c9de3aa6e3386e3fe25d35139cbdc77507b",
+      "sourceTextSha256": "1c45833d6602a15d4228899410893e44427ade7c8f7e8e3e1dc926448604b78f",
+      "freshTranslation": "사이조 료네",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00392/Sheet1/000003",
+      "sourceBindingSha256": "d01458a38f1b396bec667f1f93737613a963473eabcbd59c6c1d929be81d9ca1",
+      "sourceTextSha256": "453423aebce3db1722a53c3b027a53af1a8ff91242548c293d78c676fd1d0da8",
+      "freshTranslation": "수즈네",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00392/Sheet1/000004",
+      "sourceBindingSha256": "d9732457cabf9a8f56b59c45883841e25766effd9e62e1a68114d9dfbc81e1d8",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00392/Sheet1/000005",
+      "sourceBindingSha256": "89a65d1a039e2bbeec8bfed06b098206cc996acbe440f51d0127335832c95d12",
+      "sourceTextSha256": "6661c558424142af1bbe830f53793043009788e3987f46c8596a414fc9e767d1",
+      "freshTranslation": "유즈 료카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00392/Sheet1/000006",
+      "sourceBindingSha256": "ba55a9f17a7ba2b8fc8fea529d74acfcb366f89fdfa61657343612506a9bdc28",
+      "sourceTextSha256": "f529287c75f218f3473a9ebaeaff6f16cdefbae970a06e2678f2c35f92cd28c3",
+      "freshTranslation": "진대고등학교에 부임한 교육실습생. 21세. ㊥ 담당 과목은 현대국어. ㊥연구학원도시인 제2신도쿄시에서 시험적으로 도입된 특별교육실습생이며, ㊥대학생이면서 1년간 부임처 진대고등학교에서 지낸다. ㊥교내에 사이조 성의 교사가 복수 있기 때문에, 스즈네 선생이라고 불리고 있다. ㊥ 돌보는 것을 좋아하고 인당이 좋기 때문에 학생들에게 선호되고 있으며, 또한 일부 남학생에게는 ㊥ 절대적인 인기를 자랑하고 있다. ㊥ 덧붙여 오컬트 연구를 취미로 하고 있어, 넷상의 한 연구 사이트의 단골 투고자㊥가 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00392/Sheet1/000007",
+      "sourceBindingSha256": "8d3e268b39bf1aab230181e489a40124476f75f60539f4ea870793237c34dcd9",
+      "sourceTextSha256": "5fad0e5959c70301d88db5d0e7bb602e91451ddeb3edcbfe2f112076d47814cc",
+      "freshTranslation": "진대고등학교에 부임한 교육실습생. 21세. ㊥ 담당 과목은 현대국어. ㊥연구학원도시인 제2신도쿄시에서 시험적으로 도입된 특별교육실습생이며, ㊥대학생이면서 1년간 부임처 진대고등학교에서 지낸다. ㊥교내에 사이조 성의 교사가 복수 있기 때문에, 스즈네 선생이라고 불리고 있다. ㊥ 돌보는 것을 좋아하고 인당이 좋기 때문에 학생들에게 선호되고 있으며, 또한 일부 남학생에게는 ㊥ 절대적인 인기를 자랑하고 있다. ㊥ 덧붙여 오컬트 연구를 취미로 하고 있어, 넷상의 한 연구 사이트의 단골 투고자㊥가 되고 있다. ㊥ 가르치는 자들의 놓인 상황을 알게 된 후에는, 그들을 이해하고, 동시에 그들의 학생으로서의 ㊥ 생활을 지키기 위해 스스로도 제니온의 서브 파일럿이 되는 것을 결의한다. 제니오㊥ 탑승 시 네비게이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00392/Sheet1/000008",
+      "sourceBindingSha256": "a2f1152ecddeec2aea914dcc797ea9d9fa2007da3c69bf25434db2a55f5be9a4",
+      "sourceTextSha256": "95e84bddd75745011acd2e5501ba3034ad024e50a9cf867c49d25029165fdf08",
+      "freshTranslation": "- 출력 조정을 담당하고, 익숙하지 않지만 가르치는 아이들과 함께㊥분투한다.㊥동시에 그들의 일상생활을 지키기 위해 결성된 자원봉사부에서는 고문을 맡는다.㊥그들이 학교에 오지 않는 이유를 과외 활동으로하고, 자신은 그 감독 역할을하고 있습니다.㊥하고, 활동을 출석 취급으로 한다는 황제에 하담하고 있다.㊥그러나 스트레스로 인해 평소에는 보이지 않는 조잡한 일면이 나올 수 있습니다.㊥두려워하는 일이 있다.㊥그녀 자신도 몇 년 전에 전이에 의해, 이 세계에 단독으로 뛰어 온 인간이며,㊥가족은 없다. 또한 공부에 새롭게 살았기 때문에 교제를하는 특정 남성도㊥아니, 내심에서는 그것을 신경쓰고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

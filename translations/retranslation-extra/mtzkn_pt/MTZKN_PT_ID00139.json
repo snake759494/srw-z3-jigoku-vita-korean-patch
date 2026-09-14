@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00139",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00139/Sheet1/000002",
+      "sourceBindingSha256": "6694b165990088c0e600421893ef58034f7578d0ad729d176c0a0b17237c00cd",
+      "sourceTextSha256": "37d81224e7cb9301376349c764ca8585eb58a9d4759f32112307da3b0b46a50a",
+      "freshTranslation": "브라이트 노아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00139/Sheet1/000003",
+      "sourceBindingSha256": "72dacb1b16f78d837dbfb77d4320278826b341815f5b37f51d54b7fd63575aa0",
+      "sourceTextSha256": "312cbf08471d115ce4c64d4d13c26244573ad89cf655bedb2fe047a3fe92fb5f",
+      "freshTranslation": "밝은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00139/Sheet1/000004",
+      "sourceBindingSha256": "b4f979b14b7a38d800d71dee54e7e4d49fc7d64bfeb9de6bb2242a93552b4185",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00139/Sheet1/000005",
+      "sourceBindingSha256": "2618679aaebe5f7c37b52cc8dbaee60a358f90e61ac7d3fb5b9b1a4a3d8413f2",
+      "sourceTextSha256": "e8edcbe8c56e58c3f0d749ce6dab7bc8e8eafd2c31f58914feab27f3e6e5e5ed",
+      "freshTranslation": "나리타 검",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00139/Sheet1/000006",
+      "sourceBindingSha256": "312ed10379ccccf0a3c009b471b417b0346b3d90f7899b2265a36b2aa8e4372b",
+      "sourceTextSha256": "5451b46df30e937e0904b8a35be17295112e17ed58425c93b1953d084610df51",
+      "freshTranslation": "지구 연방 우주군 외곽부대 론드 벨대 사령관. 계급은 대령. 36세. ㊥ 일년 전쟁 시대에 화이트베이스를 이끌고 이후 건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00139/Sheet1/000007",
+      "sourceBindingSha256": "951b3195cda87d52cdff7441f41b4da0d727bbda96ba2d8226cdc54a4f11b7db",
+      "sourceTextSha256": "3af148b9fd0faad40ef7e887e6c8bbb1799398e019f4368e4267829b4f75e78c",
+      "freshTranslation": "입의 모빌 슈트 탑재 ㊥ 모함의 함장을 차례로 맡아 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00139/Sheet1/000008",
+      "sourceBindingSha256": "cb1ad495375f7f8cab76700cc021ddc8b5136558bae2de720c088b0ceba2141f",
+      "sourceTextSha256": "608260fe2863004c9bae52bb0a54111a7e2d665e253f8bdbfa214e679516ae00",
+      "freshTranslation": "입부대의 지휘관으로 알려져 있다. ㊥ 그 경력이 위험시되어 군의 본류에서 벗어나고 있지만 정치적인 의㊥ 향을 차단하는 정직함과 풍부한 실전 경험에서 부하의 신뢰는 두껍다. ㊥ 제2차 네오지온 항쟁에서는 론도벨을 이끌고, 부하이며 동맹이기도 한 아무로 ㊥ 레이와 함께 샤아의 지구 한랭화 작전을 저지했다. ㊥ 비스트 재단 앞서 상자를 둘러싼 사건의 수렴을 도모하려는 로난 마르세나스의 ㊥원의 의뢰에 의해 지구에 강하한 갈란셰일을 쫓는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00139/Sheet1/000009",
+      "sourceBindingSha256": "a5aa35863de80ea9b1da7a64a8df1bdaa00fd5f184a5499c1f9bcb2e1046cae3",
+      "sourceTextSha256": "5451b46df30e937e0904b8a35be17295112e17ed58425c93b1953d084610df51",
+      "freshTranslation": "지구 연방 우주군 외곽부대 론드 벨대 사령관. 계급은 대령. 36세. ㊥ 일년 전쟁 시대에 화이트베이스를 이끌고 이후 건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00139/Sheet1/000010",
+      "sourceBindingSha256": "110a5b5b3ffaa00d6c1bd9014b468140be1e48155d75a25afd53b156196675f9",
+      "sourceTextSha256": "3af148b9fd0faad40ef7e887e6c8bbb1799398e019f4368e4267829b4f75e78c",
+      "freshTranslation": "입의 모빌 슈트 탑재 ㊥ 모함의 함장을 차례로 맡아 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00139/Sheet1/000011",
+      "sourceBindingSha256": "7750d1153150e682a70087d6c5e9ed500f63d576dbb19f775102a5cd19b7c770",
+      "sourceTextSha256": "608260fe2863004c9bae52bb0a54111a7e2d665e253f8bdbfa214e679516ae00",
+      "freshTranslation": "입부대의 지휘관으로 알려져 있다. ㊥ 그 경력이 위험시되어 군의 본류에서 벗어나고 있지만 정치적인 의㊥ 향을 차단하는 정직함과 풍부한 실전 경험에서 부하의 신뢰는 두껍다. ㊥ 제2차 네오지온 항쟁에서는 론도벨을 이끌고, 부하이며 동맹이기도 한 아무로 ㊥ 레이와 함께 샤아의 지구 한랭화 작전을 저지했다. ㊥ 비스트 재단 앞서 상자를 둘러싼 사건의 수렴을 도모하려는 로난 마르세나스의 ㊥원의 의뢰에 의해 지구에 강하한 갈란셰일을 쫓는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

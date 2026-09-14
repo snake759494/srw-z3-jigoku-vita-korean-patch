@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00128",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00128/Sheet1/000002",
+      "sourceBindingSha256": "9fc4bfdf4929203c94d9ac6a318bd1ef02fbceee310c8d02b0b4fefadc2d5336",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00128/Sheet1/000003",
+      "sourceBindingSha256": "a3e5d7e44aaec01b4255fb9cf5db8fa21990d0713efd440efdc3e75cc4a10132",
+      "sourceTextSha256": "713b7556c592694650206c1b6d38028d7a18b431e70584b55ee141deafb49861",
+      "freshTranslation": "YF-29 듀란달 B·SP",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00128/Sheet1/000004",
+      "sourceBindingSha256": "c963dbff8a61a0509bc9920ae4b6a295ae2cb2ff4017ad1c78a1d249022cb96c",
+      "sourceTextSha256": "f380f211d1fd6fd745b10f171a5c7ee0309423938c94f6d574d3c2418d0cbbfa",
+      "freshTranslation": "YF-29 듀란달 바트로이드 모드·슈퍼 팩 장비(대기권 외 사양)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00128/Sheet1/000005",
+      "sourceBindingSha256": "d2147142068f2107ff9746a8fd3e978ffd4707b9a2ee36c0d98f9ff5ad0e6ad5",
+      "sourceTextSha256": "c2c2e5756441c5c52c02341c5f7598cd240cfbd22261da490b01b6ba7f0caf88",
+      "freshTranslation": "사오토메 알토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00128/Sheet1/000006",
+      "sourceBindingSha256": "668b2cf3b39e459efae293b32fb620958e9925d04961ce619507bcf06e0905ea",
+      "sourceTextSha256": "3efa3ff130f5e469d960db43349a60324aeb98cecf20106fabb0ed3a7ecb7c8d",
+      "freshTranslation": "YF-29 듀란달의 배트로이드 모드에 슈퍼 팩을 장비한 상태의 대㊥기권외 사양. ㊥ 알토가 탑승한다. ㊥VF-25를 베이스로 설계된 대바쥬라 결전용 프로토타입기로, 개발에는 L. A. I㊥사나 마크로스·프론티어 선단 등의 기술자가 종사했다. ㊥ 최대의 특징은, 「폴드 웨이브 시스템」을 탑재하고 있는 것이다. 이것은 ㊥ 바쥬라의 유해로부터 모은 폴드 쿼츠를 사용하는 시스템으로 무진장에 가까운 ㊥ 에너지 공급을 가능하게 한다. 이에 따라 공격력과 에너지 실드 능력 등 ㊥을 기존 기계에서 비약적으로 높이는 데 성공했다. ㊥ 본 기기는 프로토 타입",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00128/Sheet1/000007",
+      "sourceBindingSha256": "ab9194e11373c242d16304268a79d55446f6b844786e0ce7cca9eaef8b4b8275",
+      "sourceTextSha256": "2c8fa208a49d9370209d64cbec613d7a8168f6fd173e31ef0988b5c9ab5497c6",
+      "freshTranslation": "하면서 슈퍼 팩을 장비. 두 날개 끝의 접힌 웨이브 프로젝션 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00128/Sheet1/000008",
+      "sourceBindingSha256": "7cc04527543ef88f6a61755944bb999a5c4e9e26e74055fa64423f4cad37dd0c",
+      "sourceTextSha256": "63cf5291028c4ff472bf9cc704be28bb9cbf39214f76734135eeff82f5090d7c",
+      "freshTranslation": "-나 내익 후단의 화학 로켓 부스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00128/Sheet1/000009",
+      "sourceBindingSha256": "cd037f124bd7c829f0adfc35b5a9bfa09567459451374b46b8b0ab08be34953c",
+      "sourceTextSha256": "bb3f902f988670468c2fd2d43ad81eccd1fa60663c534afe03223abe92595d53",
+      "freshTranslation": "-등으로 구성되어 있다. 증가 장갑은 적층㊥에너지 전환 장갑제 실드에만 머물며, 폴드 웨이브의 증폭과 기동성의㊥증강에 주안이 놓여 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00128/Sheet1/000010",
+      "sourceBindingSha256": "b90d01cb5484985caa6519b95583888f861d061155bac540c30d09e86a54389a",
+      "sourceTextSha256": "3efa3ff130f5e469d960db43349a60324aeb98cecf20106fabb0ed3a7ecb7c8d",
+      "freshTranslation": "YF-29 듀란달의 배트로이드 모드에 슈퍼 팩을 장비한 상태의 대㊥기권외 사양. ㊥ 알토가 탑승한다. ㊥VF-25를 베이스로 설계된 대바쥬라 결전용 프로토타입기로, 개발에는 L. A. I㊥사나 마크로스·프론티어 선단 등의 기술자가 종사했다. ㊥ 최대의 특징은, 「폴드 웨이브 시스템」을 탑재하고 있는 것이다. 이것은 ㊥ 바쥬라의 유해로부터 모은 폴드 쿼츠를 사용하는 시스템으로 무진장에 가까운 ㊥ 에너지 공급을 가능하게 한다. 이에 따라 공격력과 에너지 실드 능력 등 ㊥을 기존 기계에서 비약적으로 높이는 데 성공했다. ㊥ 본 기기는 프로토 타입",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00128/Sheet1/000011",
+      "sourceBindingSha256": "d13ab4465d25b947e21c6b41f1e8c7a384faf23ebf8c2bbcb32353d4fcb25ea4",
+      "sourceTextSha256": "2c8fa208a49d9370209d64cbec613d7a8168f6fd173e31ef0988b5c9ab5497c6",
+      "freshTranslation": "하면서 슈퍼 팩을 장비. 두 날개 끝의 접힌 웨이브 프로젝션 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00128/Sheet1/000012",
+      "sourceBindingSha256": "67dcef29d7d7734217b328ec5e1b403c5bdcf63fdf51ddb97d374ab14e1a9d63",
+      "sourceTextSha256": "63cf5291028c4ff472bf9cc704be28bb9cbf39214f76734135eeff82f5090d7c",
+      "freshTranslation": "-나 내익 후단의 화학 로켓 부스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00128/Sheet1/000013",
+      "sourceBindingSha256": "31457cf67eb5c6ad792a3b51aa1324fef32e4227fd313285857a75016ed74313",
+      "sourceTextSha256": "bb3f902f988670468c2fd2d43ad81eccd1fa60663c534afe03223abe92595d53",
+      "freshTranslation": "-등으로 구성되어 있다. 증가 장갑은 적층㊥에너지 전환 장갑제 실드에만 머물며, 폴드 웨이브의 증폭과 기동성의㊥증강에 주안이 놓여 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

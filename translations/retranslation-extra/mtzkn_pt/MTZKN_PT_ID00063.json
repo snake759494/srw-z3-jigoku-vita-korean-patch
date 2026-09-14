@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00063",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00063/Sheet1/000002",
+      "sourceBindingSha256": "58b16b222c911e2ea33cc5f70a78ceef2c6eead32760a1257adacc0bc39c6d9c",
+      "sourceTextSha256": "9c2b3edef726961c12a50ac8209d2614b31d7790f0a5fb2a375628e230cd2941",
+      "freshTranslation": "아무로 레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00063/Sheet1/000003",
+      "sourceBindingSha256": "e730c30b12eda185969e1ef6de1f4947c07db01998b43e8f09eb136c699d2b09",
+      "sourceTextSha256": "0809e902288fd530b039e4e7fab7574e60ab089cc228349e4cb8bad432f0a05b",
+      "freshTranslation": "아무로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00063/Sheet1/000004",
+      "sourceBindingSha256": "33f91bf1eb730f9e32463da78ed5a953911cba2a2f0672f0463705d2bf6210e5",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00063/Sheet1/000005",
+      "sourceBindingSha256": "b3411cb50f4b7d780d8cae42c61c3e9507fe8ccf193ee70225dd50751a916fde",
+      "sourceTextSha256": "3a61240e56de4d48d7075f03775db5ef39194108f871f433680e2efd1ffcb329",
+      "freshTranslation": "후루야 토오루",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00063/Sheet1/000006",
+      "sourceBindingSha256": "012f706ee2605943bcf7f33429e79121ebc664a2e59b6dec172897af17c3726e",
+      "sourceTextSha256": "2f2586aaa335e9def39c11d749bf6b1abacf6de045cbd40ebe29b1fd4cbbbb50",
+      "freshTranslation": "지구 연방군의 런드 벨대에 소속된 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00063/Sheet1/000007",
+      "sourceBindingSha256": "83f55d703766eabcf594ae92a4150bae36f21de9197b209623a1424661140220",
+      "sourceTextSha256": "6a7ab52819ef8d09f5ff18b8632bfd95edb65327d5b9aba41f9775d5f5adc207",
+      "freshTranslation": "입 조종사. 계급은 대위. ㊥ 일년 전쟁에서는 RX-78 건담에 탑승하여 수많은 전투에 참가. 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00063/Sheet1/000008",
+      "sourceBindingSha256": "befda957657f3b2b2178b4707d085db0ea38f5e68e9555887e6eb9b3396b443e",
+      "sourceTextSha256": "203050dc55101a0563bb6e4390b7c6ee7e61122e050b5e3346990ed378d63b99",
+      "freshTranslation": "입과 ㊥하여 성장을 이루고 전설적인 전과를 남긴다. ㊥이지만, 전후에는 그 능력을 지구 연방에 경계되어 연금 상태의 생활을 강요받는다. 그것 ㊥에서도 그립스 전역 때, 에고의 지원 조직 카라바에 참가하고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00063/Sheet1/000009",
+      "sourceBindingSha256": "7652b9d45c60bba68783a8bdebbf8029f9a8b505df03fd2dba69b127b74b50de",
+      "sourceTextSha256": "2e388662cf7f51fb50197a12a39277f25b810ea3a0378ae2f51ef0ad804d65ae",
+      "freshTranslation": "네즈와 싸운다. ㊥ 제1차 네오지온 항쟁 후에는 연방군의 외부 독립부대 론드벨대에 소속. 한때 ㊥의 동지이자 숙적이기도 한 샤아 아즈나블이 이끄는 네오지온군과 싸웠다. ㊥ 일년 전쟁 당시는 내향적이고 나이브한 소년이었지만, 전쟁을 통해 많은 사람들과 출발㊥ 만나 다양한 경험을 하는 가운데 인간적으로도 크게 성장했다. ㊥ 제2차 네오지온 항쟁에서는 스스로 설계·개발에 종사한 ν건담으로 액시즈의 ㊥ 지구 낙하를 저지하려고 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00063/Sheet1/000010",
+      "sourceBindingSha256": "88531667d68d0c71e1615baf790a428b663b3c599b737d616e6ea05f43a76d33",
+      "sourceTextSha256": "2f2586aaa335e9def39c11d749bf6b1abacf6de045cbd40ebe29b1fd4cbbbb50",
+      "freshTranslation": "지구 연방군의 런드 벨대에 소속된 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00063/Sheet1/000011",
+      "sourceBindingSha256": "57e24090da83d862512aa6f25eb54953a8aa415b5b59beb1e3a96b5b8e8582bb",
+      "sourceTextSha256": "6a7ab52819ef8d09f5ff18b8632bfd95edb65327d5b9aba41f9775d5f5adc207",
+      "freshTranslation": "입 조종사. 계급은 대위. ㊥ 일년 전쟁에서는 RX-78 건담에 탑승하여 수많은 전투에 참가. 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00063/Sheet1/000012",
+      "sourceBindingSha256": "5a46cc00a4efc69a1b019dcfb80bc32fb5b306df8df9fbc1056e637b718efb3b",
+      "sourceTextSha256": "203050dc55101a0563bb6e4390b7c6ee7e61122e050b5e3346990ed378d63b99",
+      "freshTranslation": "입과 ㊥하여 성장을 이루고 전설적인 전과를 남긴다. ㊥이지만, 전후에는 그 능력을 지구 연방에 경계되어 연금 상태의 생활을 강요받는다. 그것 ㊥에서도 그립스 전역 때, 에고의 지원 조직 카라바에 참가하고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00063/Sheet1/000013",
+      "sourceBindingSha256": "c5df8e45b5a5a7d088c8ee36b48d1d2f91195ea28836880730c052bcb4ec2311",
+      "sourceTextSha256": "bf664b88ccd4c85d7eb700a7d5904b0702fffa4552bcfe4e939d8954dcbe0aca",
+      "freshTranslation": "네즈와 싸운다. ㊥ 제1차 네오지온 항쟁 후에는 연방군의 외부 독립부대 론드벨대에 소속. 한때 ㊥의 동지이자 숙적이기도 한 샤아 아즈나블이 이끄는 네오지온군과 싸웠다. ㊥ 일년 전쟁 당시는 내향적이고 나이브한 소년이었지만, 전쟁을 통해 많은 사람들과 출발㊥ 만나 다양한 경험을 하는 가운데 인간적으로도 크게 성장했다. ㊥ 제2차 네오지온 항쟁에서는 스스로 설계·개발에 종사한 ν건담으로 액시즈의 ㊥ 지구 낙하를 저지하려고 한다. 사이코 프레임의 초상적인 힘에 의해, 액시즈의 당기는 ㊥ 올리기에 성공하지만, 그 때에 샤아와 함께 행방불명이 되어, 역사로부터 모습을 지워㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

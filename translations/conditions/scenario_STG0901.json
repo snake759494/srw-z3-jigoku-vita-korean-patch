@@ -1,0 +1,51 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0901",
+    "fileName": "STG0901.cpk",
+    "target": "DATA/STAGE/STG0901.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "f30ff570e2af9958edd96e27d8655fe88d152c5bbd57ef3838b0476035471e40"
+  },
+  "entries": [
+    {
+      "entryId": "STG0901/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "적의 전멸",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0901/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "제니온의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0901/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "코다르i(가우룽),코다르i(게이츠),에쿠르비스,\n벡·빅토리·디럭스를 동일 턴에 격추시킨다\n단,코다르i(게이츠),에쿠르비스,벡·빅토리·디럭스는\nHP 10000 이하가 되면 퇴각한다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00224",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00224/Sheet1/000002",
+      "sourceBindingSha256": "76dcc0cd0356868b7bdd2c699f45382282f21ecb4da6b2d3d8374fcc7b499687",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00224/Sheet1/000003",
+      "sourceBindingSha256": "efeceb88b8e9ddb4fd037234c3f9a378845e465e8f2d7feb3c1773a1720fa8d4",
+      "sourceTextSha256": "7b4d911b21748ca6335610154f45aac0d28c0f54df30ab7bf27275d97a6ac713",
+      "freshTranslation": "일곱 번째 사도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00224/Sheet1/000004",
+      "sourceBindingSha256": "1c3b2e406850f50b68af88ec1e61e116587642471a016d20f01433bddf999dc5",
+      "sourceTextSha256": "7b4d911b21748ca6335610154f45aac0d28c0f54df30ab7bf27275d97a6ac713",
+      "freshTranslation": "일곱 번째 사도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00224/Sheet1/000005",
+      "sourceBindingSha256": "142b78f4f15cd82e050fdb1c3a1489de14f88747e5da2cd5e97e0bfcb69796f6",
+      "sourceTextSha256": "115abc1e17ee5cadfb2f2795bc1398c83607c08f52113e3dd35c7ee3f64e13eb",
+      "freshTranslation": "사가미만 앞바다에 습격한 일곱 번째 사도. ㊥ 2개의 바늘 같은 다리로 해면을 보행. 상공으로부터의 적에게는 촉수로 대응한다. ㊥ 덧붙여 코어와 같이 보이는 부분은 실은 디코이이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00224/Sheet1/000006",
+      "sourceBindingSha256": "778d779a5626d4890f92ca8838568c75272e0202951701c4134d07bb43b26700",
+      "sourceTextSha256": "a4b9e73e1970ddda56cc5fdd42a6266909105c8720d84d4619e434fd8af5fda8",
+      "freshTranslation": "사가미만 앞바다에 습격한 일곱 번째 사도. ㊥ 2개의 바늘 같은 다리로 해면을 보행. 상공으로부터의 적에게는 촉수로 대응한다. ㊥ 덧붙여 코어와 같이 보이는 부분은 실은 디코이이다. ㊥ 강하하면서 싸우는 EVA2호기에 코어를 파괴되어 섬멸되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

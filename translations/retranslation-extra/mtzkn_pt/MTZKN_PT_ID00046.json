@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00046",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00046/Sheet1/000002",
+      "sourceBindingSha256": "204481e1fc5b37095eed7d98ddae3895595f0bb4a92faec401362393e99b1a19",
+      "sourceTextSha256": "022b4dcc684e2a65ea06cbe0b2329becda0d1b77c541a65fc929418b1fa1cbd2",
+      "freshTranslation": "교황 테오 8세",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00046/Sheet1/000003",
+      "sourceBindingSha256": "ceb94d2356abeb9b56adecf6a727607c454d2b12f9dd2284719ac032d96b6ac2",
+      "sourceTextSha256": "a7f5b009b2f989ee04a12d9481b11f7fc80a765b71302d592129a2a9427658a3",
+      "freshTranslation": "법황",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00046/Sheet1/000004",
+      "sourceBindingSha256": "32ef2453b9b88dbf649cfc1d3eb9a38f11db596b855c783f637e78fbbc297fed",
+      "sourceTextSha256": "2e72dc391938168fbc52704deca72c28f66762970743d8ea2a42ca6692f5cff8",
+      "freshTranslation": "장갑 기병 보텀스 사타구니 이단",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00046/Sheet1/000005",
+      "sourceBindingSha256": "ff2d397662d3692b5aff32a233ee2d440a1b16c81abc4e4969a2a35b262eae39",
+      "sourceTextSha256": "e18b6b877f35f4bb9c998fb33ebaafd3bce7c25a96929cbfc33723f91fc80aef",
+      "freshTranslation": "범은하 결사 마티알의 제712대 법황. ㊥41년 오랫동안 교황의 자리에 계속 자리잡았지만 통역을 통하지 않으면 다른 사람과 대화를 ㊥ 할 수 없을 정도로 노인이 진행되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00046/Sheet1/000006",
+      "sourceBindingSha256": "2ff2597a06062d13336622b4e8441d667b5cf933e87df2e8242a8d9c5b0883c5",
+      "sourceTextSha256": "147ed71c4e090232d42977098f03b66cc08ef3a72c3e6a678acdd97bb2f6b22f",
+      "freshTranslation": "범은하 결사 마티알의 제712대 법황. ㊥41년 오랫동안 교황의 자리에 계속 자리잡았지만 통역을 통하지 않으면 다른 사람과 대화를 ㊥ 할 수 없을 정도로 노인이 진행되고 있다. ㊥ 그러나 그것은 연극이며 차기 법황을 몬테 웰스로 정하고 사임했을 때 그 ㊥의 자리를 그에게 건네면서 \"여기에 신앙 등 없다\"고 명확한 말을 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

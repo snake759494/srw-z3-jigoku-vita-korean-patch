@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00080",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00080/Sheet1/000002",
+      "sourceBindingSha256": "ae8cdcc9239fc9f7518665fe67812dd03ec53f9bdf41b4b8454321d481c87b35",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00080/Sheet1/000003",
+      "sourceBindingSha256": "3fd27864b2fb2bd0fec9cd09916a5d283f1b4a81d7dce7aa3d49b606c4abb02b",
+      "sourceTextSha256": "0449fe5863c9a44ae95bfebb4663ceb422edd352a9f839b637e0640bf889270c",
+      "freshTranslation": "유니콘 건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00080/Sheet1/000004",
+      "sourceBindingSha256": "4a96cec0ea1b9a918cd39f3f65c27a016cfe31e3393aef87804e979e26f1770f",
+      "sourceTextSha256": "3b4be21e22d76926f74218b99eb4abeb4a154e78ffd7b5a3a567fc3e61302a8d",
+      "freshTranslation": "유니콘 건담(디스트로이 모드)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00080/Sheet1/000005",
+      "sourceBindingSha256": "9b797c24ce86392a31d131b8b56d32771ebe31d76ff3f3c99e8afbfd8aecf91d",
+      "sourceTextSha256": "3be5982e00f91fe50351aa280d5ff245eaf1c76c9a62212afe4920605a986cbc",
+      "freshTranslation": "배너지 링크스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00080/Sheet1/000006",
+      "sourceBindingSha256": "de045640ba8a712642bb15c95b0073389fa1cb6cb9c5306ccbd028298975cffd",
+      "sourceTextSha256": "b021cbc549b990a08515e934e238a45878f967a6c823d2bc9d178bf4c7a3bba4",
+      "freshTranslation": "탑재된 특수 OS 「NT-D」의 발동에 의해 나타나는 유니콘 건담도 ㊥ 하나의 모습. ㊥ 전신의 프레임이 연신, 장갑이 이음새에서 슬라이드 개방됨으로써 붉게 발광 ㊥ 한 사이코 프레임이 노출. 또한 머리의 모서리도 좌우로 전개하고 건담으로 \"변신\"㊥한다. ㊥ 이 형태에서는, 전신의 프레임에서 판독된 파일럿의 사념이 기체의 구동에 다㊥ 일렉트에 반영된다. 이 시스템에 의해 생각만으로 움직일 수 있도록 ㊥이 된다. 그 때 기체 성능을 한계까지 끌어내는 것이 가능해져 거기에서 만들어져 ㊥하는 기동성은 인간의 지각을 넘는다. ㊥ 반면, 기동력이 낳는 G와 사이코뮤의 사용에 의한 뇌에의 부하가 크고, 파이로㊥트가 견딜 수 있는 가동 한계 시간은 5분 전후로 보여지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00080/Sheet1/000007",
+      "sourceBindingSha256": "e304bb747b871d54c60feb2988a80c25156c226e68896d823ecb6ab0a6812393",
+      "sourceTextSha256": "a418e68f9958ae206f62408349cc5f24f8f9d3f6861665ed43d94ea085f18b6c",
+      "freshTranslation": "탑재된 특수 OS 「NT-D」의 발동에 의해 나타나는 유니콘 건담도 ㊥ 하나의 모습. ㊥ 전신의 프레임이 연신, 장갑이 이음새에서 슬라이드 개방됨으로써 붉게 발광 ㊥ 한 사이코 프레임이 노출. 또한 머리의 모서리도 좌우로 전개하고 건담으로 \"변신\"㊥한다. ㊥ 이 형태에서는, 전신의 프레임에서 판독된 파일럿의 사념이 기체의 구동에 다㊥ 일렉트에 반영된다. 이 시스템에 의해 생각만으로 움직일 수 있도록 ㊥이 된다. 그 때 기체 성능을 한계까지 끌어내는 것이 가능해져 거기에서 만들어져 ㊥하는 기동성은 인간의 지각을 넘는다. ㊥ 반면, 기동력이 낳는 G와 사이코뮤의 사용에 의한 뇌에의 부하가 크고, 파이로㊥트가 견딜 수 있는 가동 한계 시간은 5분 전후로 보여지고 있다. ㊥ \"NT-D\"는 \"뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00080/Sheet1/000008",
+      "sourceBindingSha256": "784a1d7d4013dc782d4d428501e35d39d5d09ee4144140d347c0e61910866cdf",
+      "sourceTextSha256": "ce32c0dee8f1195cf927b434fbcd399abdad9cc7beb100b0ef973bded15824d4",
+      "freshTranslation": "\"Ip Destroyer\"의 의미이며 적기에 새로운",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00080/Sheet1/000009",
+      "sourceBindingSha256": "b9216088eeb7f82f1297f0ff79e33c956991951285bff5df08d93eb27c3fc6f3",
+      "sourceTextSha256": "01be2816968187fb5d98512c599af434cf6c59952d5d18c89743552ae6353c8b",
+      "freshTranslation": "입이나 강화 인간의 감응파를 감지했을 때 자동으로 시스템이 발동한다. ㊥ 이 시스템이 발동하면, 사이코뮤 시스템이 탑승자의 의지를 삼켜, 적 ㊥기를 파괴하는 것을 최우선으로 하는 사고가 된다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00080/Sheet1/000010",
+      "sourceBindingSha256": "6205e4cf4191e5d0223e23a49a44f463d4464a37c7131be1265c60e06d9d924f",
+      "sourceTextSha256": "b5fd2463f71dd5ed50424480beb0073a31ef810876dd7ae89ba38cc324dc7640",
+      "freshTranslation": "입의 구축을 목적으로 개발된 사냥꾼㊥장면으로 개발되었을 가능성이 추측되고 있다.㊥또한 본 기기에는 카디아스 비스트의 손으로 원래 사양에는 없었습니다.㊥프로그램이되는 시스템도 내장되어 있습니다. 이것은 특정 조건을 만족시키는 것으로,㊥\"라플라스의 상자\"로 이어지는 경로를 단계적으로 표시하는 시스템이며, 본 기기는 \"라프㊥「라스의 상자」를 개방하는 열쇠로서의 역할도 맡고 있다.㊥탑승 얼마 전 NT-D에 농락당했지만 성장한 배너지는 시스템에 삼키고㊥빠지지 않고 디스트로이 모드를 발동시키는 것이 가능해졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

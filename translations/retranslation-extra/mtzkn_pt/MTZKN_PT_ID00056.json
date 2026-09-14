@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00056",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00056/Sheet1/000002",
+      "sourceBindingSha256": "d29a532f017fc7210e8adc22fbf1e89112cb09ef19e69f15f788caa2c28ea625",
+      "sourceTextSha256": "14ab665b45c1fa40d9044ecabb5c5b72a31c34866cbc5e6242b16fd128c0f615",
+      "freshTranslation": "커틀릿 코바야시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00056/Sheet1/000003",
+      "sourceBindingSha256": "8edf5ae35cd5fc5c23dff19689b6a9a750f2350c1d3cc0c3a0f196f39d3d416d",
+      "sourceTextSha256": "4db10c7578e6017dced8ecca371d6e39665618dca7b7e7fe5d97aeb56038eadc",
+      "freshTranslation": "커틀릿",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00056/Sheet1/000004",
+      "sourceBindingSha256": "b6bde47ed650292c8fd0742cb03dd648dd8a853db35f7963f447418c86ced93f",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00056/Sheet1/000005",
+      "sourceBindingSha256": "eda7c2f72d4074052ae294bb7aebae9d1c1c4ac23aecc88741effe37577e04d4",
+      "sourceTextSha256": "eb2dc0794fe6bc89c552b52c3e81cd210d27e59dbc84105c6b87987948951f92",
+      "freshTranslation": "나미가와 다이스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00056/Sheet1/000006",
+      "sourceBindingSha256": "3ec9e8e0f3156874746d57a98a8e8e191f9f08ad504847baccc78d1148b1038c",
+      "sourceTextSha256": "068282d8ce5e840e23a625e13254a04bf541eb3d2d757b96eb2c54bdbca6fab3",
+      "freshTranslation": "에고에 참가하는 소년병. ㊥ 1년 전쟁 당시 난민으로서 화이트 베이스에 탑승한 인연에서 종전 후 하야토, 후 ㊥ 라우 부부의 양자로 키워졌다. 하지만, 가족으로 아무로의 아래를 방문했을 때, 스스로 에㊥-고에의 참가를 지원. 아무로와 함께 아우드무라에 합류한다. ㊥ 어른이었던 어린 시절과는 달리, 무철포로 혈기 왕성한 성격. 동년대의 카미㊥유에 라이벌 의식을 가지고 무단 출격이나 명령 무시를 한 적도 있었다. ㊥ 전장에서 만난 시로코의 부하 사라에게 연심을 품고, 그의 밑에서 떠나려고 설득㊥한다. 그러나 그의 말은 받아들여지지 않았고, 그녀는 시로코를 지키고 목숨을 잃었다. ㊥티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00056/Sheet1/000007",
+      "sourceBindingSha256": "5757e0eb9f99528e7b24657f7914c9b47cd737a87106885575bf057e84a18d35",
+      "sourceTextSha256": "7ad79ab59ec6713dc4aa932c90c76c633dd516473f45d94c21f42802d9ed2319",
+      "freshTranslation": "앤즈와의 최종 결전에서는 곤경의 엠마를 구하는 활약을 보였다. 하지만, 야잔이나 ㊥ 등 도망치는 도중에 운석에 격돌해, 우주에 흩어졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00056/Sheet1/000008",
+      "sourceBindingSha256": "4c72addf26b19dcd8a875cec043d4e585d260808be54048b544d6f19e1930e07",
+      "sourceTextSha256": "068282d8ce5e840e23a625e13254a04bf541eb3d2d757b96eb2c54bdbca6fab3",
+      "freshTranslation": "에고에 참가하는 소년병. ㊥ 1년 전쟁 당시 난민으로서 화이트 베이스에 탑승한 인연에서 종전 후 하야토, 후 ㊥ 라우 부부의 양자로 키워졌다. 하지만, 가족으로 아무로의 아래를 방문했을 때, 스스로 에㊥-고에의 참가를 지원. 아무로와 함께 아우드무라에 합류한다. ㊥ 어른이었던 어린 시절과는 달리, 무철포로 혈기 왕성한 성격. 동년대의 카미㊥유에 라이벌 의식을 가지고 무단 출격이나 명령 무시를 한 적도 있었다. ㊥ 전장에서 만난 시로코의 부하 사라에게 연심을 품고, 그의 밑에서 떠나려고 설득㊥한다. 그러나 그의 말은 받아들여지지 않았고, 그녀는 시로코를 지키고 목숨을 잃었다. ㊥티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00056/Sheet1/000009",
+      "sourceBindingSha256": "71baecb3ab95287499c57cb2bede241a47cccb2d96aa0fd33936dc442064fe50",
+      "sourceTextSha256": "7ad79ab59ec6713dc4aa932c90c76c633dd516473f45d94c21f42802d9ed2319",
+      "freshTranslation": "앤즈와의 최종 결전에서는 곤경의 엠마를 구하는 활약을 보였다. 하지만, 야잔이나 ㊥ 등 도망치는 도중에 운석에 격돌해, 우주에 흩어졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

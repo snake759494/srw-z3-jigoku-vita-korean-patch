@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00046",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00046/Sheet1/000002",
+      "sourceBindingSha256": "afdf70828925ead65befefd4e6f83b4b59dc2a508396d6ed50d6895a406c55dd",
+      "sourceTextSha256": "a7916f5a62a3efbacded16eb8406f6af5f6d89a2c6fc92052c4a204845e966a9",
+      "freshTranslation": "뇌 양자파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00046/Sheet1/000003",
+      "sourceBindingSha256": "5453dc386ccfb716868e3b2696e11b821c406dc3d086f2f2710900fe20fc4839",
+      "sourceTextSha256": "7669c78573db7851e69684ca226465fd07fe9556c10d361219f1dde2c7e809ab",
+      "freshTranslation": "「극장판 기동전사 건담 00-AwakeningofftheTrailblazer-」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00046/Sheet1/000004",
+      "sourceBindingSha256": "6cf0c6a77d65b6f9c55d2b9d415f3e185e16014c9c94e4f27e10ff7ad6ee371c",
+      "sourceTextSha256": "87522b56f1285373e410a489fd5f622622389c65867edc58bed5121ef3d6b241",
+      "freshTranslation": "초병이나 이노베이드, 이노베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00046/Sheet1/000005",
+      "sourceBindingSha256": "2f7f9e4f3fd5286e1efbcf804110e59bf0f2cbecc3a440cc1c81c959243e32b6",
+      "sourceTextSha256": "c5ca5ef360c8c2b74ec41ad41e3164a7863dbd0b645e8f6b20216adf5c4fbce2",
+      "freshTranslation": "- 서로의 정신을 교감시킬 때 사용하는 원시 ㊥ 체적 파장과 신호. 또한, 뇌 양자파로 양자 연산 시스템 「베다」에 엑세스 ㊥스 할 수도 있다. ㊥GN 입자는 뇌 양자파의 전달을 보조하는 역할을 하며, 고농도의 입자 하에서는 통상 ㊥의 인간도 뇌 양자파에 의한 교감이 가능해진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00046/Sheet1/000006",
+      "sourceBindingSha256": "f2306592cb51b6b61cb6761bc33370658305d8cbee82b8b3ae49bb28342e4072",
+      "sourceTextSha256": "87522b56f1285373e410a489fd5f622622389c65867edc58bed5121ef3d6b241",
+      "freshTranslation": "초병이나 이노베이드, 이노베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00046/Sheet1/000007",
+      "sourceBindingSha256": "592830a3da2b16aafabdc11486033d8d4e0bd9ff9fe037ba8a0e26037b3b4657",
+      "sourceTextSha256": "c5ca5ef360c8c2b74ec41ad41e3164a7863dbd0b645e8f6b20216adf5c4fbce2",
+      "freshTranslation": "- 서로의 정신을 교감시킬 때 사용하는 원시 ㊥ 체적 파장과 신호. 또한, 뇌 양자파로 양자 연산 시스템 「베다」에 엑세스 ㊥스 할 수도 있다. ㊥GN 입자는 뇌 양자파의 전달을 보조하는 역할을 하며, 고농도의 입자 하에서는 통상 ㊥의 인간도 뇌 양자파에 의한 교감이 가능해진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

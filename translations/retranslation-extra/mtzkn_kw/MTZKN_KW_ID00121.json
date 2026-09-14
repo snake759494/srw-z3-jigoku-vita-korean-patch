@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00121",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00121/Sheet1/000002",
+      "sourceBindingSha256": "72ee44c5c1c1a590707cee0f1d30274d382df20f8d18dacb9550d9640a3de75d",
+      "sourceTextSha256": "08cfdaebe1d81d9c6d1ea6f9300ff2678c67f026871b6ffa872246f279940a9d",
+      "freshTranslation": "릴리스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00121/Sheet1/000003",
+      "sourceBindingSha256": "22638fe8818a39b0d0f74e0bdf3b9c1685d3203dfbb107b17c08ec8a6e72126a",
+      "sourceTextSha256": "fd27dd0455981a1e903c20a00fd0fdbc96f5d0c9cbe2a5cf01f6caa42e0648cc",
+      "freshTranslation": "「에반게리온 신극장 판서」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00121/Sheet1/000004",
+      "sourceBindingSha256": "a29492734e7ca8b7665617e01930f8e76e64798a5b44cfc096ee1f6938b9d8b0",
+      "sourceTextSha256": "f834fb5e9ff415e8f3d3519c99013e9f976c36c601ecdc4e78782c1cd6442b7c",
+      "freshTranslation": "NERV 본부의 지하, 센트럴드 곰에 존재하는 거대한 사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00121/Sheet1/000005",
+      "sourceBindingSha256": "d0eb670b5008742cec7349d456d88e4533a312b5fb72932422c7cc8ea0969143",
+      "sourceTextSha256": "f1f2cdf5a1ef6ab03443e51ea74a586ee65b65c14631718a7b1e4e16dc3d1772",
+      "freshTranslation": "물체. ㊥ 미사토는 \"이 별의 생명의 시작이자 종식의 요인이기도 한 두 번째 사도\"㊥라고 설명했다. ㊥ 써드 임팩트의 트리거라고도 불리며, 릴리스를 목표로 NERV 본부를 ㊥ 공격하는 사도의 요격이야말로 에반게리온의 역할이다. ㊥ 또한 SEELE은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00121/Sheet1/000006",
+      "sourceBindingSha256": "88b7bbd54e2b5ec2d6990648e42d9bbb996dd86108c7017b7ced9f810c2eb23d",
+      "sourceTextSha256": "00409ca8148c1ed1a32725667d1dbdb519e70effe4d16246d85099cadc8709d8",
+      "freshTranslation": "에반게리온의 탄생과 릴리스의 부활을 가지고 ㊥ 계약의 시간이 될 것이라고 말했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00121/Sheet1/000007",
+      "sourceBindingSha256": "9b5b74a43617ad23b23715ef769e4ed01f5b8a557cc5dc169b224046227f695d",
+      "sourceTextSha256": "f834fb5e9ff415e8f3d3519c99013e9f976c36c601ecdc4e78782c1cd6442b7c",
+      "freshTranslation": "NERV 본부의 지하, 센트럴드 곰에 존재하는 거대한 사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00121/Sheet1/000008",
+      "sourceBindingSha256": "9a0b6a549e6cbc0b29559c71a5657eaec99158f1d32b0ec5b39c6d9b313d33fa",
+      "sourceTextSha256": "f1f2cdf5a1ef6ab03443e51ea74a586ee65b65c14631718a7b1e4e16dc3d1772",
+      "freshTranslation": "물체. ㊥ 미사토는 \"이 별의 생명의 시작이자 종식의 요인이기도 한 두 번째 사도\"㊥라고 설명했다. ㊥ 써드 임팩트의 트리거라고도 불리며, 릴리스를 목표로 NERV 본부를 ㊥ 공격하는 사도의 요격이야말로 에반게리온의 역할이다. ㊥ 또한 SEELE은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00121/Sheet1/000009",
+      "sourceBindingSha256": "1b2af9010546f947fa503f63d4761c763d1b7bf3ab0d17cc8461c9c4a05f3693",
+      "sourceTextSha256": "00409ca8148c1ed1a32725667d1dbdb519e70effe4d16246d85099cadc8709d8",
+      "freshTranslation": "에반게리온의 탄생과 릴리스의 부활을 가지고 ㊥ 계약의 시간이 될 것이라고 말했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

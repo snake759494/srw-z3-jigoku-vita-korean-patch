@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00168",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00168/Sheet1/000002",
+      "sourceBindingSha256": "a75ad2076ccf9e10d1f40a1ed44f5dc817c03655282149832c6ed02d7fc36c8a",
+      "sourceTextSha256": "c6eb1c8f351951440eb2fc99244a8f3b5fdffc1f923a17eba9b13e09c4788b75",
+      "freshTranslation": "레이 러블록",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00168/Sheet1/000003",
+      "sourceBindingSha256": "ffeeebe88dd3e90bf1bf6ccc9907aaeee78247bcb4f410408ea7b720e6f1106e",
+      "sourceTextSha256": "7faf5c4e05b4279d942dcceccc82b5aad01f3b6286b0cdea281d537c17ac9be3",
+      "freshTranslation": "레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00168/Sheet1/000004",
+      "sourceBindingSha256": "c4125ecfe2177cea35307895db23ef21e9bd0e256e16564ecd34a210dd5991df",
+      "sourceTextSha256": "6d44622aa9064e71c34e42e7ff6f24f624bb0c6ebacd9fea4e30a2357bb5d0b6",
+      "freshTranslation": "마크로스 7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00168/Sheet1/000005",
+      "sourceBindingSha256": "6fe1793ad63fb9e97eb5cdf754d289e62715dee044ee712f65c21ab35a924097",
+      "sourceTextSha256": "9260e7af704d9c2c45a89ef20ff8af25f3d002042b54aa74ce94637d6f591379",
+      "freshTranslation": "스가와라 마사시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00168/Sheet1/000006",
+      "sourceBindingSha256": "118a687e5fc356204947dcf339d6f5fe0115ce0e5022fe4b2a31e808ee619fbb",
+      "sourceTextSha256": "754281c490cf0a0cafffe3c5ce7c93437fcf57d02de0006b773df28d3457a74b",
+      "freshTranslation": "전 통합군의 파일럿이며, 현재는 FireBomber의 리더로, 키㊥보드를 담당. ㊥ 바사라의 재능을 재빨리 찾아내, 그 열정에 접한 인물로, 바사라의 후견인적 역할㊥을 담당하고 있다. 덧붙여 바사라가 쓴 스코어를 읽을 수 있는 몇 안되는 인물이기도 하다. ㊥ 여행에 나온 바사라가 신경이 쓰이는 밀레느를 행성 졸라에게 내보냈기 때문에, 보컬㊥ 부재가 되었지만, 바사라와 밀레느의 세워 간판과 라디카세로부터 음성을 흘리는 황업으로 라이㊥부를 성공시켰다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00168/Sheet1/000007",
+      "sourceBindingSha256": "e3e31981735fd7a4c0e915caf1accfe920e9bbc21caba3cc49c3d0093bc43b47",
+      "sourceTextSha256": "754281c490cf0a0cafffe3c5ce7c93437fcf57d02de0006b773df28d3457a74b",
+      "freshTranslation": "전 통합군의 파일럿이며, 현재는 FireBomber의 리더로, 키㊥보드를 담당. ㊥ 바사라의 재능을 재빨리 찾아내, 그 열정에 접한 인물로, 바사라의 후견인적 역할㊥을 담당하고 있다. 덧붙여 바사라가 쓴 스코어를 읽을 수 있는 몇 안되는 인물이기도 하다. ㊥ 여행에 나온 바사라가 신경이 쓰이는 밀레느를 행성 졸라에게 내보냈기 때문에, 보컬㊥ 부재가 되었지만, 바사라와 밀레느의 세워 간판과 라디카세로부터 음성을 흘리는 황업으로 라이㊥부를 성공시켰다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00074",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00074/Sheet1/000002",
+      "sourceBindingSha256": "1b1053718268bc65db76c145cb33149c160732bae4e75fef275d5ffc6d14a95d",
+      "sourceTextSha256": "ac4e55cffbaf6522a080225b5f6543430eb78b30ccd071e7a5cecba1776abdcf",
+      "freshTranslation": "미션 디스크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00074/Sheet1/000003",
+      "sourceBindingSha256": "08795aef175e948c86086de8c5bdcf62a655a744e84b8f21b6959465d894f78c",
+      "sourceTextSha256": "00c3cbf4c1fa840433f934400fe630426ff59429734dff11e4e9b153142371e1",
+      "freshTranslation": "「장갑 기병 보텀스」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00074/Sheet1/000004",
+      "sourceBindingSha256": "414abc252ba5b8e8c20eab1f7b9635309c8b56374d75bcbaf169a7476b0b1978",
+      "sourceTextSha256": "bff86f601f1e9f419825293dc4c0178376cdbb669e7e95ad816e92a726a64f76",
+      "freshTranslation": "AT의 움직임을 제어하는 ​​프로그램 또는 그것을 포함하는 디스크. ㊥ 동작의 자동화나 조작의 간략화를 행하여, 미션 디스크의 성능이 AT의 ㊥ 움직임을 결정한다고 말할 수 있다. ㊥ 파일럿이 자신의 취향과 상황에 따라 적절하게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00074/Sheet1/000005",
+      "sourceBindingSha256": "b70e6999483ec99db531e64e207b919e7a34fe5749e2fb942ddd5925da54dc3a",
+      "sourceTextSha256": "589f1331e0db1efd2e139e2133388cd30ab5e9564675bc010620fe4173e6a21a",
+      "freshTranslation": "마이즈하여 사용한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00074/Sheet1/000006",
+      "sourceBindingSha256": "bae48bb85925c894f1a09df02f2764bb1bf82575a27879b0c1913057ee0ca881",
+      "sourceTextSha256": "bff86f601f1e9f419825293dc4c0178376cdbb669e7e95ad816e92a726a64f76",
+      "freshTranslation": "AT의 움직임을 제어하는 ​​프로그램 또는 그것을 포함하는 디스크. ㊥ 동작의 자동화나 조작의 간략화를 행하여, 미션 디스크의 성능이 AT의 ㊥ 움직임을 결정한다고 말할 수 있다. ㊥ 파일럿이 자신의 취향과 상황에 따라 적절하게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00074/Sheet1/000007",
+      "sourceBindingSha256": "f5e49c062c632d01544193d5a1802bede2619458e04599df2e3ceeaae405da6d",
+      "sourceTextSha256": "589f1331e0db1efd2e139e2133388cd30ab5e9564675bc010620fe4173e6a21a",
+      "freshTranslation": "마이즈하여 사용한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

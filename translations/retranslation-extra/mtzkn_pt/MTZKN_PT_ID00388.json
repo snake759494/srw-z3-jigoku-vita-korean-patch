@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00388",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00388/Sheet1/000002",
+      "sourceBindingSha256": "86e5540f70bd4c0c6108c9c020bf25785fdd7c6792b3c680179d784e65405104",
+      "sourceTextSha256": "61f3491c3ab89e73fac6ea2dc03a1acde2afb795410123dd3ec9c98c792feb98",
+      "freshTranslation": "알리시아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00388/Sheet1/000003",
+      "sourceBindingSha256": "e4af0e3d35ba3a0c47b99ccc093931a12ab07559be6f2b8e8c63e2eb9cf65745",
+      "sourceTextSha256": "61f3491c3ab89e73fac6ea2dc03a1acde2afb795410123dd3ec9c98c792feb98",
+      "freshTranslation": "알리시아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00388/Sheet1/000004",
+      "sourceBindingSha256": "ef91427df57ae6a3e9d251b2f3b38d464ce507809434399d7d211487dd7db5d3",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00388/Sheet1/000005",
+      "sourceBindingSha256": "9f5db0b6ac613a6e556d54315e56054ffdc0a2cc2eb4b71476f3a90f3be5425e",
+      "sourceTextSha256": "cd7a9594959cbcaa6faf48eca858982af6ddb09fbe88a4250fd33049d01ada0e",
+      "freshTranslation": "1만 2000년 전 타천과 인류의 싸움을 그린 영화 '수족관이 춤추는 하늘'에서 ㊥여 주인공의 실피 역을 연기하고 있던 여배우. ㊥ '수족관이 춤추는 하늘'의 영화 자체의 평가는 좋지 않았지만, 그녀의 노래하는 주제가㊥는 대히트가 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00388/Sheet1/000006",
+      "sourceBindingSha256": "f703fa9396c5c7fb49d9d36e46c8fc67b76f26dd25a4848859f54229bba45b9e",
+      "sourceTextSha256": "81123533af41cbca7d8de922839d07ead5b4272c6e2be6d2f0845f5257d44f06",
+      "freshTranslation": "1만 2000년 전 타천과 인류의 싸움을 그린 영화 '수족관이 춤추는 하늘'에서 ㊥여 주인공의 실피 역을 연기하고 있던 여배우. ㊥ '수족관이 춤추는 하늘'의 영화 자체의 평가는 좋지 않았지만, 그녀의 노래하는 주제가㊥는 대히트가 되고 있다. ㊥아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00388/Sheet1/000007",
+      "sourceBindingSha256": "d2789b25fa8bb598a2625f108229e6d762a086970c66b04e7eab72bae3477481",
+      "sourceTextSha256": "2e8c0c470f9993120b24b522b9ef4bee5f864ad293c1de4fae8a9d98908fd67b",
+      "freshTranslation": "어머니이며 그가 어렸을 때 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00388/Sheet1/000008",
+      "sourceBindingSha256": "32177543bc21e9a9410780f25f14da451361d0d47ac3b22e5840a3698ae9b592",
+      "sourceTextSha256": "06e1b3468368a7a7008cc92c4e1abed1e319e7e068b9a8e2ad70eb00c81e69d9",
+      "freshTranslation": "의 아버지인 이즈모와 함께 알테아로 ㊥ 건너간다. 그러나, 알테아의 「이브의 저주」에 의해, 가사 상태로 계속 잠들었다. ㊥ 가사 상태에서 깨어났을 때 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00388/Sheet1/000009",
+      "sourceBindingSha256": "3962d8340e3cee2f3041f5bd80f5962a868fffb410ed852d3b41722d7e5d1456",
+      "sourceTextSha256": "ef29d5bf3d18d64d9e7877c521c7fba9b4e5d8874096ed42a571d7de4321b787",
+      "freshTranslation": "와 재회하고 오랫동안 버렸다고 생각했던 아마㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00388/Sheet1/000010",
+      "sourceBindingSha256": "eae19efd9e59f6c93f96dd8bbdbc4ed3991766d0b3341dc039b95643434db606",
+      "sourceTextSha256": "3588440836308f9325b9097c9e784c33c349c0c89eb4c33ad2672539cdc621c4",
+      "freshTranslation": "의 오해를 풀어 화해하기도 직후 전투에 휘말려 폭발 속에 사라진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00175",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00175/Sheet1/000002",
+      "sourceBindingSha256": "f57a534ac9027d84fb6bab697b3ba68ba52357f89b7be475ec94749047307ad0",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00175/Sheet1/000003",
+      "sourceBindingSha256": "573c93af43a82812d2752c6933170822af8681e5acd714ce2e0a90d37b3ebe02",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00175/Sheet1/000004",
+      "sourceBindingSha256": "8cbcdf886b3553a8df022b32785ec241ec7036b687846930ca410ea6b2d0c5e3",
+      "sourceTextSha256": "14996ee1328f36a963b8ff20ac288661eb587fa302fabe3ca3e5dbebd8b278ad",
+      "freshTranslation": "M9 건즈백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00175/Sheet1/000005",
+      "sourceBindingSha256": "e6f1007050845280c921c3eb8649c749e08cdc044f1460e995325b72a168dc96",
+      "sourceTextSha256": "14996ee1328f36a963b8ff20ac288661eb587fa302fabe3ca3e5dbebd8b278ad",
+      "freshTranslation": "M9 건즈백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00175/Sheet1/000006",
+      "sourceBindingSha256": "6cdbfe08e45b9fc1da5f63a750d3d61594d6e9ee020d8a712fc4415e2fc2fee8",
+      "sourceTextSha256": "72aff3afa8e20ce437280ee5aaf8e21843a26f2b349f3e0618d49a4b87f92d78",
+      "freshTranslation": "크루츠 웨버",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00175/Sheet1/000007",
+      "sourceBindingSha256": "c1c6ffe0f1194be5372d2db13cd810e1cb20a6de801451dfd900cb7de5a50774",
+      "sourceTextSha256": "de32f8a7c2c07d8294506cd2bc6a59b8d7297e02ee336d22867cb9445517faf3",
+      "freshTranslation": "최신예의 3세대 AS. ㊥ 미스릴에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00175/Sheet1/000008",
+      "sourceBindingSha256": "cc8313b6ce729ae160b26c6bcca8f5b29e987e0a27be79effcf1ce2177205617",
+      "sourceTextSha256": "a96b1f983572258e72a0299b0f80bffa516ec50bfdcbbd90cb989230b94b5b5a",
+      "freshTranslation": "사용되고 있으며 본 기기에는 크루츠 웨버 군조가 탑승한다. ㊥ 본 기종은 현재 미군에서 개발 중으로 여겨지고 있으며, 미스릴 이외의 조직, 국가에는 아직 배포 ㊥ 갖추어지지 않았다. 그 미스릴의 주력무기로서 E계열이라고 불리는 기체가 SRT대 ㊥원에 의해",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00175/Sheet1/000009",
+      "sourceBindingSha256": "abed50d104d7ababbdbbc78fb93f3cd5dedc9e1fc9129c1722bdb06e5b15dc55",
+      "sourceTextSha256": "2237f0db8e304d76bc6816042683e2bc2569df060c7999a4e272ca326002a57e",
+      "freshTranslation": "사용되었습니다. ㊥ 기존 기체에 비해 매우 고성능이며, 특히 그 고기동성과 스텔스성은 다른 ㊥AS를 압도. ECS에 의해, 모든 센서나 레이더 등의 전자 무기를 무력화 ㊥할 뿐만 아니라, 육안으로의 시인도 불가능하게 하는 기능을 갖는다. 그 성능은, 카나메의 호위㊥임무로서 거리에서 행동했을 때에도 발휘되었다. ㊥ 크루츠기의 최대 특징으로는 57mm 활강포를 장비하고 있는 것이다. 통상은 ㊥ 접어서 뒷면에 장착하고 있지만, 사용시에는 그것을 전개. 총신 하부의 바이포드㊥를 사용하여 복사 자세 등으로 저격을 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00175/Sheet1/000010",
+      "sourceBindingSha256": "d4bd6ac638c897598a378b6ffee1e5490e3d8116ff1e3da20e539905fcd729f9",
+      "sourceTextSha256": "de32f8a7c2c07d8294506cd2bc6a59b8d7297e02ee336d22867cb9445517faf3",
+      "freshTranslation": "최신예의 3세대 AS. ㊥ 미스릴에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00175/Sheet1/000011",
+      "sourceBindingSha256": "418fc65acf579a40109a8b2c315c35bdb4f236510f99a5ac9b546861e9cd258c",
+      "sourceTextSha256": "a96b1f983572258e72a0299b0f80bffa516ec50bfdcbbd90cb989230b94b5b5a",
+      "freshTranslation": "사용되고 있으며 본 기기에는 크루츠 웨버 군조가 탑승한다. ㊥ 본 기종은 현재 미군에서 개발 중으로 여겨지고 있으며, 미스릴 이외의 조직, 국가에는 아직 배포 ㊥ 갖추어지지 않았다. 그 미스릴의 주력무기로서 E계열이라고 불리는 기체가 SRT대 ㊥원에 의해",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00175/Sheet1/000012",
+      "sourceBindingSha256": "7b3e390e3c3668185dff4fb2d3a62f0724b0a8376a21f68f96d38cce6948f470",
+      "sourceTextSha256": "2237f0db8e304d76bc6816042683e2bc2569df060c7999a4e272ca326002a57e",
+      "freshTranslation": "사용되었습니다. ㊥ 기존 기체에 비해 매우 고성능이며, 특히 그 고기동성과 스텔스성은 다른 ㊥AS를 압도. ECS에 의해, 모든 센서나 레이더 등의 전자 무기를 무력화 ㊥할 뿐만 아니라, 육안으로의 시인도 불가능하게 하는 기능을 갖는다. 그 성능은, 카나메의 호위㊥임무로서 거리에서 행동했을 때에도 발휘되었다. ㊥ 크루츠기의 최대 특징으로는 57mm 활강포를 장비하고 있는 것이다. 통상은 ㊥ 접어서 뒷면에 장착하고 있지만, 사용시에는 그것을 전개. 총신 하부의 바이포드㊥를 사용하여 복사 자세 등으로 저격을 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

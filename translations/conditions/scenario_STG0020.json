@@ -1,0 +1,95 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0020",
+    "fileName": "STG0020.cpk",
+    "target": "DATA/STAGE/STG0020.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "b29b9816077252ddb34ec1b9e0f78a87934fef1dfc2df3fa4449a87151bb706c"
+  },
+  "entries": [
+    {
+      "entryId": "STG0020/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "제5사도의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0020/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "신지의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0020/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "???",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0020/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "신지 또는 레이의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0020/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "영호기 등장부터 6턴이 경과한다",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0020/ID00001/OPERATE_TBL/str_tbl/005",
+      "sourceId": 5,
+      "translation": "사도 격추 전에 다른 모든 적을 격추시킨다\n단,???이 한기라도 사도에게 격추되었을 경우\n획득은 실패가 된다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0020/ID00001/OPERATE_TBL/str_tbl/006",
+      "sourceId": 6,
+      "translation": "아군 전함의 격추.",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

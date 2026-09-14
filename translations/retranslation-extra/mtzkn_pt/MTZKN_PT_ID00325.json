@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00325",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00325/Sheet1/000002",
+      "sourceBindingSha256": "885b9a39052486215d063f1d2d604417d78f5d0032e4f45ac8accf4e696977f8",
+      "sourceTextSha256": "125e013515ca66093ba66a2badbf5c73265d86d6de31501463f1e415aa8463a7",
+      "freshTranslation": "키얄 바티카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00325/Sheet1/000003",
+      "sourceBindingSha256": "f14a93c029eaaaa43373da56ca78f158b63843fae342b693b4a60ea1700febe9",
+      "sourceTextSha256": "14993e15a712939ea10a2b38abaa9e48e43c58b20224820851b61056ce2a8003",
+      "freshTranslation": "키야르",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00325/Sheet1/000004",
+      "sourceBindingSha256": "fd1c13af0bb81e543fb131847955ab5d534e31ab8e818a96c07f85987f482fef",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00325/Sheet1/000005",
+      "sourceBindingSha256": "441d3ebe718ad3ac2847634a7fa5711740fab41b964f7d9560041ee5d8aaf5f1",
+      "sourceTextSha256": "7b279d9111b15a9ca7164067a32a4d06708354e203ad1e3f7d8bd5d1c1697742",
+      "freshTranslation": "야에치가 매력 포인트의 「흑의 형제」의 삼녀. ㊥수인 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00325/Sheet1/000006",
+      "sourceBindingSha256": "158dfbda23172bb1266d92ec6f84e7e6bdedeb8015738432e2cb9c5c5f3458f9",
+      "sourceTextSha256": "a8c293df5cedfb473835a9415032cc6c890cd47c7b97ce96f93e208a128c16bc",
+      "freshTranslation": "ー로서 행동하고 있을 때, 카미나들과 만난다. 큰 글렌단에 합류하면㊥키요와 함께 다이 글렌의 제 3 함교에서 포수가되어 나중에 전용 감멘의 키알 룽가에㊥타는 등 남자 얼굴 패배의 싸움을 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00325/Sheet1/000007",
+      "sourceBindingSha256": "3dd9511082182af78fd24f6a8505a9990653444cd9bf7badb680562c7e63db93",
+      "sourceTextSha256": "7b279d9111b15a9ca7164067a32a4d06708354e203ad1e3f7d8bd5d1c1697742",
+      "freshTranslation": "야에치가 매력 포인트의 「흑의 형제」의 삼녀. ㊥수인 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00325/Sheet1/000008",
+      "sourceBindingSha256": "1f4a5d449374f4613daecee6093f4799843ae6ca3465d2658a9c5f00e119f8b9",
+      "sourceTextSha256": "a8c293df5cedfb473835a9415032cc6c890cd47c7b97ce96f93e208a128c16bc",
+      "freshTranslation": "ー로서 행동하고 있을 때, 카미나들과 만난다. 큰 글렌단에 합류하면㊥키요와 함께 다이 글렌의 제 3 함교에서 포수가되어 나중에 전용 감멘의 키알 룽가에㊥타는 등 남자 얼굴 패배의 싸움을 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

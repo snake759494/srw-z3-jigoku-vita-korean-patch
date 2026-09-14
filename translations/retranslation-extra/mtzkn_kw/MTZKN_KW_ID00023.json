@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00023",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00023/Sheet1/000002",
+      "sourceBindingSha256": "103894ce64a50775aefb414b19625eaecfb1d8a98790b3c429889dffe7fa72ac",
+      "sourceTextSha256": "914af5dcbc8c0b6cb94015d0f98c70513418c5ec15557e2cb76c03973f5ce3bb",
+      "freshTranslation": "\"풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00023/Sheet1/000003",
+      "sourceBindingSha256": "2e6c26e944e99760c019b3f5113805962b198e3c16117d1a7c4da56d0daff939",
+      "sourceTextSha256": "983aba52bd5705db667e47e82a5457e818e6c23cd7092b5947890b663276695d",
+      "freshTranslation": "르 패닉! \"",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00023/Sheet1/000004",
+      "sourceBindingSha256": "e6c43001b49f49730c9c2c2376e000cf760550f2c248ec5a780adfebde10877b",
+      "sourceTextSha256": "88fc36f1e50aba1a83fd80377dac6ec52c612db1fc6a121520725b0848307ada",
+      "freshTranslation": "전자기 위장 시스템. ㊥ 불가시 모드로 사용했을 경우, 완전히 기체를 투명화할 수 있지만, 모㊥도 사용시에는 강한 오존 냄새가 되기 때문에, 개 등에 발견되어 버리는 결점을 가진다. ㊥ 또한 전력 소비량이 많기 때문에 2세대 AS에는 보이지 않는 모드가 탑재되어 ㊥이 아니며 M9계에서 처음으로 실전 투입됐다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00023/Sheet1/000005",
+      "sourceBindingSha256": "8f71edeaa6716899e56ec97e39a02933dc83d38d3fd3bf854ed4e313af67d0c9",
+      "sourceTextSha256": "88fc36f1e50aba1a83fd80377dac6ec52c612db1fc6a121520725b0848307ada",
+      "freshTranslation": "전자기 위장 시스템. ㊥ 불가시 모드로 사용했을 경우, 완전히 기체를 투명화할 수 있지만, 모㊥도 사용시에는 강한 오존 냄새가 되기 때문에, 개 등에 발견되어 버리는 결점을 가진다. ㊥ 또한 전력 소비량이 많기 때문에 2세대 AS에는 보이지 않는 모드가 탑재되어 ㊥이 아니며 M9계에서 처음으로 실전 투입됐다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

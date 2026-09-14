@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00298",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00298/Sheet1/000002",
+      "sourceBindingSha256": "2d246cbf995f877bc6680a66e95e6c2394ca83f5b5edcd7f55630a7d944f4abb",
+      "sourceTextSha256": "fa3cf51c7948df7464268becea166145a95cc4a4d520f36a3c042abde7f2d733",
+      "freshTranslation": "카몬 슈야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00298/Sheet1/000003",
+      "sourceBindingSha256": "23d317fbbed6a7b7e287b4525eeaac7cb2650fdb529c3ba21346ada7cda8248d",
+      "sourceTextSha256": "6cd3bffcb99e6ce79fe11b269b1fe9b202deb3c44cdcfc8953e16032d6e30260",
+      "freshTranslation": "朔哉",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00298/Sheet1/000004",
+      "sourceBindingSha256": "8ab6455b34c0aeb87f6d4f2dee873e2ce4c5ce76d3eea8db434ef9abb575951d",
+      "sourceTextSha256": "1e56b9ff86dcef266f12989d9d9c1a049376962d8d547fa14759ae90a788c964",
+      "freshTranslation": "수장기공 단쿠가노바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00298/Sheet1/000005",
+      "sourceBindingSha256": "11cb76cb185e2c6b4e36ba011bb8cfb65dc23de3bee741a5f0eeb6f80774aa3f",
+      "sourceTextSha256": "f8fec8b4937fcb1b46c1c01b1b45f799e76b7dd04cfca9797a89383fd4de49e6",
+      "freshTranslation": "스즈키 타츠오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00298/Sheet1/000006",
+      "sourceBindingSha256": "b6a9d8637ab38e056a4710686492cf0664092f0036a7ec381473e1e441afb4fc",
+      "sourceTextSha256": "33cc8c16f11a65db561ba133bcd57d14ad433c9a763f2043e052749c28dbc431",
+      "freshTranslation": "팀 D의 일원으로 노발라이노스의 파일럿. ㊥결정 대사는 \"해줄게!\" ㊥ 혼자 있고 싶고, 휴대폰 따위에 묶이고 싶지 않은, 등의 이유로 공원의 골판지 하 ㊥ 우스에서 잠든 노숙자를 하고 있었다. ㊥ 자유를 만끽하고 있던 곳에서 갑자기 드래곤즈하이브에게 불리고, 던쿠가노바에서의 전투㊥투를 경험. 다시 전화가 걸리면 자유만으로는 채워지지 않은 마음의 틈을 메우는 ㊥하기 위해 참여를 결의했다. ㊥ 금전적으로 불편한 모습을 볼 수 없거나 컴퓨팅",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00298/Sheet1/000007",
+      "sourceBindingSha256": "b44f774e59d359ee56daf7a64737b88cbd1dbcaf6fbf8b8ab27c0f42937d2c71",
+      "sourceTextSha256": "c6d0d0bbd83384777a98754c625b350c1a326657e835aa0abcc3d0bc0fd951da",
+      "freshTranslation": "화도에 정통하지 마세요 ㊥ 교양을 냄새 맡는 장면에서 노숙자가되기 전의 삶의 일부가 엿볼 수 있습니다. ㊥ 평소에는 식은 태도이지만, 전투 때에는 결정 대사를 말하고 싶거나 전용 테마곡 ㊥을 환영하거나 어린아이 뜨거운 부분도 자주 볼 수 있었다. ㊥ 덧붙여 합신 후에 자신의 역할이 없는 것을 신경쓰고 있고, 노발라이노스가 트리거와 ㊥ 되는 필살기의 개발을 세이미에게 의뢰하고 있다. ㊥ 이고르 콘체른의 파티에서 알게 된 이사벨은 댄 쿠가 노바 ㊥의 정보를 제공하는 등 친해지고 모든 싸움을 마친 후 어깨를 나란히 극한의 ㊥지에서의 사진",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00298/Sheet1/000008",
+      "sourceBindingSha256": "de40e6d75d358592ce4fed73cc6ff2df377c11ad4ef050ccc0edca05443291b8",
+      "sourceTextSha256": "2bc33abbd74808e920b18cf0cb6d4b8be4f7eab88d9e17738cacfa09f552299a",
+      "freshTranslation": "촬영에 임하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00298/Sheet1/000009",
+      "sourceBindingSha256": "b5c8d611e272741b8c5b577dea5d41c35ad0ff87e5b907b270bc9aabbbbbf30e",
+      "sourceTextSha256": "33cc8c16f11a65db561ba133bcd57d14ad433c9a763f2043e052749c28dbc431",
+      "freshTranslation": "팀 D의 일원으로 노발라이노스의 파일럿. ㊥결정 대사는 \"해줄게!\" ㊥ 혼자 있고 싶고, 휴대폰 따위에 묶이고 싶지 않은, 등의 이유로 공원의 골판지 하 ㊥ 우스에서 잠든 노숙자를 하고 있었다. ㊥ 자유를 만끽하고 있던 곳에서 갑자기 드래곤즈하이브에게 불리고, 던쿠가노바에서의 전투㊥투를 경험. 다시 전화가 걸리면 자유만으로는 채워지지 않은 마음의 틈을 메우는 ㊥하기 위해 참여를 결의했다. ㊥ 금전적으로 불편한 모습을 볼 수 없거나 컴퓨팅",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00298/Sheet1/000010",
+      "sourceBindingSha256": "e6e19d90ba3b43d9b4bba592a9caa671d4f6a55e5a41380af4bae3de2a68fb7d",
+      "sourceTextSha256": "c6d0d0bbd83384777a98754c625b350c1a326657e835aa0abcc3d0bc0fd951da",
+      "freshTranslation": "화도에 정통하지 마세요 ㊥ 교양을 냄새 맡는 장면에서 노숙자가되기 전의 삶의 일부가 엿볼 수 있습니다. ㊥ 평소에는 식은 태도이지만, 전투 때에는 결정 대사를 말하고 싶거나 전용 테마곡 ㊥을 환영하거나 어린아이 뜨거운 부분도 자주 볼 수 있었다. ㊥ 덧붙여 합신 후에 자신의 역할이 없는 것을 신경쓰고 있고, 노발라이노스가 트리거와 ㊥ 되는 필살기의 개발을 세이미에게 의뢰하고 있다. ㊥ 이고르 콘체른의 파티에서 알게 된 이사벨은 댄 쿠가 노바 ㊥의 정보를 제공하는 등 친해지고 모든 싸움을 마친 후 어깨를 나란히 극한의 ㊥지에서의 사진",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00298/Sheet1/000011",
+      "sourceBindingSha256": "7d37e7785e8c41135b4495180804212818885716dbabac9ea35f6e35b783b5a4",
+      "sourceTextSha256": "2bc33abbd74808e920b18cf0cb6d4b8be4f7eab88d9e17738cacfa09f552299a",
+      "freshTranslation": "촬영에 임하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

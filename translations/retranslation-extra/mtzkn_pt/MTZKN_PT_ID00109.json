@@ -1,0 +1,236 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00109",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000002",
+      "sourceBindingSha256": "ec647d8345b01274e80235b95ca075b6dd4dc021767675bbb89334fa4037e52a",
+      "sourceTextSha256": "340adf45d5fb5bd8041c104bcc9594f2793c40a426b9bf33b84c88c79fcc8324",
+      "freshTranslation": "티에리아 아데",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000003",
+      "sourceBindingSha256": "30123cc0232bd9dee5d15a549f7460dffad064f3fe93cfc6dfb883b65d2209e8",
+      "sourceTextSha256": "85a3c99c5f268a3181719319c445b13c20d1486a13b359c8fc8bb9f4fea8d672",
+      "freshTranslation": "티 지역",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000004",
+      "sourceBindingSha256": "7e76426971dd066e8bcfa60de39cd2054fa59d313f2999c8ed5dcb48e7a1a7bc",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000005",
+      "sourceBindingSha256": "06bd7593998371e42954cde54f7e5f97c8b415b9ee1c26c4bebc3e2ded37e8b7",
+      "sourceTextSha256": "fe7eb3e14f84b1aa02caf9ff990905dd2a32f241441657b7ed56ca5b8c3e4f10",
+      "freshTranslation": "카미야 히로시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000006",
+      "sourceBindingSha256": "24ac39549e5a2a412ec041ee7549b2ca2b1fc745afc5dcbcdc9da36fbb08220a",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000007",
+      "sourceBindingSha256": "bcac59e79e71c71b21c446d5707e834d494ed0f4c5600ccbc23bbd8f7e3e72f1",
+      "sourceTextSha256": "844b1907bad4d15178c7dcd4050a1ac40b813068a9602a194667d998a2d8734c",
+      "freshTranslation": "루비잉에 속하는 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000008",
+      "sourceBindingSha256": "0495ba27d48ce5f512040ac703aa1b750008fb45de85b94325f9612e4939c1f7",
+      "sourceTextSha256": "d2055255b9625ac319489f3a47657179fdfe5062db0f6ff2016a4a2436e9ec71",
+      "freshTranslation": "ー.㊥인간의 진화한 모습인 이노베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000009",
+      "sourceBindingSha256": "084df97e213ed12d120ca9edcb4bb1221c491edf3e689e587ddb6a20c3a17730",
+      "sourceTextSha256": "e53dcdd43f97e1f391957e0c1c43b32a92fddbbc84dca4d16e1c2f93e523060c",
+      "freshTranslation": "-를 본뜬 만들어낸 이노베이드의 혼자. ㊥ 당초는 베다의 제시하도록 임무를 수행하는 것에 고집하고 있어 사정을 사이에 두는 것을 ㊥ 극단적으로 싫어했지만, 자신을 걱정해 준 록온에 큰 영향을 받아 서서히 ㊥ 인간다움을 보이게 된다. 그가 죽었을 때는, 슬퍼하고, 그 처벌을 맹세하는㊥정도였다. ㊥ 이후에도, 냉정 침착한 인상은 변하지 않지만, 그 나름대로 동료들을 신뢰하는 행동을 취해, ㊥주위와의 제휴도 도모하게 된다. ㊥ 이윽고, 동종의 존재인 이노베이드로부터 권유를 받는 것도, 그들을 세계의 왜곡과 파괴㊥정. 그 초대를 거절하고 인간으로서 그들과 싸우는 결의를 한다. ㊥ 이노베이드와의 전투에서 리본즈의 총탄을 받고 육체를 잃어 버리지만, 그 존재 ㊥ 재는 실체를 가지지 않는 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000010",
+      "sourceBindingSha256": "6ca2433027c489ae8cc1b1f5e3bcc5e16ac5065db0fcc0190d712281cf46f961",
+      "sourceTextSha256": "2c54191f5567258e5faf86c0515170cd292f3d97bed8163679f191d8e95357ab",
+      "freshTranslation": "로 베다 속에서 살아가고 있다. ㊥ 종전 후 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000011",
+      "sourceBindingSha256": "ffc3b604e60912ad795088f10bbcffbc88d748081b61cbeafca0d6de9bed8610",
+      "sourceTextSha256": "167592bd7f283a0d1be5e7cbc4223e0dad6856855c5007a829215fa06706e16e",
+      "freshTranslation": "루비잉에 직접 관",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000012",
+      "sourceBindingSha256": "79039e4d63b00872b46f39f43a7f00374d18b216eb238ff452675e03cadf3a10",
+      "sourceTextSha256": "203eb3f4407caee67e2d3b97157f572a5109b3dc8536bb5a7efeca5c9adee541",
+      "freshTranslation": "그리고 그렇지 않지만, 우주 항행 모함 소㊥리스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000013",
+      "sourceBindingSha256": "05a2583355b4a928227292c91c9c16e533d06983cde1f4d0e38776a215e381a6",
+      "sourceTextSha256": "1d18c69e0394bf72371842c9b5655bad5e50474f2a9532d2ad06c7018dc41ba8",
+      "freshTranslation": "루비잉에서 비밀리에 라파엘 건담을 개발하면서 동료의 동향을 지켜봐 ㊥ 하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000014",
+      "sourceBindingSha256": "5fecbebe9d4e89148ba3e02f7b26b34f216c4bfd1788effe2ab6a00d395240e2",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000015",
+      "sourceBindingSha256": "7e0ce74214a6b4d3131b9874facbf33e4c5bf18472178be47631ecf55b26b359",
+      "sourceTextSha256": "844b1907bad4d15178c7dcd4050a1ac40b813068a9602a194667d998a2d8734c",
+      "freshTranslation": "루비잉에 속하는 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000016",
+      "sourceBindingSha256": "15b712924aca00e1cdcf081e871bc46613b061ae5cb6a32aa6e56e3ae05d91e9",
+      "sourceTextSha256": "d2055255b9625ac319489f3a47657179fdfe5062db0f6ff2016a4a2436e9ec71",
+      "freshTranslation": "ー.㊥인간의 진화한 모습인 이노베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000017",
+      "sourceBindingSha256": "6c1407ea9aa7001405d4f1d586a0f77e53a20bf4e67d9815e98431d4e8ca0621",
+      "sourceTextSha256": "e53dcdd43f97e1f391957e0c1c43b32a92fddbbc84dca4d16e1c2f93e523060c",
+      "freshTranslation": "-를 본뜬 만들어낸 이노베이드의 혼자. ㊥ 당초는 베다의 제시하도록 임무를 수행하는 것에 고집하고 있어 사정을 사이에 두는 것을 ㊥ 극단적으로 싫어했지만, 자신을 걱정해 준 록온에 큰 영향을 받아 서서히 ㊥ 인간다움을 보이게 된다. 그가 죽었을 때는, 슬퍼하고, 그 처벌을 맹세하는㊥정도였다. ㊥ 이후에도, 냉정 침착한 인상은 변하지 않지만, 그 나름대로 동료들을 신뢰하는 행동을 취해, ㊥주위와의 제휴도 도모하게 된다. ㊥ 이윽고, 동종의 존재인 이노베이드로부터 권유를 받는 것도, 그들을 세계의 왜곡과 파괴㊥정. 그 초대를 거절하고 인간으로서 그들과 싸우는 결의를 한다. ㊥ 이노베이드와의 전투에서 리본즈의 총탄을 받고 육체를 잃어 버리지만, 그 존재 ㊥ 재는 실체를 가지지 않는 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000018",
+      "sourceBindingSha256": "dc4c85bf6d93b53152d5ad1ea793fedc0506e88da7a3129c3015fc4fedec78f9",
+      "sourceTextSha256": "2c54191f5567258e5faf86c0515170cd292f3d97bed8163679f191d8e95357ab",
+      "freshTranslation": "로 베다 속에서 살아가고 있다. ㊥ 종전 후 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000019",
+      "sourceBindingSha256": "dc934d742864329f0e8f2490efd15d6f0585a8a012cf4a7b2b54b753c97f8724",
+      "sourceTextSha256": "167592bd7f283a0d1be5e7cbc4223e0dad6856855c5007a829215fa06706e16e",
+      "freshTranslation": "루비잉에 직접 관",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000020",
+      "sourceBindingSha256": "cc2afd0629e7b9d3e06ef84af59a96508b8cba992b36ea9dd061e309c8443cfc",
+      "sourceTextSha256": "203eb3f4407caee67e2d3b97157f572a5109b3dc8536bb5a7efeca5c9adee541",
+      "freshTranslation": "그리고 그렇지 않지만, 우주 항행 모함 소㊥리스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00109/Sheet1/000021",
+      "sourceBindingSha256": "cbf5f127935fa431d54d8dae6cabd377fb0f21e7c46452d3f68ac7829625e1ac",
+      "sourceTextSha256": "bfacbd6f839a8c900f2bf91c5edf310f35661a24dbc01c26cc73ab95c9857c84",
+      "freshTranslation": "루비잉에서 비밀리에 라파엘 건담을 개발하면서 동료의 동향을 지켜보고 ㊥ 하고 있었지만, 그들 궁지 때 새로운 육체와 함께 합류했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

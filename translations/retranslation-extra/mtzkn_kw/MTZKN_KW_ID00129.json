@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00129",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00129/Sheet1/000002",
+      "sourceBindingSha256": "c472267e02913d429472cfee13cb363f64e9481c2268de5288cf3bc47b88ddfc",
+      "sourceTextSha256": "bc242a1f37586343c27df09d52736c54e4c8001ad7315810040617ea37a78f8e",
+      "freshTranslation": "마그리트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00129/Sheet1/000003",
+      "sourceBindingSha256": "e3d8ddaf8e8c0795eaddf41900dc73e3c8318aef8ccc12349548c92d84e83a2e",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00129/Sheet1/000004",
+      "sourceBindingSha256": "5d3a07bc2e2b69b4cedfe22f5880aed927f5bf9aaf36178e399feed126c9cea0",
+      "sourceTextSha256": "941a541cd8e502ed22bf92d1633c15c9063cb80f68db5246a6a00dda4bfd7ea7",
+      "freshTranslation": "전체 이름은 마그리트 피스테르. ㊥ 병행 세계의 지구를 다스린 세인트 인사라움 왕국의 아크 세이버의 일원. ㊥ 하이 나이트 번호 7의 계위를 가지고 진주 네일을 달린다. ㊥ 인사라움이 파계의 왕으로 멸망되기 전에는 왕의 가족을 지키는 왕족 친위대의 대 ㊥장을 맡고 있으며, 공공장에서의 확연한 행동은 아크 세이버의 꽃과 ㊥하여 민들의 동경. ㊥ 인사라움이 괴멸했을 때, 아이임 라이어드의 입을 들여다보면 파계의 ㊥ 왕의 부하가 되었다. ㊥ 버릇없는 성격으로, 자랑스럽고, 정당하고 당당한 싸움을 도전하는 것을 바란다. 그 때문에 ㊥신제국 임페륨에 소속되어 있었을 때는 수단을 가리지 않는 아이임의 명령에는 꾸준히 ㊥ 따랐다. ㊥ 아크세이버의 일원으로서 다시 유서에게 충성을 맹세하지만, 자신이 믿는 정㊥의와 조국의 미래를 위해 그와 싸우는 길을 선택했다. ㊥ 유서가 쓰러진 후 그의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00129/Sheet1/000005",
+      "sourceBindingSha256": "7cec80577e34ad9bd2757b7235b24ab57f443f487e8d2e7e97671abccc4d7d5a",
+      "sourceTextSha256": "68dd1c88c765ea4ff66da10c6ae605a1c405a6409f184271b18564215ce32111",
+      "freshTranslation": "의를 갖고 인사라움의 지도자가 되어 5㊥억의 백성과 함께 화성으로 여행을 떠났다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00129/Sheet1/000006",
+      "sourceBindingSha256": "56f899d3e6c60bea96f041557e84cec1b965a5ea5483d0aba2ad767b5486eabf",
+      "sourceTextSha256": "941a541cd8e502ed22bf92d1633c15c9063cb80f68db5246a6a00dda4bfd7ea7",
+      "freshTranslation": "전체 이름은 마그리트 피스테르. ㊥ 병행 세계의 지구를 다스린 세인트 인사라움 왕국의 아크 세이버의 일원. ㊥ 하이 나이트 번호 7의 계위를 가지고 진주 네일을 달린다. ㊥ 인사라움이 파계의 왕으로 멸망되기 전에는 왕의 가족을 지키는 왕족 친위대의 대 ㊥장을 맡고 있으며, 공공장에서의 확연한 행동은 아크 세이버의 꽃과 ㊥하여 민들의 동경. ㊥ 인사라움이 괴멸했을 때, 아이임 라이어드의 입을 들여다보면 파계의 ㊥ 왕의 부하가 되었다. ㊥ 버릇없는 성격으로, 자랑스럽고, 정당하고 당당한 싸움을 도전하는 것을 바란다. 그 때문에 ㊥신제국 임페륨에 소속되어 있었을 때는 수단을 가리지 않는 아이임의 명령에는 꾸준히 ㊥ 따랐다. ㊥ 아크세이버의 일원으로서 다시 유서에게 충성을 맹세하지만, 자신이 믿는 정㊥의와 조국의 미래를 위해 그와 싸우는 길을 선택했다. ㊥ 유서가 쓰러진 후 그의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00129/Sheet1/000007",
+      "sourceBindingSha256": "47d1d0b0d5f2ff0250d520090f17e76a5c71db27cdd329300bdeeb300ed2c55b",
+      "sourceTextSha256": "68dd1c88c765ea4ff66da10c6ae605a1c405a6409f184271b18564215ce32111",
+      "freshTranslation": "의를 갖고 인사라움의 지도자가 되어 5㊥억의 백성과 함께 화성으로 여행을 떠났다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

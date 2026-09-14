@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00184",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00184/Sheet1/000002",
+      "sourceBindingSha256": "1bfdc0f8eb0ba634f65d68e5d66390e7ce1dc1886e2a37b8ae30bda780b5e873",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00184/Sheet1/000003",
+      "sourceBindingSha256": "7826254c1d235495d071294278f83d5066f4a39abde2daeefaf144c7078e6657",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00184/Sheet1/000004",
+      "sourceBindingSha256": "bf589a6569ba3965be9487499f8e4623542027ae54cebd23d2c80b8fed6aeddc",
+      "sourceTextSha256": "4ee623845ba4e9724508f3002a5e1669db5bbe3b472a8263634a60f8ad05f523",
+      "freshTranslation": "플랜 1056 코다르",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00184/Sheet1/000005",
+      "sourceBindingSha256": "b2e0b39fc633c82f9ff10f17eb24824fd7050badac28a46a870cc6f63474576b",
+      "sourceTextSha256": "4ee623845ba4e9724508f3002a5e1669db5bbe3b472a8263634a60f8ad05f523",
+      "freshTranslation": "플랜 1056 코다르",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00184/Sheet1/000006",
+      "sourceBindingSha256": "2df506462d69b090373e343b2bb1cb0aed28500a082319d8401ff9ba2174a43b",
+      "sourceTextSha256": "46c5d4043e8658decfcb508d7ff365ee2dee1055f6b73ef22c71f59311af35db",
+      "freshTranslation": "가우룬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00184/Sheet1/000007",
+      "sourceBindingSha256": "99b7d817e9cfde8ce4e9aafd921a19264aec4d1b186978f4e7967a8a52759e1a",
+      "sourceTextSha256": "947523bdb0cca402568fa1fc870818016e54a8c92006c3bf603d5c736506749d",
+      "freshTranslation": "수수께끼의 조직",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00184/Sheet1/000008",
+      "sourceBindingSha256": "5084bed062acd2acdfd88aa076962a0445345e256789e871016c99da58c923b6",
+      "sourceTextSha256": "f8a2eca0d7285de6bc3db985fa11d0c1c6375e4ba40783ef239ff250ef9ddd96",
+      "freshTranslation": "사용하는 AS로 가울룬이 탑승한다. ㊥ 동측제의 3세대 AS, Zy-98을 베이스로 개발된 것으로 추측되고 있다. 최대 ㊥의 특징은 람다 드라이버가 탑재되어 있다는 점이다. 이에 따라 같은 제3세 ㊥대 AS인 서쪽 M9를 능가하는 전투력을 발휘한다. ㊥ 주요 무장은 35mm 소총, 어두운 가장자리 단분자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00184/Sheet1/000009",
+      "sourceBindingSha256": "3df66461221eb021a4e24b6954cb09ffdabfb9e51b2107bf30acd239b9b85df3",
+      "sourceTextSha256": "065d1d41d3adf3add0510af050ae3c748e9d1038cfb080b58479bee888722cbe",
+      "freshTranslation": "- 등. ㊥ 탑승자인 가울룬은 람다 드라이버를 다루고 미스릴의 AS와 싸운다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00184/Sheet1/000010",
+      "sourceBindingSha256": "8f59caddf26fa2d22dd749d2a73c7a2186c7c6163547a85fea8bd60ef0531bf7",
+      "sourceTextSha256": "717d8b95834f25c8410d3b3d56dc9ac0124c8b664ff483869e1298e0997d0fde",
+      "freshTranslation": "비밀 조직 아말감",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00184/Sheet1/000011",
+      "sourceBindingSha256": "e180d4d03bca99ae250a92e5fe46639c6cf16c3db90b66e01e8f9c041856b30b",
+      "sourceTextSha256": "f8a2eca0d7285de6bc3db985fa11d0c1c6375e4ba40783ef239ff250ef9ddd96",
+      "freshTranslation": "사용하는 AS로 가울룬이 탑승한다. ㊥ 동측제의 3세대 AS, Zy-98을 베이스로 개발된 것으로 추측되고 있다. 최대 ㊥의 특징은 람다 드라이버가 탑재되어 있다는 점이다. 이에 따라 같은 제3세 ㊥대 AS인 서쪽 M9를 능가하는 전투력을 발휘한다. ㊥ 주요 무장은 35mm 소총, 어두운 가장자리 단분자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00184/Sheet1/000012",
+      "sourceBindingSha256": "b1cf116a11a186233f3a25806a48869d30dc8c9044ba62cce114f6b38da210ac",
+      "sourceTextSha256": "d2617f525615a52ce9375f482b196da9f0b22f820a0de0b51ebf21e5b21949b3",
+      "freshTranslation": "- 등. ㊥ 탑승자인 가울룬은 람다 드라이버를 다루고 미스릴의 AS와 싸운다. ㊥한카 자치주에서의 하이잭 사건에서는, 크루츠의 M9를 격파. 하지만 람다 드라 ㊥ 이바를 발동시킨 소스케의 아바레스트에 격파된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

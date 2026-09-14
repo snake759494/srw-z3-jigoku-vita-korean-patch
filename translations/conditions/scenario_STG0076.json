@@ -1,0 +1,51 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0076",
+    "fileName": "STG0076.cpk",
+    "target": "DATA/STAGE/STG0076.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "7b0a80ba45acd8b2ee1307183122f8f08cf90ec7cc1a7e45696b08034de098f7"
+  },
+  "entries": [
+    {
+      "entryId": "STG0076/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "투아하·데·다난의 포인트 도달",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0076/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0076/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "적을 30기 이상 격추하고 6턴 이내에\n투아하·데·다난을 포인트에 도달시킨다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00112",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00112/Sheet1/000002",
+      "sourceBindingSha256": "065b437648e4f497d0ce164e9d338245e2bbf1ecf887e576fb1d080c9368f737",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00112/Sheet1/000003",
+      "sourceBindingSha256": "9269766d402ce0b2193be75ad4bded80de3dc6e02f16c64e9010afb2e7b63ad2",
+      "sourceTextSha256": "45d35c47b2c2f6445f8e80cd525954363830ccbcf60d0a058343a9d94c2d7b22",
+      "freshTranslation": "VF-25F 메사이아 B·TP",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00112/Sheet1/000004",
+      "sourceBindingSha256": "1107d5c2387da49e38569dbfd7e6f3ac6294c3e891b6f395d2c6953212694a52",
+      "sourceTextSha256": "f25fb514a3b6bd32ae94ca651ee7e84a39e2f5abe3b207a4a8249c3b415eebeb",
+      "freshTranslation": "VF-25F 메사이아 배트로이드 모드·토네이도 팩 장비(대기권 외 사양)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00112/Sheet1/000005",
+      "sourceBindingSha256": "dd08129b182b058d3038436a5839a0b90fb16df36282eacdc6f9f545b471d13b",
+      "sourceTextSha256": "c2c2e5756441c5c52c02341c5f7598cd240cfbd22261da490b01b6ba7f0caf88",
+      "freshTranslation": "사오토메 알토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00112/Sheet1/000006",
+      "sourceBindingSha256": "540de733618f73f262a2c7b886f337c2c6e98a19d4a01f43ccb5ac13380d3ef8",
+      "sourceTextSha256": "2572e66fded841894e8051004a48da384d5c8a067f8697986f35665f5784b3c5",
+      "freshTranslation": "VF-25 메사이어 시리즈의 전위용 기체. 그 배트로이드 모드에 토네이㊥도팩을 장비한 대기권외 사양. ㊥S. M. S에서는 알토가 본 기기에 탑승하고 있다. ㊥VF-25 메사이아는 최신예의 멀티롤 가변 전투기로, 신통합군이 개발한 시험㊥작기 YF-24를 베이스로, 민간 기업의 L. A. I사와 신성인더스트리사가 공동㊥개발한 기체이다. 군에서의 정식 배치 전의 평가 시험의 형태로 S. M. S에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00112/Sheet1/000007",
+      "sourceBindingSha256": "c501b35e74e64f5f629de0f5f5665cbaa79a4eb35df1716d119c1875394db70b",
+      "sourceTextSha256": "9b5a723227d4823c434987b153ee2db019b1ab0640610632f690579276b352d3",
+      "freshTranslation": "사용 ㊥있다. ㊥토네이도팩은 VF-25에 선회식 연장 빔포나 회전식 엔진 포드인 ㊥등을 추가 장비하는 최신예의 강화팩. 이 팩의 장비에 의해 공격력의 증강과 동㊥시에, 기동력,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00112/Sheet1/000008",
+      "sourceBindingSha256": "dac0dd8b7aab8c7c84c8361cf127b16166d4681e37f2238645d92100ab96f95f",
+      "sourceTextSha256": "30ad2ced101fd425374ab1e14eeebb8188035e6b5aed1dc34ad08bade7cf54a9",
+      "freshTranslation": "동성능도 대폭 향상된다. ㊥ 대기권 밖에서는 빔 생성 중심과 반응로의 냉각에 필요한 대기를 얻을 수 없기 때문에 연속 ㊥장 빔 유닛 후방의 냉각 유닛을 전개하여",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00112/Sheet1/000009",
+      "sourceBindingSha256": "a288083eb937c36d9cfcd5399ce1a29db82b7af312681f223b5199e5efae8c42",
+      "sourceTextSha256": "5a8963f5a39a4ea1dba88ec8dff855d09f8b9ea239964d8b6897ee5bffa673aa",
+      "freshTranslation": "사용한다. ㊥ 주요 무장으로 뒷면에 장착된 연장 빔포 외에 58mm 개틀링 감포㊥드, 마이크로 미사일 런처, 어설트 나이프 등이 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00112/Sheet1/000010",
+      "sourceBindingSha256": "290b57e33d4b6ac58485969c10cf05c11c0b84ad9cbcd42b27832c4fcc766c4b",
+      "sourceTextSha256": "3ccc5cbe3461de8b689cba4f1a81f1b42cb8307c1d4876f65af8c37b928bbaab",
+      "freshTranslation": "VF-25 메사이어 시리즈의 전위용 기체. 그 배트로이드 모드에 토네이㊥도팩을 장비한 대기권외 사양. ㊥S. M. S의 스컬 소대에 소속되어, 콜사인은 「스컬 4」. ㊥VF-25 메사이아는 최신예의 멀티롤 가변 전투기이다. 신통합군이 개발해 ㊥한 프로토타입 YF-24를 베이스로, 민간기업의 L. A. I사와 신성인더스트리사가 ㊥ 공동 개발한 기체로, S. M. S에 시험",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00112/Sheet1/000011",
+      "sourceBindingSha256": "7788f33ad3c87a6b64b77b7321a92d7f17e300eeeac28675cfdb4b5670ec52e8",
+      "sourceTextSha256": "5e84eff296954853df44f2957cf15073a62e535c54ff5c3f3356755bf8a1229c",
+      "freshTranslation": "용이라는 형태로 배치되어 있다. ㊥토네이도팩은 VF-25에 선회식 연장 빔포나 회전식 엔진 포드인 ㊥을 추가 장비하는 최신예의 강화팩. 이 팩의 장비에 의해 공격력의 증강과 동㊥시에, 기동력,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00112/Sheet1/000012",
+      "sourceBindingSha256": "2408325252c9ca7a512d2621b29e7de053491a6ca9d24e1b20d13f1b8db6c389",
+      "sourceTextSha256": "6cc69721a1c45812246b6e32197589c2b371abb1d935be0e4b0acfab0e5bdbc3",
+      "freshTranslation": "동성능도 대폭 향상된다. ㊥ 이 팩을 장착한 배트로이드 모드가 대기권 밖에서 동작하는 경우, 연장 빔유㊥ 니트 후부의 냉각 유닛을 꼬리처럼 전개한다. 이는 빔 생성 중심과 반응로 ㊥의 냉각에 필요한 대기를 얻을 수 없기 때문이다. 또한 주익 유닛에는",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00112/Sheet1/000013",
+      "sourceBindingSha256": "f6f1328cf3d070c68d65f4e0f5d05532d5314ea40fa5dceab65613257ec3385c",
+      "sourceTextSha256": "7dbc11e251e9ff68cb24338feb2347d0e9ba72986dd3df8eb63b9b1f618f550e",
+      "freshTranslation": "마이크로미㊥사일 포드를 장비한다. ㊥ 주요 무장으로 뒷면에 장착된 연장 빔포 외에 58mm 개틀링 감포㊥드, 마이크로 미사일 런처, 어설트 나이프 등이 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

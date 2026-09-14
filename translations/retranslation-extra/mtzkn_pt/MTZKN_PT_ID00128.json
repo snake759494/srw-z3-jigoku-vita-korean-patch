@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00128",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00128/Sheet1/000002",
+      "sourceBindingSha256": "f16a05b4174dd6bb96f8869d692ddb95a9037bd44bcc9dd3f2873a9d7796a716",
+      "sourceTextSha256": "918c304ec6259f1100a3692f990fafa10aee90828c8b00af87ca3027c97d3f17",
+      "freshTranslation": "워렌",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00128/Sheet1/000003",
+      "sourceBindingSha256": "6b204fc73bf330acd48eeb865e81c3b149421de19d2640401290295a6aded4bd",
+      "sourceTextSha256": "918c304ec6259f1100a3692f990fafa10aee90828c8b00af87ca3027c97d3f17",
+      "freshTranslation": "워렌",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00128/Sheet1/000004",
+      "sourceBindingSha256": "09c6604d58ee6d3db3e7b5ebc225a67ef595f71cd94f7b6921f9d581c54f897a",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00128/Sheet1/000005",
+      "sourceBindingSha256": "a54f3f7840a33c83af0d74737df2aacf1239d368bed96a46bb7e4f927913c404",
+      "sourceTextSha256": "c782d0d1214dd3a6718b5b384b761f0bcbaa84f042136c40b4edba337657bbe2",
+      "freshTranslation": "극중 영화 '솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00128/Sheet1/000006",
+      "sourceBindingSha256": "c8f61aafdb8a858e3ff5aeb7e77cf01b98f8882dfcfade90e813cb7fbcae11fa",
+      "sourceTextSha256": "c0db26b6ce8af4d2d2ac17e13c5f62da9daab6a609e001f764fd6cfce308d2bc",
+      "freshTranslation": "루비잉에 등장하는 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00128/Sheet1/000007",
+      "sourceBindingSha256": "a68cb153c0d1627291ae6bf985e20c5718902690050e58a2e2d98508ce4c1361",
+      "sourceTextSha256": "bc49b6c9418f800541d4456663fc50a9e3baaee03986e658e4f2580c5e8b544c",
+      "freshTranslation": "ー.㊥안경을 쓴 청년으로 케르디무 건담을 탄다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00128/Sheet1/000008",
+      "sourceBindingSha256": "da9824c04fe4cb96ad627b5fe06379e95c637df4458ce3a1fa49f7e26f0265d4",
+      "sourceTextSha256": "c782d0d1214dd3a6718b5b384b761f0bcbaa84f042136c40b4edba337657bbe2",
+      "freshTranslation": "극중 영화 '솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00128/Sheet1/000009",
+      "sourceBindingSha256": "5ad47c623b26ae5ba817c76794484a82b71b46a873c7adc222c83d006626cebf",
+      "sourceTextSha256": "c0db26b6ce8af4d2d2ac17e13c5f62da9daab6a609e001f764fd6cfce308d2bc",
+      "freshTranslation": "루비잉에 등장하는 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00128/Sheet1/000010",
+      "sourceBindingSha256": "50568188fb19e50411981c52205700859e9b4cec98b3689b8a1642e55cf3897e",
+      "sourceTextSha256": "bc49b6c9418f800541d4456663fc50a9e3baaee03986e658e4f2580c5e8b544c",
+      "freshTranslation": "ー.㊥안경을 쓴 청년으로 케르디무 건담을 탄다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

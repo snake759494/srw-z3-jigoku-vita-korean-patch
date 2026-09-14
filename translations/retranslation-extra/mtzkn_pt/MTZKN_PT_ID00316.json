@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00316",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00316/Sheet1/000002",
+      "sourceBindingSha256": "b1d46ec69ccc38dc42d02c3744b284d2d224c9a5a80c78044aab5e5605c30a9a",
+      "sourceTextSha256": "d76d2dbb399f6c36096c04591f986bfe6476c633a01b83d0c35678d7f5d9aa9e",
+      "freshTranslation": "다야카 리트너",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00316/Sheet1/000003",
+      "sourceBindingSha256": "4cf6c68a5df2af1ae7443e5906fa3f315e34a073a45b028f32da1bf6e73cf936",
+      "sourceTextSha256": "39a460490bca1560b6b238e0266c0a0904132fd917150b61af130589b5f1a4e1",
+      "freshTranslation": "다야카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00316/Sheet1/000004",
+      "sourceBindingSha256": "8ec762c3485d6ebf0069d4feda389ebc68dacb4c53ca8d9ab6951b17d9e6ce03",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00316/Sheet1/000005",
+      "sourceBindingSha256": "7978145d28bdd8a0060e35b1525e7586f90f533a47233328d0ffac5bc5911125",
+      "sourceTextSha256": "1e21ecd96fb66bc655db4cb1b8eb253a0a9a596ec1648e4b59759b2c53ff4ca7",
+      "freshTranslation": "나카무라 다이키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00316/Sheet1/000006",
+      "sourceBindingSha256": "0c9a023f0f5c204a7794c23ce3b6c686eb988ef8ec5ce335d8e7bb38c6441017",
+      "sourceTextSha256": "6af6622d4cd7c0af8908354ada6b59a76b14e777b13c0221ec5546c56866d263",
+      "freshTranslation": "대그렌단의 일원으로 신정부 식료국장. ㊥원래는 지하의 무기고였던 리트너 마을 출신으로, 온화한 인품이면서 전투 때는 적에게 ㊥ 용감하게 향하는 마을의 리더였다. ㊥대 글렌단에 합류하면, 당초는 애기다야카이저로, 나중에 다이글렌의 함장대㊥리가 되어 싸운다. 풍부한 전투 경험과 통율력으로 모두를 정리해, 항상 주위의 정신적 지㊥기둥이 되어 활약했다. ㊥ 평화를 손에 넣은 후 함께 격전을 빠져나온 키요와 결혼. 아이 보물에도 축복받아, 보다 책임㊥임감과 관록이 늘고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00316/Sheet1/000007",
+      "sourceBindingSha256": "2989103a45ab37ec9cdf128a56a0de0598ff2c257c5af1044153f315d74754fd",
+      "sourceTextSha256": "6ddfacdc8fad6ee3fb7c808111c5d4fb460a10092f0dd4a9d5766ead7efb1903",
+      "freshTranslation": "대그렌단의 일원으로 신정부 식료국장. ㊥원래는 지하의 무기고였던 리트너 마을 출신으로, 온화한 인품이면서 전투 때는 적에게 ㊥ 용감하게 향하는 마을의 리더였다. ㊥대 글렌단에 합류하면, 당초는 애기다야카이저로, 나중에 다이글렌의 함장대㊥리가 되어 싸운다. 풍부한 전투 경험과 통율력으로 모두를 정리해, 항상 주위의 정신적 지㊥기둥이 되어 활약했다. ㊥ 평화를 손에 넣은 후 함께 격전을 빠져나온 키요와 결혼. 아이 보물에도 축복받아, 보다 책임㊥임감과 관록이 늘고 있다. ㊥우주로 여행을 떠날 때에는 가족을 남기고 싸움에 가는 것에 대한 갈등이 있었지만, 키요에게 ㊥ 등을 밀려 결의를 굳힌다. 최종 결전 때에는 그 기요의 마음에 응하는 '내 ㊥ 아내는 우주 1 스윙'에서 안티 스파이럴과 교차했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

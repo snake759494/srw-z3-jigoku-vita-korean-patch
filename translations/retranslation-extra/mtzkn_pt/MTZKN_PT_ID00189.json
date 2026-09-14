@@ -1,0 +1,291 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00189",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000002",
+      "sourceBindingSha256": "5bf7e223b019d7d6dbf779e4f55c3f9addcc203df0684a59f9c8f70f4d6484ef",
+      "sourceTextSha256": "4073b29d4a1e82ff650355db6dfc435004a48401464fe8f5ab7abd7c65e795a2",
+      "freshTranslation": "유룡마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000003",
+      "sourceBindingSha256": "b25c761a2489927e49f95f6fde80ac9a5f8d669ced49e54b997bd42584f7b32a",
+      "sourceTextSha256": "9f0da37da6231fe1700a550ab895c7f8652c66f053955289a72595e74ad8e9f2",
+      "freshTranslation": "류마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000004",
+      "sourceBindingSha256": "811de9c665abb5affa7c9637cdfcd93f3d2dd3c7475cbc1ada96896bbf963ed1",
+      "sourceTextSha256": "2e50e921e3c7b75fbcf433d1563a8398e58c77dd78a57ca4d82d5572435bab13",
+      "freshTranslation": "(체인지!)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000005",
+      "sourceBindingSha256": "425d31c0e1a30da81883b575646cd0ba63c5db0119d93f39b5f321612c0aa6f6",
+      "sourceTextSha256": "7c3cb5cb2ef14de63eec14acd214053a7f20637efe0ffd4631309ea46fb1a51d",
+      "freshTranslation": "- 로보 세계 마지막 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000006",
+      "sourceBindingSha256": "67f000a50651819b9319c1e7e025ce1a0021c8de1608faaf54812d6fdd8cbb2d",
+      "sourceTextSha256": "8a49d11bfe2d35fe807c0840a6c9346c78ae1d94842cfc639e846d8b5890bef2",
+      "freshTranslation": "이시카와 히데로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000007",
+      "sourceBindingSha256": "e83906e1a520e7f0f74038aaffd6e3bb837aa540ccaed1f6c2acdcb9c7837775",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000008",
+      "sourceBindingSha256": "95591f72ba32172a8a206854dadf969b4574f4956852145858355ec0913a32b5",
+      "sourceTextSha256": "8be03f62e5aedf2f8c30879f7abdd5404ca26af13fb0cf806cb296bc5158c4e6",
+      "freshTranslation": "- 팀의 리더. ㊥ 성격은 단기로 기세 맡기고 호전적. 사오토메 박사를 「지지이」라고 부르는 등 매우 입이 악㊥이다. 문제가 많은 사람이지만 뛰어난 체력과 정신력을 가진 무술가이며,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000009",
+      "sourceBindingSha256": "0dbfd22c77752d34d324d550a3c5f734838c97f4ef05b624f8f01cbc5ba00193",
+      "sourceTextSha256": "8729afbcd985eacdbf33fc3a3858894628c73121c1ede43080de930863d0f6d8",
+      "freshTranslation": "ー㊥로보의 파일럿으로서는 이 이상 없는 인재.㊥달 세계 전쟁에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000010",
+      "sourceBindingSha256": "41567fdeb457bf474e9a05b47d07efe08ddfa2c239493cc9aa3d6b98ac064475",
+      "sourceTextSha256": "b655ad33f2795042ca438d0ce2db9fc0c7726d85c934bd271f5bfffed79f1f70",
+      "freshTranslation": "-1을 타고 슈퍼로봇군단의 선두에 서 있다. 그 ㊥의 사자 분신의 싸움 만으로 인베이더 전멸에 공헌해, 당시는 영웅적인 존재였다. ㊥ 사오토메 박사 살해의 범인으로 투옥되었지만, 인베이더와 함께 사오토메 박사가 ㊥ 나타났기 때문에 박사를 말살하는 것을 조건으로 가석방되었다. ㊥ 그 때, 과거의 동료인 하야토, 무사시, 그리고 수수께끼의 남자·호와 협력해 박사를 쫓아 ㊥ 포장도 일본에 발사된 시게요코 미사일을 멈출 수 없어 세계는 괴멸. ㊥ 류마는 그 후 13년간 행방불명이 되어 버린다. ㊥ 시간과 공간을 넘어 달에 버려진 게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000011",
+      "sourceBindingSha256": "175c8a5a2719a39d3a76190ad7783dcc4636bf8805c6fe053748f7c94f76717e",
+      "sourceTextSha256": "693834b711778160fe583f853e5d0a45fbffe80905765696dc324e75240ced05",
+      "freshTranslation": "로보의 조종석에서 깨어나자 스스로 ㊥의 손으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000012",
+      "sourceBindingSha256": "6a31c6841e59751e955c232555bdcb8256fe114001a244babc306e16ee2f9a0f",
+      "sourceTextSha256": "dd5d2d3db4648e0b1c9203bd8ed7566afe959f8474af6debe0b313e9098e0942",
+      "freshTranslation": "- 로보를 개수하여 지구로 귀환. 대기와의 마찰열로 기체색이 검게 된 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000013",
+      "sourceBindingSha256": "66f4fc7003ca7b556c7ce02faedea2a65a837454761b3240d192443eeb3970c2",
+      "sourceTextSha256": "99590897eb6c639328521113741a8b03a331513be5527a9de5956a8667034571",
+      "freshTranslation": "를 달려, 인베이더와 싸웠다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000014",
+      "sourceBindingSha256": "90de5801fea5a23494aa7b8f337941d3e5f9218eaaf0cdc52f5f5832bff9901d",
+      "sourceTextSha256": "e64010eadff552e62d96504b657a73f7bc89efdabc9a08a382aa58ade6e9ae0c",
+      "freshTranslation": "드래곤의 각성으로 호가 전선을 떠난 후 하야토, 벤케이와 함께",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000015",
+      "sourceBindingSha256": "6aa789a5e2019db48df7d10283e47142ee152a7d2d9d6623cf89bba04f946639",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000016",
+      "sourceBindingSha256": "91a76d2d18bedfa825f74e043ee6f6c3bb747ec80be38b5c75b0d74b0565fcaf",
+      "sourceTextSha256": "497f18e768673b64bc1218a55c24076371d1be3bc1adf35a75ccd8bfdbf4704d",
+      "freshTranslation": "ー㊥에 탑승했다.㊥사오토메 박사와의 결착을 한 후 우주로 올라가 은하계 전체를 손에 넣으려고㊥인베이더와의 사투를 펼쳤다.㊥마지막은 미래 영구에 이을 때의 틈에서의 싸움에 몸을 던지고, 다른 차원으로 여행하는 것이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000017",
+      "sourceBindingSha256": "398186fec4eab087b7d41023fa03d3bcfa66f8387d05cce63a75a2921e9a1717",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000018",
+      "sourceBindingSha256": "daead56cb0f738139f26a0404c1dae1248f913f3c35fdb2386b55ac4a552e618",
+      "sourceTextSha256": "8be03f62e5aedf2f8c30879f7abdd5404ca26af13fb0cf806cb296bc5158c4e6",
+      "freshTranslation": "- 팀의 리더. ㊥ 성격은 단기로 기세 맡기고 호전적. 사오토메 박사를 「지지이」라고 부르는 등 매우 입이 악㊥이다. 문제가 많은 사람이지만 뛰어난 체력과 정신력을 가진 무술가이며,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000019",
+      "sourceBindingSha256": "9d2c746ea5092ca2b018b7f232d4d3a7b41bab649748022aed2afbf54c889abf",
+      "sourceTextSha256": "8729afbcd985eacdbf33fc3a3858894628c73121c1ede43080de930863d0f6d8",
+      "freshTranslation": "ー㊥로보의 파일럿으로서는 이 이상 없는 인재.㊥달 세계 전쟁에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000020",
+      "sourceBindingSha256": "4c3232dad0d04c3cfac771262e6ade918d3260d69cf18e1702d8da970be084f4",
+      "sourceTextSha256": "b655ad33f2795042ca438d0ce2db9fc0c7726d85c934bd271f5bfffed79f1f70",
+      "freshTranslation": "-1을 타고 슈퍼로봇군단의 선두에 서 있다. 그 ㊥의 사자 분신의 싸움 만으로 인베이더 전멸에 공헌해, 당시는 영웅적인 존재였다. ㊥ 사오토메 박사 살해의 범인으로 투옥되었지만, 인베이더와 함께 사오토메 박사가 ㊥ 나타났기 때문에 박사를 말살하는 것을 조건으로 가석방되었다. ㊥ 그 때, 과거의 동료인 하야토, 무사시, 그리고 수수께끼의 남자·호와 협력해 박사를 쫓아 ㊥ 포장도 일본에 발사된 시게요코 미사일을 멈출 수 없어 세계는 괴멸. ㊥ 류마는 그 후 13년간 행방불명이 되어 버린다. ㊥ 시간과 공간을 넘어 달에 버려진 게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000021",
+      "sourceBindingSha256": "11df19bdafaa16c62b0d3364e304c0efa104e9a6268af72f480bbe01f395adc1",
+      "sourceTextSha256": "693834b711778160fe583f853e5d0a45fbffe80905765696dc324e75240ced05",
+      "freshTranslation": "로보의 조종석에서 깨어나자 스스로 ㊥의 손으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000022",
+      "sourceBindingSha256": "30ca4ca1b8cc06334b658434131c68b1494d250d8431b197002f775260e05eae",
+      "sourceTextSha256": "dd5d2d3db4648e0b1c9203bd8ed7566afe959f8474af6debe0b313e9098e0942",
+      "freshTranslation": "- 로보를 개수하여 지구로 귀환. 대기와의 마찰열로 기체색이 검게 된 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000023",
+      "sourceBindingSha256": "8e6d146820d25f76c634e51564f7d5719558c1a9727f48f6023bd77f1dae5c82",
+      "sourceTextSha256": "99590897eb6c639328521113741a8b03a331513be5527a9de5956a8667034571",
+      "freshTranslation": "를 달려, 인베이더와 싸웠다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000024",
+      "sourceBindingSha256": "125d6946c143569559f848f047b11c14649bd7bfa37dd65a2ff838df187a255a",
+      "sourceTextSha256": "e64010eadff552e62d96504b657a73f7bc89efdabc9a08a382aa58ade6e9ae0c",
+      "freshTranslation": "드래곤의 각성으로 호가 전선을 떠난 후 하야토, 벤케이와 함께",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000025",
+      "sourceBindingSha256": "a45a96291cb670b4846f26d39371fc456565cc3baf6d2e89ff196670f45036e9",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00189/Sheet1/000026",
+      "sourceBindingSha256": "1c6d8926075d8c8f82ffb2f43cdc2475bec4b2443b617325d34c1a8b4de5c028",
+      "sourceTextSha256": "497f18e768673b64bc1218a55c24076371d1be3bc1adf35a75ccd8bfdbf4704d",
+      "freshTranslation": "ー㊥에 탑승했다.㊥사오토메 박사와의 결착을 한 후 우주로 올라가 은하계 전체를 손에 넣으려고㊥인베이더와의 사투를 펼쳤다.㊥마지막은 미래 영구에 이을 때의 틈에서의 싸움에 몸을 던지고, 다른 차원으로 여행하는 것이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

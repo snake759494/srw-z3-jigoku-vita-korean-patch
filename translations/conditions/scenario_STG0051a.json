@@ -1,0 +1,95 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0051a",
+    "fileName": "STG0051a.cpk",
+    "target": "DATA/STAGE/STG0051a.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "a7c03a7ba7bc84e6361d420bd1e0185f4576027498ef56750bca774a10d8fe5d"
+  },
+  "entries": [
+    {
+      "entryId": "STG0051a/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "벡·빅토리·디럭스의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0051a/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "로저의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0051a/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "???",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0051a/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "적의 전멸",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0051a/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0051a/ID00001/OPERATE_TBL/str_tbl/005",
+      "sourceId": 5,
+      "translation": "로저 또는 주인공의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0051a/ID00001/OPERATE_TBL/str_tbl/006",
+      "sourceId": 6,
+      "translation": "1회의 공격으로 빅듀오(슈발츠)를 격추시킨다\n단,슈발츠로부터의 공격을 방어 또는 회피한 경우는\n「공격」으로 간주되지 않는다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00002",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00002/Sheet1/000002",
+      "sourceBindingSha256": "3296d0cc23f9dd152443ec80fe42f98107732488b3681d022cea561d17bc6f69",
+      "sourceTextSha256": "e1e9e0b84eeee3851fabe37b9454e9806bc3af05b21708f77c34fd462a29a992",
+      "freshTranslation": "어비스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00002/Sheet1/000003",
+      "sourceBindingSha256": "df1db1c1121410fc221ae00ecf2e128305ab49de3d1611b6b0987286b506b52c",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00002/Sheet1/000004",
+      "sourceBindingSha256": "e8bdc1e6e647ce150ac7e1e8d22476df6e3ce5622093dfd7b7bb091445081650",
+      "sourceTextSha256": "82924e310564e3df93c70c64124256f09f9d585f230d9b26d18a23975c48e7a5",
+      "freshTranslation": "재세전쟁의 종반에 아이임 라이어드의 손에 의해 출현한 차원의 구멍으로, 병㊥행 세계간을 연결하고 있다. ㊥ 구멍의 상태는 은하의 별",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00002/Sheet1/000005",
+      "sourceBindingSha256": "8f6e4073fd9b157eb5d1d58e990bc7552b7e62245954bb33e94e64103574b171",
+      "sourceTextSha256": "6511fff54982ffce3dbb66444b9dfd2eb8054222333ec075b04a1f75f9f28c72",
+      "freshTranslation": "행과 밀접하게 관련되어 있어 출현시에는 ADW와 ㊥UCW를 연결하고 있었다. ㊥ 재세전쟁이 종결된 후, ZEUTH의 멤버들은 자신의 원래 세계의 UCW㊥로 귀환하기 위해 어비스를 사용했다. ㊥ 그 당시의 계산에서는, 다시 어비스의 상태는 불안정해지고, UCW와 ADW가 ㊥ 재접속되는 것은, 약 1년 후로 되어 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00002/Sheet1/000006",
+      "sourceBindingSha256": "add453bcb3da4510c290a7bfc0018ecdf3f6aa28258c9af28b3d7bc463ae8be5",
+      "sourceTextSha256": "82924e310564e3df93c70c64124256f09f9d585f230d9b26d18a23975c48e7a5",
+      "freshTranslation": "재세전쟁의 종반에 아이임 라이어드의 손에 의해 출현한 차원의 구멍으로, 병㊥행 세계간을 연결하고 있다. ㊥ 구멍의 상태는 은하의 별",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00002/Sheet1/000007",
+      "sourceBindingSha256": "f8f09a9a514d520bb0dcfe9e98d93cbcc23b13e837554e5029fb10f97c4d003d",
+      "sourceTextSha256": "6511fff54982ffce3dbb66444b9dfd2eb8054222333ec075b04a1f75f9f28c72",
+      "freshTranslation": "행과 밀접하게 관련되어 있어 출현시에는 ADW와 ㊥UCW를 연결하고 있었다. ㊥ 재세전쟁이 종결된 후, ZEUTH의 멤버들은 자신의 원래 세계의 UCW㊥로 귀환하기 위해 어비스를 사용했다. ㊥ 그 당시의 계산에서는, 다시 어비스의 상태는 불안정해지고, UCW와 ADW가 ㊥ 재접속되는 것은, 약 1년 후로 되어 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

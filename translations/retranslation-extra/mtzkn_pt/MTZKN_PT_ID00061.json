@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00061",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00061/Sheet1/000002",
+      "sourceBindingSha256": "db3a87d296557f63f46c90bdc0a25004329a617609485204a39b67a22a39449d",
+      "sourceTextSha256": "b99e78ad57a3f7955c35b6dc7afe4ed2e3c8163176bd04ff52f9dffe6b130648",
+      "freshTranslation": "하만 칸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00061/Sheet1/000003",
+      "sourceBindingSha256": "b0701b0889bc69eca4aad64c428814ce8ee61191e7ba74536e9a66c3ab0b88fe",
+      "sourceTextSha256": "c799af3b0540386742f6513e1d711f308d869dd0d4ddd11ade1013144d7428f9",
+      "freshTranslation": "하만",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00061/Sheet1/000004",
+      "sourceBindingSha256": "d51ad31e5798c1e8481695c5323a6e02b4769caf6de3ada34f2ef2e0170b6530",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00061/Sheet1/000005",
+      "sourceBindingSha256": "8ff24e6e26dfa4b3e9e4b9222a4a770768de2b6595b36ed57027e1a61464039a",
+      "sourceTextSha256": "41ae3c90d14c6bb95c8121ba723826385520a0c3a1aad284e299444f6d50a260",
+      "freshTranslation": "사카키하라 료코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00061/Sheet1/000006",
+      "sourceBindingSha256": "83d5f4f4cde01799f1b1e08f7bfb75e240d4c60bebb68297e3ff9ee21b266348",
+      "sourceTextSha256": "ec3db5c9e2efb7ff9c9f9f99d5c9676410f279af4f99162f42308494b1af9768",
+      "freshTranslation": "지온 공국군의 잔당이 모이는 자원 소행성 액시즈의 섭정. ㊥ 도즐 자비의 잊혀진 형태인 8세의 미네바를 옹립해, 사실상의 지도자로서 아크㊥ 시즈 전군을 이끌었다. ㊥ 성격은 가혹하게 해 냉혹. 지온 재흥을 내걸고 아스테로이드에서 암컷 때를 보내고 ㊥ 액시즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00061/Sheet1/000007",
+      "sourceBindingSha256": "b8bf6c00705e795dec40689abff71e143f7a041b2e166cecc6a90e3d75181670",
+      "sourceTextSha256": "4faed510d7fcfd2f1ed9a06fbf00c43474875aff6b44d036ad0ea483af6f626c",
+      "freshTranslation": "네즈와 에우고에 필적하는 일대 세력으로 밀어 올린 높은 정치적 손㊥팔을 가진다. ㊥ 또한 매우 우수한 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00061/Sheet1/000008",
+      "sourceBindingSha256": "1ef6d45068d52cda2850d7b84796b0b1265f50dd8185eb93896eb23ed6a3ee81",
+      "sourceTextSha256": "a9ac6a7ca7d780f7fef5b3a407a66cb2edb15d00574dcca2e1b217fe863b4087",
+      "freshTranslation": "입으로 전용기 큐베레이를 달려 전장에서는 압도적 ㊥인 역량을 보여준다. ㊥ 콰트로는 과거에 인연이 있어 사랑과도 증오라고도 할 수 있는 복잡한 감정을 안고 있다. ㊥ 그립스 2에서의 싸움에서는, 일기 토벌의 끝에 콰트로의 백식이 폭발에 삼켜졌을 때 ㊥에, 외로움에 그 마음속을 중얼거렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00061/Sheet1/000009",
+      "sourceBindingSha256": "e5e60c86bebd7129b06de38b88f6be91927eae1de6964d5d6a00a0c9cc42ba39",
+      "sourceTextSha256": "ec3db5c9e2efb7ff9c9f9f99d5c9676410f279af4f99162f42308494b1af9768",
+      "freshTranslation": "지온 공국군의 잔당이 모이는 자원 소행성 액시즈의 섭정. ㊥ 도즐 자비의 잊혀진 형태인 8세의 미네바를 옹립해, 사실상의 지도자로서 아크㊥ 시즈 전군을 이끌었다. ㊥ 성격은 가혹하게 해 냉혹. 지온 재흥을 내걸고 아스테로이드에서 암컷 때를 보내고 ㊥ 액시즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00061/Sheet1/000010",
+      "sourceBindingSha256": "3f2b071c68a55103b74dd8ee06a857d54ede937246b2aaae73d3b6861f40f2f5",
+      "sourceTextSha256": "4faed510d7fcfd2f1ed9a06fbf00c43474875aff6b44d036ad0ea483af6f626c",
+      "freshTranslation": "네즈와 에우고에 필적하는 일대 세력으로 밀어 올린 높은 정치적 손㊥팔을 가진다. ㊥ 또한 매우 우수한 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00061/Sheet1/000011",
+      "sourceBindingSha256": "0d8c85644d7ba2799ed6a9e8fcf1d095e18dc5b5987b8ffdfaba2c04e50bc0ff",
+      "sourceTextSha256": "a9ac6a7ca7d780f7fef5b3a407a66cb2edb15d00574dcca2e1b217fe863b4087",
+      "freshTranslation": "입으로 전용기 큐베레이를 달려 전장에서는 압도적 ㊥인 역량을 보여준다. ㊥ 콰트로는 과거에 인연이 있어 사랑과도 증오라고도 할 수 있는 복잡한 감정을 안고 있다. ㊥ 그립스 2에서의 싸움에서는, 일기 토벌의 끝에 콰트로의 백식이 폭발에 삼켜졌을 때 ㊥에, 외로움에 그 마음속을 중얼거렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

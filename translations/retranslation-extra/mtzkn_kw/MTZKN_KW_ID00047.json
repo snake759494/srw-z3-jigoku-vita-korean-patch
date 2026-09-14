@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00047",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00047/Sheet1/000002",
+      "sourceBindingSha256": "8f545a029dd864a5b720f5bb857da457d247ce08e1d7690edc4e266bd2d30fa9",
+      "sourceTextSha256": "eeadf3334db4bb3f58aaf797a75b03336c275cfe7bc255efd066230b1d241f7c",
+      "freshTranslation": "오컬트 포럼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00047/Sheet1/000003",
+      "sourceBindingSha256": "d60d3898059628db34860079adb8a6bd5081749c59257be4e78ac97b034f944c",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00047/Sheet1/000004",
+      "sourceBindingSha256": "eaca2a33517e04b75631c43edacb4a5b38f34352a2a8470e994394296d8da400",
+      "sourceTextSha256": "bbadc8ee19823f9262981ea3b52e6ce91ad8b166ac90040321b89460d2d86999",
+      "freshTranslation": "다양한 오컬트 정보를 취급하는 UN상의 사이트. ㊥ 이 장르에서는 최대 규모를 자랑하며, UMA부터 이차원 사람, 도시 전설, 신화 ㊥전기까지 다양한 화제로 밤낮으로 분위기가 고조되고 있다. ㊥ 취급하고 있는 분야가 분야에만 화제의 신빙성에는 부족하고, 서리가 내리거나 확산의 확산 ㊥ 등을 목적으로 한 인간도 적지 않다. 그러나 그 안에서 스스로의 연구나 자설을 발㊥ 나타내며 견식을 넓히려고 하는 인간도 존재하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00047/Sheet1/000005",
+      "sourceBindingSha256": "9b22ff1e6d429bb4a61e5b655620132f7ec5117e4e55a5a0913be25466bf4939",
+      "sourceTextSha256": "bbadc8ee19823f9262981ea3b52e6ce91ad8b166ac90040321b89460d2d86999",
+      "freshTranslation": "다양한 오컬트 정보를 취급하는 UN상의 사이트. ㊥ 이 장르에서는 최대 규모를 자랑하며, UMA부터 이차원 사람, 도시 전설, 신화 ㊥전기까지 다양한 화제로 밤낮으로 분위기가 고조되고 있다. ㊥ 취급하고 있는 분야가 분야에만 화제의 신빙성에는 부족하고, 서리가 내리거나 확산의 확산 ㊥ 등을 목적으로 한 인간도 적지 않다. 그러나 그 안에서 스스로의 연구나 자설을 발㊥ 나타내며 견식을 넓히려고 하는 인간도 존재하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

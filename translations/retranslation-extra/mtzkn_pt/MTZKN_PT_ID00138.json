@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00138",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00138/Sheet1/000002",
+      "sourceBindingSha256": "d7f9be9fd698af869689041a76b053cea189ce830a277c50e1f8705637eec7d7",
+      "sourceTextSha256": "09591b4d52b42dd2671f5d5b15821915d3c0b2a0c0b9e4d3ccd341246c2bb680",
+      "freshTranslation": "콘로이 하겐센",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00138/Sheet1/000003",
+      "sourceBindingSha256": "24ed3fe8ea60ac6664250c4543098af54044c0e4be34112b1c562c1306a3691d",
+      "sourceTextSha256": "c7ddfff736456fad1a4c5f27a1b6efc6638970cd57be2c9250915c328539deb4",
+      "freshTranslation": "콘로이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00138/Sheet1/000004",
+      "sourceBindingSha256": "2ff7b50c420bea868bcc78d403a9208c2f11625a4a8c985ed8d2b59e1efbb9b7",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00138/Sheet1/000005",
+      "sourceBindingSha256": "2b60b9164603b96d62f23ac48d332bd82ab61c30938fd2e925a424a722b9a330",
+      "sourceTextSha256": "063b64e5d2c949bce4b74e6f99415d171d220fce6e11a9809dd577da92a9869a",
+      "freshTranslation": "에코즈 920 부대의 부사령. 계급은 소령. 35세. ㊥ 다그자의 좋은 한 팔로 활약한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00138/Sheet1/000006",
+      "sourceBindingSha256": "d3d567a34b88c8de0e94791a2647545d8a4a3e0b79ca7254b33d32e54b8fae6e",
+      "sourceTextSha256": "5d0c91734216ddde5a1c69d6c5636750c8d22948c516a6f2b4b79bdda563abc4",
+      "freshTranslation": "에코즈 920 부대의 부사령. 계급은 소령. 35세. ㊥ 다그자의 좋은 한 팔로 활약한다. ㊥ 다그자의 사후는 대사령을 대행하게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

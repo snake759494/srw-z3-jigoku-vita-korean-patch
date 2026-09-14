@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00115",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00115/Sheet1/000002",
+      "sourceBindingSha256": "c15e79896b382da2273c949594170234d3d14c9eb7e64bd07ef1afe3a640f901",
+      "sourceTextSha256": "8e7703b9a15bbce562c11eac0aa25e1544caf4ec7b578907d3002e3adca94e0c",
+      "freshTranslation": "그레이엄 에이커",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00115/Sheet1/000003",
+      "sourceBindingSha256": "b2de7c90cba75111dcf7eda693d96d47860361cff110d505f2c4306d9eb976ec",
+      "sourceTextSha256": "38e87501decf330d98a396899bdd36bb0954bc7f7bf3753a09a10dffa796d79e",
+      "freshTranslation": "그레이엄",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00115/Sheet1/000004",
+      "sourceBindingSha256": "f2ec9ae8a2dca36cca8f0b6f1d1dee0de820269e412faeaaef9b77437baaf469",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00115/Sheet1/000005",
+      "sourceBindingSha256": "85cf739d1c116999a57b6a7e675a915b4a0fed651528962a0265ab7bb2a34242",
+      "sourceTextSha256": "c1c1945c104b5f3bf9f2a076f6f2affb7d043abf00d53a2524dbf48df1fd5a6c",
+      "freshTranslation": "나카무라 유이치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00115/Sheet1/000006",
+      "sourceBindingSha256": "d916da333d59f4a8eb1a57faa75f5e995eba6ed295611e850692a77231703513",
+      "sourceTextSha256": "80e8022e5650e1e416e776b40ba70e003ffa4f3c494ce09d1c7a974b9b348cc2",
+      "freshTranslation": "지구 연방군 소속의 파일럿. 34세. 계급은 소령. ㊥ 유니온, 어로우즈에 소속되어 있던 경력을 가진다. ㊥엑시아의 첫 전투를 본 이후, 그 성능에 매료되어 건담과 겹치는 전투를 시도 ㊥하게 된다. ㊥ 알로우즈에 소속되어 있었을 무렵에는 싸움 속에서 부하를 잃고 패배를 거듭했기 때문에 암㊥ 댐 타도만을 살 목적으로 정체를 숨기면서 건담을 쫓고 있었다. 사무라이의 ㊥ 같은 가면을 붙여 시대 착오의 발언을 반복하는 것으로부터, 실수",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00115/Sheet1/000007",
+      "sourceBindingSha256": "a861ef9ecbf99b589596cb66f7f6ed1478fea1a2483f6feb7edf66a0b58bc106",
+      "sourceTextSha256": "ee4bbf3cd9a8c22efbc0d432f9281e828a66cc05702f85eadd09dadf897be70c",
+      "freshTranslation": "- 부시도라고 ㊥하지만, 본인은 그 이름을 즐겁게 생각하지 않았다. ㊥ 극히 뛰어난 조종 기술을 가지고 있으며, 어로우즈에서는 얼마 안되는 인간의 라이센서 ㊥이며, 건담 모두 기체 성능 차이를 메워 호각 이상의 싸움을 펼쳤다. ㊥건담을 달리는 세츠나와의 과목을 바라며, 이노베이드의 괴롭힘과 성취한 자신을 인정㊥식식해도, 그 마음을 관통한다. ㊥순수종이 된 세츠나에게 패해 스스로 생명을 끊으려고 하지만, 세츠나의 말에 마음껏 ㊥하고, 종전 후는 지구 연방군에 소속. 솔브레이브스대의 대장을 맡고 있다. ㊥ 연극이 걸린 독특한 어조가 특징이었지만, 과거의 경험을 양식으로 하고, 안에 숨긴 강한 ㊥ 의지와 이지적인 태도로 일에 해당한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00115/Sheet1/000008",
+      "sourceBindingSha256": "53aba17b29bcecd48cb686af25a539dc3604592b5651efebea30079a926a0964",
+      "sourceTextSha256": "80e8022e5650e1e416e776b40ba70e003ffa4f3c494ce09d1c7a974b9b348cc2",
+      "freshTranslation": "지구 연방군 소속의 파일럿. 34세. 계급은 소령. ㊥ 유니온, 어로우즈에 소속되어 있던 경력을 가진다. ㊥엑시아의 첫 전투를 본 이후, 그 성능에 매료되어 건담과 겹치는 전투를 시도 ㊥하게 된다. ㊥ 알로우즈에 소속되어 있었을 무렵에는 싸움 속에서 부하를 잃고 패배를 거듭했기 때문에 암㊥ 댐 타도만을 살 목적으로 정체를 숨기면서 건담을 쫓고 있었다. 사무라이의 ㊥ 같은 가면을 붙여 시대 착오의 발언을 반복하는 것으로부터, 실수",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00115/Sheet1/000009",
+      "sourceBindingSha256": "fbf703f6ea851c4fc7b5740a061d0723c4e553d1eef0af98339a74de9c93160e",
+      "sourceTextSha256": "ee4bbf3cd9a8c22efbc0d432f9281e828a66cc05702f85eadd09dadf897be70c",
+      "freshTranslation": "- 부시도라고 ㊥하지만, 본인은 그 이름을 즐겁게 생각하지 않았다. ㊥ 극히 뛰어난 조종 기술을 가지고 있으며, 어로우즈에서는 얼마 안되는 인간의 라이센서 ㊥이며, 건담 모두 기체 성능 차이를 메워 호각 이상의 싸움을 펼쳤다. ㊥건담을 달리는 세츠나와의 과목을 바라며, 이노베이드의 괴롭힘과 성취한 자신을 인정㊥식식해도, 그 마음을 관통한다. ㊥순수종이 된 세츠나에게 패해 스스로 생명을 끊으려고 하지만, 세츠나의 말에 마음껏 ㊥하고, 종전 후는 지구 연방군에 소속. 솔브레이브스대의 대장을 맡고 있다. ㊥ 연극이 걸린 독특한 어조가 특징이었지만, 과거의 경험을 양식으로 하고, 안에 숨긴 강한 ㊥ 의지와 이지적인 태도로 일에 해당한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

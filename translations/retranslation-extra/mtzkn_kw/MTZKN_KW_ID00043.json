@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00043",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00043/Sheet1/000002",
+      "sourceBindingSha256": "5eda095328fb2b32de9ff0029b456740c0c64736806e535d861722bf7b5e77f0",
+      "sourceTextSha256": "aee5b56cb210bf6953fdd735f429e68d683f47b6b6bc0334ca4907dc6acfd346",
+      "freshTranslation": "인혁련",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00043/Sheet1/000003",
+      "sourceBindingSha256": "675c17669acd31e5f36e66c625b4d7456eed238b64283a66e7c240051010a2c0",
+      "sourceTextSha256": "7669c78573db7851e69684ca226465fd07fe9556c10d361219f1dde2c7e809ab",
+      "freshTranslation": "「극장판 기동전사 건담 00-AwakeningofftheTrailblazer-」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00043/Sheet1/000004",
+      "sourceBindingSha256": "d527b05fdb0e56ee7981247e8189bfa9a59fa87933e92b61c26fd9a674d951f7",
+      "sourceTextSha256": "c8a302c9c2a685d3623d272e0e0100d1adb1c9640a0f02c92efdb4af6516dd1b",
+      "freshTranslation": "정식 명칭은 인류혁신연맹. ㊥ 지구 연방 탄생 전 3대 국가 중 하나로 중국, 러시아, 인도가 중심이 된 ㊥연합. ㊥ 이 인혁련의 연구기관 '초인기관'에서 뇌양자파를 사용하는 병사 '초병'이 ㊥ 낳고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00043/Sheet1/000005",
+      "sourceBindingSha256": "ac668a1d283e16241b62ec358b521471182e99bc9b9550a342808061ab120a40",
+      "sourceTextSha256": "c8a302c9c2a685d3623d272e0e0100d1adb1c9640a0f02c92efdb4af6516dd1b",
+      "freshTranslation": "정식 명칭은 인류혁신연맹. ㊥ 지구 연방 탄생 전 3대 국가 중 하나로 중국, 러시아, 인도가 중심이 된 ㊥연합. ㊥ 이 인혁련의 연구기관 '초인기관'에서 뇌양자파를 사용하는 병사 '초병'이 ㊥ 낳고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00380",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00380/Sheet1/000002",
+      "sourceBindingSha256": "8026725d1ccf652b800365a062abf49b24a1737d80782e80df2def86cd4070ec",
+      "sourceTextSha256": "228747cce7a7fafe5b0d5712b87b995b8f156d3fe270d4c6dca535492e0096a6",
+      "freshTranslation": "진 무소",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00380/Sheet1/000003",
+      "sourceBindingSha256": "720968c0dfe8d0eddf8de462127651863c37099f5fa278bc6d9e0fdafec22355",
+      "sourceTextSha256": "1fb3bdcd78059b7fc5e7ca044905c5ad9c7c7b523f1eb1c349eaba5337789304",
+      "freshTranslation": "진",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00380/Sheet1/000004",
+      "sourceBindingSha256": "7b1631a087a73912806664ee3b3d0e4f6f5a1826deca901b3f718fa0f534e5b6",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00380/Sheet1/000005",
+      "sourceBindingSha256": "cdb70d5aaeabd334a3155fb01af910c4604cdc241a23905ff3fe4d8c28466fa4",
+      "sourceTextSha256": "c5ede044bfcefd6efca0e3b4a6e77ba586574e135235c18e38da5cb40ca85b42",
+      "freshTranslation": "후쿠시마 준",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00380/Sheet1/000006",
+      "sourceBindingSha256": "4a1980dae77c47bd21d16cdc31c35a96493669dc5bdf3d8b8c3bc180b93621ad",
+      "sourceTextSha256": "e9cb772449660fab6daf79571abe391697641576afe62dbc2c02b46d669b82fd",
+      "freshTranslation": "알테아의 마지막 아이로 불리는 소년. ㊥ 카그라와 달리 전자전을 자랑하는 두뇌파로 라디우스 구니스를 달린다. ㊥ 과거 전투의 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00380/Sheet1/000007",
+      "sourceBindingSha256": "bcc3cb9473c4a7bb9dcf90075a108ac2f3cf21b2de4f8ebfadd8a85e9a9991e4",
+      "sourceTextSha256": "1ec76c1a715187788de345558b0523799cf313c9b053b5467e7c4378ea5ed433",
+      "freshTranslation": "의 시뮬레이션을 반복해, 모든 사태를 상정한 다음에 전㊥아니 임한다. 그 철저하고 반죽된 작전에 의해, 네오디바는 몇번이나 궁지에 쫓아 ㊥ 들어갔다. ㊥ 그러나 프라이드의 높이도 있고, 예상치 못한 사태에 대한 대응력은 낮다는 단점도 있다. ㊥생신 여성에 관심이 없으며 여성",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00380/Sheet1/000008",
+      "sourceBindingSha256": "073e44b1f44f5e188ac1509c7b1e9f2fd21ecc5022b9ae3cfb29afec9d63a90f",
+      "sourceTextSha256": "12b2a04a9bfdae16ba81c1c8604211be3a980e906a6d9b858a8c4bed8d326c53",
+      "freshTranslation": "의 가상 아이돌을 사랑합니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00380/Sheet1/000009",
+      "sourceBindingSha256": "1efda9c17bdf1a3b49b37dd737bb88d064c93067aa112d3735aa005d7438b782",
+      "sourceTextSha256": "e9cb772449660fab6daf79571abe391697641576afe62dbc2c02b46d669b82fd",
+      "freshTranslation": "알테아의 마지막 아이로 불리는 소년. ㊥ 카그라와 달리 전자전을 자랑하는 두뇌파로 라디우스 구니스를 달린다. ㊥ 과거 전투의 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00380/Sheet1/000010",
+      "sourceBindingSha256": "f988ba30b5e6801c5ca3c51cc23fddb18b24a8c8b5df55f377eb4a7a123d9d4e",
+      "sourceTextSha256": "1ec76c1a715187788de345558b0523799cf313c9b053b5467e7c4378ea5ed433",
+      "freshTranslation": "의 시뮬레이션을 반복해, 모든 사태를 상정한 다음에 전㊥아니 임한다. 그 철저하고 반죽된 작전에 의해, 네오디바는 몇번이나 궁지에 쫓아 ㊥ 들어갔다. ㊥ 그러나 프라이드의 높이도 있고, 예상치 못한 사태에 대한 대응력은 낮다는 단점도 있다. ㊥생신 여성에 관심이 없으며 여성",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00380/Sheet1/000011",
+      "sourceBindingSha256": "f2381e9911239bc928cd005c951e2044303ed9f5a41f83d6e7335b48e34d8c04",
+      "sourceTextSha256": "f24992dbd92e4d9ee7886a3bb814db42c6358b77db3fe39fc4f51918fbe48b94",
+      "freshTranslation": "의 가상 아이돌을 사랑합니다. ㊥ 이즈모보다 아쿠아리온과 레어 이글러의 탐색을 명령받아 신분을 가짜 성천사㊥학원에 입학한다. ㊥ 처음에는 여성이 있는 생활에 익숙하지 않았지만, 똑같이 낯선 유노하와 ㊥ 말하면서 마음을 다니게 된다. 카그라가 네오디바를 공격해 온 것을 계기로 유㊥ 노하와 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00380/Sheet1/000012",
+      "sourceBindingSha256": "771c5217abc625aaeb7a78bd6d96c1cd5a6dc5d12625d600b2d6abfdcaa782f2",
+      "sourceTextSha256": "ed62ed85706c77cf6f0d9a7e1788d40b483fe16bb0bc7249441d32a7a6c6c56a",
+      "freshTranslation": "머신을 빼앗아 알테아에 귀환하려고 한다. 하지만, 유노하의 설득에 ㊥ 때문에 자신의 마음에 솔직해져, 엘리먼트의 일원으로서 아쿠에리온에 탑승해, 카그㊥라와 싸웠다. ㊥ 다른 멤버들로부터도 새로운 동료로 받아들여졌지만, 그 직후에 미카게의 생각㊥ 염체에 의해 생명을 빼앗겼다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

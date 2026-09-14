@@ -1,0 +1,96 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0058",
+    "fileName": "STG0058.cpk",
+    "target": "DATA/STAGE/STG0058.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "de5e9f4accc1a4336c8a1d55ce7fc708a23f05f11d7c6d19e8c7c62d7a732321"
+  },
+  "entries": [
+    {
+      "entryId": "STG0058/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "큐베레이 또는 시난주의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0058/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "6턴 아군 페이즈를 맞이한다",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0058/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0058/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "버나지 또는 다구자의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0058/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "5턴 이내에 큐베레이와 시난주 이외의 적을 격추하고,\n마지막에 큐베레이 또는 시난주를 격추시킨다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0058/ID00001/OPERATE_TBL/str_tbl/005",
+      "sourceId": 5,
+      "translation": "버나지의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0058/ID00001/OPERATE_TBL/str_tbl/006",
+      "sourceId": 6,
+      "translation": "???",
+      "conditionTypes": [
+        "win",
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

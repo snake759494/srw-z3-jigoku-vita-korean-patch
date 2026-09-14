@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00068",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00068/Sheet1/000002",
+      "sourceBindingSha256": "f420f00513d4cbb32c426788aeb613525dff1ad526e4b76708303594eb146294",
+      "sourceTextSha256": "7eaa2309053ff1a6c539bd338f92fd75bdf485cf0a3d5dfd0dfd50bdd24b6840",
+      "freshTranslation": "레슨 슈나이더",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00068/Sheet1/000003",
+      "sourceBindingSha256": "8c3c240876a610b8e1fcf63abb8b26a6ab3497b5a1c2dccd62f352171f9c1526",
+      "sourceTextSha256": "9f5ccb17125db43b157c96640c3c307cb488950d6d1de1104a151c804f1ea6d9",
+      "freshTranslation": "레슨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00068/Sheet1/000004",
+      "sourceBindingSha256": "93af21c4cb649edac645ec2fd8403d87b60595769110af5c2660e5f8dc810eeb",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00068/Sheet1/000005",
+      "sourceBindingSha256": "d78d61c0d954c3aa13a8371014ea45200191cef5f75c3c5e2790b849c3891638",
+      "sourceTextSha256": "363ebcb62a59aa6a4568c6454672bffdd3d3d018e434aba12fc06b23755d81e9",
+      "freshTranslation": "이쿠라 이치에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00068/Sheet1/000006",
+      "sourceBindingSha256": "795b5469c74b7c52c302ea28152a8c28d2d529a82a04c8a6b38b81352a9ee77b",
+      "sourceTextSha256": "6015181bcdb68360e941f1d190bed63210cf820afd3791773d8c07541caed02f",
+      "freshTranslation": "네오지온 소속의 파일럿. ㊥ 기라 도가 부대의 소대장을 맡아 탑승하는 기체를 파란의 퍼스널 컬러로 도장해 ㊥ 하고 있다. 높은 모빌 슈트 조종 기술을 자랑해, 소공을 싫어해, 모빌 슈트는 백병전이㊥메인으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00068/Sheet1/000007",
+      "sourceBindingSha256": "0260b0d15a12a39299afc979db1dbbde200b5eeecf86b17f114f88496a8f06c2",
+      "sourceTextSha256": "c9c9d7d4924938ba0193633640a2ebd998858d1725e443bede09cd96dc58fd79",
+      "freshTranslation": "사용되어야 한다는 생각을 가지고 있다. ㊥ 또한 강화 인간을 혐오하고 규네이에 닿는 일도 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00068/Sheet1/000008",
+      "sourceBindingSha256": "057dbb56c48b18160450c785fc1f40eeb0afba920bb60fcf2c529633e753a4f4",
+      "sourceTextSha256": "6015181bcdb68360e941f1d190bed63210cf820afd3791773d8c07541caed02f",
+      "freshTranslation": "네오지온 소속의 파일럿. ㊥ 기라 도가 부대의 소대장을 맡아 탑승하는 기체를 파란의 퍼스널 컬러로 도장해 ㊥ 하고 있다. 높은 모빌 슈트 조종 기술을 자랑해, 소공을 싫어해, 모빌 슈트는 백병전이㊥메인으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00068/Sheet1/000009",
+      "sourceBindingSha256": "a753d9f9d1d6927e623beb26ec016cd44ee4ba051fcb1c2c5d75619a9d506a30",
+      "sourceTextSha256": "22971676bc44161c9b0c409f4899ce4d7d967b88d1c55c39fa5ea2f114f5041d",
+      "freshTranslation": "사용되어야 한다는 생각을 가지고 있다. ㊥ 또한 강화 인간을 혐오하고 규네이에 닿는 일도 있었다. ㊥ 액시즈 공방전에서는 라 카이람을 공격하지만, 사이코 프레임의 보조를 받아 ㊥ 한 체인이 쏘는 대공포 불의 직격으로 전사한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

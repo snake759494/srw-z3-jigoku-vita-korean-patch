@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00115",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00115/Sheet1/000002",
+      "sourceBindingSha256": "bee97a07f1c22c3750eb121d480c4f81343456eb7ee26351ac88c9de266d5da0",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00115/Sheet1/000003",
+      "sourceBindingSha256": "4050a77db7126b05470f6598704b6b8aa539d6914eda4662e485d909571cd3e6",
+      "sourceTextSha256": "8e2bc063a0c93711b77a96230e98dff8a37519ee63225286aff1ff714df35f62",
+      "freshTranslation": "VF-25G 메사이어 F·TP",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00115/Sheet1/000004",
+      "sourceBindingSha256": "07b2a55f718ebdc9c3bb5d5b484618d886041a793d6b80c79e25cb9289bf6d6f",
+      "sourceTextSha256": "99d5ad6465ef665a027b3552ae6f0bd119dd538a6fae721540276fa88691b6e4",
+      "freshTranslation": "VF-25G 메사이파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00115/Sheet1/000005",
+      "sourceBindingSha256": "ddc3d01455e29ddc6a3e6168b3b12973ec45d2da09cb6047780785c517156f5a",
+      "sourceTextSha256": "693ac00ba214b28d57b83446246858711ea7dadc4fc85966ee97df147f1fcb08",
+      "freshTranslation": "ー모드・토르네이드 팩 장비(대기권 외 사양)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00115/Sheet1/000006",
+      "sourceBindingSha256": "b34df0834762ce7890ad71e391a3fbe11c0d269482581e6032fde47dcfdf3af3",
+      "sourceTextSha256": "a244a056ccdaed31e36c0bf7311e503532c10f2734c6a8a411dd00620b6a01b6",
+      "freshTranslation": "마이클 블랑",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00115/Sheet1/000007",
+      "sourceBindingSha256": "d5f347227ae34c51e2949e2a02623924bbe7ac63c41083e8de4b8878ef96e51c",
+      "sourceTextSha256": "edf481ef8a665a49604357b120e900c1dc8109c8aa4f5c4c74a437e31f71c5a6",
+      "freshTranslation": "VF-25 메사이어 시리즈의 장거리 저격기. 그 파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00115/Sheet1/000008",
+      "sourceBindingSha256": "04eada02b03c8f18f60a54025dc52c00980af05fb0827ce151d05e0e251d4173",
+      "sourceTextSha256": "308e2df6a96cacafc915a381aa7bec01b7dab9f5a062f3d7bc985069c8990a9a",
+      "freshTranslation": "- 모드로 토네㊥드 팩을 장비한 대기권 외 사양.㊥S. M. S에서는 미셸이 본 기기에 탑승하고 있다.㊥전용 스나이퍼 라이플은 이 형태로도 사용 가능하지만 정밀 사격을 위해서는 배트㊥로이드로 변형해야합니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00115/Sheet1/000009",
+      "sourceBindingSha256": "e6778620ee2185bca50eb937d1bc53da3d05f1c0474c39975f0b13683f6a4f3e",
+      "sourceTextSha256": "edf481ef8a665a49604357b120e900c1dc8109c8aa4f5c4c74a437e31f71c5a6",
+      "freshTranslation": "VF-25 메사이어 시리즈의 장거리 저격기. 그 파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00115/Sheet1/000010",
+      "sourceBindingSha256": "4a327e95b9bce07d723ffd8ad7b6847bb2d3964557d16a6c5b970c206fa2272a",
+      "sourceTextSha256": "308e2df6a96cacafc915a381aa7bec01b7dab9f5a062f3d7bc985069c8990a9a",
+      "freshTranslation": "- 모드로 토네㊥드 팩을 장비한 대기권 외 사양.㊥S. M. S에서는 미셸이 본 기기에 탑승하고 있다.㊥전용 스나이퍼 라이플은 이 형태로도 사용 가능하지만 정밀 사격을 위해서는 배트㊥로이드로 변형해야합니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

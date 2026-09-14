@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00085",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00085/Sheet1/000002",
+      "sourceBindingSha256": "e6bbb43351624ff37e297d98993d9c7b794100da0ae5a316d4277e58c9319ccc",
+      "sourceTextSha256": "539973d146a5b600378e9841d615a279108b2302e9be42aa19832d24bf86725f",
+      "freshTranslation": "로고스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00085/Sheet1/000003",
+      "sourceBindingSha256": "e09a1a1da1656915e17e5100da9976ed85672ddb6e820dcd2eb55ba7ca87b428",
+      "sourceTextSha256": "46972028b0d87190e9d5bc75048d5bd3819834caf71211a163e3d40415fa49f0",
+      "freshTranslation": "「기동전사 건담 SEEDDESTINY」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00085/Sheet1/000004",
+      "sourceBindingSha256": "1ff150273dbeb27c8a81dc6eecd0ceafe13e813ad985b00d8b72ba0353d102d1",
+      "sourceTextSha256": "49c2586b50350e68543019ec920deb17e70bafce80cfcea985d2fdc589fe1881",
+      "freshTranslation": "유사 이래 존재한다고도 알려져 있는 군수산업 복합체로, 강한 정치에의 개입 ㊥을 가지고 있다. 전쟁과 부흥을 뒤에서 조종하고 막대한 이익을 획득해 온 죽음의 상인들㊥에 의해 구성된다. ㊥ 블루 코스모스의 지원 모체이며 지구 연합과 코디네이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00085/Sheet1/000005",
+      "sourceBindingSha256": "eae24269e00822faffd1a7d95742e07c897ccd86f6da191a15dd1c25077ef1e4",
+      "sourceTextSha256": "628ad06bb322e72ea6bd03e67f08b213311b5022b5cc5d596f8287a0c9e07700",
+      "freshTranslation": "- 전쟁㊥향해 여론을 유도하고 있었다. 블루 코스모스의 물",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00085/Sheet1/000006",
+      "sourceBindingSha256": "97239cff7559accfc9192ed587651ff9ae59b87da6bc87e26fd69a630419614d",
+      "sourceTextSha256": "567a4c08419ea10df27b657c0cc83879359c97fb2efa0f3d45e7e4676edfeec3",
+      "freshTranslation": "・아즈라엘과 로우㊥ 드 지브릴도 로고스의 멤버이다. ㊥ 이후 듀란달에 의해 존재와 소업이 밝혀졌기 때문에 화난 시민의 폭 ㊥동에 의해 대부분의 멤버가 체포, 또는 사형을 받아 사망하고 있다. 마지막으로 ㊥에서 살아남고 있던 지브릴도 탑승하고 있던 함마다 격추되어 로고스는 괴멸해 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00085/Sheet1/000007",
+      "sourceBindingSha256": "726835b6380f4b20b2612c73a992ec7a67986e0fb7c4c0e4cc5685075695d48d",
+      "sourceTextSha256": "49c2586b50350e68543019ec920deb17e70bafce80cfcea985d2fdc589fe1881",
+      "freshTranslation": "유사 이래 존재한다고도 알려져 있는 군수산업 복합체로, 강한 정치에의 개입 ㊥을 가지고 있다. 전쟁과 부흥을 뒤에서 조종하고 막대한 이익을 획득해 온 죽음의 상인들㊥에 의해 구성된다. ㊥ 블루 코스모스의 지원 모체이며 지구 연합과 코디네이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00085/Sheet1/000008",
+      "sourceBindingSha256": "db0cbd47d5637ff019fe51ce25454022b849b1039b60d5a634f24d89d505c052",
+      "sourceTextSha256": "628ad06bb322e72ea6bd03e67f08b213311b5022b5cc5d596f8287a0c9e07700",
+      "freshTranslation": "- 전쟁㊥향해 여론을 유도하고 있었다. 블루 코스모스의 물",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00085/Sheet1/000009",
+      "sourceBindingSha256": "2c5591b0306ec61c3529a66c61e464219fc4cae8a50dc36b0eb71b136570e8ac",
+      "sourceTextSha256": "567a4c08419ea10df27b657c0cc83879359c97fb2efa0f3d45e7e4676edfeec3",
+      "freshTranslation": "・아즈라엘과 로우㊥ 드 지브릴도 로고스의 멤버이다. ㊥ 이후 듀란달에 의해 존재와 소업이 밝혀졌기 때문에 화난 시민의 폭 ㊥동에 의해 대부분의 멤버가 체포, 또는 사형을 받아 사망하고 있다. 마지막으로 ㊥에서 살아남고 있던 지브릴도 탑승하고 있던 함마다 격추되어 로고스는 괴멸해 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

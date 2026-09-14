@@ -1,0 +1,73 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0022",
+    "fileName": "STG0022.cpk",
+    "target": "DATA/STAGE/STG0022.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "8bc61b69685f1f027a44f7b4c4ee07624a9a18e6c1224c90a5717eaa75aaa917"
+  },
+  "entries": [
+    {
+      "entryId": "STG0022/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "에크루비스의 HP를 10000 이하로 만든다",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0022/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "키리코의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0022/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "4턴 이내에 패티(칸·유)를 격추시키고\n그 후,에크루비스를 격추시킨다\n단,에크루비스는 HP가 10000 이하가 되면 퇴각한다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0022/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "적의 전멸",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0022/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

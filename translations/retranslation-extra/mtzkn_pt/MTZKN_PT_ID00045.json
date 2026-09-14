@@ -1,0 +1,159 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00045",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00045/Sheet1/000002",
+      "sourceBindingSha256": "a64e102783830d1f68babe99123cbe91df90aa2b2ee0affd2f8e8a4c27ab0e3d",
+      "sourceTextSha256": "4ae48320bf81d749d6e9027c206d9da14e3c8a432c0f1186746f0fd9f8b2bea7",
+      "freshTranslation": "비아체슬라프 다 몬테 웰스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00045/Sheet1/000003",
+      "sourceBindingSha256": "7de9de3b5e9200773d90b50ad559dd88fb9ef4558eab53b0fe8d1e8553be96cb",
+      "sourceTextSha256": "e420dbbe563ad2b20317adeaa73a79f9f05196bff16f0f99dc14c546af25c1aa",
+      "freshTranslation": "몬테 웰스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00045/Sheet1/000004",
+      "sourceBindingSha256": "b484078d502c07bd720c9d493c8f8166cc1e2dea0d5bf4aa6198bc0dcc615565",
+      "sourceTextSha256": "2e72dc391938168fbc52704deca72c28f66762970743d8ea2a42ca6692f5cff8",
+      "freshTranslation": "장갑 기병 보텀스 사타구니 이단",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00045/Sheet1/000005",
+      "sourceBindingSha256": "f9409bd9cd6119b6b227429f38abf32be0ee70ad61e21ef5d249de9e84ede00e",
+      "sourceTextSha256": "d444cc58944c4c5b306c75cdb29f604ba6a7305e60733ea9211486cbc3e63cb6",
+      "freshTranslation": "범 은하 결사 마티알의 추기경.㊥마티알의 차기 법황의 자리를 노리는 야심가로, 「만질 수 없는 사람」으로 알려져 있다㊥키리코의 소생을 알면, 진짜 딸 테이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00045/Sheet1/000006",
+      "sourceBindingSha256": "547ebc20061ce84ff5bfe917c9b19d4472373f0e7cd879b4a01281e0ebb29f85",
+      "sourceTextSha256": "e7b1517402c69d73d122196bee30bd88ad2b9aedb103d1a510e2309cd964e465",
+      "freshTranslation": "니어에게 말살을 명령했다. ㊥ 키리코의 생사는 알려지지 않았지만 그 테이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00045/Sheet1/000007",
+      "sourceBindingSha256": "7d351919a535ae451936a3806a9ee884f2b96a90786ff29d59a2d16d631177fc",
+      "sourceTextSha256": "33c169944c5c5fa987e614bc0a528960321712db1ca1d5b9a9541207e47da44b",
+      "freshTranslation": "니어의 공적을 가지고 정치적인 ㊥ 입장을 견고하게 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00045/Sheet1/000008",
+      "sourceBindingSha256": "b3643ea8caa5b7f1fbe1bce06918e5623d6ddb94aad14b172117a2345024cc7b",
+      "sourceTextSha256": "d444cc58944c4c5b306c75cdb29f604ba6a7305e60733ea9211486cbc3e63cb6",
+      "freshTranslation": "범 은하 결사 마티알의 추기경.㊥마티알의 차기 법황의 자리를 노리는 야심가로, 「만질 수 없는 사람」으로 알려져 있다㊥키리코의 소생을 알면, 진짜 딸 테이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00045/Sheet1/000009",
+      "sourceBindingSha256": "f780856afbbbf953b6378a762b104469f6c7288ef601facb3e257c4642436b99",
+      "sourceTextSha256": "e7b1517402c69d73d122196bee30bd88ad2b9aedb103d1a510e2309cd964e465",
+      "freshTranslation": "니어에게 말살을 명령했다. ㊥ 키리코의 생사는 알려지지 않았지만 그 테이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00045/Sheet1/000010",
+      "sourceBindingSha256": "a558f1ff49b40f4c59e48f4250ddb4796e2166f4ed003a9086282cb8e7f343da",
+      "sourceTextSha256": "a3541c37f7cdae6b1a9c42b405fb83b01b4876dea9bb692a621c01febc08ff15",
+      "freshTranslation": "니어의 공적을 가지고 정치적인 ㊥ 입장을 견고하게 했다. ㊥ 후에 라이벌이었던 그노 추기경을 함정에 넣은 끝에 사실을 은폐하기 위해 살해 ㊥해. 또한 테이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00045/Sheet1/000011",
+      "sourceBindingSha256": "b58a60f26c93c233028593fdb4cf4e52317477ccea1376cc9998da2c74bb25a6",
+      "sourceTextSha256": "afc8d2d16c6b80c974ffdf6f7239cf5dcf56bda0836a463f4677b5fd3341739a",
+      "freshTranslation": "니어를 넥스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00045/Sheet1/000012",
+      "sourceBindingSha256": "8bfa08265aa0e051810808e58930dc7358176cccac396c7496592241a1194a6d",
+      "sourceTextSha256": "7d1db82007db4ab18784cda4c8e6f5f3e6e3521f075eac3f9fe37c02f8bf8084",
+      "freshTranslation": "엔트에게 완성한 것은 몬테 웰스가 구조 ㊥인 일이었다는 사실도 밝혀져 목적을 위해서라면 수단을 가리지 않는 포악함을 드러내 ㊥ 제시했다. ㊥ 이윽고 염원이 이루어져 법황의 자리에 대해, 피아나를 탈환하기 위해서 알레기에 타고 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00045/Sheet1/000013",
+      "sourceBindingSha256": "c215c562c9a7d8a0a961c8d7b1dc5daef33c5e6f36ae4ee8234f921dcbc7fb53",
+      "sourceTextSha256": "49d016e49666424666395850693583b46a4f975dff82e5e7b042715623ac0842",
+      "freshTranslation": "니어에게 명령한다. 그러나 키리코의 넥스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00045/Sheet1/000014",
+      "sourceBindingSha256": "71fee7e860b4ec86c2d83509073dc889bf02c89e37a2d5a202b79ec1965292f9",
+      "sourceTextSha256": "ce672d46d8ac768448812b053d7b27ce6adb477fcbe2dbc9df602bbdc9e2b776",
+      "freshTranslation": "는 ㊥의 심장이라고도 할 수 있는 보조뇌를 파괴되는 것을 목격하고, 자신의 믿고 있던 힘의 패㊥북에 의해 빠진 껍질처럼 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00162",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00162/Sheet1/000002",
+      "sourceBindingSha256": "5dd782ee719a88758afc34573d1b22fe1cf827e5d62313788b260a6464ad3e24",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00162/Sheet1/000003",
+      "sourceBindingSha256": "0144400910ca1a51a21e891dba73889ed55eefbc44d79ddf35f0f1dc9f44b65c",
+      "sourceTextSha256": "ef75b149a4977f072f498d314fe46c4a05bd0c60c00e6c730e499de5efb6a36b",
+      "freshTranslation": "하데스 신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00162/Sheet1/000004",
+      "sourceBindingSha256": "30b4ed61dcca8d19699e0106666af053e5d5d2cfc9610bd95429beb9f3dab94f",
+      "sourceTextSha256": "ef75b149a4977f072f498d314fe46c4a05bd0c60c00e6c730e499de5efb6a36b",
+      "freshTranslation": "하데스 신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00162/Sheet1/000005",
+      "sourceBindingSha256": "4ecd9277ae0d7edda6f10248e744ba20439d9e5d29edce1f02045107287d320d",
+      "sourceTextSha256": "1c1325a8c0c7430d4f41ec72f00f4791b9e6f5aefc7f7d0c89a96ae3236325d8",
+      "freshTranslation": "미케네 삼대신의 1기둥. ㊥ \"지옥의 왕\" \"명부의 왕\"의 별명을 가지고 죽은 자의 나라를 다스린다. ㊥ 불꽃의 힘을 가지고 홍련의 업화에 싸인 이도류의 대검으로 싸운다. ㊥ 고아와 츠바사와 아슈라 남작이 케드라의 기억의 세계인 고대 미케네에 뛰어들어 ㊥ 때에 만났다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00162/Sheet1/000006",
+      "sourceBindingSha256": "a24be9adb643fad35a10097f0e1686404ccbb17936bbb0df9fef5cee4db670a2",
+      "sourceTextSha256": "9d5a38bfd80c9e16276276ebdc4a3362c85555416ce02bc263701fb7715ddace",
+      "freshTranslation": "미케네 삼대신의 1기둥. ㊥ \"지옥의 왕\" \"명부의 왕\"의 별명을 가지고 죽은 자의 나라를 다스린다. ㊥ 불꽃의 힘을 가지고 홍련의 업화에 싸인 이도류의 대검으로 싸운다. ㊥ 고아와 츠바사와 아슈라 남작이 케드라의 기억의 세계인 고대 미케네에 뛰어들어 ㊥ 때에 만났다. ㊥ 같은 미케네 삼대신의 한 기둥인 제우스 신을 죽은 자로 하려고 고곤 대공과 함께책㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00162/Sheet1/000007",
+      "sourceBindingSha256": "c92528c116dfacc809bdeb3fc5a4e25e082478fcc5a4acfb3fc044728661b26d",
+      "sourceTextSha256": "40769bb6f8703b5b2386a53c97a9e4b27bab2b329686460ca0bb3fa46c3738ba",
+      "freshTranslation": "개 앞에 패배. 그러나 그 ㊥ 죽음 동안 어둠의 제왕으로 부활하는 것을 선언하고 불꽃 속으로 사라져갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00020",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00020/Sheet1/000002",
+      "sourceBindingSha256": "056ee2c1b42c53d6e73f14d2559ab44ba047f9bc41cd1139ca13951fb2c98e2e",
+      "sourceTextSha256": "9b0191b728edde5b85f3fa16b4f306f10c174837d44e5b2c60be5fab4d013a9a",
+      "freshTranslation": "던컨 장군",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00020/Sheet1/000003",
+      "sourceBindingSha256": "946fb17f1bbaacfdb601122cad353ddf8cd95c40fb390ddbe43939636ec840ae",
+      "sourceTextSha256": "afda4a049c1f096ea7cf1d3559e7baa8c52b51f98317e6236b9b1cf4ddebdef2",
+      "freshTranslation": "던컨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00020/Sheet1/000004",
+      "sourceBindingSha256": "a5b2ea5173518c5545d2f92e66cf2c030a5a2c05d3469e2faae577e84fb26739",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00020/Sheet1/000005",
+      "sourceBindingSha256": "b2107e195ccb554d045c6880bb8a30b1e5c182bd90437f395120e10e44a08f2e",
+      "sourceTextSha256": "6143e322831c34a0cf545de1bad4b62283f1004336818d0cd8358c66484e95ee",
+      "freshTranslation": "시바타 히데카츠",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00020/Sheet1/000006",
+      "sourceBindingSha256": "e6d6d7594833b98b079aca83f698a3473674502168f951c6111c7823c1d3a664",
+      "sourceTextSha256": "9e375b49fa6d72df4a9e8ba5f3fd5ea0677c099045bed279a17d1dc3c1245c75",
+      "freshTranslation": "우주 마왕 부하의 마인 장군. ㊥우주마왕과 구라에게는 절대 복종의 자세를 무너뜨리지 않고, 구라의 생명을 받아 지구에 항복권㊥고를 행했다. ㊥ 지휘 능력은 높고, 전투시에는 거대 원반에서 부하에게 정확한 지시를 내린다. ㊥ 철인이 요격에 나왔을 때에는 스페이스 로보 4호를 꺼내 두 번에 걸쳐 대결했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00020/Sheet1/000007",
+      "sourceBindingSha256": "b2e500c696191bdf0fe3b360517efe48612a15b07b1e8262bc3260667ebb33fc",
+      "sourceTextSha256": "49c7ce8c8e6cfaaea669595e1da7f7135e170c8e09815e261a18706d9563cfe7",
+      "freshTranslation": "우주 마왕 부하의 마인 장군. ㊥우주마왕과 구라에게는 절대 복종의 자세를 무너뜨리지 않고, 구라의 생명을 받아 지구에 항복권㊥고를 행했다. ㊥ 지휘 능력은 높고, 전투시에는 거대 원반에서 부하에게 정확한 지시를 내린다. ㊥ 철인이 요격에 나왔을 때에는 스페이스 로보 4호를 꺼내 두 번에 걸쳐 대결한 ㊥가 철인에 의해 스페이스 로봇이 거대한 원반에 두드렸을 때 거기에 휘말려 ㊥ 패했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

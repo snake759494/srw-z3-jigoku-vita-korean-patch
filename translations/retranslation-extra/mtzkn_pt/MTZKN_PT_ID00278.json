@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00278",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00278/Sheet1/000002",
+      "sourceBindingSha256": "d768b5caf73e26d1bc69a6c844ed22e9c23b595362f18f45e748bcaacd57ee02",
+      "sourceTextSha256": "224178439fe0ad1ef9dc16c47cd9955045110466fa1f3f30fc96a5521d79a8e6",
+      "freshTranslation": "말론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00278/Sheet1/000003",
+      "sourceBindingSha256": "2d84db69405338b120725040db3ef136f4042c5338a2611163c542cdd618ec46",
+      "sourceTextSha256": "224178439fe0ad1ef9dc16c47cd9955045110466fa1f3f30fc96a5521d79a8e6",
+      "freshTranslation": "말론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00278/Sheet1/000004",
+      "sourceBindingSha256": "ee69510bb9913f14d59241cc26cf79a33f1e00dff1a4d9fe236f2540a94e0915",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00278/Sheet1/000005",
+      "sourceBindingSha256": "a36946bcafcee457c6d930d9a3bf26cf841b3cc5c25dd5dde1c48e2948bfca21",
+      "sourceTextSha256": "9e9b34d92f4bc3a617bf9dfd80231d1ec66843cd2c627f4c27236be52d8cde21",
+      "freshTranslation": "르 패닉? 후모후",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00278/Sheet1/000006",
+      "sourceBindingSha256": "d63cee3655a5e0b5e795ef582d6d53eb8997137a80d5e6da95adbc9c9e172df3",
+      "sourceTextSha256": "08d397281745c8493db935d6d8a94d7b958a7bdbc21b30009c66dc3a0ba0530e",
+      "freshTranslation": "진대고교 가라테 동호회의 부원. ㊥ 초실천 방향의 종합 격투기를 목표로 활동하고 있다. ㊥ 덧붙여 그 이름은 본명이 아니고, 카나메가 마음대로 그렇게 부르고 있을 뿐이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00278/Sheet1/000007",
+      "sourceBindingSha256": "38ee87f1b6dd10026c4b0c9f155a7a3bdb4bedf6981715a9a9f61a9d0691368d",
+      "sourceTextSha256": "0682ea87381ba3dd6175d048c08b76e9cb62d6a29bf2666a4f7c5f3de250e79d",
+      "freshTranslation": "진대고교 가라테 동호회의 부원. ㊥ 초실천 방향의 종합 격투기를 목표로 활동하고 있다. ㊥ 덧붙여 그 이름은 본명이 아니고, 카나메가 마음대로 그렇게 부르고 있을 뿐이다. ㊥ 무네스케가 부실 퇴거 권고에 왔을 때,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00278/Sheet1/000008",
+      "sourceBindingSha256": "054bf5b336d4b769bac59a428d4b0f7a9a77cbc5a3f4658e37152d3501ee2abf",
+      "sourceTextSha256": "fe2aa1e330a74049c4d8733565f3f1473722333e3de550ebd0b1b30758b401ed",
+      "freshTranslation": "반대로부터 반대해 승부를 도전한다. ㊥ 하지만, 소스케로부터 가스 공격을 받아 기절해, 패배한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

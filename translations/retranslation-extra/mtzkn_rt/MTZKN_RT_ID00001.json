@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00001",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00001/Sheet1/000002",
+      "sourceBindingSha256": "b45ac46462a403b1e919ec9feff51f05c34f8c6555040541a8d2c5e1e3ac94a8",
+      "sourceTextSha256": "77c406ff1c1b9634902fdd15ec771c2a07e20db9f0a6b53196dbf872ebd5aa4c",
+      "freshTranslation": "무적 로보 트라이더 G7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00001/Sheet1/000003",
+      "sourceBindingSha256": "7c6acc02865ca31e0edd0251fd4eb6e82fc1370844a7ba4ae37c7b4e98bd8e1c",
+      "sourceTextSha256": "ea78c34348e6771e81f45b51daae8e507bdef8bbaab4ae84640d622ac691196f",
+      "freshTranslation": "셔틀",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00001/Sheet1/000004",
+      "sourceBindingSha256": "0801eddabacc061ee291112f268a76bd246ac23d4ec0cdeb008de00a4191b142",
+      "sourceTextSha256": "ea78c34348e6771e81f45b51daae8e507bdef8bbaab4ae84640d622ac691196f",
+      "freshTranslation": "셔틀",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00001/Sheet1/000005",
+      "sourceBindingSha256": "740538c833c20b34aef8cb2fedf82570c48c614df2051693eb56e485da1c9a0c",
+      "sourceTextSha256": "f33ccd88c39f98d879a2065c346c8d5160da9507bf4e1f0cf75b0d2201994222",
+      "freshTranslation": "감 코지 매실 마로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00001/Sheet1/000006",
+      "sourceBindingSha256": "1d368ba2ef9e7c7a007ea4d64566e6d66d39b9763ece84de09d65903f59244c6",
+      "sourceTextSha256": "0e45473269899d3693590b5365fa60b48b98b027b665ccf42dcabf48fcec0ae0",
+      "freshTranslation": "다케오 제너럴 컴퍼니",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00001/Sheet1/000007",
+      "sourceBindingSha256": "279efb046bab933a6e3f5451479765922f7a9dc64abe03459515bcfb0a81f4e0",
+      "sourceTextSha256": "b9fb16189ed54180c1f92d3608693bbf3d6493fbfa585ce4ef5a9a1137c7d831",
+      "freshTranslation": "사용할 우주 수송선. ㊥ 구 셔틀과 마찬가지로 와타를 제외한 모든 사원이 타고 조종에서 화기관제 등 ㊥을 분담해 가고 있다. ㊥ 로봇 제국의 간부, 자칼과의 전투시에 구 셔틀은 중파했지만, 우주 방위㊥청장관의 자금 제공을 받아 부활. 화력과 항행속도 등 곳곳에서 파워업을 이루었다. ㊥ 트라이더의 순항 형태인 코스믹과 합체하여 포트리스가 되는 것, 물자나 ㊥ 인재의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00001/Sheet1/000008",
+      "sourceBindingSha256": "66434a0edc61cd17daff84a9114dc760e60a05ecc5de1e057dafedfe8df7b52b",
+      "sourceTextSha256": "3e15bd26c351f9bf536a693c7a652c5415619cffcccb495aa97921a18e42a549",
+      "freshTranslation": "반 등이 주된 사용 용도인 것 등,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00001/Sheet1/000009",
+      "sourceBindingSha256": "e3c9ce3bd5839be4c943f74cf15bb3b78a1ab99780d4c8e73e0e6ae10e6c11f6",
+      "sourceTextSha256": "b385704516b5564dadfe4624d8bb67ce94cdefd3baf8b8b18cc759ccf0c80f70",
+      "freshTranslation": "용법에 변함이 없다. 하지만, 보다 ㊥전투향적인 강화가 베풀어졌기 때문에, 트라이더의 지원 메카로서 한층 더 의지할 수 있는 존재라고 ㊥했다. ㊥ 전무에 있어서도, 자사의 회가 아프지 않고 일의 효율이 오른다는, 좋은 일 다 ㊥째의 개수 결과는 대만족했던 것 같다. ㊥ 외장은 크게 변화했지만 내부는 거의 이전에 남아 있습니다. 식사를 할 수 있는 살롱㊥도 계속 설치되어 있어, 사원이 갖추어져 테이블을 둘러싼다는 안락한 직장㊥모양도 변하지 않았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00001/Sheet1/000010",
+      "sourceBindingSha256": "56f32079d3a650172714d63c0d95b1ae18bf6fa0782180e672197801ef22f6e6",
+      "sourceTextSha256": "0e45473269899d3693590b5365fa60b48b98b027b665ccf42dcabf48fcec0ae0",
+      "freshTranslation": "다케오 제너럴 컴퍼니",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00001/Sheet1/000011",
+      "sourceBindingSha256": "2da7627521f5e67ce20357dc5fdc47bfce65df5829d7c4d89e720e8484529224",
+      "sourceTextSha256": "b9fb16189ed54180c1f92d3608693bbf3d6493fbfa585ce4ef5a9a1137c7d831",
+      "freshTranslation": "사용할 우주 수송선. ㊥ 구 셔틀과 마찬가지로 와타를 제외한 모든 사원이 타고 조종에서 화기관제 등 ㊥을 분담해 가고 있다. ㊥ 로봇 제국의 간부, 자칼과의 전투시에 구 셔틀은 중파했지만, 우주 방위㊥청장관의 자금 제공을 받아 부활. 화력과 항행속도 등 곳곳에서 파워업을 이루었다. ㊥ 트라이더의 순항 형태인 코스믹과 합체하여 포트리스가 되는 것, 물자나 ㊥ 인재의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00001/Sheet1/000012",
+      "sourceBindingSha256": "66baa237349e3e7e80db3d446b48508ecbc39520af89608a99bd48f09cbf23e7",
+      "sourceTextSha256": "3e15bd26c351f9bf536a693c7a652c5415619cffcccb495aa97921a18e42a549",
+      "freshTranslation": "반 등이 주된 사용 용도인 것 등,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00001/Sheet1/000013",
+      "sourceBindingSha256": "0de4dc45bf76d89cc4bbfbf8a70dd192993160479e22215bc5da584a59b07348",
+      "sourceTextSha256": "b385704516b5564dadfe4624d8bb67ce94cdefd3baf8b8b18cc759ccf0c80f70",
+      "freshTranslation": "용법에 변함이 없다. 하지만, 보다 ㊥전투향적인 강화가 베풀어졌기 때문에, 트라이더의 지원 메카로서 한층 더 의지할 수 있는 존재라고 ㊥했다. ㊥ 전무에 있어서도, 자사의 회가 아프지 않고 일의 효율이 오른다는, 좋은 일 다 ㊥째의 개수 결과는 대만족했던 것 같다. ㊥ 외장은 크게 변화했지만 내부는 거의 이전에 남아 있습니다. 식사를 할 수 있는 살롱㊥도 계속 설치되어 있어, 사원이 갖추어져 테이블을 둘러싼다는 안락한 직장㊥모양도 변하지 않았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00401",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00401/Sheet1/000002",
+      "sourceBindingSha256": "914d2a90ef4ba8721bfaaa051eb181eee3943f987189b6918627a9e8461e568a",
+      "sourceTextSha256": "92cabe635b04a042f6f42cf8105339b21504a712e2c78e8c3c0eefdacc0a7c19",
+      "freshTranslation": "퀸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00401/Sheet1/000003",
+      "sourceBindingSha256": "38fd25ffd1ecf09f9d18994d52e7144844b9e6d4e2a14880872652a2eee97434",
+      "sourceTextSha256": "92cabe635b04a042f6f42cf8105339b21504a712e2c78e8c3c0eefdacc0a7c19",
+      "freshTranslation": "퀸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00401/Sheet1/000004",
+      "sourceBindingSha256": "84970c94c9436c9f17ee827ff23d62f1d84487e5d74593bbbda81ef2679ec514",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00401/Sheet1/000005",
+      "sourceBindingSha256": "bf3f501c3a62635e5539d4562ff2f0105e09062496133948b6b244079965ca01",
+      "sourceTextSha256": "449507634295232b7e3c61531b3a9c952cca338dbffa8e05c398fed8206e3a91",
+      "freshTranslation": "「인류의 진화를 감시하는 사람」을 자칭하는 수수께끼의 조직, 크로노의 구성원. ㊥ 퀸의 코드네임은 지위를 나타내고 있는 것이 아니라, 킹의 비서적인 역할을 ㊥ 하고 있는 것으로부터 붙여진 것으로, 조직내에서는 불규칙한 위치에 있다. ㊥ 크로노 구성원은 한자리를 만날 때조차 모습을 드러내지 않고 코드네임을 본뜬 ㊥ 아이콘을 자신의 대신으로 참석시켜 본인들은 별실에 앞두고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00401/Sheet1/000006",
+      "sourceBindingSha256": "bfae554a3dedf6e3bb5a90a905f5772b184fa173ee8ff771980157c72db09682",
+      "sourceTextSha256": "449507634295232b7e3c61531b3a9c952cca338dbffa8e05c398fed8206e3a91",
+      "freshTranslation": "「인류의 진화를 감시하는 사람」을 자칭하는 수수께끼의 조직, 크로노의 구성원. ㊥ 퀸의 코드네임은 지위를 나타내고 있는 것이 아니라, 킹의 비서적인 역할을 ㊥ 하고 있는 것으로부터 붙여진 것으로, 조직내에서는 불규칙한 위치에 있다. ㊥ 크로노 구성원은 한자리를 만날 때조차 모습을 드러내지 않고 코드네임을 본뜬 ㊥ 아이콘을 자신의 대신으로 참석시켜 본인들은 별실에 앞두고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

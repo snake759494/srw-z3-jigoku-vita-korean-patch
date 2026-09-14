@@ -1,0 +1,313 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00193",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000002",
+      "sourceBindingSha256": "0bada5431432ba00bb0b71a88c984d1e98e0d5f5971864bfe0be0c787ebb66f4",
+      "sourceTextSha256": "2e50e921e3c7b75fbcf433d1563a8398e58c77dd78a57ca4d82d5572435bab13",
+      "freshTranslation": "(체인지!)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000003",
+      "sourceBindingSha256": "bb2c465b5e7a5a68b71e53b4e6425d9fab25ad7d2607ff08a458bbfddfb20858",
+      "sourceTextSha256": "7c3cb5cb2ef14de63eec14acd214053a7f20637efe0ffd4631309ea46fb1a51d",
+      "freshTranslation": "- 로보 세계 마지막 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000004",
+      "sourceBindingSha256": "dda76d2fda23f960d2e56a5964b8754cbf2a18e486c7765cbb5e7e01c6fdee26",
+      "sourceTextSha256": "7eeeb35a9573fdcf4e0067debfdc30028146149fd01630683a56d66c1a0edba3",
+      "freshTranslation": "히다카 나루미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000005",
+      "sourceBindingSha256": "cc0a87d02d1cd7933bd8f7096994332c0f9ae3bf323510122368ce5ff79a8af9",
+      "sourceTextSha256": "d8904141d52d847afa2e134b6094b2f036ec4c5ec41facfd217d8bf2baee264b",
+      "freshTranslation": "사오토메 박사의 딸, 사오토메 건강. ㊥ 시게요 미사일의 폭발을 지하 쉘",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000006",
+      "sourceBindingSha256": "645d3fa5ad2ba9d4ab00f4e8fd096881523087f079768b867982071c89c2d7c8",
+      "sourceTextSha256": "4d685b40cd68ba61b108e7a4a7391289c274c70af5f0308cd10a7f7232290854",
+      "freshTranslation": "-에 도망친 벤케이는 세계를 멸망한 사오토메의 ㊥ 아이인 건강을 지키기 위해 이름을 계로 바꿔 자신의 딸로 키운다. 계곡도 건강할 때 ㊥의 기억을 잃고 생활하고 있었다. ㊥육아의 부모와 닮아 직정경행인 성격을 하고 있어, 한편 남자 승리. ㊥ 벤케이와 함께,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000007",
+      "sourceBindingSha256": "51efcc5c3d00333fd23a6512619c5d3037d351530c01b8ec81074582448e3931",
+      "sourceTextSha256": "95376f7f7e33aec864a69d121a6695624bd4a14d4ccf632b35d854881215f2c7",
+      "freshTranslation": "- 선에 오염 된 지상을 탐험하고있었습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000008",
+      "sourceBindingSha256": "d8cb4dcd33cf322823aa1cd2907f7bc7cc91eb8ea8e49e30bd4ef463079aff87",
+      "sourceTextSha256": "a54114397873f1380f09e93a7051d7c2040b9b5c38c11978587b60211480f746",
+      "freshTranslation": "워와 인㊥베이더의 전투에 조우. 위기에 빠진 곳을 호에 구원받고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000009",
+      "sourceBindingSha256": "56effa590bf42b37aac9ad01b4ef69a7126ef8d2447495a3d664e3efb664cc0d",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000010",
+      "sourceBindingSha256": "16b1ad84d24f67d9e0f0fcac139939f53c5dba87263ab03da178f5aab98e6eb3",
+      "sourceTextSha256": "965d771cd2e9bd0492403a868e970d6fd55d26451be02e66c0181dcc4f2561dc",
+      "freshTranslation": "- 타고 ㊥ 이후",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000011",
+      "sourceBindingSha256": "0ecd19c1451a121392cdd5a7570be04cbac70ba1970d448817c4c041a302391d",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000012",
+      "sourceBindingSha256": "3d1bb3351e6c9d83328223efa3da0a35483df912a4c009ec1a8a9f66be6f44c0",
+      "sourceTextSha256": "d03dc78efa3196cde078ec8473e4f82a2e787c13d541dbe8a03050e13a671878",
+      "freshTranslation": "ー2의 파일럿을 맡는다.㊥사오토메 박사 부활 후에 잃어버린 기억을 되찾고, 이후 결착을 붙이기 위해 사라졌다㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000013",
+      "sourceBindingSha256": "454a234d85973b2dac947a57698e3d5fb2e4764207790fd19658f09b67f83d95",
+      "sourceTextSha256": "c3a73987b05b2633fda3da1d424765bab9643b90b9ebc56aebe3f013afdca342",
+      "freshTranslation": "드래곤의 행방을 계속 쫓았다. ㊥ 싸움이 우주로 이행하고 나서는 개선이나 사망한 호와 지구에 남아 있었지만, 일본 정부의 ㊥ 협력을 얻어 우주로 올라갔다. 거기서 부활한 호의 타기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000014",
+      "sourceBindingSha256": "aa8eee48b3e2919877a0ddd0437f3fd1ea345e61773a59f0e06fb085b8c5b1ef",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000015",
+      "sourceBindingSha256": "5d31ac2c4cfd4c28c9c39f91e5392a80a4311f1fd08f765f94684eef1ad2fbea",
+      "sourceTextSha256": "7124d0b2375fa1d5df8d247f52eb1e635f713913452986c53488acb48056cdc3",
+      "freshTranslation": "드래곤에 구해 ㊥, 이것에 탑승. ㊥ 류마 등",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000016",
+      "sourceBindingSha256": "36f79b17404a8a6a0ce138170d384425caff31f1c3585a42c5bd2eac10fbd8d1",
+      "sourceTextSha256": "f7b0799fcac314fbf7cdafa26fb3a145d80917a9dd27832117fd80c9903d516d",
+      "freshTranslation": "- 팀과 싸우고 마침내 미래의 영원한 싸움으로 여행하는 료마㊥보냈다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000017",
+      "sourceBindingSha256": "b1cff9df9650d3c72bf3af65cab1f3599ce1e90303c789f4845730260e041f8a",
+      "sourceTextSha256": "d8904141d52d847afa2e134b6094b2f036ec4c5ec41facfd217d8bf2baee264b",
+      "freshTranslation": "사오토메 박사의 딸, 사오토메 건강. ㊥ 시게요 미사일의 폭발을 지하 쉘",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000018",
+      "sourceBindingSha256": "318d4c9ced201149e35d74b2447fcf456226db333e0ad9929efd46d7d08daf74",
+      "sourceTextSha256": "4d685b40cd68ba61b108e7a4a7391289c274c70af5f0308cd10a7f7232290854",
+      "freshTranslation": "-에 도망친 벤케이는 세계를 멸망한 사오토메의 ㊥ 아이인 건강을 지키기 위해 이름을 계로 바꿔 자신의 딸로 키운다. 계곡도 건강할 때 ㊥의 기억을 잃고 생활하고 있었다. ㊥육아의 부모와 닮아 직정경행인 성격을 하고 있어, 한편 남자 승리. ㊥ 벤케이와 함께,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000019",
+      "sourceBindingSha256": "0ad8bf66051cdf670295e65789f7f9086b2e91f412cda59d767679de653b4fb4",
+      "sourceTextSha256": "95376f7f7e33aec864a69d121a6695624bd4a14d4ccf632b35d854881215f2c7",
+      "freshTranslation": "- 선에 오염 된 지상을 탐험하고있었습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000020",
+      "sourceBindingSha256": "ed283cf0bfe14a1aa508962549be155f8732fedc7ecf49b531e3b4ceb9f1df4b",
+      "sourceTextSha256": "a54114397873f1380f09e93a7051d7c2040b9b5c38c11978587b60211480f746",
+      "freshTranslation": "워와 인㊥베이더의 전투에 조우. 위기에 빠진 곳을 호에 구원받고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000021",
+      "sourceBindingSha256": "39fd5e57eb6cbd6d10b21d6a3cfccf798f11cde96ec9607a6704a577b5af5ae2",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000022",
+      "sourceBindingSha256": "44ebec65b4f7c42c59c8d5be5b89e53b0594c59be91eaf7ead36d656c0bb3f86",
+      "sourceTextSha256": "965d771cd2e9bd0492403a868e970d6fd55d26451be02e66c0181dcc4f2561dc",
+      "freshTranslation": "- 타고 ㊥ 이후",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000023",
+      "sourceBindingSha256": "d1fbb7307885f3d986492b9ef7eddcd3e64e80a1ebef7fca2ef9afaefea28e61",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000024",
+      "sourceBindingSha256": "e66b82697764cd5005c4251312899bba670c19778d7c7c9d9c7becb994245792",
+      "sourceTextSha256": "d03dc78efa3196cde078ec8473e4f82a2e787c13d541dbe8a03050e13a671878",
+      "freshTranslation": "ー2의 파일럿을 맡는다.㊥사오토메 박사 부활 후에 잃어버린 기억을 되찾고, 이후 결착을 붙이기 위해 사라졌다㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000025",
+      "sourceBindingSha256": "6c9d9ad8f69a7ac6cf43077ac7b0e88f8acd5dc8f8e188bf8e5ede96c5aa2fa4",
+      "sourceTextSha256": "c3a73987b05b2633fda3da1d424765bab9643b90b9ebc56aebe3f013afdca342",
+      "freshTranslation": "드래곤의 행방을 계속 쫓았다. ㊥ 싸움이 우주로 이행하고 나서는 개선이나 사망한 호와 지구에 남아 있었지만, 일본 정부의 ㊥ 협력을 얻어 우주로 올라갔다. 거기서 부활한 호의 타기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000026",
+      "sourceBindingSha256": "98b6d9491f3367e041ba28a8ba377ee75754dec04defeb6aa0c424a448f08758",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000027",
+      "sourceBindingSha256": "80af1dea5157cfe598a24fafbca4b67d34b9c49f46d3da2bd6823f6fddf4ee4d",
+      "sourceTextSha256": "7124d0b2375fa1d5df8d247f52eb1e635f713913452986c53488acb48056cdc3",
+      "freshTranslation": "드래곤에 구해 ㊥, 이것에 탑승. ㊥ 류마 등",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00193/Sheet1/000028",
+      "sourceBindingSha256": "4ac8b2ad50d7fe4e8b0fdce23000cc17378c22ad2d23d80ae73ec86cddb86061",
+      "sourceTextSha256": "f7b0799fcac314fbf7cdafa26fb3a145d80917a9dd27832117fd80c9903d516d",
+      "freshTranslation": "- 팀과 싸우고 마침내 미래의 영원한 싸움으로 여행하는 료마㊥보냈다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

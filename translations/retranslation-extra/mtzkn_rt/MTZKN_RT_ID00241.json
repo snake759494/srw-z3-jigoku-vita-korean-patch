@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00241",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00241/Sheet1/000002",
+      "sourceBindingSha256": "b6a5cab28d78996614ea756d2d63bad8847fbe762df27da589d030015cd4796a",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00241/Sheet1/000003",
+      "sourceBindingSha256": "134a6e58d3e00785337203342ff7e757e517e6c01bc5396b97cbe3b19ca46995",
+      "sourceTextSha256": "3979d3004c9fa9c0e99077cadb3c2aec63cfb3f48e91b2cbfa1fe97209785ec2",
+      "freshTranslation": "고대 AQ",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00241/Sheet1/000004",
+      "sourceBindingSha256": "30407207cdd6653a10406cf55d270b3219eed96ab95cb51fa6e398d025242cc8",
+      "sourceTextSha256": "3979d3004c9fa9c0e99077cadb3c2aec63cfb3f48e91b2cbfa1fe97209785ec2",
+      "freshTranslation": "고대 AQ",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00241/Sheet1/000005",
+      "sourceBindingSha256": "059d3580c3ee7a0043dc516e11cc5da4bff1817051cf987a7a74261bf62ae88e",
+      "sourceTextSha256": "a5f17bd20f2d4b4b420db3d5e9407245241e4152a1809996dd5eba6af493985a",
+      "freshTranslation": "토와노 미카게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00241/Sheet1/000006",
+      "sourceBindingSha256": "2ccaee8f7a0c529455638f8d926e98a8290678dc392f8aa996b70245e03280da",
+      "sourceTextSha256": "c06b86c1a248552df00d9d9649f90b1d0f3eb5c15fa9fd5ecdf8cd946d0a5389",
+      "freshTranslation": "미카게의 증오로 변용 한 신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00241/Sheet1/000007",
+      "sourceBindingSha256": "2a805be35014343ba9eaa6ef7314cbdc8032c6774866c2f8267d3db326cfd6dc",
+      "sourceTextSha256": "5867e33f40573f4aee42d926caa5655b3496b81b0a3b6fa104d4251b3e3de60f",
+      "freshTranslation": "아쿼리온. ㊥ 미카게가 제시카의 몸을 타고 카구라의 정신을 유린하고 미코노가 조종하는 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00241/Sheet1/000008",
+      "sourceBindingSha256": "17ce0fb3356bf2edc4d482005ebbe232f663ac9e72a1ec7559f8a7a9bb2df165",
+      "sourceTextSha256": "250915f78df3c66d29dc635590c2f9b1ddfcd7378f06ecd998591983032fe969",
+      "freshTranslation": "ー㊥루나를 강제로 끌어당겨 '복수의 결혼'을 완수함으로써 완성시켰다.㊥알테아의 전체 에너지를 흡수하고 진화를 이룬 모습은 한때 신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00241/Sheet1/000009",
+      "sourceBindingSha256": "18ae45a8fae34ef2bf7d453155ba67b81631778d2f9616365cba8ee28bf537a7",
+      "sourceTextSha256": "8298eb33d2764cde97374e8ebd6c65f95137f63442d3292c769bef7611cc4733",
+      "freshTranslation": "어쿠어리언 ㊥과 같은 신성함은 없고, 탑승자인 미카게 자신의 마음을 투영한 듯한 화려한 ㊥ 아우라를 발하며, 다른 어쿠어리언과는 비교가 되지 않는 거대함을 자랑한다. ㊥필살기 '카가라이 무한장(INFINITEPALMOFTHEBUDDHA)' ㊥은 행동의 '결과'가 구현화되고, 그 뒤에 무한장장이 '원인'으로 풀린다는 요인㊥과율",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00241/Sheet1/000010",
+      "sourceBindingSha256": "32c06fa204e25b0819264df7b1b895d85457587e98631a05b03ac139ca3c3813",
+      "sourceTextSha256": "c06b86c1a248552df00d9d9649f90b1d0f3eb5c15fa9fd5ecdf8cd946d0a5389",
+      "freshTranslation": "미카게의 증오로 변용 한 신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00241/Sheet1/000011",
+      "sourceBindingSha256": "8687ae42a46c04abb96f01acf5b563ae7577ffba2cedc4611327c163a81cb176",
+      "sourceTextSha256": "5867e33f40573f4aee42d926caa5655b3496b81b0a3b6fa104d4251b3e3de60f",
+      "freshTranslation": "아쿼리온. ㊥ 미카게가 제시카의 몸을 타고 카구라의 정신을 유린하고 미코노가 조종하는 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00241/Sheet1/000012",
+      "sourceBindingSha256": "4c4f7af8b462136ffa4e216e2b6c4564328d515241558b243ca487805a8e5039",
+      "sourceTextSha256": "250915f78df3c66d29dc635590c2f9b1ddfcd7378f06ecd998591983032fe969",
+      "freshTranslation": "ー㊥루나를 강제로 끌어당겨 '복수의 결혼'을 완수함으로써 완성시켰다.㊥알테아의 전체 에너지를 흡수하고 진화를 이룬 모습은 한때 신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00241/Sheet1/000013",
+      "sourceBindingSha256": "f7d28a0a06866d82706eea117e45f3937a88331cbca3eb327b8ff3009f18193f",
+      "sourceTextSha256": "8298eb33d2764cde97374e8ebd6c65f95137f63442d3292c769bef7611cc4733",
+      "freshTranslation": "어쿠어리언 ㊥과 같은 신성함은 없고, 탑승자인 미카게 자신의 마음을 투영한 듯한 화려한 ㊥ 아우라를 발하며, 다른 어쿠어리언과는 비교가 되지 않는 거대함을 자랑한다. ㊥필살기 '카가라이 무한장(INFINITEPALMOFTHEBUDDHA)' ㊥은 행동의 '결과'가 구현화되고, 그 뒤에 무한장장이 '원인'으로 풀린다는 요인㊥과율",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

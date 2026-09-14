@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00317",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00317/Sheet1/000002",
+      "sourceBindingSha256": "621cef717a0e18d65745c42aebe60e0ec89c73c3212ee9a94dfdf56ee616ca01",
+      "sourceTextSha256": "4fd695eaec75d1b2ba5b56221d50d7ac8a41fc2fc9f690cce79632ce3ebe716e",
+      "freshTranslation": "릴론 리트너",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00317/Sheet1/000003",
+      "sourceBindingSha256": "3975308bb92f6b64b2a63125a26a20b5d1c4a34ec05eef401b939ce12f683ddd",
+      "sourceTextSha256": "047dc62694f0ac9e470fb67906fc3549f2ccffc921897198f4fefe441a092c49",
+      "freshTranslation": "릴론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00317/Sheet1/000004",
+      "sourceBindingSha256": "8e2d034e26a443f2b266be4db73b06a0407cb568cfe02969570bf27f386c587e",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00317/Sheet1/000005",
+      "sourceBindingSha256": "ea0f977e22e4b45bea301773c60697d830518b82d051c8da60fa3908baf3b08a",
+      "sourceTextSha256": "f94a162e16925a4597f0d0262446caf82c1055e688dfc69dda1db12fd9618f17",
+      "freshTranslation": "오노자카 마사야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00317/Sheet1/000006",
+      "sourceBindingSha256": "a81bc550949fb4b732e5ed15c09faed470d87b02201ca50dcb3f7c45beb596c1",
+      "sourceTextSha256": "6c314bfbe4c83f096530826408f401f37d86aab38480d3a53b8f5d8879867480",
+      "freshTranslation": "큰 글렌단의 일원으로 신정부의 과학 국장. ㊥ 요코와 다야카와 마찬가지로 리트너 마을 출신으로 여성스러운 부분이 눈에 띈다. ㊥ 주위를 가리지 않는 탁월한 두뇌를 가지고, 정보 분석도 손의 물건. 큰 글렌단 중에서 ㊥는 문자를 읽을 수 있는 몇 안되는 인물이기도 했다. ㊥연구 열심하고 호기심이 왕성하고, 라간에 흥미를 가진 일로 카미나들에게 동행하는 것을 ㊥결의. 복수의 간멘을 조합해 글렌에, 다이간잔을 다이글렌으로 개조㊥한 것도 리론의 손팔에 의한 곳이 크고, 그 이외의 장소에서도 메카닉의 팔㊥을 곳곳에서 발휘했다. ㊥신정부 수립 후에도 각종 시스템 해명과 신병기 개발 등 두뇌노동을 한 손에 맡는 활㊥약을 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00317/Sheet1/000007",
+      "sourceBindingSha256": "bc00b51dd6877f4e614670f8e1013aab4c531bedcdd78c0269f821f85b32381a",
+      "sourceTextSha256": "83db9860950383c3e5863da17808c1b118bb0e847ed01e796d8da1fdfade94d7",
+      "freshTranslation": "큰 글렌단의 일원으로 신정부의 과학 국장. ㊥ 요코와 다야카와 마찬가지로 리트너 마을 출신으로 여성스러운 부분이 눈에 띈다. ㊥ 주위를 가리지 않는 탁월한 두뇌를 가지고, 정보 분석도 손의 물건. 큰 글렌단 중에서 ㊥는 문자를 읽을 수 있는 몇 안되는 인물이기도 했다. ㊥연구 열심하고 호기심이 왕성하고, 라간에 흥미를 가진 일로 카미나들에게 동행하는 것을 ㊥결의. 복수의 건멘을 조합해 글렌에, 다이간잔을 다이글렌으로 개조㊥한 것도 리론의 손팔에 의한 곳이 크고, 그 이외의 장소에서도 메카닉의 팔㊥를 곳곳에서 발휘. ㊥신정부 수립 후에도 각종 시스템 해명과 신병기 개발 등 두뇌노동을 한 손에 맡는 활㊥약을 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

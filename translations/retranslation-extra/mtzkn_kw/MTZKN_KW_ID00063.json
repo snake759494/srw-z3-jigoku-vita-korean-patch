@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00063",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00063/Sheet1/000002",
+      "sourceBindingSha256": "2375c82c5e699622861888c7d823cc98dc3a8a949cd55434abcea7e3ac6592c1",
+      "sourceTextSha256": "8d1768b173a6e59c14eb3f7572606c5dda52aee02d7e223987de6ca016a9c4c7",
+      "freshTranslation": "두 번째 영향",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00063/Sheet1/000003",
+      "sourceBindingSha256": "66d5934d967e2a0ba06448d42ebb622eb74edb5a0764b44fcd5c9da3bc1164f8",
+      "sourceTextSha256": "fd27dd0455981a1e903c20a00fd0fdbc96f5d0c9cbe2a5cf01f6caa42e0648cc",
+      "freshTranslation": "「에반게리온 신극장 판서」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00063/Sheet1/000004",
+      "sourceBindingSha256": "20a8a13d81c21fdb92bb903b1df5c75054be306ceed608870bc7af69ea6a7369",
+      "sourceTextSha256": "14426e3bc2d1697f5d2ef31b36e7ee23236d26418e415d6e52f998c90b5864c0",
+      "freshTranslation": "15년 전에 남극에 발생한 대재해. ㊥ 그 원인은 알 수 없지만 인류의 절반이 사멸한 이후 바다는 생물의 대부분 ㊥이 죽은 붉은 바다로 변모했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00063/Sheet1/000005",
+      "sourceBindingSha256": "3d3438bda55d69ea2969b551b8a61f4102d9bf0f6734b6c8120a864e0d4a392f",
+      "sourceTextSha256": "14426e3bc2d1697f5d2ef31b36e7ee23236d26418e415d6e52f998c90b5864c0",
+      "freshTranslation": "15년 전에 남극에 발생한 대재해. ㊥ 그 원인은 알 수 없지만 인류의 절반이 사멸한 이후 바다는 생물의 대부분 ㊥이 죽은 붉은 바다로 변모했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

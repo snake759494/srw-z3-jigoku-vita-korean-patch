@@ -1,0 +1,159 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00188",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00188/Sheet1/000002",
+      "sourceBindingSha256": "30d5b019b8b83b7039a62a8f3bad3f204070b51c4cf3306ee61b6958c8d7c80c",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00188/Sheet1/000003",
+      "sourceBindingSha256": "c7de8ec0a0d0aeb76b09cf164b2c30f0f8fddf3478f5781f7d5f297f52c2597f",
+      "sourceTextSha256": "6cbead29f5f3666f5882c4fd6c0d7e56e8208850dd34efe1c72cd7834907e4e2",
+      "freshTranslation": "르 패닉! TheSecondRaid",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00188/Sheet1/000004",
+      "sourceBindingSha256": "31b91fb5fb4ca823a512a00c991706cac54122fabd1985cec5b84e51cff36831",
+      "sourceTextSha256": "283e638c0aae411e6813c766f009e4a5c14bafcd5111bf75ddccae0e59d0c016",
+      "freshTranslation": "M9D 팔케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00188/Sheet1/000005",
+      "sourceBindingSha256": "d6ad960a921fcccbe4a22a9affcda74c30808eb95863baaa85f3c9a89b0de056",
+      "sourceTextSha256": "283e638c0aae411e6813c766f009e4a5c14bafcd5111bf75ddccae0e59d0c016",
+      "freshTranslation": "M9D 팔케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00188/Sheet1/000006",
+      "sourceBindingSha256": "5df2c2d1b617249e7aeead6200aae92049cb9fe40c3381fec31c8ef770491c95",
+      "sourceTextSha256": "08a06182cfb97c71c0c0626567ef7a005a23673a533c6f91f349d7c3f3d2077b",
+      "freshTranslation": "벨판간 크루조",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00188/Sheet1/000007",
+      "sourceBindingSha256": "4611868c01abe006c228a9677c4dfb9ac6cd8eb76620900d303c99ba94d5f9fd",
+      "sourceTextSha256": "9750688c81b4074a80a68ea2ff558218c13d74d7c25a40e75ca5a3320bd0a6f1",
+      "freshTranslation": "미스릴이 보유한 M9의 D 계열 프로토 타입. ㊥ 크루조와 함께 지중해 전대에서 서태평양 전대로 배속되어 온 기체이다. ㊥ 서쪽이 개발한 3세대 AS이며 기본적인 성능은 양산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00188/Sheet1/000008",
+      "sourceBindingSha256": "35f1dcf7cb7fd30716ecc9b1f01c9fc96c39364d2c5fb231352c20a5501f61b8",
+      "sourceTextSha256": "5329ea77eef568d277b0dd265cfde32acf4510919401287a22225c61da39379d",
+      "freshTranslation": "이다 E 계열기와 변 ㊥ 하지 않지만, 컬러링은 흑색으로 변경되어 상반신에는 장갑이 추가되고 있다. ㊥ 또한 크루조 기계에는 고도의 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00188/Sheet1/000009",
+      "sourceBindingSha256": "725378498d05bf710814a95ba0f2ed100f860f71fe9789db7f89fb4fa79ecedd",
+      "sourceTextSha256": "5f13fc4bd829e814e603d0b65cbf7019fb99e273016f50440c8d95992f480853",
+      "freshTranslation": "링크 장치 「ITCC-5(통합 전술 통신관㊥제 시스템)」이 장비되어 있어 지휘관기로서의 기능도 갖추고 있다. ㊥ 주요 무장은 40mm 돌격 소총, 크림슨 에지 단분자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00188/Sheet1/000010",
+      "sourceBindingSha256": "f060cf29d550abfd0cc5f2d8f2b3d722cebee91c9c58abdbf79eeb3b50fee370",
+      "sourceTextSha256": "a1c167e11d70d16434ad44f7c62eb2dbb747835696bda033557b52a4502140e5",
+      "freshTranslation": "- ㊥. ㊥ 시칠리아 섬에서 쫓기는 종개들을 구출한 후, 전임 조기의 모의전에서는 크루조 ㊥의 격투 센스와 조종 기술에 의해, 종개의 아바레스트를 압도했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00188/Sheet1/000011",
+      "sourceBindingSha256": "f468629c93015aabf46b399fb20d33249f81ee4e50ea70cf4f38cbb1849a5758",
+      "sourceTextSha256": "9750688c81b4074a80a68ea2ff558218c13d74d7c25a40e75ca5a3320bd0a6f1",
+      "freshTranslation": "미스릴이 보유한 M9의 D 계열 프로토 타입. ㊥ 크루조와 함께 지중해 전대에서 서태평양 전대로 배속되어 온 기체이다. ㊥ 서쪽이 개발한 3세대 AS이며 기본적인 성능은 양산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00188/Sheet1/000012",
+      "sourceBindingSha256": "1d2779964fff9c5e5269cc0f4daf2f531a733f2e1b6fa58f1ca5872e5a2c673b",
+      "sourceTextSha256": "5329ea77eef568d277b0dd265cfde32acf4510919401287a22225c61da39379d",
+      "freshTranslation": "이다 E 계열기와 변 ㊥ 하지 않지만, 컬러링은 흑색으로 변경되어 상반신에는 장갑이 추가되고 있다. ㊥ 또한 크루조 기계에는 고도의 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00188/Sheet1/000013",
+      "sourceBindingSha256": "60afaf4835cdc28be450991f30309c7d1d7368d4c5d0a52d365dbbd5dd33c2e4",
+      "sourceTextSha256": "5f13fc4bd829e814e603d0b65cbf7019fb99e273016f50440c8d95992f480853",
+      "freshTranslation": "링크 장치 「ITCC-5(통합 전술 통신관㊥제 시스템)」이 장비되어 있어 지휘관기로서의 기능도 갖추고 있다. ㊥ 주요 무장은 40mm 돌격 소총, 크림슨 에지 단분자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00188/Sheet1/000014",
+      "sourceBindingSha256": "5129ef22459889eb27b4df268f4dc70bf8a9bc9d5196f4c89edffe20f0f4c366",
+      "sourceTextSha256": "a1c167e11d70d16434ad44f7c62eb2dbb747835696bda033557b52a4502140e5",
+      "freshTranslation": "- ㊥. ㊥ 시칠리아 섬에서 쫓기는 종개들을 구출한 후, 전임 조기의 모의전에서는 크루조 ㊥의 격투 센스와 조종 기술에 의해, 종개의 아바레스트를 압도했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

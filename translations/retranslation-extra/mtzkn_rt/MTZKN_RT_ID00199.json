@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00199",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00199/Sheet1/000002",
+      "sourceBindingSha256": "5bc66ff4dca6adf4574ef45de955a12b7b6021f0448536ee100481450d3dc831",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00199/Sheet1/000003",
+      "sourceBindingSha256": "f2fe2714ad47a55d5c16d3b306da5c58ff61961bdb963f4e7b25f0f77f961701",
+      "sourceTextSha256": "7d335dcac716bdda451600c0e7e303557797ddf603cad643bff0bb2ecdef111a",
+      "freshTranslation": "천원돌파 글렌 라간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00199/Sheet1/000004",
+      "sourceBindingSha256": "30fe6d1bb98446995c9e260e37d3c5d463cb8d2785e5dd128605e5cf1a0b3f85",
+      "sourceTextSha256": "7d335dcac716bdda451600c0e7e303557797ddf603cad643bff0bb2ecdef111a",
+      "freshTranslation": "천원돌파 글렌 라간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00199/Sheet1/000005",
+      "sourceBindingSha256": "d1accd7dd80e078262725e36c520acaf56758e9714b2183fa3b5bd679440aabb",
+      "sourceTextSha256": "6d13935fae69e32c736ac42982c1026a87538a9f866f4a13b9321fd0af88842d",
+      "freshTranslation": "시몬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00199/Sheet1/000006",
+      "sourceBindingSha256": "b83632644f7f497f1d06118132e3f089a05fe45e19398a87b6c77fd81072442c",
+      "sourceTextSha256": "c65d220d1b74a18a6dbbec9de1c897498c8a5a059a848810f106d7e80ad7aec7",
+      "freshTranslation": "하늘도 차원도 돌파하는 궁극의 감정. ㊥인식이 실체화하는 나선 우주에서, 대그렌단의 생존 멤버 전원이 코어 드릴이 되어, ㊥ 스핀 온하는 것으로 탄생했다. ㊥ 은하 자체를 던져, 발판에 할 수 있을 정도의 스케일을 자랑한다. ㊥ 전신에 확인할 수 있는 얼굴 부분에는 각각 파일럿이 탑승. 각인이 자랑하는 라이㊥풀, 칼, 앵커 등의 무기를 잇달아 실체화시켜, 그란제보마와 최종 결전을㊥ 펼쳤다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00199/Sheet1/000007",
+      "sourceBindingSha256": "0b74ebd61cc9eb226e4898838275482b13c44b43320b3c6c37fde68154135d54",
+      "sourceTextSha256": "362d9406e0dcbc01b6c725847c55b96ae60b56f188384ac655f753c5e87e6689",
+      "freshTranslation": "하늘도 차원도 돌파하는 궁극의 감정. ㊥인식이 실체화하는 나선 우주에서, 대그렌단의 생존 멤버 전원이 코어 드릴이 되어, ㊥ 스핀 온하는 것으로 탄생했다. ㊥ 은하 자체를 던져, 발판에 할 수 있을 정도의 스케일을 자랑한다. ㊥ 전신에 확인할 수 있는 얼굴 부분에는 각각 파일럿이 탑승. 각인이 자랑하는 라이㊥풀, 칼, 앵커 등의 무기를 잇달아 실체화시켜, 그란제보마와 최종 결전을㊥ 펼쳤다. ㊥ 싸움 가운데 궁지에 빠지기도 초천원 돌파를 완수하고 그란제보마를 무너뜨렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

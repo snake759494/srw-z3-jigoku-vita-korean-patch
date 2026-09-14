@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00271",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00271/Sheet1/000002",
+      "sourceBindingSha256": "9aeb95ead53bd785a7155076d9539361e457292ddd227582e59e7fc4fa97d6b5",
+      "sourceTextSha256": "2a39e9f17f97747f9e4462a9487f619f13f75a3a1d6ac337f66d8740b18fe22b",
+      "freshTranslation": "봉태군",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00271/Sheet1/000003",
+      "sourceBindingSha256": "24bbd6ef5b8a3923705cb084940c6a5156145a342fe3f7b8c59b6ab7ba8b80c0",
+      "sourceTextSha256": "2a39e9f17f97747f9e4462a9487f619f13f75a3a1d6ac337f66d8740b18fe22b",
+      "freshTranslation": "봉태군",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00271/Sheet1/000004",
+      "sourceBindingSha256": "b2e1f289a0c9a02ce2b43bd38c60737642e468b054d25025382ad3fbb8f8fb60",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00271/Sheet1/000005",
+      "sourceBindingSha256": "5f48ee274a93590c2da271979879e2ea35afd82d6d7bedb8a1d666ecc0214cfe",
+      "sourceTextSha256": "9e9b34d92f4bc3a617bf9dfd80231d1ec66843cd2c627f4c27236be52d8cde21",
+      "freshTranslation": "르 패닉? 후모후",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00271/Sheet1/000006",
+      "sourceBindingSha256": "c25b733d07b5964c6dc08c3c73cb048b884b971312d6f83da795e75399dfe344",
+      "sourceTextSha256": "a312855bcc3f57d53e0fc13622fe0bf529d2f6b8961bd11e81b1c52b1b3c3d21",
+      "freshTranslation": "유원지 「후모후모 랜드」의 마스코트 캐릭터. ㊥ 「후모후」 「후모후모」등의 말을 말하는 사랑스러운 캐릭터",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00271/Sheet1/000007",
+      "sourceBindingSha256": "9cad965302a292261ab3085a047e2ecb5ecfe65be7dcc04cf425b776c08838bc",
+      "sourceTextSha256": "a71dd2abdc601748c9b2cc9f42c471a3f9ab288ff472bc370b57252fd3cda94d",
+      "freshTranslation": "- 원내에서 바람 ㊥ 배를 나누거나 손님으로부터",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00271/Sheet1/000008",
+      "sourceBindingSha256": "7d5e2c06c0f9085a79e67864aa689ef34245950837ca3f23c4cc6c278a5edd0d",
+      "sourceTextSha256": "55679921f19191f00056158225b1d38c9e7b3204c17d0d223d6fd72a36307182",
+      "freshTranslation": "촬영을 맡거나 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00271/Sheet1/000009",
+      "sourceBindingSha256": "bccceddc77f5230e68bf1db29130912970c51d09b4a683383f5280829b46a46d",
+      "sourceTextSha256": "a312855bcc3f57d53e0fc13622fe0bf529d2f6b8961bd11e81b1c52b1b3c3d21",
+      "freshTranslation": "유원지 「후모후모 랜드」의 마스코트 캐릭터. ㊥ 「후모후」 「후모후모」등의 말을 말하는 사랑스러운 캐릭터",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00271/Sheet1/000010",
+      "sourceBindingSha256": "35a5e0e72c1402ea11d20b2b8065369d46fe94473e943d0a36a146459786de2f",
+      "sourceTextSha256": "a71dd2abdc601748c9b2cc9f42c471a3f9ab288ff472bc370b57252fd3cda94d",
+      "freshTranslation": "- 원내에서 바람 ㊥ 배를 나누거나 손님으로부터",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00271/Sheet1/000011",
+      "sourceBindingSha256": "6ae659243112cea3688024ff6d12757d7332f2363584ccc3c5b1b5f8ddb477fe",
+      "sourceTextSha256": "55679921f19191f00056158225b1d38c9e7b3204c17d0d223d6fd72a36307182",
+      "freshTranslation": "촬영을 맡거나 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

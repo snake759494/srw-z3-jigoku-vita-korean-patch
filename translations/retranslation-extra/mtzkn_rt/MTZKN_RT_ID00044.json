@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00044",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00044/Sheet1/000002",
+      "sourceBindingSha256": "779672e7001c75557f8c3f72f4396a433d6f9e3745e5cf7b57ceeabae115d605",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00044/Sheet1/000003",
+      "sourceBindingSha256": "f8984910999c7afc953be2fda243b508af1c4d7efb4d4c7b64bd9b7c838c9a84",
+      "sourceTextSha256": "d93b5f0cce19c9065421125aba68da59f2cd69f18f08ef0f84bae359137275c2",
+      "freshTranslation": "라 카이람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00044/Sheet1/000004",
+      "sourceBindingSha256": "4c0429f18a7dd3283fdae4af05c7646a77fcdc6ca403334a035b4482a849dc07",
+      "sourceTextSha256": "d93b5f0cce19c9065421125aba68da59f2cd69f18f08ef0f84bae359137275c2",
+      "freshTranslation": "라 카이람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00044/Sheet1/000005",
+      "sourceBindingSha256": "50d5f10830467e049a566656e2eb68689fc0360601082e348d65a8a23339e53f",
+      "sourceTextSha256": "37d81224e7cb9301376349c764ca8585eb58a9d4759f32112307da3b0b46a50a",
+      "freshTranslation": "브라이트 노아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00044/Sheet1/000006",
+      "sourceBindingSha256": "b43b365ea58b6e3b54fce389cd79cb07d555e1ae10854e22982640e9492019ae",
+      "sourceTextSha256": "2323caa3c56737263d7d1ab3f35099471e087e431ceb671ce24396070ecf8702",
+      "freshTranslation": "지구 연방군 런드 벨대의 기함. ㊥ 함장은 브라이트 노아 대령으로 역대 건담 탑재함과 마찬가지로 함의 색은 화이트 ㊥이 기조로 되어 있다. ㊥ 정상 발진용 자동차",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00044/Sheet1/000007",
+      "sourceBindingSha256": "bab5e22d0c460808cf5b45fe27eb1c00054754c6100fc9b3fb37c2592e49baca",
+      "sourceTextSha256": "0821d1d3555c171c2bcf98230e0cc67129bf82c69adc90cac1d85775a89dad28",
+      "freshTranslation": "팔트 외에 선체 후부에 착함 전용 갑판을 갖는 것이 특징. 또, ㊥ 통상시에 사용하는 브릿지와는 별도로, 방탄성이 높은 전투용 브릿지가 존재한다. ㊥ 기본 성능은 높으며 개발 후 50 년 이상이 경과하더라도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00044/Sheet1/000008",
+      "sourceBindingSha256": "95bef390efa29b33c711e92bf90e624c460c2631303a696b941530c8d9fb3df3",
+      "sourceTextSha256": "26fec19ea8ccf27f6c09a1aba0b1feb9f94fbc41709e459cb9093c82f38c23c6",
+      "freshTranslation": "함이 취항하고 있다. ㊥ 주포가 되는 4문의 2연장 메가 입자포 외에 무수한 미사일 런처와 기총을 ㊥ 장비하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00044/Sheet1/000009",
+      "sourceBindingSha256": "8c4d39e81c68a54d9042922115bec5e3e5ab452696a3ac1df247d491880b1fad",
+      "sourceTextSha256": "2323caa3c56737263d7d1ab3f35099471e087e431ceb671ce24396070ecf8702",
+      "freshTranslation": "지구 연방군 런드 벨대의 기함. ㊥ 함장은 브라이트 노아 대령으로 역대 건담 탑재함과 마찬가지로 함의 색은 화이트 ㊥이 기조로 되어 있다. ㊥ 정상 발진용 자동차",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00044/Sheet1/000010",
+      "sourceBindingSha256": "b1f840eee941433ee249911d9e09064dfa08aaee88fa1c80457a2183944fabb2",
+      "sourceTextSha256": "0821d1d3555c171c2bcf98230e0cc67129bf82c69adc90cac1d85775a89dad28",
+      "freshTranslation": "팔트 외에 선체 후부에 착함 전용 갑판을 갖는 것이 특징. 또, ㊥ 통상시에 사용하는 브릿지와는 별도로, 방탄성이 높은 전투용 브릿지가 존재한다. ㊥ 기본 성능은 높으며 개발 후 50 년 이상이 경과하더라도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00044/Sheet1/000011",
+      "sourceBindingSha256": "2956e1138575dbb81c69164e206955152c7df6b6bff254b4d2cf251fd6c6ba56",
+      "sourceTextSha256": "26fec19ea8ccf27f6c09a1aba0b1feb9f94fbc41709e459cb9093c82f38c23c6",
+      "freshTranslation": "함이 취항하고 있다. ㊥ 주포가 되는 4문의 2연장 메가 입자포 외에 무수한 미사일 런처와 기총을 ㊥ 장비하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

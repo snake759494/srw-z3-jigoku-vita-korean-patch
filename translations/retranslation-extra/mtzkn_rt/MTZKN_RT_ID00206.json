@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00206",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00206/Sheet1/000002",
+      "sourceBindingSha256": "df0967bb9d050ec1e6b5d0b78f3955c96f0417d4703d363328d9da50b5407b90",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00206/Sheet1/000003",
+      "sourceBindingSha256": "84e1ae09fdac0a6b5bb3d592162f9cf51d872744b24a5c95a14c76f3ee442469",
+      "sourceTextSha256": "8e866b6dc4d4a83d732428fd513f2ccdff86985e3ed82c3ae5757546467cf08d",
+      "freshTranslation": "애쉬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00206/Sheet1/000004",
+      "sourceBindingSha256": "99c3d511bf55f87931d622b0bfd5486495a505c8f7cd1d1cc9280692eb8a2398",
+      "sourceTextSha256": "eaf3a28c15a908678ded1f07b485d90c6c0ef3366d36c31ff6eef3ecf3d76841",
+      "freshTranslation": "응가급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00206/Sheet1/000005",
+      "sourceBindingSha256": "55b8fcc0fc8b70f65619ced8e90c4641178f99957a25c4992c5bd7c4f63a9d4a",
+      "sourceTextSha256": "8e866b6dc4d4a83d732428fd513f2ccdff86985e3ed82c3ae5757546467cf08d",
+      "freshTranslation": "애쉬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00206/Sheet1/000006",
+      "sourceBindingSha256": "875c49082d1cea1a4a7a1aca7669004bac5ba73d6cfaf4ee46d7f0b1f6b86a04",
+      "sourceTextSha256": "eaf3a28c15a908678ded1f07b485d90c6c0ef3366d36c31ff6eef3ecf3d76841",
+      "freshTranslation": "응가급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00206/Sheet1/000007",
+      "sourceBindingSha256": "117214ab662e596b2ccaa75e38862537126f14344525716995afa6e470565273",
+      "sourceTextSha256": "137480cb94e0092ed5b4b9c65c7073e0e06e87c31937ba81ac2a24166fe96829",
+      "freshTranslation": "안티 스파이럴 함대의 모함. 정식 명칭은 \"다원 진화 확률 생명체 반 나선 돌격감\". ㊥ 다차원 확률을 제어하여 시간축 내 이동을 수행하는 랜덤 슈레딩거 워프, 위성 ㊥ 미사일과 확률 변동탄을 이용한 공격 등 인공을 뛰어넘는 성능을 가지고 있다. ㊥ 또한, \"Ash",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00206/Sheet1/000008",
+      "sourceBindingSha256": "edbee111df4f1939badc3a16a9a59ef9496523ac087447e29dbb580d30b9226e",
+      "sourceTextSha256": "c488f903e471465233bf420fa2a30266b0599bb249d52f12329c7597de73f1f0",
+      "freshTranslation": "'가'는 산스크리트어로 '8개의 가지'라는 뜻이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00206/Sheet1/000009",
+      "sourceBindingSha256": "a78281fbbc09e868a88007d16b4999d1b6b5a4ba8c2c0b4cfcc51da3ee2532ae",
+      "sourceTextSha256": "137480cb94e0092ed5b4b9c65c7073e0e06e87c31937ba81ac2a24166fe96829",
+      "freshTranslation": "안티 스파이럴 함대의 모함. 정식 명칭은 \"다원 진화 확률 생명체 반 나선 돌격감\". ㊥ 다차원 확률을 제어하여 시간축 내 이동을 수행하는 랜덤 슈레딩거 워프, 위성 ㊥ 미사일과 확률 변동탄을 이용한 공격 등 인공을 뛰어넘는 성능을 가지고 있다. ㊥ 또한, \"Ash",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00206/Sheet1/000010",
+      "sourceBindingSha256": "b5e1a61b2372b64a591cf26d867585ff5b20e757f3982dc1d2ce3da541c8388a",
+      "sourceTextSha256": "c488f903e471465233bf420fa2a30266b0599bb249d52f12329c7597de73f1f0",
+      "freshTranslation": "'가'는 산스크리트어로 '8개의 가지'라는 뜻이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

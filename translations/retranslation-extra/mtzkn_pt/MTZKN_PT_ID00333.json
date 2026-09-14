@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00333",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00333/Sheet1/000002",
+      "sourceBindingSha256": "3a46a98f43063f9c21fa097084824c161c8ac0e217a60868eaec13de3fef25f1",
+      "sourceTextSha256": "934b85b44ac35e08f64842d0a090e55e2d322cf356e06ae265b30a2f8bf82ab2",
+      "freshTranslation": "아야나미 레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00333/Sheet1/000003",
+      "sourceBindingSha256": "3c1db944ad4c08b8c847ba55f617d68686cbb74068180ee63076935b0e85b175",
+      "sourceTextSha256": "7faf5c4e05b4279d942dcceccc82b5aad01f3b6286b0cdea281d537c17ac9be3",
+      "freshTranslation": "레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00333/Sheet1/000004",
+      "sourceBindingSha256": "17a92facc90e71cefe23d26f56f5e7f095878dea4ec8e29c3f0d9ec8ca43409e",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00333/Sheet1/000005",
+      "sourceBindingSha256": "6b798c5a0173bea32359eec3a21a7f2ccba301724d6b5d6285b9d01617eebf96",
+      "sourceTextSha256": "9cdd3ca24bed144a9318d42c1a7ed73f7ab73cb9f62e4eee666ba8e4b830d298",
+      "freshTranslation": "하야시바라 메구미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00333/Sheet1/000006",
+      "sourceBindingSha256": "d434f4f34db54dcd361674f24addcb2c062e2693f10ba9d86e2d4d9e9564cbbe",
+      "sourceTextSha256": "61ccd8673d0fc3e97f97e166d520fac770dfcd952db66d7fbb7cda68c4ad4765",
+      "freshTranslation": "EVA 영호기에 탑승하는 '제1 소녀'. ㊥ 제3신도쿄 시립 제일 중학교에 다니며, 클래스는 신지들과 같은 2년 A조이다. ㊥ 감정을 거의 표에 보이지 않는 무구한 소녀로, 그 경력에는 수수께끼가 많다. 유일하게 겐도우㊥에는 마음을 용서하고 있어 웃는 얼굴로 대화를 하거나, 함께 식사를 하거나 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00333/Sheet1/000007",
+      "sourceBindingSha256": "5d289262193e5d9f4d819224107e77d56f76992cfbbdac98b6bff6c6e7614e73",
+      "sourceTextSha256": "7198df6241e345480c466f5c8b8abc4dc124e7807ffd029065dd9c037e6df5c1",
+      "freshTranslation": "EVA 영호기에 탑승하는 '제1 소녀'. ㊥ 제3신도쿄 시립 제일 중학교에 다니며, 클래스는 신지들과 같은 2년 A조이다. ㊥ 감정을 거의 표에 보이지 않는 무구한 소녀로, 그 경력에는 수수께끼가 많다. 유일하게 겐도우㊥에는 마음을 용서하고 있어 웃는 얼굴로 대화를 하거나, 함께 식사를 하거나 한다. ㊥이지만, 싸움 속에서 서서히는 있지만 변화를 보여 가고, 신지나 아스카에게 감정을 보고㊥하게 하게 된다. 또한 신지가 만든 된장국을 맛있다고 느낀 것을 계기로 ㊥ 이카리 부모와 자식을 위해 식사회를 열려고 요리를 연습한다. ㊥ 그러나 그 모든 것은 제 9 사도의 출현으로 이루어지지 않았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

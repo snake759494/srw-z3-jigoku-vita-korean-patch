@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00263",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00263/Sheet1/000002",
+      "sourceBindingSha256": "a78cb030c89039ddba6848a6c1d73a02b2d86a4964eb535431d9290b70c87432",
+      "sourceTextSha256": "3dc3ef15a5b68abfc6f5764fcbdc75a6a35398249dcb892b29e38628ca7f1124",
+      "freshTranslation": "세이나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00263/Sheet1/000003",
+      "sourceBindingSha256": "1807f6504397ac0313817f664578c967bb30c5f5f3664839389953dbf011ce8f",
+      "sourceTextSha256": "3dc3ef15a5b68abfc6f5764fcbdc75a6a35398249dcb892b29e38628ca7f1124",
+      "freshTranslation": "세이나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00263/Sheet1/000004",
+      "sourceBindingSha256": "8aa2e9c6da94fc7981c69e5cbc7e0ef7b97c7ad4fbf66cef5a23d130c1eea999",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00263/Sheet1/000005",
+      "sourceBindingSha256": "8cc95128b622e10d3c65c4b4cc33534adb1757fa490e0db4d15462812d07e9a9",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00263/Sheet1/000006",
+      "sourceBindingSha256": "d2922067db87e1bc5831e189586cbc91ea388f52291bb5e6a26adecd34bec27a",
+      "sourceTextSha256": "5d0318af3ff8e56798b164b629e0cd2cc5cba4bf555017dd071203f83373af78",
+      "freshTranslation": "아사노 마유미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00263/Sheet1/000007",
+      "sourceBindingSha256": "80486060105937e17c5f7bfb72dd5e9ff920f85b39a5f065563cd475d3f74f3e",
+      "sourceTextSha256": "09503feebcd6adf737af57ea2b80cf84b236d1bc8e0923a7b233bf509e91eaa8",
+      "freshTranslation": "테러리스트 그룹 A21의 리더. ㊥ 아버지처럼 몹시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00263/Sheet1/000008",
+      "sourceBindingSha256": "192217bb210482bdd8d260e7c3740e3b6a4768da1699caf42ce360957a8b6123",
+      "sourceTextSha256": "b7071f40dc61c222d89d50f60c9916d23a005050e9cca6066bad7ee0ef1067f7",
+      "freshTranslation": "케치 세이지(무치 정치)에 대한 의리와 복수를 위해서 ㊥의 동료들과 도쿄에서의 테러를 획책한다. ㊥ 목적을 위해 냉철한 지휘관에게 철저히 빠져 언니라고 믿는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00263/Sheet1/000009",
+      "sourceBindingSha256": "40187b162766dd53beec8d065c4b70c5d9dfe1e30193058601c3a65b2b33f6c2",
+      "sourceTextSha256": "028d578685b18d8a38e0251da98e43ad2d3abfe95069964db332711128bfe5e8",
+      "freshTranslation": "곰을 이용하여 베헤모㊥스를 조종시킨다. ㊥이지만, 포로로 한 칼리닌과의 대화 속에서는 인간다운 일면도 엿볼 수 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00263/Sheet1/000010",
+      "sourceBindingSha256": "bc18d0d61369a4574de2b8fd77e1f12f31722612f878a396c6fdc0186168843a",
+      "sourceTextSha256": "09503feebcd6adf737af57ea2b80cf84b236d1bc8e0923a7b233bf509e91eaa8",
+      "freshTranslation": "테러리스트 그룹 A21의 리더. ㊥ 아버지처럼 몹시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00263/Sheet1/000011",
+      "sourceBindingSha256": "f1cb3d5b7e64943545a1d980b278dea3d867df8df14dd60440f6062998d4f472",
+      "sourceTextSha256": "b7071f40dc61c222d89d50f60c9916d23a005050e9cca6066bad7ee0ef1067f7",
+      "freshTranslation": "케치 세이지(무치 정치)에 대한 의리와 복수를 위해서 ㊥의 동료들과 도쿄에서의 테러를 획책한다. ㊥ 목적을 위해 냉철한 지휘관에게 철저히 빠져 언니라고 믿는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00263/Sheet1/000012",
+      "sourceBindingSha256": "a711c2057f7dca2940f6f59edefc8aee6e6db02eb6c4027e579150c0e44ec118",
+      "sourceTextSha256": "8f05d8bd20b1e213d4d0ad41c1cf8d826ab94f6ecdda4a39bdefbc87bfe530d0",
+      "freshTranslation": "곰을 이용하여 베헤모㊥스를 조종시킨다. ㊥이지만, 포로로 한 칼리닌과의 대화 속에서는 인간다운 일면도 엿볼 수 있었다. ㊥ 베헤모스의 기동에 성공하더라도 부상을 입고 적인 카리닌에게 최후를 간취받는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

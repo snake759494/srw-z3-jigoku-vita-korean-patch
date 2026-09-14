@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00128",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00128/Sheet1/000002",
+      "sourceBindingSha256": "381e3368d305518adc529b2b6c4a70f4d9126a6b28d62790388767107c9b0311",
+      "sourceTextSha256": "483ce7039e24399255b63d82f618087ca5587cb8ae0b3104b0f281f13d216ed3",
+      "freshTranslation": "코페르니쿠스 회담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00128/Sheet1/000003",
+      "sourceBindingSha256": "70134f5b97da738005908fde40d86c608a2614520d9c2ece010b9d1333294307",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00128/Sheet1/000004",
+      "sourceBindingSha256": "1d3dfa2c5ba4d66fa142447351f85aadbc83be60cab0f3c8d109854bbba14499",
+      "sourceTextSha256": "0a9c53f38cd4e2b8463e16fdf81cd803013d165f6e73814b40c4ffe72cd1add0",
+      "freshTranslation": "UCW의 다원 전쟁의 종반, 적대 관계에 있는 조직의 지도자들이 한자리에 만나, 지금㊥후의 세계의 방향성에 대해 검토한 회담. 개최된 것이, 월면의 코페르니크㊥스시였기 때문에, 이 이름이 붙여졌다. ㊥ 회담은 결과적으로 헤어지기로 끝났고, 각 세력의 싸움은 결전으로 향했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00128/Sheet1/000005",
+      "sourceBindingSha256": "5e009cc978ace2d00df4de0e799b0a3247411d0bf556702f951ea27b659feced",
+      "sourceTextSha256": "0a9c53f38cd4e2b8463e16fdf81cd803013d165f6e73814b40c4ffe72cd1add0",
+      "freshTranslation": "UCW의 다원 전쟁의 종반, 적대 관계에 있는 조직의 지도자들이 한자리에 만나, 지금㊥후의 세계의 방향성에 대해 검토한 회담. 개최된 것이, 월면의 코페르니크㊥스시였기 때문에, 이 이름이 붙여졌다. ㊥ 회담은 결과적으로 헤어지기로 끝났고, 각 세력의 싸움은 결전으로 향했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

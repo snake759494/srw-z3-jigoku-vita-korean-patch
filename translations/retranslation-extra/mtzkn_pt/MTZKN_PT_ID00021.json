@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00021",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00021/Sheet1/000002",
+      "sourceBindingSha256": "7fc09981bd655f4e8c9eeff2f5fe00561cd26114d16d716d2e2dc7ba07f2bab2",
+      "sourceTextSha256": "9452b0a039b33b8491474b5c683496bd016233e42e76bf6cc0c1bb80a2926966",
+      "freshTranslation": "로비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00021/Sheet1/000003",
+      "sourceBindingSha256": "e6547c63352a7e9156fa877061a3b1670087bd9c996ddbf8b661c0d778580685",
+      "sourceTextSha256": "9452b0a039b33b8491474b5c683496bd016233e42e76bf6cc0c1bb80a2926966",
+      "freshTranslation": "로비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00021/Sheet1/000004",
+      "sourceBindingSha256": "2fe5de4937f4f3a6c481db1c8df0530a7f9d86348045ef5a2f729e0fc7460129",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00021/Sheet1/000005",
+      "sourceBindingSha256": "ee4014dcd63a7b86efbbb7f48fe92d2819ed56f5f85d1eb9091fdb6c85255bee",
+      "sourceTextSha256": "72dfcece4a3470aac488a250514467251b6b4a31ba5a6d19bbf26020e0c8d6e5",
+      "freshTranslation": "우주마왕을 따르는 로봇 생명체. ㊥ 한때 우주마왕이 멸망한 행성의 생존으로, IQ631의 두뇌를 가진다. ㊥ 언뜻 보면 화려한 구조이지만, 격투술에서도 상당한 실력을 발휘. 그 밖에도 텔레포 ㊥테이션 능력을 가지고 있어, 모든 장면에서 올마이티한 활동을 실시할 수 있어㊥한다. ㊥ 우주마왕의 생명에 의해 굴라의 부인이 된 후에는 참모역이 되어 그를 지지한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00021/Sheet1/000006",
+      "sourceBindingSha256": "aaf7c71aeb2d31a714542ec47f651ccc180b12c0869c05141d770fa9cd9ed2e1",
+      "sourceTextSha256": "d66100dff2bd2ef77254dde77bbda7391ea94ef3bc758b6767bc4c8b3378d538",
+      "freshTranslation": "우주마왕을 따르는 로봇 생명체. ㊥ 한때 우주마왕이 멸망한 행성의 생존으로, IQ631의 두뇌를 가진다. ㊥ 언뜻 보면 화려한 구조이지만, 격투술에서도 상당한 실력을 발휘. 그 밖에도 텔레포 ㊥테이션 능력을 가지고 있어, 모든 장면에서 올마이티한 활동을 실시할 수 있어㊥한다. ㊥우주마왕의 생명에 의해 굴라의 부인이 된 후에는 참모역이 되어 그를 지지하는 것도 ㊥배 안에서는 우주마왕에 대한 복수를 계획하고 있었다. ㊥ 이윽고 구라를 말 능숙하게 유도해 철인과 대결시켜 죽은 자로 하면, 마사타로들㊥에 하담. 우주마왕이 멸망하는 모습을 보고 만족하면 사람 모르고 텔레포테이션으로 우주의 ㊥ 어딘가에 떠났다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

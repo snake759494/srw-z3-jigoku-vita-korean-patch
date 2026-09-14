@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00110",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00110/Sheet1/000002",
+      "sourceBindingSha256": "69bc2032695e9c87d9ff357cbb95dba09b24cbd46feae049b165a30b9b95dc3e",
+      "sourceTextSha256": "2f4db1701070d00e0cf679802564bdad00949188e09a5fabdd948c653adf962d",
+      "freshTranslation": "수메라기 리 노리에가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00110/Sheet1/000003",
+      "sourceBindingSha256": "f181b9fae9870c6dec7b3c9cda3a25d0d01dd1130bda83bde7f9a13f3f297da3",
+      "sourceTextSha256": "c0607eeb100baf498bcf09f06ea043ca051f5c7785ea19fb98ce7a12ef4e8e2e",
+      "freshTranslation": "수메라기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00110/Sheet1/000004",
+      "sourceBindingSha256": "2af11fee6c2024330a832ee827828013316c8186f365552d6f8504f5a096670f",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00110/Sheet1/000005",
+      "sourceBindingSha256": "1bd3356c64f2dce5da477fbc570452164f863d5c301447f91cfc77a3c7ecef5f",
+      "sourceTextSha256": "4daa8574a6849f92dc031ac139e4d672cf58049ad2aaa99f813e3cd3a4fdfbe6",
+      "freshTranslation": "본명 요코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00110/Sheet1/000006",
+      "sourceBindingSha256": "01c0f163fd09ac9c026e0411c355a290dff447e32bd71d79e760203ef18433a7",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00110/Sheet1/000007",
+      "sourceBindingSha256": "92a98554fdd0f673a5fb217eda063dc5582a783036a5763f1c64a5e509781181",
+      "sourceTextSha256": "056d6e873040f5fb583c3ed9f668a9112ccc8947d7e54b074483a217119652e4",
+      "freshTranslation": "루비잉의 전술 예보사. 33세. ㊥ 프톨레마이오스, 프톨레마이오스 2의 함장도 맡아 유엔군이나 이노베이드와의 싸움에 ㊥ 놓고 그녀의 적확한 상황 판단과 작전 지휘는 큰 힘이 되고 있었다. 리더가 아닌 ㊥하지만 계획 계획에 참여하기 때문에 실질적으로 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00110/Sheet1/000008",
+      "sourceBindingSha256": "092462342a1d209f3a71c7b954fc2c209691b66ae3d80b3a0a6bd559f15981fa",
+      "sourceTextSha256": "f53d735972479af65f0547f9545493a1acf744bb0f1bdb5eb548a842317762ec",
+      "freshTranslation": "루비잉의 중심 존재가 ㊥있다. ㊥ 자신의 실수에 의해 연인을 잃은 과거를 갖고, 한때 유엔군과의 결전 때, 많은 ㊥의 가까운 사람을 잃은 것으로부터, 한 번은 자포자기가 되는 일도 있었지만, 알로우즈와의 싸움㊥에 고전하는 동료를 버림. ㊥ 어로우즈에 속하고 있던 카티나 빌리와는 학생 시절의 친구이며, 헤어를 따로 따로 ㊥ 되어 있었지만, 이노베이드와의 싸움 속, 어로우즈를 이반한 옛 친구 카티와 전장에서 공㊥투. 빌리 모두, 생신으로 대치했을 때 서로의 기분을 통치하는 일로 화해했다. ㊥ 싸움이 끝난 뒤에도 세츠나들과 함께 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00110/Sheet1/000009",
+      "sourceBindingSha256": "9caa8240823d89f60fc4cde5cc2349af3a8087862fc3a409fd979865fd0b3453",
+      "sourceTextSha256": "e1b1e3d7f2794bcc10bdd5e776dd15b70f621c16a94307e5038a9cc111a62367",
+      "freshTranslation": "루비잉으로 활동을 계속했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00110/Sheet1/000010",
+      "sourceBindingSha256": "618d6e1d2dbffcf7ca38869d9f8e75d6449824d7735a5cc3a1ba46439577acb0",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00110/Sheet1/000011",
+      "sourceBindingSha256": "92e82d8cbe8a5aeb667251feea35d402aee04530c1355772e8971e43a4e50cd2",
+      "sourceTextSha256": "056d6e873040f5fb583c3ed9f668a9112ccc8947d7e54b074483a217119652e4",
+      "freshTranslation": "루비잉의 전술 예보사. 33세. ㊥ 프톨레마이오스, 프톨레마이오스 2의 함장도 맡아 유엔군이나 이노베이드와의 싸움에 ㊥ 놓고 그녀의 적확한 상황 판단과 작전 지휘는 큰 힘이 되고 있었다. 리더가 아닌 ㊥하지만 계획 계획에 참여하기 때문에 실질적으로 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00110/Sheet1/000012",
+      "sourceBindingSha256": "5ebe8b198bd94368ddce44f920ed207e518c6def179973761c2d544a01794e33",
+      "sourceTextSha256": "f53d735972479af65f0547f9545493a1acf744bb0f1bdb5eb548a842317762ec",
+      "freshTranslation": "루비잉의 중심 존재가 ㊥있다. ㊥ 자신의 실수에 의해 연인을 잃은 과거를 갖고, 한때 유엔군과의 결전 때, 많은 ㊥의 가까운 사람을 잃은 것으로부터, 한 번은 자포자기가 되는 일도 있었지만, 알로우즈와의 싸움㊥에 고전하는 동료를 버림. ㊥ 어로우즈에 속하고 있던 카티나 빌리와는 학생 시절의 친구이며, 헤어를 따로 따로 ㊥ 되어 있었지만, 이노베이드와의 싸움 속, 어로우즈를 이반한 옛 친구 카티와 전장에서 공㊥투. 빌리 모두, 생신으로 대치했을 때 서로의 기분을 통치하는 일로 화해했다. ㊥ 싸움이 끝난 뒤에도 세츠나들과 함께 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00110/Sheet1/000013",
+      "sourceBindingSha256": "2ff2f7010f3c16e07e5633bd3d385ad194df0c8e2627d63fddf44f7493a46a01",
+      "sourceTextSha256": "e1b1e3d7f2794bcc10bdd5e776dd15b70f621c16a94307e5038a9cc111a62367",
+      "freshTranslation": "루비잉으로 활동을 계속했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

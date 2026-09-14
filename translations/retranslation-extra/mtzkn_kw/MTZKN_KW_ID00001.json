@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00001",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00001/Sheet1/000002",
+      "sourceBindingSha256": "44e89de020e77d9a1fa6e68f7421b37408ce61b82e031197ae43087a1cec1489",
+      "sourceTextSha256": "193cb0748b3bbedbdceb75c273eb1255b626c057bd5cb6ec554023ee2319cbcb",
+      "freshTranslation": "재세 전쟁",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00001/Sheet1/000003",
+      "sourceBindingSha256": "432cef8de1d469f5c2a95546ae622819629f619f46a9c7b50d1732f84053fe89",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00001/Sheet1/000004",
+      "sourceBindingSha256": "941524e3bb121f74479d3c2c3a54bec3073f6ec871ff619e1dca562e5413b9e0",
+      "sourceTextSha256": "ecbd4049dcb8dcc819bf76ee5110cf183a747eb8476acdc30522ad1889a0be81",
+      "freshTranslation": "ADW에서 파계사변으로부터 약 1년 후에 일어난 차원간 전쟁(=『제2차 슈퍼로㊥봇 대전 Z재세편』). ㊥ 병행 세계의 지구를 통치하고 있던 성 인사라움 왕국이 새로운 대지를 찾아 습격㊥ 오는 가운데, 지구 연방 내의 싸움, 지적 생명체를 포함한 이성으로부터의 적대 외래종과의 전쟁㊥이 동시에 발생했다. ㊥ 최종적으로는 지구연방군 외부 독립부대 ZEXIS에 의해 인사라움의 손가락 ㊥ 도자와 부활한 파계의 왕 가이오가 토벌되어 전란은 종결했다. ㊥ 덧붙여 이 싸움에서 인사라움이 설치한 차원력 추출 시스템 「ZONE」㊥은, 신세시 공진동 이후도 기능을 정지한 상태로 각지에 남아 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00001/Sheet1/000005",
+      "sourceBindingSha256": "c6061f08bba6358b88a0d8d8482015aedfd65ceaaf571991ce8ed37c54f59f11",
+      "sourceTextSha256": "ecbd4049dcb8dcc819bf76ee5110cf183a747eb8476acdc30522ad1889a0be81",
+      "freshTranslation": "ADW에서 파계사변으로부터 약 1년 후에 일어난 차원간 전쟁(=『제2차 슈퍼로㊥봇 대전 Z재세편』). ㊥ 병행 세계의 지구를 통치하고 있던 성 인사라움 왕국이 새로운 대지를 찾아 습격㊥ 오는 가운데, 지구 연방 내의 싸움, 지적 생명체를 포함한 이성으로부터의 적대 외래종과의 전쟁㊥이 동시에 발생했다. ㊥ 최종적으로는 지구연방군 외부 독립부대 ZEXIS에 의해 인사라움의 손가락 ㊥ 도자와 부활한 파계의 왕 가이오가 토벌되어 전란은 종결했다. ㊥ 덧붙여 이 싸움에서 인사라움이 설치한 차원력 추출 시스템 「ZONE」㊥은, 신세시 공진동 이후도 기능을 정지한 상태로 각지에 남아 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

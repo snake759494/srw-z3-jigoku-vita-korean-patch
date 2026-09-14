@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "시옥편 시나리오 문맥 자료",
+  "type": "object",
+  "required": [
+    "format",
+    "formatVersion",
+    "game",
+    "timeline",
+    "factions",
+    "speechRelations",
+    "sources"
+  ],
+  "properties": {
+    "format": {
+      "const": "siok-scenario-translation-context"
+    },
+    "formatVersion": {
+      "const": 1
+    },
+    "game": {
+      "type": "object"
+    },
+    "timeline": {
+      "type": "array"
+    },
+    "factions": {
+      "type": "array"
+    },
+    "speechRelations": {
+      "type": "array"
+    },
+    "sources": {
+      "type": "array"
+    }
+  },
+  "additionalProperties": true
+}

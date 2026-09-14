@@ -1,0 +1,181 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00121",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00121/Sheet1/000002",
+      "sourceBindingSha256": "d2cd2004086f8524253be10350d34d2117c35ba681a8f1603d18e457ed14ee9b",
+      "sourceTextSha256": "46b10b1fe13bde5157069482142edbf336bd472314349d32822b6c485e660406",
+      "freshTranslation": "사자 · 크로스로드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00121/Sheet1/000003",
+      "sourceBindingSha256": "1458c4c2b5d8c326310e1444b96f6bf27e209e51edbbcb794c7ee168623d2bef",
+      "sourceTextSha256": "8519acbef64d76c09015c515a4aa88411615337e077d686ab3ebbcacdf39d5bf",
+      "freshTranslation": "사자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00121/Sheet1/000004",
+      "sourceBindingSha256": "af7b9157c49e388b5ac91f49d90c18ebbc40763404f3be98fc8d7a6b6be5c3c8",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00121/Sheet1/000005",
+      "sourceBindingSha256": "81621a0a56b2342091536ebbaa92917c8c6224a7c7c987168aff7fa9eccf1905",
+      "sourceTextSha256": "655775450ffe313bb30f5995b4c8edab5486711155eb1368036a2e71e3d77f8a",
+      "freshTranslation": "우주 개발의 일에 종사하는 청소년. 24세. ㊥ 학생시절은 우주공학을 전공하고 있어, 잠입 활동 중인 세츠나와는 아파트의 이웃사람 ㊥이었다. ㊥ 부모는 이미 다른 세계. 언니도 건담에 관여했기 때문에 살해되어 천애 외로움의 몸이 되어 ㊥ 있어, 여자 친구였던 루이스도 건담의 습격에 있던 일로, 그의 앞에서 떠나 ㊥ 했다. ㊥ 그래도 꿈이었던 우주 개발의 일을 했지만,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00121/Sheet1/000006",
+      "sourceBindingSha256": "9be6715e8a5033b3cbcb61b211532adb7c89d581c0d03002f95000eb595eee18",
+      "sourceTextSha256": "8b08541dae4609e33cc975ad2cef4689b9b731ea0aaf90910db291f31ae61563",
+      "freshTranslation": "론의 구성원으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00121/Sheet1/000007",
+      "sourceBindingSha256": "f5b37a335ea08a0f6ec5d67b3d701d21b20f212511e19e5bd747e10f361c82b1",
+      "sourceTextSha256": "bff0eec035d3f2add5b58f196df58c0170c917da7155f9dae0bce2874b6da40f",
+      "freshTranslation": "그리고 구㊥ 묶여 버린다. 거기서 세츠나들에게 구해진 일로 행동을 함께 한다. ㊥ 처음에는 가족과 루이스를 빼앗은 원인이기도 한 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00121/Sheet1/000008",
+      "sourceBindingSha256": "10146284df80bba6ff0833665e15376be1524b891e5f77695a6e60727c7bf201",
+      "sourceTextSha256": "a6740dfafde56f98333f773515a9f741c42b613e651c67e621ce012f1005f72d",
+      "freshTranslation": "루비잉에 대해, 반감을 ㊥ 안고 있었지만, 어로우즈의 파일럿 안에 루이스가 있는 것을 알고, 그녀를 되찾는 ㊥ 위해 전장에 서는 결의를 한다. ㊥ 싸움을 부정하는 마음은 변하지 않았지만, 「그래도 자신이 지금 할 수 있는 일을 한다」㊥라고 하는 생각을 가지게 되어, 오라이저에 탑승. 찰나의 원호를 하면서 그가 되어 ㊥의 싸움을 하게 된다. ㊥ 최종 결전에서 더블 오라이저가 일으킨 트랜잠 버스트를 통해 루이스 ㊥와 의식을 공유. 필사적인 부름 끝에 그녀를 되찾는 데 성공했다. ㊥ 현재는 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00121/Sheet1/000009",
+      "sourceBindingSha256": "60cc89e356ca8e7d6963b4489f2e33dcf80aa477161865b807e729b113c7ad64",
+      "sourceTextSha256": "ab4219fa36efc682a7f474ac32a326be6f96d92d8c3a537b1aeddf29ac7dd41e",
+      "freshTranslation": "루비잉을 떠나 후유증이 남는 루이스의 개호를 하면서 궤도㊥엘리베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00121/Sheet1/000010",
+      "sourceBindingSha256": "af572d5ae90fea7d734b7688fbf1edf3eb872b18bac71cdd58da248bf1944a7e",
+      "sourceTextSha256": "8a36e64997483942ec367c25120f2103aab39d4059700ccf046b17af7bf5c7d2",
+      "freshTranslation": "ー관계의 일에 종사하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00121/Sheet1/000011",
+      "sourceBindingSha256": "5c5f9bb6bcb392f21730f42a41dd513ff7f62668ce8b172a31e85eadc0e14c79",
+      "sourceTextSha256": "655775450ffe313bb30f5995b4c8edab5486711155eb1368036a2e71e3d77f8a",
+      "freshTranslation": "우주 개발의 일에 종사하는 청소년. 24세. ㊥ 학생시절은 우주공학을 전공하고 있어, 잠입 활동 중인 세츠나와는 아파트의 이웃사람 ㊥이었다. ㊥ 부모는 이미 다른 세계. 언니도 건담에 관여했기 때문에 살해되어 천애 외로움의 몸이 되어 ㊥ 있어, 여자 친구였던 루이스도 건담의 습격에 있던 일로, 그의 앞에서 떠나 ㊥ 했다. ㊥ 그래도 꿈이었던 우주 개발의 일을 했지만,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00121/Sheet1/000012",
+      "sourceBindingSha256": "e29382b6cc718d5ef229980d58b5389c8ce42fd28e5a64479cd082f397b4f64e",
+      "sourceTextSha256": "8b08541dae4609e33cc975ad2cef4689b9b731ea0aaf90910db291f31ae61563",
+      "freshTranslation": "론의 구성원으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00121/Sheet1/000013",
+      "sourceBindingSha256": "94f13811a7e5b49086b2e64601e75bcfebaf256e12b7727c9049754d0121d238",
+      "sourceTextSha256": "bff0eec035d3f2add5b58f196df58c0170c917da7155f9dae0bce2874b6da40f",
+      "freshTranslation": "그리고 구㊥ 묶여 버린다. 거기서 세츠나들에게 구해진 일로 행동을 함께 한다. ㊥ 처음에는 가족과 루이스를 빼앗은 원인이기도 한 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00121/Sheet1/000014",
+      "sourceBindingSha256": "f793a65a5b6c4b8e0546e3ec90223594a14ed69a7028d713154600aa1f1b1d6c",
+      "sourceTextSha256": "a6740dfafde56f98333f773515a9f741c42b613e651c67e621ce012f1005f72d",
+      "freshTranslation": "루비잉에 대해, 반감을 ㊥ 안고 있었지만, 어로우즈의 파일럿 안에 루이스가 있는 것을 알고, 그녀를 되찾는 ㊥ 위해 전장에 서는 결의를 한다. ㊥ 싸움을 부정하는 마음은 변하지 않았지만, 「그래도 자신이 지금 할 수 있는 일을 한다」㊥라고 하는 생각을 가지게 되어, 오라이저에 탑승. 찰나의 원호를 하면서 그가 되어 ㊥의 싸움을 하게 된다. ㊥ 최종 결전에서 더블 오라이저가 일으킨 트랜잠 버스트를 통해 루이스 ㊥와 의식을 공유. 필사적인 부름 끝에 그녀를 되찾는 데 성공했다. ㊥ 현재는 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00121/Sheet1/000015",
+      "sourceBindingSha256": "73251dbb7ad647002eb63ed21120959dca455034686c5e069e90af81fa7cf3c1",
+      "sourceTextSha256": "ab4219fa36efc682a7f474ac32a326be6f96d92d8c3a537b1aeddf29ac7dd41e",
+      "freshTranslation": "루비잉을 떠나 후유증이 남는 루이스의 개호를 하면서 궤도㊥엘리베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00121/Sheet1/000016",
+      "sourceBindingSha256": "04e34232b52d921f0e66b1512d4d2b5ea91d48eeed450217fa45748a70e83f4f",
+      "sourceTextSha256": "8a36e64997483942ec367c25120f2103aab39d4059700ccf046b17af7bf5c7d2",
+      "freshTranslation": "ー관계의 일에 종사하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

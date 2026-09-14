@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00012",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00012/Sheet1/000002",
+      "sourceBindingSha256": "f8c7e0d6585aff6c0e46ad1f85ed4a04e02e7a0922d4340faa2092f77bcabb70",
+      "sourceTextSha256": "c74ae9b74ea00168f1e636d7ea97e3b9a8a9704f397f4a24abc332a6bb5cbbb8",
+      "freshTranslation": "가네다 마사타로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00012/Sheet1/000003",
+      "sourceBindingSha256": "32b624fd39a7bd185feb96077d99ce2b139e2e22bf6366c9a968a7f59aad8dd2",
+      "sourceTextSha256": "8901a56c7f8da3d30a2a50b963ec7f4dbc0289899381f3a558a3e4737feeb483",
+      "freshTranslation": "쇼타로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00012/Sheet1/000004",
+      "sourceBindingSha256": "013aa428652f6f7fdf5f3ab857820cccf3c116e482e3883119d3fe6f356e29e6",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00012/Sheet1/000005",
+      "sourceBindingSha256": "dd971a99bd492dc4b0a49e8aecd6785fe58ac84a2c12db647b9877488a475c00",
+      "sourceTextSha256": "4ddc06366962f20be116520fd8d11fbbcbfd88ec24fa4eb8cec3e87687706af0",
+      "freshTranslation": "야마다 에이코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00012/Sheet1/000006",
+      "sourceBindingSha256": "963f01a1c02ac0ae14b6d72292ce3df732c8f9f14822c48a43153f29e844f5f8",
+      "sourceTextSha256": "ed72f4260c0629fc6db5c3c825d7c9475f63808c04b2b6a4bdd8f5169c4c836d",
+      "freshTranslation": "철인 28호를 조종하는 소년. 11세. ㊥아버지, 가네다 박사가 개발해, 아버지의 친구인 키시마 박사가 완성시킨 거대 로봇, 철인㊥28호를 맡겼다. ㊥ 이미 부모는 없고, 현재는 시마지 저택 밖에서 살고 있다. ㊥ 성격은 너무",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00012/Sheet1/000007",
+      "sourceBindingSha256": "1d61cc2dcc39e6161b20b1adb6fd2d4338a4984888820edf2666a2c0afa7527f",
+      "sourceTextSha256": "5e7d919c23f9c475255b2f0797f212c235e7631b074fee78eae8056bdc8ff602",
+      "freshTranslation": "흥미롭고 정의감이 강하다. 부정은 결코 간과하지 않고, 생신에서도 악인㊥을 향해 갈 용기를 가지고 있다. ㊥년 상응에 어려운 부분도 있어, 형제와 마찬가지로 자란 맥키 앞에서는 소년의 얼굴㊥을 들여다보는 일도 많다. 또, 왕성한 호기심은 키시마 저택에 숨겨져 있던 철인을 발견하는 ㊥카케도 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00012/Sheet1/000008",
+      "sourceBindingSha256": "3c0c7e053b41a7e6f731386cd0b6d346c9406e5c08701e33fefc183263b8c7bc",
+      "sourceTextSha256": "ed72f4260c0629fc6db5c3c825d7c9475f63808c04b2b6a4bdd8f5169c4c836d",
+      "freshTranslation": "철인 28호를 조종하는 소년. 11세. ㊥아버지, 가네다 박사가 개발해, 아버지의 친구인 키시마 박사가 완성시킨 거대 로봇, 철인㊥28호를 맡겼다. ㊥ 이미 부모는 없고, 현재는 시마지 저택 밖에서 살고 있다. ㊥ 성격은 너무",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00012/Sheet1/000009",
+      "sourceBindingSha256": "f15a721e4c6c2b6b56369b32dbfb02b106a2298cc9a32dc48ce524862a73e315",
+      "sourceTextSha256": "e928f1cc43e9fcb2ecd40881a5dbeaaae24b0956c58a627fb62f2f5105732355",
+      "freshTranslation": "흥미롭고 정의감이 강하다. 부정은 결코 간과하지 않고, 생신에서도 악인㊥을 향해 갈 용기를 가지고 있다. ㊥년 상응에 어려운 부분도 있어, 형제와 마찬가지로 자란 맥키 앞에서는 소년의 얼굴㊥을 들여다보는 일도 많다. 또, 왕성한 호기심은 키시마 저택에 숨겨져 있던 철인을 발견하는 ㊥카케도 되었다. ㊥ 구라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00012/Sheet1/000010",
+      "sourceBindingSha256": "171d9cf72aa25f256849fac8fbd646ef2f1c68dd3ee26d8c9d5e9cbdb932e006",
+      "sourceTextSha256": "bb1c740a4e5f7ba5eebbf0b29f02a1517bdb69cfe0fa09b9a310ae97ba5a51b6",
+      "freshTranslation": "임캡슐에서 발굴되었을 때는 깨어나는 순간에 만나 가장 손 ㊥을 내밀어 친구가 되기를 바랐다. 나중에 구라와는 적대하게 되지만, 마음속에 ㊥는 그가 지구를 위해 행동해 줄 것이라고 믿고 계속했다. ㊥ 이윽고 지구보다 아버지를 위해 사는 것을 선택한 구라와 대결하게 되고, 마지막은 ㊥ 스스로가 조종하는 철인의 손으로 그를 쓰러뜨리는 결과가 되어 버린다. 그 후 수중에 남은 그의 검을 ㊥ 손에 넣고 \"이번에 만날 때는 검을 버려 와라\"고 친구의 죽음을 들었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

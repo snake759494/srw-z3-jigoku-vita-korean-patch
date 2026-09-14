@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00057",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00057/Sheet1/000002",
+      "sourceBindingSha256": "6a4549074f853309ea37eced8bb02b839a454280fd93945f4f904e1868d0226e",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00057/Sheet1/000003",
+      "sourceBindingSha256": "8cd151771f95308a673a172bbfa979aaeb91fb3da497372468b6dcd6a8cff8c6",
+      "sourceTextSha256": "829041f6d0547bc13a79171ffec413ba15fc9821dd08f3ebeadd23d993e67f92",
+      "freshTranslation": "건담 헤비 암즈 카이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00057/Sheet1/000004",
+      "sourceBindingSha256": "59774074c0d3378546ecb7a30a97585da934f8922bf669341844909e7097fd4b",
+      "sourceTextSha256": "829041f6d0547bc13a79171ffec413ba15fc9821dd08f3ebeadd23d993e67f92",
+      "freshTranslation": "건담 헤비 암즈 카이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00057/Sheet1/000005",
+      "sourceBindingSha256": "093cf7570fbb8eb260b1482a86a57754b784e9747ac027758d1220370db487d5",
+      "sourceTextSha256": "890a3637c39d01864f3245cf710d64b3dd05b1f48efe4f3532af09e08332d886",
+      "freshTranslation": "트로와 버튼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00057/Sheet1/000006",
+      "sourceBindingSha256": "fadb6a40d040775e359dea38d7e688041b41d749369a85134e012bb96bf5e135",
+      "sourceTextSha256": "66e44f96b959eb7ae91cf5295540446019e3dcbba50c646277fe326c4b5f1942",
+      "freshTranslation": "트로와가 탑승하는 건담. ㊥ 단기로의 거점 제압, 다수의 공격 대상과의 전투를 컨셉으로 개발되고 있으며, 전신 ㊥에 대량의 화기가 탑재되어 있다. ㊥개발에는 버튼 재단이 관여하고 있으며, 주무장인 더블 개틀링 건은 서㊥펜트도 사용하고 있다. ㊥ 본 기기는 화려한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00057/Sheet1/000007",
+      "sourceBindingSha256": "11feefd3186fcad3db8e6ec38ae729313114f392c0bd9a5033d0f2a75a4300ab",
+      "sourceTextSha256": "ed656f29957f239ab93ff19b73316f74d6b473549c661b39b41032ce24451d4f",
+      "freshTranslation": "동성으로, 이 개틀링을 2정 동시에 사용해, 서펜트부㊥대를 압도했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00057/Sheet1/000008",
+      "sourceBindingSha256": "320bb7e5284e3d884bf816908b086454f3e67490bbdd56d21843b41da7aacb80",
+      "sourceTextSha256": "66e44f96b959eb7ae91cf5295540446019e3dcbba50c646277fe326c4b5f1942",
+      "freshTranslation": "트로와가 탑승하는 건담. ㊥ 단기로의 거점 제압, 다수의 공격 대상과의 전투를 컨셉으로 개발되고 있으며, 전신 ㊥에 대량의 화기가 탑재되어 있다. ㊥개발에는 버튼 재단이 관여하고 있으며, 주무장인 더블 개틀링 건은 서㊥펜트도 사용하고 있다. ㊥ 본 기기는 화려한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00057/Sheet1/000009",
+      "sourceBindingSha256": "0e2423e6768262877bdc89f2cc566c66ffebb2259c018944ad16dc2bf5d91080",
+      "sourceTextSha256": "3ea76dbc94b690a819441116724b3ed86a75e1345308178ec036eee8072658e1",
+      "freshTranslation": "동성으로, 이 개틀링을 2정 동시에 사용해, 서펜트부㊥대를 압도했다. ㊥ 마리 메이어 군대의 반란 진압 후 평화로운 시대에 무기가 필요하지 않기 때문에 트로이 자신의 ㊥ 손으로 폐기되었습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

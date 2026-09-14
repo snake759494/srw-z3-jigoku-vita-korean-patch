@@ -1,0 +1,82 @@
+{
+  "$schema": "./extra-asset-sources.schema.json",
+  "format": "siok-extra-asset-sources",
+  "formatVersion": 1,
+  "policy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "sources": [
+    {
+      "scope": "eboot",
+      "assetKey": "EBOOT_SJIS",
+      "path": "1_eboot_bin (4025)/o-sjis-통합(eboot_bin).xlsx",
+      "sheet": "구글번역포함"
+    },
+    {
+      "scope": "eboot",
+      "assetKey": "EBOOT_UTF8",
+      "path": "1_eboot_bin (4025)/o-UTF8-통합(eboot_bin).xlsx",
+      "sheet": "구글번역포함"
+    },
+    {
+      "scope": "aid",
+      "assetKey": "AID_ID00000",
+      "path": "2_AIDDataPack_cpk (8858)/1_ID00000 (2947)/ID00000-sjis-통합(AIDDataPack_cpk).xlsx",
+      "sheet": "구글번역포함"
+    },
+    {
+      "scope": "aid",
+      "assetKey": "AID_ID00004",
+      "path": "2_AIDDataPack_cpk (8858)/2_ID00004 (5911)-보류 (프로그램으로 추정됨)/ID00004-sjis-통합.xlsx",
+      "sheet": "Sheet1"
+    },
+    {
+      "scope": "aid",
+      "assetKeyTemplate": "AID_{id}",
+      "glob": "2_AIDDataPack_cpk (8858)/3_ID00010-40/*-sjis-통합.xlsx",
+      "idRegex": "ID[0-9]{5}",
+      "sheet": "Sheet1"
+    },
+    {
+      "scope": "rpw",
+      "assetKey": "RPW_ID00000",
+      "path": "3_rpw_data_cpk (4465)/ID00000-sjis-통합(rpw_data_cpk).xlsx",
+      "sheet": "구글번역포함"
+    },
+    {
+      "scope": "srvc",
+      "assetKey": "SRVC_BIN",
+      "path": "4_SRVC_BIN (36836)/bak/SRVC_BIN-sjis-통합.xlsx",
+      "sheet": "Sheet1"
+    },
+    {
+      "scope": "kdata",
+      "assetKeyTemplate": "KDATA_{id}",
+      "glob": "D_KDataVITA_cpk/*.xlsx",
+      "idRegex": "ID[0-9]{5}",
+      "sheet": "Sheet1"
+    },
+    {
+      "scope": "mtzkn_kw",
+      "assetKeyTemplate": "MTZKN_KW_{id}",
+      "glob": "7_MtZkn_KW_cpk*/output_files/*_out-sjis.xlsx",
+      "idRegex": "ID[0-9]{5}",
+      "sheet": "Sheet1"
+    },
+    {
+      "scope": "mtzkn_pt",
+      "assetKeyTemplate": "MTZKN_PT_{id}",
+      "glob": "8_MtZkn_Pt_cpk*/output_files/*_out-sjis.xlsx",
+      "idRegex": "ID[0-9]{5}",
+      "sheet": "Sheet1"
+    },
+    {
+      "scope": "mtzkn_rt",
+      "assetKeyTemplate": "MTZKN_RT_{id}",
+      "glob": "9_MtZkn_Rt_cpk*/output_files/*_out-sjis.xlsx",
+      "idRegex": "ID[0-9]{5}",
+      "sheet": "Sheet1"
+    }
+  ]
+}

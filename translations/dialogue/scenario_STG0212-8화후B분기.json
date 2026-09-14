@@ -1,0 +1,706 @@
+{
+  "$schema": "../../config/dialogue-review.schema.json",
+  "format": "siok.dialogue-review",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "dialogueType": "scenario",
+  "languages": {
+    "source": "ja",
+    "target": "ko"
+  },
+  "asset": {
+    "assetKey": "STG0212-8화후B분기",
+    "fileName": "STG0212-8화후B분기.cpk",
+    "target": "DATA/STAGE/STG0212-8화후B분기.cpk",
+    "source": {
+      "kind": "normalized-translations-tsv",
+      "fileName": "translations.tsv"
+    },
+    "localized": null
+  },
+  "sourceSnapshot": {
+    "fileName": "translations.tsv",
+    "sha256": "7a7bd4a37228b384a5d8ed7225ccdcb378bbe38cb6196c8057cc439730cbe1cf",
+    "rowCount": 175210
+  },
+  "encoding": {},
+  "policy": {
+    "requiresUserOwnedGame": true,
+    "gameBinaryIncluded": false,
+    "originalJapaneseTextIncluded": true,
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "counts": {
+    "entries": 12,
+    "uniqueSourceTexts": 10,
+    "translatedEntries": 12
+  },
+  "entries": [
+    {
+      "entryId": "STG0212-8화후B분기/ID00003/000002",
+      "translation": "$n",
+      "sourceTextSha256": "e5e40bfe29836fbe855f98f588e6a5b447cb9a8c2e0cc3356fea11bc38876970",
+      "translationTextSha256": "e5e40bfe29836fbe855f98f588e6a5b447cb9a8c2e0cc3356fea11bc38876970",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [
+          "$n"
+        ],
+        "translationTokens": [
+          "$n"
+        ],
+        "sourceSignature": "[\"$n\"]",
+        "translationSignature": "[\"$n\"]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0212-8화후B분기",
+        "internalId": "ID00003",
+        "sourceRow": 2,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0212(8화후B분기)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "4d80ca8f8010fa3f9ad1b184a469d667117d83c50fdb0c8fd176297244b11a76",
+        "sourceBindingSha256": "127d0a8df94807318d57895d3769d87a7d0bdbf78d5949d7002ddff81d615530"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "$n",
+        "legacyTranslation": "",
+        "importedTranslation": "$n"
+      },
+      "metadata": {
+        "replacementText": "$ｎ",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "$n",
+      "newTranslationTextSha256": "e5e40bfe29836fbe855f98f588e6a5b447cb9a8c2e0cc3356fea11bc38876970",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0212-8화후B분기 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0212-8화후B분기/ID00003/000003",
+      "translation": "………",
+      "sourceTextSha256": "4be66cf94e7033822cdfc8a62cfb6122805b339fe22766c4e71d115cc89cb60f",
+      "translationTextSha256": "4be66cf94e7033822cdfc8a62cfb6122805b339fe22766c4e71d115cc89cb60f",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0212-8화후B분기",
+        "internalId": "ID00003",
+        "sourceRow": 3,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0212(8화후B분기)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "4d80ca8f8010fa3f9ad1b184a469d667117d83c50fdb0c8fd176297244b11a76",
+        "sourceBindingSha256": "4a06e290c8abdda458991f63337060e1ccc737683de739f85f05cc237d763367"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "………",
+        "legacyTranslation": "",
+        "importedTranslation": "………"
+      },
+      "metadata": {
+        "replacementText": "………",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "………",
+      "newTranslationTextSha256": "4be66cf94e7033822cdfc8a62cfb6122805b339fe22766c4e71d115cc89cb60f",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0212-8화후B분기 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0212-8화후B분기/ID00003/000006",
+      "translation": "　　　　　　　　　　～D트레이더～",
+      "sourceTextSha256": "f8f79cfefa9e11706140035c0318ca52eac153121c751dc58da2ded78d29a199",
+      "translationTextSha256": "a744c567584bbb9526fddbff9642b999339f561ae7b80563cc5187e66c3645c1",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0212-8화후B분기",
+        "internalId": "ID00003",
+        "sourceRow": 6,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0212(8화후B분기)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "4d80ca8f8010fa3f9ad1b184a469d667117d83c50fdb0c8fd176297244b11a76",
+        "sourceBindingSha256": "38db52dfdabe075ec53ec5744c36736abd43c1f1fcf11eec452e832425f83522"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 34,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "　　　　　　　　　　~D 트레이더~",
+        "legacyTranslation": "",
+        "importedTranslation": "　　　　　　　　　　～D트레이더～"
+      },
+      "metadata": {
+        "replacementText": "　　　　　　　　　　～Ｄ闘傾戚希～",
+        "byteLimit": null,
+        "encodedLength": 34
+      },
+      "newTranslation": "~D 트레이더~",
+      "newTranslationTextSha256": "ccee36f904e9631f411601e8a5812f603c3c44ef2b6e0c1d82168760ca91826c",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0212-8화후B분기 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0212-8화후B분기/ID00003/000007",
+      "translation": "AG",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "translationTextSha256": "9af9eef31e66682c7a4c3053e2f28007fd5f6ea4f2b668263ed2716fe4c793d8",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0212-8화후B분기",
+        "internalId": "ID00003",
+        "sourceRow": 7,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0212(8화후B분기)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "4d80ca8f8010fa3f9ad1b184a469d667117d83c50fdb0c8fd176297244b11a76",
+        "sourceBindingSha256": "6a004116905ea180980e856051809d1ff34c2bb992fe7bb4d22c7b73851aeaf7"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "ＡＧ",
+        "legacyTranslation": "",
+        "importedTranslation": "AG"
+      },
+      "metadata": {
+        "replacementText": "ＡＧ",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "AG",
+      "newTranslationTextSha256": "9af9eef31e66682c7a4c3053e2f28007fd5f6ea4f2b668263ed2716fe4c793d8",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0212-8화후B분기 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0212-8화후B분기/ID00003/000008",
+      "translation": "자,자,$n 씨들은",
+      "sourceTextSha256": "2123058de5b7432b71a54874934e329dc5a5e35c74a8db380cf5ec864690a97b",
+      "translationTextSha256": "d190bf5d9734f602ef97f68b960336434ebec1fa0b83a66aafe0e43ecc5553a7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [
+          "$n"
+        ],
+        "translationTokens": [
+          "$n"
+        ],
+        "sourceSignature": "[\"$n\"]",
+        "translationSignature": "[\"$n\"]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0212-8화후B분기",
+        "internalId": "ID00003",
+        "sourceRow": 8,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0212(8화후B분기)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "4d80ca8f8010fa3f9ad1b184a469d667117d83c50fdb0c8fd176297244b11a76",
+        "sourceBindingSha256": "be9ba2a905dee3bf1f071f33b202a636289a1b5597594e5dfc419cc9effbfc2b"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 20,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "자, 자, $n님들은",
+        "legacyTranslation": "",
+        "importedTranslation": "자,자,$n 씨들은"
+      },
+      "metadata": {
+        "replacementText": "切，切，$ｎ　松級精",
+        "byteLimit": null,
+        "encodedLength": 20
+      },
+      "newTranslation": "자자, $n 씨네는",
+      "newTranslationTextSha256": "9a91d5606e521116b8abc8906c7febe3990dad466d9cf734f1068f4272173f15",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0212-8화후B분기 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0212-8화후B분기/ID00003/000009",
+      "translation": "동아리의 지원을 맡게 되었다는데…",
+      "sourceTextSha256": "8e28fdfdbdd7f83485825f52fc3f855becad292c79ea9150d36902b9cebfe4cc",
+      "translationTextSha256": "ce1cdfe933df910b9d907ef762e9f11ce2a0a83e0b9f2f9b73fafcb57f62f859",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0212-8화후B분기",
+        "internalId": "ID00003",
+        "sourceRow": 9,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0212(8화후B분기)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "4d80ca8f8010fa3f9ad1b184a469d667117d83c50fdb0c8fd176297244b11a76",
+        "sourceBindingSha256": "560232b3752627eb32bdb7696238b645cc03ab94a926b88d4ebab6f23749fc15"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 36,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "동아리의 조력자를 맡게 된 것 같습니다만...",
+        "legacyTranslation": "",
+        "importedTranslation": "동아리의 지원을 맡게 되었다는데…"
+      },
+      "metadata": {
+        "replacementText": "疑焼軒税　走据聖　乎惟　鞠醸陥澗汽…",
+        "byteLimit": null,
+        "encodedLength": 36
+      },
+      "newTranslation": "동아리 도우미를 맡게 된 모양입니다만…",
+      "newTranslationTextSha256": "6ea1466e55de93ebc5871bff3ee2c1dc6529cdfbbf1889e1b0474e77405cf636",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0212-8화후B분기 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0212-8화후B분기/ID00003/000010",
+      "translation": "AG",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "translationTextSha256": "9af9eef31e66682c7a4c3053e2f28007fd5f6ea4f2b668263ed2716fe4c793d8",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0212-8화후B분기",
+        "internalId": "ID00003",
+        "sourceRow": 10,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0212(8화후B분기)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "4d80ca8f8010fa3f9ad1b184a469d667117d83c50fdb0c8fd176297244b11a76",
+        "sourceBindingSha256": "5667e1fbb5d504b884b9f531daacddcc3ede710a9bf5ee5dd925e73314d1bc35"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "ＡＧ",
+        "legacyTranslation": "",
+        "importedTranslation": "AG"
+      },
+      "metadata": {
+        "replacementText": "ＡＧ",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "AG",
+      "newTranslationTextSha256": "9af9eef31e66682c7a4c3053e2f28007fd5f6ea4f2b668263ed2716fe4c793d8",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0212-8화후B분기 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0212-8화후B분기/ID00003/000011",
+      "translation": "대체 무슨 동아리를 돕게 될까요.그리고,그 앞에",
+      "sourceTextSha256": "c247829273b7b8986f9ac19c224384c06ddb31739c20b2823f77dbf63cc748b0",
+      "translationTextSha256": "55b695a074b7f0e7f3c8b7aad1b2668046be287d828b791479fd8ba0c6380d18",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0212-8화후B분기",
+        "internalId": "ID00003",
+        "sourceRow": 11,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0212(8화후B분기)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "4d80ca8f8010fa3f9ad1b184a469d667117d83c50fdb0c8fd176297244b11a76",
+        "sourceBindingSha256": "b7a0b4a33e84af158adff099a525816e56709fe5bd8143cf777282019e516230"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 52,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "도대체 무슨 동아리를 도와주는 일인지.",
+        "legacyTranslation": "",
+        "importedTranslation": "대체 무슨 동아리를 돕게 될까요.그리고,그 앞에"
+      },
+      "metadata": {
+        "replacementText": "企端　巷充　疑焼軒研　欺惟　吃猿推．益軒壱，益　蒋拭",
+        "byteLimit": null,
+        "encodedLength": 52
+      },
+      "newTranslation": "대체 무슨 동아리를 돕게 될지….",
+      "newTranslationTextSha256": "ab0c4390e3049c80da2c7c6bf2fff5a8a1fbc3a6e7b93e6ded3b3f220b4c19f8",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0212-8화후B분기 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0212-8화후B분기/ID00003/000012",
+      "translation": "기다리고 있는 것은 폭풍일까요,천둥일까요?",
+      "sourceTextSha256": "1404f0f12a6155ab21698b0eda48342700354aedad597eb13f37cb321c5b9301",
+      "translationTextSha256": "8094c1b13dc4607a1522105372994996f18949754a664944afcbecf8ff82a6c7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0212-8화후B분기",
+        "internalId": "ID00003",
+        "sourceRow": 12,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0212(8화후B분기)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "4d80ca8f8010fa3f9ad1b184a469d667117d83c50fdb0c8fd176297244b11a76",
+        "sourceBindingSha256": "13d7e61514cc65ba64f131a4a015a27674e6cab44179271273644026ee9c629f"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 46,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "그리고 그 앞에 기다리는 것은 폭풍우인가, 천둥인가?",
+        "legacyTranslation": "",
+        "importedTranslation": "기다리고 있는 것은 폭풍일까요,천둥일까요?"
+      },
+      "metadata": {
+        "replacementText": "奄陥軒壱　赤澗　依精　賑燃析猿推，探逆析猿推？",
+        "byteLimit": null,
+        "encodedLength": 46
+      },
+      "newTranslation": "그 앞에 기다리는 건 폭풍인가, 벼락인가?",
+      "newTranslationTextSha256": "122ad3af7b54206326c47211686f60ca33d0b69dfa6dbf8deb01e7ba9206aee7",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0212-8화후B분기 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0212-8화후B분기/ID00003/000013",
+      "translation": "AG",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "translationTextSha256": "9af9eef31e66682c7a4c3053e2f28007fd5f6ea4f2b668263ed2716fe4c793d8",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0212-8화후B분기",
+        "internalId": "ID00003",
+        "sourceRow": 13,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0212(8화후B분기)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "4d80ca8f8010fa3f9ad1b184a469d667117d83c50fdb0c8fd176297244b11a76",
+        "sourceBindingSha256": "5563f28cba6796a57766156e3b4fee93377f3a40f56237f98a94080246b0bb61"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "ＡＧ",
+        "legacyTranslation": "",
+        "importedTranslation": "AG"
+      },
+      "metadata": {
+        "replacementText": "ＡＧ",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "AG",
+      "newTranslationTextSha256": "9af9eef31e66682c7a4c3053e2f28007fd5f6ea4f2b668263ed2716fe4c793d8",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0212-8화후B분기 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0212-8화후B분기/ID00003/000014",
+      "translation": "그냥 불안을 부추겨 보는 거랍니다",
+      "sourceTextSha256": "e406ddd06ef5c3fdf4ad8783321f80c9c07aea022168d6b108181fdc4087c9f8",
+      "translationTextSha256": "25d68ddc5463544da824c0947fd2656c01b6caeb5a5f78e8e02668a68f27ac79",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0212-8화후B분기",
+        "internalId": "ID00003",
+        "sourceRow": 14,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0212(8화후B분기)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "4d80ca8f8010fa3f9ad1b184a469d667117d83c50fdb0c8fd176297244b11a76",
+        "sourceBindingSha256": "0d5d6c7dd54778050d73a0d2db02529e54c577f80ac8e3ba5d438ff79fe9627d"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 36,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "이런, 불안을 부추겨 버리기도 하고.",
+        "legacyTranslation": "",
+        "importedTranslation": "그냥 불안을 부추겨 보는 거랍니다"
+      },
+      "metadata": {
+        "replacementText": "益撹　災照聖　採蓄移　左澗　暗遇艦陥",
+        "byteLimit": null,
+        "encodedLength": 36
+      },
+      "newTranslation": "라~ 고 불안을 부추겨 보기도 하고.",
+      "newTranslationTextSha256": "69f3318320c21d4ff7ca62d9c88513f5f6d8ee1ea92487bd2f25112e62bd819a",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0212-8화후B분기 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0212-8화후B분기/ID00003/000015",
+      "translation": "자,오늘도 힘내서…장사,장사!",
+      "sourceTextSha256": "c46d7290248b44507db8e776b60c7e9ca0e47fb7b035bf238ad4a905869c7e12",
+      "translationTextSha256": "025328840b31685acf6711ce84e67f04b86c734c5f28d40e099ebf728a4260de",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0212-8화후B분기",
+        "internalId": "ID00003",
+        "sourceRow": 15,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0212(8화후B분기)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "4d80ca8f8010fa3f9ad1b184a469d667117d83c50fdb0c8fd176297244b11a76",
+        "sourceBindingSha256": "42178c581fc6f876eb432565a4ded522fd32a78607fd83a5451169fb65f7f1c3"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 32,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "자, 오늘도 힘내서 장사, 장사!",
+        "legacyTranslation": "",
+        "importedTranslation": "자,오늘도 힘내서…장사,장사!"
+      },
+      "metadata": {
+        "replacementText": "切，神潅亀　毘鎧辞…舌紫，舌紫！",
+        "byteLimit": null,
+        "encodedLength": 32
+      },
+      "newTranslation": "오늘도 힘차게… 장사, 장사!",
+      "newTranslationTextSha256": "c14f2aa8572dd5aa823b9c1602f8c48796859dd5f7331032141411731d4715a2",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "STG0212-8화후B분기 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    }
+  ],
+  "retranslationPreview": {
+    "scope": "scenario_STG0212-8화후B분기.json",
+    "version": "STG0212-8화후B분기-settings-v1",
+    "field": "newTranslation",
+    "activeTranslationUnchanged": true,
+    "spacePolicy": "입력·미리보기는 반각 U+0020 공백; 최종 삽입 단계에서만 0xFEFE 치환",
+    "linePolicy": "기존 번역에서 산출한 파일별 최대 행 길이를 기준으로 뷰어가 표시 줄을 재배치",
+    "translationPolicy": "일본어 원문·로컬 용어사전·인물 관계 자료 우선; 기존 번역은 참고용"
+  }
+}

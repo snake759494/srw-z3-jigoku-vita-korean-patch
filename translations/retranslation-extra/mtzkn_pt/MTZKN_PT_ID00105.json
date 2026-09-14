@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00105",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00105/Sheet1/000002",
+      "sourceBindingSha256": "9c1129ad70e0c8aeb33310c63c3ae550f99fc225d5e8723b5c63723f034033e0",
+      "sourceTextSha256": "dee864610f0c0948ec029e97c9e2dae56fab59de91bccb9a078c980f93b092a8",
+      "freshTranslation": "알레르야 햅티즘",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00105/Sheet1/000003",
+      "sourceBindingSha256": "7f5e94105d5b048028e4035966ec061c9a0270ca962fb72db7163826f3853152",
+      "sourceTextSha256": "117f4f4ea2c3d09209655fa6f4759077d95a9e7d83f2b9af0672b5af0d3dbd23",
+      "freshTranslation": "알레르야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00105/Sheet1/000004",
+      "sourceBindingSha256": "f36ee5152dbc1d4da716a5dbdd9af24bc8814eaafda5af282e83a62f905afbef",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00105/Sheet1/000005",
+      "sourceBindingSha256": "0515b984ee079862be9f58e8801cf33337343db08cf913b23bbd20c986af2b79",
+      "sourceTextSha256": "b8fbf564ca9335f7cbed21d09c81301d11bf1bdef3261468d3604321334e64fa",
+      "freshTranslation": "요시노 유유",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00105/Sheet1/000006",
+      "sourceBindingSha256": "e2ee2af6788c575d6ecf721e6f05f82514e61f90bce2d579afe6a26b3d04d031",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00105/Sheet1/000007",
+      "sourceBindingSha256": "53235cefa5afd46c5844f2cd46a41d11867fbfc307d1e09084b12e9599495231",
+      "sourceTextSha256": "755ecc36694b5ed68119f2ca58d53bbb0a8693cfccd4b44bfc156c81a91a5c68",
+      "freshTranslation": "루비잉의 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00105/Sheet1/000008",
+      "sourceBindingSha256": "cc91aa2748b732ffe72b3023525d5e1c9de90a88e3575a88ca3f18e853767a7d",
+      "sourceTextSha256": "e88c9c09e656f9a617f863e7e5e6551227dbb83b1d5088b8e272abacb1260289",
+      "freshTranslation": "ー. 26세.㊥건담 하루트에 탑승한다.㊥두 눈의 색이 다른 오드아이로, 왼쪽 눈은 청색, 오른쪽 눈은 금색을 하고 있다.㊥평소의 성격은 겸손하고 온후, 가능하면 전투는 피하고 싶다고조차 생각하고 있다.㊥인혁련의 초인기관 기술 연구소 출신으로, 초병의 피험체 E-57로서의 가혹한 체험에㊥따라서, 다른 인격 할렐루야를 체내에 머물고 있었다. 또한이 기관에서 어린 시절에 뇌 양자파에서㊥대화를 반복하고 있던 소녀 마리를 계속 생각하고 있으며 유엔군과의 싸움 중에 초병소㊥루마 필리스가 마리임을 알고 충격을 받았다.㊥한때는 연방군에 사로잡혀 있었지만, 동료들의 손에 의해 구출된다.㊥싸움에서 마리를 되찾지만, 그녀는 세르게이의 죽음에 충격을 받았다.㊥로 돌아가지만 알레르야는 그녀와 그녀의 마리와 함께 계속 싸웠다.㊥종전 후에는 전쟁에서 많은 생명을 빼앗아 버린 것을 후회하고 마리와 함께 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00105/Sheet1/000009",
+      "sourceBindingSha256": "05117c097e1119e9f0459e9a605eefa90872d39f87eb3d6be9bc50dcaaa74770",
+      "sourceTextSha256": "0d82fd44f574e87f28aeb05d1290a0c382e002f21859122e5bbe102dc573b58d",
+      "freshTranslation": "르㊥ 비잉을 떠나 순례 여행을 하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00105/Sheet1/000010",
+      "sourceBindingSha256": "333a1f8babc84d4ca2e3afc0ec1e6087d1b0f812467f9681507f0a72e47b733c",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00105/Sheet1/000011",
+      "sourceBindingSha256": "18baf7f22e17d1eaac3b65c6cbb899262f4c7d559fabca8e1d5e6205ba61dd8d",
+      "sourceTextSha256": "755ecc36694b5ed68119f2ca58d53bbb0a8693cfccd4b44bfc156c81a91a5c68",
+      "freshTranslation": "루비잉의 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00105/Sheet1/000012",
+      "sourceBindingSha256": "8c881c86d8c9bfb33daf942cd8a8e96f48076a26e1062d2b156df05641485609",
+      "sourceTextSha256": "e88c9c09e656f9a617f863e7e5e6551227dbb83b1d5088b8e272abacb1260289",
+      "freshTranslation": "ー. 26세.㊥건담 하루트에 탑승한다.㊥두 눈의 색이 다른 오드아이로, 왼쪽 눈은 청색, 오른쪽 눈은 금색을 하고 있다.㊥평소의 성격은 겸손하고 온후, 가능하면 전투는 피하고 싶다고조차 생각하고 있다.㊥인혁련의 초인기관 기술 연구소 출신으로, 초병의 피험체 E-57로서의 가혹한 체험에㊥따라서, 다른 인격 할렐루야를 체내에 머물고 있었다. 또한이 기관에서 어린 시절에 뇌 양자파에서㊥대화를 반복하고 있던 소녀 마리를 계속 생각하고 있으며 유엔군과의 싸움 중에 초병소㊥루마 필리스가 마리임을 알고 충격을 받았다.㊥한때는 연방군에 사로잡혀 있었지만, 동료들의 손에 의해 구출된다.㊥싸움에서 마리를 되찾지만, 그녀는 세르게이의 죽음에 충격을 받았다.㊥로 돌아가지만 알레르야는 그녀와 그녀의 마리와 함께 계속 싸웠다.㊥종전 후에는 전쟁에서 많은 생명을 빼앗아 버린 것을 후회하고 마리와 함께 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00105/Sheet1/000013",
+      "sourceBindingSha256": "341612ab9f7c0ab22637b50f2d5aca2075a77c19565264b93172a668e84bf83d",
+      "sourceTextSha256": "0d82fd44f574e87f28aeb05d1290a0c382e002f21859122e5bbe102dc573b58d",
+      "freshTranslation": "르㊥ 비잉을 떠나 순례 여행을 하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

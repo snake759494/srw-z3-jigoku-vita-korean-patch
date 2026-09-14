@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00150",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00150/Sheet1/000002",
+      "sourceBindingSha256": "f77da2e0f41196e21900d33b0e006d099255299f0d810b4eb6858d8b9536cce2",
+      "sourceTextSha256": "31934899ce590f0c7be04c05b87ca69eab4b97b59005489e2f0157d96d295310",
+      "freshTranslation": "톰라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00150/Sheet1/000003",
+      "sourceBindingSha256": "b39c1205bd96325159ac51f7ac5f9f289c4d60b8b92106b86df8b7cc017335f8",
+      "sourceTextSha256": "31934899ce590f0c7be04c05b87ca69eab4b97b59005489e2f0157d96d295310",
+      "freshTranslation": "톰라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00150/Sheet1/000004",
+      "sourceBindingSha256": "cbcf5c723267ef105d99b02ee98935375484e27862871b62f6d526e82ed7d249",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00150/Sheet1/000005",
+      "sourceBindingSha256": "ae40c4f673518cc2081385f9ed864d2424dc5e812ac6a1bab6b34b6fe921e511",
+      "sourceTextSha256": "2c367e7ea2a4302b8d76a0d5d096268356ec90654ccd59ad19dc41a3a376d060",
+      "freshTranslation": "소매가 달린 갈란셰일대의 정비병. 24세. ㊥ 친절한 청년으로, 젊은이면서도 높은 모빌 슈트의 정비 기술을 가지고 있다. ㊥ 배너지를 갈란셰일에 수용했을 때에는 유니콘 건담의 옵션 파㊥ 트를 고통 없이 연장식으로 개조하는 등했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00150/Sheet1/000006",
+      "sourceBindingSha256": "43b9d411328953247e4a4b3370ad287d8fea614e477a586ff5bfd7a56e30ad1e",
+      "sourceTextSha256": "2c367e7ea2a4302b8d76a0d5d096268356ec90654ccd59ad19dc41a3a376d060",
+      "freshTranslation": "소매가 달린 갈란셰일대의 정비병. 24세. ㊥ 친절한 청년으로, 젊은이면서도 높은 모빌 슈트의 정비 기술을 가지고 있다. ㊥ 배너지를 갈란셰일에 수용했을 때에는 유니콘 건담의 옵션 파㊥ 트를 고통 없이 연장식으로 개조하는 등했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

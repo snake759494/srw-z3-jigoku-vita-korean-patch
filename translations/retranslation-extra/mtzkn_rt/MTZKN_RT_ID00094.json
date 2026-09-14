@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00094",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00094/Sheet1/000002",
+      "sourceBindingSha256": "2c6bb4af460009ca6fa6ba197de5eb42711153a0438bed98403358a5adba71eb",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00094/Sheet1/000003",
+      "sourceBindingSha256": "5e2f31598b77aa6c479eab7121b9d1bf817c8d8c090c09c686c7f91f0cb8a454",
+      "sourceTextSha256": "321a8825769d00796a587ca49ecc44029983d9c5aafc4d90cc19c62b5c44127e",
+      "freshTranslation": "가르스 K",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00094/Sheet1/000004",
+      "sourceBindingSha256": "0b281f6e78a64c8f59fba90541359c967a76728a49be3e09d0a31f53be5451c2",
+      "sourceTextSha256": "321a8825769d00796a587ca49ecc44029983d9c5aafc4d90cc19c62b5c44127e",
+      "freshTranslation": "가르스 K",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00094/Sheet1/000005",
+      "sourceBindingSha256": "485189241b8eff0393aa12aad9ccb2ce8250735091c4cb7015b92a2a96cc3b82",
+      "sourceTextSha256": "dcdf5b6a834fbfbff2b9ae676b7b13c94200fa43bc04918d02c2d3b635aaffdf",
+      "freshTranslation": "제1차 네오지온 항쟁시대에 네오지온군이 지상침공용으로 개발한 가루스㊥J의 파생기. ㊥ 고정 무장이었던 손가락 미사일과 어깨 미사일은 밧줄을 잡고 대신 ㊥ 가조움의 하이퍼 너클 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00094/Sheet1/000006",
+      "sourceBindingSha256": "bbfad83cde54caa8ec2ea568e6eb0c4b12ce20f36362290b4866317a70ef19fa",
+      "sourceTextSha256": "04db630eccbe2f512bff478f3b849dcf8a47b52348e1dd2927ebd8a9912bf457",
+      "freshTranslation": "를 어깨에 장비하고 있다. ㊥ 양팔에는 다목적으로 사용할 수 있는 하드 포인트가 설치되어 있어 트링턴 기지를 습격 ㊥ 한 기체에는 오른팔에 자크 캐논의 빅 건, 왼팔에는 3연장 미사일 포㊥드가 장착되어 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00094/Sheet1/000007",
+      "sourceBindingSha256": "59488af362f6b720b67763c2d244e0c40f2ebcec14638a52cd68c693239c1aa8",
+      "sourceTextSha256": "dcdf5b6a834fbfbff2b9ae676b7b13c94200fa43bc04918d02c2d3b635aaffdf",
+      "freshTranslation": "제1차 네오지온 항쟁시대에 네오지온군이 지상침공용으로 개발한 가루스㊥J의 파생기. ㊥ 고정 무장이었던 손가락 미사일과 어깨 미사일은 밧줄을 잡고 대신 ㊥ 가조움의 하이퍼 너클 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00094/Sheet1/000008",
+      "sourceBindingSha256": "c4dfd03ca04291e9722b7561432bbb97f25b002319ecab3753bd299259a0bfcb",
+      "sourceTextSha256": "04db630eccbe2f512bff478f3b849dcf8a47b52348e1dd2927ebd8a9912bf457",
+      "freshTranslation": "를 어깨에 장비하고 있다. ㊥ 양팔에는 다목적으로 사용할 수 있는 하드 포인트가 설치되어 있어 트링턴 기지를 습격 ㊥ 한 기체에는 오른팔에 자크 캐논의 빅 건, 왼팔에는 3연장 미사일 포㊥드가 장착되어 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

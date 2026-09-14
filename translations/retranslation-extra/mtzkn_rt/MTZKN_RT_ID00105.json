@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00105",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00105/Sheet1/000002",
+      "sourceBindingSha256": "a14acdc669898ef58d33f06aa03ec3573371641edc45533b14a4e30a0784c819",
+      "sourceTextSha256": "488b383f92e4f11b65e8a9c06a1cf89c6a23e90c2c7dd33cd82bdf88888ae2d7",
+      "freshTranslation": "상단을 되찾아라!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00105/Sheet1/000003",
+      "sourceBindingSha256": "5bbca39826bd13bd273697dabee642946a4dbfc3ed8c5109a155137bbc2396b2",
+      "sourceTextSha256": "3b26270f47a9a8c9857233513da91c3256778167a29c844852c0eb399d71c08c",
+      "freshTranslation": "우주괴수·순양함급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00105/Sheet1/000004",
+      "sourceBindingSha256": "1d87823fcb5d3db5fba2c54cee81d8e17ba5ac92ea8760aca971f828852b4039",
+      "sourceTextSha256": "3b26270f47a9a8c9857233513da91c3256778167a29c844852c0eb399d71c08c",
+      "freshTranslation": "우주괴수·순양함급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00105/Sheet1/000005",
+      "sourceBindingSha256": "6a7b02d505294e65def9b6ca32520612a132209885d2f0ce103703c0be1c8af2",
+      "sourceTextSha256": "d54dcaf5e551951e165f1de6346b50cbf947e2516232714800b4b10fd36334b4",
+      "freshTranslation": "우주 괴수의 핵심을 이루는 개체. ㊥ 이 사이즈의 개체로부터, 단체로의 워프를 할 수 있다. ㊥아광속으로 이동할 수 있어, 우주 전함조차 일격으로 가라앉는 광구나 거대한 화구포를 비치㊥에 있기 때문에, 단체에서도 위협이 되는 존재. 이들에 가세해 대량의 병대를 방출하면서 ㊥ 공격을 하여 온다. ㊥ 이 크기의 개체 중 고속",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00105/Sheet1/000006",
+      "sourceBindingSha256": "3244b175623bd8b529849a288d2bcc13eb651f2af2845e15e53c4ba4e91b154c",
+      "sourceTextSha256": "70c7eaa2d4d48220d719f54dbe781d4cc03a7f40413575d88f68f7e86335237c",
+      "freshTranslation": "라고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00105/Sheet1/000007",
+      "sourceBindingSha256": "b2a2816880f2f98e65ea66d697150adfcf2b9d99674147b21d58b104286ae3c1",
+      "sourceTextSha256": "973385487bfc3a54fbf9270fb55cba1253d16bca967a2619dff03cba10be1b2d",
+      "freshTranslation": "입은 다른 동급의 개체보다 약간 작은 ㊥만으로 화력이 떨어지는 한편 높은 기동성을 자랑한다. 후방에는 에테르 흐름에 휘어지는 대용량 차가운 ㊥각기관이 붙어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00105/Sheet1/000008",
+      "sourceBindingSha256": "691e0469ed177e00ab8f2b58cca1c354466e5185f0472dabf697c0f2a90d59db",
+      "sourceTextSha256": "d54dcaf5e551951e165f1de6346b50cbf947e2516232714800b4b10fd36334b4",
+      "freshTranslation": "우주 괴수의 핵심을 이루는 개체. ㊥ 이 사이즈의 개체로부터, 단체로의 워프를 할 수 있다. ㊥아광속으로 이동할 수 있어, 우주 전함조차 일격으로 가라앉는 광구나 거대한 화구포를 비치㊥에 있기 때문에, 단체에서도 위협이 되는 존재. 이들에 가세해 대량의 병대를 방출하면서 ㊥ 공격을 하여 온다. ㊥ 이 크기의 개체 중 고속",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00105/Sheet1/000009",
+      "sourceBindingSha256": "75565fe46843a5208fce6958faec3ade5ac073deafa82cca167496609ecc09ca",
+      "sourceTextSha256": "70c7eaa2d4d48220d719f54dbe781d4cc03a7f40413575d88f68f7e86335237c",
+      "freshTranslation": "라고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00105/Sheet1/000010",
+      "sourceBindingSha256": "1ac499f54aa1ef729d5f7adb7e5f147a8af85624f2a0e9dd822f61aeaf97df40",
+      "sourceTextSha256": "973385487bfc3a54fbf9270fb55cba1253d16bca967a2619dff03cba10be1b2d",
+      "freshTranslation": "입은 다른 동급의 개체보다 약간 작은 ㊥만으로 화력이 떨어지는 한편 높은 기동성을 자랑한다. 후방에는 에테르 흐름에 휘어지는 대용량 차가운 ㊥각기관이 붙어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

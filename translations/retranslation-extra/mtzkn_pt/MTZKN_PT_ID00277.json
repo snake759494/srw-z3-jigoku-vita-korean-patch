@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00277",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00277/Sheet1/000002",
+      "sourceBindingSha256": "e7a91de9fba4fc45f3518d96c01f0d8b323e2403656ed9fb7364c9073207e3f8",
+      "sourceTextSha256": "a199b1e791b50f0f70b010cc28290cfeaf0ff0ce237319b6033e382fa9627ccb",
+      "freshTranslation": "이시하라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00277/Sheet1/000003",
+      "sourceBindingSha256": "9ebc952cf80bdf21f79ec5bd9329535dca82b8450c6b77a40775635d64ea1027",
+      "sourceTextSha256": "a199b1e791b50f0f70b010cc28290cfeaf0ff0ce237319b6033e382fa9627ccb",
+      "freshTranslation": "이시하라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00277/Sheet1/000004",
+      "sourceBindingSha256": "c8a68aa353cc6ba503e45d5835da5d8b86b0b05e95183668e46ef36aacc0972d",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00277/Sheet1/000005",
+      "sourceBindingSha256": "c83b5ad86dcd772ac617b208235a5dc501436ad833c44b49b8e4fdb987c3221a",
+      "sourceTextSha256": "9e9b34d92f4bc3a617bf9dfd80231d1ec66843cd2c627f4c27236be52d8cde21",
+      "freshTranslation": "르 패닉? 후모후",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00277/Sheet1/000006",
+      "sourceBindingSha256": "3c507dddf61f16968ce25c538571ede85058fd04b6c7d1409ced278bf6a42c8c",
+      "sourceTextSha256": "601e65dfbae68256804cd294639aac8cc16142a34fd1772f8d9c78afccd9bff4",
+      "freshTranslation": "진대고교 럭비부의 부원. ㊥ 럭비부가 폐부의 위기에 빠졌기 때문에, 캡틴의 고다들과 함께 소스케와 카나메 ㊥를 보충 선수와 매니저로서 맞이한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00277/Sheet1/000007",
+      "sourceBindingSha256": "5313e85c8029dc122c397fdbb671d45118595a3acc7cd05dba3e8772fe3c44c7",
+      "sourceTextSha256": "dd20a3f3ac3692c91bd31efc0c17c40160a217812766d43caa2bf5dd41a14d52",
+      "freshTranslation": "진대고교 럭비부의 부원. ㊥ 럭비부가 폐부의 위기에 빠졌기 때문에, 캡틴의 고다들과 함께 소스케와 카나메 ㊥를 보충 선수와 매니저로서 맞이한다. 유리산 고등학교와의 경기에 임하기 위해서 소스케의 ㊥ 해병대식 맹특훈을 받아, 킬머신으로서 다시 태어난다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

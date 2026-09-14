@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00397",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00397/Sheet1/000002",
+      "sourceBindingSha256": "0f4d4e17819df322526f29fb4c61ff3017b2ba2c1bf4428ef4b8591e82fc4a01",
+      "sourceTextSha256": "fe5d53282dedb692ec0283f96399b3b2c283916ae3ac4e82fedf9a6c9f339d44",
+      "freshTranslation": "Advent",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00397/Sheet1/000003",
+      "sourceBindingSha256": "1e6f922ebee77520d4620f46b9fc047c35682ac0411901ee78bdceec398ff732",
+      "sourceTextSha256": "fe5d53282dedb692ec0283f96399b3b2c283916ae3ac4e82fedf9a6c9f339d44",
+      "freshTranslation": "Advent",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00397/Sheet1/000004",
+      "sourceBindingSha256": "5f024d28a3db74b2fae1d0ff91568ac97ab3457c600ee90f9d37b3855603bbc7",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00397/Sheet1/000005",
+      "sourceBindingSha256": "66cf143e7a27deb85d4c7b2b2f3b6a817e51c2142ebabce45f7fa11b5c27cc7d",
+      "sourceTextSha256": "a1db5c3cba1407410ea64fb25e1beb6f1f3dd253d8755bd82cce1b03de75e4d6",
+      "freshTranslation": "스와베 준이치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00397/Sheet1/000006",
+      "sourceBindingSha256": "e856ed1f72afa72c1bbd4c4a89b7a06a82736d8f3b2c7c64ba73fff18dac7321",
+      "sourceTextSha256": "c8618c8b03b6952444ae4bbc36a29c658e92ac1df95fbc9ae0a93ba38fd55a8d",
+      "freshTranslation": "기동 무기 아스클렙스를 달리는 수수께끼의 청년. ㊥ 항상 따뜻한 미소를 지으며 부드럽고 우아한 허리를 가지고 있습니다. ㊥ 그 목적은 불분명하지만, 자신의 적에 대해서는 확연한 태도로 임하고, 때로는 傲岸㊥ 불편이라고도 말할 수 있는 태도를 취한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00397/Sheet1/000007",
+      "sourceBindingSha256": "b120e3f6c948854b2d9a76e3cf97ecbb00f8e8e36afb6fca8799a2e372842c75",
+      "sourceTextSha256": "1d3997bae4be9ccb3d5f19dd48d6a10d8e33344d3c3414fe06912f0df38b198e",
+      "freshTranslation": "기동 무기 아스클렙스를 달리는 수수께끼의 청년. ㊥ 「인류의 진화를 지켜보는 자」를 자칭하는 크로노 개혁파의 행동 대장이며, 개혁파의 실 ㊥ 질상의 톱을 맡는다. ㊥ 항상 따뜻한 미소를 지으며 부드럽고 우아한 허리를 가지고 있습니다. ㊥ 크로노 개혁파와 그의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00397/Sheet1/000008",
+      "sourceBindingSha256": "1c4a8d2c6ac10b9a64b99a54c12abfe900bbaea27666c20c0712fe0120ac5852",
+      "sourceTextSha256": "e426b36253d8ddbc48e9065b06b5e57057a86bc68b4cda93dd817c396f37fed3",
+      "freshTranslation": "의 목적은 불명하지만, 크로노 보수파의 흑막이었던 제미㊥니스에 대해서는 확연한 태도로 임하고, 때로는 용안 불편이라고도 말할 수 있는 태도를 취한다. ㊥ 스스로를 '저주받은 자'라고 하며 '텐시'를 쫓는 다른 세계의 인간이라고 말하지만, ㊥제미니스와의 최종 결전에서 가드라이트의 '이잡는 쌍둥이'의 스피어를 깨기 위해 ㊥지반에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

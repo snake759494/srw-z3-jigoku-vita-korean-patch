@@ -1,0 +1,1401 @@
+{
+  "$schema": "./scenario-index.schema.json",
+  "format": "siok.scenario-viewer-catalog",
+  "formatVersion": 1,
+  "generatedAt": "2026-08-12",
+  "basePath": "../translations/dialogue/",
+  "assets": [
+    {
+      "name": "scenario_STG0001a.json",
+      "key": "STG0001a",
+      "label": "STG0001a · scenario_STG0001a.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0001a.json",
+      "entries": 93
+    },
+    {
+      "name": "scenario_STG0001b.json",
+      "key": "STG0001b",
+      "label": "STG0001b · scenario_STG0001b.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0001b.json",
+      "entries": 558
+    },
+    {
+      "name": "scenario_STG0002.json",
+      "key": "STG0002",
+      "label": "STG0002 · scenario_STG0002.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0002.json",
+      "entries": 1443
+    },
+    {
+      "name": "scenario_STG0003.json",
+      "key": "STG0003",
+      "label": "STG0003 · scenario_STG0003.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0003.json",
+      "entries": 976
+    },
+    {
+      "name": "scenario_STG0004.json",
+      "key": "STG0004",
+      "label": "STG0004 · scenario_STG0004.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0004.json",
+      "entries": 1561
+    },
+    {
+      "name": "scenario_STG0005.json",
+      "key": "STG0005",
+      "label": "STG0005 · scenario_STG0005.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0005.json",
+      "entries": 1021
+    },
+    {
+      "name": "scenario_STG0006.json",
+      "key": "STG0006",
+      "label": "STG0006 · scenario_STG0006.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0006.json",
+      "entries": 888
+    },
+    {
+      "name": "scenario_STG0007a.json",
+      "key": "STG0007a",
+      "label": "STG0007a · scenario_STG0007a.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0007a.json",
+      "entries": 141
+    },
+    {
+      "name": "scenario_STG0007b.json",
+      "key": "STG0007b",
+      "label": "STG0007b · scenario_STG0007b.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0007b.json",
+      "entries": 993
+    },
+    {
+      "name": "scenario_STG0008.json",
+      "key": "STG0008",
+      "label": "STG0008 · scenario_STG0008.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0008.json",
+      "entries": 1105
+    },
+    {
+      "name": "scenario_STG0009.json",
+      "key": "STG0009",
+      "label": "STG0009 · scenario_STG0009.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0009.json",
+      "entries": 944
+    },
+    {
+      "name": "scenario_STG0010.json",
+      "key": "STG0010",
+      "label": "STG0010 · scenario_STG0010.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0010.json",
+      "entries": 1907
+    },
+    {
+      "name": "scenario_STG0011.json",
+      "key": "STG0011",
+      "label": "STG0011 · scenario_STG0011.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0011.json",
+      "entries": 1218
+    },
+    {
+      "name": "scenario_STG0012.json",
+      "key": "STG0012",
+      "label": "STG0012 · scenario_STG0012.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0012.json",
+      "entries": 1344
+    },
+    {
+      "name": "scenario_STG0013.json",
+      "key": "STG0013",
+      "label": "STG0013 · scenario_STG0013.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0013.json",
+      "entries": 658
+    },
+    {
+      "name": "scenario_STG0014.json",
+      "key": "STG0014",
+      "label": "STG0014 · scenario_STG0014.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0014.json",
+      "entries": 1544
+    },
+    {
+      "name": "scenario_STG0015.json",
+      "key": "STG0015",
+      "label": "STG0015 · scenario_STG0015.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0015.json",
+      "entries": 1148
+    },
+    {
+      "name": "scenario_STG0016.json",
+      "key": "STG0016",
+      "label": "STG0016 · scenario_STG0016.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0016.json",
+      "entries": 1449
+    },
+    {
+      "name": "scenario_STG0017.json",
+      "key": "STG0017",
+      "label": "STG0017 · scenario_STG0017.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0017.json",
+      "entries": 1035
+    },
+    {
+      "name": "scenario_STG0018.json",
+      "key": "STG0018",
+      "label": "STG0018 · scenario_STG0018.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0018.json",
+      "entries": 1416
+    },
+    {
+      "name": "scenario_STG0019.json",
+      "key": "STG0019",
+      "label": "STG0019 · scenario_STG0019.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0019.json",
+      "entries": 1271
+    },
+    {
+      "name": "scenario_STG0020.json",
+      "key": "STG0020",
+      "label": "STG0020 · scenario_STG0020.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0020.json",
+      "entries": 988
+    },
+    {
+      "name": "scenario_STG0021.json",
+      "key": "STG0021",
+      "label": "STG0021 · scenario_STG0021.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0021.json",
+      "entries": 1195
+    },
+    {
+      "name": "scenario_STG0022.json",
+      "key": "STG0022",
+      "label": "STG0022 · scenario_STG0022.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0022.json",
+      "entries": 993
+    },
+    {
+      "name": "scenario_STG0023.json",
+      "key": "STG0023",
+      "label": "STG0023 · scenario_STG0023.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0023.json",
+      "entries": 1029
+    },
+    {
+      "name": "scenario_STG0024.json",
+      "key": "STG0024",
+      "label": "STG0024 · scenario_STG0024.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0024.json",
+      "entries": 1147
+    },
+    {
+      "name": "scenario_STG0025.json",
+      "key": "STG0025",
+      "label": "STG0025 · scenario_STG0025.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0025.json",
+      "entries": 2915
+    },
+    {
+      "name": "scenario_STG0026.json",
+      "key": "STG0026",
+      "label": "STG0026 · scenario_STG0026.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0026.json",
+      "entries": 1204
+    },
+    {
+      "name": "scenario_STG0027.json",
+      "key": "STG0027",
+      "label": "STG0027 · scenario_STG0027.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0027.json",
+      "entries": 2443
+    },
+    {
+      "name": "scenario_STG0028.json",
+      "key": "STG0028",
+      "label": "STG0028 · scenario_STG0028.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0028.json",
+      "entries": 1583
+    },
+    {
+      "name": "scenario_STG0029.json",
+      "key": "STG0029",
+      "label": "STG0029 · scenario_STG0029.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0029.json",
+      "entries": 1527
+    },
+    {
+      "name": "scenario_STG0030.json",
+      "key": "STG0030",
+      "label": "STG0030 · scenario_STG0030.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0030.json",
+      "entries": 1161
+    },
+    {
+      "name": "scenario_STG0031a.json",
+      "key": "STG0031a",
+      "label": "STG0031a · scenario_STG0031a.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0031a.json",
+      "entries": 327
+    },
+    {
+      "name": "scenario_STG0031b.json",
+      "key": "STG0031b",
+      "label": "STG0031b · scenario_STG0031b.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0031b.json",
+      "entries": 1764
+    },
+    {
+      "name": "scenario_STG0032.json",
+      "key": "STG0032",
+      "label": "STG0032 · scenario_STG0032.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0032.json",
+      "entries": 2122
+    },
+    {
+      "name": "scenario_STG0033a.json",
+      "key": "STG0033a",
+      "label": "STG0033a · scenario_STG0033a.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0033a.json",
+      "entries": 768
+    },
+    {
+      "name": "scenario_STG0033b.json",
+      "key": "STG0033b",
+      "label": "STG0033b · scenario_STG0033b.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0033b.json",
+      "entries": 1139
+    },
+    {
+      "name": "scenario_STG0034.json",
+      "key": "STG0034",
+      "label": "STG0034 · scenario_STG0034.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0034.json",
+      "entries": 1075
+    },
+    {
+      "name": "scenario_STG0035.json",
+      "key": "STG0035",
+      "label": "STG0035 · scenario_STG0035.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0035.json",
+      "entries": 1183
+    },
+    {
+      "name": "scenario_STG0036.json",
+      "key": "STG0036",
+      "label": "STG0036 · scenario_STG0036.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0036.json",
+      "entries": 1174
+    },
+    {
+      "name": "scenario_STG0037.json",
+      "key": "STG0037",
+      "label": "STG0037 · scenario_STG0037.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0037.json",
+      "entries": 1397
+    },
+    {
+      "name": "scenario_STG0038.json",
+      "key": "STG0038",
+      "label": "STG0038 · scenario_STG0038.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0038.json",
+      "entries": 1362
+    },
+    {
+      "name": "scenario_STG0039.json",
+      "key": "STG0039",
+      "label": "STG0039 · scenario_STG0039.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0039.json",
+      "entries": 1356
+    },
+    {
+      "name": "scenario_STG0040.json",
+      "key": "STG0040",
+      "label": "STG0040 · scenario_STG0040.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0040.json",
+      "entries": 1030
+    },
+    {
+      "name": "scenario_STG0041.json",
+      "key": "STG0041",
+      "label": "STG0041 · scenario_STG0041.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0041.json",
+      "entries": 1180
+    },
+    {
+      "name": "scenario_STG0042.json",
+      "key": "STG0042",
+      "label": "STG0042 · scenario_STG0042.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0042.json",
+      "entries": 1336
+    },
+    {
+      "name": "scenario_STG0043.json",
+      "key": "STG0043",
+      "label": "STG0043 · scenario_STG0043.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0043.json",
+      "entries": 2637
+    },
+    {
+      "name": "scenario_STG0044a.json",
+      "key": "STG0044a",
+      "label": "STG0044a · scenario_STG0044a.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0044a.json",
+      "entries": 483
+    },
+    {
+      "name": "scenario_STG0044b.json",
+      "key": "STG0044b",
+      "label": "STG0044b · scenario_STG0044b.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0044b.json",
+      "entries": 800
+    },
+    {
+      "name": "scenario_STG0045.json",
+      "key": "STG0045",
+      "label": "STG0045 · scenario_STG0045.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0045.json",
+      "entries": 1738
+    },
+    {
+      "name": "scenario_STG0046a.json",
+      "key": "STG0046a",
+      "label": "STG0046a · scenario_STG0046a.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0046a.json",
+      "entries": 135
+    },
+    {
+      "name": "scenario_STG0046b.json",
+      "key": "STG0046b",
+      "label": "STG0046b · scenario_STG0046b.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0046b.json",
+      "entries": 1640
+    },
+    {
+      "name": "scenario_STG0047.json",
+      "key": "STG0047",
+      "label": "STG0047 · scenario_STG0047.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0047.json",
+      "entries": 1127
+    },
+    {
+      "name": "scenario_STG0048.json",
+      "key": "STG0048",
+      "label": "STG0048 · scenario_STG0048.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0048.json",
+      "entries": 1841
+    },
+    {
+      "name": "scenario_STG0049.json",
+      "key": "STG0049",
+      "label": "STG0049 · scenario_STG0049.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0049.json",
+      "entries": 1399
+    },
+    {
+      "name": "scenario_STG0050a.json",
+      "key": "STG0050a",
+      "label": "STG0050a · scenario_STG0050a.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0050a.json",
+      "entries": 247
+    },
+    {
+      "name": "scenario_STG0050b.json",
+      "key": "STG0050b",
+      "label": "STG0050b · scenario_STG0050b.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0050b.json",
+      "entries": 571
+    },
+    {
+      "name": "scenario_STG0051a.json",
+      "key": "STG0051a",
+      "label": "STG0051a · scenario_STG0051a.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0051a.json",
+      "entries": 1207
+    },
+    {
+      "name": "scenario_STG0051b.json",
+      "key": "STG0051b",
+      "label": "STG0051b · scenario_STG0051b.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0051b.json",
+      "entries": 307
+    },
+    {
+      "name": "scenario_STG0052.json",
+      "key": "STG0052",
+      "label": "STG0052 · scenario_STG0052.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0052.json",
+      "entries": 1379
+    },
+    {
+      "name": "scenario_STG0053.json",
+      "key": "STG0053",
+      "label": "STG0053 · scenario_STG0053.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0053.json",
+      "entries": 1868
+    },
+    {
+      "name": "scenario_STG0054.json",
+      "key": "STG0054",
+      "label": "STG0054 · scenario_STG0054.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0054.json",
+      "entries": 1052
+    },
+    {
+      "name": "scenario_STG0055.json",
+      "key": "STG0055",
+      "label": "STG0055 · scenario_STG0055.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0055.json",
+      "entries": 1411
+    },
+    {
+      "name": "scenario_STG0056.json",
+      "key": "STG0056",
+      "label": "STG0056 · scenario_STG0056.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0056.json",
+      "entries": 1139
+    },
+    {
+      "name": "scenario_STG0057.json",
+      "key": "STG0057",
+      "label": "STG0057 · scenario_STG0057.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0057.json",
+      "entries": 1135
+    },
+    {
+      "name": "scenario_STG0058.json",
+      "key": "STG0058",
+      "label": "STG0058 · scenario_STG0058.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0058.json",
+      "entries": 1552
+    },
+    {
+      "name": "scenario_STG0059.json",
+      "key": "STG0059",
+      "label": "STG0059 · scenario_STG0059.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0059.json",
+      "entries": 1275
+    },
+    {
+      "name": "scenario_STG0060.json",
+      "key": "STG0060",
+      "label": "STG0060 · scenario_STG0060.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0060.json",
+      "entries": 1257
+    },
+    {
+      "name": "scenario_STG0061.json",
+      "key": "STG0061",
+      "label": "STG0061 · scenario_STG0061.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0061.json",
+      "entries": 1267
+    },
+    {
+      "name": "scenario_STG0062.json",
+      "key": "STG0062",
+      "label": "STG0062 · scenario_STG0062.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0062.json",
+      "entries": 1344
+    },
+    {
+      "name": "scenario_STG0063.json",
+      "key": "STG0063",
+      "label": "STG0063 · scenario_STG0063.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0063.json",
+      "entries": 907
+    },
+    {
+      "name": "scenario_STG0064.json",
+      "key": "STG0064",
+      "label": "STG0064 · scenario_STG0064.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0064.json",
+      "entries": 1652
+    },
+    {
+      "name": "scenario_STG0065.json",
+      "key": "STG0065",
+      "label": "STG0065 · scenario_STG0065.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0065.json",
+      "entries": 1363
+    },
+    {
+      "name": "scenario_STG0066.json",
+      "key": "STG0066",
+      "label": "STG0066 · scenario_STG0066.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0066.json",
+      "entries": 1400
+    },
+    {
+      "name": "scenario_STG0067.json",
+      "key": "STG0067",
+      "label": "STG0067 · scenario_STG0067.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0067.json",
+      "entries": 1225
+    },
+    {
+      "name": "scenario_STG0068a.json",
+      "key": "STG0068a",
+      "label": "STG0068a · scenario_STG0068a.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0068a.json",
+      "entries": 85
+    },
+    {
+      "name": "scenario_STG0068b.json",
+      "key": "STG0068b",
+      "label": "STG0068b · scenario_STG0068b.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0068b.json",
+      "entries": 2647
+    },
+    {
+      "name": "scenario_STG0069.json",
+      "key": "STG0069",
+      "label": "STG0069 · scenario_STG0069.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0069.json",
+      "entries": 2548
+    },
+    {
+      "name": "scenario_STG0070.json",
+      "key": "STG0070",
+      "label": "STG0070 · scenario_STG0070.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0070.json",
+      "entries": 1758
+    },
+    {
+      "name": "scenario_STG0071.json",
+      "key": "STG0071",
+      "label": "STG0071 · scenario_STG0071.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0071.json",
+      "entries": 1438
+    },
+    {
+      "name": "scenario_STG0072.json",
+      "key": "STG0072",
+      "label": "STG0072 · scenario_STG0072.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0072.json",
+      "entries": 1173
+    },
+    {
+      "name": "scenario_STG0073.json",
+      "key": "STG0073",
+      "label": "STG0073 · scenario_STG0073.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0073.json",
+      "entries": 938
+    },
+    {
+      "name": "scenario_STG0074.json",
+      "key": "STG0074",
+      "label": "STG0074 · scenario_STG0074.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0074.json",
+      "entries": 1431
+    },
+    {
+      "name": "scenario_STG0075.json",
+      "key": "STG0075",
+      "label": "STG0075 · scenario_STG0075.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0075.json",
+      "entries": 1556
+    },
+    {
+      "name": "scenario_STG0076.json",
+      "key": "STG0076",
+      "label": "STG0076 · scenario_STG0076.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0076.json",
+      "entries": 1107
+    },
+    {
+      "name": "scenario_STG0077.json",
+      "key": "STG0077",
+      "label": "STG0077 · scenario_STG0077.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0077.json",
+      "entries": 1783
+    },
+    {
+      "name": "scenario_STG0078.json",
+      "key": "STG0078",
+      "label": "STG0078 · scenario_STG0078.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0078.json",
+      "entries": 1204
+    },
+    {
+      "name": "scenario_STG0079.json",
+      "key": "STG0079",
+      "label": "STG0079 · scenario_STG0079.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0079.json",
+      "entries": 1148
+    },
+    {
+      "name": "scenario_STG0080.json",
+      "key": "STG0080",
+      "label": "STG0080 · scenario_STG0080.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0080.json",
+      "entries": 1083
+    },
+    {
+      "name": "scenario_STG0081.json",
+      "key": "STG0081",
+      "label": "STG0081 · scenario_STG0081.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0081.json",
+      "entries": 1343
+    },
+    {
+      "name": "scenario_STG0082.json",
+      "key": "STG0082",
+      "label": "STG0082 · scenario_STG0082.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0082.json",
+      "entries": 963
+    },
+    {
+      "name": "scenario_STG0083.json",
+      "key": "STG0083",
+      "label": "STG0083 · scenario_STG0083.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0083.json",
+      "entries": 2659
+    },
+    {
+      "name": "scenario_STG0084.json",
+      "key": "STG0084",
+      "label": "STG0084 · scenario_STG0084.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0084.json",
+      "entries": 1596
+    },
+    {
+      "name": "scenario_STG0085a.json",
+      "key": "STG0085a",
+      "label": "STG0085a · scenario_STG0085a.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0085a.json",
+      "entries": 457
+    },
+    {
+      "name": "scenario_STG0085b.json",
+      "key": "STG0085b",
+      "label": "STG0085b · scenario_STG0085b.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0085b.json",
+      "entries": 975
+    },
+    {
+      "name": "scenario_STG0086.json",
+      "key": "STG0086",
+      "label": "STG0086 · scenario_STG0086.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0086.json",
+      "entries": 2373
+    },
+    {
+      "name": "scenario_STG0087.json",
+      "key": "STG0087",
+      "label": "STG0087 · scenario_STG0087.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0087.json",
+      "entries": 1762
+    },
+    {
+      "name": "scenario_STG0088a.json",
+      "key": "STG0088a",
+      "label": "STG0088a · scenario_STG0088a.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0088a.json",
+      "entries": 1261
+    },
+    {
+      "name": "scenario_STG0088b.json",
+      "key": "STG0088b",
+      "label": "STG0088b · scenario_STG0088b.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0088b.json",
+      "entries": 281
+    },
+    {
+      "name": "scenario_STG0089a.json",
+      "key": "STG0089a",
+      "label": "STG0089a · scenario_STG0089a.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0089a.json",
+      "entries": 480
+    },
+    {
+      "name": "scenario_STG0089b.json",
+      "key": "STG0089b",
+      "label": "STG0089b · scenario_STG0089b.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0089b.json",
+      "entries": 1345
+    },
+    {
+      "name": "scenario_STG0090.json",
+      "key": "STG0090",
+      "label": "STG0090 · scenario_STG0090.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0090.json",
+      "entries": 865
+    },
+    {
+      "name": "scenario_STG0091.json",
+      "key": "STG0091",
+      "label": "STG0091 · scenario_STG0091.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0091.json",
+      "entries": 1268
+    },
+    {
+      "name": "scenario_STG0092.json",
+      "key": "STG0092",
+      "label": "STG0092 · scenario_STG0092.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0092.json",
+      "entries": 1582
+    },
+    {
+      "name": "scenario_STG0093a.json",
+      "key": "STG0093a",
+      "label": "STG0093a · scenario_STG0093a.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0093a.json",
+      "entries": 2600
+    },
+    {
+      "name": "scenario_STG0093b.json",
+      "key": "STG0093b",
+      "label": "STG0093b · scenario_STG0093b.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0093b.json",
+      "entries": 516
+    },
+    {
+      "name": "scenario_STG0094.json",
+      "key": "STG0094",
+      "label": "STG0094 · scenario_STG0094.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0094.json",
+      "entries": 1314
+    },
+    {
+      "name": "scenario_STG0095.json",
+      "key": "STG0095",
+      "label": "STG0095 · scenario_STG0095.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0095.json",
+      "entries": 1607
+    },
+    {
+      "name": "scenario_STG0096.json",
+      "key": "STG0096",
+      "label": "STG0096 · scenario_STG0096.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0096.json",
+      "entries": 2229
+    },
+    {
+      "name": "scenario_STG0097.json",
+      "key": "STG0097",
+      "label": "STG0097 · scenario_STG0097.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0097.json",
+      "entries": 2543
+    },
+    {
+      "name": "scenario_STG0098a.json",
+      "key": "STG0098a",
+      "label": "STG0098a · scenario_STG0098a.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0098a.json",
+      "entries": 1917
+    },
+    {
+      "name": "scenario_STG0098b.json",
+      "key": "STG0098b",
+      "label": "STG0098b · scenario_STG0098b.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0098b.json",
+      "entries": 644
+    },
+    {
+      "name": "scenario_STG0099.json",
+      "key": "STG0099",
+      "label": "STG0099 · scenario_STG0099.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0099.json",
+      "entries": 2332
+    },
+    {
+      "name": "scenario_STG0100a.json",
+      "key": "STG0100a",
+      "label": "STG0100a · scenario_STG0100a.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0100a.json",
+      "entries": 2162
+    },
+    {
+      "name": "scenario_STG0100b.json",
+      "key": "STG0100b",
+      "label": "STG0100b · scenario_STG0100b.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0100b.json",
+      "entries": 151
+    },
+    {
+      "name": "scenario_STG0200-4화-A분기.json",
+      "key": "STG0200-4화-A분기",
+      "label": "STG0200-4화-A분기 · scenario_STG0200-4화-A분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0200-4화-A분기.json",
+      "entries": 239
+    },
+    {
+      "name": "scenario_STG0201-4화-B분기.json",
+      "key": "STG0201-4화-B분기",
+      "label": "STG0201-4화-B분기 · scenario_STG0201-4화-B분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0201-4화-B분기.json",
+      "entries": 11
+    },
+    {
+      "name": "scenario_STG0202-4화-B분기.json",
+      "key": "STG0202-4화-B분기",
+      "label": "STG0202-4화-B분기 · scenario_STG0202-4화-B분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0202-4화-B분기.json",
+      "entries": 11
+    },
+    {
+      "name": "scenario_STG0210-8화후A분기.json",
+      "key": "STG0210-8화후A분기",
+      "label": "STG0210-8화후A분기 · scenario_STG0210-8화후A분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0210-8화후A분기.json",
+      "entries": 12
+    },
+    {
+      "name": "scenario_STG0210-8화후분기.json",
+      "key": "STG0210-8화후분기",
+      "label": "STG0210-8화후분기 · scenario_STG0210-8화후분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0210-8화후분기.json",
+      "entries": 388
+    },
+    {
+      "name": "scenario_STG0212-8화후B분기.json",
+      "key": "STG0212-8화후B분기",
+      "label": "STG0212-8화후B분기 · scenario_STG0212-8화후B분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0212-8화후B분기.json",
+      "entries": 12
+    },
+    {
+      "name": "scenario_STG0220-9화후분기.json",
+      "key": "STG0220-9화후분기",
+      "label": "STG0220-9화후분기 · scenario_STG0220-9화후분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0220-9화후분기.json",
+      "entries": 439
+    },
+    {
+      "name": "scenario_STG0221-9화후B분기.json",
+      "key": "STG0221-9화후B분기",
+      "label": "STG0221-9화후B분기 · scenario_STG0221-9화후B분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0221-9화후B분기.json",
+      "entries": 34
+    },
+    {
+      "name": "scenario_STG0222-9화후B분기.json",
+      "key": "STG0222-9화후B분기",
+      "label": "STG0222-9화후B분기 · scenario_STG0222-9화후B분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0222-9화후B분기.json",
+      "entries": 35
+    },
+    {
+      "name": "scenario_STG0223-9화후C분기.json",
+      "key": "STG0223-9화후C분기",
+      "label": "STG0223-9화후C분기 · scenario_STG0223-9화후C분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0223-9화후C분기.json",
+      "entries": 34
+    },
+    {
+      "name": "scenario_STG0230-16화후분기.json",
+      "key": "STG0230-16화후분기",
+      "label": "STG0230-16화후분기 · scenario_STG0230-16화후분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0230-16화후분기.json",
+      "entries": 485
+    },
+    {
+      "name": "scenario_STG0231-16화후A분기.json",
+      "key": "STG0231-16화후A분기",
+      "label": "STG0231-16화후A분기 · scenario_STG0231-16화후A분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0231-16화후A분기.json",
+      "entries": 13
+    },
+    {
+      "name": "scenario_STG0232-16화후B분기.json",
+      "key": "STG0232-16화후B분기",
+      "label": "STG0232-16화후B분기 · scenario_STG0232-16화후B분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0232-16화후B분기.json",
+      "entries": 12
+    },
+    {
+      "name": "scenario_STG0240-21화후분기.json",
+      "key": "STG0240-21화후분기",
+      "label": "STG0240-21화후분기 · scenario_STG0240-21화후분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0240-21화후분기.json",
+      "entries": 273
+    },
+    {
+      "name": "scenario_STG0241-21화후A분기.json",
+      "key": "STG0241-21화후A분기",
+      "label": "STG0241-21화후A분기 · scenario_STG0241-21화후A분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0241-21화후A분기.json",
+      "entries": 12
+    },
+    {
+      "name": "scenario_STG0242-21화후B분기.json",
+      "key": "STG0242-21화후B분기",
+      "label": "STG0242-21화후B분기 · scenario_STG0242-21화후B분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0242-21화후B분기.json",
+      "entries": 12
+    },
+    {
+      "name": "scenario_STG0250-35화후분기.json",
+      "key": "STG0250-35화후분기",
+      "label": "STG0250-35화후분기 · scenario_STG0250-35화후분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0250-35화후분기.json",
+      "entries": 413
+    },
+    {
+      "name": "scenario_STG0251-35화후A분기.json",
+      "key": "STG0251-35화후A분기",
+      "label": "STG0251-35화후A분기 · scenario_STG0251-35화후A분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0251-35화후A분기.json",
+      "entries": 24
+    },
+    {
+      "name": "scenario_STG0252-35화후B분기.json",
+      "key": "STG0252-35화후B분기",
+      "label": "STG0252-35화후B분기 · scenario_STG0252-35화후B분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0252-35화후B분기.json",
+      "entries": 23
+    },
+    {
+      "name": "scenario_STG0253-35화후C분기.json",
+      "key": "STG0253-35화후C분기",
+      "label": "STG0253-35화후C분기 · scenario_STG0253-35화후C분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0253-35화후C분기.json",
+      "entries": 24
+    },
+    {
+      "name": "scenario_STG0260-41화후분기.json",
+      "key": "STG0260-41화후분기",
+      "label": "STG0260-41화후분기 · scenario_STG0260-41화후분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0260-41화후분기.json",
+      "entries": 160
+    },
+    {
+      "name": "scenario_STG0261-41화후A분기.json",
+      "key": "STG0261-41화후A분기",
+      "label": "STG0261-41화후A분기 · scenario_STG0261-41화후A분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0261-41화후A분기.json",
+      "entries": 13
+    },
+    {
+      "name": "scenario_STG0262-41화후B분기.json",
+      "key": "STG0262-41화후B분기",
+      "label": "STG0262-41화후B분기 · scenario_STG0262-41화후B분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0262-41화후B분기.json",
+      "entries": 13
+    },
+    {
+      "name": "scenario_STG0270-45화후분기.json",
+      "key": "STG0270-45화후분기",
+      "label": "STG0270-45화후분기 · scenario_STG0270-45화후분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0270-45화후분기.json",
+      "entries": 302
+    },
+    {
+      "name": "scenario_STG0271-45화후A분기.json",
+      "key": "STG0271-45화후A분기",
+      "label": "STG0271-45화후A분기 · scenario_STG0271-45화후A분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0271-45화후A분기.json",
+      "entries": 12
+    },
+    {
+      "name": "scenario_STG0272-45화후B분기.json",
+      "key": "STG0272-45화후B분기",
+      "label": "STG0272-45화후B분기 · scenario_STG0272-45화후B분기.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0272-45화후B분기.json",
+      "entries": 12
+    },
+    {
+      "name": "scenario_STG0500.json",
+      "key": "STG0500",
+      "label": "STG0500 · scenario_STG0500.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0500.json",
+      "entries": 2668
+    },
+    {
+      "name": "scenario_STG0600.json",
+      "key": "STG0600",
+      "label": "STG0600 · scenario_STG0600.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0600.json",
+      "entries": 714
+    },
+    {
+      "name": "scenario_STG0700.json",
+      "key": "STG0700",
+      "label": "STG0700 · scenario_STG0700.json",
+      "scope": "stage",
+      "path": "../translations/dialogue/scenario_STG0700.json",
+      "entries": 1572
+    },
+    {
+      "name": "scenario_DLC0231.json",
+      "key": "DLC0231",
+      "label": "DLC0231 · scenario_DLC0231.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0231.json",
+      "entries": 63
+    },
+    {
+      "name": "scenario_DLC0301.json",
+      "key": "DLC0301",
+      "label": "DLC0301 · scenario_DLC0301.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0301.json",
+      "entries": 440
+    },
+    {
+      "name": "scenario_DLC0302.json",
+      "key": "DLC0302",
+      "label": "DLC0302 · scenario_DLC0302.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0302.json",
+      "entries": 508
+    },
+    {
+      "name": "scenario_DLC0303.json",
+      "key": "DLC0303",
+      "label": "DLC0303 · scenario_DLC0303.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0303.json",
+      "entries": 501
+    },
+    {
+      "name": "scenario_DLC0304.json",
+      "key": "DLC0304",
+      "label": "DLC0304 · scenario_DLC0304.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0304.json",
+      "entries": 864
+    },
+    {
+      "name": "scenario_DLC0305.json",
+      "key": "DLC0305",
+      "label": "DLC0305 · scenario_DLC0305.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0305.json",
+      "entries": 348
+    },
+    {
+      "name": "scenario_DLC0306.json",
+      "key": "DLC0306",
+      "label": "DLC0306 · scenario_DLC0306.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0306.json",
+      "entries": 643
+    },
+    {
+      "name": "scenario_DLC0307.json",
+      "key": "DLC0307",
+      "label": "DLC0307 · scenario_DLC0307.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0307.json",
+      "entries": 591
+    },
+    {
+      "name": "scenario_DLC0308.json",
+      "key": "DLC0308",
+      "label": "DLC0308 · scenario_DLC0308.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0308.json",
+      "entries": 518
+    },
+    {
+      "name": "scenario_DLC0309.json",
+      "key": "DLC0309",
+      "label": "DLC0309 · scenario_DLC0309.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0309.json",
+      "entries": 534
+    },
+    {
+      "name": "scenario_DLC0310.json",
+      "key": "DLC0310",
+      "label": "DLC0310 · scenario_DLC0310.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0310.json",
+      "entries": 486
+    },
+    {
+      "name": "scenario_DLC0311.json",
+      "key": "DLC0311",
+      "label": "DLC0311 · scenario_DLC0311.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0311.json",
+      "entries": 560
+    },
+    {
+      "name": "scenario_DLC0312.json",
+      "key": "DLC0312",
+      "label": "DLC0312 · scenario_DLC0312.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0312.json",
+      "entries": 634
+    },
+    {
+      "name": "scenario_DLC0313.json",
+      "key": "DLC0313",
+      "label": "DLC0313 · scenario_DLC0313.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0313.json",
+      "entries": 374
+    },
+    {
+      "name": "scenario_DLC0314.json",
+      "key": "DLC0314",
+      "label": "DLC0314 · scenario_DLC0314.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0314.json",
+      "entries": 699
+    },
+    {
+      "name": "scenario_DLC0315.json",
+      "key": "DLC0315",
+      "label": "DLC0315 · scenario_DLC0315.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0315.json",
+      "entries": 1054
+    },
+    {
+      "name": "scenario_DLC0316.json",
+      "key": "DLC0316",
+      "label": "DLC0316 · scenario_DLC0316.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0316.json",
+      "entries": 1231
+    },
+    {
+      "name": "scenario_DLC0317.json",
+      "key": "DLC0317",
+      "label": "DLC0317 · scenario_DLC0317.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0317.json",
+      "entries": 496
+    },
+    {
+      "name": "scenario_DLC0318.json",
+      "key": "DLC0318",
+      "label": "DLC0318 · scenario_DLC0318.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0318.json",
+      "entries": 741
+    },
+    {
+      "name": "scenario_DLC0319.json",
+      "key": "DLC0319",
+      "label": "DLC0319 · scenario_DLC0319.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0319.json",
+      "entries": 640
+    },
+    {
+      "name": "scenario_DLC0320.json",
+      "key": "DLC0320",
+      "label": "DLC0320 · scenario_DLC0320.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0320.json",
+      "entries": 781
+    },
+    {
+      "name": "scenario_DLC0321.json",
+      "key": "DLC0321",
+      "label": "DLC0321 · scenario_DLC0321.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0321.json",
+      "entries": 682
+    },
+    {
+      "name": "scenario_DLC0322.json",
+      "key": "DLC0322",
+      "label": "DLC0322 · scenario_DLC0322.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0322.json",
+      "entries": 346
+    },
+    {
+      "name": "scenario_DLC0323.json",
+      "key": "DLC0323",
+      "label": "DLC0323 · scenario_DLC0323.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0323.json",
+      "entries": 179
+    },
+    {
+      "name": "scenario_DLC0324.json",
+      "key": "DLC0324",
+      "label": "DLC0324 · scenario_DLC0324.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0324.json",
+      "entries": 238
+    },
+    {
+      "name": "scenario_DLC0327.json",
+      "key": "DLC0327",
+      "label": "DLC0327 · scenario_DLC0327.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0327.json",
+      "entries": 6
+    },
+    {
+      "name": "scenario_DLC0328.json",
+      "key": "DLC0328",
+      "label": "DLC0328 · scenario_DLC0328.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0328.json",
+      "entries": 6
+    },
+    {
+      "name": "scenario_DLC0329.json",
+      "key": "DLC0329",
+      "label": "DLC0329 · scenario_DLC0329.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0329.json",
+      "entries": 6
+    },
+    {
+      "name": "scenario_DLC0330.json",
+      "key": "DLC0330",
+      "label": "DLC0330 · scenario_DLC0330.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0330.json",
+      "entries": 6
+    },
+    {
+      "name": "scenario_DLC0331.json",
+      "key": "DLC0331",
+      "label": "DLC0331 · scenario_DLC0331.json",
+      "scope": "dlc",
+      "path": "../translations/dialogue/scenario_DLC0331.json",
+      "entries": 6
+    }
+  ]
+}

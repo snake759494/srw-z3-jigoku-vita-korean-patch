@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00072",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00072/Sheet1/000002",
+      "sourceBindingSha256": "e73f2c15d329c5b29657e40f880cd78356432e27bcff5836fe00a388488b5b71",
+      "sourceTextSha256": "0bf6fdff319a377d0144525bb27d548e30622c99838a60726b2570588374e3aa",
+      "freshTranslation": "비밀 결사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00072/Sheet1/000003",
+      "sourceBindingSha256": "dac21d64fcdfcf94b10739c722cec3c22797d8ab026fb15dad8b5fbaadcbcbe0",
+      "sourceTextSha256": "00c3cbf4c1fa840433f934400fe630426ff59429734dff11e4e9b153142371e1",
+      "freshTranslation": "「장갑 기병 보텀스」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00072/Sheet1/000004",
+      "sourceBindingSha256": "16380aaa012caadcfb2ee49fd0cac0cfc3b09266a2ae7de2e2fc4f9b2ef614f4",
+      "sourceTextSha256": "3b486cc11c9e453c7fdcc8d092e11a6245650ab55bed441177584813171f2e72",
+      "freshTranslation": "아스트라기우스 은하에서 암약하는 수수께끼의 조직. ㊥ 그 정체는 이능자 와이즈맨의 사지였고, 길가메스, 발라란트를 넘어㊥하고 활동을 하고 있었다. 그러나 와이즈맨이 후계자에게 키리코 큐비를 ㊥ 선택해, 그 키리코가 와이즈맨을 장사한 일로 조직은 와해했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00072/Sheet1/000005",
+      "sourceBindingSha256": "efc20d42a8f239977b498b7b397a7002c3847646e6ba41d164d807acf4fd53b2",
+      "sourceTextSha256": "3b486cc11c9e453c7fdcc8d092e11a6245650ab55bed441177584813171f2e72",
+      "freshTranslation": "아스트라기우스 은하에서 암약하는 수수께끼의 조직. ㊥ 그 정체는 이능자 와이즈맨의 사지였고, 길가메스, 발라란트를 넘어㊥하고 활동을 하고 있었다. 그러나 와이즈맨이 후계자에게 키리코 큐비를 ㊥ 선택해, 그 키리코가 와이즈맨을 장사한 일로 조직은 와해했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

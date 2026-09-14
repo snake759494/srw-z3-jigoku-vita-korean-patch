@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00288",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00288/Sheet1/000002",
+      "sourceBindingSha256": "ca0e75369d37ba488e1f65cc4940fb912a0fe71b34dcab4041c319096fa1fe07",
+      "sourceTextSha256": "df0591e7662c7e6a8b85e3951a8d5fc23d16642de6c7b72c192f070b59666772",
+      "freshTranslation": "메이어 아미트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00288/Sheet1/000003",
+      "sourceBindingSha256": "8f1ef54766ab8b42e41c167a20083c7eaa24df6aa5fc2b5742853646b65f8774",
+      "sourceTextSha256": "5df0c4df030710dfe613313617f29855bb1fb5cc188f8b54e28719c2041dd187",
+      "freshTranslation": "아미트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00288/Sheet1/000004",
+      "sourceBindingSha256": "1bcf81db60a5901ee67999b9401a42c3a5910b28625f67dc3dd3db3790ed8733",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00288/Sheet1/000005",
+      "sourceBindingSha256": "7ec3a4cde1c7e4b33365b31776d772757ee6847a46bfc2035cb94b0726f6f89b",
+      "sourceTextSha256": "6cbead29f5f3666f5882c4fd6c0d7e56e8208850dd34efe1c72cd7834907e4e2",
+      "freshTranslation": "르 패닉! TheSecondRaid",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00288/Sheet1/000006",
+      "sourceBindingSha256": "9e1dae78eea20239a3e9cf856309492a53d630216517b48d37d8ddfde53de1f9",
+      "sourceTextSha256": "8d252db651cbc2c2086fde9eb1bb9b9b37665528ac5d70fe29dfb248da174f7e",
+      "freshTranslation": "미스릴의 간부로, 정보부의 장관. ㊥ 덧붙여 투아하 데 다낭이 소속하는 작전부와 정보부는, 입장의 차이로부터, 사이㊥는 좋지 않다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00288/Sheet1/000007",
+      "sourceBindingSha256": "f589f102bad3ecb5f405705ec23221db63463bcaa1ea35adf565e5c9a7b2998a",
+      "sourceTextSha256": "8d252db651cbc2c2086fde9eb1bb9b9b37665528ac5d70fe29dfb248da174f7e",
+      "freshTranslation": "미스릴의 간부로, 정보부의 장관. ㊥ 덧붙여 투아하 데 다낭이 소속하는 작전부와 정보부는, 입장의 차이로부터, 사이㊥는 좋지 않다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

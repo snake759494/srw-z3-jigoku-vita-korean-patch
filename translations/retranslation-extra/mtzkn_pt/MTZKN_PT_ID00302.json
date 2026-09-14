@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00302",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00302/Sheet1/000002",
+      "sourceBindingSha256": "7186f0869747777e767c3f8c65a7c6aceb9cdd203430c5d5fac325c8474f5750",
+      "sourceTextSha256": "9e2148725a0064aefe67758f668fde6ff53e77c3dd2c0d2cb7eee4b05f3d5f92",
+      "freshTranslation": "다나카 사령",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00302/Sheet1/000003",
+      "sourceBindingSha256": "9b1d888f4dbe395b7f0d479744ea857bc05e6d947401837d2ea41503c48df63a",
+      "sourceTextSha256": "9e2148725a0064aefe67758f668fde6ff53e77c3dd2c0d2cb7eee4b05f3d5f92",
+      "freshTranslation": "다나카 사령",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00302/Sheet1/000004",
+      "sourceBindingSha256": "bb1ad9191ce824be786a24c53629a3434510c01838a34bb36c20e569756b6909",
+      "sourceTextSha256": "1e56b9ff86dcef266f12989d9d9c1a049376962d8d547fa14759ae90a788c964",
+      "freshTranslation": "수장기공 단쿠가노바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00302/Sheet1/000005",
+      "sourceBindingSha256": "89470c60c538bcc87895c2f9785ac1c9acf1b625b04c9024ace85fa746acf9a7",
+      "sourceTextSha256": "4822c3b31881ff84cfc86ba6373894ea4e20cf66c303e262e83f3b2ad2ab6b6d",
+      "freshTranslation": "후지와라 케이지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00302/Sheet1/000006",
+      "sourceBindingSha256": "a8173f6dcd13ed667bca4fbadf342e002aa2fbcc8233859b417fb96c1a32987b",
+      "sourceTextSha256": "3ac9460ee051fc1619b6a685c41b7dd9a9cc0b12b6a3541c0ddc9b0697f7c1ba",
+      "freshTranslation": "팀 D를 지휘하는 사령관. ㊥ 온화하고 허리가 낮고, 항상 어리석은 태도로 일을 한다. ㊥ 드래곤즈하이브 내에서는 중간 관리직에 지나지 않는다고 칭하고 일의 핵심에 다가가는 이야기가 되면 ㊥ 무지를 치고 있다. 하지만 가끔 엿볼 수 있는 날카로운 눈빛이나 언동에서는 숨겨진 끊어진 사람 ㊥이 엿볼 수 있다. ㊥ 단쿠가노바의 목적 등 대부분의 일에 독자적인 견해는 붙이고 있었던 것 같고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00302/Sheet1/000007",
+      "sourceBindingSha256": "19df8bd7b2ddf1a8681edc6d55e2bed19b73b6845b7548ebc18f42a3495fb309",
+      "sourceTextSha256": "3f1e3f0e22167405519ec6db62b5177aa0a28f6788e4e0504c47b483e288a057",
+      "freshTranslation": "열매를 알았을 때에도 특히 놀란 모습은 보이지 않았다. ㊥ 문 WILL의 존재가 밝혀지면 WILL의 당초 계획에 따라 팀 ㊥D의 출격에 반대하더라도 결국은 함께 달로 향하게 된다. ㊥ 싸움을 마친 후 소식은 알 수 없습니다. 아래의 이름도 끝까지 알 수 없었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00302/Sheet1/000008",
+      "sourceBindingSha256": "593ba239a7201718565e281f14b32f91f95a954bc6644fe13296777666cbc04e",
+      "sourceTextSha256": "3ac9460ee051fc1619b6a685c41b7dd9a9cc0b12b6a3541c0ddc9b0697f7c1ba",
+      "freshTranslation": "팀 D를 지휘하는 사령관. ㊥ 온화하고 허리가 낮고, 항상 어리석은 태도로 일을 한다. ㊥ 드래곤즈하이브 내에서는 중간 관리직에 지나지 않는다고 칭하고 일의 핵심에 다가가는 이야기가 되면 ㊥ 무지를 치고 있다. 하지만 가끔 엿볼 수 있는 날카로운 눈빛이나 언동에서는 숨겨진 끊어진 사람 ㊥이 엿볼 수 있다. ㊥ 단쿠가노바의 목적 등 대부분의 일에 독자적인 견해는 붙이고 있었던 것 같고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00302/Sheet1/000009",
+      "sourceBindingSha256": "71a56ab7f28360539d2bc3c18debc3f5bddfa757a322ced96ea3f8377c5259ca",
+      "sourceTextSha256": "3f1e3f0e22167405519ec6db62b5177aa0a28f6788e4e0504c47b483e288a057",
+      "freshTranslation": "열매를 알았을 때에도 특히 놀란 모습은 보이지 않았다. ㊥ 문 WILL의 존재가 밝혀지면 WILL의 당초 계획에 따라 팀 ㊥D의 출격에 반대하더라도 결국은 함께 달로 향하게 된다. ㊥ 싸움을 마친 후 소식은 알 수 없습니다. 아래의 이름도 끝까지 알 수 없었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

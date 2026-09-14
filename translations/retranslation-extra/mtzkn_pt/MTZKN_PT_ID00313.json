@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00313",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00313/Sheet1/000002",
+      "sourceBindingSha256": "3221cac24a70403bbc7ed643bba72cd1ad00b56cf6019d746f9fa1dadd721fbe",
+      "sourceTextSha256": "4d26c990e43b3a2cebec99892c280da6ccf829f77ea91aaa6a157ea6f88d66e2",
+      "freshTranslation": "기미 아다이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00313/Sheet1/000003",
+      "sourceBindingSha256": "96769d17de514efc76e333a3eae42bf8a1a5a2079cc0af6b56ecccaac850c7d8",
+      "sourceTextSha256": "fe952383c1fb58cdfd2530e6d2973347ef615f8594ebfd3993fe54f91f95e9cb",
+      "freshTranslation": "기미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00313/Sheet1/000004",
+      "sourceBindingSha256": "a5757cf5e9f45244e607d307f5e5e2499cbdf6415a3c37475bc03345b53018f4",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00313/Sheet1/000005",
+      "sourceBindingSha256": "9282824fbac66ea4c7469735ae85b5a6f3bfb2abe37435c44c488fc42142771f",
+      "sourceTextSha256": "25f63ba60d7d9f2580aa1a609aeb0be1bb59494261f584a0609ef32e12d49fc5",
+      "freshTranslation": "혼다 타카코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00313/Sheet1/000006",
+      "sourceBindingSha256": "cd1e91c145b22db871b23135770dc15913b34f23ce00acbfa0dfc2473efacb24",
+      "sourceTextSha256": "512cf48bef8d974b36d41760d936319b5c35c49b781db3f7bf8fcf70e73b1b0e",
+      "freshTranslation": "로시우와 같은 아다이 마을 출신의 달리와 쌍둥이 소년. ㊥ 부모는 어린 시절에 타계. 아다이 마을을 방문한 시몬들과 만나, 그대로 수인들과의 ㊥결착까지 큰 글렌단의 일원으로서 행동을 함께 하고 있었다. ㊥신정부 출범 후는 그래펄의 파일럿이 되어, 퍼스널 칼라에 염색한 전용기㊥에 탑승해 부대를 이끌 때까지 된다. ㊥이지만, 어린 시절부터 건강이 쌓여 있어, 어른스럽게 하고 있는 것이 서투른. 항상 대㊥그렌단의 어른들을 눈에 띄게 성장한 일도 도와주고, 잘 말하면 과감한㊥좋다, 나쁘게 말하면 무철포인 싸움 방법을 신상으로 하고 있다. 그 때문에 견실파의 달리에게는 ㊥ 언제나 태어났다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00313/Sheet1/000007",
+      "sourceBindingSha256": "ddf2caf56bafff7fddec304b8dc98142e4b6c2ffd80b110668ce714c847c18f1",
+      "sourceTextSha256": "18a34fb9da5b1dd08b42786a3b06fa0d05f1068dac2cb07a3f187170bc133c3a",
+      "freshTranslation": "로시우와 같은 아다이 마을 출신의 달리와 쌍둥이 소년. ㊥ 부모는 어린 시절에 타계. 아다이 마을을 방문한 시몬들과 만나, 그대로 수인들과의 ㊥결착까지 큰 글렌단의 일원으로서 행동을 함께 하고 있었다. ㊥신정부 출범 후는 그래펄의 파일럿이 되어, 퍼스널 칼라에 염색한 전용기㊥에 탑승해 부대를 이끌 때까지 된다. ㊥이지만, 어린 시절부터 건강이 쌓여 있어, 어른스럽게 하고 있는 것이 서투른. 항상 대㊥그렌단의 어른들을 눈에 띄게 성장한 일도 도와주고, 잘 말하면 과감한㊥좋다, 나쁘게 말하면 무철포인 싸움 방법을 신상으로 하고 있다. 그 때문에 견실파의 달리에게는 ㊥ 언제나 태어났다. ㊥이지만, 안티 스파이럴과의 싸움 속에서 성장해, 최종 결전 때에는 달리와 자신의 ㊥그래퍼가 합체한 천원 돌파 그래퍼에 탑승. 두 마음을 하나로 만들어 안티 스파 ㊥ 이랄과 싸웠다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

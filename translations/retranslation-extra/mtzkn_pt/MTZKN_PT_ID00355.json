@@ -1,0 +1,192 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00355",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00355/Sheet1/000002",
+      "sourceBindingSha256": "063af230f012347023dd9ce49895f9368448e1f7c3181dd5d96819ca07495fbc",
+      "sourceTextSha256": "9a4c9051e3bc77f2a73e39b198edd16780c77e13e62de0a43d87e08ed9a6e46a",
+      "freshTranslation": "추목 스자쿠",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00355/Sheet1/000003",
+      "sourceBindingSha256": "cc13c73adb8ac10a80936d2c0fc21c3d58967b02d92e826aa4ff221dd55b172c",
+      "sourceTextSha256": "38d8640b68c41218f92f25137d3c72b98eb1fcf7350950f9aae1fe5f4108eea2",
+      "freshTranslation": "수자크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00355/Sheet1/000004",
+      "sourceBindingSha256": "f720b24dffc272b61ed3ffaed4cef8a42bb95067a2091c724ba9f0fbe209e787",
+      "sourceTextSha256": "b40f8de117e644be3d8ab8c76b9b5779575051515b39a54c7b5cfa1a85297d19",
+      "freshTranslation": "코드기어스 반역의 루루슈 R2",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00355/Sheet1/000005",
+      "sourceBindingSha256": "e04d2013d2c4e11ff0e6ed653753669078a427247a5e6c1b1178051fcd02fa70",
+      "sourceTextSha256": "740f3404f732bdc585d3ef63e06e4508e30e9acb039ede8468579be97ec6873f",
+      "freshTranslation": "사쿠라이 타카히로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00355/Sheet1/000006",
+      "sourceBindingSha256": "a83c85b55880a4a455cf73a81d5eb631a063f798823cba5301356de47d8c11e3",
+      "sourceTextSha256": "b34a07166a9033bbf5e03dcc6457178c7ac0adcdc3dd5d996cf036a6a90d706e",
+      "freshTranslation": "일본국 마지막 총리, 추기 겐부의 아들로, 루루슈의 소꿉친구. 18세. ㊥ 일본과 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00355/Sheet1/000007",
+      "sourceBindingSha256": "3fb9efafb59e7f20a2332690ce827848e2d6eaf906f2bf9933fe62e3bdb3d048",
+      "sourceTextSha256": "077b8fc7d1e6f3ab8fc78988c4ea6ec6a02009927b3d1892db11160b41c2889c",
+      "freshTranslation": "니아의 싸움을 멈추기 위해 아버지 겐부를 살해. 그 자책감으로 죽음으로 ㊥ 장소를 찾도록하십시오.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00355/Sheet1/000008",
+      "sourceBindingSha256": "5413057400e4869837e389666d684fbe9a59c310b89f65daf60cb785e5473893",
+      "sourceTextSha256": "e4e6de426d07f3ac375f0f9ce560525c96a0f72e20d1523d989b6bfecb75013d",
+      "freshTranslation": "니어 군대에 입대하고 내부에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00355/Sheet1/000009",
+      "sourceBindingSha256": "db1b9bde013effe42f43b87bf9094452092307e7c56f91d1762640cdc71f4e8b",
+      "sourceTextSha256": "4851c79949eaa4bbabf69ba51f9edea06e1b14f8c1e6ca5806a3e3c2d0ca94ce",
+      "freshTranslation": "니어를 바꾸기 위해 싸움㊥했다. 그러나 천적 제로의 정체가 가장 친한 친구 인 루루쉬라는 것을 알고 블랙 리베리㊥온 도중에 전선을 이탈한 그를 카미네지마에서 포박했다.㊥또한 루루슈를 황제 샤를로 인도하여 황제 직속의 나이트 오브라운스㊥나이트 오브 세븐의 지위를 얻었다.㊥유페미아의 죽음과 루루슈의 배신을 거쳐 책임감과 의지의 힘은 더욱 증가하고,㊥임무 시에는 냉철한 판단을 내리게 된다.㊥제로 부활의 보를 듣고 신총독 나나리의 보좌로서 에리어 11에 부임. 루루슈㊥를 탐구할 목적으로 애쉬포드 학원에 복학했지만 기밀 정보국을 이미 안고 있었다㊥루루슈의 정체를 좀처럼 씹는 일은 할 수 없었다.㊥그러나 싸움에서 아군을 잃은 루루슈는 나나리를 지키기 위해 스스로를㊥제로라고 인정한 후 수자크에게 구원을 구했다. 한 번은 손을 잡은 두 사람이었지만,㊥나이젤의 책략과 오해에 의해 다시 결별해 버린다.㊥제2차 쿄쿄 결전에서 카렌이 타는 홍련성천팔극식에 몰렸을 때㊥루루슈에 걸린 \"생\"의 기어스가 발동하고, 자위를 위해 랜슬롯㊥트에 쌓여 있던 전술 무기 플레이어를 발사해 버린다. 자신의 행동으로 많은 생㊥생명이 빼앗긴 것으로부터, 스자쿠는 상냥함을 버리고 결과만을 추구하게 되어 있다㊥했다.㊥나이트 오브 원이 될 수 있도록 슈나이젤의 쿠데",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00355/Sheet1/000010",
+      "sourceBindingSha256": "770a6ab2d73f7e93eaf2c80a535cbbc6bc5995a3c5216ffc8e75a8b4c53f8d58",
+      "sourceTextSha256": "72af941f16cb0cbd832bd0202cf668ed902d5b32d923e9e05856ddcfe32d61c9",
+      "freshTranslation": "-에 가담. 샤를 암살하는 ㊥을 위해 카미네 섬으로 향한 수작은 거기서 루루슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00355/Sheet1/000011",
+      "sourceBindingSha256": "d17dd1a9689dc870f1330c0d3c83289c475f845dfe9c040437e56f40a0796728",
+      "sourceTextSha256": "3673eec918fdc9a32b8d556bef1613af4806f2af309e8cb8b6a46e2a5c6bad06",
+      "freshTranslation": "의를 알게 되었다. 그 ㊥의 협력자가 된 수자크는, 황제 루루슈의 기사 나이트 오브 제로를 자칭하게 되는㊥한다. ㊥ 최종결전에서는 카렌이 타는 홍련성천팔극식과 상타상태가 된다. 그 후, 추목 수자㊥ 쿠로서의 인생을 버리고, 제로 레퀴엠을 완수하기 위해서 제로가 되어 황제 루루㊥슈를 토벌했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00355/Sheet1/000012",
+      "sourceBindingSha256": "5f64bf05722cdf62960e52e0523772c34c4a58c9bcc63a192828d972b97efe91",
+      "sourceTextSha256": "b34a07166a9033bbf5e03dcc6457178c7ac0adcdc3dd5d996cf036a6a90d706e",
+      "freshTranslation": "일본국 마지막 총리, 추기 겐부의 아들로, 루루슈의 소꿉친구. 18세. ㊥ 일본과 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00355/Sheet1/000013",
+      "sourceBindingSha256": "888db1fc61b287aa0ccd7860d0897956379fb7ddc7c61820704d0b25d009ef1b",
+      "sourceTextSha256": "077b8fc7d1e6f3ab8fc78988c4ea6ec6a02009927b3d1892db11160b41c2889c",
+      "freshTranslation": "니아의 싸움을 멈추기 위해 아버지 겐부를 살해. 그 자책감으로 죽음으로 ㊥ 장소를 찾도록하십시오.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00355/Sheet1/000014",
+      "sourceBindingSha256": "427871beb4c92d003aa750a59ed94c36b7a8ef3a1e2807db9f2d4b6aad9fc8b3",
+      "sourceTextSha256": "e4e6de426d07f3ac375f0f9ce560525c96a0f72e20d1523d989b6bfecb75013d",
+      "freshTranslation": "니어 군대에 입대하고 내부에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00355/Sheet1/000015",
+      "sourceBindingSha256": "e9200ee5a4c598990da57c9d281aa06283940ceb3f52c75bfa10fe5fc2cb778d",
+      "sourceTextSha256": "4851c79949eaa4bbabf69ba51f9edea06e1b14f8c1e6ca5806a3e3c2d0ca94ce",
+      "freshTranslation": "니어를 바꾸기 위해 싸움㊥했다. 그러나 천적 제로의 정체가 가장 친한 친구 인 루루쉬라는 것을 알고 블랙 리베리㊥온 도중에 전선을 이탈한 그를 카미네지마에서 포박했다.㊥또한 루루슈를 황제 샤를로 인도하여 황제 직속의 나이트 오브라운스㊥나이트 오브 세븐의 지위를 얻었다.㊥유페미아의 죽음과 루루슈의 배신을 거쳐 책임감과 의지의 힘은 더욱 증가하고,㊥임무 시에는 냉철한 판단을 내리게 된다.㊥제로 부활의 보를 듣고 신총독 나나리의 보좌로서 에리어 11에 부임. 루루슈㊥를 탐구할 목적으로 애쉬포드 학원에 복학했지만 기밀 정보국을 이미 안고 있었다㊥루루슈의 정체를 좀처럼 씹는 일은 할 수 없었다.㊥그러나 싸움에서 아군을 잃은 루루슈는 나나리를 지키기 위해 스스로를㊥제로라고 인정한 후 수자크에게 구원을 구했다. 한 번은 손을 잡은 두 사람이었지만,㊥나이젤의 책략과 오해에 의해 다시 결별해 버린다.㊥제2차 쿄쿄 결전에서 카렌이 타는 홍련성천팔극식에 몰렸을 때㊥루루슈에 걸린 \"생\"의 기어스가 발동하고, 자위를 위해 랜슬롯㊥트에 쌓여 있던 전술 무기 플레이어를 발사해 버린다. 자신의 행동으로 많은 생㊥생명이 빼앗긴 것으로부터, 스자쿠는 상냥함을 버리고 결과만을 추구하게 되어 있다㊥했다.㊥나이트 오브 원이 될 수 있도록 슈나이젤의 쿠데",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00355/Sheet1/000016",
+      "sourceBindingSha256": "4bbbfbc002ce57eee63115eb34284766e9f1a9c791de58c9fb32141a51be0154",
+      "sourceTextSha256": "72af941f16cb0cbd832bd0202cf668ed902d5b32d923e9e05856ddcfe32d61c9",
+      "freshTranslation": "-에 가담. 샤를 암살하는 ㊥을 위해 카미네 섬으로 향한 수작은 거기서 루루슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00355/Sheet1/000017",
+      "sourceBindingSha256": "2db7ac3f7d5c56742510f9dff9800638663d90048c5e9eb3818cb6fb71adc8f5",
+      "sourceTextSha256": "3673eec918fdc9a32b8d556bef1613af4806f2af309e8cb8b6a46e2a5c6bad06",
+      "freshTranslation": "의를 알게 되었다. 그 ㊥의 협력자가 된 수자크는, 황제 루루슈의 기사 나이트 오브 제로를 자칭하게 되는㊥한다. ㊥ 최종결전에서는 카렌이 타는 홍련성천팔극식과 상타상태가 된다. 그 후, 추목 수자㊥ 쿠로서의 인생을 버리고, 제로 레퀴엠을 완수하기 위해서 제로가 되어 황제 루루㊥슈를 토벌했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

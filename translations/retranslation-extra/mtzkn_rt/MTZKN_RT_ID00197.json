@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00197",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00197/Sheet1/000002",
+      "sourceBindingSha256": "7ac19921228ee5bad9c3d3e6dba4a21486bc62f4cd1c1b69d6d41112ed60b465",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00197/Sheet1/000003",
+      "sourceBindingSha256": "a3b7166193078cd9c9cae9db848658af1bf1093db0b820bb00a8b5c0d605f5e8",
+      "sourceTextSha256": "6ed683db5a031096484707b03adcfdac718ae561c05529cf31aae84a2474f67d",
+      "freshTranslation": "초은하 다이글렌",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00197/Sheet1/000004",
+      "sourceBindingSha256": "15d30c56e17a9275cab8b1ec1ca4f254ef6821c02a83c15be449bbc8ce02d021",
+      "sourceTextSha256": "6ed683db5a031096484707b03adcfdac718ae561c05529cf31aae84a2474f67d",
+      "freshTranslation": "초은하 다이글렌",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00197/Sheet1/000005",
+      "sourceBindingSha256": "cb7088559be5c1de3fbe235253aef92a1a76e90623514a70337fd8a7cb44a93b",
+      "sourceTextSha256": "39a460490bca1560b6b238e0266c0a0904132fd917150b61af130589b5f1a4e1",
+      "freshTranslation": "다야카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00197/Sheet1/000006",
+      "sourceBindingSha256": "87fd687b032fb2888ff26c78eb7861695f60b006a61da959250ec6f31bb4599f",
+      "sourceTextSha256": "f82e5ba178e0dda1dac3371232549e159788a72164846ddef0d80bfea240760c",
+      "freshTranslation": "달과 거의 같은 사이즈를 자랑하는 초간주급 스페이스 다이건. ㊥ 원래는 로제놈이 이끄는 나선족의 기함 '카테드랄 테라'였지만, 시모㊥에 의해 이름을 바꾸어, 우주에서의 대그렌단의 근성이 되었다. ㊥ 너무 많은 거대함 때문에 지구로의 강하는 할 수 없고, 워프 게이트를 사용하지 않으면 함내 ㊥ 이동에도 지장을 초래할 정도. ㊥ 시공을 넘은 항행이 가능할 뿐만 아니라, 허수 공간에의 간섭이 가능한 초차원 앵커, ㊥ 한 번이라도 인식한 장소라면 어디든지 일순간에 이동할 수 있는 나선계 인식 전이 시스템인 ㊥등, 여러가지 상상을 끊는 기능을 가진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00197/Sheet1/000007",
+      "sourceBindingSha256": "8e36221dc5cbf34f703fa625b5927f0d6b7a1e7eb1a59fe5a3cf37f368374eb1",
+      "sourceTextSha256": "f82e5ba178e0dda1dac3371232549e159788a72164846ddef0d80bfea240760c",
+      "freshTranslation": "달과 거의 같은 사이즈를 자랑하는 초간주급 스페이스 다이건. ㊥ 원래는 로제놈이 이끄는 나선족의 기함 '카테드랄 테라'였지만, 시모㊥에 의해 이름을 바꾸어, 우주에서의 대그렌단의 근성이 되었다. ㊥ 너무 많은 거대함 때문에 지구로의 강하는 할 수 없고, 워프 게이트를 사용하지 않으면 함내 ㊥ 이동에도 지장을 초래할 정도. ㊥ 시공을 넘은 항행이 가능할 뿐만 아니라, 허수 공간에의 간섭이 가능한 초차원 앵커, ㊥ 한 번이라도 인식한 장소라면 어디든지 일순간에 이동할 수 있는 나선계 인식 전이 시스템인 ㊥등, 여러가지 상상을 끊는 기능을 가진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00060",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00060/Sheet1/000002",
+      "sourceBindingSha256": "2ab88a2b35d94422bb57f100c6ec21d705b9a8e23807476402e4acc11f4fb00e",
+      "sourceTextSha256": "ae26e0979f3ff3f98c765edf64eae6171f125168289032904b8121749bcd2067",
+      "freshTranslation": "운영 메테오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00060/Sheet1/000003",
+      "sourceBindingSha256": "210e45096bb2bfaae210166ff7b7f613e89c30340c31a852fe705dbe18a000d9",
+      "sourceTextSha256": "b70cf0d11108c1260701549e671a70c8747d7e5ed173c098e5fea7dbc50bf2c5",
+      "freshTranslation": "「신기동전기 건담 WEndlessWaltz」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00060/Sheet1/000004",
+      "sourceBindingSha256": "f710038d1dfef1d9dfbd8765060c6312d903882a43bd35439cf32923ae913b1a",
+      "sourceTextSha256": "e0aafcd183855b475e360d4acbf426f59446d0247b14d404d505c8555deda31b",
+      "freshTranslation": "L1부터 L5까지의 각 콜로니가, 모빌 슈트 「건담」을 대기권내에 ㊥ 강하시켜, 지구권 통일 연합 및 OZ에 타격을",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00060/Sheet1/000005",
+      "sourceBindingSha256": "62aa3effaf18d7ca5ab2e1accffa3e87c5d8933b60983d9d87deb485b15bd6ec",
+      "sourceTextSha256": "3b80414e9bfb184df68cafb61610f3ef3b6f2295c4d3108ad3851736e61609e3",
+      "freshTranslation": "하는 반공 작전. ㊥ 각 콜로니는 연계하고 있었던 것이 아니고, 각각의 판단으로 작전은 결행되어 ㊥ 강하한 건담도 각각에 독자적인 판단으로 행동했다. ㊥ 결과적으로, 이 건담 강하로부터 시대가 움직여 세계는 평화를 목표로 하는 새로운 때 ㊥대를 맞이하게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00060/Sheet1/000006",
+      "sourceBindingSha256": "859207f959327154804c2d5a3d3ab28faeb9d33a47b65ccdc8d78b02b2f01ff2",
+      "sourceTextSha256": "e0aafcd183855b475e360d4acbf426f59446d0247b14d404d505c8555deda31b",
+      "freshTranslation": "L1부터 L5까지의 각 콜로니가, 모빌 슈트 「건담」을 대기권내에 ㊥ 강하시켜, 지구권 통일 연합 및 OZ에 타격을",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00060/Sheet1/000007",
+      "sourceBindingSha256": "0b23b0436937d0b19bcfae6c9ec6ec67600bd69f75d4109acc1857d3d4ba7a82",
+      "sourceTextSha256": "d552002e8883922e256da0a3df008b55eb65097081c7545bb1f7f23382a82fe1",
+      "freshTranslation": "하는 반공 작전. ㊥ 각 콜로니는 연계하고 있었던 것이 아니고, 각각의 판단으로 작전은 결행되어 ㊥ 강하한 건담도 각각에 독자적인 판단으로 행동했다. ㊥ 결과적으로, 이 건담 강하로부터 시대가 움직여 세계는 평화를 목표로 하는 새로운 때 ㊥대를 맞이하게 되었다. ㊥ 후에 본래의 오퍼레이션 메테오란, 콜로니를 낙하시켜 지구에 혼란㊥을 일으켜, 그 틈에 건담으로 지구를 제압하는 작전이었던 것이 데킴·㊥버튼에 의해 밝혀졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

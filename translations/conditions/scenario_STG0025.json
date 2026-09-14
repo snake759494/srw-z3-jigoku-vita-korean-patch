@@ -1,0 +1,95 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0025",
+    "fileName": "STG0025.cpk",
+    "target": "DATA/STAGE/STG0025.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "f31fa9bffbbbf263d5bd7feddef6ee115d24912868bd2e53876f95f8ea6226f7"
+  },
+  "entries": [
+    {
+      "entryId": "STG0025/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "적의 전멸",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0025/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "주인공의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0025/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "4턴 아군 페이즈 이내에 적을 10팀 이상 괴멸시킨다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0025/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0025/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "주인공 또는 카렌의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0025/ID00001/OPERATE_TBL/str_tbl/005",
+      "sourceId": 5,
+      "translation": "앙게로이GEM(안나롯타)의 HP를 8000 이하로 만든다",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0025/ID00001/OPERATE_TBL/str_tbl/006",
+      "sourceId": 6,
+      "translation": "없음",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00272",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00272/Sheet1/000002",
+      "sourceBindingSha256": "a4db5df80a26eecc46c40701c5830824a2a8eb2b1a39917cc11025b7a085d31a",
+      "sourceTextSha256": "2a39e9f17f97747f9e4462a9487f619f13f75a3a1d6ac337f66d8740b18fe22b",
+      "freshTranslation": "봉태군",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00272/Sheet1/000003",
+      "sourceBindingSha256": "a71520869aab70faadc5bbf1a42a1683f7071b41be2d27b3bde12bd918e1c4c8",
+      "sourceTextSha256": "2a39e9f17f97747f9e4462a9487f619f13f75a3a1d6ac337f66d8740b18fe22b",
+      "freshTranslation": "봉태군",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00272/Sheet1/000004",
+      "sourceBindingSha256": "cadf3990ea36513137c130fc153c13bcb7e9c0c5819dce7c127ef995fd502883",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00272/Sheet1/000005",
+      "sourceBindingSha256": "d74c39577d56a3287fb4a39c31adce00e05a12c7e45b975cce7a64afa1123b1c",
+      "sourceTextSha256": "9e9b34d92f4bc3a617bf9dfd80231d1ec66843cd2c627f4c27236be52d8cde21",
+      "freshTranslation": "르 패닉? 후모후",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00272/Sheet1/000006",
+      "sourceBindingSha256": "253df2ccaaef6065318e8de4f7200801bc11cb4124831900c33be4530a154683",
+      "sourceTextSha256": "c9c8eac8a5c8f4b9de4f013808d6b3dab6e72b732877ea5f56b5cc97b81e23e9",
+      "freshTranslation": "가네다 토모코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00272/Sheet1/000007",
+      "sourceBindingSha256": "ca1b22ae2a569c8a2edf5a4d5a5bff90a05a6df2ba5a63f8c99f4d23fead67cc",
+      "sourceTextSha256": "05d303d01059c8c5ac85d0f21e79f3c406158b21570099f433efa14c418b97ec",
+      "freshTranslation": "유원지 「후모후모 랜드」의 마스코트 캐릭터…를 소스케가 개조한 것. ㊥ 일반적으로 인형이라고 불리는 것이지만, 그 실태는 작다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00272/Sheet1/000008",
+      "sourceBindingSha256": "ae735784a57201e1cc6e43d312027f185dd4e5a778ecbbbf02323c900cd3923d",
+      "sourceTextSha256": "645000c9df47563d32d46599aae93ecf95d3b987fb94dff1b891e63a08954141",
+      "freshTranslation": "AS라고 부를 수있는 것으로 ㊥, 내부에는 다양한 기기가 장비되어있다. ㊥ 외관적인 특징으로, 왼쪽 뺨에는 소스케와 같은 십자가의 상처가 있다. ㊥ 본래의 인형에 장비되어 있던 음성 체인저 기능도 탑재되어 있어 왜 ㊥인가, 이것을 오프로 하면 각 기능이 가동을 정지해 버린다. 따라서 이 기능은 상시 ㊥ 온으로 할 필요가 있으며, 결과적으로 무엇을 말해도 외부에는 「후모후!」에 종류㊥ 하는 단어로서 출력된다. 하지만 카나메는 그 의미를 풀어 통역할 수 있다. ㊥ 그 둥근 몸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00272/Sheet1/000009",
+      "sourceBindingSha256": "9cd494dde5041d267e1153ad916f8f292860aff2605ea69913f93a719fb076bd",
+      "sourceTextSha256": "5f308b77b3e33e5f573a549179716a857ea146282e762ebee05d069466fb350a",
+      "freshTranslation": "부터는 상상도 할 수 없는 민첩한 움직임과 총기로 악한 등을 쓰러뜨린다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00272/Sheet1/000010",
+      "sourceBindingSha256": "0c4d06484b4cc5d2d8bf17bfb98fabbfafcfa3379101d094d94ae49fd6af5c25",
+      "sourceTextSha256": "05d303d01059c8c5ac85d0f21e79f3c406158b21570099f433efa14c418b97ec",
+      "freshTranslation": "유원지 「후모후모 랜드」의 마스코트 캐릭터…를 소스케가 개조한 것. ㊥ 일반적으로 인형이라고 불리는 것이지만, 그 실태는 작다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00272/Sheet1/000011",
+      "sourceBindingSha256": "0cd65e927083e8812a6746e48cd2d572c22b8a0bca19dfa937ffd93e34d9dbc2",
+      "sourceTextSha256": "645000c9df47563d32d46599aae93ecf95d3b987fb94dff1b891e63a08954141",
+      "freshTranslation": "AS라고 부를 수있는 것으로 ㊥, 내부에는 다양한 기기가 장비되어있다. ㊥ 외관적인 특징으로, 왼쪽 뺨에는 소스케와 같은 십자가의 상처가 있다. ㊥ 본래의 인형에 장비되어 있던 음성 체인저 기능도 탑재되어 있어 왜 ㊥인가, 이것을 오프로 하면 각 기능이 가동을 정지해 버린다. 따라서 이 기능은 상시 ㊥ 온으로 할 필요가 있으며, 결과적으로 무엇을 말해도 외부에는 「후모후!」에 종류㊥ 하는 단어로서 출력된다. 하지만 카나메는 그 의미를 풀어 통역할 수 있다. ㊥ 그 둥근 몸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00272/Sheet1/000012",
+      "sourceBindingSha256": "1b3fc403365435274cc8e5ed2c329a6dceb37424ea05a6c7ea4503e656d90e63",
+      "sourceTextSha256": "5f308b77b3e33e5f573a549179716a857ea146282e762ebee05d069466fb350a",
+      "freshTranslation": "부터는 상상도 할 수 없는 민첩한 움직임과 총기로 악한 등을 쓰러뜨린다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

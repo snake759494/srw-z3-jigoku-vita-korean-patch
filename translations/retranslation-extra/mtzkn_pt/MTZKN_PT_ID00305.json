@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00305",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00305/Sheet1/000002",
+      "sourceBindingSha256": "d08f436949b1ec4422182789c0aad0dff857906c54e20ae6c064f3d92c22c2e1",
+      "sourceTextSha256": "3342c556312cab6facf4f68b77ff6208ff45e5bee9e87340c70645ef7121d980",
+      "freshTranslation": "세이미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00305/Sheet1/000003",
+      "sourceBindingSha256": "f88e21919ab7469bc60f0cffcf65caa01bebaf48dac638b6b3f7be965ac47ef0",
+      "sourceTextSha256": "3342c556312cab6facf4f68b77ff6208ff45e5bee9e87340c70645ef7121d980",
+      "freshTranslation": "세이미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00305/Sheet1/000004",
+      "sourceBindingSha256": "d3b4ba83c182ceadc8e659aa8c6f00cad2bfafa0c525ee5998a961aaaf1c5f35",
+      "sourceTextSha256": "1e56b9ff86dcef266f12989d9d9c1a049376962d8d547fa14759ae90a788c964",
+      "freshTranslation": "수장기공 단쿠가노바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00305/Sheet1/000005",
+      "sourceBindingSha256": "6e7395b12264edc4a38e58cee6a23d91bc8112fbb6267fb32040a1de360c9a92",
+      "sourceTextSha256": "83466c46d44fe55dc560ae6d80ae9ad1ede38ecd6179f64992dc4f86e7789137",
+      "freshTranslation": "드래곤즈하이브의 정비공 정비. ㊥ 메카 뿐만 아니라 그것을 다루는 파일럿에도 구분할 수 없는 애정을 따르는 박애주의자로 ㊥ 있다. ㊥ 분석 능력도 높고 무언가와 의지할 수 있는 존재이지만, 술버릇이 나쁜 것이 구슬에 상처. 취기가 돌면 남자㊥여자의 구별이 없어져, 아오이에 습격당한 일도 있었다. ㊥ 메카에 관해서는 정비 뿐만이 아니라, 신병기의 개발도 실시해, 석야의 요망에 응해 부㊥ 스토노바나쿠르를 달았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00305/Sheet1/000006",
+      "sourceBindingSha256": "55598fccd1e76e7e6257e9ce632a8a557eb01789a4f672608381ca973f89a7f8",
+      "sourceTextSha256": "83466c46d44fe55dc560ae6d80ae9ad1ede38ecd6179f64992dc4f86e7789137",
+      "freshTranslation": "드래곤즈하이브의 정비공 정비. ㊥ 메카 뿐만 아니라 그것을 다루는 파일럿에도 구분할 수 없는 애정을 따르는 박애주의자로 ㊥ 있다. ㊥ 분석 능력도 높고 무언가와 의지할 수 있는 존재이지만, 술버릇이 나쁜 것이 구슬에 상처. 취기가 돌면 남자㊥여자의 구별이 없어져, 아오이에 습격당한 일도 있었다. ㊥ 메카에 관해서는 정비 뿐만이 아니라, 신병기의 개발도 실시해, 석야의 요망에 응해 부㊥ 스토노바나쿠르를 달았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00099",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00099/Sheet1/000002",
+      "sourceBindingSha256": "d5e726dfd199c3d021ce09576bbeae8749938c0a74e1ed701ccf6aa6be86b186",
+      "sourceTextSha256": "5e2edf173a7f647c64d60f797a99f074ebb94c87ee62b5c813b2361df052a140",
+      "freshTranslation": "차원 짐승",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00099/Sheet1/000003",
+      "sourceBindingSha256": "639a4846ee302064e7b8bcd32f43fe643dd3686a01c232f01df0472282048fd5",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00099/Sheet1/000004",
+      "sourceBindingSha256": "bcfd89dea6c012f60db396caa3208b837f433862d2b9ad2167c44f97847e2d9c",
+      "sourceTextSha256": "afb1c2203024f7992949d6670352fd2fa59a6c49b04861171cc150770102727b",
+      "freshTranslation": "파계 사변에서 재세 전쟁에 걸쳐 다른 차원에서 나타난 수수께끼의 생명체. ㊥ 공식 명칭 인 \"Dimension-ArmedMONster\"의 머리 ㊥ 문자를 사용하여 Damon이라고 불렸지만 여러 종류가 확실합니다. 인정된 것에 의해, ㊥ 쿠시온 재단 이차원 생물 연구소 「ADiCR(에디크연)」에 의해, ㊥새롭게 명칭의 분류가 행해졌다. ㊥ 그 정체는, 파계의 왕 가이오우가 생성하는 리바이브 셀의 효과에 의해 ㊥ 기동병기와 탑승자의 생명이 융합한 모습이며, 차원 수화(=바이오레이쇼㊥n)하는 것으로, 전투력은 현격히 상승한다. 또한 차원짐승에는 등급이 존재하고 ㊥원이 된 기체와 탑승자와 전투력에 의해 어느 클래스로 변모한다. ㊥차원 수화한 기체와 탑승자를 원래 상태로 되돌리는 것은 불가능하며, 탑승자의 뜻㊥사는 기본적으로는 소멸하고 있다. 그 때문에, 차원 짐승과는 커뮤니케이션의 손㊥단은 없지만, 가이오의 명령에 따르고, 그 지휘하에 조직적인 행동을 취한다. ㊥ADiCR은 차원 짐승 연구의 권위이며, 다몬의 이름도 여기에 붙여져 ㊥이다. 그러나 재단 총재 카를로스 액시온 Jr. 에 의해 여기에 가져왔습니다 ㊥ 한 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00099/Sheet1/000005",
+      "sourceBindingSha256": "c76c4137f9cdd1e12393f319978b323fdfcf6042bbae8bb6a567db9392e3e379",
+      "sourceTextSha256": "e1bc5ab9c73ad93e429d3cd7974bb9c44a021196f742337c2ec06a680420f5da",
+      "freshTranslation": "대부분은 이전에 차원 짐승에 멸망한 병행 세계 지구의 국가, 성인㊥사라움 왕국이 수집한 것이며, 각 클래스의 명칭도 인사라움에서 사용㊥되어 있던 것이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00099/Sheet1/000006",
+      "sourceBindingSha256": "bb370de908222be36e95643daa45922ed06523b1449ab6f851d7d5621f020df5",
+      "sourceTextSha256": "afb1c2203024f7992949d6670352fd2fa59a6c49b04861171cc150770102727b",
+      "freshTranslation": "파계 사변에서 재세 전쟁에 걸쳐 다른 차원에서 나타난 수수께끼의 생명체. ㊥ 공식 명칭 인 \"Dimension-ArmedMONster\"의 머리 ㊥ 문자를 사용하여 Damon이라고 불렸지만 여러 종류가 확실합니다. 인정된 것에 의해, ㊥ 쿠시온 재단 이차원 생물 연구소 「ADiCR(에디크연)」에 의해, ㊥새롭게 명칭의 분류가 행해졌다. ㊥ 그 정체는, 파계의 왕 가이오우가 생성하는 리바이브 셀의 효과에 의해 ㊥ 기동병기와 탑승자의 생명이 융합한 모습이며, 차원 수화(=바이오레이쇼㊥n)하는 것으로, 전투력은 현격히 상승한다. 또한 차원짐승에는 등급이 존재하고 ㊥원이 된 기체와 탑승자와 전투력에 의해 어느 클래스로 변모한다. ㊥차원 수화한 기체와 탑승자를 원래 상태로 되돌리는 것은 불가능하며, 탑승자의 뜻㊥사는 기본적으로는 소멸하고 있다. 그 때문에, 차원 짐승과는 커뮤니케이션의 손㊥단은 없지만, 가이오의 명령에 따르고, 그 지휘하에 조직적인 행동을 취한다. ㊥ADiCR은 차원 짐승 연구의 권위이며, 다몬의 이름도 여기에 붙여져 ㊥이다. 그러나 재단 총재 카를로스 액시온 Jr. 에 의해 여기에 가져왔습니다 ㊥ 한 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00099/Sheet1/000007",
+      "sourceBindingSha256": "009c7dc9bb48709afb62b24b8ab7bc0ceb87ca6adda8e69d27b64a37ea51e7ef",
+      "sourceTextSha256": "e1bc5ab9c73ad93e429d3cd7974bb9c44a021196f742337c2ec06a680420f5da",
+      "freshTranslation": "대부분은 이전에 차원 짐승에 멸망한 병행 세계 지구의 국가, 성인㊥사라움 왕국이 수집한 것이며, 각 클래스의 명칭도 인사라움에서 사용㊥되어 있던 것이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

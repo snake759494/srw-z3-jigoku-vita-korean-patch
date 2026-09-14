@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00164",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00164/Sheet1/000002",
+      "sourceBindingSha256": "05591c5d6ea5684609fbed93093a089158426108dbe3692c1af1f0996bedfaa9",
+      "sourceTextSha256": "db890621fc483d9ae76bec2ecae52f966dfe89b1c1d58bcdc134f96de83b0007",
+      "freshTranslation": "카야 노리코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00164/Sheet1/000003",
+      "sourceBindingSha256": "16db4a22f83003c52a2f76935fa2b0741da4b742f9805250346825c208348e55",
+      "sourceTextSha256": "6c721c04f9896b796d8b8934096270e378e4ca02cef2acfd10f977cb67aa80ef",
+      "freshTranslation": "노리코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00164/Sheet1/000004",
+      "sourceBindingSha256": "ded992792cef851f967f36c1a7dc5964b7d01738dfe9233fe2878bb50d18f1d1",
+      "sourceTextSha256": "488b383f92e4f11b65e8a9c06a1cf89c6a23e90c2c7dd33cd82bdf88888ae2d7",
+      "freshTranslation": "상단을 되찾아라!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00164/Sheet1/000005",
+      "sourceBindingSha256": "c03e8f41a92ca860b3d970bde47a018cdf653adb1ec0122d004686e0171fb20c",
+      "sourceTextSha256": "3a386a6433adfeb9f01722efb681b7fd7fefb6f3e62c32b29ccfc64818229899",
+      "freshTranslation": "히타치 노리코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00164/Sheet1/000006",
+      "sourceBindingSha256": "cd2d1a8c81b703dffbb40a2b3d318747b0eabc4cad578015fb9c94f30752a134",
+      "sourceTextSha256": "9623aefc8ad329aba05806b243783260854f69e0782bfbc9f3ed7c2f862a88ec",
+      "freshTranslation": "제국 우주군 탑 부대의 조종사. ㊥ 지구 제국 우주군 부속 오키나와 여자 우주 고등학교, 통칭·오키죠 출신. ㊥ 아버지는 외우주 탐사함·루쿠시온 함장이었다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00164/Sheet1/000007",
+      "sourceBindingSha256": "dfe01db78dd8219f5186423bcd42ca269447773b7b959a3340c0300744172a7b",
+      "sourceTextSha256": "00fb563cfc8f411a4c2ba320e7e30159713a433bb97a1a070ad5f2b2cd651950",
+      "freshTranslation": "카야 유조우 제독. ㊥ 조금 엉망이지만 낙천적인 성격.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00164/Sheet1/000008",
+      "sourceBindingSha256": "22d357800b7b07cd2785bbf85673962ceff62cb614f5e11145737bfcf1af8502",
+      "sourceTextSha256": "1d5f3b9d8d064e89033587b1897c8a1bc7193070976fa0fe5945157acda0765d",
+      "freshTranslation": "동신경은 발군으로, 머신병㊥그릇에서도 괴로운 그라운드 50주를 생신으로 주행하는 체력을 가진다. 또 취미는 애니메이션 감상이나㊥프라모델 만들기와 다채롭다. ㊥ 코치(오오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00164/Sheet1/000009",
+      "sourceBindingSha256": "ca1fb06bfc238495d4b6616a11196bb27bd3054add24b211b11d8aeacf42de33",
+      "sourceTextSha256": "4677dd2b0cd651c2b8c361ff258813fa3639349f50a542fbc2a6c421807c32a0",
+      "freshTranslation": "・코이치로우)에 의한 이례적인 발탁에 의해, 「동경의 언니」로㊥한 카즈미와 함께 제3차 신조로봇계획 파일럿 후보생으로 선발된다. 그것인가?㊥등은 우주 전함 에쿠세리온에 소속해, 카즈미나 융등과 절기 착마해 간다.㊥싸움에서 카즈미와의 쌍을 둘러싼 갈등과 창백한 연심을 품은 스미스 토렌을 잃었다.㊥우등, 수많은 시련이 그녀의 앞에 막혔다. 하지만 그것을 코치 직전의 노력과 근성㊥에 의해 극복하고, 지구 방어의 문패 · 감바스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00164/Sheet1/000010",
+      "sourceBindingSha256": "8d4c41048d5e621ad97dbb064c2a3d279b10b89c633159b59372be207d9eb68c",
+      "sourceTextSha256": "c5eed71a94ef37b8461c9bb8c33c97fc164efa58415d703c3795a74a5887acfc",
+      "freshTranslation": "-의 파일럿으로서 성장㊥해 간다. ㊥우주 괴수와의 최종 결전에서 작동 불량에 빠진 블랙홀 폭탄을 기동시켜 ㊥하면 카즈미와 함께 그 폭축에 삼켜진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00164/Sheet1/000011",
+      "sourceBindingSha256": "247fe03bd61744a9793ec55ed254037504eb9b9c54aefe392304c8fe325b73c7",
+      "sourceTextSha256": "9623aefc8ad329aba05806b243783260854f69e0782bfbc9f3ed7c2f862a88ec",
+      "freshTranslation": "제국 우주군 탑 부대의 조종사. ㊥ 지구 제국 우주군 부속 오키나와 여자 우주 고등학교, 통칭·오키죠 출신. ㊥ 아버지는 외우주 탐사함·루쿠시온 함장이었다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00164/Sheet1/000012",
+      "sourceBindingSha256": "67c806668c4aac2a8afceeecec076ab480749e9580fa91ccaf31b340f593dbe8",
+      "sourceTextSha256": "00fb563cfc8f411a4c2ba320e7e30159713a433bb97a1a070ad5f2b2cd651950",
+      "freshTranslation": "카야 유조우 제독. ㊥ 조금 엉망이지만 낙천적인 성격.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00164/Sheet1/000013",
+      "sourceBindingSha256": "e2976ca85624ff7810e793c042b43789059bee532ee1b7421e4937a8cb53c1e4",
+      "sourceTextSha256": "1d5f3b9d8d064e89033587b1897c8a1bc7193070976fa0fe5945157acda0765d",
+      "freshTranslation": "동신경은 발군으로, 머신병㊥그릇에서도 괴로운 그라운드 50주를 생신으로 주행하는 체력을 가진다. 또 취미는 애니메이션 감상이나㊥프라모델 만들기와 다채롭다. ㊥ 코치(오오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00164/Sheet1/000014",
+      "sourceBindingSha256": "3e021c6d35078c59995bfd95a1b472464c5b4c5ace2c5c65b8f9c547592a6220",
+      "sourceTextSha256": "4677dd2b0cd651c2b8c361ff258813fa3639349f50a542fbc2a6c421807c32a0",
+      "freshTranslation": "・코이치로우)에 의한 이례적인 발탁에 의해, 「동경의 언니」로㊥한 카즈미와 함께 제3차 신조로봇계획 파일럿 후보생으로 선발된다. 그것인가?㊥등은 우주 전함 에쿠세리온에 소속해, 카즈미나 융등과 절기 착마해 간다.㊥싸움에서 카즈미와의 쌍을 둘러싼 갈등과 창백한 연심을 품은 스미스 토렌을 잃었다.㊥우등, 수많은 시련이 그녀의 앞에 막혔다. 하지만 그것을 코치 직전의 노력과 근성㊥에 의해 극복하고, 지구 방어의 문패 · 감바스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00164/Sheet1/000015",
+      "sourceBindingSha256": "5462d655e9491268ffa6c675ab94abae256dda19c9eeaa98033ebdf65607fdf5",
+      "sourceTextSha256": "c5eed71a94ef37b8461c9bb8c33c97fc164efa58415d703c3795a74a5887acfc",
+      "freshTranslation": "-의 파일럿으로서 성장㊥해 간다. ㊥우주 괴수와의 최종 결전에서 작동 불량에 빠진 블랙홀 폭탄을 기동시켜 ㊥하면 카즈미와 함께 그 폭축에 삼켜진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

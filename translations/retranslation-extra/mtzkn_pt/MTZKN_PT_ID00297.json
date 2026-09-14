@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00297",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00297/Sheet1/000002",
+      "sourceBindingSha256": "188accc38cbfe4a584a786e4004ac5025482ca8eca517932d66dc2e8c7f30375",
+      "sourceTextSha256": "0ef1e7c84b42c56fe687941bf55f8916b4fef8e9d93dccf071139895b191fa75",
+      "freshTranslation": "칸카쿠라라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00297/Sheet1/000003",
+      "sourceBindingSha256": "3b43bb60eeee92bac41d4b8f51cd88d810790d19fe32478fbde46e3fcce47cf9",
+      "sourceTextSha256": "207055879a2374f1c00f0a7c7be59ec2c012cc66193ac85e7d00cefc329460ad",
+      "freshTranslation": "쿠라라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00297/Sheet1/000004",
+      "sourceBindingSha256": "d68adb2cf2078ff66d7e7e0b753c859394b5504810867ca9ab752c0e91762c6d",
+      "sourceTextSha256": "1e56b9ff86dcef266f12989d9d9c1a049376962d8d547fa14759ae90a788c964",
+      "freshTranslation": "수장기공 댄쿠가노바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00297/Sheet1/000005",
+      "sourceBindingSha256": "4f0eaa09aff4ca76497e2578d7a76ae74ab5f88da82b5e6e808d5d32118a51e9",
+      "sourceTextSha256": "b02334b0a950667c06a1b758586395ca226ba96e0c351bb98953d0da8c8332f8",
+      "freshTranslation": "쿠와시마 호코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00297/Sheet1/000006",
+      "sourceBindingSha256": "ea896ec0dbbe10c01bae7a17dd2b9a23baf40fcd086166d364b3feed86bcebef",
+      "sourceTextSha256": "9f63a34fc76ea5f28afd562b292b034f8b5ba2411f098bac8a8fa9dbaf9f0bc8",
+      "freshTranslation": "팀 D의 일원으로 노바라이거의 파일럿. ㊥결정 대사는 \"해줄게!\" ㊥ 경시청의 마약 수사관에서 동양 마약 신디케이트의 보스를 확보한 곳에서 드래곤 ㊥ 즈하이브로 전송. 단쿠가노바에서 전투를 경험한 후, 드래곤즈하이브가 범죄㊥신디케이트보다 수수께끼가 있을 것 같기 때문에 스카우트를 승낙하고 있다. ㊥ 격투기에 뛰어나 뒤에 서있는 사람을 반사적으로 던져 버린다. 사격의 팔도 ㊥ 일류로 루 릴리에게는 종종 가르침을 받고 있었다. 단쿠가노바 합신시에 ㊥는 화기관제를 담당하고 단공포의 트리거를 당기는 것도 많다. ㊥ 항상 죽음과 이웃의 일무늬나 팀 내에서는 사물의 사고방식이나 사고가 가장 어른으로 위험㊥에 몸을 노출하는 일에 움직이지 않는 정신력을 가진다. 하지만 아오이의 의상을 들고 희색을 보이거나 ㊥ 프라이빗시 건 슈팅 게임에 흥미를 주는 등 묘하게 아이 같은 곳 ㊥을 보이기도 한다. ㊥ 쟈니의 팀 참가 이유를 들었을 때에는, 아오이와 자신의 어느 쪽이 좋아했는지에 ㊥ 고집하는 등, 여성으로서의 프라이드도 높은 것이 보이는 일면도 보였다. ㊥팀 D로서의 싸움을 마친 뒤는 마약 수사관 때의 파트너였던 나비 앞에 모습 ㊥을 나타냈다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00297/Sheet1/000007",
+      "sourceBindingSha256": "b40023b555f4c6d6fe9b8fab5c715b02e8a706d45885463f774cdde1b1891c0b",
+      "sourceTextSha256": "9f63a34fc76ea5f28afd562b292b034f8b5ba2411f098bac8a8fa9dbaf9f0bc8",
+      "freshTranslation": "팀 D의 일원으로 노바라이거의 파일럿. ㊥결정 대사는 \"해줄게!\" ㊥ 경시청의 마약 수사관에서 동양 마약 신디케이트의 보스를 확보한 곳에서 드래곤 ㊥ 즈하이브로 전송. 단쿠가노바에서 전투를 경험한 후, 드래곤즈하이브가 범죄㊥신디케이트보다 수수께끼가 있을 것 같기 때문에 스카우트를 승낙하고 있다. ㊥ 격투기에 뛰어나 뒤에 서있는 사람을 반사적으로 던져 버린다. 사격의 팔도 ㊥ 일류로 루 릴리에게는 종종 가르침을 받고 있었다. 단쿠가노바 합신시에 ㊥는 화기관제를 담당하고 단공포의 트리거를 당기는 것도 많다. ㊥ 항상 죽음과 이웃의 일무늬나 팀 내에서는 사물의 사고방식이나 사고가 가장 어른으로 위험㊥에 몸을 노출하는 일에 움직이지 않는 정신력을 가진다. 하지만 아오이의 의상을 들고 희색을 보이거나 ㊥ 프라이빗시 건 슈팅 게임에 흥미를 주는 등 묘하게 아이 같은 곳 ㊥을 보이기도 한다. ㊥ 쟈니의 팀 참가 이유를 들었을 때에는, 아오이와 자신의 어느 쪽이 좋아했는지에 ㊥ 고집하는 등, 여성으로서의 프라이드도 높은 것이 보이는 일면도 보였다. ㊥팀 D로서의 싸움을 마친 뒤는 마약 수사관 때의 파트너였던 나비 앞에 모습 ㊥을 나타냈다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

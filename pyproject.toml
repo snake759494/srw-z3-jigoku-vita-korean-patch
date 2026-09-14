@@ -1,0 +1,10 @@
+[project]
+name = "siok-patch"
+version = "0.1.0"
+description = "제3차 슈퍼로봇대전 Z 시옥편 한글패치 재현 프로젝트"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.unittest]
+start-directory = "tests"
+

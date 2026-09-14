@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00081",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00081/Sheet1/000002",
+      "sourceBindingSha256": "4c8a49995e657dc506ece57a71d6606b40ca8993af326f9c677f9554e262bab5",
+      "sourceTextSha256": "6edf2c419ff70c4f2518629df5e91939b45d1557a0e0e3f3564a3cd59413de39",
+      "freshTranslation": "쿠멘",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00081/Sheet1/000003",
+      "sourceBindingSha256": "d31ca2a344d48f7345cd5f2b31b52cd6560a8f53389e5223570227b5a2f98ef0",
+      "sourceTextSha256": "00c3cbf4c1fa840433f934400fe630426ff59429734dff11e4e9b153142371e1",
+      "freshTranslation": "「장갑 기병 보텀스」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00081/Sheet1/000004",
+      "sourceBindingSha256": "7a5edd70915d4ff4a650690b52c72616041f403c1cb42d2170190ebc3c3f2166",
+      "sourceTextSha256": "bac7ca95f9289f1548f9a83b6d78aedb5055b406d24b525e023c1cbfe8dd3882",
+      "freshTranslation": "행성 멜키아의 소국에서 왕제를 취하고 있다. ㊥ 온대 습윤 기후에서 정글을 가지고 주요 산업은 농업. ㊥ 근대화를 서두르는 왕가에게 반기를 휘두른 세 번째 왕자 칸젤만이 신성 거북이 ㊥ 왕국을 흥해 대규모 내란이 일어나 쿠멘 왕국 측은 용병을 고용했다. 그들 ㊥은 기지 어셈블 EX-10에 모였고 그 중에는 르 샤코와 키리코 ㊥ 큐비가 있었다. ㊥ 덧붙여 쿠멘 왕국의 내란은 메르키아군의 개입에 의해, 승자 없는 형태로 종결해 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00081/Sheet1/000005",
+      "sourceBindingSha256": "d24f832bacead28821be04d8e799a88bea8923b3679131235fe9bdd421bae202",
+      "sourceTextSha256": "bac7ca95f9289f1548f9a83b6d78aedb5055b406d24b525e023c1cbfe8dd3882",
+      "freshTranslation": "행성 멜키아의 소국에서 왕제를 취하고 있다. ㊥ 온대 습윤 기후에서 정글을 가지고 주요 산업은 농업. ㊥ 근대화를 서두르는 왕가에게 반기를 휘두른 세 번째 왕자 칸젤만이 신성 거북이 ㊥ 왕국을 흥해 대규모 내란이 일어나 쿠멘 왕국 측은 용병을 고용했다. 그들 ㊥은 기지 어셈블 EX-10에 모였고 그 중에는 르 샤코와 키리코 ㊥ 큐비가 있었다. ㊥ 덧붙여 쿠멘 왕국의 내란은 메르키아군의 개입에 의해, 승자 없는 형태로 종결해 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

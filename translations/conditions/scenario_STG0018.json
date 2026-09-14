@@ -1,0 +1,63 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0018",
+    "fileName": "STG0018.cpk",
+    "target": "DATA/STAGE/STG0018.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "ec8fb8a12c8607ffb8d980693ea75076ff00acc88e0f5800d3ddd9a67f99d564"
+  },
+  "entries": [
+    {
+      "entryId": "STG0018/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "제4사도의 격추",
+      "conditionTypes": [
+        "win",
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0018/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "제4사도의 포인트 도달",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0018/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0018/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "에반게리온 초호기 등장부터 3턴 이내에\n제4사도를 격추시킨다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

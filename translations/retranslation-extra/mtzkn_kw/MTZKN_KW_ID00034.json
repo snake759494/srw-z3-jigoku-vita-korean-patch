@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00034",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00034/Sheet1/000002",
+      "sourceBindingSha256": "e0e9bee250d72c83271e16723d35928994c80c7e7c490d2c9818ff6d37c0b287",
+      "sourceTextSha256": "3047a5822bc88af9e7338fe48f31a966877db94218abf430da44539988aba23a",
+      "freshTranslation": "플랜트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00034/Sheet1/000003",
+      "sourceBindingSha256": "85c1a5806c4fa3bf5f6afecfbedce4fd5a2353b9e39d508fdd6859f9a7ab091e",
+      "sourceTextSha256": "46972028b0d87190e9d5bc75048d5bd3819834caf71211a163e3d40415fa49f0",
+      "freshTranslation": "「기동전사 건담 SEEDDESTINY」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00034/Sheet1/000004",
+      "sourceBindingSha256": "883c9512056ea2eaa259bac0c6e84ca35459d271771b985601cc0286c14c2882",
+      "sourceTextSha256": "63b0ffe565744832bf658a889d0d660dcde1c18d1440ff8ff7cf00ac0882a6c0",
+      "freshTranslation": "코디네이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00034/Sheet1/000005",
+      "sourceBindingSha256": "060d9a21a0a10a8f54fd8c9c4d0bb42abf98176b0d22e2855740d6ba05f5212b",
+      "sourceTextSha256": "5889d8c7519a38cfca4de4d375a6340a4050102f9f2d4b0c57a14fe86f8a0eab",
+      "freshTranslation": "-가 거주하는, 신세대의 스페이스 콜로니 및 그 집합체,㊥또한 코디네이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00034/Sheet1/000006",
+      "sourceBindingSha256": "a90481cd177ac40a12fe1e686cfaa756b0740171d5b0879d649a6471b2ff66b1",
+      "sourceTextSha256": "ba40593a3c16fffcfe7e2b330f767c2d026142c3edf66eb4b9f34b8565b21ec4",
+      "freshTranslation": "-의 국가명을 가리킨다. 이 이름은 \"Productive㊥ＬｏｃａｔｉｏｎＡｌｌｙｏｎＮｅｘｕｓＴｅｃｈｎｏｌｏｇｙ（結㊥합적 기술에 의한 생산적 서열 집합체)의 약칭이며, 동시에 「대규모 생산 기지」㊥라는 의미를 겸하고 있다.㊥국가로서의 플랜트는 플랜트 평의회에 의해",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00034/Sheet1/000007",
+      "sourceBindingSha256": "7be44ade18d54ff748a03c8941d3ae3b79bd123ccd8bea8b0bbd5a1045f6bcf8",
+      "sourceTextSha256": "b451272f1668164913a7881d94293f13735f177ff2bb73ff935fa834ee1c842f",
+      "freshTranslation": "운영되고 있다. 한때 ㊥은 플랜트의 자치 독립을 저지하려는 지구 연합에 의해 무거운 세금과 압력이 ㊥ 되어 있었고, 그것이 대전의 발단이 되었다. ㊥ 또한 거주구로서의 플랜트는 지구와 달의 중력 균형점 라그랑주포이 ㊥의 하나인 L5주역에 집중되어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00034/Sheet1/000008",
+      "sourceBindingSha256": "55ed2e3b2bde504e8e2f417903fd557b3ea109ce8f0af8cdc4447da1792aa4f2",
+      "sourceTextSha256": "63b0ffe565744832bf658a889d0d660dcde1c18d1440ff8ff7cf00ac0882a6c0",
+      "freshTranslation": "코디네이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00034/Sheet1/000009",
+      "sourceBindingSha256": "4b236833c69c0f4f005cd0e3bb12299baa9cce2215254ba4c4350ed7f0516b30",
+      "sourceTextSha256": "5889d8c7519a38cfca4de4d375a6340a4050102f9f2d4b0c57a14fe86f8a0eab",
+      "freshTranslation": "-가 거주하는, 신세대의 스페이스 콜로니 및 그 집합체,㊥또한 코디네이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00034/Sheet1/000010",
+      "sourceBindingSha256": "f575fe261e99c87862992913c2360f29df2f259aec90b6e4af8bd81033aca88e",
+      "sourceTextSha256": "ba40593a3c16fffcfe7e2b330f767c2d026142c3edf66eb4b9f34b8565b21ec4",
+      "freshTranslation": "-의 국가명을 가리킨다. 이 이름은 \"Productive㊥ＬｏｃａｔｉｏｎＡｌｌｙｏｎＮｅｘｕｓＴｅｃｈｎｏｌｏｇｙ（結㊥합적 기술에 의한 생산적 서열 집합체)의 약칭이며, 동시에 「대규모 생산 기지」㊥라는 의미를 겸하고 있다.㊥국가로서의 플랜트는 플랜트 평의회에 의해",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00034/Sheet1/000011",
+      "sourceBindingSha256": "cc3d5339159ce893ca2b500ff2bdd81b73b03af6b1cfe4d0bcf4240ce6ecc64f",
+      "sourceTextSha256": "b451272f1668164913a7881d94293f13735f177ff2bb73ff935fa834ee1c842f",
+      "freshTranslation": "운영되고 있다. 한때 ㊥은 플랜트의 자치 독립을 저지하려는 지구 연합에 의해 무거운 세금과 압력이 ㊥ 되어 있었고, 그것이 대전의 발단이 되었다. ㊥ 또한 거주구로서의 플랜트는 지구와 달의 중력 균형점 라그랑주포이 ㊥의 하나인 L5주역에 집중되어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

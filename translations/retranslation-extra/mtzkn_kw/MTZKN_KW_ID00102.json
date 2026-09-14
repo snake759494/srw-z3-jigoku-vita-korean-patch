@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00102",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00102/Sheet1/000002",
+      "sourceBindingSha256": "a9525df23da3df1183d5bfae29002f1f401090f8213b525c07705e6014874acb",
+      "sourceTextSha256": "917b7154116ae3a5473c6d507c7f90139d8de5347f3ed9f65668750ab51d7919",
+      "freshTranslation": "가이오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00102/Sheet1/000003",
+      "sourceBindingSha256": "5afb0186d8c27e5503e63f8771fcd56e59d80418fb097650df2ff8afa3419cbb",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00102/Sheet1/000004",
+      "sourceBindingSha256": "6ccc54c5022fc1d0167a27022ae992541a3327b878a41cf6cb0e5b1e2fc40e02",
+      "sourceTextSha256": "8924943b16ecc3b7a3a6ef4b4c981d4e74e8c3d97bb9b2b60b05e7035b203a54",
+      "freshTranslation": "시공진동에 의해 다른 차원으로의 문을 여는 프로젝트 메추라기에 의해 ADW㊥에 나타난 수수께끼의 파괴마. ㊥ 병행 세계 지구의 세인트 인사라움 왕국을 멸망시키고 거기서 아임 라이어드 ㊥를 만나 그를 참모로 만든다. 인사라움에서는 파계의 왕이라고 불렸지만, 전㊥이동 후, 카를로스 액시온 Jr. 의 제안에 의해 가이오와 자칭하게 되는 ㊥ 한다. ㊥파계사변 때에는 기억을 잃고 있어 본명, 출자, 목적 모두를 잊고 있던 ㊥가 유일하게 남은 강한 사명감에 의해 강자를 찾아 세계로 싸움을 펼친다. 그 싸움㊥ 안에서 기억을 되찾아 가고, 또 하나의 달 「음월」에서 완전히 스스로의 사명에 ㊥ 깨어나지만, 그것을 말하려고 하지 않았다. ㊥ 그 정체는 차원 장이라고 불리는 존재이며, 어떤 적과 싸우기 위해 차원 짐승의 ㊥ 군단을 조직하는 사명을 가지고 있다. 자신의 존재와 사명에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00102/Sheet1/000005",
+      "sourceBindingSha256": "cd4a8107732f126a8f4b0dee4c42df66547fd9511a01cae7881a80fb66378301",
+      "sourceTextSha256": "8f4b806b83636038da442f47a463e3f4cb4589ca4926adbb6c9604579e73ec58",
+      "freshTranslation": "질문을 가지지만 ㊥등도, 싸움에 신명을 바치고, 마지막 때까지 자신의 영혼의 명령대로 살아, 싸우기 ㊥했다. ㊥ 덧붙여 그의 입에서 비슷한 사명을 가진다고 추측되는 차원 장은 모두 4명 있다고 ㊥ 말했다. ㊥ 좋아하는 것은 패스트 푸드 전반이며 특히 핫도그를 선호합니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00102/Sheet1/000006",
+      "sourceBindingSha256": "eb2b244658d940a17afdcd9a1565f216471230446d87f5221a65bc2c51a30bd1",
+      "sourceTextSha256": "8924943b16ecc3b7a3a6ef4b4c981d4e74e8c3d97bb9b2b60b05e7035b203a54",
+      "freshTranslation": "시공진동에 의해 다른 차원으로의 문을 여는 프로젝트 메추라기에 의해 ADW㊥에 나타난 수수께끼의 파괴마. ㊥ 병행 세계 지구의 세인트 인사라움 왕국을 멸망시키고 거기서 아임 라이어드 ㊥를 만나 그를 참모로 만든다. 인사라움에서는 파계의 왕이라고 불렸지만, 전㊥이동 후, 카를로스 액시온 Jr. 의 제안에 의해 가이오와 자칭하게 되는 ㊥ 한다. ㊥파계사변 때에는 기억을 잃고 있어 본명, 출자, 목적 모두를 잊고 있던 ㊥가 유일하게 남은 강한 사명감에 의해 강자를 찾아 세계로 싸움을 펼친다. 그 싸움㊥ 안에서 기억을 되찾아 가고, 또 하나의 달 「음월」에서 완전히 스스로의 사명에 ㊥ 깨어나지만, 그것을 말하려고 하지 않았다. ㊥ 그 정체는 차원 장이라고 불리는 존재이며, 어떤 적과 싸우기 위해 차원 짐승의 ㊥ 군단을 조직하는 사명을 가지고 있다. 자신의 존재와 사명에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00102/Sheet1/000007",
+      "sourceBindingSha256": "c13e43338f485f3bde0d8941d3b4013ebc525c59192ebdbc1c5e72c9bb8354ac",
+      "sourceTextSha256": "8f4b806b83636038da442f47a463e3f4cb4589ca4926adbb6c9604579e73ec58",
+      "freshTranslation": "질문을 가지지만 ㊥등도, 싸움에 신명을 바치고, 마지막 때까지 자신의 영혼의 명령대로 살아, 싸우기 ㊥했다. ㊥ 덧붙여 그의 입에서 비슷한 사명을 가진다고 추측되는 차원 장은 모두 4명 있다고 ㊥ 말했다. ㊥ 좋아하는 것은 패스트 푸드 전반이며 특히 핫도그를 선호합니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

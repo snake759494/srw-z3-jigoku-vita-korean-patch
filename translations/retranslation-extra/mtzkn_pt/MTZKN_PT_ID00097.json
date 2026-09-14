@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00097",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00097/Sheet1/000002",
+      "sourceBindingSha256": "ba040ded3ecbcc981a6dc9048a8a3f8303ffaef7d29ca85bbba4558191591e65",
+      "sourceTextSha256": "07e32d9b712c33a558de508f41f130e1fb2c5d85ef9a2048a2ed31a36620c3da",
+      "freshTranslation": "카가리 유라 아스하",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00097/Sheet1/000003",
+      "sourceBindingSha256": "d5996995ea8898b9fabbba0167f31b84b4c69cf955ace27d98046917fbf72861",
+      "sourceTextSha256": "d10da1000a24e13bd992e747a2aca3148014d8b40d61e0f5a126ac1bcd97c980",
+      "freshTranslation": "카가리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00097/Sheet1/000004",
+      "sourceBindingSha256": "d9d92c69eb06f9704856d2d389c2cdc0de986c21ca0c97e1ebad5c7ba2ef7f25",
+      "sourceTextSha256": "15a2e664e80fef55f49873f69b656b86b230b630d2bdafde619513e324977069",
+      "freshTranslation": "기동전사 건담 SEEDDESTINY",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00097/Sheet1/000005",
+      "sourceBindingSha256": "0da5698a5fd602847aa3029870a855eddc6083f8b8b719e58ab601b1be75884c",
+      "sourceTextSha256": "0cede2822d4eceee51a882b8b8be405ea4905b36415560261419abbdeb8e5564",
+      "freshTranslation": "오브 연합 에미리트의 대표. 18세. ㊥ 전 대표 우즈미의 유지를 이어 조국과 세계를 평화로 이끌려고 한다. 그러나 그 젊음㊥이나 경험 부족, 세이란 부모와 자식의 암약도 있어 나라가 정리하지 않고, 자신의 힘의 함을 통감하는 ㊥하는 것이 된다. ㊥ 전 대전 때부터 사랑의 사이였던 아스란이 오브를 떠날 때 반지를 받았다. ㊥ 하지만 그 후, 「나라를 하나로 정리하기 위해」라고 하는 이유로부터, 어쩔 수 없이 유우나와의 결혼㊥을 결의해, 마음을 끊어 버린다. 하지만 결혼식 도중 쌍둥이 형제 키라의 후㊥리덤 건담으로 끌려간 결혼은 파산이 되었다. ㊥ 그 후 실권을 빼앗은 세이란 가가 지구 연합과 동맹을 맺고 군을 움직이기 시작했기 때문에 ㊥ 그것을 저지하려고 노력하는 것도 실패. 하지만 오브 군인들의 결사의 각오를 눈에 띈 ㊥로 한 일로 조국을 지키겠다는 결의를 새롭게 했다. 또한 오브에 위기가 방문했을 때 ㊥에는 우즈미가 남긴 모빌슈트, 아카츠키를 달려 조국의 위기를 구했다. ㊥ 오브의 대표로 돌아오고 나서는 나라를 정리해, 「데스티니 플랜」을 제창㊥ 하는 듀란달에 맞선다. 그 결의를 증명하기 위하여인지, 아스란에서 받은 손가락㊥륜은 제외해, 그를 메이린에 맡기고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00097/Sheet1/000006",
+      "sourceBindingSha256": "2fa8f68b9cfcccb1136049f12f2321a649e5c4d2d38bedb1506cc1372751d429",
+      "sourceTextSha256": "0cede2822d4eceee51a882b8b8be405ea4905b36415560261419abbdeb8e5564",
+      "freshTranslation": "오브 연합 에미리트의 대표. 18세. ㊥ 전 대표 우즈미의 유지를 이어 조국과 세계를 평화로 이끌려고 한다. 그러나 그 젊음㊥이나 경험 부족, 세이란 부모와 자식의 암약도 있어 나라가 정리하지 않고, 자신의 힘의 함을 통감하는 ㊥하는 것이 된다. ㊥ 전 대전 때부터 사랑의 사이였던 아스란이 오브를 떠날 때 반지를 받았다. ㊥ 하지만 그 후, 「나라를 하나로 정리하기 위해」라고 하는 이유로부터, 어쩔 수 없이 유우나와의 결혼㊥을 결의해, 마음을 끊어 버린다. 하지만 결혼식 도중 쌍둥이 형제 키라의 후㊥리덤 건담으로 끌려간 결혼은 파산이 되었다. ㊥ 그 후 실권을 빼앗은 세이란 가가 지구 연합과 동맹을 맺고 군을 움직이기 시작했기 때문에 ㊥ 그것을 저지하려고 노력하는 것도 실패. 하지만 오브 군인들의 결사의 각오를 눈에 띈 ㊥로 한 일로 조국을 지키겠다는 결의를 새롭게 했다. 또한 오브에 위기가 방문했을 때 ㊥에는 우즈미가 남긴 모빌슈트, 아카츠키를 달려 조국의 위기를 구했다. ㊥ 오브의 대표로 돌아오고 나서는 나라를 정리해, 「데스티니 플랜」을 제창㊥ 하는 듀란달에 맞선다. 그 결의를 증명하기 위하여인지, 아스란에서 받은 손가락㊥륜은 제외해, 그를 메이린에 맡기고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

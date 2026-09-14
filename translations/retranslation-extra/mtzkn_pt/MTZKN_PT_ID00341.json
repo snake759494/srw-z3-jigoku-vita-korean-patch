@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00341",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00341/Sheet1/000002",
+      "sourceBindingSha256": "a5802e8361c9d2e49fb058bea08f7f205a496b8258dd1d03fed797280991ed77",
+      "sourceTextSha256": "0043c9f72d6c18a3d4f4155ea3c60a3fe122546e93c618fef32ad6ed6944c86b",
+      "freshTranslation": "히나타 마코토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00341/Sheet1/000003",
+      "sourceBindingSha256": "aa07db62d7526076f32423a35e1dd7c38ab1965abacc16fd4229d863f79d4889",
+      "sourceTextSha256": "740c4e515a75869e1f7987c35cea2594fb2bb7d2c06f840be89424b2c985f151",
+      "freshTranslation": "마코토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00341/Sheet1/000004",
+      "sourceBindingSha256": "f3f34f73d0c4fa2c74c41f85d0dbbe65ab723e6fabd554ef3a6b13b65ffabf6b",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00341/Sheet1/000005",
+      "sourceBindingSha256": "97842a763dfa01deab6811110747f578292d6224082e83e1e8d6745bcd27cdb7",
+      "sourceTextSha256": "474939bd18918915d980673c2e6540e1f53fc8319676df88398556556792d8f9",
+      "freshTranslation": "특무기관 NERV의 작전국 제1과에 소속. 계급은 2위. ㊥ 본부 작전 사령부의 운영",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00341/Sheet1/000006",
+      "sourceBindingSha256": "20fb1f80f0279d62d755c7ec1dc6868d9bb70f54fac4a0f874c0663c3f30431e",
+      "sourceTextSha256": "6a4f9f4453c1566ef036c701809eb587c82867d90a6564ab8f87389e369395b0",
+      "freshTranslation": "에서 전황 분석 담당으로서 미사토를 보좌한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00341/Sheet1/000007",
+      "sourceBindingSha256": "3c72e0bcda9d019ad3b150988cc99106d891f7f301e8bf35b42beb934447291f",
+      "sourceTextSha256": "474939bd18918915d980673c2e6540e1f53fc8319676df88398556556792d8f9",
+      "freshTranslation": "특무기관 NERV의 작전국 제1과에 소속. 계급은 2위. ㊥ 본부 작전 사령부의 운영",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00341/Sheet1/000008",
+      "sourceBindingSha256": "a9d4fe47ac62035d5598dc28a069438e453b73e28844822f66d871a09274a28b",
+      "sourceTextSha256": "6a4f9f4453c1566ef036c701809eb587c82867d90a6564ab8f87389e369395b0",
+      "freshTranslation": "에서 전황 분석 담당으로서 미사토를 보좌한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

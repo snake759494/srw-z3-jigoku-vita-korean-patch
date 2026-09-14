@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00227",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00227/Sheet1/000002",
+      "sourceBindingSha256": "02c1e8d3ca70e6c759ce9bd886924b9b412c1f8bcc013a1848aa6ad7020c397a",
+      "sourceTextSha256": "b40f8de117e644be3d8ab8c76b9b5779575051515b39a54c7b5cfa1a85297d19",
+      "freshTranslation": "코드기어스 반역의 루루슈 R2",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00227/Sheet1/000003",
+      "sourceBindingSha256": "07d0bbd6669ff656693460f65fa46029bd8a850dc990e3bab49fbc06f447efb1",
+      "sourceTextSha256": "cd11aaa6fa4543f8f04af0234cc436d3363d34efca7f6fcd674d7adaa73cf3c3",
+      "freshTranslation": "홍련성천팔극식",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00227/Sheet1/000004",
+      "sourceBindingSha256": "b0826ec13f28faa229c78605f17ba247b188b4dd30cc01592085282afcde2cca",
+      "sourceTextSha256": "cd11aaa6fa4543f8f04af0234cc436d3363d34efca7f6fcd674d7adaa73cf3c3",
+      "freshTranslation": "홍련성천팔극식",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00227/Sheet1/000005",
+      "sourceBindingSha256": "758a2e7cf5a929e02c6cfe527bb0d718c49acb4ea44c464224aeb7f29670ee9a",
+      "sourceTextSha256": "d9b18dd4972ffd025b5d420a4668470eac690e8e16934f711c5e7e8cadcd39ad",
+      "freshTranslation": "홍월 카렌",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00227/Sheet1/000006",
+      "sourceBindingSha256": "f27ecf48dbfd54eddd094bb9e91899a52d9eec1599b8a8b994d250735d1f7f27",
+      "sourceTextSha256": "7e9e17b5b02506b68dfd8e1b30f021c0d2b0e36d36cfecdd22a1842888781e1a",
+      "freshTranslation": "중국 연방 전투에서 갓 잡힌 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00227/Sheet1/000007",
+      "sourceBindingSha256": "94a81bbce3dcf1c1eb61f0a2a510190468ff8e4b6126c6b694fb5de998882ebb",
+      "sourceTextSha256": "5e93315379ae0b0358a05015c97d8f6737b2dbe757892f773c956e12716c4618",
+      "freshTranslation": "니어에게 인도된 후, 로이드와 세실에 의해 ㊥ 전면적으로 개조된 홍련. ㊥ 로이드 쾅, 럭셔",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00227/Sheet1/000008",
+      "sourceBindingSha256": "96b0db08c8efe8b6aad7a27604513a3600a2a4883b4d0cb47672f800e6e46d9c",
+      "sourceTextSha256": "93a32544563f597f18763a4370b8bdded0aafd736dfb01ae2fc0239fadac227e",
+      "freshTranslation": "의 기체였기 때문에 만지기 쉬웠다고 하는 것으로, 둘이서, ㊥ 눈치채면 취미가 전개가 되어, 잘 다룰 수 있는 자가 거의 없을 정도의 고성능인 기체를 조성㊥ 올려 버렸다. ㊥ 스자쿠 이외는 타고 나갈 수 없다고 생각되고 있던 기체였지만, 사키세자에게 구출된 ㊥ 카렌이 탑승. 60% 출력으로 랜슬롯 콘퀘스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00227/Sheet1/000009",
+      "sourceBindingSha256": "a24c8e6b06254b3d21c7eb6875f76ef890f20690a1ec17e1b29a6818220dde9e",
+      "sourceTextSha256": "46907852b07f62409a5588749865d14736d2f38d36a5bb6de1274aaee118f836",
+      "freshTranslation": "를 압도하고 있다. 그 ㊥기체 성능은 제9세대에 상당하고, 스펙에서는 같은 제9세대 KMF 랜슬롯 알㊥비온조차 능가하고 있다. ㊥ 비상 활주 날개 대신 에너지 윙을 장비. 그 날개로 전신을 덮어 방어 자세를 ㊥ 유지한 채 고속 비행하는 것도 가능하다. ㊥ 철갑 포격 오른팔부에도 개량이 더해져 슬래시 하켄처럼 사출하고 유선으로 ㊥ 궤도를 컨트롤 하는 것으로 원거리 상대에게도 복사파동을 사용할 수 있다. 또, 혼자㊥ 사파동을 원반 모양으로 해 던지는 일도 가능. ㊥ 성천 팔극이라는 이름은 첫 출격 때 사키 세자가 시작 화면에 표시되는 문자의 \"Supe㊥rlativeExtruderInterloc kedTechnolog㊥yExclusiveNexusEIGHTELEMENTS'를 일본어로㊥변경한 것으로부터 붙여지고 있다. ㊥ 최종 결전에서는 수자크가 타는 란슬롯 알비온과 사투를 맡아도, 양자의 힘㊥은 길항. 마지막은 양자상 토벌의 모습이 되지만, 홍련의 주먹은 란슬롯 알비온의 ㊥ 조종석을 파괴했다. 알비온은 폭발하고 인연의 대결은 카렌과 홍련의 승리에 ㊥로 막을 닫는 것이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00227/Sheet1/000010",
+      "sourceBindingSha256": "c149930c409ca3661697e5ea8e977fa33d00df6ea8ebd9e177494b764448dbcf",
+      "sourceTextSha256": "7e9e17b5b02506b68dfd8e1b30f021c0d2b0e36d36cfecdd22a1842888781e1a",
+      "freshTranslation": "중국 연방 전투에서 갓 잡힌 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00227/Sheet1/000011",
+      "sourceBindingSha256": "f69a9e4d36ca4c16bfdc29bd38ab3810b574f286f98b491425d1f64093bfe95b",
+      "sourceTextSha256": "5e93315379ae0b0358a05015c97d8f6737b2dbe757892f773c956e12716c4618",
+      "freshTranslation": "니어에게 인도된 후, 로이드와 세실에 의해 ㊥ 전면적으로 개조된 홍련. ㊥ 로이드 쾅, 럭셔",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00227/Sheet1/000012",
+      "sourceBindingSha256": "590eb390c1d53a39c3af13c6b8aa2f76b1450487629dbb7ab39abe7e98cf2766",
+      "sourceTextSha256": "93a32544563f597f18763a4370b8bdded0aafd736dfb01ae2fc0239fadac227e",
+      "freshTranslation": "의 기체였기 때문에 만지기 쉬웠다고 하는 것으로, 둘이서, ㊥ 눈치채면 취미가 전개가 되어, 잘 다룰 수 있는 자가 거의 없을 정도의 고성능인 기체를 조성㊥ 올려 버렸다. ㊥ 스자쿠 이외는 타고 나갈 수 없다고 생각되고 있던 기체였지만, 사키세자에게 구출된 ㊥ 카렌이 탑승. 60% 출력으로 랜슬롯 콘퀘스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00227/Sheet1/000013",
+      "sourceBindingSha256": "d2e54555857d91e3321a6a6fae3814a6be55f730e73a12e2fbb2a83b02c31cf0",
+      "sourceTextSha256": "46907852b07f62409a5588749865d14736d2f38d36a5bb6de1274aaee118f836",
+      "freshTranslation": "를 압도하고 있다. 그 ㊥기체 성능은 제9세대에 상당하고, 스펙에서는 같은 제9세대 KMF 랜슬롯 알㊥비온조차 능가하고 있다. ㊥ 비상 활주 날개 대신 에너지 윙을 장비. 그 날개로 전신을 덮어 방어 자세를 ㊥ 유지한 채 고속 비행하는 것도 가능하다. ㊥ 철갑 포격 오른팔부에도 개량이 더해져 슬래시 하켄처럼 사출하고 유선으로 ㊥ 궤도를 컨트롤 하는 것으로 원거리 상대에게도 복사파동을 사용할 수 있다. 또, 혼자㊥ 사파동을 원반 모양으로 해 던지는 일도 가능. ㊥ 성천 팔극이라는 이름은 첫 출격 때 사키 세자가 시작 화면에 표시되는 문자의 \"Supe㊥rlativeExtruderInterloc kedTechnolog㊥yExclusiveNexusEIGHTELEMENTS'를 일본어로㊥변경한 것으로부터 붙여지고 있다. ㊥ 최종 결전에서는 수자크가 타는 란슬롯 알비온과 사투를 맡아도, 양자의 힘㊥은 길항. 마지막은 양자상 토벌의 모습이 되지만, 홍련의 주먹은 란슬롯 알비온의 ㊥ 조종석을 파괴했다. 알비온은 폭발하고 인연의 대결은 카렌과 홍련의 승리에 ㊥로 막을 닫는 것이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

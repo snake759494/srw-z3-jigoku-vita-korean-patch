@@ -1,0 +1,107 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0087",
+    "fileName": "STG0087.cpk",
+    "target": "DATA/STAGE/STG0087.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "255f4dd8db1d53321ad985cfe07fb0118ce4da6c782ad6c0f20a0d21872f574e"
+  },
+  "entries": [
+    {
+      "entryId": "STG0087/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "스페이스로보7호의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0087/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0087/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "쇼타로 또는 타케루의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0087/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "3턴 이내에 다른 적을 격추하고,\n마지막에 스페이스로보7호를 격추시킨다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0087/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "우주마왕의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0087/ID00001/OPERATE_TBL/str_tbl/005",
+      "sourceId": 5,
+      "translation": "없음",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0087/ID00001/OPERATE_TBL/str_tbl/006",
+      "sourceId": 6,
+      "translation": "3기의 우주마왕을 같은 턴에 쓰러뜨린다\n(우주마왕을 1기 이상 남긴 채로 다음 턴으로 넘어가면\n격추된 우주마왕도 부활한다)",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0087/ID00001/OPERATE_TBL/str_tbl/007",
+      "sourceId": 7,
+      "translation": "???",
+      "conditionTypes": [
+        "win",
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

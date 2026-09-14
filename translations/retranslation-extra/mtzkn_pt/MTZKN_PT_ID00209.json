@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00209",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00209/Sheet1/000002",
+      "sourceBindingSha256": "23bbf2a0c0e150d3b5c86dce1583b9eeb895f6d49f4edf476e717e8e32df7159",
+      "sourceTextSha256": "85dac4941a35391ffce65d7c1a096294dd220ffa35b027f3b9384ab428b11a0f",
+      "freshTranslation": "장고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00209/Sheet1/000003",
+      "sourceBindingSha256": "d128943f66284b4b33a44f2bb5ae6d593caa54d3054e8f16953455bdb0c1ff02",
+      "sourceTextSha256": "85dac4941a35391ffce65d7c1a096294dd220ffa35b027f3b9384ab428b11a0f",
+      "freshTranslation": "장고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00209/Sheet1/000004",
+      "sourceBindingSha256": "073c05d57e194d4ec5d571ac87eff2e337862081f6943221a459b3d9c8ae2207",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00209/Sheet1/000005",
+      "sourceBindingSha256": "6de5b8913886de0c174b1b6ba12eb7f2bb0e6bd15ab09db80db0d8f8de08d5ec",
+      "sourceTextSha256": "d9a19ea394a4956b6c2bf1087746a76f9eb1967fa3a226f1bd64abff8db63dbc",
+      "freshTranslation": "구로가네 오인중의 한 명. ㊥ 구로가네야의 송영계이지만, 전국에서 자신들을 노리고 모여 오는 극도를 청소하는 ㊥가 주된 역할이 되고 있다. ㊥ 애총 '슈퍼 블랙 호크 44 매그넘'은 최대 6발의 초합금 Z제 총탄을 쏴 ㊥ 꺼낼 수 있다. 또한 냉동 라이플을 사용하여 기계 짐승의 발을 멈추는 등 건먼 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00209/Sheet1/000006",
+      "sourceBindingSha256": "f8deb32837e4ba13248b61b63fc145685ae91d849c3ada32781b260839c8e4a1",
+      "sourceTextSha256": "b3881567266a0de618d450a9a968214d0be768cf43841c44285dd216a37b063f",
+      "freshTranslation": "일에 적합한 총의 솜씨를 선보인 적도 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00209/Sheet1/000007",
+      "sourceBindingSha256": "b9ab8717abcb799a79592df1b97b09b7ee0fb7a05610877479a9e472d0dae3f4",
+      "sourceTextSha256": "d9a19ea394a4956b6c2bf1087746a76f9eb1967fa3a226f1bd64abff8db63dbc",
+      "freshTranslation": "구로가네 오인중의 한 명. ㊥ 구로가네야의 송영계이지만, 전국에서 자신들을 노리고 모여 오는 극도를 청소하는 ㊥가 주된 역할이 되고 있다. ㊥ 애총 '슈퍼 블랙 호크 44 매그넘'은 최대 6발의 초합금 Z제 총탄을 쏴 ㊥ 꺼낼 수 있다. 또한 냉동 라이플을 사용하여 기계 짐승의 발을 멈추는 등 건먼 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00209/Sheet1/000008",
+      "sourceBindingSha256": "be6edc2b263e0c781183d94977cd6b486bc0fac5a38aa01572c02d7d32481a3a",
+      "sourceTextSha256": "b3881567266a0de618d450a9a968214d0be768cf43841c44285dd216a37b063f",
+      "freshTranslation": "일에 적합한 총의 솜씨를 선보인 적도 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00060",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00060/Sheet1/000002",
+      "sourceBindingSha256": "b97fed1ad87e9bfe091a4a067739d3f4d7fa6033c5795ea0e2b88cd78f582a00",
+      "sourceTextSha256": "ee267fbd1a752414a483af544ef34c7fd1a8686d42d2176733a4a2871c2a99c5",
+      "freshTranslation": "아폴리 베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00060/Sheet1/000003",
+      "sourceBindingSha256": "0936476e8adebd6daee9efd1c5da5769f40adbf7eb19d1fe304950fbe4e8bfa0",
+      "sourceTextSha256": "543ae449973a8b9b714e6a5b736dfc2af6ebadb6c7e2390ed5da3701244fb7cc",
+      "freshTranslation": "아폴리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00060/Sheet1/000004",
+      "sourceBindingSha256": "a36120142c3f129b5015ed0c776f98c8b1323cb2c19443cdbf0a268aa834ca39",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00060/Sheet1/000005",
+      "sourceBindingSha256": "fa401296721811c4e7e4e1187bb73267ac89306ebdbbb4fec7cce5416784462e",
+      "sourceTextSha256": "38709ee83873cd1642131d2082e491bf4a212119f7db3b09cee3b0c2e7ca8f41",
+      "freshTranslation": "에고에 참여하는 콰트로의 부하. 계급은 중위. ㊥원은 구 지온 공국군에 소속되어 1년 전쟁에도 참가하고 있었다. 아가마 가운데 몇 ㊥없는 베테랑 파일럿으로 카미유의 좋은 선배였다. ㊥ 콰트로의 신뢰도 두껍고, 그를 대신해 모빌슈트대의 지휘를 하기도 했다. ㊥ 그립스 전역의 종반, 파메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00060/Sheet1/000006",
+      "sourceBindingSha256": "5118ad32e6563c15f29030c80f353c89924ba9db7b7cbc64aba134efeffd5873",
+      "sourceTextSha256": "a055b61e840e529262f545a4c6a6388eaed6c425c6a65d4045be1800d0598c95",
+      "freshTranslation": "수를 씌워 사망했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00060/Sheet1/000007",
+      "sourceBindingSha256": "0cdb0273d61872e49cb5098911869d51df16f2bac9f22293d7c71b39b6b7eb39",
+      "sourceTextSha256": "38709ee83873cd1642131d2082e491bf4a212119f7db3b09cee3b0c2e7ca8f41",
+      "freshTranslation": "에고에 참여하는 콰트로의 부하. 계급은 중위. ㊥원은 구 지온 공국군에 소속되어 1년 전쟁에도 참가하고 있었다. 아가마 가운데 몇 ㊥없는 베테랑 파일럿으로 카미유의 좋은 선배였다. ㊥ 콰트로의 신뢰도 두껍고, 그를 대신해 모빌슈트대의 지휘를 하기도 했다. ㊥ 그립스 전역의 종반, 파메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00060/Sheet1/000008",
+      "sourceBindingSha256": "dc801db1bb2af7b49c0d705a8bac50f36af2c453638f6ed4c3c5f13b3cad6b14",
+      "sourceTextSha256": "a055b61e840e529262f545a4c6a6388eaed6c425c6a65d4045be1800d0598c95",
+      "freshTranslation": "수를 씌워 사망했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

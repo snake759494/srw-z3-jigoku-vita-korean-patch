@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00022",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00022/Sheet1/000002",
+      "sourceBindingSha256": "3d0d8e1d87485467564ee6c777c7b9d449493a9be76828b65040ef4e62ce4384",
+      "sourceTextSha256": "7bbbe36d8b609552ff0cdbbbc6af5b1e3b5b79086aba48986af144740dbdd170",
+      "freshTranslation": "묘진",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00022/Sheet1/000003",
+      "sourceBindingSha256": "f55f7c93bc6f4dcd889dea5cd1acdf59d33d2805cb52c812210d9602a4f7a1c3",
+      "sourceTextSha256": "74f5f201b076c414fe320e2cab2dd03079890174101412ee0a614c7af86c8cda",
+      "freshTranslation": "켈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00022/Sheet1/000004",
+      "sourceBindingSha256": "83337b1456c14b02843a91b8653bae2000c837d3f26c102fe65f85f0da034d3d",
+      "sourceTextSha256": "74f5f201b076c414fe320e2cab2dd03079890174101412ee0a614c7af86c8cda",
+      "freshTranslation": "켈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00022/Sheet1/000005",
+      "sourceBindingSha256": "4ee1e6f5534cb8dbb31a1fc7540042dbc421c405749b30b2d3ae1d767c950be7",
+      "sourceTextSha256": "2821f723e708a26125b2215f86a494a31e2eb1a3f45f2c6e857b2cc6d0a13f93",
+      "freshTranslation": "롯신 합체 갓 마즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00022/Sheet1/000006",
+      "sourceBindingSha256": "baba7b6845ab32c63516c189ef3b41a22292af969ab8ceba3b9874f5d1b94c2c",
+      "sourceTextSha256": "e183caed7c3042d1f950f410b24640fcecfdf413cc1c9794486f46b57c4217c5",
+      "freshTranslation": "미즈시마 유",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00022/Sheet1/000007",
+      "sourceBindingSha256": "06a73d18bbf5dfae734288bf389aaead2840cd28a13acc0457a79e91c3dbbcd1",
+      "sourceTextSha256": "0e8f64acfc9c6a34b5985a5a335cdf58e43cca29850dff15c3afc8f27941a10f",
+      "freshTranslation": "기신 별 태어나 지구 성장의 초능력자. 본명은 마즈. 17세. ㊥ 어렸을 때 기신성에서 가이어를 포함한 육신 로보와 함께 지구로 보내진다. 지구에서 명㊥ 신부부에게 주워졌을 때,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00022/Sheet1/000008",
+      "sourceBindingSha256": "3a55602da22df2f7c632f8cc9fd4d5b2b8f1f90678234c695a0b97052d2727a7",
+      "sourceTextSha256": "2abb68aa6af14c62f5885811ada6153bbe65d024c4b5014488b5406ca80978df",
+      "freshTranslation": "켈이라고 지명된다. ㊥ 기신성의 침공이 시작될 때까지는, 크러셔대의 일원으로서 코스모 크러셔㊥의 사격을 담당하고 있었다. ㊥ 떨어진 상대와의 의사소통을 가능하게 하는 텔레파시, 자신의 머리카락을 바늘처럼 치고㊥내는 사이코키네시스, 위험을 인지하는 예지 능력, 초스피드로 이동하는 가속 능력 등 ㊥ 다양한 능력을 다루는 초 A. 그 능력은 적 초능력자와의 직접적인 ㊥ 전투에서뿐만 아니라 인명 구조 등에서도 큰 힘이 되고 있었다. ㊥이지만, 강대한 초능력이나 출생의 비밀에 의해, 한때는 크러셔대의 동료로부터 고립㊥해 버린 적도 있었다. ㊥책임감이나 사명감으로부터 주위의 이야기를 듣지 않고 독주해 버리는 모습도 몇번인가 보였지만, 뿌리는 ㊥솔직하고 상냥한 성격의 소유자. 싸움 속에서 스스로의 사명에 눈을 뜨고 지구뿐만 아니라 우주㊥ 전체의 평화를 위해 싸워가게 된다. ㊥진짜 형 마그와의 재회와 헤어져 적대하고 있던 초능력자 로제와의 대치와 화해 등을 거쳐㊥하고, 마침내 지구에 마의 손을 뻗고 있던 황제 줄의 타도를 완수했다. ㊥ 후에 줄이 부활하면, 초능력을 사용할 때마다 생명을 짓밟는 데빌링에 시달리고 ㊥ 된다. 그러나 마그와 ​​로제의 도움을 받아 다시 줄을 쓰러뜨렸다. ㊥ 그 후에는 로제와 손을 잡고, 둘이서 은하로 여행을 떠났다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00022/Sheet1/000009",
+      "sourceBindingSha256": "2c0dbabf12c7116aa64a45602de488db59dafc46c826b283059b05a360a4e41b",
+      "sourceTextSha256": "0e8f64acfc9c6a34b5985a5a335cdf58e43cca29850dff15c3afc8f27941a10f",
+      "freshTranslation": "기신 별 태어나 지구 성장의 초능력자. 본명은 마즈. 17세. ㊥ 어렸을 때 기신성에서 가이어를 포함한 육신 로보와 함께 지구로 보내진다. 지구에서 명㊥ 신부부에게 주워졌을 때,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00022/Sheet1/000010",
+      "sourceBindingSha256": "45c202786c72b76698fb0d94fadc60bc4a02e908cbbec0f9f9108949ec6da376",
+      "sourceTextSha256": "2abb68aa6af14c62f5885811ada6153bbe65d024c4b5014488b5406ca80978df",
+      "freshTranslation": "켈이라고 지명된다. ㊥ 기신성의 침공이 시작될 때까지는, 크러셔대의 일원으로서 코스모 크러셔㊥의 사격을 담당하고 있었다. ㊥ 떨어진 상대와의 의사소통을 가능하게 하는 텔레파시, 자신의 머리카락을 바늘처럼 치고㊥내는 사이코키네시스, 위험을 인지하는 예지 능력, 초스피드로 이동하는 가속 능력 등 ㊥ 다양한 능력을 다루는 초 A. 그 능력은 적 초능력자와의 직접적인 ㊥ 전투에서뿐만 아니라 인명 구조 등에서도 큰 힘이 되고 있었다. ㊥이지만, 강대한 초능력이나 출생의 비밀에 의해, 한때는 크러셔대의 동료로부터 고립㊥해 버린 적도 있었다. ㊥책임감이나 사명감으로부터 주위의 이야기를 듣지 않고 독주해 버리는 모습도 몇번인가 보였지만, 뿌리는 ㊥솔직하고 상냥한 성격의 소유자. 싸움 속에서 스스로의 사명에 눈을 뜨고 지구뿐만 아니라 우주㊥ 전체의 평화를 위해 싸워가게 된다. ㊥진짜 형 마그와의 재회와 헤어져 적대하고 있던 초능력자 로제와의 대치와 화해 등을 거쳐㊥하고, 마침내 지구에 마의 손을 뻗고 있던 황제 줄의 타도를 완수했다. ㊥ 후에 줄이 부활하면, 초능력을 사용할 때마다 생명을 짓밟는 데빌링에 시달리고 ㊥ 된다. 그러나 마그와 ​​로제의 도움을 받아 다시 줄을 쓰러뜨렸다. ㊥ 그 후에는 로제와 손을 잡고, 둘이서 은하로 여행을 떠났다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

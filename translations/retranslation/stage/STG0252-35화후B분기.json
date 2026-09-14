@@ -1,0 +1,269 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "stage",
+  "assetKey": "STG0252-35화후B분기",
+  "baseline": {
+    "sha256": "7a7bd4a37228b384a5d8ed7225ccdcb378bbe38cb6196c8057cc439730cbe1cf",
+    "rowCount": 175210
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000002",
+      "sourceBindingSha256": "7239b462129cc6a0a900195c83aa68cce0b1fe3120b8355d703cca4ab22055a0",
+      "sourceTextSha256": "e5e40bfe29836fbe855f98f588e6a5b447cb9a8c2e0cc3356fea11bc38876970",
+      "freshTranslation": "$n",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000003",
+      "sourceBindingSha256": "01a2ab963bd6c5df3b65c00b924e5da6687ff49b1a42544fb3080d28e017ba9f",
+      "sourceTextSha256": "4be66cf94e7033822cdfc8a62cfb6122805b339fe22766c4e71d115cc89cb60f",
+      "freshTranslation": "………",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000006",
+      "sourceBindingSha256": "34246f6dc6674f53f4e845e37467f32b2aed148c9a5766f665c7ebc8aa15da36",
+      "sourceTextSha256": "f8f79cfefa9e11706140035c0318ca52eac153121c751dc58da2ded78d29a199",
+      "freshTranslation": "~D 트레이더~",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000007",
+      "sourceBindingSha256": "a9675b8d64ddbd9876770494c5e77435940ca1df0523a55e96d7bf6bf2613950",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000008",
+      "sourceBindingSha256": "85c953106ba606f3549c1844dd3550982691acbf61eef58d0262dc1864ad65c5",
+      "sourceTextSha256": "7a0139867045d5fb337772ab43fb2853b05276ca298453d11901753de5b39681",
+      "freshTranslation": "$n 씨는, 일본으로 향하시는 거죠?",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000009",
+      "sourceBindingSha256": "d41c4f2ac883f390731253ec079f05c9845b51950b1f65c5a2a046c860760e8f",
+      "sourceTextSha256": "e5e40bfe29836fbe855f98f588e6a5b447cb9a8c2e0cc3356fea11bc38876970",
+      "freshTranslation": "$n",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000010",
+      "sourceBindingSha256": "d25e967c5f8f9df3549e7ada17a0f9bb541fdfc83f2b1e4084cc09c621a3eec7",
+      "sourceTextSha256": "5eccc9a8ae61e1eb5a0e0a96b181a30f8f3f32e3420fa9685d7d8e39c76a5d46",
+      "freshTranslation": "그렇게 정해졌다",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000011",
+      "sourceBindingSha256": "c0c6e4b25d88883580358f2c4bf2dd4cb3716cae58e7c17414fe45e04c7b5adb",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000012",
+      "sourceBindingSha256": "cbedd7556bb6ff72b4fed77a444a8fc9ef68c34cc58e615ef9e3d6960836ad34",
+      "sourceTextSha256": "5ab94b4a73576f5f3f3df1b4c00071f618f58e674b552e4a6ba57e54677f1b9b",
+      "freshTranslation": "어디로 가도 제미니스와 싸우게 될 거라고",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000013",
+      "sourceBindingSha256": "3475d1c195520eac4b7aeb68e6cec6b2776fa16b8d6c98330c186dc911d3825d",
+      "sourceTextSha256": "0e500dafdb0087990957fe4e33bd9443f4ed7b702998587a838e8c3872723b82",
+      "freshTranslation": "생각해요",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000014",
+      "sourceBindingSha256": "445b419655d60469e75889f6efdff3945f36a79c7d8167198a6ae23b6b4e20b3",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000015",
+      "sourceBindingSha256": "896cc911cfea9f6369baee60916ee676417c7cfaee11a3fa207975c2d62b2ea4",
+      "sourceTextSha256": "5d1915ab756822ffc7f47cee842e0ef773bab96e5a44e73dc0f1c0e67ab676a4",
+      "freshTranslation": "저 가드라이트라는 남자…",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000016",
+      "sourceBindingSha256": "682714dc39b59cbf8d1bd3a20704f51cf7037808ecac812464817eb3bc5d1416",
+      "sourceTextSha256": "bf6a51c921ee69187a9a8c9a57d508cb8edf238bd2a944aa823d5beaa6d75b7d",
+      "freshTranslation": "삐뚤어졌지만, 제니온과 $c를",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000017",
+      "sourceBindingSha256": "e6a2030e50593b92895c986ed33b90a3454f92729f59406e752002a9461420f2",
+      "sourceTextSha256": "5e54ddbf6df353d5bb1a86104919f48ccd652d7a47dc00362fa25d5363dd6223",
+      "freshTranslation": "의식했던 모양이니까요",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000018",
+      "sourceBindingSha256": "2abffb314aa386beb1448517c9f6650a2f238bae1860cdec96c2525ae7cff52d",
+      "sourceTextSha256": "e5e40bfe29836fbe855f98f588e6a5b447cb9a8c2e0cc3356fea11bc38876970",
+      "freshTranslation": "$n",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000019",
+      "sourceBindingSha256": "fd844dcb389b54c09cd91e0e126af2e40fb7d878105c69e617717243b4375cab",
+      "sourceTextSha256": "3e74bf22abb0901f2e442be55fe5ee3f3c4ac85d7851aa636336290d5d0ed255",
+      "freshTranslation": "바라던 바다.",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000020",
+      "sourceBindingSha256": "85a884da7a2fd9b156b6a4e7bedaa05c79513568b9220734b5db3c80ec41a2e4",
+      "sourceTextSha256": "687a29fc9163eda9d4e0899680d2cd3643cd3ecaeb4a72b84ccbb054f9b6d4df",
+      "freshTranslation": "이번엔 우리 제니온을 얕본 놈을",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000021",
+      "sourceBindingSha256": "97e26dc4ac94e60c64dcd79e66d6cc065b384c45e7e3ac5e05411159396c9b07",
+      "sourceTextSha256": "527970b3920b567d5e2bf4f9a0bc0d5c29a2b0aff0b0c3b8f985801e2d928ce7",
+      "freshTranslation": "후회하게 해 줄 차례다",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000022",
+      "sourceBindingSha256": "2a9f19e1eca726ba3de5622a5570725c7d0b0f068298a484b7ed52396e0f16be",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000023",
+      "sourceBindingSha256": "462fc886c2e160d0021a397204d332973436b671dd1d752a5ee4ee91425145ba",
+      "sourceTextSha256": "8f8af692652c9e06fe3f2dc44d4596640b37890e8b4510f3bde6360b5ddcf72f",
+      "freshTranslation": "알겠습니다!",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000024",
+      "sourceBindingSha256": "10cddaa418cde1088ea4f071e2fa9aecabb663a6c22ade184151c1056abda5f2",
+      "sourceTextSha256": "1849393a49c3a9c21c9b951c9c19ad7a664c5d10dc6e8f846bef374fb40569db",
+      "freshTranslation": "저도 불타오르네요!",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000025",
+      "sourceBindingSha256": "3e63716bf30fa23cb6d5fe4721414738503282aabf52ea2269d63bf24c761607",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0252-35화후B분기/ID00003/000026",
+      "sourceBindingSha256": "f2279e304c1fb9cf5baad4ab548984c71c474efbb459918b06f7b16fc6cbcdf3",
+      "sourceTextSha256": "831f3d00ad0e535f3d6828ee9ce9ac4df4d8bf330d3d2c705878ea0ce2a669fd",
+      "freshTranslation": "그럼 오늘도 힘차게… 장사, 장사!",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0252-35화후B분기 신규 번역 초안"
+    }
+  ]
+}

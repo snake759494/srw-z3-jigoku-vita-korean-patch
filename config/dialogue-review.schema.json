@@ -1,0 +1,180 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/snake759494/srw-z3-jigoku-vita-korean-patch/releases/schema/dialogue-review.schema.json",
+  "title": "시옥편 공통 대사 검수 JSON",
+  "description": "시나리오·전투·사전 대사를 사람이 확인하고 수정하기 위한 공통 계약",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "format",
+    "formatVersion",
+    "gameId",
+    "dialogueType",
+    "languages",
+    "asset",
+    "sourceSnapshot",
+    "encoding",
+    "policy",
+    "counts",
+    "entries"
+  ],
+  "properties": {
+    "$schema": { "type": "string" },
+    "format": { "const": "siok.dialogue-review" },
+    "formatVersion": { "const": 1 },
+    "gameId": { "const": "PCSG00264" },
+    "dialogueType": { "enum": ["scenario", "battle", "dictionary"] },
+    "languages": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source", "target"],
+      "properties": {
+        "source": { "const": "ja" },
+        "target": { "const": "ko" }
+      }
+    },
+    "asset": { "$ref": "#/$defs/asset" },
+    "sourceSnapshot": {
+      "oneOf": [
+        { "type": "null" },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["fileName", "sha256", "rowCount"],
+          "properties": {
+            "fileName": { "type": "string" },
+            "sha256": { "type": "string" },
+            "rowCount": { "type": ["integer", "null"], "minimum": 0 }
+          }
+        }
+      ]
+    },
+    "encoding": { "type": "object" },
+    "policy": {
+      "type": "object",
+      "additionalProperties": true,
+      "required": ["requiresUserOwnedGame", "gameBinaryIncluded", "originalJapaneseTextIncluded"],
+      "properties": {
+        "requiresUserOwnedGame": { "const": true },
+        "gameBinaryIncluded": { "const": false },
+        "originalJapaneseTextIncluded": { "const": true }
+      }
+    },
+    "retranslationPreview": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "scope": { "type": "string" },
+        "version": { "type": "string" },
+        "field": { "const": "newTranslation" },
+        "activeTranslationUnchanged": { "type": "boolean" },
+        "spacePolicy": { "type": "string" },
+        "linePolicy": { "type": "string" }
+      }
+    },
+    "counts": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["entries", "uniqueSourceTexts", "translatedEntries"],
+      "properties": {
+        "entries": { "type": "integer", "minimum": 0 },
+        "uniqueSourceTexts": { "type": "integer", "minimum": 0 },
+        "translatedEntries": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "entries": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/entry" }
+    }
+  },
+  "$defs": {
+    "sha256": {
+      "type": ["string", "null"],
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "payload": {
+      "oneOf": [
+        { "type": "null" },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["bytes", "sha256", "hex"],
+          "properties": {
+            "bytes": { "type": ["integer", "null"], "minimum": 0 },
+            "sha256": { "$ref": "#/$defs/sha256" },
+            "hex": { "type": ["string", "null"] }
+          }
+        }
+      ]
+    },
+    "asset": {
+      "type": "object",
+      "additionalProperties": true,
+      "required": ["assetKey", "fileName", "target", "source", "localized"],
+      "properties": {
+        "assetKey": { "type": "string", "minLength": 1 },
+        "fileName": { "type": "string", "minLength": 1 },
+        "target": { "type": "string", "minLength": 1 },
+        "source": { "type": ["object", "null"] },
+        "localized": { "type": ["object", "null"] }
+      }
+    },
+    "controls": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["sourceTokens", "translationTokens", "sourceSignature", "translationSignature"],
+      "properties": {
+        "sourceTokens": { "type": "array", "items": { "type": "string" } },
+        "translationTokens": { "type": "array", "items": { "type": "string" } },
+        "sourceSignature": { "type": "string" },
+        "translationSignature": { "type": "string" }
+      }
+    },
+    "entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "entryId",
+        "sourceText",
+        "translation",
+        "sourceTextSha256",
+        "translationTextSha256",
+        "translationStatus",
+        "translator",
+        "reviewer",
+        "referenceConsulted",
+        "notes",
+        "controls",
+        "location",
+        "sourcePayload",
+        "appliedPayload",
+        "references",
+        "metadata"
+      ],
+      "properties": {
+        "entryId": { "type": "string", "minLength": 1 },
+        "sourceText": { "type": "string" },
+        "translation": { "type": "string" },
+        "sourceTextSha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "translationTextSha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "translationStatus": { "type": "string", "minLength": 1 },
+        "translator": { "type": "string" },
+        "reviewer": { "type": "string" },
+        "referenceConsulted": { "type": "boolean" },
+        "notes": { "type": "string" },
+        "controls": { "$ref": "#/$defs/controls" },
+        "location": { "type": "object", "minProperties": 1 },
+        "sourcePayload": { "$ref": "#/$defs/payload" },
+        "appliedPayload": { "$ref": "#/$defs/payload" },
+        "references": { "type": "object" },
+        "metadata": { "type": "object" },
+        "newTranslation": { "type": "string" },
+        "newTranslationTextSha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "newTranslationStatus": { "type": "string", "minLength": 1 },
+        "newTranslationReference": { "type": "object" }
+      }
+    }
+  }
+}

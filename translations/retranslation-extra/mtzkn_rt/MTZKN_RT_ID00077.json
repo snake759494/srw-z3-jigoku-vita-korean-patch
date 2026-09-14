@@ -1,0 +1,49 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00077",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00077/Sheet1/000002",
+      "sourceBindingSha256": "37430cc794902aa6bb0ce540ffd12939d5754d90d3a2b390a6dcc097c02fd600",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00077/Sheet1/000003",
+      "sourceBindingSha256": "961cff9238380c8783cb16069025572c79cbcb3cce530b96dfd1f619a99749dd",
+      "sourceTextSha256": "4966ae60fa3a85eaae4aa7962f0bc08f04cefdfc7b484e300f26862befc84e70",
+      "freshTranslation": "지구 연방군의 주력으로서 배치되고 있던 모빌 슈트. ㊥ 의사 태양로가 탑재되어 있어 안정된 파워를 유지할 수 있다. ㊥ 또, 표준 장비가 되고 있는 GN랜스는, 사격전, 격투전의 양국면에 사용할 수 있어, ㊥모든 상황에 대응하는 것이 가능. ㊥ 세력에 의해 다양한 컬러 바리에이션이 존재해, 마리나·이스마일을 덮쳐 ㊥한 테러리스트가 사용한 본 버전은 황색과 흰색으로 도장되고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00077/Sheet1/000004",
+      "sourceBindingSha256": "69f338990a8e2e914141e827bedd8a8db66bd4e96bad5f458c4e795d88945c3f",
+      "sourceTextSha256": "4966ae60fa3a85eaae4aa7962f0bc08f04cefdfc7b484e300f26862befc84e70",
+      "freshTranslation": "지구 연방군의 주력으로서 배치되고 있던 모빌 슈트. ㊥ 의사 태양로가 탑재되어 있어 안정된 파워를 유지할 수 있다. ㊥ 또, 표준 장비가 되고 있는 GN랜스는, 사격전, 격투전의 양국면에 사용할 수 있어, ㊥모든 상황에 대응하는 것이 가능. ㊥ 세력에 의해 다양한 컬러 바리에이션이 존재해, 마리나·이스마일을 덮쳐 ㊥한 테러리스트가 사용한 본 버전은 황색과 흰색으로 도장되고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

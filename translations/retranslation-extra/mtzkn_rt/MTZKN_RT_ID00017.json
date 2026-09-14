@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00017",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00017/Sheet1/000002",
+      "sourceBindingSha256": "e63daf9513f91ed4c376cdb0f029af0b8eb533bba9e025afbb46fcf5f3f54ecb",
+      "sourceTextSha256": "2821f723e708a26125b2215f86a494a31e2eb1a3f45f2c6e857b2cc6d0a13f93",
+      "freshTranslation": "롯신 합체 갓 마즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00017/Sheet1/000003",
+      "sourceBindingSha256": "9a63983966a106941a7b4e3f1b8666ff792bcd679bae26107d6c7c97971806b6",
+      "sourceTextSha256": "545a6156d74b4d69649c117215e44838add34fa6579b153855e09c9b8217a09b",
+      "freshTranslation": "블리잠",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00017/Sheet1/000004",
+      "sourceBindingSha256": "a748ba78e9721f534501b7bee06ef148ad6616e39a872c2b50aed21aa5c5ca18",
+      "sourceTextSha256": "545a6156d74b4d69649c117215e44838add34fa6579b153855e09c9b8217a09b",
+      "freshTranslation": "블리잠",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00017/Sheet1/000005",
+      "sourceBindingSha256": "6aab48e1c7198a9384ef6ac042bf3a3ad0701893182d8ba16d3559279d61f3e9",
+      "sourceTextSha256": "6b0c3374fb91fa3d70be4f1b439168b97903df85e5c994517c1672d56ee837c5",
+      "freshTranslation": "제54화 『별리!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00017/Sheet1/000006",
+      "sourceBindingSha256": "5dbd007985b01a22efd62db77bef67df458c20f6affc4c6da392509b94e6f419",
+      "sourceTextSha256": "cee04079b5be55458371de0d0dd09c3a4074c3e61ad1064cc5a8e2e2dfcda3ad",
+      "freshTranslation": "켈과 로제」에 등장한 전투 메카. ㊥ 조종하는 게슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00017/Sheet1/000007",
+      "sourceBindingSha256": "14918ed46ab84a79653c09124f826450fcd1e6890b83e384a99c74d6bcf0e4fd",
+      "sourceTextSha256": "0fc8f11496adf6540517d9b8011ade8799ed96817c27a0ba05ecb7b880608fdf",
+      "freshTranslation": "루트의 보디에서 가슴에서 발하는 작열빔으로 마그마를 만들어낸다. ㊥ 그린란드 근해의 해저에 숨어 모든 육지를 끓인 바다에 가라앉히려 했다. ㊥ 해저에서의 전투와 악마 반지로 고통받는 가이어를 몰았다. ㊥ 마그마를 얼리는 우라누스의 서포트에서 합체한 갓 마즈에게 패하고, 마지막은 바다 ㊥ 바닥에 가라앉았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00017/Sheet1/000008",
+      "sourceBindingSha256": "de553aa0744d9dbb436d745c7323e8de05a63c8ff72a189cacb5e91444c9811f",
+      "sourceTextSha256": "6b0c3374fb91fa3d70be4f1b439168b97903df85e5c994517c1672d56ee837c5",
+      "freshTranslation": "제54화 『별리!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00017/Sheet1/000009",
+      "sourceBindingSha256": "31b0e832d86463eef6c6bec954e4a273c531a2440351a71ef006409fbd59090b",
+      "sourceTextSha256": "cee04079b5be55458371de0d0dd09c3a4074c3e61ad1064cc5a8e2e2dfcda3ad",
+      "freshTranslation": "켈과 로제」에 등장한 전투 메카. ㊥ 조종하는 게슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00017/Sheet1/000010",
+      "sourceBindingSha256": "a1a26f86853093c4204d05fd294133dd15adafdab897d2cce484f9828dfd2a1a",
+      "sourceTextSha256": "0fc8f11496adf6540517d9b8011ade8799ed96817c27a0ba05ecb7b880608fdf",
+      "freshTranslation": "루트의 보디에서 가슴에서 발하는 작열빔으로 마그마를 만들어낸다. ㊥ 그린란드 근해의 해저에 숨어 모든 육지를 끓인 바다에 가라앉히려 했다. ㊥ 해저에서의 전투와 악마 반지로 고통받는 가이어를 몰았다. ㊥ 마그마를 얼리는 우라누스의 서포트에서 합체한 갓 마즈에게 패하고, 마지막은 바다 ㊥ 바닥에 가라앉았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

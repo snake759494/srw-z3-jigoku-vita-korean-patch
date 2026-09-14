@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00038",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00038/Sheet1/000002",
+      "sourceBindingSha256": "8ed99197556adeabf297545699a365a3128d46e2aaece20eac28b4e9d919e234",
+      "sourceTextSha256": "52a93e848e7ff3b5013a381db10e590999e67c5f27928f7685cee2b03e293568",
+      "freshTranslation": "에고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00038/Sheet1/000003",
+      "sourceBindingSha256": "486fecbf7054b863fb5b95180c2b696c851bbfd74e517378266e941cfea30370",
+      "sourceTextSha256": "9e5464f47a8aff72df3528348b8488c8409eb8196a31c3e3aba2be43794445ef",
+      "freshTranslation": "「기동전사 Z건담」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00038/Sheet1/000004",
+      "sourceBindingSha256": "7f8ed8511e6037241f2e5aca8c1f4c8c5031df050326b15990f545b34d3bda52",
+      "sourceTextSha256": "4042c19566529561d72bbed3e4213fe34bb23f7fcd04ff49d1cfb9d4d38d1fb4",
+      "freshTranslation": "반지구 연방 정부 조직. ㊥ \"AntiEarthUnitedGovernment\"의 약자. ㊥ 원래는 티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00038/Sheet1/000005",
+      "sourceBindingSha256": "aef2306aacc3c82cdfa3bd3c3e0a87fc24dae4876c8c9f0fc736307f999b53fe",
+      "sourceTextSha256": "6b9fa1fd8f9c2a55a749b9ea9074c76b077487a10a1a6f4e5eb5628a350b197c",
+      "freshTranslation": "네즈의 대두를 위험시하는 지구 연방군 내의 인간들에 의해 설립㊥되었지만, 민간인이나 전 지온 군인 등 폭넓게 인재를 모았다. ㊥ 창립자인 브렉스포라가 대표자였지만, 그가 암살된 후 ㊥ 콰트로 바지나가 그 뜻을 이어받았다. ㊥ 콜로니 레이저를 둘러싼 메일 스트롬 작전을 성공시키고, 티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00038/Sheet1/000006",
+      "sourceBindingSha256": "36e5aca8420ca8b762f6ab1646d53a67ca28f4c2c7fd0ff318cbfd59fa18ed2e",
+      "sourceTextSha256": "f8ef746465b752ecd3e047190c39d0c62356288f90dca4a1d4f31d445c42e47b",
+      "freshTranslation": "룬즈㊥의 지도자였던 파푸테마스 시로코를 토벌하고 그립스 전역에 승리했다. ㊥ 그러나 그 전투에서 콰트로 바지나는 소식 불명이 되어 버렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00038/Sheet1/000007",
+      "sourceBindingSha256": "75cc71b961f5f8ce168d1d1ced5cddf859cb070f28a8b8ee6c126e4ef26db7ad",
+      "sourceTextSha256": "4042c19566529561d72bbed3e4213fe34bb23f7fcd04ff49d1cfb9d4d38d1fb4",
+      "freshTranslation": "반지구 연방 정부 조직. ㊥ \"AntiEarthUnitedGovernment\"의 약자. ㊥ 원래는 티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00038/Sheet1/000008",
+      "sourceBindingSha256": "9e425ac00841275492a1cdc4566a1b2cc093df941e43333f9027243cff7ed95a",
+      "sourceTextSha256": "6b9fa1fd8f9c2a55a749b9ea9074c76b077487a10a1a6f4e5eb5628a350b197c",
+      "freshTranslation": "네즈의 대두를 위험시하는 지구 연방군 내의 인간들에 의해 설립㊥되었지만, 민간인이나 전 지온 군인 등 폭넓게 인재를 모았다. ㊥ 창립자인 브렉스포라가 대표자였지만, 그가 암살된 후 ㊥ 콰트로 바지나가 그 뜻을 이어받았다. ㊥ 콜로니 레이저를 둘러싼 메일 스트롬 작전을 성공시키고, 티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00038/Sheet1/000009",
+      "sourceBindingSha256": "7f9c29c34ef87e8ba868f2ea56321d2ef942d1a3e6cd81cdc0a65a38daf9c32d",
+      "sourceTextSha256": "f8ef746465b752ecd3e047190c39d0c62356288f90dca4a1d4f31d445c42e47b",
+      "freshTranslation": "룬즈㊥의 지도자였던 파푸테마스 시로코를 토벌하고 그립스 전역에 승리했다. ㊥ 그러나 그 전투에서 콰트로 바지나는 소식 불명이 되어 버렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

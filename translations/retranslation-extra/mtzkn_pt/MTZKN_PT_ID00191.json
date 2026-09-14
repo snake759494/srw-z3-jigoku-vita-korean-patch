@@ -1,0 +1,269 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00191",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000002",
+      "sourceBindingSha256": "90209b62a7740d94f4bc6b243e75739dce59edd3a6087366e0f51960e6c201a9",
+      "sourceTextSha256": "9f7c86ffae9aacc2c3c2e39643dde1673bfbc47b219f9cf04696362c414f24bb",
+      "freshTranslation": "자동차 벤케이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000003",
+      "sourceBindingSha256": "636a139a174ccb8fedbb7be7da85c7d61ef9f72da2bf3b8eb3e201226619270d",
+      "sourceTextSha256": "ce1e8aeca780115f7fb486861d20ee2c85b879f85f2ef3102d24c16f4c2b819b",
+      "freshTranslation": "벤케이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000004",
+      "sourceBindingSha256": "c9ca583fc4d1c4f13a37990ee0fb42388efa1893cc9ec93f21ccff203ceca41b",
+      "sourceTextSha256": "2e50e921e3c7b75fbcf433d1563a8398e58c77dd78a57ca4d82d5572435bab13",
+      "freshTranslation": "(체인지!)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000005",
+      "sourceBindingSha256": "c8a393ea1f5a4a202fe6296ae0423c028b9bfce76923a0276c4d47c1bb1b18d8",
+      "sourceTextSha256": "7c3cb5cb2ef14de63eec14acd214053a7f20637efe0ffd4631309ea46fb1a51d",
+      "freshTranslation": "- 로보 세계 마지막 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000006",
+      "sourceBindingSha256": "b9703a0a04b68c030872d60f685c1d25d6113dc2525f22074aca152c5e2188a0",
+      "sourceTextSha256": "f87db3fd4df1572a8b9709e1653fe798bc1727eddd2a71e9857e1aded8bbfa2e",
+      "freshTranslation": "이즈카 아키조",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000007",
+      "sourceBindingSha256": "527ce4e87993baa65d67bdc8be2f2ef9e09dab6672db26d2c18fc93a78ef8b91",
+      "sourceTextSha256": "79579eb36b655c27a7d1840299af614270c79d0b60c6a140828f32c7357556f9",
+      "freshTranslation": "한때 겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000008",
+      "sourceBindingSha256": "5ede1165682e288ffaf8eada09dc3a1ba5c82497163ce9c0a788d154b9b85374",
+      "sourceTextSha256": "3efe0ce57ff466784211463a96752ff1faf62218db5fb09bc491bd691be3c6a7",
+      "freshTranslation": "- 팀의 예비 멤버. ㊥ 시게요코 미사일이 일본에 떨어졌을 때 건강과 함께 지하 쉘",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000009",
+      "sourceBindingSha256": "d06cfaaf561ea2d057a921ad2ab4cd44ba460bcf497e10b0846f941e1787bb74",
+      "sourceTextSha256": "2976d17cafe7371fd45f914302de79824d8c26c88fd1246ea21598b873f15794",
+      "freshTranslation": "-로 도망치고, 건강 ㊥를 계곡으로 키웠다. ㊥13 년 후 지상을 탐험했던 곳에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000010",
+      "sourceBindingSha256": "fc1c04f668e77c011e3c568755ac76d85907af2abe75922832d75fa2c22d3cfc",
+      "sourceTextSha256": "5236562cece3a22c1eaac1db3539685c5f2a546c991276d3b63d8dbeb009892f",
+      "freshTranslation": "워와 인베이더의 전투에 조우. 위기㊥을 벗기기 위해 한번은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000011",
+      "sourceBindingSha256": "ef0f5a53e43b839702dab3de6999a518be216e0a3d39289e8197d2de5e28c8d7",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000012",
+      "sourceBindingSha256": "15e9636bd84081f5f6496521775eaacbd2b695f7469358d089c0c63de65c8a1d",
+      "sourceTextSha256": "f71ebc525f6e75e89f25ce66511891f00616e09b810bb8d9c0a8068f546b6d7b",
+      "freshTranslation": "- 탑승하더라도 부상을 입었기 때문에 전선을 떠났습니다.㊥벗다.㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000013",
+      "sourceBindingSha256": "5d66cbeb5c8afdb5a68a6b29a46462d314aeafff3bdbd0d9511c9ecbc8ea1ba2",
+      "sourceTextSha256": "6bc6d37d05c2a6cde1ba26bec34e8483d1b7f518e22873530a04914399a1c27b",
+      "freshTranslation": "드래곤의 각성에 의해, 호가 전선을 이탈한 후에는 용마, 하야토와 함께",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000014",
+      "sourceBindingSha256": "c5ba37e148ae85d8f4735f77ed0fae5bcf49fbd2deab11dec55a13ac71be739a",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000015",
+      "sourceBindingSha256": "50afe954d1c0e9e4ade5c6bf0dad0eafb420875a7fc1c40a6fc0213213be0476",
+      "sourceTextSha256": "497f18e768673b64bc1218a55c24076371d1be3bc1adf35a75ccd8bfdbf4704d",
+      "freshTranslation": "ー㊥에 탑승했다.㊥사오토메 박사와의 결착을 한 후 우주로 올라가 은하계 전체를 손에 넣으려고㊥인베이더와의 사투를 펼쳤다.㊥마지막은 미래 영구에 이을 때의 틈에서의 싸움에 몸을 던지고, 다른 차원으로 여행하는 것이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000016",
+      "sourceBindingSha256": "2cee65e9e2ca5e17358852de59903216d0536a2de1db8cd1ecebee63f0210163",
+      "sourceTextSha256": "79579eb36b655c27a7d1840299af614270c79d0b60c6a140828f32c7357556f9",
+      "freshTranslation": "한때 겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000017",
+      "sourceBindingSha256": "d024d5ce5dabd1b6cbc3c886be298cc26f443e8f61fe5eb0706f39c044aeb759",
+      "sourceTextSha256": "3efe0ce57ff466784211463a96752ff1faf62218db5fb09bc491bd691be3c6a7",
+      "freshTranslation": "- 팀의 예비 멤버. ㊥ 시게요코 미사일이 일본에 떨어졌을 때 건강과 함께 지하 쉘",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000018",
+      "sourceBindingSha256": "c8e9d55d8e7bf937c7572a30b5f8c2a2ef87c59f7f52b63b832e07843aa2c0f0",
+      "sourceTextSha256": "2976d17cafe7371fd45f914302de79824d8c26c88fd1246ea21598b873f15794",
+      "freshTranslation": "-로 도망치고, 건강 ㊥를 계곡으로 키웠다. ㊥13 년 후 지상을 탐험했던 곳에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000019",
+      "sourceBindingSha256": "861c9ccd73dbeca73f4e7675b932edc5a250ff6fc85f436502407b55b3c0aae0",
+      "sourceTextSha256": "5236562cece3a22c1eaac1db3539685c5f2a546c991276d3b63d8dbeb009892f",
+      "freshTranslation": "워와 인베이더의 전투에 조우. 위기㊥을 벗기기 위해 한번은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000020",
+      "sourceBindingSha256": "98c81ad1f524914a82ad89b03b03737900c329802f2183a9c622098225008e4f",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000021",
+      "sourceBindingSha256": "d78d91c9105c7c29264743fb7b5c46c0dca60b1060f602854675c1cb8fac87ed",
+      "sourceTextSha256": "f71ebc525f6e75e89f25ce66511891f00616e09b810bb8d9c0a8068f546b6d7b",
+      "freshTranslation": "- 탑승하더라도 부상을 입었기 때문에 전선을 떠났습니다.㊥벗다.㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000022",
+      "sourceBindingSha256": "a347d5d8715bd876510bebbf9c7d96b1e40dac2d8094ff0228a6039003f42d26",
+      "sourceTextSha256": "6bc6d37d05c2a6cde1ba26bec34e8483d1b7f518e22873530a04914399a1c27b",
+      "freshTranslation": "드래곤의 각성에 의해, 호가 전선을 이탈한 후에는 용마, 하야토와 함께",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000023",
+      "sourceBindingSha256": "9aaf0fd21f2e6ec792caf35d7762d7d6400d76b9e5cdb7a02f143461a3ef6159",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00191/Sheet1/000024",
+      "sourceBindingSha256": "e8c44fb0d0c46d8e1db6b38781fdfc28a841c72ca1fb1f2ffcc433fee3772c3a",
+      "sourceTextSha256": "497f18e768673b64bc1218a55c24076371d1be3bc1adf35a75ccd8bfdbf4704d",
+      "freshTranslation": "ー㊥에 탑승했다.㊥사오토메 박사와의 결착을 한 후 우주로 올라가 은하계 전체를 손에 넣으려고㊥인베이더와의 사투를 펼쳤다.㊥마지막은 미래 영구에 이을 때의 틈에서의 싸움에 몸을 던지고, 다른 차원으로 여행하는 것이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

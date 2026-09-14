@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00078",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00078/Sheet1/000002",
+      "sourceBindingSha256": "521f1b066230af779d9732ebb9dd5222d1cdcb96721a4313dc2f3846f2d9d92a",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00078/Sheet1/000003",
+      "sourceBindingSha256": "3199148fb9da9f1735472902aaba3e3f68d07d009a8f5465239ba27d5ccb3bf5",
+      "sourceTextSha256": "fe65d329c3300cc715b1c22053f1fe409c3086f8b9dcfcde5e32697c163d9fa3",
+      "freshTranslation": "지구 연방군의 주력 모빌 슈트. ㊥ 지휘관기와 양산기가 있어 이 컬러링은 지휘관기. ㊥ 구 연방군의 주력기는 어헤드로 이행하고 있었지만, 어로우즈의 만행이 밝기에 ㊥ 나온 것에 의해, 동 조직의 이미지가 강한 어헤드의 생산은 중지가 되었다. 대신 ㊥하여 GN-X 시리즈를 발전시킨 본기가 주력기로 채용되었다. ㊥ 우주 항해 모함 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00078/Sheet1/000004",
+      "sourceBindingSha256": "9bfd93d78640aa343220159b746229f4ad5aefa9a629c9cdf58634ccb5dcda64",
+      "sourceTextSha256": "3ec2f2e3a161f304922740dd41230648b34c827317e98e1e8b837e969fdcfac4",
+      "freshTranslation": "루비잉호가 연방군의 관리하에 놓여진 것으로 건담의 ㊥기술이 적극적으로 전용되고 있어, 트랜잠의 채용이나, 베다의 백업도 실㊥현재하고 있다. ㊥GN 바주카나 GN 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00078/Sheet1/000005",
+      "sourceBindingSha256": "306f5eb7a360a0e04715a8ed83758abc8b2818a75008e361dcdb6f4006bfa43b",
+      "sourceTextSha256": "3c97cf9bfed7c049e119574d6e6274f69904394841897a77ddf9951eeb9e02c6",
+      "freshTranslation": "- 소드와 같은 풍부한 옵션 무장이 존재하며, 작전 ㊥과 파일럿에 의해 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00078/Sheet1/000006",
+      "sourceBindingSha256": "094134c1032482b46fe427320c86a8cd9b2ec49b0dc52c17cd6fd9ca1b99f00d",
+      "sourceTextSha256": "0601a1775fa8103110256b58983817fbe7c402ce6cd69ad0a5c8b4ec6795d9d0",
+      "freshTranslation": "마이즈가 가능하다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00078/Sheet1/000007",
+      "sourceBindingSha256": "670112f1e4a2aa3745f293180e69045d90d74d0335a578a273f0cc7cdd56a092",
+      "sourceTextSha256": "fe65d329c3300cc715b1c22053f1fe409c3086f8b9dcfcde5e32697c163d9fa3",
+      "freshTranslation": "지구 연방군의 주력 모빌 슈트. ㊥ 지휘관기와 양산기가 있어 이 컬러링은 지휘관기. ㊥ 구 연방군의 주력기는 어헤드로 이행하고 있었지만, 어로우즈의 만행이 밝기에 ㊥ 나온 것에 의해, 동 조직의 이미지가 강한 어헤드의 생산은 중지가 되었다. 대신 ㊥하여 GN-X 시리즈를 발전시킨 본기가 주력기로 채용되었다. ㊥ 우주 항해 모함 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00078/Sheet1/000008",
+      "sourceBindingSha256": "27e547e74d0b76d11d3bc6849deed015e3c0788c809dac14ce13bf9f849fb7dd",
+      "sourceTextSha256": "3ec2f2e3a161f304922740dd41230648b34c827317e98e1e8b837e969fdcfac4",
+      "freshTranslation": "루비잉호가 연방군의 관리하에 놓여진 것으로 건담의 ㊥기술이 적극적으로 전용되고 있어, 트랜잠의 채용이나, 베다의 백업도 실㊥현재하고 있다. ㊥GN 바주카나 GN 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00078/Sheet1/000009",
+      "sourceBindingSha256": "142f1e8341bc20aae449a4a9f6df8537610829df1f73861dd96ecd92c422bd2d",
+      "sourceTextSha256": "3c97cf9bfed7c049e119574d6e6274f69904394841897a77ddf9951eeb9e02c6",
+      "freshTranslation": "- 소드와 같은 풍부한 옵션 무장이 존재하며, 작전 ㊥과 파일럿에 의해 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00078/Sheet1/000010",
+      "sourceBindingSha256": "e4f369748501026c59b3f339b44de54cf4d48e486e05b9acfd8d6cabd1e74ac1",
+      "sourceTextSha256": "0601a1775fa8103110256b58983817fbe7c402ce6cd69ad0a5c8b4ec6795d9d0",
+      "freshTranslation": "마이즈가 가능하다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

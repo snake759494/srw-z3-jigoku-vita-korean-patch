@@ -1,0 +1,1251 @@
+{
+  "$schema": "./progress.schema.json",
+  "format": "siok-retranslation-progress",
+  "formatVersion": 1,
+  "baseline": {
+    "fileName": "translations.tsv",
+    "sha256": "7a7bd4a37228b384a5d8ed7225ccdcb378bbe38cb6196c8057cc439730cbe1cf",
+    "rowCount": 175210,
+    "assetCount": 175
+  },
+  "policy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only",
+    "automaticLegacyFallback": false,
+    "mergeOutput": "derived-file-only"
+  },
+  "counts": {
+    "draftedAssets": 174,
+    "reviewedAssets": 1,
+    "draftedRows": 175117,
+    "reviewedRows": 93,
+    "remainingRows": 0
+  },
+  "assets": [
+    {
+      "scope": "dictionary",
+      "assetKey": "사전2-flowman",
+      "overlay": "dictionary/사전2-flowman.json",
+      "rowCount": 4464,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0231",
+      "overlay": "dlc/DLC0231.json",
+      "rowCount": 63,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0301",
+      "overlay": "dlc/DLC0301.json",
+      "rowCount": 440,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0302",
+      "overlay": "dlc/DLC0302.json",
+      "rowCount": 508,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0303",
+      "overlay": "dlc/DLC0303.json",
+      "rowCount": 501,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0304",
+      "overlay": "dlc/DLC0304.json",
+      "rowCount": 864,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0305",
+      "overlay": "dlc/DLC0305.json",
+      "rowCount": 348,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0306",
+      "overlay": "dlc/DLC0306.json",
+      "rowCount": 643,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0307",
+      "overlay": "dlc/DLC0307.json",
+      "rowCount": 591,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0308",
+      "overlay": "dlc/DLC0308.json",
+      "rowCount": 518,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0309",
+      "overlay": "dlc/DLC0309.json",
+      "rowCount": 534,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0310",
+      "overlay": "dlc/DLC0310.json",
+      "rowCount": 486,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0311",
+      "overlay": "dlc/DLC0311.json",
+      "rowCount": 560,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0312",
+      "overlay": "dlc/DLC0312.json",
+      "rowCount": 634,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0313",
+      "overlay": "dlc/DLC0313.json",
+      "rowCount": 374,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0314",
+      "overlay": "dlc/DLC0314.json",
+      "rowCount": 699,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0315",
+      "overlay": "dlc/DLC0315.json",
+      "rowCount": 1054,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0316",
+      "overlay": "dlc/DLC0316.json",
+      "rowCount": 1231,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0317",
+      "overlay": "dlc/DLC0317.json",
+      "rowCount": 496,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0318",
+      "overlay": "dlc/DLC0318.json",
+      "rowCount": 741,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0319",
+      "overlay": "dlc/DLC0319.json",
+      "rowCount": 640,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0320",
+      "overlay": "dlc/DLC0320.json",
+      "rowCount": 781,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0321",
+      "overlay": "dlc/DLC0321.json",
+      "rowCount": 682,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0322",
+      "overlay": "dlc/DLC0322.json",
+      "rowCount": 346,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0323",
+      "overlay": "dlc/DLC0323.json",
+      "rowCount": 179,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0324",
+      "overlay": "dlc/DLC0324.json",
+      "rowCount": 238,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0327",
+      "overlay": "dlc/DLC0327.json",
+      "rowCount": 6,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0328",
+      "overlay": "dlc/DLC0328.json",
+      "rowCount": 6,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0329",
+      "overlay": "dlc/DLC0329.json",
+      "rowCount": 6,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0330",
+      "overlay": "dlc/DLC0330.json",
+      "rowCount": 6,
+      "status": "draft"
+    },
+    {
+      "scope": "dlc",
+      "assetKey": "DLC0331",
+      "overlay": "dlc/DLC0331.json",
+      "rowCount": 6,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0001a",
+      "overlay": "stage/STG0001a.json",
+      "rowCount": 93,
+      "status": "reviewed"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0001b",
+      "overlay": "stage/STG0001b.json",
+      "rowCount": 558,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0002",
+      "overlay": "stage/STG0002.json",
+      "rowCount": 1443,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0003",
+      "overlay": "stage/STG0003.json",
+      "rowCount": 976,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0004",
+      "overlay": "stage/STG0004.json",
+      "rowCount": 1561,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0005",
+      "overlay": "stage/STG0005.json",
+      "rowCount": 1021,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0006",
+      "overlay": "stage/STG0006.json",
+      "rowCount": 888,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0007a",
+      "overlay": "stage/STG0007a.json",
+      "rowCount": 141,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0007b",
+      "overlay": "stage/STG0007b.json",
+      "rowCount": 993,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0008",
+      "overlay": "stage/STG0008.json",
+      "rowCount": 1105,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0009",
+      "overlay": "stage/STG0009.json",
+      "rowCount": 944,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0010",
+      "overlay": "stage/STG0010.json",
+      "rowCount": 1907,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0011",
+      "overlay": "stage/STG0011.json",
+      "rowCount": 1218,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0012",
+      "overlay": "stage/STG0012.json",
+      "rowCount": 1344,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0013",
+      "overlay": "stage/STG0013.json",
+      "rowCount": 658,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0014",
+      "overlay": "stage/STG0014.json",
+      "rowCount": 1544,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0015",
+      "overlay": "stage/STG0015.json",
+      "rowCount": 1148,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0016",
+      "overlay": "stage/STG0016.json",
+      "rowCount": 1449,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0017",
+      "overlay": "stage/STG0017.json",
+      "rowCount": 1035,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0018",
+      "overlay": "stage/STG0018.json",
+      "rowCount": 1416,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0019",
+      "overlay": "stage/STG0019.json",
+      "rowCount": 1271,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0020",
+      "overlay": "stage/STG0020.json",
+      "rowCount": 988,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0021",
+      "overlay": "stage/STG0021.json",
+      "rowCount": 1195,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0022",
+      "overlay": "stage/STG0022.json",
+      "rowCount": 993,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0023",
+      "overlay": "stage/STG0023.json",
+      "rowCount": 1029,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0024",
+      "overlay": "stage/STG0024.json",
+      "rowCount": 1147,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0025",
+      "overlay": "stage/STG0025.json",
+      "rowCount": 2915,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0026",
+      "overlay": "stage/STG0026.json",
+      "rowCount": 1204,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0027",
+      "overlay": "stage/STG0027.json",
+      "rowCount": 2443,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0028",
+      "overlay": "stage/STG0028.json",
+      "rowCount": 1583,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0029",
+      "overlay": "stage/STG0029.json",
+      "rowCount": 1527,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0030",
+      "overlay": "stage/STG0030.json",
+      "rowCount": 1161,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0031a",
+      "overlay": "stage/STG0031a.json",
+      "rowCount": 327,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0031b",
+      "overlay": "stage/STG0031b.json",
+      "rowCount": 1764,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0032",
+      "overlay": "stage/STG0032.json",
+      "rowCount": 2122,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0033a",
+      "overlay": "stage/STG0033a.json",
+      "rowCount": 768,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0033b",
+      "overlay": "stage/STG0033b.json",
+      "rowCount": 1139,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0034",
+      "overlay": "stage/STG0034.json",
+      "rowCount": 1075,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0035",
+      "overlay": "stage/STG0035.json",
+      "rowCount": 1183,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0036",
+      "overlay": "stage/STG0036.json",
+      "rowCount": 1174,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0037",
+      "overlay": "stage/STG0037.json",
+      "rowCount": 1397,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0038",
+      "overlay": "stage/STG0038.json",
+      "rowCount": 1362,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0039",
+      "overlay": "stage/STG0039.json",
+      "rowCount": 1356,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0040",
+      "overlay": "stage/STG0040.json",
+      "rowCount": 1030,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0041",
+      "overlay": "stage/STG0041.json",
+      "rowCount": 1180,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0042",
+      "overlay": "stage/STG0042.json",
+      "rowCount": 1336,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0043",
+      "overlay": "stage/STG0043.json",
+      "rowCount": 2637,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0044a",
+      "overlay": "stage/STG0044a.json",
+      "rowCount": 483,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0044b",
+      "overlay": "stage/STG0044b.json",
+      "rowCount": 800,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0045",
+      "overlay": "stage/STG0045.json",
+      "rowCount": 1738,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0046a",
+      "overlay": "stage/STG0046a.json",
+      "rowCount": 135,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0046b",
+      "overlay": "stage/STG0046b.json",
+      "rowCount": 1640,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0047",
+      "overlay": "stage/STG0047.json",
+      "rowCount": 1127,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0048",
+      "overlay": "stage/STG0048.json",
+      "rowCount": 1841,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0049",
+      "overlay": "stage/STG0049.json",
+      "rowCount": 1399,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0050a",
+      "overlay": "stage/STG0050a.json",
+      "rowCount": 247,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0050b",
+      "overlay": "stage/STG0050b.json",
+      "rowCount": 571,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0051a",
+      "overlay": "stage/STG0051a.json",
+      "rowCount": 1207,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0051b",
+      "overlay": "stage/STG0051b.json",
+      "rowCount": 307,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0052",
+      "overlay": "stage/STG0052.json",
+      "rowCount": 1379,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0053",
+      "overlay": "stage/STG0053.json",
+      "rowCount": 1868,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0054",
+      "overlay": "stage/STG0054.json",
+      "rowCount": 1052,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0055",
+      "overlay": "stage/STG0055.json",
+      "rowCount": 1411,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0056",
+      "overlay": "stage/STG0056.json",
+      "rowCount": 1139,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0057",
+      "overlay": "stage/STG0057.json",
+      "rowCount": 1135,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0058",
+      "overlay": "stage/STG0058.json",
+      "rowCount": 1552,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0059",
+      "overlay": "stage/STG0059.json",
+      "rowCount": 1275,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0060",
+      "overlay": "stage/STG0060.json",
+      "rowCount": 1257,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0061",
+      "overlay": "stage/STG0061.json",
+      "rowCount": 1267,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0062",
+      "overlay": "stage/STG0062.json",
+      "rowCount": 1344,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0063",
+      "overlay": "stage/STG0063.json",
+      "rowCount": 907,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0064",
+      "overlay": "stage/STG0064.json",
+      "rowCount": 1652,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0065",
+      "overlay": "stage/STG0065.json",
+      "rowCount": 1363,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0066",
+      "overlay": "stage/STG0066.json",
+      "rowCount": 1400,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0067",
+      "overlay": "stage/STG0067.json",
+      "rowCount": 1225,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0068a",
+      "overlay": "stage/STG0068a.json",
+      "rowCount": 85,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0068b",
+      "overlay": "stage/STG0068b.json",
+      "rowCount": 2647,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0069",
+      "overlay": "stage/STG0069.json",
+      "rowCount": 2548,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0070",
+      "overlay": "stage/STG0070.json",
+      "rowCount": 1758,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0071",
+      "overlay": "stage/STG0071.json",
+      "rowCount": 1438,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0072",
+      "overlay": "stage/STG0072.json",
+      "rowCount": 1173,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0073",
+      "overlay": "stage/STG0073.json",
+      "rowCount": 938,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0074",
+      "overlay": "stage/STG0074.json",
+      "rowCount": 1431,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0075",
+      "overlay": "stage/STG0075.json",
+      "rowCount": 1556,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0076",
+      "overlay": "stage/STG0076.json",
+      "rowCount": 1107,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0077",
+      "overlay": "stage/STG0077.json",
+      "rowCount": 1783,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0078",
+      "overlay": "stage/STG0078.json",
+      "rowCount": 1204,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0079",
+      "overlay": "stage/STG0079.json",
+      "rowCount": 1148,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0080",
+      "overlay": "stage/STG0080.json",
+      "rowCount": 1083,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0081",
+      "overlay": "stage/STG0081.json",
+      "rowCount": 1343,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0082",
+      "overlay": "stage/STG0082.json",
+      "rowCount": 963,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0083",
+      "overlay": "stage/STG0083.json",
+      "rowCount": 2659,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0084",
+      "overlay": "stage/STG0084.json",
+      "rowCount": 1596,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0085a",
+      "overlay": "stage/STG0085a.json",
+      "rowCount": 457,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0085b",
+      "overlay": "stage/STG0085b.json",
+      "rowCount": 975,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0086",
+      "overlay": "stage/STG0086.json",
+      "rowCount": 2373,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0087",
+      "overlay": "stage/STG0087.json",
+      "rowCount": 1762,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0088a",
+      "overlay": "stage/STG0088a.json",
+      "rowCount": 1261,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0088b",
+      "overlay": "stage/STG0088b.json",
+      "rowCount": 281,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0089a",
+      "overlay": "stage/STG0089a.json",
+      "rowCount": 480,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0089b",
+      "overlay": "stage/STG0089b.json",
+      "rowCount": 1345,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0090",
+      "overlay": "stage/STG0090.json",
+      "rowCount": 865,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0091",
+      "overlay": "stage/STG0091.json",
+      "rowCount": 1268,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0092",
+      "overlay": "stage/STG0092.json",
+      "rowCount": 1582,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0093a",
+      "overlay": "stage/STG0093a.json",
+      "rowCount": 2600,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0093b",
+      "overlay": "stage/STG0093b.json",
+      "rowCount": 516,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0094",
+      "overlay": "stage/STG0094.json",
+      "rowCount": 1314,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0095",
+      "overlay": "stage/STG0095.json",
+      "rowCount": 1607,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0096",
+      "overlay": "stage/STG0096.json",
+      "rowCount": 2229,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0097",
+      "overlay": "stage/STG0097.json",
+      "rowCount": 2543,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0098a",
+      "overlay": "stage/STG0098a.json",
+      "rowCount": 1917,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0098b",
+      "overlay": "stage/STG0098b.json",
+      "rowCount": 644,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0099",
+      "overlay": "stage/STG0099.json",
+      "rowCount": 2332,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0100a",
+      "overlay": "stage/STG0100a.json",
+      "rowCount": 2162,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0100b",
+      "overlay": "stage/STG0100b.json",
+      "rowCount": 151,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0200-4화-A분기",
+      "overlay": "stage/STG0200-4화-A분기.json",
+      "rowCount": 239,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0201-4화-B분기",
+      "overlay": "stage/STG0201-4화-B분기.json",
+      "rowCount": 11,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0202-4화-B분기",
+      "overlay": "stage/STG0202-4화-B분기.json",
+      "rowCount": 11,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0210-8화후A분기",
+      "overlay": "stage/STG0210-8화후A분기.json",
+      "rowCount": 12,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0210-8화후분기",
+      "overlay": "stage/STG0210-8화후분기.json",
+      "rowCount": 388,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0212-8화후B분기",
+      "overlay": "stage/STG0212-8화후B분기.json",
+      "rowCount": 12,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0220-9화후분기",
+      "overlay": "stage/STG0220-9화후분기.json",
+      "rowCount": 439,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0221-9화후B분기",
+      "overlay": "stage/STG0221-9화후B분기.json",
+      "rowCount": 34,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0222-9화후B분기",
+      "overlay": "stage/STG0222-9화후B분기.json",
+      "rowCount": 35,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0223-9화후C분기",
+      "overlay": "stage/STG0223-9화후C분기.json",
+      "rowCount": 34,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0230-16화후분기",
+      "overlay": "stage/STG0230-16화후분기.json",
+      "rowCount": 485,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0231-16화후A분기",
+      "overlay": "stage/STG0231-16화후A분기.json",
+      "rowCount": 13,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0232-16화후B분기",
+      "overlay": "stage/STG0232-16화후B분기.json",
+      "rowCount": 12,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0240-21화후분기",
+      "overlay": "stage/STG0240-21화후분기.json",
+      "rowCount": 273,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0241-21화후A분기",
+      "overlay": "stage/STG0241-21화후A분기.json",
+      "rowCount": 12,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0242-21화후B분기",
+      "overlay": "stage/STG0242-21화후B분기.json",
+      "rowCount": 12,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0250-35화후분기",
+      "overlay": "stage/STG0250-35화후분기.json",
+      "rowCount": 413,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0251-35화후A분기",
+      "overlay": "stage/STG0251-35화후A분기.json",
+      "rowCount": 24,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0252-35화후B분기",
+      "overlay": "stage/STG0252-35화후B분기.json",
+      "rowCount": 23,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0253-35화후C분기",
+      "overlay": "stage/STG0253-35화후C분기.json",
+      "rowCount": 24,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0260-41화후분기",
+      "overlay": "stage/STG0260-41화후분기.json",
+      "rowCount": 160,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0261-41화후A분기",
+      "overlay": "stage/STG0261-41화후A분기.json",
+      "rowCount": 13,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0262-41화후B분기",
+      "overlay": "stage/STG0262-41화후B분기.json",
+      "rowCount": 13,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0270-45화후분기",
+      "overlay": "stage/STG0270-45화후분기.json",
+      "rowCount": 302,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0271-45화후A분기",
+      "overlay": "stage/STG0271-45화후A분기.json",
+      "rowCount": 12,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0272-45화후B분기",
+      "overlay": "stage/STG0272-45화후B분기.json",
+      "rowCount": 12,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0500",
+      "overlay": "stage/STG0500.json",
+      "rowCount": 2668,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0600",
+      "overlay": "stage/STG0600.json",
+      "rowCount": 714,
+      "status": "draft"
+    },
+    {
+      "scope": "stage",
+      "assetKey": "STG0700",
+      "overlay": "stage/STG0700.json",
+      "rowCount": 1572,
+      "status": "draft"
+    }
+  ]
+}

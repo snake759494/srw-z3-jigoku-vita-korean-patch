@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00136",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00136/Sheet1/000002",
+      "sourceBindingSha256": "af3fa707da4ef180ef7f711fb0677c56ce9d51acf44e3d09a7a20ae2a3d3536c",
+      "sourceTextSha256": "fbb17ca70d809dcea1ff978848e62efb1f66d1dfb6441af4e4c4021d39845cd7",
+      "freshTranslation": "린 민메이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00136/Sheet1/000003",
+      "sourceBindingSha256": "4656cc16bc4ab94370fcfccc7f2a29d2deda3cecb8391b816c86907df3bcafc6",
+      "sourceTextSha256": "389e7a928c20e449f96e23255ca810750b8a8ce54420bda74028bfc758d1070a",
+      "freshTranslation": "「마크로스 7」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00136/Sheet1/000004",
+      "sourceBindingSha256": "e453ba2e9eac520f2de5f6ed90bf9ff82e18ccafefc10f64345bb1c9aafaf345",
+      "sourceTextSha256": "a651f121a21326188a5ab7e13c536ab009a09fb0a19e917e8e49508ff2fe7638",
+      "freshTranslation": "제1차 성간대전에서 노래의 힘으로 인류를 승리로 이끌었다고 하는 전설의 가희. ㊥ 그녀의 노래로 문화를 되찾은 일부 젠틀러디는 문화를 부인하는 ㊥ 자들과 싸우기 위해 지구 인류에 아군했다. ㊥ 그 싸움은 영화도 되고, 린 민메이와 지구 통합군에 소속된 한 쌍의 남자 ㊥ 여자와의 삼각 관계의 러브 스토리로도 알려져 있지만, 그녀의 사랑은 비애에 ㊥ 끝난다. ㊥ 린민메이는 1차 초장거리 이민선단에 참가했고, 그 후의 행방은 불명으로 ㊥로 되어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00136/Sheet1/000005",
+      "sourceBindingSha256": "0d18e8564809b9d38559862b711504d0cd3831acf8cca64645e2d4c2dd138107",
+      "sourceTextSha256": "a651f121a21326188a5ab7e13c536ab009a09fb0a19e917e8e49508ff2fe7638",
+      "freshTranslation": "제1차 성간대전에서 노래의 힘으로 인류를 승리로 이끌었다고 하는 전설의 가희. ㊥ 그녀의 노래로 문화를 되찾은 일부 젠틀러디는 문화를 부인하는 ㊥ 자들과 싸우기 위해 지구 인류에 아군했다. ㊥ 그 싸움은 영화도 되고, 린 민메이와 지구 통합군에 소속된 한 쌍의 남자 ㊥ 여자와의 삼각 관계의 러브 스토리로도 알려져 있지만, 그녀의 사랑은 비애에 ㊥ 끝난다. ㊥ 린민메이는 1차 초장거리 이민선단에 참가했고, 그 후의 행방은 불명으로 ㊥로 되어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00280",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00280/Sheet1/000002",
+      "sourceBindingSha256": "5be91a6ed469eb8aca0e53edd460a82c020d45b6c4389b0fc8d9075fc2882109",
+      "sourceTextSha256": "77c8a3437eadd877c938f0d5dcd02cc906f6672054257511e1adb1669e028f99",
+      "freshTranslation": "초콜릿",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00280/Sheet1/000003",
+      "sourceBindingSha256": "d8910a388bbfea3b7db5f6bdd3214baa91c9ac24defd09fe7c65ebfdf090d105",
+      "sourceTextSha256": "77c8a3437eadd877c938f0d5dcd02cc906f6672054257511e1adb1669e028f99",
+      "freshTranslation": "초콜릿",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00280/Sheet1/000004",
+      "sourceBindingSha256": "6efe6b0d59d918d539a7358708f15bda4c7efb34a42b4cfc164d3b44de762fea",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00280/Sheet1/000005",
+      "sourceBindingSha256": "ff91959435a4f0d221ac72e72476a6015c932da47095ea0260d1716149fed9f1",
+      "sourceTextSha256": "9e9b34d92f4bc3a617bf9dfd80231d1ec66843cd2c627f4c27236be52d8cde21",
+      "freshTranslation": "르 패닉? 후모후",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00280/Sheet1/000006",
+      "sourceBindingSha256": "c0bfc949620f2838ad4328dc8a05c0f45587ca28d43ea6d5a456ee1763f20990",
+      "sourceTextSha256": "08d397281745c8493db935d6d8a94d7b958a7bdbc21b30009c66dc3a0ba0530e",
+      "freshTranslation": "진대고교 가라테 동호회의 부원. ㊥ 초실천 방향의 종합 격투기를 목표로 활동하고 있다. ㊥ 덧붙여 그 이름은 본명이 아니고, 카나메가 마음대로 그렇게 부르고 있을 뿐이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00280/Sheet1/000007",
+      "sourceBindingSha256": "c5c4b71c1e975a6a92976807a1b9ddee97cb1daf654a809603bbf30263e34cec",
+      "sourceTextSha256": "0682ea87381ba3dd6175d048c08b76e9cb62d6a29bf2666a4f7c5f3de250e79d",
+      "freshTranslation": "진대고교 가라테 동호회의 부원. ㊥ 초실천 방향의 종합 격투기를 목표로 활동하고 있다. ㊥ 덧붙여 그 이름은 본명이 아니고, 카나메가 마음대로 그렇게 부르고 있을 뿐이다. ㊥ 무네스케가 부실 퇴거 권고에 왔을 때,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00280/Sheet1/000008",
+      "sourceBindingSha256": "b5604c3eafb2d52e20c09d40748664dd47d631515e72e94f52c2fffe30838fe3",
+      "sourceTextSha256": "726420a3c43e16be17299dd2543d4050841ff870c3821b056d6ccccb57efd222",
+      "freshTranslation": "반대로부터 반대해 승부를 도전한다. ㊥이지만, 소스케로부터 수류탄을 던져 받고 동요. 그 틈을 공격받아 패배한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

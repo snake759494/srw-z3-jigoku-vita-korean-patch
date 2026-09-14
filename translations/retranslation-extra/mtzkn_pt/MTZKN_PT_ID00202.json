@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00202",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00202/Sheet1/000002",
+      "sourceBindingSha256": "f6819ed235312e4c9efc72f52fe60a7128934c2c5a44714d7d32f68fce878ba0",
+      "sourceTextSha256": "8b69ff50ed8aeb71a8b9d4632a9f732a3c2515048beeb91ace2ba33624748e23",
+      "freshTranslation": "모리모리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00202/Sheet1/000003",
+      "sourceBindingSha256": "14e46b35d6c2e23eef3ee12713cf5a8bd5c84a266ada75b0506d87bf7df409e1",
+      "sourceTextSha256": "8b69ff50ed8aeb71a8b9d4632a9f732a3c2515048beeb91ace2ba33624748e23",
+      "freshTranslation": "모리모리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00202/Sheet1/000004",
+      "sourceBindingSha256": "f42eae7c069901cb575e9cd0ecbf90125ae21ee16059edb269de6ecf30674f62",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00202/Sheet1/000005",
+      "sourceBindingSha256": "5f339f0ba2d20d13aa48faa3824fdd7e58eea58376b355d0efef67ba4c98ad96",
+      "sourceTextSha256": "9223d8cbb770a4884d7d080e97b1c7c5a0c26275e4698bf374945a2f3e31562c",
+      "freshTranslation": "광자력 연구소의 세 박사 중 한 명으로 로봇 공학의 권위. ㊥ 활기찬 이름 그대로 정력적인 인물. ㊥ 세 박사는 모두, 쥬조와는 옛날 친숙함으로 「토조 짱」이라고 부르고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00202/Sheet1/000006",
+      "sourceBindingSha256": "e09081a66988ddcfe37efd85a4962cd6d7523f81ecb699a9de008fa2e2fdf9aa",
+      "sourceTextSha256": "9223d8cbb770a4884d7d080e97b1c7c5a0c26275e4698bf374945a2f3e31562c",
+      "freshTranslation": "광자력 연구소의 세 박사 중 한 명으로 로봇 공학의 권위. ㊥ 활기찬 이름 그대로 정력적인 인물. ㊥ 세 박사는 모두, 쥬조와는 옛날 친숙함으로 「토조 짱」이라고 부르고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

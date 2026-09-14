@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00130",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00130/Sheet1/000002",
+      "sourceBindingSha256": "ae191f89828cca6bd01ba039a4660364f2ddb88b1609b0f1de315770247c549b",
+      "sourceTextSha256": "bc32e64fc16e7351204c16bc96164456490e5629355ead3bf275c1477cbc8735",
+      "freshTranslation": "올슨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00130/Sheet1/000003",
+      "sourceBindingSha256": "98759d25a09519711904d96dc47cd3ac5d21865a2fa2469e6c6a6dbce22797eb",
+      "sourceTextSha256": "bc32e64fc16e7351204c16bc96164456490e5629355ead3bf275c1477cbc8735",
+      "freshTranslation": "올슨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00130/Sheet1/000004",
+      "sourceBindingSha256": "511d21570cebf40f060e87fe6f2bdfa108f62c577d17e7d90ea250a3be2b226a",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00130/Sheet1/000005",
+      "sourceBindingSha256": "eabbd65bed50446923a99c069786ca2a9e5d86aa7a389a0fc7d56638fd9d3c2a",
+      "sourceTextSha256": "c782d0d1214dd3a6718b5b384b761f0bcbaa84f042136c40b4edba337657bbe2",
+      "freshTranslation": "극중 영화 '솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00130/Sheet1/000006",
+      "sourceBindingSha256": "cd90c1671f0bdc100e8d6353ee52ae55d6f1f281a608adf43292ffbc10f799b5",
+      "sourceTextSha256": "c0db26b6ce8af4d2d2ac17e13c5f62da9daab6a609e001f764fd6cfce308d2bc",
+      "freshTranslation": "루비잉에 등장하는 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00130/Sheet1/000007",
+      "sourceBindingSha256": "e810599e5c031f53e791bf57f3d142302acde084ca6766f57228b565e70e7444",
+      "sourceTextSha256": "bd740ba08c495f1c52acaf201293c2e4309c2d4ef014ccd655d7597005e59f5a",
+      "freshTranslation": "ー.㊥세라비 건담에 탑승하는 체격이 좋은 흑인. 어미는 「~바이」.㊥알바 아론을 빛의 십자가에 가두고 움직임을 봉쇄했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00130/Sheet1/000008",
+      "sourceBindingSha256": "9e3b280520be282a5c0424bb434b1d877685df08ee225e33b49c5d90a5cde435",
+      "sourceTextSha256": "c782d0d1214dd3a6718b5b384b761f0bcbaa84f042136c40b4edba337657bbe2",
+      "freshTranslation": "극중 영화 '솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00130/Sheet1/000009",
+      "sourceBindingSha256": "d36c930c49ec364ca8ae1bec708a3c0a8ca23d6415b59f81f54483dc2561fb09",
+      "sourceTextSha256": "c0db26b6ce8af4d2d2ac17e13c5f62da9daab6a609e001f764fd6cfce308d2bc",
+      "freshTranslation": "루비잉에 등장하는 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00130/Sheet1/000010",
+      "sourceBindingSha256": "d08a6714983d87f1f13fc584e5b92ac1889efd019713e64c7295d98bcaef56db",
+      "sourceTextSha256": "bd740ba08c495f1c52acaf201293c2e4309c2d4ef014ccd655d7597005e59f5a",
+      "freshTranslation": "ー.㊥세라비 건담에 탑승하는 체격이 좋은 흑인. 어미는 「~바이」.㊥알바 아론을 빛의 십자가에 가두고 움직임을 봉쇄했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00235",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00235/Sheet1/000002",
+      "sourceBindingSha256": "ab2481252331dcc1ae1332dd9a8d3a3bbdcb5b40c54cf25c5ba50cf3e5e44c82",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00235/Sheet1/000003",
+      "sourceBindingSha256": "8ad43d6e81dcc763a8b67da379b8c4f8674c11a3169e24ff5a1af4f005724f75",
+      "sourceTextSha256": "62bb32e1521e6b9652df093fb30bc80a8c21d27a19c09f184a2250287c771a5c",
+      "freshTranslation": "미슬라 그니스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00235/Sheet1/000004",
+      "sourceBindingSha256": "da333190ca315bdaabfa0d60f7d81847a7beaa18e17646b408df6acdb2ae3cbb",
+      "sourceTextSha256": "62bb32e1521e6b9652df093fb30bc80a8c21d27a19c09f184a2250287c771a5c",
+      "freshTranslation": "미슬라 그니스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00235/Sheet1/000005",
+      "sourceBindingSha256": "6409a327d132694334980c06b31fad794319174e90c8b6a4eff02784911b640c",
+      "sourceTextSha256": "c54f92fc3ad2062fe34c8c5d28def2d103e08c83bfb2c10a0e7db15a5c01bf0c",
+      "freshTranslation": "카그라 덴리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00235/Sheet1/000006",
+      "sourceBindingSha256": "b0ee48e5fd451c48e54b9f974dea59f76ac7ec88ecad00a0208c906f093a7eb1",
+      "sourceTextSha256": "a3dd0dc12fd9c00406405fe2718abea948b2ffaa9a6953b8b0d9607f43b3d1ee",
+      "freshTranslation": "카그라 전용으로 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00235/Sheet1/000007",
+      "sourceBindingSha256": "429b74e4f226f2a31642746780d0330f7973d451f23a5829f8f37cff69b3caab",
+      "sourceTextSha256": "b9f9e1952dfd025cbba10064d397d8bd2768d456397cbcb295b381c6be6a4269",
+      "freshTranslation": "마이즈 된 사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00235/Sheet1/000008",
+      "sourceBindingSha256": "c1c597a1ddcf52159c50d535cfe369ced0dd5b554a58caf7d2ee9c8e9f40efc9",
+      "sourceTextSha256": "654b11b0bd2453d2e86809571563280d7b9cf82433e316b89ae9b3a53ff1748d",
+      "freshTranslation": "아부닥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00235/Sheet1/000009",
+      "sourceBindingSha256": "09f29e0265ea4a7640180220754ded29b4d9be4824fa1240d31ae5e342fcede8",
+      "sourceTextSha256": "c32bc3d8ef6854060a167bfa0aeb65badbbef4793fb0715afffff18e8a9cbc42",
+      "freshTranslation": "ー.㊥빨강을 기조로 한 퍼스널 컬러로 염색되어 있다.㊥뒤의 날개를 사용한 공중전을 자랑하고 있지만, 야성적인 카구라의 성격을 반영㊥4족 보행 모드에도 변형하는 것으로, 지상에서도 고속 전투가 가능해지고 있다.㊥미코노를 노리는 카그라에 의해 몇번이나 네오디바를 습격. 아쿠에리온과 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00235/Sheet1/000010",
+      "sourceBindingSha256": "ac5e04a3969abc23efc2a2eb7aaa7ec8a51bf170e53a6871c62eb3e81b966059",
+      "sourceTextSha256": "6977296449f65e699e8050501e7428b5b58feb41adfa28f85fc5b1b066a6a771",
+      "freshTranslation": "을 궁지에 몰아넣었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00235/Sheet1/000011",
+      "sourceBindingSha256": "0cbda4bb4c6cd2423a99044b5fdbe9a3f13b009bbc5c71f3a8e5fe67fd7d6872",
+      "sourceTextSha256": "a3dd0dc12fd9c00406405fe2718abea948b2ffaa9a6953b8b0d9607f43b3d1ee",
+      "freshTranslation": "카그라 전용으로 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00235/Sheet1/000012",
+      "sourceBindingSha256": "6acaed97f813c088c9e4d47bf42452ace7238af97e33e3cc7d0ec0c8984a3990",
+      "sourceTextSha256": "b9f9e1952dfd025cbba10064d397d8bd2768d456397cbcb295b381c6be6a4269",
+      "freshTranslation": "마이즈 된 사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00235/Sheet1/000013",
+      "sourceBindingSha256": "671a12a5bd0b4438d6fe66613f18320dd0ef65d9bf0fb85c6c483085c19eceb6",
+      "sourceTextSha256": "654b11b0bd2453d2e86809571563280d7b9cf82433e316b89ae9b3a53ff1748d",
+      "freshTranslation": "아부닥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00235/Sheet1/000014",
+      "sourceBindingSha256": "cef7601568f4a20d4227a7c1f87db5333239bbf83a68cfb230409cce0f2306a1",
+      "sourceTextSha256": "af439d369bee39fed5c16a2797a37d05b6b041626195fa631be74a2a52823d98",
+      "freshTranslation": "ー.㊥빨강을 기조로 한 퍼스널 컬러로 염색되어 있다.㊥알테아의 말로 \"날개를 가진 사자\"라는 의미가 있으며, 그 이름대로 뒤쪽의 날개를 사용㊥용의 공중전을 자랑하고 있다.㊥또, 야성적인 카그라의 성격을 반영해, 4족 보행 모드에도 변형 가능. 이것으로㊥지상에서도 고속 전투가 가능해지고 있다.㊥미코노를 노리는 카그라에 의해 몇번이나 네오디바를 습격. 아쿠에리온과 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00235/Sheet1/000015",
+      "sourceBindingSha256": "8dd02a61a9476c7eb90afb4eaa452d320d12d3175f2f6d0d14c974d185871d68",
+      "sourceTextSha256": "6977296449f65e699e8050501e7428b5b58feb41adfa28f85fc5b1b066a6a771",
+      "freshTranslation": "을 궁지에 몰아넣었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00078",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00078/Sheet1/000002",
+      "sourceBindingSha256": "75d270daefdfe53bfd987f69da531fb65fe61c6c134571b2c99e7699918fa0f6",
+      "sourceTextSha256": "890a3637c39d01864f3245cf710d64b3dd05b1f48efe4f3532af09e08332d886",
+      "freshTranslation": "트로와 버튼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00078/Sheet1/000003",
+      "sourceBindingSha256": "b08859d27d01c391de0ac10658487375df2536520579c6b71651ee71af3bba2d",
+      "sourceTextSha256": "8963fd862885c88aa597e512509af8166d287243a2ec77e1314dd45ec6e3754c",
+      "freshTranslation": "트로와",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00078/Sheet1/000004",
+      "sourceBindingSha256": "41e2216a0a784553f120c75fb89b12df131acc826c707bc3b1ba69a38af62589",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00078/Sheet1/000005",
+      "sourceBindingSha256": "7db61c455d59e59a871dd4ac6a1b47c14313d23f44af8b33960eb8ce62bc46fb",
+      "sourceTextSha256": "deab2b16b687170f2635220a2a81e85bd0f5882add9c238ee4b31a2007de659c",
+      "freshTranslation": "나카하라 시게루",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00078/Sheet1/000006",
+      "sourceBindingSha256": "4f82b224a86f0ba5f32ca5086d06d5e7655d3c5b8c3df25cd4c2c738657f9df6",
+      "sourceTextSha256": "8e0399db5cd50bb0e843c5fa18e09f919347e22ba818db759686ac2c73fbd5bd",
+      "freshTranslation": "오퍼레이션 메테오에서 L3 콜로니 군으로부터 보내진 에이전트. 추정 연도㊥령 16세. ㊥건담 헤비 암즈 개 조종사. ㊥ 어렸을 때부터 용병으로서 각지의 전장을 날아다니고 있으며, 많은 경력이 불명한 과묵하고 차가운 ㊥ 조용한 소년. 하지만 냉철한 인간이라는 것은 아니고, 동료 상냥한 상냥함을 가지고 있다. ㊥ 특히 건담 파일럿에서는 카틀과의 친교가 깊고, 그가 콜로니측의 자세에 절망㊥해 폭주했을 때에도, 자신의 몸의 위험을 고민하지 않고 설득. 자신의 기체가 대파해, 행방불㊥명명이 되는 것도, 대신 카틀의 정기를 되찾는 등, 자신의 몸조차 고민하지 않는 행동을 취㊥했다. ㊥ 그 후는 기억과 전의를 상실한 상태에서 발견되어, 잠복처의 서커스단에서, 캐스㊥린의 동생으로서 익숙해지고 있었다. 카틀의 호소에 응하도록(듯이) 하고, 다시 전선 복귀㊥를 완수하지만, 반드시 살아 돌아가는 것을 캐슬린에게 맹세했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00078/Sheet1/000007",
+      "sourceBindingSha256": "a6ce69d5acaea424135049390d387b63a98d3abada4df0773508d4cfc83b9b63",
+      "sourceTextSha256": "e8f3716f97c2041b834c1bbcf34dcfa10a0382e40ef9c6bf81a45c8f0a70ed54",
+      "freshTranslation": "오퍼레이션 메테오에서 L3 콜로니 군으로부터 보내진 에이전트. 추정 연도㊥령 16세. ㊥건담 헤비 암즈 개 조종사. ㊥ 어렸을 때부터 용병으로서 각지의 전장을 날아다니고 있으며, 많은 경력이 불명한 과묵하고 차가운 ㊥ 조용한 소년. 하지만 냉철한 인간이라는 것은 아니고, 동료 상냥한 상냥함을 가지고 있다. ㊥ 특히 건담 파일럿에서는 카틀과의 친교가 깊고, 그가 콜로니측의 자세에 절망㊥해 폭주했을 때에도, 자신의 몸의 위험을 고민하지 않고 설득. 자신의 기체가 대파해, 행방불㊥명명이 되는 것도, 대신 카틀의 정기를 되찾는 등, 자신의 몸조차 고민하지 않는 행동을 취㊥했다. ㊥ 그 후는 기억과 전의를 상실한 상태에서 발견되어, 잠복처의 서커스단에서, 캐스㊥린의 동생으로서 익숙해지고 있었다. 카틀의 호소에 응하도록(듯이) 하고, 다시 전선 복귀㊥를 완수하지만, 반드시 살아 돌아가는 것을 캐슬린에게 맹세했다. ㊥ 트로이 바튼이라는 이름은 실명이 아니며, 이름 자체는 오퍼레이션 메테오 ㊥의 의견 대립에 의해 죽인 헤비 암즈의 본래 파일럿의 물건이다. 우연히 ㊥ 살해 현장을 목격한 그는 살해 은닉을 위해 닥터 S로부터 이 이름을 맡기고 이후 ㊥는 트로와 바튼의 이름으로 살게 되었다. ㊥ 마리 메이어의 반란에서는 마리 메이어 군에 잠입하여 내부로부터 수사를 한다. 부㊥ 뤼셀에서의 전투에서는 카틀에 의해 전해진 헤비 암즈 개로 화려한 전투를㊥ 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00192",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000002",
+      "sourceBindingSha256": "ebb0ed8c6091c668a939d2d2f8a93c0a3431a8ab326dbce46fe97af1e07f5d2c",
+      "sourceTextSha256": "2e50e921e3c7b75fbcf433d1563a8398e58c77dd78a57ca4d82d5572435bab13",
+      "freshTranslation": "(체인지!)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000003",
+      "sourceBindingSha256": "84ce5a92b967e234a018e862726e8935870d69e3b213123eff2cb7abdecb7011",
+      "sourceTextSha256": "7c3cb5cb2ef14de63eec14acd214053a7f20637efe0ffd4631309ea46fb1a51d",
+      "freshTranslation": "- 로보 세계 마지막 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000004",
+      "sourceBindingSha256": "674d3793cbc05ae50187569aaa5d5cd6fab84dea44d1b4b85c47975b20023f08",
+      "sourceTextSha256": "ee2d0387b1975cead3c32955c5f8bdb0850a21ace33c14e5e3e7d57593473026",
+      "freshTranslation": "세키 토모이치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000005",
+      "sourceBindingSha256": "242d8235c7f1a1df76d14610b41715b3aca721ab08014f5aea58dd834cffa49e",
+      "sourceTextSha256": "41a3c96635c3265506719f7feeb3495ddddfab86746a8191b948b5866ab4a961",
+      "freshTranslation": "사오토메 박사와 사오토메 미틸의 세포를 융합하고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000006",
+      "sourceBindingSha256": "88ce4cf4c0132d682ce77138ef318abd3c244336b5b57869d48a796cd493b058",
+      "sourceTextSha256": "e97bbc1cd50dc545454c114c85197e977a945cc69341162e56bcb3ba6aa97afd",
+      "freshTranslation": "- 선을 조사하여 탄생했습니다.㊥신인류.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000007",
+      "sourceBindingSha256": "ca01e7577b8d60c5e515aa8c2b28a3e11b674c01c15460be588fb8773c227519",
+      "sourceTextSha256": "e3233182eaffe4008f4c89f2bfb7b0309e24c34241547174781762b5fd08c45a",
+      "freshTranslation": "드래곤의 조종자가 되도록 만들어졌지만, 계획 자체는 파탄하고 ​​있다. ㊥ 13년간, 행방불명이 되어 있었지만, 계를 구하기 위해 13년 전과 변함없는 모습으로 다시 현㊥된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000008",
+      "sourceBindingSha256": "fbf00622fe6e4abcea5f0558724284e26f19c4ec2b1dc2d4cd3bd7ac5a2e58b3",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000009",
+      "sourceBindingSha256": "5880062a66c7ced703f2b2b7115e200a9a2f7b48724ac52dcd141e065e216fe5",
+      "sourceTextSha256": "d592908fd0a2069081d1cce3985f87b5e97ee77cd56796605fe5132ca312efac",
+      "freshTranslation": "를 타고 주로 계를 지키기 위해 싸웠다. ㊥ 무구하고 전투중 이외는 그다지 감정을 표에 내놓지 않았지만, 싸움 속에서 계곡과 마음을 통해 ㊥ 시켜 서서히 인간다운 감정을 보이게 되었다. ㊥ 최종 결전에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000010",
+      "sourceBindingSha256": "ff10318702a0f1bec7266ce65dd4df34a4d9a86c38baed6493fc85893734a35d",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000011",
+      "sourceBindingSha256": "62abbca2a8d557f09c904700ceb9ecb7f669192e340f54e3ba3d53aab4d35f85",
+      "sourceTextSha256": "44f31968bfac9b08c0212f1bfab5ef4b191d73c432ba5d152a65028b0489be9b",
+      "freshTranslation": "- 드래곤을 달리고 료마 등",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000012",
+      "sourceBindingSha256": "4506374bdcad5166776e2e57f3983911a4a0d88a606c5ca84290b0f8139a23b9",
+      "sourceTextSha256": "cbc8cbb92226a49dd7adece3194cd8b2b37677a1334f2927cb1409bedcf3afe1",
+      "freshTranslation": "- 팀과 공투. 최후는 미㊥ 내영劫에 이어지는 싸움으로 여행하는 류마들을 보냈다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000013",
+      "sourceBindingSha256": "8d1c6b0ead6fe8597258b68b32fad059626b4b95010f8574911ad80dd15150c2",
+      "sourceTextSha256": "41a3c96635c3265506719f7feeb3495ddddfab86746a8191b948b5866ab4a961",
+      "freshTranslation": "사오토메 박사와 사오토메 미틸의 세포를 융합하고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000014",
+      "sourceBindingSha256": "04739ba690257d68bdaaaf2c81141f1ab39c8161ecc13507cb3269310d69f3f8",
+      "sourceTextSha256": "e97bbc1cd50dc545454c114c85197e977a945cc69341162e56bcb3ba6aa97afd",
+      "freshTranslation": "- 선을 조사하여 탄생했습니다.㊥신인류.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000015",
+      "sourceBindingSha256": "d1780561f2dead406661aef29eb35a2743b4aa3f23d3fe70ef13d689cc842ad9",
+      "sourceTextSha256": "e3233182eaffe4008f4c89f2bfb7b0309e24c34241547174781762b5fd08c45a",
+      "freshTranslation": "드래곤의 조종자가 되도록 만들어졌지만, 계획 자체는 파탄하고 ​​있다. ㊥ 13년간, 행방불명이 되어 있었지만, 계를 구하기 위해 13년 전과 변함없는 모습으로 다시 현㊥된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000016",
+      "sourceBindingSha256": "0162a0728eb5e1bb431b8db15a9a12765257203665f23e6c54567c2c75fde0c7",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000017",
+      "sourceBindingSha256": "1d4acb7d3eaeecf43fe517c54eec2c38aa28d1e77a9da558c1254ee0a1ddf866",
+      "sourceTextSha256": "d592908fd0a2069081d1cce3985f87b5e97ee77cd56796605fe5132ca312efac",
+      "freshTranslation": "를 타고 주로 계를 지키기 위해 싸웠다. ㊥ 무구하고 전투중 이외는 그다지 감정을 표에 내놓지 않았지만, 싸움 속에서 계곡과 마음을 통해 ㊥ 시켜 서서히 인간다운 감정을 보이게 되었다. ㊥ 최종 결전에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000018",
+      "sourceBindingSha256": "07b77cf687eba9416d8ec3ffee0422e3ee01cea0cd1c7e2c15bcd34d86b9a9ac",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000019",
+      "sourceBindingSha256": "5fed65a04c3ddf87e10b709d9dfc2535ac9253f9fb14fb0035898eb8ccb0d476",
+      "sourceTextSha256": "44f31968bfac9b08c0212f1bfab5ef4b191d73c432ba5d152a65028b0489be9b",
+      "freshTranslation": "- 드래곤을 달리고 료마 등",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00192/Sheet1/000020",
+      "sourceBindingSha256": "2533d56ca6cd2c243faab4333a021a303b44ebb4a8b005ad8873f2c0ee867a8f",
+      "sourceTextSha256": "cbc8cbb92226a49dd7adece3194cd8b2b37677a1334f2927cb1409bedcf3afe1",
+      "freshTranslation": "- 팀과 공투. 최후는 미㊥ 내영劫에 이어지는 싸움으로 여행하는 류마들을 보냈다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

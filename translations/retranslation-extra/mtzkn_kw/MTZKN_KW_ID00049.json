@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00049",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00049/Sheet1/000002",
+      "sourceBindingSha256": "34b6bfecf5a5a97d493dbf8f6ee3c1dabf0e74752d5c388911965a0acfe632dc",
+      "sourceTextSha256": "1ea76a567d6a02a1c728ef25d71b002abc85451211b1f09dc605874f60d1a252",
+      "freshTranslation": "암흑 대륙",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00049/Sheet1/000003",
+      "sourceBindingSha256": "637841e4d76fbd805adb59fcd974765468829f6ac714d19c1b44921594488ad7",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00049/Sheet1/000004",
+      "sourceBindingSha256": "5738b805d3e7f0c4d114d2bd38902a3a989ae876eb01c39cacaad9f6945d0217",
+      "sourceTextSha256": "a6d63378eb66d2c7e226c5778146d9619861aa6a4d99b09a8fddfe068d7749f5",
+      "freshTranslation": "ADW에 있어서 차원의 벽으로 외부로부터 격절되고 있던 대륙. ㊥ 다른 대륙과는 다른 문화 양식이 있습니다. ㊥차원의 벽이 사라진 후 레지스트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00049/Sheet1/000005",
+      "sourceBindingSha256": "ce5c4057f4144de3df50052ae8b90fdd517f44982cde63bdfa95c6166bf21099",
+      "sourceTextSha256": "c463a76e6db8777efb0b85b990daa990299236e6bd228d52f25256d7980e8907",
+      "freshTranslation": "민수들을 중심으로 지배자가 타도되었다. 하지만 ㊥하고, 파계사변 종결 후에 시공진동으로 다시 차원의 벽에 의해 고립되어, 다른 지역의 시간이 ㊥1년 경과하는 사이에 약 10년의 시간을 보냈다. ㊥ 다시, 차원의 벽이 소멸한 후에는 지구 연방에 소속하게 되었다. ㊥ 덧붙여 현재는 신세계 대륙의 이름으로 불리고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00049/Sheet1/000006",
+      "sourceBindingSha256": "57cd0bca4b410daa965b9429e83b872e7c70ead0c6ff8e67e44ad85b25ed4f49",
+      "sourceTextSha256": "a6d63378eb66d2c7e226c5778146d9619861aa6a4d99b09a8fddfe068d7749f5",
+      "freshTranslation": "ADW에 있어서 차원의 벽으로 외부로부터 격절되고 있던 대륙. ㊥ 다른 대륙과는 다른 문화 양식이 있습니다. ㊥차원의 벽이 사라진 후 레지스트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00049/Sheet1/000007",
+      "sourceBindingSha256": "df95579e3cd303e92ac3284fb1bba93b28cd76898c5cc6983fc66087c182f305",
+      "sourceTextSha256": "c463a76e6db8777efb0b85b990daa990299236e6bd228d52f25256d7980e8907",
+      "freshTranslation": "민수들을 중심으로 지배자가 타도되었다. 하지만 ㊥하고, 파계사변 종결 후에 시공진동으로 다시 차원의 벽에 의해 고립되어, 다른 지역의 시간이 ㊥1년 경과하는 사이에 약 10년의 시간을 보냈다. ㊥ 다시, 차원의 벽이 소멸한 후에는 지구 연방에 소속하게 되었다. ㊥ 덧붙여 현재는 신세계 대륙의 이름으로 불리고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

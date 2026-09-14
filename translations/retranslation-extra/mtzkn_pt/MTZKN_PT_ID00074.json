@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00074",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00074/Sheet1/000002",
+      "sourceBindingSha256": "52797d6a58a074a2525c332ce31488c1ae2f0a79e3030df45fb42c501d5beb68",
+      "sourceTextSha256": "3a332c8b4ed408ecc660b9fe77bca967e46ff507bfe9dc58035b06e522c726e2",
+      "freshTranslation": "라라승",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00074/Sheet1/000003",
+      "sourceBindingSha256": "9c3677020804ee24b2259d87cf76b91567e711d232028c3f233eaccf42abbe2a",
+      "sourceTextSha256": "490e7e63b7599a26922d9e76c70341bbaed292651ad44c7b58097ae684994051",
+      "freshTranslation": "라라아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00074/Sheet1/000004",
+      "sourceBindingSha256": "f3bd2377f5a4672902a895982382368bfc87a6a05e0aa0bda6878e392e0dd9ff",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00074/Sheet1/000005",
+      "sourceBindingSha256": "342784e3f5f38b9769ca8ca6e1365fc8fa58ef54c317b052fc279925e6973c16",
+      "sourceTextSha256": "cbaf64cbb901a7e5863034c31b99e12f1b2faca7b1b5ff70accfc5df2c38a18a",
+      "freshTranslation": "1년 전쟁에서 전사한 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00074/Sheet1/000006",
+      "sourceBindingSha256": "8f7ee0f34a4b3428a43a8b884831da46eba08dd2f39b1fb485cd27a600cad037",
+      "sourceTextSha256": "3d64d792ce2198893790e91d6487bddfdb7f9c0e22b6051287fbc35d134d8df0",
+      "freshTranslation": "입 조종사. ㊥ 생전에 아무로를 만나 마음을 다스린다. 샤아를 지켜 죽은 후에도 아무로와 샤㊥아에 큰 영향을",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00074/Sheet1/000007",
+      "sourceBindingSha256": "f0f5d197a1f7c6e7bb27719118ffc0b45f158fe5abcd86f97f41e70f258c328a",
+      "sourceTextSha256": "3a01aaa4fc6cc24059e77ddecf92cad8b7ad1d4f287990d998c745b3603182ff",
+      "freshTranslation": "계속하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00074/Sheet1/000008",
+      "sourceBindingSha256": "81529a1a3583d74c8843981cc65933faa0f1c0106777c4915857197130118141",
+      "sourceTextSha256": "cbaf64cbb901a7e5863034c31b99e12f1b2faca7b1b5ff70accfc5df2c38a18a",
+      "freshTranslation": "1년 전쟁에서 전사한 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00074/Sheet1/000009",
+      "sourceBindingSha256": "f3fa91d0e6a8f881f76c1579abf4b31e94dd56f5325a50e40186cf81d4c00fe2",
+      "sourceTextSha256": "3d64d792ce2198893790e91d6487bddfdb7f9c0e22b6051287fbc35d134d8df0",
+      "freshTranslation": "입 조종사. ㊥ 생전에 아무로를 만나 마음을 다스린다. 샤아를 지켜 죽은 후에도 아무로와 샤㊥아에 큰 영향을",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00074/Sheet1/000010",
+      "sourceBindingSha256": "766bb863289e99bd75bf4cb96611cf6ee127692dcacbf4a4e00b70203b7d23b7",
+      "sourceTextSha256": "3a01aaa4fc6cc24059e77ddecf92cad8b7ad1d4f287990d998c745b3603182ff",
+      "freshTranslation": "계속하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

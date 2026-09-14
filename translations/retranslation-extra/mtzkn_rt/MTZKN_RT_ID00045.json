@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00045",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00045/Sheet1/000002",
+      "sourceBindingSha256": "2201d64fe8d8a3e118830ed45019b242f6cd01c574d22b380069ea4dfffdaf0e",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00045/Sheet1/000003",
+      "sourceBindingSha256": "bccbe8cdb24d117bf1d73c7bede47509b414e7f1c21c6687d5e61da3c4335b78",
+      "sourceTextSha256": "372bf30d5ba4963d25b14212f682aeee0f95cf4a042d2e250f5e5a497dc6c579",
+      "freshTranslation": "기라 도가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00045/Sheet1/000004",
+      "sourceBindingSha256": "a6bd8e42967257a75e622f63ab8bde349ee8aa52d65ccb7f457b0eb57236ca47",
+      "sourceTextSha256": "372bf30d5ba4963d25b14212f682aeee0f95cf4a042d2e250f5e5a497dc6c579",
+      "freshTranslation": "기라 도가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00045/Sheet1/000005",
+      "sourceBindingSha256": "b72d58fe0c9c1e3802632206213335b9380f2f2d08cc2ed3e946d446bec18b6c",
+      "sourceTextSha256": "9f94a724873cd281d15eeca96715f76a9d6d5d1fa80ed6bc4a4392e12b47fe26",
+      "freshTranslation": "네오지온군의 양산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00045/Sheet1/000006",
+      "sourceBindingSha256": "9700e7031695ad4e1c75ad63411917405be64eb34e0d8b4f73ccc59ba12e132b",
+      "sourceTextSha256": "2e69949af57416f1631e8628c7e22af88ea128383857a887e7ad6fbc70cf07f2",
+      "freshTranslation": "모바일 슈트. ㊥ 지금까지의 지온계 모빌슈트의 집대성이라고도 할 수 있는 기체이며, 각종 장비의 충실㊥에 의한 높은 범용성이나 심플한 구조에 의한 높은 생산성 등이 특징으로, 네오·지온군㊥의 주력기가 되고 있다. ㊥ 주요 무장은 빔 머신건, 빔 소드 액스, 슈투름 화 ㊥ 우스트, 수류탄 발사기, 전자기 와이어 등이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00045/Sheet1/000007",
+      "sourceBindingSha256": "2b8e2b744bb90d5e20f8692416b5d658edd184afba02abd65d0b3198ccb8c4c5",
+      "sourceTextSha256": "9f94a724873cd281d15eeca96715f76a9d6d5d1fa80ed6bc4a4392e12b47fe26",
+      "freshTranslation": "네오지온군의 양산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00045/Sheet1/000008",
+      "sourceBindingSha256": "346350e1b217f7e730f98146a6273557af0a719af88a4f42c9f45fcbc4237e24",
+      "sourceTextSha256": "2e69949af57416f1631e8628c7e22af88ea128383857a887e7ad6fbc70cf07f2",
+      "freshTranslation": "모바일 슈트. ㊥ 지금까지의 지온계 모빌슈트의 집대성이라고도 할 수 있는 기체이며, 각종 장비의 충실㊥에 의한 높은 범용성이나 심플한 구조에 의한 높은 생산성 등이 특징으로, 네오·지온군㊥의 주력기가 되고 있다. ㊥ 주요 무장은 빔 머신건, 빔 소드 액스, 슈투름 화 ㊥ 우스트, 수류탄 발사기, 전자기 와이어 등이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

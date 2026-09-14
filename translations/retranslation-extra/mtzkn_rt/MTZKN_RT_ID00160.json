@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00160",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00160/Sheet1/000002",
+      "sourceBindingSha256": "6aecfe79c419a9612bbe796c9375a948b3c48779b776beec8c7b9ce73159bc71",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00160/Sheet1/000003",
+      "sourceBindingSha256": "6e60e7692257789b9b1a2f77ce5b1647ab871afe6f9ae37f96e098539a4c7b62",
+      "sourceTextSha256": "c9886f679511b7d5028ed5bec880d85a4459aaef981949553e621948dbe2a45e",
+      "freshTranslation": "로스 동상",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00160/Sheet1/000004",
+      "sourceBindingSha256": "2895a8b9301420563272184adbb2bf76f2559085ce7cbe4bcd70b4fcbb103dcc",
+      "sourceTextSha256": "c9886f679511b7d5028ed5bec880d85a4459aaef981949553e621948dbe2a45e",
+      "freshTranslation": "로스 동상",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00160/Sheet1/000005",
+      "sourceBindingSha256": "bd9b3f1895424d11641ee76ac04fe6c6dc1c11b32195f469f666b55e040195f7",
+      "sourceTextSha256": "37ee043190c73dca90ca522248e6354dcacfee806713f6bd4e5278cc4c6a5edf",
+      "freshTranslation": "제2화 『시동! 마징가! 』에 등장한 거인",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00160/Sheet1/000006",
+      "sourceBindingSha256": "cb6320d59fa6fee7e668f7324fe9b68bff4f099585f8041b1379c24621592df2",
+      "sourceTextSha256": "78d9803053e35f0bcc2c0d3c7b7ee00903d3fcf274bcdf589a1499ecdab82bc1",
+      "freshTranslation": "로봇. ㊥ 고대의 검투사와 같은 풍모로 내부에 기계 짐승이 숨겨져 있던 기체도 존재한다. ㊥ 동일",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00160/Sheet1/000007",
+      "sourceBindingSha256": "e7aedf531610c3ce61683cb00a675ccb4c3aae3b90cc9e29a403815ad9bb0954",
+      "sourceTextSha256": "e41a583d741cf184139ad8f9d54c53874a13770cd55531e8eeeb88c779233cbb",
+      "freshTranslation": "입이 다수 존재하고 있어 미케네의 유산의 발굴 작업 등도 하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00160/Sheet1/000008",
+      "sourceBindingSha256": "0bea047c0245be69fc8385ae565b370ae48dd28c3f6a528638e602c008443eef",
+      "sourceTextSha256": "37ee043190c73dca90ca522248e6354dcacfee806713f6bd4e5278cc4c6a5edf",
+      "freshTranslation": "제2화 『시동! 마징가! 』에 등장한 거인",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00160/Sheet1/000009",
+      "sourceBindingSha256": "39660275be9c0b9878649f4b1d4c461c1fbb01315b8fd6771c5ad14a67ed55a6",
+      "sourceTextSha256": "78d9803053e35f0bcc2c0d3c7b7ee00903d3fcf274bcdf589a1499ecdab82bc1",
+      "freshTranslation": "로봇. ㊥ 고대의 검투사와 같은 풍모로 내부에 기계 짐승이 숨겨져 있던 기체도 존재한다. ㊥ 동일",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00160/Sheet1/000010",
+      "sourceBindingSha256": "fcd9fa58b2f87f9e8c01503d23052792f08bc4ca3d7ae73b8e71c697cba2b43c",
+      "sourceTextSha256": "e41a583d741cf184139ad8f9d54c53874a13770cd55531e8eeeb88c779233cbb",
+      "freshTranslation": "입이 다수 존재하고 있어 미케네의 유산의 발굴 작업 등도 하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00247",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00247/Sheet1/000002",
+      "sourceBindingSha256": "405270b633b9da6cd07f1d00ae4f4518f536b7512e1d7a956b5e2aba91c552e6",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00247/Sheet1/000003",
+      "sourceBindingSha256": "2c55dcf9fa5117605429b7b11645dbea36aad6ad3ed6746cecb29afb4b893734",
+      "sourceTextSha256": "77d603deeb9b6bbe2e2cdeae1c1db5b41ec670bd900d5f1464dc9424ddc3774d",
+      "freshTranslation": "안게로이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00247/Sheet1/000004",
+      "sourceBindingSha256": "b772e666c6a109bcea15b27e1f2c68183a6d72fb93ba92592c8aa6abe9bd8b23",
+      "sourceTextSha256": "77d603deeb9b6bbe2e2cdeae1c1db5b41ec670bd900d5f1464dc9424ddc3774d",
+      "freshTranslation": "안게로이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00247/Sheet1/000005",
+      "sourceBindingSha256": "e87c40840371573b48baedba44bc81254666131ace8558801e58710cd0204308",
+      "sourceTextSha256": "bd0ee0ce182511c903825275553962b7af1caeaa10a0e97aa2fb50e4d8e40c4f",
+      "freshTranslation": "사이데리얼의 범공이 이끄는 앙게로이. ㊥ 제미니스가 사용하는 안게로이의 다른 컬러 버전이지만, 성능에 차이는 보이지 ㊥되지 않습니다. ㊥ 이 점에서 본 기기는 사이데리얼의 기본 전력으로 사용되고 있어 소속하는 부대 ㊥마다 색상이 다르다고 추측된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00247/Sheet1/000006",
+      "sourceBindingSha256": "cd5d8e2dae59f81d5bff9746c3ab5f9494d8fd4b35cdd9bea9ceed3737c3b043",
+      "sourceTextSha256": "bd0ee0ce182511c903825275553962b7af1caeaa10a0e97aa2fb50e4d8e40c4f",
+      "freshTranslation": "사이데리얼의 범공이 이끄는 앙게로이. ㊥ 제미니스가 사용하는 안게로이의 다른 컬러 버전이지만, 성능에 차이는 보이지 ㊥되지 않습니다. ㊥ 이 점에서 본 기기는 사이데리얼의 기본 전력으로 사용되고 있어 소속하는 부대 ㊥마다 색상이 다르다고 추측된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

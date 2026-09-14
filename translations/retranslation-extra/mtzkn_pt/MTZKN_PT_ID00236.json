@@ -1,0 +1,247 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00236",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000002",
+      "sourceBindingSha256": "4d5ae5b083c71795b321ca1975b4e789e2c4b280cc3d205b56f2d18a2b2d3fed",
+      "sourceTextSha256": "aacbb9f4b7ce2eed6f4456075b09d0ae25257e18b228541b7ab09b8782fe8adb",
+      "freshTranslation": "시로타 시로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000003",
+      "sourceBindingSha256": "e563dfe3497a7a405f19bfe54e75fa3bb989be62a591cb8657a9029efeff8988",
+      "sourceTextSha256": "18d9390e8be82343cad1d737151abd62ea44c322f79eedce7d8e9d4b5d82f25f",
+      "freshTranslation": "시로타",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000004",
+      "sourceBindingSha256": "d8d08fd920469d510c748a46f1ef16b4c4f3cd1f8f95f2f9487b2642b4f6c2ea",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000005",
+      "sourceBindingSha256": "c8723a5ea5b459dccc3fb922523fdbce99cd261eebc7014a1379c724a5e4d3ab",
+      "sourceTextSha256": "b2e65fb66e4306af609a122a77b0f7a080d27bb80ab25aacb2607245690fe79a",
+      "freshTranslation": "유엔 안보군이 홍보 2과에 파견한 전술 어드바이저. ㊥직립",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000006",
+      "sourceBindingSha256": "fa51bf4f0ec07892b6702359728bc296d655f7bd6c37f080e6cb6b73b48e0a91",
+      "sourceTextSha256": "514f43398887eac633a6bd6aa1b2a2c1686eb0ed9b40a535663da63aca3cea9c",
+      "freshTranslation": "특수 차량",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000007",
+      "sourceBindingSha256": "82c2f2cecbd46aca2da34e1ceef805f6d34d52d1389dc7c18de7d88705e366a7",
+      "sourceTextSha256": "66a7fd0ad8985bde8a4cecb4407f213b8bc0aa3e2d687a53462fbca18f748a26",
+      "freshTranslation": "용의 전문가이며, 싸움에 관해서는 아마추어인 홍보 2과의 ㊥ 직원들에게 신속하게 작전을 수행시킬 목적으로 파견되었다. ㊥ 초과가 붙을 정도의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000008",
+      "sourceBindingSha256": "534f89f1d9c02a14b63db185b059139cc3d104be162e940314777b23fb766db4",
+      "sourceTextSha256": "3e426620960a0912eb56f06d39625e1284807f39c184dc5adf0ec5c1af50e11b",
+      "freshTranslation": "흥미로운 견물로 싸움에서도 항상 명령과 효율을 중시. 다소의 희㊥생을 내어도 헤테로다인의 섬멸을 제일로 생각하고 있었다. 그 때문에 파견 당초는 시민㊥의 시선에 서서 행동하는 홍보 2과의 면면, 특히 아카기와는 잘 연계가 되지 않았다㊥했다. ㊥이지만 그런 아카기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000009",
+      "sourceBindingSha256": "e2375cc654ae2b021b994b5817df4f5909b7d3cf953e3c598a7520e136d76dac",
+      "sourceTextSha256": "7fed8fa1d8000e22b650cb0c7bc561d32d852b221313eb143f25f6b45c555bf5",
+      "freshTranslation": "똑바른 정의감과",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000010",
+      "sourceBindingSha256": "6b11746fc96171fc65c64d3856ceed98075cc974bad3f720359baa4bb3c36bd0",
+      "sourceTextSha256": "6ae32308ae7daf856e3eafa98f091c0ce6bb5193646c1de5447c32fb26483921",
+      "freshTranslation": "잔인한 행동을 눈에 띄는 가운데, 그도 ㊥ 또 효율 일변도가 아니고, 정말로 지켜야 할 것은 무엇인가를 생각하게 된다. 그 ㊥의 결과, 체육 회계끼리라고 하는 일도 있어, 아카기와는 좋은 콤비가 되고 있었다. ㊥직립",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000011",
+      "sourceBindingSha256": "485cd0802286d1b0a41db3f7ab071a777ccd3ccdb36ea523b12bfce8acf51ff0",
+      "sourceTextSha256": "fddfaae283047f7f1487dfab46b9c5e79b940aa725d192d042a2af7dc124e492",
+      "freshTranslation": "특수 차량의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000012",
+      "sourceBindingSha256": "18491282ac93db57caa4dd98637e32095aca2bddaf192ef735d30c894e905561",
+      "sourceTextSha256": "3f5e5e064a612df9e0ff30eef87ae0e622b4283700e5895db415aad853b2d5dd",
+      "freshTranslation": "용이나 전술 눈은 원래보다, 아카기가 부상했을 때에 기억한 조종 기술에도 ㊥ 빛나는 것을 가지고 있다. 나중에 아카기가 부재할 때에는 당당히 메인 파일럿을 맡아 헤㊥테로다인을 행동불능으로 만드는 데 성공했다. ㊥ 덧붙여 다이가드는 특수 차량이기 때문에 면허가 없는 시로타가 조종하면 본래는 무㊥ 면허",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000013",
+      "sourceBindingSha256": "dc8724639057c4cdce18834ff7de5df1ffaefe8b46ea9d3e2df2605ab8fcbed3",
+      "sourceTextSha256": "59b4be1af986b16f760640e4b84ca58c1fdbb6a645dc6c9dc33cc19fc6c3074b",
+      "freshTranslation": "회전이 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000014",
+      "sourceBindingSha256": "e9d9a2935e347460a7c0ce945a5aa9a1cf42ce71d24e1c1688a9450cfd2c50fe",
+      "sourceTextSha256": "b2e65fb66e4306af609a122a77b0f7a080d27bb80ab25aacb2607245690fe79a",
+      "freshTranslation": "유엔 안보군이 홍보 2과에 파견한 전술 어드바이저. ㊥직립",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000015",
+      "sourceBindingSha256": "32a46f1a206f8db948e010881cfb7a0b06403ab4eacb09154e89d23087a7aded",
+      "sourceTextSha256": "514f43398887eac633a6bd6aa1b2a2c1686eb0ed9b40a535663da63aca3cea9c",
+      "freshTranslation": "특수 차량",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000016",
+      "sourceBindingSha256": "85e7fde32c8215a7c0da04dfa9bd386c42f74385a27ebe3da558cba7d851d150",
+      "sourceTextSha256": "66a7fd0ad8985bde8a4cecb4407f213b8bc0aa3e2d687a53462fbca18f748a26",
+      "freshTranslation": "용의 전문가이며, 싸움에 관해서는 아마추어인 홍보 2과의 ㊥ 직원들에게 신속하게 작전을 수행시킬 목적으로 파견되었다. ㊥ 초과가 붙을 정도의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000017",
+      "sourceBindingSha256": "4407096308d592f96907410025011ed1e20e9b06cb16b9f8133d7a7973122f3e",
+      "sourceTextSha256": "3e426620960a0912eb56f06d39625e1284807f39c184dc5adf0ec5c1af50e11b",
+      "freshTranslation": "흥미로운 견물로 싸움에서도 항상 명령과 효율을 중시. 다소의 희㊥생을 내어도 헤테로다인의 섬멸을 제일로 생각하고 있었다. 그 때문에 파견 당초는 시민㊥의 시선에 서서 행동하는 홍보 2과의 면면, 특히 아카기와는 잘 연계가 되지 않았다㊥했다. ㊥이지만 그런 아카기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000018",
+      "sourceBindingSha256": "1d8b1192c33d56b14c1515a6d2ee9ddf91b243ca9cf2a3e915c5ef8b55855649",
+      "sourceTextSha256": "7fed8fa1d8000e22b650cb0c7bc561d32d852b221313eb143f25f6b45c555bf5",
+      "freshTranslation": "똑바른 정의감과",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000019",
+      "sourceBindingSha256": "b52e16c0ea31d4ff4269b67038e8c6b2ca8c29370f1819c6cfb339075068d9d9",
+      "sourceTextSha256": "6ae32308ae7daf856e3eafa98f091c0ce6bb5193646c1de5447c32fb26483921",
+      "freshTranslation": "잔인한 행동을 눈에 띄는 가운데, 그도 ㊥ 또 효율 일변도가 아니고, 정말로 지켜야 할 것은 무엇인가를 생각하게 된다. 그 ㊥의 결과, 체육 회계끼리라고 하는 일도 있어, 아카기와는 좋은 콤비가 되고 있었다. ㊥직립",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000020",
+      "sourceBindingSha256": "8463925dd016486c18fd630d8231250e7ae64c8342657b7430e806036128c93f",
+      "sourceTextSha256": "fddfaae283047f7f1487dfab46b9c5e79b940aa725d192d042a2af7dc124e492",
+      "freshTranslation": "특수 차량의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000021",
+      "sourceBindingSha256": "cb8aa27e389854230816f1a6a5da21828eb98e61e91cd06a8e7795ab00c56180",
+      "sourceTextSha256": "3f5e5e064a612df9e0ff30eef87ae0e622b4283700e5895db415aad853b2d5dd",
+      "freshTranslation": "용이나 전술 눈은 원래보다, 아카기가 부상했을 때에 기억한 조종 기술에도 ㊥ 빛나는 것을 가지고 있다. 나중에 아카기가 부재할 때에는 당당히 메인 파일럿을 맡아 헤㊥테로다인을 행동불능으로 만드는 데 성공했다. ㊥ 덧붙여 다이가드는 특수 차량이기 때문에 면허가 없는 시로타가 조종하면 본래는 무㊥ 면허",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00236/Sheet1/000022",
+      "sourceBindingSha256": "664ac7f80f32a119a1afcfb9a5fa6686c54fae558c1ffd84763d6be72243b37d",
+      "sourceTextSha256": "59b4be1af986b16f760640e4b84ca58c1fdbb6a645dc6c9dc33cc19fc6c3074b",
+      "freshTranslation": "회전이 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

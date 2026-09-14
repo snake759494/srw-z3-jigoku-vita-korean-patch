@@ -1,0 +1,192 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00112",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00112/Sheet1/000002",
+      "sourceBindingSha256": "f8fecfb84efd0d46db59d6ceac0cebbe1a90c3add2df7cd36ca3d39f5f1d78e2",
+      "sourceTextSha256": "7463266abd518519fbb94c8f18b22ec634829214f4850ea35b0a115744882523",
+      "freshTranslation": "펠트 그레이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00112/Sheet1/000003",
+      "sourceBindingSha256": "d284c4a426b07a5735b587d33e36d41cec3400b4e780d975464498235cc65982",
+      "sourceTextSha256": "7c7177134a9428c73ddf3916b99c25cbed716e660483a0ced4d88a140686900f",
+      "freshTranslation": "펠트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00112/Sheet1/000004",
+      "sourceBindingSha256": "baf316ae8bc62a5b9ca86c300de975fed51eb5f1650e39b921bf0d9eb9bd778f",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00112/Sheet1/000005",
+      "sourceBindingSha256": "47cbb00580873d8aad048f098578cde314ea031cb73499ad05a2d28bc731f11a",
+      "sourceTextSha256": "18c2711d766d6ec24e9d62758259214889a00bb0b9b747f5f5bf32cff617f731",
+      "freshTranslation": "타카가키 아야요",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00112/Sheet1/000006",
+      "sourceBindingSha256": "eafd977ed2889889109362702e0ae36b6e5895ef3ecc242b3aa8d1bf490a4f4c",
+      "sourceTextSha256": "60ab39ee46d9d117af3d38eeeb451b5f18b9dee829fbea392f7fa6b7fb03b51b",
+      "freshTranslation": "프톨레마이오스 2개 전황 오페레",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00112/Sheet1/000007",
+      "sourceBindingSha256": "df79d1227a80c52c22fb1d68fa89e61a100176efac065ea5ba89739d305ae610",
+      "sourceTextSha256": "ad54c9d59ecc48e4d963653d6f4a474bc4e5e867b4518fbb5760216358f5c716",
+      "freshTranslation": "ー. 21세.㊥몇 번이나 격전을 빠져 온 경험으로부터, 항상 냉정하고, 정확한 상황 분석에 의해㊥마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00112/Sheet1/000008",
+      "sourceBindingSha256": "2998ee3d7c005ad67bf7b2453e5883aa7aade347536bedac3ab96d21c3c28800",
+      "sourceTextSha256": "96f133c1615a63fe3c581a6008de6c0457bb14ea27fb68a3965fb1c9f19b09a6",
+      "freshTranslation": "ー들을 지원하고 있다.㊥별로 감정을 보이는 일이 없는 성격이었지만, 닐·디란디와의 만남이나,㊥다른 승무원과의 접촉으로 점차 언동과 표정이 부드러워지고 온화함㊥라고 의지의 힘을 겸비한 여성으로 성장했다.㊥부모는 2세대 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00112/Sheet1/000009",
+      "sourceBindingSha256": "4c357fe6b804547fe8e38747731f715b23cf2194818c098366945fb2ee61b90b",
+      "sourceTextSha256": "44852282f4e519e6753df133544f56dba71360d650d6a00302eba8757189d60b",
+      "freshTranslation": "- 자신도 조직에서 자랐기 때문에 ㊥ 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00112/Sheet1/000010",
+      "sourceBindingSha256": "770528dd992d252098253b6ee0c0226516161ada7586b8c27a45a843f15f56f7",
+      "sourceTextSha256": "80aee9ff7a2e5a168a51723b1ddbbf0cf1a0b6b3a8eaa650f637c425677289e4",
+      "freshTranslation": "루비잉의 멤버를 가족처럼 생각하고 있다. ㊥ 세츠나에게 창백한 사랑을 전하고 순수한 종의 이노베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00112/Sheet1/000011",
+      "sourceBindingSha256": "2929f0acc20bf30e5cdc7fc93744ba1de733d5ea578cab18793ea24ce422c2ed",
+      "sourceTextSha256": "4e52b37a8d7de750485c521aea3cc8ba39330e06b293244a7fdff22090e160be",
+      "freshTranslation": "-에 각성한 일로, 그 힘에 ㊥ 당황하는 그를 항상 걱정하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00112/Sheet1/000012",
+      "sourceBindingSha256": "d80e615beee2348117e1c5fa7582b05f7819a93073183ded735537f316b6539b",
+      "sourceTextSha256": "60ab39ee46d9d117af3d38eeeb451b5f18b9dee829fbea392f7fa6b7fb03b51b",
+      "freshTranslation": "프톨레마이오스 2개 전황 오페레",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00112/Sheet1/000013",
+      "sourceBindingSha256": "939d03c3fdbebc05dda7ea931bd3df2c8813e6f3d15f5b1d26655e165fde7540",
+      "sourceTextSha256": "ad54c9d59ecc48e4d963653d6f4a474bc4e5e867b4518fbb5760216358f5c716",
+      "freshTranslation": "ー. 21세.㊥몇 번이나 격전을 빠져 온 경험으로부터, 항상 냉정하고, 정확한 상황 분석에 의해㊥마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00112/Sheet1/000014",
+      "sourceBindingSha256": "46ed030cef3fe7a737784f5b6a530afa4cab862b6abc6ce4643eb3a8245dc769",
+      "sourceTextSha256": "96f133c1615a63fe3c581a6008de6c0457bb14ea27fb68a3965fb1c9f19b09a6",
+      "freshTranslation": "ー들을 지원하고 있다.㊥별로 감정을 보이는 일이 없는 성격이었지만, 닐·디란디와의 만남이나,㊥다른 승무원과의 접촉으로 점차 언동과 표정이 부드러워지고 온화함㊥라고 의지의 힘을 겸비한 여성으로 성장했다.㊥부모는 2세대 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00112/Sheet1/000015",
+      "sourceBindingSha256": "1fa8f3cfcff25573346faecd8a5848ee39a6a6f7c4084702a8c340f1a743cd17",
+      "sourceTextSha256": "44852282f4e519e6753df133544f56dba71360d650d6a00302eba8757189d60b",
+      "freshTranslation": "- 자신도 조직에서 자랐기 때문에 ㊥ 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00112/Sheet1/000016",
+      "sourceBindingSha256": "57c25888354e83a3310c0ca4f33dba5bf370e64c2acc4cb9304dd5af091efdab",
+      "sourceTextSha256": "80aee9ff7a2e5a168a51723b1ddbbf0cf1a0b6b3a8eaa650f637c425677289e4",
+      "freshTranslation": "루비잉의 멤버를 가족처럼 생각하고 있다. ㊥ 세츠나에게 창백한 사랑을 전하고 순수한 종의 이노베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00112/Sheet1/000017",
+      "sourceBindingSha256": "1930b554acaa9346d96096a98c795b86c8148e845dfdc5b20423f185c812ed06",
+      "sourceTextSha256": "4e52b37a8d7de750485c521aea3cc8ba39330e06b293244a7fdff22090e160be",
+      "freshTranslation": "-에 각성한 일로, 그 힘에 ㊥ 당황하는 그를 항상 걱정하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

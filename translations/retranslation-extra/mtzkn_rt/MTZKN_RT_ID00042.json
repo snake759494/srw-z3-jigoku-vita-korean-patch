@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00042",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00042/Sheet1/000002",
+      "sourceBindingSha256": "4c79d6d95fc4d83c1db7a9ff73e187a03f76a45009dacb8ce7a9b2747629e580",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00042/Sheet1/000003",
+      "sourceBindingSha256": "2ae010df52d00357bf072f557200e332fb25e2b15e9f55607bfe229526afb8da",
+      "sourceTextSha256": "dfeb1458dba37445d15487dad762980b520f76e62e536a7c672efd88f2b4d04c",
+      "freshTranslation": "리 가지 (BWS)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00042/Sheet1/000004",
+      "sourceBindingSha256": "389130d9499d1084f4d4a4d7e51339c87bc884986b2622f0826fe9d29d405ec7",
+      "sourceTextSha256": "dfeb1458dba37445d15487dad762980b520f76e62e536a7c672efd88f2b4d04c",
+      "freshTranslation": "리 가지 (BWS)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00042/Sheet1/000005",
+      "sourceBindingSha256": "5216f55482d719b1d5c286f1ad60ca0fd15b1f6bda1978182c4b95e09b4f37af",
+      "sourceTextSha256": "89e7b3ca6e2a485add9a2395a95b950d60b152f696169d6d9427499a075b5741",
+      "freshTranslation": "리가지가 백 웨폰 시스템을 장비한 모빌 아머 형태. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00042/Sheet1/000006",
+      "sourceBindingSha256": "12d2cb724ca7cc863a5f0f0cababf0551629c8ab0bac99fa3d6354d21a635ebd",
+      "sourceTextSha256": "da20f80a33b2cad1e4687965842e1aafbf5c55f5f769df6aca8afe1d84ce6d16",
+      "freshTranslation": "동성·장거리 순항 능력·화력 등이 비약적으로 향상하고 있다. 하지만 백웨이㊥폰 시스템은 일회용에 가까운 형태로 사용되어 분리해 모빌슈트가 된 후㊥의 재장비는 전장에서는 불가능하다. ㊥ 주요 무장은 기수에 장착된 메가 빔 캐논, 미사일 런처인 ㊥이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00042/Sheet1/000007",
+      "sourceBindingSha256": "f8559d990df30883f09ca4f39be5268e65a278b63db0d482980ce1433d80aba0",
+      "sourceTextSha256": "89e7b3ca6e2a485add9a2395a95b950d60b152f696169d6d9427499a075b5741",
+      "freshTranslation": "리가지가 백 웨폰 시스템을 장비한 모빌 아머 형태. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00042/Sheet1/000008",
+      "sourceBindingSha256": "bc942178d2b27be24b930aa856b64cf13becc754387bbf536cf8434395bcbc0c",
+      "sourceTextSha256": "da20f80a33b2cad1e4687965842e1aafbf5c55f5f769df6aca8afe1d84ce6d16",
+      "freshTranslation": "동성·장거리 순항 능력·화력 등이 비약적으로 향상하고 있다. 하지만 백웨이㊥폰 시스템은 일회용에 가까운 형태로 사용되어 분리해 모빌슈트가 된 후㊥의 재장비는 전장에서는 불가능하다. ㊥ 주요 무장은 기수에 장착된 메가 빔 캐논, 미사일 런처인 ㊥이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

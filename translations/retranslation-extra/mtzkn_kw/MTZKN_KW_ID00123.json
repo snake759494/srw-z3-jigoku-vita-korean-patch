@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00123",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00123/Sheet1/000002",
+      "sourceBindingSha256": "0780ac19736d40f64ca2869cefd87c21d279d08872b0a981a6ca5bbb183d0154",
+      "sourceTextSha256": "2a00b29237a0aa5755f2e18eee417737da63ef4e0e91f296bddb1c02d588b486",
+      "freshTranslation": "크루지스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00123/Sheet1/000003",
+      "sourceBindingSha256": "eaf605ff98165cfc53ca752f6ef05135bf4b644d0806cc0482410e821612aa1f",
+      "sourceTextSha256": "7669c78573db7851e69684ca226465fd07fe9556c10d361219f1dde2c7e809ab",
+      "freshTranslation": "「극장판 기동전사 건담 00-AwakeningofftheTrailblazer-」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00123/Sheet1/000004",
+      "sourceBindingSha256": "014ec387bd76dff90e005c29fa36a0fc924f0ce3c1683f3dd5ef7ab94cda0c6c",
+      "sourceTextSha256": "782865a8791b427632d9ce217a3ed1def44e9f574a6ea6b255db6bd7d975be26",
+      "freshTranslation": "정식 명칭은 크루지스 공화국. ㊥ 중동의 국가이며, 찰나의 고향이기도 하다. ㊥ 분쟁 중 이웃 나라의 아자디스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00123/Sheet1/000005",
+      "sourceBindingSha256": "9daafc7e1f423c704d41937f830cc4026696d0e0ec95c48ea4a4ba95b944a09c",
+      "sourceTextSha256": "8f089cd7156732a713f36691b678da14ecf490e1ffe403ed5bded3f3c7866ef7",
+      "freshTranslation": "왕국에 무력 병합되어 지금은 존재하지 않는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00123/Sheet1/000006",
+      "sourceBindingSha256": "eacce0f89a5b39951b90b823968cfb7041d8ca7f146763c13c41efe472acf0c6",
+      "sourceTextSha256": "782865a8791b427632d9ce217a3ed1def44e9f574a6ea6b255db6bd7d975be26",
+      "freshTranslation": "정식 명칭은 크루지스 공화국. ㊥ 중동의 국가이며, 찰나의 고향이기도 하다. ㊥ 분쟁 중 이웃 나라의 아자디스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00123/Sheet1/000007",
+      "sourceBindingSha256": "037338628ebdebe91c81885ae6b7a18ba268d0fbe1c156e1d7166db4e3f78529",
+      "sourceTextSha256": "8f089cd7156732a713f36691b678da14ecf490e1ffe403ed5bded3f3c7866ef7",
+      "freshTranslation": "왕국에 무력 병합되어 지금은 존재하지 않는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

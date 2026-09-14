@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00003",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00003/Sheet1/000002",
+      "sourceBindingSha256": "5a9639ce9beb52704149f810ef1d8849fc8cae4152fbfc619fedf005132aedf6",
+      "sourceTextSha256": "57941420a081fa6073fef012ce64e9f47bb1e0bf2db75221a8712e900ab0a861",
+      "freshTranslation": "키노시타 후지하치로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00003/Sheet1/000003",
+      "sourceBindingSha256": "a680cb4bf829a674c019e495f2c0a8a6a08265cdcb025407ecedd4b39d0bd032",
+      "sourceTextSha256": "d0af315a639d3b9dc586d3c97bb9ff402688da6998b52389507f7505c058cd24",
+      "freshTranslation": "키노시타",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00003/Sheet1/000004",
+      "sourceBindingSha256": "8fb246d36041e56857fd7508bd8db8f53ee1fa42d328146d5146f35d3fadf458",
+      "sourceTextSha256": "77c406ff1c1b9634902fdd15ec771c2a07e20db9f0a6b53196dbf872ebd5aa4c",
+      "freshTranslation": "무적 로보 트라이더 G7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00003/Sheet1/000005",
+      "sourceBindingSha256": "c29f90073274a347785f8a2be6bce46568f3cdeb8503620d9caebc90a63cb270",
+      "sourceTextSha256": "5101c2b0b4235756df81388f522f53d46c27136d58ebbc814e100349c80c8ba4",
+      "freshTranslation": "정사 토키오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00003/Sheet1/000006",
+      "sourceBindingSha256": "80866c590763001945fa4f02e15e29f7ec5ba2f8e54d8b96d8041ef68f2921c0",
+      "sourceTextSha256": "6104d062ab1cd744fd39ac33b622b6439764cfe5d80055cbfcc7585e7fbd8abe",
+      "freshTranslation": "다케오 제너럴 컴퍼니의 영업계장. 25세. ㊥ 시끄러운, 그럴듯한, 어쩌면 3박자 갖춰진 C조 남자. ㊥ '빠트!'가 버릇없는 화려함을 좋아하고, 사원 여행이나 연회 등 뭔가 이유를 붙여서는 ㊥ 파트하자고 입으로 하고 있다. 그리고 그 때마다 자금을 반복적으로 분주하는 전무에 노려 ㊥하고 있었다. ㊥역직적으로 거래처와의 연락이나 신규 개척을 해야 할 입장이지만, 메카 로봇 퇴치가 주㊥인 업무가 되고 있던 다케오 제너럴 컴퍼니에 있어서는 전투시 이외에 일을 하고 있는 ㊥곳을 거의 볼 수 없었다. 드물게 행동을 일으키는 일이 있어도 어리석음과 실패하면 ㊥ 걸려서, 할 수 없는 인상이 강했다. ㊥ 단점만이 눈에 띄는 것 같지만, 소유 전의 밝기로 한 줄의 분위기 메이커가 된다. 사㊥등에 회사의 성인 남성진 중(안)에서는 제일 세가 가까운 일도 있어, 와타에게 있어서는 할 수는 악㊥그러나 미워하지 않는 형이라고 하는 존재였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00003/Sheet1/000007",
+      "sourceBindingSha256": "f9dc243db30919a4e555c74f1894a490d8c37d0ed0a0cb08bfd72b06edfa9b12",
+      "sourceTextSha256": "6104d062ab1cd744fd39ac33b622b6439764cfe5d80055cbfcc7585e7fbd8abe",
+      "freshTranslation": "다케오 제너럴 컴퍼니의 영업계장. 25세. ㊥ 시끄러운, 그럴듯한, 어쩌면 3박자 갖춰진 C조 남자. ㊥ '빠트!'가 버릇없는 화려함을 좋아하고, 사원 여행이나 연회 등 뭔가 이유를 붙여서는 ㊥ 파트하자고 입으로 하고 있다. 그리고 그 때마다 자금을 반복적으로 분주하는 전무에 노려 ㊥하고 있었다. ㊥역직적으로 거래처와의 연락이나 신규 개척을 해야 할 입장이지만, 메카 로봇 퇴치가 주㊥인 업무가 되고 있던 다케오 제너럴 컴퍼니에 있어서는 전투시 이외에 일을 하고 있는 ㊥곳을 거의 볼 수 없었다. 드물게 행동을 일으키는 일이 있어도 어리석음과 실패하면 ㊥ 걸려서, 할 수 없는 인상이 강했다. ㊥ 단점만이 눈에 띄는 것 같지만, 소유 전의 밝기로 한 줄의 분위기 메이커가 된다. 사㊥등에 회사의 성인 남성진 중(안)에서는 제일 세가 가까운 일도 있어, 와타에게 있어서는 할 수는 악㊥그러나 미워하지 않는 형이라고 하는 존재였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

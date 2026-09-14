@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00059",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00059/Sheet1/000002",
+      "sourceBindingSha256": "dc2398c195b5fa515cd85f012acd73c939dcd16ea7911b9d563ec7645a30534f",
+      "sourceTextSha256": "4feeafc8404cd0f763b73c79cdbef9388b2e34f57cf909dddb4a8f403f362556",
+      "freshTranslation": "화이트 팡",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00059/Sheet1/000003",
+      "sourceBindingSha256": "48d677b30df54d91203cc0ccf1ae9082ae9789ba212a322d874441a056bc0d6d",
+      "sourceTextSha256": "b70cf0d11108c1260701549e671a70c8747d7e5ed173c098e5fea7dbc50bf2c5",
+      "freshTranslation": "「신기동전기 건담 WEndlessWaltz」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00059/Sheet1/000004",
+      "sourceBindingSha256": "6f10c4e6315dbc14a8bbfb6689bb2248183accc0d7d79e97dbf6956ede7d01b9",
+      "sourceTextSha256": "6995ab6932c005044500f0aa8e9a5602fb3adfac767cd23dbc79b947b8daecaf",
+      "freshTranslation": "식민지의 독립을 요구해 세계 국가에 선전 포고를 한 조직. ㊥ 밀리알드 피스크래프트를 지도자에게 트레이스 쿠슈리나다가 이끄는 ㊥ 세계 국가와 싸웠다. ㊥ 밀리알도가 일기타로 히이로 유이에게 패한 것으로 조직은 기와해해, 이 싸움㊥의 끝을 이어 세계는 새로운 시대를 맞이했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00059/Sheet1/000005",
+      "sourceBindingSha256": "a169c5db3e3d8c30076e08e1f3ed97b97c322f28e492ec647cb203b624e4938b",
+      "sourceTextSha256": "6995ab6932c005044500f0aa8e9a5602fb3adfac767cd23dbc79b947b8daecaf",
+      "freshTranslation": "식민지의 독립을 요구해 세계 국가에 선전 포고를 한 조직. ㊥ 밀리알드 피스크래프트를 지도자에게 트레이스 쿠슈리나다가 이끄는 ㊥ 세계 국가와 싸웠다. ㊥ 밀리알도가 일기타로 히이로 유이에게 패한 것으로 조직은 기와해해, 이 싸움㊥의 끝을 이어 세계는 새로운 시대를 맞이했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

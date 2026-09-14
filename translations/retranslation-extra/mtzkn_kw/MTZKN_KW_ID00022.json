@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00022",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00022/Sheet1/000002",
+      "sourceBindingSha256": "bb7e45f45d2031c628b805f365aaaf29bba6ec6b78c95cfcda4673b89bc80c5e",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00022/Sheet1/000003",
+      "sourceBindingSha256": "1ad4245504b7a0952e72a40632a59049290ee6dc57e170ceaddfb34610149b2c",
+      "sourceTextSha256": "df9ad6a68cb8eb2750d6bdabe3dc397596ff9c23329895f80861ddab4635c311",
+      "freshTranslation": "ADW의 파계사변과 재세전쟁을 싸우는 독립부대. ㊥파계사변시 유엔평화유지이사회 대표의 엘간 로딕에 의해 ㊥조직된다. ㊥ \"ZEXtraInternationalSavers\"의 약칭으로 ㊥ \"특별 국제 구조대\"를 의미한다. ㊥시 공진동 '카라미티 버스' 뒤에는 UCW로부터 전이되어 온 ㊥ZEUTH의 멤버도 소속되었다. ㊥파계사변 종결 후 한번 해산되었으나 재편성된다. 그 때는 외부독립부㊥대로서 독립행동권과 지구연방 내의 타부대에 대한 감찰권과 실행권이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00022/Sheet1/000004",
+      "sourceBindingSha256": "c557c06c5191f8b5686967fa37cf24fe4f15f67729a91be22bad7bbfabcdaf87",
+      "sourceTextSha256": "57cfed360692b6053d82181d12ed383118fbfbedc577625694f88f148de2dc42",
+      "freshTranslation": "네 ㊥했다. ㊥파계사변, 재세전쟁의 2개의 차원간 전쟁에서 다양한 조직의 적중추를 토벌하고 ㊥ 종결로 이끌었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00022/Sheet1/000005",
+      "sourceBindingSha256": "bf1775255d1712f9377d029893998fc8e39b3c224817736dfb70d8e500d94ce6",
+      "sourceTextSha256": "df9ad6a68cb8eb2750d6bdabe3dc397596ff9c23329895f80861ddab4635c311",
+      "freshTranslation": "ADW의 파계사변과 재세전쟁을 싸우는 독립부대. ㊥파계사변시 유엔평화유지이사회 대표의 엘간 로딕에 의해 ㊥조직된다. ㊥ \"ZEXtraInternationalSavers\"의 약칭으로 ㊥ \"특별 국제 구조대\"를 의미한다. ㊥시 공진동 '카라미티 버스' 뒤에는 UCW로부터 전이되어 온 ㊥ZEUTH의 멤버도 소속되었다. ㊥파계사변 종결 후 한번 해산되었으나 재편성된다. 그 때는 외부독립부㊥대로서 독립행동권과 지구연방 내의 타부대에 대한 감찰권과 실행권이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00022/Sheet1/000006",
+      "sourceBindingSha256": "b9ef709be087d8465b1a0e954822fded94f0b48bd89f54af458c8c9b44ecd59e",
+      "sourceTextSha256": "57cfed360692b6053d82181d12ed383118fbfbedc577625694f88f148de2dc42",
+      "freshTranslation": "네 ㊥했다. ㊥파계사변, 재세전쟁의 2개의 차원간 전쟁에서 다양한 조직의 적중추를 토벌하고 ㊥ 종결로 이끌었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

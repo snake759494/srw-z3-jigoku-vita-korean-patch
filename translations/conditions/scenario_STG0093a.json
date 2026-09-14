@@ -1,0 +1,73 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0093a",
+    "fileName": "STG0093a.cpk",
+    "target": "DATA/STAGE/STG0093a.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "f421889b6c5c070a217329bd143284980c6ee8b77b4ed0c15af834d2ce9ec947"
+  },
+  "entries": [
+    {
+      "entryId": "STG0093a/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "하데스와 에인션트AQ의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0093a/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0093a/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "코우지·아마타·알토·제우스 중 하나라도 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0093a/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "6턴 이내에 맵을 클리어한다\n또한 그때까지 미케네와 미카게의 군단에\n각각 상대를 격추시키지 않도록 한다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0093a/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "코우지·아마타·알토 중 하나라도 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

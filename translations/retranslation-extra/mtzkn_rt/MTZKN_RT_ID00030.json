@@ -1,0 +1,225 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00030",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000002",
+      "sourceBindingSha256": "57700c7e8831817f6899636209bce671b98ebae5ba76e38be48d225b00528875",
+      "sourceTextSha256": "2e72dc391938168fbc52704deca72c28f66762970743d8ea2a42ca6692f5cff8",
+      "freshTranslation": "장갑 기병 보텀스 사타구니 이단",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000003",
+      "sourceBindingSha256": "b33dea45c9b4ed446e8a6fb4f9ae87e5dd94a27752db50dd393803e1b9fb2a92",
+      "sourceTextSha256": "7814829f3a71402c0f661654e39206a42818a9d930b9cac4a36f2b0d117e4e59",
+      "freshTranslation": "오델 버클러",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000004",
+      "sourceBindingSha256": "5685d642625eb8f7e6e24b7401ba73e2018de6f58e09fe240a06e1ff95c58793",
+      "sourceTextSha256": "7814829f3a71402c0f661654e39206a42818a9d930b9cac4a36f2b0d117e4e59",
+      "freshTranslation": "오델 버클러",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000005",
+      "sourceBindingSha256": "16785b7cc85de71cec29b96aa11f24f46d372dd29b45d2ab37c2faf9cc933fb1",
+      "sourceTextSha256": "1ae84ec3727d20b09156518e3322df090ba671c151a7f7c4e639b58b09d7d4cb",
+      "freshTranslation": "테이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000006",
+      "sourceBindingSha256": "e95be185fad540e6687121bf678937b00d1c15d2d8e6ec917288040751e2bfe2",
+      "sourceTextSha256": "9f32678af8711b5ba5f65fb254bdcff2896a15a82adcbb2dc951089b88de5e5d",
+      "freshTranslation": "니어 다 몬테 웰스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000007",
+      "sourceBindingSha256": "61dff56c1cb8f1e9b1c6265103bd53cf0fe1829cc7fc8e7200a2381ca60ea90a",
+      "sourceTextSha256": "50059fedf78511a7a6c44aa0ffe653a2f5bd57ce1daf97c5b11f7d082dc57ac2",
+      "freshTranslation": "범 은하 결사 마티알의 제 13 계위 「질서의 방패」전용 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000008",
+      "sourceBindingSha256": "ef1245e4fba42888b7952e7db4aae2b4377592bf9623a327d7c9a4afa68050b6",
+      "sourceTextSha256": "460e53b676e08c07b1fd44a6ed9c3196a5aa2b56743cb98b31b03b710dfc1257",
+      "freshTranslation": "무 AT. ㊥ 엘드 스피네를 기반으로 한 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000009",
+      "sourceBindingSha256": "59c0a94a0c9500ad6f9c562d9e832d2fbd74c18d89c47497ba4eb3c757043600",
+      "sourceTextSha256": "ad488ed5734e9cc1fa807c6bac609d648ca26912af38d355e82c278189627ab1",
+      "freshTranslation": "기계이지만 항공기 곳곳에 고성능 부품이 사용되었습니다 ㊥이기 때문에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000010",
+      "sourceBindingSha256": "a4ce305ca8c604319c5f186996c850e043a09047e3dfd5fe3da5007e7bbaf498",
+      "sourceTextSha256": "319912c1c560b1bf72544326d48b3d92603a5e5a580df388dfec9840b0035dea",
+      "freshTranslation": "기계와 비교할 수없는 성능을 가지며 넥스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000011",
+      "sourceBindingSha256": "50ce4dd87f1896c1af61e740fb4457e3669a5fe796492a7cc2c982e5762716ef",
+      "sourceTextSha256": "dddb3ce6d0f638a0440f797f541c48368bef9838f132f11a485b8c66e7353ad4",
+      "freshTranslation": "인 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000012",
+      "sourceBindingSha256": "7a6f30c55c76f834f81f46b87574a6731bb058bc9f86190b0c06cb47719ec1b7",
+      "sourceTextSha256": "f648387a9a9a215306832c8b970611322882c36385b70be1e17fd8e718aee44c",
+      "freshTranslation": "니어의 반응 속도에도 대응할 수 있다. ㊥ 실드와 통합",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000013",
+      "sourceBindingSha256": "f3ae869714bf0ac583feac1fc4c10db922e2bb83e590f70db7355eab1d6c704b",
+      "sourceTextSha256": "21533dfa5e458dfc757bb5b2e9ecf6731886b2a8073325d00cd2ec261fc10d9b",
+      "freshTranslation": "의 전자식 파일 벙커를 장비하고 있어, 접근전에 있어서 무척의 ㊥강도를 발휘한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000014",
+      "sourceBindingSha256": "dd312aa25860fb9bd49ac19f140f16acd7163355df15d2f118894a0dd62d5127",
+      "sourceTextSha256": "50059fedf78511a7a6c44aa0ffe653a2f5bd57ce1daf97c5b11f7d082dc57ac2",
+      "freshTranslation": "범 은하 결사 마티알의 제 13 계위 「질서의 방패」전용 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000015",
+      "sourceBindingSha256": "713ebbaa5c5e5c082a14abd2a6ed915c6ea7b6864a94c7ce19b740e034e78073",
+      "sourceTextSha256": "460e53b676e08c07b1fd44a6ed9c3196a5aa2b56743cb98b31b03b710dfc1257",
+      "freshTranslation": "무 AT. ㊥ 엘드 스피네를 기반으로 한 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000016",
+      "sourceBindingSha256": "6fe93ada6ec40feffbc29f51050495b583272948276d690c776345c7e753b5ea",
+      "sourceTextSha256": "ad488ed5734e9cc1fa807c6bac609d648ca26912af38d355e82c278189627ab1",
+      "freshTranslation": "기계이지만 항공기 곳곳에 고성능 부품이 사용되었습니다 ㊥이기 때문에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000017",
+      "sourceBindingSha256": "c946bf816c5c1c389f7017f3114607322b80382dfef7409adab0d9d930994846",
+      "sourceTextSha256": "319912c1c560b1bf72544326d48b3d92603a5e5a580df388dfec9840b0035dea",
+      "freshTranslation": "기계와 비교할 수없는 성능을 가지며 넥스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000018",
+      "sourceBindingSha256": "dfadedafb09c0f54535de41dcd655a7720fe82e54faa8937c6025283d99b526a",
+      "sourceTextSha256": "dddb3ce6d0f638a0440f797f541c48368bef9838f132f11a485b8c66e7353ad4",
+      "freshTranslation": "인 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000019",
+      "sourceBindingSha256": "f416af6fca2650f00ae45f2be3b888958ab75154a4518fab5e1fa70602003473",
+      "sourceTextSha256": "f648387a9a9a215306832c8b970611322882c36385b70be1e17fd8e718aee44c",
+      "freshTranslation": "니어의 반응 속도에도 대응할 수 있다. ㊥ 실드와 통합",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00030/Sheet1/000020",
+      "sourceBindingSha256": "97904e54cb7320e3e5f494fcb850086ae972e2bf2703a9cb029eb68e2212d890",
+      "sourceTextSha256": "21533dfa5e458dfc757bb5b2e9ecf6731886b2a8073325d00cd2ec261fc10d9b",
+      "freshTranslation": "의 전자식 파일 벙커를 장비하고 있어, 접근전에 있어서 무척의 ㊥강도를 발휘한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00260",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00260/Sheet1/000002",
+      "sourceBindingSha256": "5947acd114545a608931bc21dfeb8d29081727993c618b59e8698ba1df6598c7",
+      "sourceTextSha256": "a28804f8a6d04cb5681e2e2b7647c9fb64e57b0ba6b5d1590abd68ebdeb7138b",
+      "freshTranslation": "아카기 류노스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00260/Sheet1/000003",
+      "sourceBindingSha256": "f8f486b4d83d2fb5bf73b876408528f11b2bbf0ee89935250b059d33ec87fea1",
+      "sourceTextSha256": "3608ffd194e4e3e5a8893d016d5b9a588c6459320827c27a4c38b3d355a37502",
+      "freshTranslation": "아카기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00260/Sheet1/000004",
+      "sourceBindingSha256": "86fc22037c9eef9c37d82902531bb8c2f4e7db8c7823cb29edba43ec9bea295c",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00260/Sheet1/000005",
+      "sourceBindingSha256": "6f25aa18de56c7accbdbc5ffa019ae010c55111ce3949e6675b9d833ab1bec9b",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00260/Sheet1/000006",
+      "sourceBindingSha256": "c5626872ec5179c3e1ea05f435cb90f8ec36b957307686f981214f54ad371383",
+      "sourceTextSha256": "31d31e1ea12a72ac84000ed88435a6be938c81a600cc95193e01ec5a7bab39ee",
+      "freshTranslation": "이나다 토오루",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00260/Sheet1/000007",
+      "sourceBindingSha256": "33712186f3661e9c34d8798eead67675355c2f2c5667c74d2346aa93c1c281f6",
+      "sourceTextSha256": "c68b6070e0724dc0f5ad8cbb876d0877a9ba92ac009493e4e7cc462dbbe1d774",
+      "freshTranslation": "육상 자위대 네리마 주둔지의 강습기병 중대에 소속. 계급은 일등륙조. ㊥ 네리마 주둔지가 자랑하는 AS 부대, 네리마 레드 드래곤의 대장. AS의 조종에 관해서는, ㊥종개도 인정할 정도의 팔의 소유자로, AS경기회에서 나라시노 주둔지와의 대전에서는 매년, 승㊥리를 거두어 왔다. ㊥ 하지만, 성격은 꽤 자기 도취적이고, 카나메를 집요하게 설득하는 등 한다. ㊥ 나라시노의 주둔지 축제에서의 AS 경기회에서는, 카나메를 초대해 함께 기마전에 참가. 기발 ㊥인 포메이션 공격을 전개해, 시시노 강습기병 중대를 괴롭혔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00260/Sheet1/000008",
+      "sourceBindingSha256": "e90023c2f563340063ae4b1654adbd97e40939834f58d57e41bf5e4851548025",
+      "sourceTextSha256": "16c83302cff68cb725a106f06fc786bba25140c3634e88a9044e6b5a30d0687f",
+      "freshTranslation": "육상 자위대 네리마 주둔지의 강습기병 중대에 소속. 계급은 일등륙조. ㊥ 네리마 주둔지가 자랑하는 AS 부대, 네리마 레드 드래곤의 대장. AS의 조종에 관해서는, ㊥종개도 인정할 정도의 팔의 소유자로, AS경기회에서 나라시노 주둔지와의 대전에서는 매년, 승㊥리를 거두어 왔다. ㊥ 하지만, 성격은 꽤 자기 도취적이고, 카나메를 집요하게 설득하는 등 한다. ㊥ 나라시노의 주둔지 축제에서의 AS 경기회에서는, 카나메를 초대해 함께 기마전에 참가. 기발 ㊥인 포메이션 공격을 전개해, 나라시노 강습기병 중대를 괴롭혔지만, 마지막은 카자마 부모㊥ 아이의 분투에 의해, 나라시노 팀에 패배한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

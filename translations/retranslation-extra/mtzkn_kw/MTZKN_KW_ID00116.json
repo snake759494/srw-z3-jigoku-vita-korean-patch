@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00116",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00116/Sheet1/000002",
+      "sourceBindingSha256": "c0701a5773527ae763e1ca2ef10aa01780deedc6c6b3332d94b83baf97af1968",
+      "sourceTextSha256": "91e40dec999dbeb844af820969771cd306ce9995ae28de2a4bee4cebafd9d6a5",
+      "freshTranslation": "지구 연합",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00116/Sheet1/000003",
+      "sourceBindingSha256": "36e484e17f2b20ea2c3d153a1d0c2bdd404c91a5ae75ac7818f413f3583988e8",
+      "sourceTextSha256": "46972028b0d87190e9d5bc75048d5bd3819834caf71211a163e3d40415fa49f0",
+      "freshTranslation": "「기동전사 건담 SEEDDESTINY」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00116/Sheet1/000004",
+      "sourceBindingSha256": "c08059c228826d2a0c5076d48f0b3942e925aedcbc46d0e1201fa6a5e631609b",
+      "sourceTextSha256": "f97b1b8541eea936f6f19b25cdbe85debe38445838adbac0e35f473ee27e9c9e",
+      "freshTranslation": "대서양 연방의 주도로 탄생한 국제 조직. ㊥ 대부분은 플랜트 이사국으로 구성되며, 대 플랜트의 군사 동맹적인 의미가 강하다㊥. 그러나 지구상에는 부모 플랜트 국가나 중립국도 존재하기 때문에 지구를 ㊥ 통일하는 조직이라고 할 수는 없다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00116/Sheet1/000005",
+      "sourceBindingSha256": "3ec2968261e86676da4cf411fe926e9482592f23c69b85ded5e4915a818b9b85",
+      "sourceTextSha256": "f97b1b8541eea936f6f19b25cdbe85debe38445838adbac0e35f473ee27e9c9e",
+      "freshTranslation": "대서양 연방의 주도로 탄생한 국제 조직. ㊥ 대부분은 플랜트 이사국으로 구성되며, 대 플랜트의 군사 동맹적인 의미가 강하다㊥. 그러나 지구상에는 부모 플랜트 국가나 중립국도 존재하기 때문에 지구를 ㊥ 통일하는 조직이라고 할 수는 없다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

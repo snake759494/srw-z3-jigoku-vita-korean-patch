@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00154",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00154/Sheet1/000002",
+      "sourceBindingSha256": "41ce4b0baf03dd1af1b63c30a0ea931afd063766972a438ee7497bb891a3246d",
+      "sourceTextSha256": "be47ed4e2c84cb2fdedbf7c09038efb322ca6b10444d67290043f04604ed0e2c",
+      "freshTranslation": "미네바 라오 자비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00154/Sheet1/000003",
+      "sourceBindingSha256": "7081dd0334b82aaa76703b120d6d2ca1d6273313e55d28d8a6675b8dcbf0a32c",
+      "sourceTextSha256": "003dca48a5271e813a28dd7e63fbc0318f4ad8b97ad93c2e97cd1c2eb6fbd672",
+      "freshTranslation": "미네바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00154/Sheet1/000004",
+      "sourceBindingSha256": "aeb46afa48ef3691dddb8f1b6854927cae4219128bc261d142e09eb7f3a26567",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00154/Sheet1/000005",
+      "sourceBindingSha256": "af28558f7aa5641b398c5eaa767dd86219845cdc959470db4b74302d8b4145ff",
+      "sourceTextSha256": "6412e3c314ba0b271e7932fe2c0b373704cf71b9562e784f84fcf35be8842d45",
+      "freshTranslation": "후지무라 걸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00154/Sheet1/000006",
+      "sourceBindingSha256": "1bf7e6b84698f190a940d45a6a844168cd4b05522da783e794e15f2d03135ccb",
+      "sourceTextSha256": "9a9d38491c2eb2330f359fc3b53ee818ff55258661592ffd783e318d373363bb",
+      "freshTranslation": "지온 공국의 지도자의 일족인 자비 집의 후예. ㊥ '라플라스의 상자'의 개방이 새로운 전쟁을 일으킨다고 생각해 독자적으로 행동을 일으켜 ㊥ 갈란셰일에 밀항해 인더스트리얼 7을 방문했다. ㊥ 전투에 휘말려 네엘 아가마에 승선했을 때, 정체가 밝혀져 더그자㊥에 인질에 걸려도 결코 겁먹지 않는 기분을 가지고 있다. 거기에 끌린 리디와 함께 ㊥에 네르 아가마를 탈주해 지구로 향한다. ㊥인더스트리얼 7의 만남 이후 배너지를 신경쓰고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00154/Sheet1/000007",
+      "sourceBindingSha256": "f5aad7fc4c368b548d138b32d111b513a18c735246ab726062f9146f8556995a",
+      "sourceTextSha256": "2f0e08bc7e75e808c1fccdfea7b93b2eb87a58b39c3e1eb45f4414c4f489ab6a",
+      "freshTranslation": "지온 공국의 지도자의 일족인 자비 집의 후예. ㊥ '라플라스의 상자'의 개방이 새로운 전쟁을 일으킨다고 생각해 독자적으로 행동을 일으켜 ㊥ 갈란셰일에 밀항해 인더스트리얼 7을 방문했다. ㊥ 전투에 휘말려 네엘 아가마에 승선했을 때, 정체가 밝혀져 더그자㊥에 인질에 걸려도 결코 겁먹지 않는 기분을 가지고 있다. 거기에 끌린 리디와 함께 ㊥에 네르 아가마를 탈주해 지구로 향한다. ㊥인더스트리얼 7의 만남 이후 배너지를 신경쓰고 있다. ㊥ 지구에서는 마르세나스 가문의 조력을 얻지 못하고 리디에게도 실망하고 다시 탈주. 하지만 ㊥비스트재단에 거래재료로서 신체가 구속되어 버린다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

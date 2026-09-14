@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00264",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00264/Sheet1/000002",
+      "sourceBindingSha256": "57f135d96a6eaefae6a24f0dbe0930dd772f246d11a398a7ba1a189bf168e0ba",
+      "sourceTextSha256": "67148ec4671379f0ab00401b0e24aa74752d477b7adc36c5a2c6020994c9fd1c",
+      "freshTranslation": "쿠가 야마 ·",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00264/Sheet1/000003",
+      "sourceBindingSha256": "a1de0cab9768a1a0baf4399408bbe2f95d49066f6d6bf6b2bc53091d70b9ef43",
+      "sourceTextSha256": "b1d74dcab2f1513fe159019445079c3201617d2890e5a253ef6f83da8e0789aa",
+      "freshTranslation": "곰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00264/Sheet1/000004",
+      "sourceBindingSha256": "772c7f359020a95ae56d4c306fe109af46846b4d0ee6da3f728b6a357482f1cd",
+      "sourceTextSha256": "b1d74dcab2f1513fe159019445079c3201617d2890e5a253ef6f83da8e0789aa",
+      "freshTranslation": "곰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00264/Sheet1/000005",
+      "sourceBindingSha256": "f7db0e93d22b7f534814d3f2e7b7f08040591b0741835ae35e0352c4326af7da",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00264/Sheet1/000006",
+      "sourceBindingSha256": "59d365c04b139ba2bb1b05126a621e71781b0bb2660f4189853405604738fe50",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00264/Sheet1/000007",
+      "sourceBindingSha256": "f411671b7f1305fb847e7b2f7fbbb7ec8224e110901ba13c11816eec0fca1593",
+      "sourceTextSha256": "c8e5318b74208ee8db6926ed92ee4fc7e197f48c8c63491ebbc75410b00c9db9",
+      "freshTranslation": "지바 진보",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00264/Sheet1/000008",
+      "sourceBindingSha256": "cfad3fa6db7a2ecd6d33d719297a8daeed42f3c4f07269c16e010eb234c78b9f",
+      "sourceTextSha256": "9f89de3af027fffd188d2186162c9ea8df6437fa554c8b4297fb7394d4e77832",
+      "freshTranslation": "베헤모스 조종사. ㊥ 소년 소녀의 갱생 단체였던 A21의 멤버였지만 지도자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00264/Sheet1/000009",
+      "sourceBindingSha256": "9cc429373aec9e8f9c36414c4dfcefc73900de9341ffd2e22e41dabcd94d5fe1",
+      "sourceTextSha256": "f9ab2a440bd7492c482abf216d21fe49c1a68ea7c522a54aea48953439d28124",
+      "freshTranslation": "케치 세이지㊥가 불우의 죽음을 맞이한 것으로 가는 곳을 없애고, 그 대답으로서 도쿄에서 테러를 계획한다. ㊥A21의 지휘관인 누나의 세이나에게 명령되어 람다 드라이버 탑재의 초거대 AS, ㊥ 베헤모스를 조종한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00264/Sheet1/000010",
+      "sourceBindingSha256": "86bf1f8fe2e59c45c2d0278ecdebf026482046ad34d42363ebe803dd7a9a8495",
+      "sourceTextSha256": "9f89de3af027fffd188d2186162c9ea8df6437fa554c8b4297fb7394d4e77832",
+      "freshTranslation": "베헤모스 조종사. ㊥ 소년 소녀의 갱생 단체였던 A21의 멤버였지만 지도자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00264/Sheet1/000011",
+      "sourceBindingSha256": "1978e43b19d40e28377438feff6a3c9fb635826b960b7f5cba624238d86d3661",
+      "sourceTextSha256": "410338e056c681ddeb5c1714ff5d8b428b63d7f294a7f86286e458fe92c0c3c4",
+      "freshTranslation": "케치 세이지㊥가 불우의 죽음을 맞이한 것으로 가는 곳을 없애고, 그 대답으로서 도쿄에서 테러를 계획한다. ㊥A21의 지휘관 인 세이나를 언니와 존경하지만,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00264/Sheet1/000012",
+      "sourceBindingSha256": "6feed813be740948c208de9f032e4392bad562dd936cedc6a788f4d835358504",
+      "sourceTextSha256": "edf798964f67cb2c6a08fc0248bf64e8e5b938a73243fa8b77e30bac4b12a5a6",
+      "freshTranslation": "곰의 추억이며, 양자㊥에 피의 연결은 없다. 그래도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00264/Sheet1/000013",
+      "sourceBindingSha256": "875a4498c79cf3f099e3e50afeb78d4dc4b387e51c3865d74f7de76485fad9c2",
+      "sourceTextSha256": "ff26941c12d8fdf093465a7eced99fc7a948d271215b17f910cbbc13f9a49bfa",
+      "freshTranslation": "곰은 세이나에게 칭찬해 주려고 베헤모스 ㊥에 타고 싸웠다. ㊥마지막은 소스케의 아바레스트와 대결. 베헤모스의 람다 드라이버 냉장고를 쏘고 ㊥ 뽑아 패배하고 뭉치 동안 마음을 통과시킨 테사의 팔 속에서 숨을 끌었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

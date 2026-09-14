@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00047",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00047/Sheet1/000002",
+      "sourceBindingSha256": "9ee9df1aeaed7f10faf9216ff04a40ad5cacd4c33ca533c0b69755bf22aa902d",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00047/Sheet1/000003",
+      "sourceBindingSha256": "62c388078604a59802a12fb7bcbc3f44c18005c0d5f38f60f5fae1c9a9a4c85a",
+      "sourceTextSha256": "d21b1da16c1fe5a3f44f35b5c0805a6c47a7e0d8618dd1cf217da04de38e44a2",
+      "freshTranslation": "야크트 도가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00047/Sheet1/000004",
+      "sourceBindingSha256": "fab64ceb8418170e4f2d26a7f907f79a3c499ae28943071de77d2a087a47fb6b",
+      "sourceTextSha256": "d21b1da16c1fe5a3f44f35b5c0805a6c47a7e0d8618dd1cf217da04de38e44a2",
+      "freshTranslation": "야크트 도가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00047/Sheet1/000005",
+      "sourceBindingSha256": "baa308a99edbbe8b985433f4856c626b9b0f0ee0b531a9df5699402537e8c610",
+      "sourceTextSha256": "9a1dbf99ddd62c99a2647c45e3dda956fd3130c59a4260d96be16a7e898c2c72",
+      "freshTranslation": "규네이 가스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00047/Sheet1/000006",
+      "sourceBindingSha256": "dbc471569f949223ab8fbb2d32a489cda04c2380a5b926b9c994aa850b221a65",
+      "sourceTextSha256": "bc5764569dedd0a9b2d30ba6f998a89b4bd27439ef83dbe7f2f0b9d2162596f1",
+      "freshTranslation": "네오지온군의 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00047/Sheet1/000007",
+      "sourceBindingSha256": "563e7dd01afb9dddeb89f10945fb4b736b0d12a9af2e27dda8b89667567d7f8c",
+      "sourceTextSha256": "706826950f4df16c3069455fbf7112314b0cb39c46f9c730270262480eb7982f",
+      "freshTranslation": "입 전용 모빌 슈트. ㊥ 애너하임 일렉트로닉스사의 그라나다 공장에서 개발된다. 프로토타입기로서 2㊥기 제조되었으며, 그 중 푸른 기체가 규네이의 전용기가 되었다. ㊥ 사이코 프레임을 채용하여 조종의 추종성과 즉응성이 우수하다. ㊥ 빔 어설트 라이플, 빔 사벨, 실드에 내장된 4연장 메㊥가입자포 외에 6기의 깔때기를 장비하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00047/Sheet1/000008",
+      "sourceBindingSha256": "3caadd22d3ae994766ea9b784a718f80fa76194cafdbeaec079938a91d469cb2",
+      "sourceTextSha256": "bc5764569dedd0a9b2d30ba6f998a89b4bd27439ef83dbe7f2f0b9d2162596f1",
+      "freshTranslation": "네오지온군의 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00047/Sheet1/000009",
+      "sourceBindingSha256": "da865ac51ee32d35272e6702fae60d028b904c4a45d1875cc6650b281d403417",
+      "sourceTextSha256": "253d3cc33a543d93c6688f575f536d4111824dd2b63e55ec5c8db1885c292a6a",
+      "freshTranslation": "입 전용 모빌 슈트. ㊥ 애너하임 일렉트로닉스사의 그라나다 공장에서 개발된다. 프로토타입기로서 2㊥기 제조되었으며, 그 중 푸른 기체가 규네이의 전용기가 되었다. ㊥ 사이코 프레임을 채용하여 조종의 추종성과 즉응성이 우수하다. ㊥ 빔 어설트 라이플, 빔 사벨, 실드에 내장된 4연장 메㊥가입자포 외에 6기의 깔때기를 장비하고 있다. ㊥ 액시즈 공방전에서는 론도벨대가 발한 핵 미사일을 모두 쏘아내는 활약을 ㊥ 보여줬지만, ν건담에 격추됐다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00004",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00004/Sheet1/000002",
+      "sourceBindingSha256": "dbdae1d22fe8a4786cfdfb7df8ecbfd196d21e50dae12d3a523135792e805c4a",
+      "sourceTextSha256": "f7b77863aa14abdab5fe037c806412bbcffa2587af2162666633a03c6214d3f3",
+      "freshTranslation": "모래밭",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00004/Sheet1/000003",
+      "sourceBindingSha256": "2cbd80829ef7911fe8d580aff1af97c976a1e887934a195d1734daa0c3c6ca2f",
+      "sourceTextSha256": "77cf1f77b4137f61e98d60903ec20726a9871dc60f8bc3d15a397935febb3fae",
+      "freshTranslation": "郁絵",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00004/Sheet1/000004",
+      "sourceBindingSha256": "37d193fcc71c4a9686cbace57b6084899779805d668baef8974417c10a42ee23",
+      "sourceTextSha256": "77c406ff1c1b9634902fdd15ec771c2a07e20db9f0a6b53196dbf872ebd5aa4c",
+      "freshTranslation": "무적 로보 트라이더 G7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00004/Sheet1/000005",
+      "sourceBindingSha256": "ac6b3191b8821091f6014255af5d87695449b56deaf59e8a71db932df41b6f76",
+      "sourceTextSha256": "73d0c6e4e10c0b63cfdd168f7e3a3b4a4767aa62d28a8c232177df832ae5df29",
+      "freshTranslation": "반혜코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00004/Sheet1/000006",
+      "sourceBindingSha256": "23b4ad0e715a2de9bd9ca56e2f073cb2fc7e0a8354ec8568a4b31d6630e0ad1b",
+      "sourceTextSha256": "388feddfda63c685a21fae68d58c65e99a29898c30b846daf95f18f093bd8d1c",
+      "freshTranslation": "다케오 제너럴 컴퍼니의 사무 및 경리 담당. 19세. ㊥ 유일한 여성 사원이라는 것도 있고, 회사의 마스코트적인 존재. 미인으로 사토아키, 밝은 ㊥, 부드럽게, 요리 잘. ㊥경리의 일은 전무가 거의 혼자서 해내 버리기 때문에, 차차나 전화번등의 ㊥잡용이 주된 업무가 되고 있다. 하지만, 그 이외에도 트라이더 발진시의 발표, ㊥ 셔틀 내에서의 간식의 지도, 와타의 부모대신으로서 수업 참관에의 출석까지, 그 업㊥무의 폭은 매우 넓다. ㊥ 언제나 완벽하게 일을 해내는 그림이지만, 할아버지가 입원했다고 연락을 받았을 때에는 과연 ㊥에 실수가 눈에 띄었다. 고액의 입원비를 마련할 수 없어 마음을 아프고 있었지만, 동시에 모두에게 마음㊥배를 끼치지 않고 기장에 행동하는 걱정도 보이고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00004/Sheet1/000007",
+      "sourceBindingSha256": "a93e4ae41b20c4b7b4da85b09a4d27de0258689ef231e1cce99bd53fe5fed249",
+      "sourceTextSha256": "388feddfda63c685a21fae68d58c65e99a29898c30b846daf95f18f093bd8d1c",
+      "freshTranslation": "다케오 제너럴 컴퍼니의 사무 및 경리 담당. 19세. ㊥ 유일한 여성 사원이라는 것도 있고, 회사의 마스코트적인 존재. 미인으로 사토아키, 밝은 ㊥, 부드럽게, 요리 잘. ㊥경리의 일은 전무가 거의 혼자서 해내 버리기 때문에, 차차나 전화번등의 ㊥잡용이 주된 업무가 되고 있다. 하지만, 그 이외에도 트라이더 발진시의 발표, ㊥ 셔틀 내에서의 간식의 지도, 와타의 부모대신으로서 수업 참관에의 출석까지, 그 업㊥무의 폭은 매우 넓다. ㊥ 언제나 완벽하게 일을 해내는 그림이지만, 할아버지가 입원했다고 연락을 받았을 때에는 과연 ㊥에 실수가 눈에 띄었다. 고액의 입원비를 마련할 수 없어 마음을 아프고 있었지만, 동시에 모두에게 마음㊥배를 끼치지 않고 기장에 행동하는 걱정도 보이고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

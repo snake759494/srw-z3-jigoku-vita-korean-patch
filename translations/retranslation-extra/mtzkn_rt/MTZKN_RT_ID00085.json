@@ -1,0 +1,225 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00085",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000002",
+      "sourceBindingSha256": "ded13602984b8a6abc8a13da760ef3c6e65bb35c32c8eeafc1b429d6c77fab41",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000003",
+      "sourceBindingSha256": "75650ac08cea3552820c059f10466ec59aeeddcb428962f54f0105af51dd878f",
+      "sourceTextSha256": "80a7d0eeebfc2011fb27c10ab95e996384ca4f0129a73286077f946607a7a57b",
+      "freshTranslation": "로또",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000004",
+      "sourceBindingSha256": "fd6856a279220870a475044abcdec2cd30a559202206d5e0d72ca1665f4f32ee",
+      "sourceTextSha256": "80a7d0eeebfc2011fb27c10ab95e996384ca4f0129a73286077f946607a7a57b",
+      "freshTranslation": "로또",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000005",
+      "sourceBindingSha256": "8396e5c2290884c313061118b91371c191747844d6324d538f75b1303fba02e1",
+      "sourceTextSha256": "35dc721a12df9bb3f3505dd04930d7ae9796a19e5a3da52b7ba63f9e679f6334",
+      "freshTranslation": "지구 연방군의 특수 부대 「에코즈」가 사용하는 모빌 슈트. ㊥ 이 시대의 우주 세기에 등장하는 모빌 슈트는 꽤 작습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000006",
+      "sourceBindingSha256": "62a7ebeb3844ccf0714084140db0090589663c11aef7835dbfacf5e766c83998",
+      "sourceTextSha256": "370b981667467c61187113263334b9ab62d91121769b562c8f2fad0d2de4e4a6",
+      "freshTranslation": "그래서,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000007",
+      "sourceBindingSha256": "afc4d77930817185b86d959c99530244110aa2fd4168e3a0b37176508a71bfa5",
+      "sourceTextSha256": "44f60a98ddf0237d172bd74db940cdb7769921b90ce7996e3d2bc538e01b1fd0",
+      "freshTranslation": "nc 형태 ㊥에 대한 변형 기구를 가진다. ㊥ 네오지온 잔당 등에 의한 산발적인 테러 행위에 대응하기 위해 개발된 모비 ㊥ 루수트에서 시가전에서 부대원의 신속한 수송과 대인제압을 주안으로 하고 있다. ㊥ 또한 현지에서는 작전의 사령본부로도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000008",
+      "sourceBindingSha256": "2ea69b3e07dec3baaf4c0f0fbc1b1c1d287f159ae07115d026f279d554239440",
+      "sourceTextSha256": "5630fda839d5fe718a9aba7ebb64f1f793a61f868cc01c71b1d02ab52eb22390",
+      "freshTranslation": "사용하기 위해 각종 센서나 통신설비가 ㊥ 장비되어 있다. ㊥개발은 해군전략연구소(사나리)가 실시하고 있으며,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000009",
+      "sourceBindingSha256": "6cc8bf9568e22b04dc35b69ba6d44928981403f640722e0dcddce208ebacd7ae",
+      "sourceTextSha256": "c46eec97bf2ae1fab003f1bf24d5b5cba64b304351d777da27fcddc90e165223",
+      "freshTranslation": "데이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000010",
+      "sourceBindingSha256": "b583aad19bb5f12968df313c80120155b3885fcf7d4b920c77e995c76d5eaeea",
+      "sourceTextSha256": "824eed6ff885e6742bac56c455f4bda2cb665b076bccd5412003c42602391133",
+      "freshTranslation": "나중에 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000011",
+      "sourceBindingSha256": "d4b7c1793296680ea5cf4e52cf3acff1db0d91a82709ce4eece4c61d72684a80",
+      "sourceTextSha256": "1ec5f75f2fcde9ae28afa5186ae2aff1f37ff2801f9bc6082dbdf1b54867e1ca",
+      "freshTranslation": "모바일 ㊥ 정장 개발에도 영향",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000012",
+      "sourceBindingSha256": "080ab07241caac235af8b04ca59d4cfd16315b70f8151bd1ee7d01722e123558",
+      "sourceTextSha256": "86319c381aeb88a8132cda2f93785db57cb9f19b124842f7a7cb955e5fca4ca2",
+      "freshTranslation": "네.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000013",
+      "sourceBindingSha256": "eb91982f05e33464d4f2d12d21850df89880a4aa8d07a9fa840ec4be18877626",
+      "sourceTextSha256": "35dc721a12df9bb3f3505dd04930d7ae9796a19e5a3da52b7ba63f9e679f6334",
+      "freshTranslation": "지구 연방군의 특수 부대 「에코즈」가 사용하는 모빌 슈트. ㊥ 이 시대의 우주 세기에 등장하는 모빌 슈트는 꽤 작습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000014",
+      "sourceBindingSha256": "765a5f2e34e9b8a6fc6cf2fdfc04dcc0fb834b83270ddac23d032f4f5564086f",
+      "sourceTextSha256": "370b981667467c61187113263334b9ab62d91121769b562c8f2fad0d2de4e4a6",
+      "freshTranslation": "그래서,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000015",
+      "sourceBindingSha256": "dbde040736e266c0616ff36630bc1598fe626b818037647d75d931aa06732fba",
+      "sourceTextSha256": "44f60a98ddf0237d172bd74db940cdb7769921b90ce7996e3d2bc538e01b1fd0",
+      "freshTranslation": "nc 형태 ㊥에 대한 변형 기구를 가진다. ㊥ 네오지온 잔당 등에 의한 산발적인 테러 행위에 대응하기 위해 개발된 모비 ㊥ 루수트에서 시가전에서 부대원의 신속한 수송과 대인제압을 주안으로 하고 있다. ㊥ 또한 현지에서는 작전의 사령본부로도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000016",
+      "sourceBindingSha256": "77463a012bb40e0edb0479091c97bdbf48bb09f1807b8c90706478f6829b885c",
+      "sourceTextSha256": "5630fda839d5fe718a9aba7ebb64f1f793a61f868cc01c71b1d02ab52eb22390",
+      "freshTranslation": "사용하기 위해 각종 센서나 통신설비가 ㊥ 장비되어 있다. ㊥개발은 해군전략연구소(사나리)가 실시하고 있으며,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000017",
+      "sourceBindingSha256": "f6f66bfb290e74846f2a42c11c0d25271f6e1855bdf98bd29b2216e141e298a2",
+      "sourceTextSha256": "c46eec97bf2ae1fab003f1bf24d5b5cba64b304351d777da27fcddc90e165223",
+      "freshTranslation": "데이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000018",
+      "sourceBindingSha256": "8f305032b603717aecd6032a1e8e56cabb851b735fd6d0fa52fef0334547a207",
+      "sourceTextSha256": "824eed6ff885e6742bac56c455f4bda2cb665b076bccd5412003c42602391133",
+      "freshTranslation": "나중에 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000019",
+      "sourceBindingSha256": "2e2725b9e5f26495ca0d923c5d3767e8c1653c43ebce11e648709ca0ec104ab1",
+      "sourceTextSha256": "1ec5f75f2fcde9ae28afa5186ae2aff1f37ff2801f9bc6082dbdf1b54867e1ca",
+      "freshTranslation": "모바일 ㊥ 정장 개발에도 영향",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00085/Sheet1/000020",
+      "sourceBindingSha256": "f614303aaebbcb5d65fef25347206d1927e89160274f3f71d8066210899da852",
+      "sourceTextSha256": "86319c381aeb88a8132cda2f93785db57cb9f19b124842f7a7cb955e5fca4ca2",
+      "freshTranslation": "네.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

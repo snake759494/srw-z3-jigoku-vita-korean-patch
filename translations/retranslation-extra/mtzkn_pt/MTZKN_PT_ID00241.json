@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00241",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00241/Sheet1/000002",
+      "sourceBindingSha256": "a745f2ef94a6864a64d4f76635022b27ba630b1ca0750c954b3868385ac98e0b",
+      "sourceTextSha256": "e9b97adbb13dcc3ebdd98fd420b116f3094e5b8165353b94f66131ca3101deac",
+      "freshTranslation": "노먼버그",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00241/Sheet1/000003",
+      "sourceBindingSha256": "b24d2d6aa2ada7dd1953c944be9ca99bda0930a57feba6382e21166753dc1d58",
+      "sourceTextSha256": "7af5da031c5d413c30e28b7cd1763740e728cdb2c1d2b11cc2b94b847cbd4925",
+      "freshTranslation": "노먼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00241/Sheet1/000004",
+      "sourceBindingSha256": "c32b7611daa1dc4cab8a5f6d87702be2fa274a585b7ac4a536cb2ac2d1140287",
+      "sourceTextSha256": "fe82c905a6215168a90a9b27d7eb05a7c47166cb9ec609a131f0bd7583092bde",
+      "freshTranslation": "THE 빅오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00241/Sheet1/000005",
+      "sourceBindingSha256": "4c51fc4920921a945356878d2ed65ba703a52d228761212cab1d0a89a1516beb",
+      "sourceTextSha256": "2e3a8c7887b1379249339b1ee9c940c42de8f5f3fd5d11c498f23b200a9b0971",
+      "freshTranslation": "로저를 섬기는 집사. 54세. ㊥ 로저가 나중에 저택으로 썩은 은행을 방문하기 오래 전부터 빅오 정비의 메 ㊥ 몰리에 따라 주님이 나타나기를 기다리고 있었다. ㊥ 빅오의 정비뿐만 아니라, 로저의 애차 '그리폰'의 정비부터 저택의 ㊥ 가사 전반까지를 어렵게 해내는 다채로운 능력을 날마다 발휘하고 있다. 그 활약상에서, 로㊥쟈의 생활은 그의 덕분에 이루어져 있다고 해도 과언이 아니다. ㊥ 아무것도 움직이지 않는 철의 정신의 소유자로, 로저가 납치되었을 때조차 걱정은 ㊥도 어지럽히지 않고 냉정하게 대처했다. 또한 사이드카가있는 대형",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00241/Sheet1/000006",
+      "sourceBindingSha256": "6b79dc92456adf92ccf082ce4208b01e797cc8e2b81fd8e9a994ef3d2134e4e0",
+      "sourceTextSha256": "3de90891c17a560569adea639a73a1213edfba55b5ffe07727c34718c1e6552d",
+      "freshTranslation": "오토바이로 전장 ㊥을 달려나거나 적습 내 때 중화기를 다루거나 하는 등 강력한 곳도 보여줬다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00241/Sheet1/000007",
+      "sourceBindingSha256": "d26a9301836ff95f87181f1b9f63288619d5a4343e27d6c9a4bb4ea5b60ee0cb",
+      "sourceTextSha256": "2e3a8c7887b1379249339b1ee9c940c42de8f5f3fd5d11c498f23b200a9b0971",
+      "freshTranslation": "로저를 섬기는 집사. 54세. ㊥ 로저가 나중에 저택으로 썩은 은행을 방문하기 오래 전부터 빅오 정비의 메 ㊥ 몰리에 따라 주님이 나타나기를 기다리고 있었다. ㊥ 빅오의 정비뿐만 아니라, 로저의 애차 '그리폰'의 정비부터 저택의 ㊥ 가사 전반까지를 어렵게 해내는 다채로운 능력을 날마다 발휘하고 있다. 그 활약상에서, 로㊥쟈의 생활은 그의 덕분에 이루어져 있다고 해도 과언이 아니다. ㊥ 아무것도 움직이지 않는 철의 정신의 소유자로, 로저가 납치되었을 때조차 걱정은 ㊥도 어지럽히지 않고 냉정하게 대처했다. 또한 사이드카가있는 대형",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00241/Sheet1/000008",
+      "sourceBindingSha256": "00a3c059b5a85216456706e2aef73abeb5950b686bcf1d3e197be2dd3afff56c",
+      "sourceTextSha256": "467d21770ebb0aa2e67ba3a9fa847d315ef24b72b6de5c7a5d722f0f433b4f42",
+      "freshTranslation": "오토바이로 전장 ㊥을 달려나거나 적습 내 때 중화기를 다루거나 하는 등 강력한 곳도 보여줬다. ㊥ 덧붙여 빅오의 수리는 그 혼자서 실시하는 것이 아니라, 그와 같이 빅오의 정비㊥에 관한 메모리를 가지는 노인들에 의해 행해지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

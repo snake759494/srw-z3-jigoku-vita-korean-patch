@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00092",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00092/Sheet1/000002",
+      "sourceBindingSha256": "0f11168c516e9be5755e2903bfc41bf93feb7da7b39ac4ce491ebab452483699",
+      "sourceTextSha256": "711d47542aae1223e47ad98ce6c4197180fab937fb2b5257d186cc7fb4574837",
+      "freshTranslation": "루나마리아 호크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00092/Sheet1/000003",
+      "sourceBindingSha256": "c0d6e062040415b70ffe9760888a938802e3de5f5adbaa25a0968db5dec83256",
+      "sourceTextSha256": "49d7a749c7d9367cc6c79586eff87d9b11ea93fe7634fbd264c1488f064853aa",
+      "freshTranslation": "루나 마리아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00092/Sheet1/000004",
+      "sourceBindingSha256": "a099b602386b14914540c62d1fd18a36f0d6e94cfbb8c45cd271124167ac4447",
+      "sourceTextSha256": "15a2e664e80fef55f49873f69b656b86b230b630d2bdafde619513e324977069",
+      "freshTranslation": "기동전사 건담 SEEDDESTINY",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00092/Sheet1/000005",
+      "sourceBindingSha256": "166ccfd8b4e2637ea4147d7fe4e15bef29d0a23b11ead6edd34b0f61b58eb4fd",
+      "sourceTextSha256": "cf946cb7792fdcc6e0de316d3c5b0bc8a5440cfc1946fac6e957059204caeebc",
+      "freshTranslation": "자프트의 미네르바 소속의 모빌 슈트 파일럿. 17세. ㊥신, 레이와 함께 아카데미에서는 우수한 성적을 남기고, 적복이라고 불리는 엘리트㊥의 일원이 된다. 주로 퍼스널 칼라의 레드에 도장한 가나자쿠워리아에서 전투㊥했다. ㊥ 여동생의 메이린과 함께 전 대전의 영웅인 아스란에 관심을 갖고, 다양한 어플 ㊥치를 걸었다. 하지만 그 아스란은 듀란달에게 불신을 안고 군을 탈주, 메이린㊥도 행동을 함께했다고 들었던 것도 무리 사이에, 또 두 사람이 격추되었다고 알고 큰 충격㊥을 받는다. ㊥ 그 이후, 서로의 마음의 상처를 치유하도록 지지하고 있던 신과의 거리는 급속하게 줄어들고, ㊥가 연애로 발전한다. ㊥ 최종결전 때 무언가에 사로잡힌 것처럼 싸움을 계속하려고 하는 신을 제지하자㊥로 하지만, 반대로 공격을 받게 된다. 그래도 아슬란에게 패배한 신을 개포하는 ㊥ 헌신함을 보였다. ㊥ '파이널 플러스'에서의 종전 후의 한 막에서는, 신과 함께 오브 위령비를 방문해 ㊥한다. 거기서 키라나 아스란과 화해해 눈물을 흘리는 신을 바라보고, 함께 새로운 미래로 걸음㊥내어 나갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00092/Sheet1/000006",
+      "sourceBindingSha256": "c37e812353f9d33a21cad95ecf74824faf75ac2462013cf10795a7d67f68b215",
+      "sourceTextSha256": "cf946cb7792fdcc6e0de316d3c5b0bc8a5440cfc1946fac6e957059204caeebc",
+      "freshTranslation": "자프트의 미네르바 소속의 모빌 슈트 파일럿. 17세. ㊥신, 레이와 함께 아카데미에서는 우수한 성적을 남기고, 적복이라고 불리는 엘리트㊥의 일원이 된다. 주로 퍼스널 칼라의 레드에 도장한 가나자쿠워리아에서 전투㊥했다. ㊥ 여동생의 메이린과 함께 전 대전의 영웅인 아스란에 관심을 갖고, 다양한 어플 ㊥치를 걸었다. 하지만 그 아스란은 듀란달에게 불신을 안고 군을 탈주, 메이린㊥도 행동을 함께했다고 들었던 것도 무리 사이에, 또 두 사람이 격추되었다고 알고 큰 충격㊥을 받는다. ㊥ 그 이후, 서로의 마음의 상처를 치유하도록 지지하고 있던 신과의 거리는 급속하게 줄어들고, ㊥가 연애로 발전한다. ㊥ 최종결전 때 무언가에 사로잡힌 것처럼 싸움을 계속하려고 하는 신을 제지하자㊥로 하지만, 반대로 공격을 받게 된다. 그래도 아슬란에게 패배한 신을 개포하는 ㊥ 헌신함을 보였다. ㊥ '파이널 플러스'에서의 종전 후의 한 막에서는, 신과 함께 오브 위령비를 방문해 ㊥한다. 거기서 키라나 아스란과 화해해 눈물을 흘리는 신을 바라보고, 함께 새로운 미래로 걸음㊥내어 나갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

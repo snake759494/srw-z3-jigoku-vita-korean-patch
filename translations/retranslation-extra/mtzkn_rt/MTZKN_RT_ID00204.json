@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00204",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00204/Sheet1/000002",
+      "sourceBindingSha256": "e3cba3076460462cb11adc76132b9218d5264e87428c5dd0ddc144e0c940c443",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00204/Sheet1/000003",
+      "sourceBindingSha256": "26ef8a272ce21b73a4933dff5404fc9f02cea48cd971bbfcdac00ce71c99eeb9",
+      "sourceTextSha256": "610c506e1479a6785c5ee6038fff0b18163dbb1a120a1c76b53966af56a5a260",
+      "freshTranslation": "무간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00204/Sheet1/000004",
+      "sourceBindingSha256": "9acd2b07f8fd89714cf88318bc641144869037de5e6388266a8ff148a2b6c4ab",
+      "sourceTextSha256": "610c506e1479a6785c5ee6038fff0b18163dbb1a120a1c76b53966af56a5a260",
+      "freshTranslation": "무간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00204/Sheet1/000005",
+      "sourceBindingSha256": "3388920901c21a182b22ad127cabe6e248f2cf98bf3c15efc831cbc9ba8e391c",
+      "sourceTextSha256": "b0998abf8a0b3e2af47060a32bbda25049aafdd98c886d152cbdde30a78a0ee4",
+      "freshTranslation": "안티 스파이럴의 첨병이 되는 무기의 하급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00204/Sheet1/000006",
+      "sourceBindingSha256": "efc66f74685837309ce13d6f6c2643054f17ff640f7467c40f34626bbad39288",
+      "sourceTextSha256": "829850c4d70bac5a5b076fcc43cb3c80cf0fb655ad0da3d397311783e343a24f",
+      "freshTranslation": "입. ㊥ 분자 구조는 불안정하며, 파괴되면 블록 형태로 확산된 후 개별적으로 폭발한다. ㊥ 인류 섬멸 시스템이 발동함과 동시에 카미나 시티에 모습을 드러낸다. ㊥ 건멘과 달리 얼굴이 없었기 때문에 이후에는 무건(무안)이라 불리는 것으로 ㊥ 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00204/Sheet1/000007",
+      "sourceBindingSha256": "97a7b4f17cdc81aec6427289af247700f48ec2e53317dfc5148e1b97fff0ce1f",
+      "sourceTextSha256": "b0998abf8a0b3e2af47060a32bbda25049aafdd98c886d152cbdde30a78a0ee4",
+      "freshTranslation": "안티 스파이럴의 첨병이 되는 무기의 하급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00204/Sheet1/000008",
+      "sourceBindingSha256": "b563625f12eed758fc9e1d114c95b2368c517a5fc4fcc3b569710ad933054658",
+      "sourceTextSha256": "829850c4d70bac5a5b076fcc43cb3c80cf0fb655ad0da3d397311783e343a24f",
+      "freshTranslation": "입. ㊥ 분자 구조는 불안정하며, 파괴되면 블록 형태로 확산된 후 개별적으로 폭발한다. ㊥ 인류 섬멸 시스템이 발동함과 동시에 카미나 시티에 모습을 드러낸다. ㊥ 건멘과 달리 얼굴이 없었기 때문에 이후에는 무건(무안)이라 불리는 것으로 ㊥ 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

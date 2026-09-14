@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00073",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00073/Sheet1/000002",
+      "sourceBindingSha256": "f4633087dc910b3dd64f6eee045653f9020e63409c2fca9a1502a7e92feecfc1",
+      "sourceTextSha256": "bed74a61670a8f436c417dc98dcffaf1a2105126672ebc743e329bdecfca1b4e",
+      "freshTranslation": "아데나우어 파라야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00073/Sheet1/000003",
+      "sourceBindingSha256": "1694ea656a9061a1eda116a9843ba77cb2b20165c5ce9013f9179def692ee345",
+      "sourceTextSha256": "0ae77610fb8894e65a4624cb07d767b452e832dc833e7aefd6d250268111c015",
+      "freshTranslation": "아데나우어",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00073/Sheet1/000004",
+      "sourceBindingSha256": "2f783897dcd467b5ca4bf7e6c065fc60f93d2b955a90a8eddd366f16bf72b5cc",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00073/Sheet1/000005",
+      "sourceBindingSha256": "2661db73ed1bc1971dd58193eece92232b8071a39a00cf8d1f89cb26c640b4d6",
+      "sourceTextSha256": "aab1b75325efe648b99ee421552de34bc516ac109450676bc5391c3a53652212",
+      "freshTranslation": "지구 연방 정부의 참모 차관. ㊥ 정치인으로서의 입장에서 셔틀 티켓을 얻는 등 자신의 특권을 주저 ㊥없이 행사하는 이기적인",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00073/Sheet1/000006",
+      "sourceBindingSha256": "083e73bdc8ba7170261d01a866fe4741449c15dbace6ec2e8217f3ef4ea8b6e0",
+      "sourceTextSha256": "3d35aa8e8ee71524490e4b6b25818b601c2829e6d34cc1097d3c38759e077ccc",
+      "freshTranslation": "입. 또 남은 티켓 1장을 빌린 지인의 ㊥ 소개장을 가지고 있던 미라이에게 양보하는 등 정치적인 타카카도도 있다. ㊥ 퀘스의 아버지이지만, 딸과의 사이는 잘 되지 않았다. 또 퀘스와 애인의 캐서리㊥은 대립하고 있어 사생활은 원만한 것은 아니다. ㊥ 네오지온과의 평화협상이라는 특명을 띠고 샤아와 회담한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00073/Sheet1/000007",
+      "sourceBindingSha256": "d6d560d088b01e46e895c8ef80ae6a889e322f7626a6921e423c2c7c24f80ea1",
+      "sourceTextSha256": "aab1b75325efe648b99ee421552de34bc516ac109450676bc5391c3a53652212",
+      "freshTranslation": "지구 연방 정부의 참모 차관. ㊥ 정치인으로서의 입장에서 셔틀 티켓을 얻는 등 자신의 특권을 주저 ㊥없이 행사하는 이기적인",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00073/Sheet1/000008",
+      "sourceBindingSha256": "c9f8ada86d1eb90f46beaf13a88cdda35a9ec58ace6615f12062e8823674fb9d",
+      "sourceTextSha256": "190c497cf541fd39e47de48bf11f4071c025f9975b6a274c49aa9937445b06cd",
+      "freshTranslation": "입. 또 남은 티켓 1장을 빌린 지인의 ㊥ 소개장을 가지고 있던 미라이에게 양보하는 등 정치적인 타카카도도 있다. ㊥ 퀘스의 아버지이지만, 딸과의 사이는 잘 되지 않았다. 또 퀘스와 애인의 캐서리㊥은 대립하고 있어 사생활은 원만한 것은 아니다. ㊥ 네오지온과의 평화협상이라는 특명을 띠고 샤아와 회담한다. 협상은 성공했고 ㊥ 처럼 보였지만 샤아의 함정이었다. 게다가 네오지온에 의한 루나투 ㊥ 기습시, 퀘스의 조종하는 야크트 도가의 공격을 받아 목숨을 잃는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

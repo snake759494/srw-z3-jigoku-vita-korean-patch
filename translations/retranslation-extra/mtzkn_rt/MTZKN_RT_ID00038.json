@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00038",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00038/Sheet1/000002",
+      "sourceBindingSha256": "c2aa4172aa99ef4becee20cf728182a39835777c97f8159b48878e386a9a3beb",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00038/Sheet1/000003",
+      "sourceBindingSha256": "91b6c92c0891166b5eb3660ea5362966b4e80b7401b5c83e0ed0e5694257e776",
+      "sourceTextSha256": "8f0540943aea0ad193e26c37fffba57d8f9a1dd853ea6413ff005170439294ae",
+      "freshTranslation": "큐베레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00038/Sheet1/000004",
+      "sourceBindingSha256": "cad56c04d79fce39916f535881a4555818d90ce870f966d1c9bd187a91d37389",
+      "sourceTextSha256": "8f0540943aea0ad193e26c37fffba57d8f9a1dd853ea6413ff005170439294ae",
+      "freshTranslation": "큐베레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00038/Sheet1/000005",
+      "sourceBindingSha256": "c7fc5e69db2bc8140ebd585ba2bd1edc773d3cc88f7d224eecda9cf035ea42eb",
+      "sourceTextSha256": "b99e78ad57a3f7955c35b6dc7afe4ed2e3c8163176bd04ff52f9dffe6b130648",
+      "freshTranslation": "하만 칸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00038/Sheet1/000006",
+      "sourceBindingSha256": "2594149549aa7a6b29583a3bc82776b466c05cf6b72349e2954fcbb39e064259",
+      "sourceTextSha256": "dc42eb4a03beb047af78c0aade594060e2ff35bad6ed6fc33444695300ff089c",
+      "freshTranslation": "액시즈가 개발한 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00038/Sheet1/000007",
+      "sourceBindingSha256": "55162d5c01cc063b8d7fcb63e0a75d6d20ff0ca46b8fff2072664c653e1d6ecb",
+      "sourceTextSha256": "1633c1e098b3da8ced98e8ef6a913f424560bb5903a9674c88f4baa8995770da",
+      "freshTranslation": "입 전용 모빌 슈트. ㊥ 구 지온 공국군의 모빌 아머, 에르메스의 모빌 슈트화라는 설계 사상으로 열려㊥발발되었다. 원격 공격 단말인 비트를 발전시킨 깔때기를 장비하고 있다. ㊥ 또한 사이코뮤는 깔때기의 컨트롤뿐만 아니라 기체 자체의 제어에 ㊥도 사용되어 높은 추종성을 실현하고 있다. ㊥ 다른 무장으로 빔 사벨 겸용 빔 건이 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00038/Sheet1/000008",
+      "sourceBindingSha256": "b80b17b70bd485e4b5b481e3d585404b331a4f6c431a78b3134557f910a3495a",
+      "sourceTextSha256": "dc42eb4a03beb047af78c0aade594060e2ff35bad6ed6fc33444695300ff089c",
+      "freshTranslation": "액시즈가 개발한 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00038/Sheet1/000009",
+      "sourceBindingSha256": "bbcb37243d8685a68dbc4378474e87f0ed2b4352334093c95caade84f48dc5b6",
+      "sourceTextSha256": "1633c1e098b3da8ced98e8ef6a913f424560bb5903a9674c88f4baa8995770da",
+      "freshTranslation": "입 전용 모빌 슈트. ㊥ 구 지온 공국군의 모빌 아머, 에르메스의 모빌 슈트화라는 설계 사상으로 열려㊥발발되었다. 원격 공격 단말인 비트를 발전시킨 깔때기를 장비하고 있다. ㊥ 또한 사이코뮤는 깔때기의 컨트롤뿐만 아니라 기체 자체의 제어에 ㊥도 사용되어 높은 추종성을 실현하고 있다. ㊥ 다른 무장으로 빔 사벨 겸용 빔 건이 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

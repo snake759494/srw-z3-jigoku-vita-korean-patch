@@ -1,0 +1,203 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00055",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000002",
+      "sourceBindingSha256": "d2139deec91858cc9e7eccc8cb9578fe98a123538f481202ae8f1915f332d0f5",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000003",
+      "sourceBindingSha256": "0600dacc864050b1656b56348eb5e76e90238e79e6d2e8ef239c86119bd108c2",
+      "sourceTextSha256": "0abf822fcda5d7ef9c9ccd4fc797fbcbd742a8ff5af0e124ba369917db71c0ae",
+      "freshTranslation": "윙 건담 제로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000004",
+      "sourceBindingSha256": "51fa7fa682f91c791a018692e779bb6a75f966ba10874439a199663dda43a5e0",
+      "sourceTextSha256": "0abf822fcda5d7ef9c9ccd4fc797fbcbd742a8ff5af0e124ba369917db71c0ae",
+      "freshTranslation": "윙 건담 제로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000005",
+      "sourceBindingSha256": "9bf3658042c693fef7880f6a8e3751ff0cb557b49fa592c14992b0e81fa4d745",
+      "sourceTextSha256": "183021387ba79f8a553790374e411bef154fef2b89b176395e32ccbae756ce66",
+      "freshTranslation": "히이로 유이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000006",
+      "sourceBindingSha256": "b3d1eee589962e14b95628b955107232af0562ba568cbc40b40a833424052200",
+      "sourceTextSha256": "723b852e228c07b35def3d6d04b2127f5daea0dbf74967faea45ba475df52f9e",
+      "freshTranslation": "히이로 유이가 탑승하는 건담. ㊥ 등에 설치된 새 날개 같은 날개가 특징. 윙 바인더라고 불리는 이 ㊥ 날개 모양의 파트는 파격의 기동력과",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000007",
+      "sourceBindingSha256": "5ff705e01e158a0c1747e3cd84efec753d3033c98ab16da1388911e9288c90c4",
+      "sourceTextSha256": "ea32e49a7916c17a89d52a584182f0e0e9524e285b983678d39784aea57e7697",
+      "freshTranslation": "동성능을 낳고 있다. 또한 대기권 돌입시 ㊥의 내열 실드, 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000008",
+      "sourceBindingSha256": "172522b025016c220863f63b318ece272dc2f1b4e2907c65aa2fd604969ccee8",
+      "sourceTextSha256": "ff5a812db1db47be899ccfa3b527bacc71d9248cf9b47423618e2ebe3f03788f",
+      "freshTranslation": "- 소총 발사시 충격 완충재 등 많은 기능을 가지고 ㊥ 한다. ㊥ 본 기기는 단기로의 거점 제압을 주안으로 개발되고 있으며, 기동력에 더해 압도적인 ㊥ 공격력을 가지고 있다. 주요 무장 트윈 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000009",
+      "sourceBindingSha256": "c25ebcdc724fb85ae9d61b73fbbf71572d3684b9f48a36a07ca4ffd90491d774",
+      "sourceTextSha256": "864501c1148b3b278608b78fd225eed26b6c457fe449849f0627ec5f1f68422d",
+      "freshTranslation": "- 라이플은 3발밖에 발사할 수 없는 결 ㊥점은 있지만, 일격으로 콜로니를 파괴할 수 있을 정도의 위력을 가진다. 또한 높은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000010",
+      "sourceBindingSha256": "8aaf637b47c939f028ab03c2ac74199f7effedf865b2d4c59d907f5e0c738cb7",
+      "sourceTextSha256": "4e5dba83bb5125adb50f33d43686f322a73f580a7643f74a6fa4b86fe9a9bc54",
+      "freshTranslation": "동성에 의해,㊥빔사벨에 의한 격투전에서도 힘을 발휘한다. ㊥ 조종석에는 시스템이 승리하는 데 필요한 행동을 콘솔을 통해 파㊥ 일럿의 뇌에 전달하는 '제로 시스템'이 탑재되어 있다. 전투에서 매우 ㊥ 유용한 시스템이지만, 파일럿에 대한 정신 부하가 크고 폭주를 일으키는 일도 많이 ㊥ 있다. 그러나 히이로는, 전 대전 때, 이 시스템을 극복하고 있어, 완전하게 잘 다루어 ㊥하기에 이르렀다. ㊥전 이후는 태양에 투기될 것이었지만, 마리메이어군의 반란진압 때문에 다시 히㊥이로아래로 돌아왔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000011",
+      "sourceBindingSha256": "b014ae947e46ecfe6c5fac411d471a9f86e584d10f5af7df7a97fa97787342bd",
+      "sourceTextSha256": "723b852e228c07b35def3d6d04b2127f5daea0dbf74967faea45ba475df52f9e",
+      "freshTranslation": "히이로 유이가 탑승하는 건담. ㊥ 등에 설치된 새 날개 같은 날개가 특징. 윙 바인더라고 불리는 이 ㊥ 날개 모양의 파트는 파격의 기동력과",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000012",
+      "sourceBindingSha256": "fef54d81f723dde41149f4ca2653f9916549411b6ab9b6e277c0e3119940f391",
+      "sourceTextSha256": "ea32e49a7916c17a89d52a584182f0e0e9524e285b983678d39784aea57e7697",
+      "freshTranslation": "동성능을 낳고 있다. 또한 대기권 돌입시 ㊥의 내열 실드, 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000013",
+      "sourceBindingSha256": "edfd6370635f60745a03f2ed53f15f2a04c1f8c49eed97e7798101ef747cce3a",
+      "sourceTextSha256": "ff5a812db1db47be899ccfa3b527bacc71d9248cf9b47423618e2ebe3f03788f",
+      "freshTranslation": "- 소총 발사시 충격 완충재 등 많은 기능을 가지고 ㊥ 한다. ㊥ 본 기기는 단기로의 거점 제압을 주안으로 개발되고 있으며, 기동력에 더해 압도적인 ㊥ 공격력을 가지고 있다. 주요 무장 트윈 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000014",
+      "sourceBindingSha256": "fb643af4c8988e2c2939255cf4eb1189283f9499509ed6e49a1998ce18216007",
+      "sourceTextSha256": "864501c1148b3b278608b78fd225eed26b6c457fe449849f0627ec5f1f68422d",
+      "freshTranslation": "- 라이플은 3발밖에 발사할 수 없는 결 ㊥점은 있지만, 일격으로 콜로니를 파괴할 수 있을 정도의 위력을 가진다. 또한 높은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000015",
+      "sourceBindingSha256": "1a2c863ae6d9666985b2a8688cfe5ff799516df6dc91ebb321621aeffac9ad46",
+      "sourceTextSha256": "f3ab064e0bc63762215dc975dd8c85618a91001043897b30999ba1c2157049b2",
+      "freshTranslation": "동성에 의해,㊥빔사벨에 의한 격투전에서도 힘을 발휘한다. ㊥ 조종석에는 시스템이 승리하는 데 필요한 행동을 콘솔을 통해 파㊥ 일럿의 뇌에 전달하는 '제로 시스템'이 탑재되어 있다. 전투에서 매우 ㊥ 유용한 시스템이지만, 파일럿에 대한 정신 부하가 크고 폭주를 일으키는 일도 많이 ㊥ 있다. 그러나 히이로는, 전 대전 때, 이 시스템을 극복하고 있어, 완전하게 잘 다루어 ㊥하기에 이르렀다. ㊥전 이후는 태양에 투기될 것이었지만, 마리메이어군의 반란진압 때문에 다시 히㊥이로아래로 돌아와, 알트론 건담과 대기권 사이에서 전투를 벌였다. ㊥이어서 마리 메이어가 세우는 청와대의 핵 쉘",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000016",
+      "sourceBindingSha256": "bf891c1e6fb41c8206c3f20c567dffb2b6fd4d236ee92008a2a2f494660ff889",
+      "sourceTextSha256": "51f0e2b6a9381fe94028a7102cbbe61e482444afb0a165918e87a00daa27730c",
+      "freshTranslation": "를 파괴하기 위해 반괴 ㊥ 상태에서 트윈 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000017",
+      "sourceBindingSha256": "7351baf190e5e81e0eec1c6e383106f842d1ee770301f1c29c3a23ec2472df9c",
+      "sourceTextSha256": "56fa6007f17ebbb987d5d0f65d38214f0603da53dfcd31ed19829233adf5318f",
+      "freshTranslation": "- 소총을 연사. 쉘",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00055/Sheet1/000018",
+      "sourceBindingSha256": "42aa23e1f50b4b866b8d392e2bee3e436a6566f6b8d3bdc1b87c1412ddf745df",
+      "sourceTextSha256": "2c9f01d848c76d43f8931526aca4addac888b60ee9d70ed1e4b1707348d13100",
+      "freshTranslation": "-의 파괴에는 성공하지만, 자기 ㊥도 반동으로 대파해, 그 역할을 마쳤다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

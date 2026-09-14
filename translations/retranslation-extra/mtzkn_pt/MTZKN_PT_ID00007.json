@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00007",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00007/Sheet1/000002",
+      "sourceBindingSha256": "5e2f9b521068f9019af44b8cb068bc1894f33fb41bd3ddb1a8430dbc92545b49",
+      "sourceTextSha256": "792cc235043eabc23bc065ac1791699ad389a97299801c3d74ab04737d32da63",
+      "freshTranslation": "폭포 카오루",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00007/Sheet1/000003",
+      "sourceBindingSha256": "fdad0fd32f56ac50de13c1a8f32b30243e80ececfb8a568cabcc92c9e181402b",
+      "sourceTextSha256": "9c116bbc87b01477c007a9aaa821607e97065b60744e83aaad39b55ef32eeb0c",
+      "freshTranslation": "카오루",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00007/Sheet1/000004",
+      "sourceBindingSha256": "f0ef11d28529b4edb24a4a10eecbb7be691813603d43691f79655911eb7ac472",
+      "sourceTextSha256": "77c406ff1c1b9634902fdd15ec771c2a07e20db9f0a6b53196dbf872ebd5aa4c",
+      "freshTranslation": "무적 로보 트라이더 G7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00007/Sheet1/000005",
+      "sourceBindingSha256": "e7abf1410b16f32c3e7524872a9ab40274f86921e39f83fa0d39b67de2617e8b",
+      "sourceTextSha256": "bbb45147e0f31ceb055ace6adc73f359ae860ba13d13294c7924044682cc740e",
+      "freshTranslation": "와타의 급우에서 동경하는 마돈나. ㊥ 사랑스러운 얼굴에 더해 성적도 우수, 성격도 좋기 때문에 남녀 불문하고 인기가 높다. ㊥ 왓타의 라이벌인 켄이치도 뭔가에 붙여서는 그녀의 신경을 끌려고 약기가 되어 ㊥했지만, 당의 카오루는 누구라도 나누지 않고 접하고 있었다. ㊥ 그러나 로봇 제국과의 최종 결전에 승리한 와타에게는, 지금까지 없었던 호의를 ㊥ 보여주었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00007/Sheet1/000006",
+      "sourceBindingSha256": "db4178697ee54d66fd4f52f4183280bd55c7c0b25683163320788a1b494b0a07",
+      "sourceTextSha256": "bbb45147e0f31ceb055ace6adc73f359ae860ba13d13294c7924044682cc740e",
+      "freshTranslation": "와타의 급우에서 동경하는 마돈나. ㊥ 사랑스러운 얼굴에 더해 성적도 우수, 성격도 좋기 때문에 남녀 불문하고 인기가 높다. ㊥ 왓타의 라이벌인 켄이치도 뭔가에 붙여서는 그녀의 신경을 끌려고 약기가 되어 ㊥했지만, 당의 카오루는 누구라도 나누지 않고 접하고 있었다. ㊥ 그러나 로봇 제국과의 최종 결전에 승리한 와타에게는, 지금까지 없었던 호의를 ㊥ 보여주었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

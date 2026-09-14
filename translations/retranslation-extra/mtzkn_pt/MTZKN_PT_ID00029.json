@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00029",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00029/Sheet1/000002",
+      "sourceBindingSha256": "6b8d0b4a4be14081fb8bd23aec4e363459c35bfae5a91f3b1f6f4d258b64e604",
+      "sourceTextSha256": "c9f72b0c3241b31395bce16ee1b829e453cdd8fd4e9363e10d6d39f63160e16b",
+      "freshTranslation": "오오츠카 시게루",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00029/Sheet1/000003",
+      "sourceBindingSha256": "3b6e1291276eb8eb705c1b23008125c12efba1ffb5a61a3b319c475e671ccdab",
+      "sourceTextSha256": "4e8329f64c8c5e2ea25f912c5631a78b48d940dc630bf3c144dd86a90a31579c",
+      "freshTranslation": "오츠카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00029/Sheet1/000004",
+      "sourceBindingSha256": "ad4dfa365e80e774f2e7569dfbcf1b7a5781e7773ba0498a40e314539c4c87b3",
+      "sourceTextSha256": "2821f723e708a26125b2215f86a494a31e2eb1a3f45f2c6e857b2cc6d0a13f93",
+      "freshTranslation": "롯신 합체 갓 마즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00029/Sheet1/000005",
+      "sourceBindingSha256": "2de20584cab5a110edd4b992d488f2b3c6cf54abaf8b5b310f6a2049df48d0a3",
+      "sourceTextSha256": "42840a8ced98d318a8c008f728875e90a38cd35af8c32adee0f2bb45c9cbafe4",
+      "freshTranslation": "지구 방위군의 장관. 42세. ㊥ 우주로 진출한 인류를 지키고 우주에서의 사건을 신속하게 해결하기 위해 크러셔대 ㊥을 조직했다. ㊥ 평소에는 온후한 성격이지만, 전투의 지휘나 크러셔대에의 지시를 내릴 때에는 위엄을 ㊥ 느끼게 하는 관록을 가진다. ㊥메이진 박사는 옛날 친구이며,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00029/Sheet1/000006",
+      "sourceBindingSha256": "bc216006d7d998de4c5c3faee5e96331bc605dfd02ffc40602d04e4ccfec9d55",
+      "sourceTextSha256": "836e2cb61e2bc5c4421a5ed81a43747abb075f9007c1d35672ede60ccc63fda0",
+      "freshTranslation": "켈의 출생의 비밀을 알고 있던 몇 안되는 사람㊥물이기도 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00029/Sheet1/000007",
+      "sourceBindingSha256": "81a47dcb759f371d6160429c4b2bee2869481f735d4e1e7bbb3ce0794deb2ae3",
+      "sourceTextSha256": "42840a8ced98d318a8c008f728875e90a38cd35af8c32adee0f2bb45c9cbafe4",
+      "freshTranslation": "지구 방위군의 장관. 42세. ㊥ 우주로 진출한 인류를 지키고 우주에서의 사건을 신속하게 해결하기 위해 크러셔대 ㊥을 조직했다. ㊥ 평소에는 온후한 성격이지만, 전투의 지휘나 크러셔대에의 지시를 내릴 때에는 위엄을 ㊥ 느끼게 하는 관록을 가진다. ㊥메이진 박사는 옛날 친구이며,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00029/Sheet1/000008",
+      "sourceBindingSha256": "2072fc8a7aa5cc49438e19f55fef2d0053e1716265a4a71ea397c7e29359b19f",
+      "sourceTextSha256": "836e2cb61e2bc5c4421a5ed81a43747abb075f9007c1d35672ede60ccc63fda0",
+      "freshTranslation": "켈의 출생의 비밀을 알고 있던 몇 안되는 사람㊥물이기도 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

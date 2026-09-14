@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00242",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00242/Sheet1/000002",
+      "sourceBindingSha256": "c031c1ba6f0afd8a2cd318b9ca8887e4373b05e9f98d733d7167dcb56388a6bd",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00242/Sheet1/000003",
+      "sourceBindingSha256": "c303c158cb2fd6ad58f4a63682d0c49dfbe59bf7b657ef1abec19b0b03ee9cd2",
+      "sourceTextSha256": "5ece4e6b9d1251abafa32c48dcdf84e3bfc1e147ed181f5dc331682d8e836769",
+      "freshTranslation": "제니온",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00242/Sheet1/000004",
+      "sourceBindingSha256": "fd01bf84ad18be42f2a4c869fa10ae5c526d7d3d920ced5b2c0aabf5c9f95744",
+      "sourceTextSha256": "5ece4e6b9d1251abafa32c48dcdf84e3bfc1e147ed181f5dc331682d8e836769",
+      "freshTranslation": "제니온",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00242/Sheet1/000005",
+      "sourceBindingSha256": "bab5f56f78f611ac2e5d71beff4d568392da12e8b2dca11fdd0efdd4b8ad911c",
+      "sourceTextSha256": "1b9586a77c5d336862cbd5d1456b253773bef6782fe1bd4c6477c92632a9916c",
+      "freshTranslation": "DEM 코퍼레이션이 개발한 차원력 이용 기동병기 DEM(디멘션·㊥에너지·머신 나리) 시리즈의 프로토타입기.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00242/Sheet1/000006",
+      "sourceBindingSha256": "360949fe776b2ebe80f2033c2dc130e5481833187a47ee5815d98ca9f8f6ef37",
+      "sourceTextSha256": "3b8684d570cef52d995a9debf6f2142d60b9edb6d1e07f8e8e620b6c311f0d59",
+      "freshTranslation": "식 번호는 DEM-03. ㊥ 테스트 중에 차원 떨림에 휘말려 DEM Corporation의 에이전트 로봇에서 ㊥하는 AG와 함께 지구로 내려왔다. ㊥차원력 이용의 제1단계인 동력원으로서의 사용을 주안으로 개발되고 있어 환경을 ㊥ 불문하고, 항상 최대의 퍼포먼스를 발휘할 수 있는 궁극의 범용기를 목표로 하고 있다. ㊥ 전술 시스템 · 차세대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00242/Sheet1/000007",
+      "sourceBindingSha256": "4143933110ba81d973285bdf12be8c42ee7d7f0aac6d60db08a4e518042d4110",
+      "sourceTextSha256": "a128c72a0509f45397efb6b29fed260cf7ea8b5e31b2146ed91615eddafc028b",
+      "freshTranslation": "차원력 제어기구 「TS-DEMON」을 탑재해, 모든 ㊥ 전투 레인지에 적응하는 다양한 무장과 차원 단층을 이용한 방어 기구 「D·폴트」를 ㊥ 장비해, 공방의 균형 잡힌 기체로 완성되고 있다. ㊥ 현재 AG 감독하에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00242/Sheet1/000008",
+      "sourceBindingSha256": "9f82b8242b5e523cca66d0c27828c95b5e197912b687db7dc12767287ac7fb92",
+      "sourceTextSha256": "21042bbaa8cddb643c587fbbc0eb24150746b371e05262be330dc60ed629bf93",
+      "freshTranslation": "수집을 겸해 실전에 참가하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00242/Sheet1/000009",
+      "sourceBindingSha256": "d1876ca9c65187ba6922618919b33178b2ad8bfe97cbbcc06ebd33a51f92a382",
+      "sourceTextSha256": "1b9586a77c5d336862cbd5d1456b253773bef6782fe1bd4c6477c92632a9916c",
+      "freshTranslation": "DEM 코퍼레이션이 개발한 차원력 이용 기동병기 DEM(디멘션·㊥에너지·머신 나리) 시리즈의 프로토타입기.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00242/Sheet1/000010",
+      "sourceBindingSha256": "baaab2c0de32e6d50564df0e32fed6050103b469a68b6fa6d96064eb9fc92d51",
+      "sourceTextSha256": "cb7f9387aedc449ef0df304cc7e2d816862c995c29d12f834f6b35aa0d546dac",
+      "freshTranslation": "식 번호는 DEM-03. ㊥ 테스트 중에 차원 떨림에 휘말려 DEM Corporation의 에이전트 로봇에서 ㊥하는 AG와 함께 지구로 내려왔다. ㊥ 처음에는 1 인승이었지만 네비게이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00242/Sheet1/000011",
+      "sourceBindingSha256": "ffb59a525793e01417e7c8c7477df932f6f3c1cfa800426ad76287bab766f058",
+      "sourceTextSha256": "ff907f21bbf0daaa551dfeddba2e1d171f94278586291cb09beaf48f100a2f03",
+      "freshTranslation": "-용 시트가 설치되어, 2인승으로 ㊥개장되었다. ㊥차원력 이용의 제1단계인 동력원으로서의 사용을 주안으로 개발되고 있어 환경을 ㊥ 불문하고, 항상 최대의 퍼포먼스를 발휘할 수 있는 궁극의 범용기를 목표로 하고 있다. ㊥ 전술 시스템 · 차세대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00242/Sheet1/000012",
+      "sourceBindingSha256": "25b5718801d00fdc04f141cdb66b4c77c899c4acfbbdfb40d489e26771f26645",
+      "sourceTextSha256": "64b986ed2fdd931058e0a704e1935cef78e091b90e146c2e81550913d18a6a01",
+      "freshTranslation": "차원력 제어기구 「TS-DEMON」을 탑재해, 모든 ㊥ 전투 레인지에 적응하는 다양한 무장과 차원 단층을 이용한 방어 기구 「D·폴트」를 ㊥ 장비해, 공방의 균형 잡힌 기체로 완성되고 있다. ㊥ 탑승자의 정신상태를 반영하고, 강공형태인 「GAI 모드」로의 변형 기구를 가진다 ㊥ 한다. 이 기능은 AG에도 알려지지 않았지만 싸움의 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00242/Sheet1/000013",
+      "sourceBindingSha256": "72ada5597eb2232931cd7dbf437c43e9d0ed4bee025649a2547230fb56923a21",
+      "sourceTextSha256": "2a05e7b8ee83702b893d85f31fdcec3a4bc314f4009c60ef46907426f87037d8",
+      "freshTranslation": "가 모인 일 ㊥에서 서서히 발동 조건 등이 해명되어 갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

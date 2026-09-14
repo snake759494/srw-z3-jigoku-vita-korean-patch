@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00328",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00328/Sheet1/000002",
+      "sourceBindingSha256": "fdc78bd369a5a4221d12853aa3b1f3854d904ed9ed1b71da755e473116d3b8f8",
+      "sourceTextSha256": "e2fa87724f8347b75671c753dfce8cd3f5e977ba799e39c1f4cab667a517522a",
+      "freshTranslation": "안네 리트너",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00328/Sheet1/000003",
+      "sourceBindingSha256": "4469f780cbf24ed4ccd65d90540bd139f3b0660a2cc1c93e01ce5a98b68f63c7",
+      "sourceTextSha256": "f57ff914280f40e10cfd4fbe7692b613d11be17f3da3491208a0e18692087a80",
+      "freshTranslation": "안네",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00328/Sheet1/000004",
+      "sourceBindingSha256": "7f5e2c2ff6f7d8f9d62b19dacec0a0d369a780f9d10d719eaa345af864f7b03f",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00328/Sheet1/000005",
+      "sourceBindingSha256": "76dfc91f99ec28fb114a703dc5a82e9ac9c67c2e40ebb8c277adaf70873a3735",
+      "sourceTextSha256": "699f25df9c36f4a0d5aaed39c0986548c9b9a5b6116b8ad6d26fa1adfc9865e6",
+      "freshTranslation": "다야카와 키요의 딸. ㊥ 두 사람의 첫 아이로 삶을 받았는데, 그에 따라 인류의 총 인구가 100만명에 달했고 ㊥이기 때문에 아이러니하게도 그녀의 탄생이 인류 섬멸 시스템을 발동시키는 계기가 되어 버려 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00328/Sheet1/000006",
+      "sourceBindingSha256": "d79098f6821b87202df3421c7d85640ccac4738c26158b161f90ba2938ab1586",
+      "sourceTextSha256": "699f25df9c36f4a0d5aaed39c0986548c9b9a5b6116b8ad6d26fa1adfc9865e6",
+      "freshTranslation": "다야카와 키요의 딸. ㊥ 두 사람의 첫 아이로 삶을 받았는데, 그에 따라 인류의 총 인구가 100만명에 달했고 ㊥이기 때문에 아이러니하게도 그녀의 탄생이 인류 섬멸 시스템을 발동시키는 계기가 되어 버려 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00204",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00204/Sheet1/000002",
+      "sourceBindingSha256": "1eae7fc1723fd41c0071ea70322ed6a663410a0bac4f657eabf2a98f814f2b7c",
+      "sourceTextSha256": "0b7fc6a4043e28a071e739354a35c96055bc24e0cd02f53d3b7b327f27da5bb7",
+      "freshTranslation": "세와시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00204/Sheet1/000003",
+      "sourceBindingSha256": "98528c7cdcddd88e38c4e93856153d2d5f7ce3b3dc4760d6478ae84839471cc9",
+      "sourceTextSha256": "0b7fc6a4043e28a071e739354a35c96055bc24e0cd02f53d3b7b327f27da5bb7",
+      "freshTranslation": "세와시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00204/Sheet1/000004",
+      "sourceBindingSha256": "e36c06f501e7c75fb60d3ce33521c219f46fc7c77c2ab63299affa9a8823bea0",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00204/Sheet1/000005",
+      "sourceBindingSha256": "2b5a2599b70889312f29ef6f898f266d98e0b9ffb7d82694a571a30d1e0f0c56",
+      "sourceTextSha256": "10532cff7190ae808c88fb6fd56028da9007770f75fbefbda8ddbde1ae0fae74",
+      "freshTranslation": "광자력 연구소의 세 박사 중 한 명으로 로봇 공학의 권위. ㊥의 몰래, 모리모리와 공동으로 제트 스크랜더를 쌓아 올렸다. ㊥ 세 박사는 모두 상당한 호색으로 구로가네야의 키쿠노스케를 아이돌시하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00204/Sheet1/000006",
+      "sourceBindingSha256": "455fe38079835f079564d0e296fcbd2a3ad231c6973b45502bbd13972136ad2f",
+      "sourceTextSha256": "10532cff7190ae808c88fb6fd56028da9007770f75fbefbda8ddbde1ae0fae74",
+      "freshTranslation": "광자력 연구소의 세 박사 중 한 명으로 로봇 공학의 권위. ㊥의 몰래, 모리모리와 공동으로 제트 스크랜더를 쌓아 올렸다. ㊥ 세 박사는 모두 상당한 호색으로 구로가네야의 키쿠노스케를 아이돌시하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "stage",
+  "assetKey": "STG0222-9화후B분기",
+  "baseline": {
+    "sha256": "7a7bd4a37228b384a5d8ed7225ccdcb378bbe38cb6196c8057cc439730cbe1cf",
+    "rowCount": 175210
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000002",
+      "sourceBindingSha256": "2670485864e47ff3dc37cdc0dcfe303154e341ca162ca3647f33df96fc6da9ec",
+      "sourceTextSha256": "e5e40bfe29836fbe855f98f588e6a5b447cb9a8c2e0cc3356fea11bc38876970",
+      "freshTranslation": "$n",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000003",
+      "sourceBindingSha256": "cb3606927b9c1a7c560934beb06814da096c6ed45f13790c975037b4ebb223b4",
+      "sourceTextSha256": "4be66cf94e7033822cdfc8a62cfb6122805b339fe22766c4e71d115cc89cb60f",
+      "freshTranslation": "………",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000006",
+      "sourceBindingSha256": "88a399c95ef2d12e68de05571df16f45d055d4c2154e12b482d40504c5ea9eb5",
+      "sourceTextSha256": "f8f79cfefa9e11706140035c0318ca52eac153121c751dc58da2ded78d29a199",
+      "freshTranslation": "~D 트레이더~",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000007",
+      "sourceBindingSha256": "02d1ccc79ad8db9737992ce99dd4fc061c62e001b6fa4f9eb78bb26db3d10d04",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000008",
+      "sourceBindingSha256": "1385e31e86683ea5ddd28d3506486160e03650b50942fe2bc4a76f3cc4104f66",
+      "sourceTextSha256": "6cfd263a2e2c4e314e116bc7ef0cfe405416fb1595f42fa4a77c043aa10525b2",
+      "freshTranslation": "들었어요, $n 씨.",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000009",
+      "sourceBindingSha256": "9e207f55b431fc8881dbf59f34f8d440bfc3c9439e35b40e426bc989fd3354a2",
+      "sourceTextSha256": "f1a93eb85b065fc85e3ff073643bbb7f268feb56ef8c05f0dce2ddb33230dfb3",
+      "freshTranslation": "일본에 남으신다면서요",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000010",
+      "sourceBindingSha256": "692582c38bb01f090c8e295a4d33da86199f3e7846da6c3c91ce6fe575720256",
+      "sourceTextSha256": "e5e40bfe29836fbe855f98f588e6a5b447cb9a8c2e0cc3356fea11bc38876970",
+      "freshTranslation": "$n",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000011",
+      "sourceBindingSha256": "9cd607702045fbeb1649a072de2a925d5967f8970b0e8c0ecfb774b752b611b5",
+      "sourceTextSha256": "83017950e58bfb6f2a36486c275421b8120cead0ea0665068262cf6d33a9a3b0",
+      "freshTranslation": "아아…",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000012",
+      "sourceBindingSha256": "81adfb33da69ed42cfa4461b652b4936fc6447b1fcf0b8acf72c9a09b69957d7",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000013",
+      "sourceBindingSha256": "01865a172548bcc2e2b41c35601d762217b0b2d71160b70cf0d2a9caac034161",
+      "sourceTextSha256": "b23256e44db7f8575fdbc2488bb250e5912a06ded8c62ff063ce829d86f751d5",
+      "freshTranslation": "하지만 쿼터도 네엘 아가마도",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000014",
+      "sourceBindingSha256": "3d5535a86f2db5a15a1e447da864de9764fe68f5c80e14d027ded2fa4bd2c29b",
+      "sourceTextSha256": "38c688d9b3989805823c8039f5007d1cf6a06ee24eb291bedf5a785e47ebf7ae",
+      "freshTranslation": "따로 움직이면 저희는 모함이 없네요",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000015",
+      "sourceBindingSha256": "10e1f8ecce2c094a3dfa5fc2d3b2f387742d798f210cac81c1a5529a9fdbda50",
+      "sourceTextSha256": "e5e40bfe29836fbe855f98f588e6a5b447cb9a8c2e0cc3356fea11bc38876970",
+      "freshTranslation": "$n",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000016",
+      "sourceBindingSha256": "7f70a52ef5bbda7c6d7b134da778ff6b44281395c9328e34b0004129342abe02",
+      "sourceTextSha256": "3e7aa29e7c31795811b5469d94923c2fc4d8b3e0436ef95d09c869f729975100",
+      "freshTranslation": "이즈의 크래셔대 기지에서",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000017",
+      "sourceBindingSha256": "ea75a40c5d8f524543aa84a3fbc4867d3fd400ef2b1cdd49b8105ffad0063ae9",
+      "sourceTextSha256": "13ccaa0faa9601ecd3dbebcfb11abb106e783ffee552662a8f251811ae596837",
+      "freshTranslation": "직접 출동하게 되겠지",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000018",
+      "sourceBindingSha256": "6dff5bc3de3397162774b53a6681b93a9a9910015ce8ada35b5e4b06397ac6ab",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000019",
+      "sourceBindingSha256": "6e1b21fa6bfa0f0f436a70b1a242b133425ed5676962e71fc6fed316bdc2d114",
+      "sourceTextSha256": "d81a4130687379bd757666894c7a2a59c43fb7b1eef585eb256fb7608ab9eb11",
+      "freshTranslation": "그럼 저는… 이즈에서 집 보기인가요?",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000020",
+      "sourceBindingSha256": "9df1b4ef4b45d7e333bbd812dc27881e336bc4d2e0abe97c5f7bb89bd0ac33ee",
+      "sourceTextSha256": "d0cd91c411cd71d3be36453c58aba1b84f06bc267a17578c17581278303b6b9e",
+      "freshTranslation": "쓸쓸하네요…",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000021",
+      "sourceBindingSha256": "34cdc39129f5870b1f278091c6bf701136796656d1bbe39216bcf8534c2ab94f",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000022",
+      "sourceBindingSha256": "628f940daaa8a7ab2929bd89aed0eef0885786466dacea130a41c09adb1fb1b7",
+      "sourceTextSha256": "e3334a339ac0eb3636786ae4f3f7b24d43bc93c1e971f5cbce820bfdc8274c7f",
+      "freshTranslation": "아… 뭣하면 제니온에 시트를 증설해서,",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000023",
+      "sourceBindingSha256": "b417d0f74820c857cc84fcfce1112443870a619bfe4512ea16737b5dc0da955d",
+      "sourceTextSha256": "0481e578fe288a28455b552094b2a09022473ed1ffc216ee516279f8ed0fc74b",
+      "freshTranslation": "저도 현장에 갈까요?",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000024",
+      "sourceBindingSha256": "8bbe6ff5e87633c80df62a82151d9c3949b31bda5a7a6cd7abac3d6cc6d590c2",
+      "sourceTextSha256": "e5e40bfe29836fbe855f98f588e6a5b447cb9a8c2e0cc3356fea11bc38876970",
+      "freshTranslation": "$n",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000025",
+      "sourceBindingSha256": "13d51a2851b25d66af5799d7e92b4adb0868664ab335a740df995f3b023be9df",
+      "sourceTextSha256": "bbd0cdab5238c9b19f5682e1dbb9f4064ba56d5cf62fb97b6268b53b5268480f",
+      "freshTranslation": "쓸데없는 짓 하지 마라",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000026",
+      "sourceBindingSha256": "76933c7850549057415f5af7858dfd9fe59776ba3a4a6cf95a74868df075ba37",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000027",
+      "sourceBindingSha256": "8d8538b232934bfa5449d5c47d00074f4a262e3dd166a2cdd9c6aef65e134d34",
+      "sourceTextSha256": "15cbd8a2b3a63d0ac7422b257d9e8913cffaa851ef31a03747b3ff36ebe7e9bf",
+      "freshTranslation": "하지만…",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000028",
+      "sourceBindingSha256": "013cd198b30e78a28f7815b9344d23d9e3f357957b536ed3bdfee1a27716ecac",
+      "sourceTextSha256": "e5e40bfe29836fbe855f98f588e6a5b447cb9a8c2e0cc3356fea11bc38876970",
+      "freshTranslation": "$n",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000029",
+      "sourceBindingSha256": "02d51461f00a00c04d4f3c222ff0f9093300cd59a0247c9af5d16d584eeef9e6",
+      "sourceTextSha256": "ca973fa17053a7359ef033ef100031cb2c82ae3c6716c96b410c6190f0c5fb27",
+      "freshTranslation": "한 번 더 말한다….",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000030",
+      "sourceBindingSha256": "c628339a38613ea0e3ad0ac70ac8f9f703d86f58b5c7388c234d6e2f678b1af0",
+      "sourceTextSha256": "bbd0cdab5238c9b19f5682e1dbb9f4064ba56d5cf62fb97b6268b53b5268480f",
+      "freshTranslation": "쓸데없는 짓 하지 마라",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000031",
+      "sourceBindingSha256": "dd3227a3923a33af71de02899fc9be6e4a4a4372ba2ffecffefd3e6d760e550a",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000032",
+      "sourceBindingSha256": "f0fe76aa4564eb4c761ce5b9c0262aeaf3936dc0cee9d6b75be8bb8d96845161",
+      "sourceTextSha256": "d2c92d9ca30c6a69848c55d68a784a8d23692962f3ba71be57652c93c80f4fbc",
+      "freshTranslation": "그렇게 스즈네 선생님과 단둘만의 공간을",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000033",
+      "sourceBindingSha256": "c51c2f3bd0d2d36cc0227a03f3da43546abb12dcc02c90479813e88978a86569",
+      "sourceTextSha256": "efaa2d71a3cc2897a7ee4a0fae9d300627563128057dd2c189a06ce4956f4e76",
+      "freshTranslation": "방해받는 게 싫으신가요?",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000034",
+      "sourceBindingSha256": "4cadd85e6378e80f9a163d4a7dffb25731b2eab555c50980a9dbbd9fe3d4c5ef",
+      "sourceTextSha256": "e5e40bfe29836fbe855f98f588e6a5b447cb9a8c2e0cc3356fea11bc38876970",
+      "freshTranslation": "$n",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000035",
+      "sourceBindingSha256": "19cb6a74dd7e49a53d289aaa317c18c0fa13762a2d58a4aeadf4bfd06618b70c",
+      "sourceTextSha256": "4be66cf94e7033822cdfc8a62cfb6122805b339fe22766c4e71d115cc89cb60f",
+      "freshTranslation": "………",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000036",
+      "sourceBindingSha256": "3b9bcbf8b6a27a31f6385ca293cebd6c10d135672bf9dec22efe992c83eba882",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000037",
+      "sourceBindingSha256": "f98206431cd110ad8a6cd007c6d046c484941b04aebc557444bb79669fb4b1f5",
+      "sourceTextSha256": "1c9d4169beee6d44f097c961c2deab6b86ae5cfcbc2f884690dbd29ea5c78bdd",
+      "freshTranslation": "네네, 쓸데없는 말은 안 할게요….",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    },
+    {
+      "entryId": "STG0222-9화후B분기/ID00003/000038",
+      "sourceBindingSha256": "2621c2cfa34c059d6859a480fab757bd4a63617133f08b03beeb4d37227a5b22",
+      "sourceTextSha256": "f1f05daca47b77bb885afbcf4f1024d9185b883ee8a35cb6021e2a7f10635cf5",
+      "freshTranslation": "자, 오늘도 힘차게… 장사, 장사!",
+      "translationStatus": "draft",
+      "translator": "Claude",
+      "reviewer": "",
+      "referenceConsulted": true,
+      "notes": "일본어 원문·시옥편 용어사전·인물 관계 자료를 기준으로 작성한 STG0222-9화후B분기 신규 번역 초안"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00026",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00026/Sheet1/000002",
+      "sourceBindingSha256": "a3c5707ddc7652566ee26ec1c8dfa030546de68772095a20a856abc229a0bfc5",
+      "sourceTextSha256": "ddd3567274cb3116e1e46025d070175b3eba791e997e9ad4aef7600e2de7f93a",
+      "freshTranslation": "블랙 카리스마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00026/Sheet1/000003",
+      "sourceBindingSha256": "db6a0d2d88405ded80e549810fe2de150d352898c18bbd5265746470053da05b",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00026/Sheet1/000004",
+      "sourceBindingSha256": "7e4962010d3cdc9de22e24630e5b9cb25d8145a6fa372f42c212cacb78f26fbf",
+      "sourceTextSha256": "311a225143b8c85aaa34f30a0df4223bdec7968ce98e04b5b8b69cda2dff038a",
+      "freshTranslation": "UCW의 가장 중요한 정보 인프라 「UN」상에서 대중을 선동하고 있던 괴인물. ㊥ 현재 그 이름은 특정 개인의 것이 아니라 혼란을 기뻐하는 유쾌범들이 최초의 '흑㊥의 카리스마'에 편승한 것에 의해 UCW 전체에 불안과 혼란이 퍼져간 ㊥ 사회 현상을 가리키는 말이 되고 있다. ㊥ 덧붙여 다원전쟁의 흑막이었던 디 에델 베르날도, 검은 가면과 맨㊥토 모습으로, 이 이름을 자칭하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00026/Sheet1/000005",
+      "sourceBindingSha256": "3c600223c0e51e12d3dd130b2c143118347e07805f9cd3766f234ec61c46524d",
+      "sourceTextSha256": "311a225143b8c85aaa34f30a0df4223bdec7968ce98e04b5b8b69cda2dff038a",
+      "freshTranslation": "UCW의 가장 중요한 정보 인프라 「UN」상에서 대중을 선동하고 있던 괴인물. ㊥ 현재 그 이름은 특정 개인의 것이 아니라 혼란을 기뻐하는 유쾌범들이 최초의 '흑㊥의 카리스마'에 편승한 것에 의해 UCW 전체에 불안과 혼란이 퍼져간 ㊥ 사회 현상을 가리키는 말이 되고 있다. ㊥ 덧붙여 다원전쟁의 흑막이었던 디 에델 베르날도, 검은 가면과 맨㊥토 모습으로, 이 이름을 자칭하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

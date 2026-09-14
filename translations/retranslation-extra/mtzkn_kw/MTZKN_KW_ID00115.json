@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00115",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00115/Sheet1/000002",
+      "sourceBindingSha256": "786bb1cf2939082f15cb41f06417a67a713bcc2beb6ca43ba2e2fa428bc77d97",
+      "sourceTextSha256": "87c2987dfd3a0ad3c32bcaddb9c0ab20be5eac18b5e304b01d52a64691eea62e",
+      "freshTranslation": "패트릭 자라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00115/Sheet1/000003",
+      "sourceBindingSha256": "f09d70ae69838c057ad2a8ed15180b6d906a2d47d8cd214f6491d035215002da",
+      "sourceTextSha256": "46972028b0d87190e9d5bc75048d5bd3819834caf71211a163e3d40415fa49f0",
+      "freshTranslation": "「기동전사 건담 SEEDDESTINY」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00115/Sheet1/000004",
+      "sourceBindingSha256": "23e2fd28a421ebae5ac7a7a927c3a34298ce089445de613905fe4f87cfeed0eb",
+      "sourceTextSha256": "899928784e7449388fed82d0a714238c22ed3c28f2f55e74f12f1c61954a4106",
+      "freshTranslation": "전 플랜트 최고 의회 국방 위원장. ㊥ 아슬란 자라의 아버지. ㊥ 구대전의 방아쇠가 된 지구 연합에 의한 유니우스 세븐에의 기습 공격으로 아내㊥를 잃고 있다. 그 때문에 내추럴을 강하게 미워하고 지구연합과는 철저 항전을 주장㊥했다. 나중에 온건파로 알려진 전 플랜트 평의회의장, 시겔 클라인과 그 ㊥의 일파를 몰아내고, 의장의 자리도 손에 넣는다. ㊥ 제2차 야킨 두에 공방전에서는 지구 환경에도 괴멸적인 데미지를",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00115/Sheet1/000005",
+      "sourceBindingSha256": "be3ea3c09ebe47d936f17b2a4dbf881b29ffc98cd80ca1b108a8788a9ede6c31",
+      "sourceTextSha256": "ef9677f1b7032bf049c4b6bfb9d49f427cfbc24f50d6cc9b48170a6482389c8e",
+      "freshTranslation": "네 ㊥ 루 초대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00115/Sheet1/000006",
+      "sourceBindingSha256": "eaf55c8ffb7caca75c322c527edd7cedb76ff8068a09f216450ab9a13a152974",
+      "sourceTextSha256": "9d44cce808c6dd536fe54df18fb879d173cfc31671bf9e19f31e21483d6a75b3",
+      "freshTranslation": "감마선 레이저포 '제네시스'로 내추럴을 멸망시키려고 했지만 ㊥ 플랜트의 미래를 우려한 측근에 의해 사살되었다. ㊥ 하지만 그 생각에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00115/Sheet1/000007",
+      "sourceBindingSha256": "c92f7e3edd4b2e59c4acb32e6299b68acb54b2ecaf6e5452cf32b59088cf5ef3",
+      "sourceTextSha256": "e1bb9cfc1f15e923c8b5d5c7e24017d68fb4a973d27d4022cffcb49bf878fdd7",
+      "freshTranslation": "동하는 자들도 뿌리깊게 존재하고 있어, 그들의 손에 의해 유㊥니우스 세븐 낙하 작전이 걸렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00115/Sheet1/000008",
+      "sourceBindingSha256": "9fabc92d049d0ce258e09389c4f9e5aaedabd7ebcffae644ca84fbfe26c8c89c",
+      "sourceTextSha256": "899928784e7449388fed82d0a714238c22ed3c28f2f55e74f12f1c61954a4106",
+      "freshTranslation": "전 플랜트 최고 의회 국방 위원장. ㊥ 아슬란 자라의 아버지. ㊥ 구대전의 방아쇠가 된 지구 연합에 의한 유니우스 세븐에의 기습 공격으로 아내㊥를 잃고 있다. 그 때문에 내추럴을 강하게 미워하고 지구연합과는 철저 항전을 주장㊥했다. 나중에 온건파로 알려진 전 플랜트 평의회의장, 시겔 클라인과 그 ㊥의 일파를 몰아내고, 의장의 자리도 손에 넣는다. ㊥ 제2차 야킨 두에 공방전에서는 지구 환경에도 괴멸적인 데미지를",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00115/Sheet1/000009",
+      "sourceBindingSha256": "32befc0b87f2f0bba2af33e0efe948d2b48d815c3d82437a8b7207aee954c654",
+      "sourceTextSha256": "ef9677f1b7032bf049c4b6bfb9d49f427cfbc24f50d6cc9b48170a6482389c8e",
+      "freshTranslation": "네 ㊥ 루 초대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00115/Sheet1/000010",
+      "sourceBindingSha256": "6747008e90401c2b8640ba4a04cc27999e55e045f8d94fa4c8d3fae0a44af40e",
+      "sourceTextSha256": "9d44cce808c6dd536fe54df18fb879d173cfc31671bf9e19f31e21483d6a75b3",
+      "freshTranslation": "감마선 레이저포 '제네시스'로 내추럴을 멸망시키려고 했지만 ㊥ 플랜트의 미래를 우려한 측근에 의해 사살되었다. ㊥ 하지만 그 생각에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00115/Sheet1/000011",
+      "sourceBindingSha256": "da879c72549488ea48b28ae2f1f265d9cc295f83c2da48c36c4387c966f232bb",
+      "sourceTextSha256": "e1bb9cfc1f15e923c8b5d5c7e24017d68fb4a973d27d4022cffcb49bf878fdd7",
+      "freshTranslation": "동하는 자들도 뿌리깊게 존재하고 있어, 그들의 손에 의해 유㊥니우스 세븐 낙하 작전이 걸렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

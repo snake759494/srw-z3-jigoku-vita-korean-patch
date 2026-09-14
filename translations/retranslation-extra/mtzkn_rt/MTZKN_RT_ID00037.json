@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00037",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00037/Sheet1/000002",
+      "sourceBindingSha256": "613fb2569d945ecfe73e9277ef011964838fc6b0cb97acd702677b7d19033459",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00037/Sheet1/000003",
+      "sourceBindingSha256": "1043cdbcc59940fec1f7744e3bde4c8748de227a8ea5db512cf30569a56dffad",
+      "sourceTextSha256": "f87832114e1d8075d5e04b8700067aa948b0d4be5c71c4487431f314184195b6",
+      "freshTranslation": "수(MA)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00037/Sheet1/000004",
+      "sourceBindingSha256": "e2797cf994f7c3e509686d27e6766c71c762ba914fd6218eb6dd7eead474d032",
+      "sourceTextSha256": "f87832114e1d8075d5e04b8700067aa948b0d4be5c71c4487431f314184195b6",
+      "freshTranslation": "수(MA)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00037/Sheet1/000005",
+      "sourceBindingSha256": "66468c43fd2a3cf5d8617afa8ece9058d257b0cab2fdb1e53afd00127e022611",
+      "sourceTextSha256": "c431cd00dbe9a32bee5dc95d44510ed4ac54c050a7a52739134c61a3852d2162",
+      "freshTranslation": "애너하임 일렉트로닉스가 개발한 에우고 최초의 가변 모빌 슈트. ㊥모빌슈트 형태로는 범용인 성능이지만, 모빌 아머 형태시는",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00037/Sheet1/000006",
+      "sourceBindingSha256": "53be6282f22f4f8b30c932280a63093b733f5ee7e63490c0b9ec90e888b1e2ec",
+      "sourceTextSha256": "e8e91174531ed1250bbc3d6cb7bff1d2be84fb2d8e136fd1d82d72768c8fbbd8",
+      "freshTranslation": "동성과 가속성에 ㊥ 뛰어나고 고속으로 적을 농락하는 장면도 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00037/Sheet1/000007",
+      "sourceBindingSha256": "5f6b2b5d34defaa0c53e279df7582c5dbc268b938faf22984b1c1e2e36eafc27",
+      "sourceTextSha256": "c431cd00dbe9a32bee5dc95d44510ed4ac54c050a7a52739134c61a3852d2162",
+      "freshTranslation": "애너하임 일렉트로닉스가 개발한 에우고 최초의 가변 모빌 슈트. ㊥모빌슈트 형태로는 범용인 성능이지만, 모빌 아머 형태시는",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00037/Sheet1/000008",
+      "sourceBindingSha256": "56d26ecaab89602edbb151b083ec2a40e73feeece71dd07786a350fdddb8f34f",
+      "sourceTextSha256": "e8e91174531ed1250bbc3d6cb7bff1d2be84fb2d8e136fd1d82d72768c8fbbd8",
+      "freshTranslation": "동성과 가속성에 ㊥ 뛰어나고 고속으로 적을 농락하는 장면도 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

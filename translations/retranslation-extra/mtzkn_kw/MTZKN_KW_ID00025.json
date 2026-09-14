@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00025",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00025/Sheet1/000002",
+      "sourceBindingSha256": "bd56fe0d181f770d0e823b40abcb0097ba05fdfa380ee0337bd10866619d6f14",
+      "sourceTextSha256": "8cefc65527b79510896a95d92b788d4644b6dfb53ed8b73c0480da285ee0c2ea",
+      "freshTranslation": "야수한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00025/Sheet1/000003",
+      "sourceBindingSha256": "1ff01358a40c4eba48a5b1961dee50a14b4ac6c39865f1de60671ec89df9d1c6",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00025/Sheet1/000004",
+      "sourceBindingSha256": "460be1fd260a7591affcc9b0ab4687990618bd519d0982947c1ce2464a148827",
+      "sourceTextSha256": "901ca14622b5fc55353b8449a8ae818e8643280b51fec9f1bf54152887c6fa7c",
+      "freshTranslation": "시공진동이나 차원진으로 나타난 적대외래종 '비스트'를 구제하는 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00025/Sheet1/000005",
+      "sourceBindingSha256": "9a1f52d37173acafb70b65caf8d93b78fceac3f279c0e8512892913886b1d608",
+      "sourceTextSha256": "b8148ad63d021e901db472a07ed882e44796de9990e251c11c1aa3207af3c897",
+      "freshTranslation": "ー.㊥외래종은 이 세계의 생태계를 방해하는 경우에만 비스트로 인정된다. 자㊥외에도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00025/Sheet1/000006",
+      "sourceBindingSha256": "40c412f75ff0a441a0f8ae940956024d6c62cfd20c553500db8e8e35f948bcb8",
+      "sourceTextSha256": "c087e5d1ef530607ddea2f508bb274ace96a269b3197eaf0b03a5913b8964667",
+      "freshTranslation": "―가 구제를 담당하는 것은 규모가 작고, 출현 장소가 특정 지역에 한정 ㊥정정되는 것뿐이다. 그 점에서 규모가 크고 출현 장소가 전 세계 ㊥ 인 차원 짐승은 비스트 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00025/Sheet1/000007",
+      "sourceBindingSha256": "ec49fc345cb2eac5f0791b1837356e208acb4a8998f8bad5eeba813de1349e23",
+      "sourceTextSha256": "db52e0f2ff216c73fb40e3780910622a7419c3ace8c9383c55b47aa180e2c589",
+      "freshTranslation": "-의 구제의 대상외가 된다. ㊥ 북미 대륙의 록키 산맥에는 차원 경계선이 불안정한 자리가 있어 비스㊥토의 출현 빈도가 높다. 따라서 부근에는 많은 프로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00025/Sheet1/000008",
+      "sourceBindingSha256": "b91157be4041062dfed4e739d0730ec9bec33c69391d44dbd0afa5e2a37fc281",
+      "sourceTextSha256": "9f8f8c46b2b0ca25cb2ce6843a81cb364ea4f1cd15cc7c7d6a77dd9c276e04fd",
+      "freshTranslation": "- 거주지㊥있습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00025/Sheet1/000009",
+      "sourceBindingSha256": "a7894989cad35cc43a716a603f84f1a3a2ab8bb3f37a2e10419314db742e0575",
+      "sourceTextSha256": "901ca14622b5fc55353b8449a8ae818e8643280b51fec9f1bf54152887c6fa7c",
+      "freshTranslation": "시공진동이나 차원진으로 나타난 적대외래종 '비스트'를 구제하는 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00025/Sheet1/000010",
+      "sourceBindingSha256": "9848d0eaa28f21fab4c3eefe4c7e486bb606cca360b96add93b62c50acff1d0f",
+      "sourceTextSha256": "b8148ad63d021e901db472a07ed882e44796de9990e251c11c1aa3207af3c897",
+      "freshTranslation": "ー.㊥외래종은 이 세계의 생태계를 방해하는 경우에만 비스트로 인정된다. 자㊥외에도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00025/Sheet1/000011",
+      "sourceBindingSha256": "eae161dc0acd295a66315745b488446d869054e11474eaafd22ac7d70d49d22f",
+      "sourceTextSha256": "c087e5d1ef530607ddea2f508bb274ace96a269b3197eaf0b03a5913b8964667",
+      "freshTranslation": "―가 구제를 담당하는 것은 규모가 작고, 출현 장소가 특정 지역에 한정 ㊥정정되는 것뿐이다. 그 점에서 규모가 크고 출현 장소가 전 세계 ㊥ 인 차원 짐승은 비스트 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00025/Sheet1/000012",
+      "sourceBindingSha256": "5107261f8fc806ba27834217a24df6127200f6f5b050e23eb02fa4876ad8f41e",
+      "sourceTextSha256": "db52e0f2ff216c73fb40e3780910622a7419c3ace8c9383c55b47aa180e2c589",
+      "freshTranslation": "-의 구제의 대상외가 된다. ㊥ 북미 대륙의 록키 산맥에는 차원 경계선이 불안정한 자리가 있어 비스㊥토의 출현 빈도가 높다. 따라서 부근에는 많은 프로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00025/Sheet1/000013",
+      "sourceBindingSha256": "6a39abb0a8b6a4613b021abcfde6b96f63801b02e8304bccd55b7223cdb27b41",
+      "sourceTextSha256": "9f8f8c46b2b0ca25cb2ce6843a81cb364ea4f1cd15cc7c7d6a77dd9c276e04fd",
+      "freshTranslation": "- 거주지㊥있습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

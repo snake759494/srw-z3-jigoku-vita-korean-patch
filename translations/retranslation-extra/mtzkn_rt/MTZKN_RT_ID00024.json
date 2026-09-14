@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00024",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00024/Sheet1/000002",
+      "sourceBindingSha256": "616ee3171e13f4c2ddc2af5880602a0a91febeefcf976df8776ed27e1bd329e9",
+      "sourceTextSha256": "095aa56eab1e8a38be44b7470675dbd3bb01e8bb6134a3c94d5e531e65a3923a",
+      "freshTranslation": "장갑 기병 하의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00024/Sheet1/000003",
+      "sourceBindingSha256": "f9141c05a59a031d9c2dc928f71243945034788841ff944248cc3bcee7e15edd",
+      "sourceTextSha256": "9243ce2f451021225e2e93135ca4bc8c8c340dfc4f72d230e54a1e54bedfe830",
+      "freshTranslation": "범용 전투기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00024/Sheet1/000004",
+      "sourceBindingSha256": "0a36a23165b7693669ffc619c7f0713b92341da5632a561f20c90976c4ad528a",
+      "sourceTextSha256": "7d5ed754a2a084372ea57cd480a960ba07665fde05db980029a61924c7d4cbbf",
+      "freshTranslation": "발라란트 군 범용 전투기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00024/Sheet1/000005",
+      "sourceBindingSha256": "88f42fdf97bb8f583d7e360096bcfc4b0146b90aa6ff3f2b090b87a3b8ded93d",
+      "sourceTextSha256": "e96c909657246ef44513aa4b655ac2bca283abffc962d8d81a822e0aa5aaf17d",
+      "freshTranslation": "발라란트군이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00024/Sheet1/000006",
+      "sourceBindingSha256": "3e09a6d895bf7f257a96624c9867162e036cf4cbb77ae4d15b18b0eef1a78b3c",
+      "sourceTextSha256": "662c4d0d0f60cb10c04776ce4770daf67136904183fa073a6fc200694769c35a",
+      "freshTranslation": "사용할 범용 전투기. ㊥ 주로 대기권 내 전투에 사용되지만 대기권 외부에서도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00024/Sheet1/000007",
+      "sourceBindingSha256": "5103e1c7e0ebf39197fe46eea6fb0e34e2d3de6ae8c247ef6e7335a300b3f92d",
+      "sourceTextSha256": "c9d94bb372908e23c8682410923d47d5a16cf80909d2b35fab293103d85712f3",
+      "freshTranslation": "용이 가능. ㊥ 본래는 요격기이지만 정찰 임무 등에도 사용된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00024/Sheet1/000008",
+      "sourceBindingSha256": "edf96f3c67a9fbea63f627116841de673c5cc405ccc27e27b2080696f11f2ee8",
+      "sourceTextSha256": "e96c909657246ef44513aa4b655ac2bca283abffc962d8d81a822e0aa5aaf17d",
+      "freshTranslation": "발라란트군이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00024/Sheet1/000009",
+      "sourceBindingSha256": "696a80bd3d1e706e4b3317658db46710e7620c7d1b32f0b0e6fd22de29069d23",
+      "sourceTextSha256": "662c4d0d0f60cb10c04776ce4770daf67136904183fa073a6fc200694769c35a",
+      "freshTranslation": "사용할 범용 전투기. ㊥ 주로 대기권 내 전투에 사용되지만 대기권 외부에서도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00024/Sheet1/000010",
+      "sourceBindingSha256": "18974eae7d870a2b988b60dd8a67ba1f78f7895daa5b2c7f189f0630d3af2698",
+      "sourceTextSha256": "c9d94bb372908e23c8682410923d47d5a16cf80909d2b35fab293103d85712f3",
+      "freshTranslation": "용이 가능. ㊥ 본래는 요격기이지만 정찰 임무 등에도 사용된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

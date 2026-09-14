@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00350",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00350/Sheet1/000002",
+      "sourceBindingSha256": "6c9bd5ba89da2226f54296045118c2fba9654b59fe2472e4f055309890229a1e",
+      "sourceTextSha256": "e3a913fc546e5773f7a124c1295af64e07d8b867378cae458ab4e7ad9af6e28a",
+      "freshTranslation": "도키 히카리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00350/Sheet1/000003",
+      "sourceBindingSha256": "14b4f1513dbfded108d4c7bdb58b68df94495fb02e12beea178f47e339a4350f",
+      "sourceTextSha256": "c28804408f3097f31be9af35d07aef0689ab3caeca9af148ce8fb7ea958445d9",
+      "freshTranslation": "히카리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00350/Sheet1/000004",
+      "sourceBindingSha256": "a4313b8422971737592c4d036d06fe0674b0a2175b1fca0f2d221e8a80d86db2",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00350/Sheet1/000005",
+      "sourceBindingSha256": "9c275b95f81e7fffa8a38215ae4466200ea5e1aa6c4c6ed4837246a22ed6708f",
+      "sourceTextSha256": "ce80874b2e2ed3a2f62ca04c3dc6a81d82a1bfdf2b154927ed7a03a6f73e94b2",
+      "freshTranslation": "제3신도쿄 시립 제일 중학교 2년 A조의 학생. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00350/Sheet1/000006",
+      "sourceBindingSha256": "6e322d48de5838eb7c83896c08f3164cb8d6472274a0159d1f8e2fb8c50b7156",
+      "sourceTextSha256": "451ad5145a8ae28b6024da64da28a10e132fe124fd35ec7e279ec2847a4959fe",
+      "freshTranslation": "흥미로운 성격으로, 학급 위원장으로서 클래스를 정리하고 있다. 또, 클래스에서 고립기㊥맛있는 아스카에게 함께 점심을 먹으려고 초대하는 등, 타인에게의 배려도 할 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00350/Sheet1/000007",
+      "sourceBindingSha256": "f9ba2cfe1dcb8e90d2027669c41bfde7ac932917c652336dd03ef6d2a9472848",
+      "sourceTextSha256": "ce80874b2e2ed3a2f62ca04c3dc6a81d82a1bfdf2b154927ed7a03a6f73e94b2",
+      "freshTranslation": "제3신도쿄 시립 제일 중학교 2년 A조의 학생. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00350/Sheet1/000008",
+      "sourceBindingSha256": "ce9eaa3235b58d349a91d40e7d5ef7b54809b3eaba5bce993719285343193e41",
+      "sourceTextSha256": "451ad5145a8ae28b6024da64da28a10e132fe124fd35ec7e279ec2847a4959fe",
+      "freshTranslation": "흥미로운 성격으로, 학급 위원장으로서 클래스를 정리하고 있다. 또, 클래스에서 고립기㊥맛있는 아스카에게 함께 점심을 먹으려고 초대하는 등, 타인에게의 배려도 할 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

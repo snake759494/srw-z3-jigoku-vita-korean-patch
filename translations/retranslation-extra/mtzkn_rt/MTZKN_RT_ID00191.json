@@ -1,0 +1,181 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00191",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00191/Sheet1/000002",
+      "sourceBindingSha256": "d8676d3d1305eb62ad63ab00cbb7b0325b52ae6d7b52a21ca8a3b009dc4838cc",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00191/Sheet1/000003",
+      "sourceBindingSha256": "2531b5e2561df840817c74836ca11aac5e0f10ec8eaa5c8b9eef71ffee098767",
+      "sourceTextSha256": "6cbead29f5f3666f5882c4fd6c0d7e56e8208850dd34efe1c72cd7834907e4e2",
+      "freshTranslation": "르 패닉! TheSecondRaid",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00191/Sheet1/000004",
+      "sourceBindingSha256": "50634f9ad80510767a0f1595f0bbe24d2610a704af795662a03efb370619702b",
+      "sourceTextSha256": "7eb24787f17d282814f7b7dbfeb0712dab0304cc6244b91d21bf45ca27168712",
+      "freshTranslation": "플랜 1059 코다르 m",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00191/Sheet1/000005",
+      "sourceBindingSha256": "c8b9f5645a7a8f9f74af8831c28d896b947434f254c672f4924ae408708534c8",
+      "sourceTextSha256": "7eb24787f17d282814f7b7dbfeb0712dab0304cc6244b91d21bf45ca27168712",
+      "freshTranslation": "플랜 1059 코다르 m",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00191/Sheet1/000006",
+      "sourceBindingSha256": "c1233943229f4f1d73e666f70fcc50c9521c5e9c046a36bd70b4ef5a3777cf9c",
+      "sourceTextSha256": "c1f67305032260a9558d27c2d0ee453a33a10dffce5e9a524d96c26d6dd4df4c",
+      "freshTranslation": "나츠타마 요시히로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00191/Sheet1/000007",
+      "sourceBindingSha256": "553f9645ea95681a26ebb18535a2cc1e492e4bd578529370b476e63b241fb1ed",
+      "sourceTextSha256": "947523bdb0cca402568fa1fc870818016e54a8c92006c3bf603d5c736506749d",
+      "freshTranslation": "수수께끼의 조직",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00191/Sheet1/000008",
+      "sourceBindingSha256": "fff24b01e1c51ef83e27f489b0b30bc221ca5b310e15c0e398391fff9bb6bf0b",
+      "sourceTextSha256": "d893df7dd6df42e4c22bf6ac62a2d43f7765300e6adbb7cd94b4dfbbfd626563",
+      "freshTranslation": "사용할 AS. ㊥타마요시가 조직을 이탈할 때 강탈했다. ㊥ 미스릴 분류 코드에서 '베놈'",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00191/Sheet1/000009",
+      "sourceBindingSha256": "2518f02421dc4f61d5b97e7d63bd46e3a4e6b26444cb83244aeb1cd17c20f593",
+      "sourceTextSha256": "3d71892e8d4c56c40621e1e4915753d18bc284d69f9c47283707ac0f954c264d",
+      "freshTranslation": "입으로 여겨지는 기체이다. ㊥타마요시가 탑승하는 본기는, 플랜 1056·코다르를 개량한 동계열기로 보여 ㊥ 있지만, 자세한 것은 불명. ㊥ 주요 무장으로 복합",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00191/Sheet1/000010",
+      "sourceBindingSha256": "3141f145ac9327f80bef70e6233ba0ddf386f0516dae135cafe6e30d8a5cc7ba",
+      "sourceTextSha256": "764e6e5cbc3f08732fb885123470919694ba041c2a42e8691ea4b5bd6336ced0",
+      "freshTranslation": "단분자 컷",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00191/Sheet1/000011",
+      "sourceBindingSha256": "9591e3f632caa2ddca0bee63c5aeb01e987ac211ff35a7e517dee2ec8b3e2c3b",
+      "sourceTextSha256": "317cb12279d8831e0028b53382eeeb97cd763e13d04730473ce17756ffe00c1f",
+      "freshTranslation": "를 사용한다. ㊥ 가우른의 명령으로 미스릴을 뛰어오르기 위해 홍콩의 도시를 파괴한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00191/Sheet1/000012",
+      "sourceBindingSha256": "441e318c97fa500ff1dc42b3df9e2bd1af1b16244ecbe67ba452e80dff727eb7",
+      "sourceTextSha256": "717d8b95834f25c8410d3b3d56dc9ac0124c8b664ff483869e1298e0997d0fde",
+      "freshTranslation": "비밀 조직 아말감",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00191/Sheet1/000013",
+      "sourceBindingSha256": "b1ea312d2e4463400b20213cea62c02509ebeebdda1f067448af4d1cdaa8b781",
+      "sourceTextSha256": "d893df7dd6df42e4c22bf6ac62a2d43f7765300e6adbb7cd94b4dfbbfd626563",
+      "freshTranslation": "사용할 AS. ㊥타마요시가 조직을 이탈할 때 강탈했다. ㊥ 미스릴 분류 코드에서 '베놈'",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00191/Sheet1/000014",
+      "sourceBindingSha256": "413af062557f04f5ce22a54da30134c2abbcdd322d73d78b5049572ccba9d3be",
+      "sourceTextSha256": "3d71892e8d4c56c40621e1e4915753d18bc284d69f9c47283707ac0f954c264d",
+      "freshTranslation": "입으로 여겨지는 기체이다. ㊥타마요시가 탑승하는 본기는, 플랜 1056·코다르를 개량한 동계열기로 보여 ㊥ 있지만, 자세한 것은 불명. ㊥ 주요 무장으로 복합",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00191/Sheet1/000015",
+      "sourceBindingSha256": "9bb113413037d013ea932bd40ebd1eeecc366d4a470f7525bd1c2d77ea5af2ad",
+      "sourceTextSha256": "764e6e5cbc3f08732fb885123470919694ba041c2a42e8691ea4b5bd6336ced0",
+      "freshTranslation": "단분자 컷",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00191/Sheet1/000016",
+      "sourceBindingSha256": "14c2d6edcac29345572fe9c6bb603eec072607726eb9c29c017f7699b96b773b",
+      "sourceTextSha256": "ac441a43b529a504823c2a1625520fe611880050f8e5faae6ea916313c571bd7",
+      "freshTranslation": "를 사용한다. ㊥ 가우른의 명령으로 미스릴을 뛰어오르기 위해 홍콩의 거리를 파괴했지만, 마지막은 게이㊥ 츠가 달리는 코다르 i에 숙청되어 폭산했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

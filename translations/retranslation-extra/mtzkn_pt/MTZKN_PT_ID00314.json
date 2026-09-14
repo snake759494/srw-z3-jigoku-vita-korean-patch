@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00314",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00314/Sheet1/000002",
+      "sourceBindingSha256": "e5edf3875ded73dfa43d3fe539067e78e5e9f3fbbd4e09fddb3863c1840923ff",
+      "sourceTextSha256": "d688ca9f1795b5a7a75633fa17e9ab5e0de8932105a340a18d3c45448159297b",
+      "freshTranslation": "달리 아다이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00314/Sheet1/000003",
+      "sourceBindingSha256": "62b50d9174cc201ba26c1603ee27609e308f5e44e3d506f7610c7f407249f027",
+      "sourceTextSha256": "1868b9381f02d6fd3d39c7f8d5166b77331c7d9c09dcd72c8b630d2750a536eb",
+      "freshTranslation": "달리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00314/Sheet1/000004",
+      "sourceBindingSha256": "74736b4f0627add8bd8f0c52c5d4be13249adf46534ee11b8643f5ee27f39429",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00314/Sheet1/000005",
+      "sourceBindingSha256": "b2999a0d814a30ba275497b5d9cd5b4a2ed0ca65b192b53df64dd7eb94dba3a3",
+      "sourceTextSha256": "b8f8804b32a42094ea30dd851728edc88e4c541cb8fae5ce11d5a3a25284f976",
+      "freshTranslation": "이토 시즈카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00314/Sheet1/000006",
+      "sourceBindingSha256": "402e22ac2d655cd4e07e249df822292b2981ddf9d1dd61244613eaccd7978c6f",
+      "sourceTextSha256": "3b719c88f266e7d0b71f434a88d80562d3779b8c1d848de7a7f57a52969c73fd",
+      "freshTranslation": "로시우와 같은 아다이 마을 출신의 기미와 쌍둥이 소녀. ㊥ 부모는 어린 시절에 타계. 아다이 마을을 방문한 시몬들과 만나, 그대로 수인들과의 ㊥결착까지 큰 글렌단의 일원으로서 행동을 함께 하고 있었다. ㊥신정부 출범 후는 그래펄의 파일럿이 되어, 퍼스널 칼라에 염색한 전용기㊥에 탑승해 부대를 이끌 때까지 된다. ㊥ 어린 시절은 무구하고 끌어들여 사안인 성격이었지만, 신체와 함께 정신도 성장해, 제대로 ㊥한 성격이 되었다. 전투에서도 동경했던 요코를 따라잡으려고 훈련을 쌓은 ㊥ 결과, 그라팔대 넘버 1의 사격의 팔을 가질 때까지 된다. ㊥ 돌격하기 쉬운 기미의 브레이크 역으로도 활약했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00314/Sheet1/000007",
+      "sourceBindingSha256": "83f3595b8e5f9875596b187d3de50828870280710ad89e75c35a814b8efd39fb",
+      "sourceTextSha256": "7f61d92ff13c725dac94cb89264e3c4d552aeccf7a108c8816e7ebfcf5d92d73",
+      "freshTranslation": "로시우와 같은 아다이 마을 출신의 기미와 쌍둥이 소녀. ㊥ 부모는 어린 시절에 타계. 아다이 마을을 방문한 시몬들과 만나, 그대로 수인들과의 ㊥결착까지 큰 글렌단의 일원으로서 행동을 함께 하고 있었다. ㊥신정부 출범 후는 그래펄의 파일럿이 되어, 퍼스널 칼라에 염색한 전용기㊥에 탑승해 부대를 이끌 때까지 된다. ㊥ 어린 시절은 무구하고 끌어들여 사안인 성격이었지만, 신체와 함께 정신도 성장해, 제대로 ㊥한 성격이 되었다. 전투에서도 동경했던 요코를 따라잡으려고 훈련을 쌓은 ㊥ 결과, 그라팔대 넘버 1의 사격의 팔을 가질 때까지 된다. ㊥ 돌격하기 쉬운 기미의 브레이크 역으로도 활약했다. ㊥ 안티 스파이럴과의 최종 결전 시에는 기미와 자신의 그래퍼가 합체한 천 ㊥ 전 돌파 그라팔에 탑승. 선배들에게 패배와 분전했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

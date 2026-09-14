@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00159",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00159/Sheet1/000002",
+      "sourceBindingSha256": "687ee19271b721e8500fd728adfe645951e368277ee0ad49cc88466a7d415a84",
+      "sourceTextSha256": "06ec4336a10c06833c4475db00e38644d9161ccf9727a81eb70e85d1a16b5239",
+      "freshTranslation": "카디아스 비스트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00159/Sheet1/000003",
+      "sourceBindingSha256": "faa0281826bff48c2e5c05a8e3e6a0db3c71fd7f22dc69cdf164ec6b3a9d2690",
+      "sourceTextSha256": "0c0c1ba2a7052a0b24d86164ef9331303f0743830042014d5348645c76aecafa",
+      "freshTranslation": "카디아스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00159/Sheet1/000004",
+      "sourceBindingSha256": "3414d7dfbede2d4e6b8490a8dcc8947162669b27170c7e47aafaf1351904c678",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00159/Sheet1/000005",
+      "sourceBindingSha256": "cc8ce1ebf4b5b5e8a1b6e03c75445ee28e57c9e58eafd52b0589b84af307ade0",
+      "sourceTextSha256": "de1b931eaf185bd80ca481eee791c4f16ac1015372542794d94c7bb5f666fee6",
+      "freshTranslation": "비스트 재단의 2대째 당주. 60세. ㊥ 초대 당주 시암 비스트의 의지를 존중하고 '라플라스의 상자'의 공개를 논의하고 ㊥ 'UC계획'의 지휘자이기도 한 점에서 유니콘 건담에 '라플라스 프로그㊥램'을 통합했다. ㊥ 배너지와 알베르토의 아버지. 해야 할 일을 강한 의지로 전달하는 인간이지만, 자신을 ㊥기준으로 해 버려, 타자에의 배려가 부족하다고 하는 경우도 있다. ㊥ 인더스트리얼 7의 전투 때 알베르토에게 쏘여 중상을 입고 유니콘가㊥ 담담을 배너지에 맡기고 화염 속에 사라졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00159/Sheet1/000006",
+      "sourceBindingSha256": "29680d8f30893bd2f5e2e9f736d9b1dd63ac444e03a8bdc6885921b119e18dfc",
+      "sourceTextSha256": "de1b931eaf185bd80ca481eee791c4f16ac1015372542794d94c7bb5f666fee6",
+      "freshTranslation": "비스트 재단의 2대째 당주. 60세. ㊥ 초대 당주 시암 비스트의 의지를 존중하고 '라플라스의 상자'의 공개를 논의하고 ㊥ 'UC계획'의 지휘자이기도 한 점에서 유니콘 건담에 '라플라스 프로그㊥램'을 통합했다. ㊥ 배너지와 알베르토의 아버지. 해야 할 일을 강한 의지로 전달하는 인간이지만, 자신을 ㊥기준으로 해 버려, 타자에의 배려가 부족하다고 하는 경우도 있다. ㊥ 인더스트리얼 7의 전투 때 알베르토에게 쏘여 중상을 입고 유니콘가㊥ 담담을 배너지에 맡기고 화염 속에 사라졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

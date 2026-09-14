@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00134",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00134/Sheet1/000002",
+      "sourceBindingSha256": "12c7cc54953a4b91255407c226f9bf5215e89270be39d1f3ec4306c472efdb28",
+      "sourceTextSha256": "8896fd03039d3435a5f87014bd3c58db217b46f315f61e5161f22e6dbc8612d8",
+      "freshTranslation": "오토 미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00134/Sheet1/000003",
+      "sourceBindingSha256": "1f5476b1874e226ef1d0e025b57112a17098ab5ba524e342637efbce765d63b8",
+      "sourceTextSha256": "b6d6a8298429bd37732a07b50eccf43d6e02170d40cd786dc557ea15caa41c39",
+      "freshTranslation": "오토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00134/Sheet1/000004",
+      "sourceBindingSha256": "f1f0ae6ff45a2333ef7ca24e18c6d89ddd97611dc0b38cb62e96212560b73f2c",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00134/Sheet1/000005",
+      "sourceBindingSha256": "8e6fcf0757b4ae0ee611f1c268452b627afeb34388c072f9806aace6edc14b60",
+      "sourceTextSha256": "e724e217d31c4e452648038df61f3e66a4b0a5e5388ae001ad6ac96a26eb39a1",
+      "freshTranslation": "우치다 나오야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00134/Sheet1/000006",
+      "sourceBindingSha256": "811a0215e41a86fa4d75b6b417b085b3729c547ba667ce30005b2f2c4b6e5c2c",
+      "sourceTextSha256": "0fda96fae782635c42993ee9c0d2e064483fe3fe15d6c1edd855a94edafa265e",
+      "freshTranslation": "네엘 아가마의 함장. 계급은 대령. 45세. ㊥ 우유부단이거나, 의지하지 않는 곳이 있거나, 부장의 레이암을 비롯한 쿠㊥ 루에서는 그다지 신뢰되지 않는다. ㊥ 목적의 불명료한 상층부와 현장 승무원 사이에 판 사이에 끼워져 있어, 누구도 모르게 분노를 드러내 ㊥ 화하는 일도 자주. ㊥이지만 망한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00134/Sheet1/000007",
+      "sourceBindingSha256": "b73f863e3fc7aa8dc9453397da614e3ad88f32acfd0a2fe77e0d748cbfc8a0c2",
+      "sourceTextSha256": "759224a7da445a8601344760099ffefac2aa604bf3e6223d0746d2ad9fb4a6d8",
+      "freshTranslation": "- 등이라고 불리며 주변에서 하얀 눈으로 볼 수있는 더그자들의 포㊥행을 하는 등 결코 무능한 인간이 아니다.㊥취미는 함장실에서 자랑의 차를 선보일 것.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00134/Sheet1/000008",
+      "sourceBindingSha256": "96c7fadee724163a96ffb5ede1585e54bf5dd2862ada28eec379838cc402fd21",
+      "sourceTextSha256": "0fda96fae782635c42993ee9c0d2e064483fe3fe15d6c1edd855a94edafa265e",
+      "freshTranslation": "네엘 아가마의 함장. 계급은 대령. 45세. ㊥ 우유부단이거나, 의지하지 않는 곳이 있거나, 부장의 레이암을 비롯한 쿠㊥ 루에서는 그다지 신뢰되지 않는다. ㊥ 목적의 불명료한 상층부와 현장 승무원 사이에 판 사이에 끼워져 있어, 누구도 모르게 분노를 드러내 ㊥ 화하는 일도 자주. ㊥이지만 망한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00134/Sheet1/000009",
+      "sourceBindingSha256": "17e2c1ada67290b942a54381087d06943517691d143e7fc233672b7ea86aee03",
+      "sourceTextSha256": "382dc46f4658ba5b42089c8b4bf0146f883390afb02f9dc5e4a3e4684e70cf66",
+      "freshTranslation": "- 등이라고 불리며 주변에서 하얀 눈으로 볼 수있는 더그자들의 포㊥행을 하는 등 결코 무능한 인간이 아니다.㊥또, 팔라우 공략전 등, 할 수 없는 상황에서는 각오를 결정해, 함장으로서 전㊥힘을 다한다.㊥취미는 함장실에서 자랑의 차를 선보일 것.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 일본어 잔류 재번역; Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 일본어 잔류 행을 원문 기준으로 재번역; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

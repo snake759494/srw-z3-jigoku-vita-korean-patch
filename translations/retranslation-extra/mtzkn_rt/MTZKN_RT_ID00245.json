@@ -1,0 +1,159 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00245",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00245/Sheet1/000002",
+      "sourceBindingSha256": "d2666d3d2b8c419d73d079ea383a962756eee6c2df63db5b67758661f882c008",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00245/Sheet1/000003",
+      "sourceBindingSha256": "dccaed5277d90c3a7112efe0b844688985271c210bfc3930d8d1c4c8a75b859f",
+      "sourceTextSha256": "40edf956e6675036c45778402ebb08511d5e3d893f0da2c681150d525ba67075",
+      "freshTranslation": "디오스크 A",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00245/Sheet1/000004",
+      "sourceBindingSha256": "7e9a35b5da261f0f4ac0a3412d3aee6a0639d000f24723efe4b3449706c2aac8",
+      "sourceTextSha256": "40edf956e6675036c45778402ebb08511d5e3d893f0da2c681150d525ba67075",
+      "freshTranslation": "디오스크 A",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00245/Sheet1/000005",
+      "sourceBindingSha256": "1fe93eef89d4ed7680b302d6db5fc1cf360a53c73246aa12d16100835345d2b8",
+      "sourceTextSha256": "611f79ec0f6fa7be158874cac0d1fa9f829bf93576889247503809f6335545b9",
+      "freshTranslation": "안나롯",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00245/Sheet1/000006",
+      "sourceBindingSha256": "0701969aa7184d52c4aa79cd9da866e5c6e8ca85fdd999be4b4432289dd21071",
+      "sourceTextSha256": "fba616d534b4f28bde7c1d521b215f7d55220607e1981308bac85069706555da",
+      "freshTranslation": "・스톨스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00245/Sheet1/000007",
+      "sourceBindingSha256": "cef487b4500f37d89565693ef67e75e7a2a280127f51b333c173d2330c5a7e1b",
+      "sourceTextSha256": "3118557c8fe7d1b6d51bf6fa15e43ed0e9231d8efdce5b9cee0c67ddf887bc62",
+      "freshTranslation": "제미니스가 사용하는 양산 기동 무기. ㊥ 행성 제미나이에서 개발된 무기이며, 정예부대인 제미니스에 우선적으로 배 ㊥ 갖춰진 고급기. ㊥ 버전 A는 대장을위한 기체이며 안나롯",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00245/Sheet1/000008",
+      "sourceBindingSha256": "e7e02eb11ec6ba4635858848001e153a6ea012c74f20ba9353e9e4cd4d6b2e6f",
+      "sourceTextSha256": "35146f4685dbff8b191da246a42f4d1e73e1622b15f64274e00827d82fa34c4f",
+      "freshTranslation": "탑승한다. ㊥ 염동 제어라는 맨 머신 인",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00245/Sheet1/000009",
+      "sourceBindingSha256": "7841ac51251e848b792f6859f5f55cf2d4fcd63f3cc79bafe424e11458a8c914",
+      "sourceTextSha256": "2f9987f4ea86dc3901a9fc407f03d89e95fc802ba978e26ad536f8dc4664ca83",
+      "freshTranslation": "- 얼굴을 채용하고, 제미니㊥스 대원의 염동력이 직접 조종에 활용된다. 따라서 기체는 탑승 조종사㊥에 맞추어 세세한 튜닝이 되고 있다.㊥차원력에 의해 추출되는 광 입자를 이용한 각종 무장을, 염동 컨트롤에 의한㊥높은 추종성과",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00245/Sheet1/000010",
+      "sourceBindingSha256": "d654977877b3c876b183a511a6c172d4bde0da3fcaa6a8529623f69c8e7ddf14",
+      "sourceTextSha256": "7227f475b41a2d5d1840546b358fe6c2695b59f7c2498fb0d87777a0e02a12d1",
+      "freshTranslation": "동성능으로 사용하는 것으로 경이적인 격투 능력을 가진다. 특히 제미나이의 전㊥통적인 무술을 기체로 재현하는 '명령아츠'는 기동병기끼리의 전투에서 매우 유㊥효과이며, 그것을 실천하는 디오스크는 제미니어와 함께 제미나이드들에게 ㊥력의 상징이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00245/Sheet1/000011",
+      "sourceBindingSha256": "4d72461b3ea6f9dd93c89d0b22c6501de4054d2bf116e8e820546e648d5dd7d4",
+      "sourceTextSha256": "3118557c8fe7d1b6d51bf6fa15e43ed0e9231d8efdce5b9cee0c67ddf887bc62",
+      "freshTranslation": "제미니스가 사용하는 양산 기동 무기. ㊥ 행성 제미나이에서 개발된 무기이며, 정예부대인 제미니스에 우선적으로 배 ㊥ 갖춰진 고급기. ㊥ 버전 A는 대장을위한 기체이며 안나롯",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00245/Sheet1/000012",
+      "sourceBindingSha256": "5f7bc8d5b2514fa679e2b8fe14a22fe9ce432fc1c3aae8ae5668e44e083341ca",
+      "sourceTextSha256": "35146f4685dbff8b191da246a42f4d1e73e1622b15f64274e00827d82fa34c4f",
+      "freshTranslation": "탑승한다. ㊥ 염동 제어라는 맨 머신 인",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00245/Sheet1/000013",
+      "sourceBindingSha256": "dd4996033a008938f42ead1571cf11cfe7c0362310afa597c66eb9186e4ba7cc",
+      "sourceTextSha256": "2f9987f4ea86dc3901a9fc407f03d89e95fc802ba978e26ad536f8dc4664ca83",
+      "freshTranslation": "- 얼굴을 채용하고, 제미니㊥스 대원의 염동력이 직접 조종에 활용된다. 따라서 기체는 탑승 조종사㊥에 맞추어 세세한 튜닝이 되고 있다.㊥차원력에 의해 추출되는 광 입자를 이용한 각종 무장을, 염동 컨트롤에 의한㊥높은 추종성과",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00245/Sheet1/000014",
+      "sourceBindingSha256": "c610b94adc5f243b1351745ae090f194a12d1bfdc2ba3a2990a0576fef23d37d",
+      "sourceTextSha256": "13a8c3fb0c5afc34e65505a23379253aaac56e83cedee27788943db0dbe35326",
+      "freshTranslation": "동성능으로 사용하는 것으로 경이적인 격투 능력을 가진다. 특히 제미나이의 전㊥통적인 무술을 기체로 재현하는 '명령아츠'는 기동병기끼리의 전투에서 매우 유㊥효과이며, 그것을 실천하는 디오스크는 제미니어와 함께 제미나이드들에게 ㊥력의 상징이었다. ㊥ 제미나이가 멸망한 후에는 생산 라인도 잃어버렸기 때문에 대장의 가드라이트의 판단하에 ㊥ 중요한 작전에만 디오스크가 투입되고 있다. 따라서 제미니스 대원에게 디 ㊥ 오스크에 탑승하는 것은 매우 중요한 의미를 가지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

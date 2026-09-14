@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00080",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00080/Sheet1/000002",
+      "sourceBindingSha256": "caaaebef874cf23907d8fb5a1cc952faa2731b90bbef2280f26703151321d1ce",
+      "sourceTextSha256": "147074e9891747d26fb8933a1cf7b3f2fdd1a15e0a2aa0249ae6d9a690eee99d",
+      "freshTranslation": "시공진동탄",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00080/Sheet1/000003",
+      "sourceBindingSha256": "5686206709dfc2265eaca3f81da79b60b6f54bb63904f721e444e91cb574ea5a",
+      "sourceTextSha256": "b32f3283f80d7caf29d28fd55849a9c647ab2f8c197870f3e239d695ed4d21e2",
+      "freshTranslation": "「초시 공세기 오거스」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00080/Sheet1/000004",
+      "sourceBindingSha256": "d13221c5a2d8c6b67849a536abcc4bf8d5d3d54d98f304128e6f5bf164677f5a",
+      "sourceTextSha256": "a46be2615d7bf4b567149968e50f7efaf38506edd02dc2cd5672c33f9f1bba3c",
+      "freshTranslation": "병행 세계간의 벽을 파괴한 거대한 시공진동을 발생시킨 장치. ㊥ 본래는 주변의 공간을 강제적으로 전이시키는 무기였지만, 폭주 사고에 의해 ㊥ 상정한 이상의 효과를 낳아 다원 세계를 탄생시켜 버렸다. ㊥ 기동시, 그 자리에 있던 가쓰라기 가쓰라와 올슨 드 베른은 특이점이 되어, ㊥ 혼란한 시공을 수복하는 열쇠가 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00080/Sheet1/000005",
+      "sourceBindingSha256": "5c1fac248a1186e3607b50e25860bc0efb30c8b96d57637533b53fa290894d64",
+      "sourceTextSha256": "a46be2615d7bf4b567149968e50f7efaf38506edd02dc2cd5672c33f9f1bba3c",
+      "freshTranslation": "병행 세계간의 벽을 파괴한 거대한 시공진동을 발생시킨 장치. ㊥ 본래는 주변의 공간을 강제적으로 전이시키는 무기였지만, 폭주 사고에 의해 ㊥ 상정한 이상의 효과를 낳아 다원 세계를 탄생시켜 버렸다. ㊥ 기동시, 그 자리에 있던 가쓰라기 가쓰라와 올슨 드 베른은 특이점이 되어, ㊥ 혼란한 시공을 수복하는 열쇠가 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

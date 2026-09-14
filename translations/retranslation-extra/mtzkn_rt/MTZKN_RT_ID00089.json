@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00089",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00089/Sheet1/000002",
+      "sourceBindingSha256": "f7430ee7419bd6fa64fe7ebc6ba6c4668c99efa3746b2b8af4e7a714194404ce",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00089/Sheet1/000003",
+      "sourceBindingSha256": "ef708d4a42266eb4f26fff8239163e91260a1feb91ac62b85aba8c6bccf8fc8a",
+      "sourceTextSha256": "4b11e5255540e596af8d86d747f4920477c3c07606efd6af1227fdf98f13d08f",
+      "freshTranslation": "길라 줄",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00089/Sheet1/000004",
+      "sourceBindingSha256": "6dccbc057de46395abeee2dd2cfc81e2ddc1a929a45b43f8136e3f5037887fb7",
+      "sourceTextSha256": "4b11e5255540e596af8d86d747f4920477c3c07606efd6af1227fdf98f13d08f",
+      "freshTranslation": "길라 줄",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00089/Sheet1/000005",
+      "sourceBindingSha256": "df8eb5ffe10b791e31a625461f187553255fd9c6fd4acdcc5c4f8248fa6d03d9",
+      "sourceTextSha256": "8b0bd1f098aa82b275226cc5fec425563123ea2b82b36f5729dc04d015d4c0e7",
+      "freshTranslation": "애너하임 일렉트로닉스사가 기라 도가를 베이스로 개발한, 소매 첨부의 주㊥힘 모빌 슈트. ㊥녹색의 기체색이나 모노아이 등, 지금까지의 지온계의 주력 모빌 슈트의 흐름을 권㊥한 기체로, 가스 마스크와 같은 구조의 입가가 특징. 팔부에는, 「소매 첨부」의 유래가 되는 ㊥한 장식이 베풀어지고 있다. ㊥ 기라 도가보다 전반적인 성능이 향상되었지만,이 기체의 가장 큰 장점은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00089/Sheet1/000006",
+      "sourceBindingSha256": "f826a7e36743d7393768ce127cddb7b2f954ef655a72c2446ebb55253f677cd3",
+      "sourceTextSha256": "b00dee50c8cc135541de371a21ee71bb1816a33dcf5cc316445887707de4dc8f",
+      "freshTranslation": "용성 ㊥의 높이에 있다. 바리에이션이 풍부하게 존재하고 있어 상황에 따라 장비를 교환하는 ㊥ 일로 다양한 작전에 대응할 수 있다. ㊥ 그러므로 테러리스트로 규정되는 규모 밖에 없는 소매 첨부에 있어서는, 강력한 모비㊥르슈트로서 이상의 가치를 가지는 기체가 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00089/Sheet1/000007",
+      "sourceBindingSha256": "6de7e0f1bd29d9be15f63fd6972de2d4e9298a2d68997c846bb2911dea73494d",
+      "sourceTextSha256": "8b0bd1f098aa82b275226cc5fec425563123ea2b82b36f5729dc04d015d4c0e7",
+      "freshTranslation": "애너하임 일렉트로닉스사가 기라 도가를 베이스로 개발한, 소매 첨부의 주㊥힘 모빌 슈트. ㊥녹색의 기체색이나 모노아이 등, 지금까지의 지온계의 주력 모빌 슈트의 흐름을 권㊥한 기체로, 가스 마스크와 같은 구조의 입가가 특징. 팔부에는, 「소매 첨부」의 유래가 되는 ㊥한 장식이 베풀어지고 있다. ㊥ 기라 도가보다 전반적인 성능이 향상되었지만,이 기체의 가장 큰 장점은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00089/Sheet1/000008",
+      "sourceBindingSha256": "0faaae68406bb1e3269a87c5c7764c2945351689783653a4fbb264f6c8cb883d",
+      "sourceTextSha256": "b00dee50c8cc135541de371a21ee71bb1816a33dcf5cc316445887707de4dc8f",
+      "freshTranslation": "용성 ㊥의 높이에 있다. 바리에이션이 풍부하게 존재하고 있어 상황에 따라 장비를 교환하는 ㊥ 일로 다양한 작전에 대응할 수 있다. ㊥ 그러므로 테러리스트로 규정되는 규모 밖에 없는 소매 첨부에 있어서는, 강력한 모비㊥르슈트로서 이상의 가치를 가지는 기체가 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

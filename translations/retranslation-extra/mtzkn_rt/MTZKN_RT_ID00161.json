@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00161",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00161/Sheet1/000002",
+      "sourceBindingSha256": "69ccff333a2826d951dae494c91c7db5b3deca5cec66037318bf1ad94304fbc7",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00161/Sheet1/000003",
+      "sourceBindingSha256": "988f3b4316a57188fa6dbfcc23243a56892fe2c113c867b463e4d58d4bc8f3c8",
+      "sourceTextSha256": "ba007998ec24ec1e337234b250f5f39ada027931f2170bc347c2069752a4b45b",
+      "freshTranslation": "제우스 신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00161/Sheet1/000004",
+      "sourceBindingSha256": "0d8beb3629d6ec7c77a3bd7d2a815a210752a51f028e5a86d5c23190f70af897",
+      "sourceTextSha256": "ba007998ec24ec1e337234b250f5f39ada027931f2170bc347c2069752a4b45b",
+      "freshTranslation": "제우스 신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00161/Sheet1/000005",
+      "sourceBindingSha256": "6f058f2ec1e82bbae07cfb533d286aa307a6d90387eaadc83dfd766e600fa137",
+      "sourceTextSha256": "46af1e5713b7a3a9e1b05d5294a7625f025045bbb92fb4ea75ae10cd70b785e8",
+      "freshTranslation": "미케네 삼대신의 한 기둥으로 하나님 안의 하나님. ㊥ 옛날, 미케네 신들로부터 인류를 보호하기 위해 반란을 일으켰습니다. ㊥ 전투시에는 신체의 갑옷이 황금빛으로 빛난다. 손에 넣는 무기는 변환자재로, 상시는 검, 때로는㊥창으로 변화한다. 또, 그 검이나 이마에는 「Z」의 문자가 새겨져 있다. ㊥ 고아와 츠바사와 아슈라 남작이 케도라의 기억의 세계인 고대 미케네에 뛰어들어 ㊥ 때에 만났다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00161/Sheet1/000006",
+      "sourceBindingSha256": "46b839913201f8d1ae5fb8209646a2f305856ac4babd8d260166ee311b62c5c3",
+      "sourceTextSha256": "5a5511345710d82418c29920733f7826f9b03ae324e23f871cf753ed577375e7",
+      "freshTranslation": "미케네 삼대신의 한 기둥으로 하나님 안의 하나님. ㊥ 옛날, 미케네 신들로부터 인류를 보호하기 위해 반란을 일으켰습니다. ㊥ 전투시에는 신체의 갑옷이 황금빛으로 빛난다. 손에 넣는 무기는 변환자재로, 상시는 검, 때로는㊥창으로 변화한다. 또, 그 검이나 이마에는 「Z」의 문자가 새겨져 있다. ㊥ 고아와 츠바사와 아슈라 남작이 케도라의 기억의 세계인 고대 미케네에 뛰어들어 ㊥ 때에 만났다. ㊥책모에 의해 불의를 찌르고, 하데스에 오른팔을 잘라내지만, 마징가 Z와의 ㊥공투에 의해 하데스를 물리쳤다. 잘라낸 오른팔은 재파늄 광석이 되어 초합㊥금 Z와 광자력 에너지의 원으로서 바도스 섬의 지하에 남게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

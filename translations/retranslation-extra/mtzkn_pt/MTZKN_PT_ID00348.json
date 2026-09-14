@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00348",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00348/Sheet1/000002",
+      "sourceBindingSha256": "d9a8f75059b8527e6bd277a3177a7945673d4e85aca7d79c3b912dde52d709d5",
+      "sourceTextSha256": "9efc037dfd7ac16edb4db53fda2f8a9f7952a82991d14b9cc1551bbaf3f49525",
+      "freshTranslation": "스즈하라 토우지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00348/Sheet1/000003",
+      "sourceBindingSha256": "346f343e1709bd3667ed6458145bcba82be1ab91168f311e703ddbc81f09d995",
+      "sourceTextSha256": "a1f11b49a59cef3b264b1cfc32da653f940bf337265e433acc2573e0b70578f2",
+      "freshTranslation": "토우지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00348/Sheet1/000004",
+      "sourceBindingSha256": "4a457cc0a0f8cfaa5c9155793bc99607cab7c062a626c1a5b6f4b3bd6dc24b12",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00348/Sheet1/000005",
+      "sourceBindingSha256": "536ccb66478fcc3a3f96aa14c37fdb4bbd82270df105d9acfada973ed1007757",
+      "sourceTextSha256": "ee2d0387b1975cead3c32955c5f8bdb0850a21ace33c14e5e3e7d57593473026",
+      "freshTranslation": "세키 토모이치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00348/Sheet1/000006",
+      "sourceBindingSha256": "0244ba88f0b277b70a2c4cb31b23ba235336c6005c33f6727bcfa2d86ecbf19f",
+      "sourceTextSha256": "db60f29375c7ddf95180c2e78ae26a30d4a5789b84463efbac8b4225d3b255ea",
+      "freshTranslation": "제3신도쿄 시립 제일 중학교 2년 A조의 학생. ㊥ 언제나 저지를 입고 간사이 사투리에서 말한다. ㊥신지와는 당초 싸움에 휘말려 여동생이 부상을 당한 분노를 부딪히는 험악 ㊥인 관계였지만 필사적으로 사도와 싸우는 모습을 목격하고 화해한다. ㊥ 이후는 켄스케와 함께 좋은 친구가 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00348/Sheet1/000007",
+      "sourceBindingSha256": "256eca32a45df481832f94d1260f769ff644f878eafac696806a3f952bfb3438",
+      "sourceTextSha256": "db60f29375c7ddf95180c2e78ae26a30d4a5789b84463efbac8b4225d3b255ea",
+      "freshTranslation": "제3신도쿄 시립 제일 중학교 2년 A조의 학생. ㊥ 언제나 저지를 입고 간사이 사투리에서 말한다. ㊥신지와는 당초 싸움에 휘말려 여동생이 부상을 당한 분노를 부딪히는 험악 ㊥인 관계였지만 필사적으로 사도와 싸우는 모습을 목격하고 화해한다. ㊥ 이후는 켄스케와 함께 좋은 친구가 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

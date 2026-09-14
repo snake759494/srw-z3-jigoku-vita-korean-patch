@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00153",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00153/Sheet1/000002",
+      "sourceBindingSha256": "dc12110d8d1b8e73a48a14d415b2f5c20f31e2ed12470f91c3ea5d9f9d25ffaa",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00153/Sheet1/000003",
+      "sourceBindingSha256": "f160e30fac09bb5421cb03ce687424ecd879fa81c179621a3819ff7eead966c5",
+      "sourceTextSha256": "d411031a36e36cf3bfb69ed7d50795b6992b38236c93ca7a290147688beafa9e",
+      "freshTranslation": "고스트 파이어 V9",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00153/Sheet1/000004",
+      "sourceBindingSha256": "7c4285bb9ed21af566b7b392216a04e1b47470507c31cafcfac513757e6ce2a3",
+      "sourceTextSha256": "d411031a36e36cf3bfb69ed7d50795b6992b38236c93ca7a290147688beafa9e",
+      "freshTranslation": "고스트 파이어 V9",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00153/Sheet1/000005",
+      "sourceBindingSha256": "be89f2c9e062e68badb49ee01bd3cc592dfd2d6bc47798e6960c10c82e00cb54",
+      "sourceTextSha256": "4f855fd74fb554a383d60aa2bfb48e9de84c3bd8a1f52afdc3169e1ab0fda722",
+      "freshTranslation": "제9화 『발동! 일본 침략 작전! 』에 등장한 기계 짐승. ㊥ 화염방사 외에, 양팔의 사슬 첨부 철구에 의한 공격도 강력. 슈퍼로봇군단의 공격 ㊥을 어쩔 수 없었을 뿐만 아니라, 트로스 D7과의 연계로 마징가 Z와 교차했다. ㊥ 철구에서 마징가 Z를 깎아 냈을 때, 반대로 파워 져서 휘두른다. 트로스 ㊥D7과 격돌된 끝에 브레스트파이어에서 한망 타진됐다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00153/Sheet1/000006",
+      "sourceBindingSha256": "1ed04ba7ee52fe0ecab5f7915559205d01c1f9cdb86b63212db66b10de4d7f7f",
+      "sourceTextSha256": "4f855fd74fb554a383d60aa2bfb48e9de84c3bd8a1f52afdc3169e1ab0fda722",
+      "freshTranslation": "제9화 『발동! 일본 침략 작전! 』에 등장한 기계 짐승. ㊥ 화염방사 외에, 양팔의 사슬 첨부 철구에 의한 공격도 강력. 슈퍼로봇군단의 공격 ㊥을 어쩔 수 없었을 뿐만 아니라, 트로스 D7과의 연계로 마징가 Z와 교차했다. ㊥ 철구에서 마징가 Z를 깎아 냈을 때, 반대로 파워 져서 휘두른다. 트로스 ㊥D7과 격돌된 끝에 브레스트파이어에서 한망 타진됐다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

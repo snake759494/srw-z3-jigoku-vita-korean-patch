@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00337",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00337/Sheet1/000002",
+      "sourceBindingSha256": "b26d7aea082a3d3244f6c5156e29133fdbc69ce591866dbc94df80ce3c2c397e",
+      "sourceTextSha256": "b00c5dd477fcc2c2e043d4f7b46d42fb2c41303901d866f694018767fdaca387",
+      "freshTranslation": "아카기 리츠코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00337/Sheet1/000003",
+      "sourceBindingSha256": "fa7bb8b39f625347f2f45b0e0efeba09dbe3c9654890f7bdb617df7c61dffd9d",
+      "sourceTextSha256": "20fdc17ce138c21be750038d9de943a8f0d7a31a7aead8d655d91d573fe32640",
+      "freshTranslation": "리츠코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00337/Sheet1/000004",
+      "sourceBindingSha256": "d7dbd869bc017c83ae4ed9a71d880edb30a4e080d94499838594b9889bd648f7",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00337/Sheet1/000005",
+      "sourceBindingSha256": "fbf5e2f5409adc3dd40a9724d436d51cccca7602420d07fa4b88139c7b9e62ba",
+      "sourceTextSha256": "fc81687c6c1d5ea33dee53f95d400b18f448f40150a9b97b6a27d50f7008a341",
+      "freshTranslation": "특무기관 NERV의 기술개발부 기술국 제1과에 소속. 30세. ㊥EVA의 개발이 목적인 \"E 계획\"을 담당하는 과학자. ㊥ 아무것도 이지적, 합리적인 사고방식을 한다. 하지만, 조금 융통성이 없는 곳도 있어, ㊥미사토로부터는 「농담의 통하지 않는 녀석」이라고 평가된다. 그것은 직무중에도 마찬가지이며, ㊥ 대담한 책을 전개하는 미사토와 대립하는 일도 적지 않다. ㊥ 그러나 미사토는 학생 시절부터의 교제이기도 하고, 그러한 곳도 포함하여 서로 ㊥를 친구로 인정하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00337/Sheet1/000006",
+      "sourceBindingSha256": "f3689fd7d4d47bdf241cdf70798ec600714b45887314e663c59d7ca7891b9c25",
+      "sourceTextSha256": "fc81687c6c1d5ea33dee53f95d400b18f448f40150a9b97b6a27d50f7008a341",
+      "freshTranslation": "특무기관 NERV의 기술개발부 기술국 제1과에 소속. 30세. ㊥EVA의 개발이 목적인 \"E 계획\"을 담당하는 과학자. ㊥ 아무것도 이지적, 합리적인 사고방식을 한다. 하지만, 조금 융통성이 없는 곳도 있어, ㊥미사토로부터는 「농담의 통하지 않는 녀석」이라고 평가된다. 그것은 직무중에도 마찬가지이며, ㊥ 대담한 책을 전개하는 미사토와 대립하는 일도 적지 않다. ㊥ 그러나 미사토는 학생 시절부터의 교제이기도 하고, 그러한 곳도 포함하여 서로 ㊥를 친구로 인정하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

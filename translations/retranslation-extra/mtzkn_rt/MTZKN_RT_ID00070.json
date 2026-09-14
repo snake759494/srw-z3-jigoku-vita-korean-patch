@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00070",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00070/Sheet1/000002",
+      "sourceBindingSha256": "3a0c1e1c0e50b35cf9eaddfe9ce8708badda42d6bdd3e5aa6ef4ed38863b43d6",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00070/Sheet1/000003",
+      "sourceBindingSha256": "3f645f29a1feffea357739c62a5bef52cd19b2994180c2c783588cee2ae6f391",
+      "sourceTextSha256": "d3f82e837748bd4f8ba42fcfee6a3eeb15fe77711cb3299ad96378df9809ad25",
+      "freshTranslation": "건담 사바냐",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00070/Sheet1/000004",
+      "sourceBindingSha256": "c37618ec24c2d58d42dd93398f847f665bc8dfaeb596a616f30be079777999be",
+      "sourceTextSha256": "d3f82e837748bd4f8ba42fcfee6a3eeb15fe77711cb3299ad96378df9809ad25",
+      "freshTranslation": "건담 사바냐",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00070/Sheet1/000005",
+      "sourceBindingSha256": "9ebe8a05cd2cbcc1eb6000e478d241af58e0d81cf7b62a21d4919cef7af1e73e",
+      "sourceTextSha256": "8a99261b7da433564df6a18c91a2b43ad5468da6e28a3286c4ee601783100f0d",
+      "freshTranslation": "록온 스트라스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00070/Sheet1/000006",
+      "sourceBindingSha256": "2234ee40d3194f0710debb49c9765e4d926883c09f40a9d809ae690da72d05c6",
+      "sourceTextSha256": "51e42abca4c93fdb859f7ba709f874e363da78b27b93c895de72a87c04fee915",
+      "freshTranslation": "켈디 건담의 계보를 계승하는 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00070/Sheet1/000007",
+      "sourceBindingSha256": "e0d43cc8fd2c55df6b8e6de8cbf3873a4888017215d9516bcaebcda1e80a437d",
+      "sourceTextSha256": "d3cb9a1a870ad0779a19aa1fc537a3b1e4458764572682f40b0642b396704970",
+      "freshTranslation": "루비잉의 5세대 건담. ㊥ 록온 스트라토스가 탑승한다. ㊥ 동계통의 듀나메스, 켈디임은 파일럿 특성을 살려 저격 특화의 기체와 ㊥해 개발되어 왔지만, 본 기체는 대다수와의 전투 상황을 고려해, 전방위 사격을 가능하게 ㊥ 하도록 재설계 ㊥ 메인 무장에는 라이플로도 권총으로도 사용 가능한 GN 라이플 비트 ㊥Ⅱ를 복수 장비. 이것은 원격 유도 무기로도 사용할 수 있으며 동시 전개도 가능하다. 또한 ㊥에이 소총을 저장하는 호루스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00070/Sheet1/000008",
+      "sourceBindingSha256": "a9c0aed98688b4d679731449dbfe8dfd81bafc2e2b73101c21ce5efed72a0559",
+      "sourceTextSha256": "be7d41621cdfb934beeeffd46ce265099df92aa26f7f4d28007c88d462be41d0",
+      "freshTranslation": "또한 쉴드 비트로 확장되어 ㊥됩니다. ㊥ 또, 전신에 GN 마이크로 미사일을 내장하는 것으로, 화력의 향상이 도모되고 있다. ㊥ 복잡화된 화기관제는 2대에 증설된 할로에 의해 서포트되며, 이들 무기 ㊥를 동시에 사용하는 것도 가능해지고 있다. ㊥ 이러한 장비에 의해, 모든 레인지에 대응한 포격용 모빌 슈트로서, 본㊥기는 완성되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00070/Sheet1/000009",
+      "sourceBindingSha256": "845898ccd025515ae7003d1db2fabd1343f8523742c04286443b82cf4def3d47",
+      "sourceTextSha256": "51e42abca4c93fdb859f7ba709f874e363da78b27b93c895de72a87c04fee915",
+      "freshTranslation": "켈디 건담의 계보를 계승하는 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00070/Sheet1/000010",
+      "sourceBindingSha256": "a377757915902567753057e8abccb2275dc9b7ed38fddae7868649ea1f1e262a",
+      "sourceTextSha256": "d3cb9a1a870ad0779a19aa1fc537a3b1e4458764572682f40b0642b396704970",
+      "freshTranslation": "루비잉의 5세대 건담. ㊥ 록온 스트라토스가 탑승한다. ㊥ 동계통의 듀나메스, 켈디임은 파일럿 특성을 살려 저격 특화의 기체와 ㊥해 개발되어 왔지만, 본 기체는 대다수와의 전투 상황을 고려해, 전방위 사격을 가능하게 ㊥ 하도록 재설계 ㊥ 메인 무장에는 라이플로도 권총으로도 사용 가능한 GN 라이플 비트 ㊥Ⅱ를 복수 장비. 이것은 원격 유도 무기로도 사용할 수 있으며 동시 전개도 가능하다. 또한 ㊥에이 소총을 저장하는 호루스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00070/Sheet1/000011",
+      "sourceBindingSha256": "47ba5153fe9be65e2467efe4a2390ee46ef195f790d3c5683e390a9ad62eeada",
+      "sourceTextSha256": "be7d41621cdfb934beeeffd46ce265099df92aa26f7f4d28007c88d462be41d0",
+      "freshTranslation": "또한 쉴드 비트로 확장되어 ㊥됩니다. ㊥ 또, 전신에 GN 마이크로 미사일을 내장하는 것으로, 화력의 향상이 도모되고 있다. ㊥ 복잡화된 화기관제는 2대에 증설된 할로에 의해 서포트되며, 이들 무기 ㊥를 동시에 사용하는 것도 가능해지고 있다. ㊥ 이러한 장비에 의해, 모든 레인지에 대응한 포격용 모빌 슈트로서, 본㊥기는 완성되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

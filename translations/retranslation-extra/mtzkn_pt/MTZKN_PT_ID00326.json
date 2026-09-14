@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00326",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00326/Sheet1/000002",
+      "sourceBindingSha256": "819c30f5ac8b323529d0234aa28a249fa2c6553eb18a45cc7d55302554df9b40",
+      "sourceTextSha256": "cbde56f94ca3db08bde12fbeadc32066d5d2b7822fedaa19449be10fbb9d97cb",
+      "freshTranslation": "키요 리트너",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00326/Sheet1/000003",
+      "sourceBindingSha256": "c2cca327fdecd539f20dffa556b7090a7c622d9b14c262b5f9137517755cc708",
+      "sourceTextSha256": "e8b85ae6fb8176016266ce9c0e60c9fc073b53e10ce8094c16d5f4685852c3db",
+      "freshTranslation": "키요",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00326/Sheet1/000004",
+      "sourceBindingSha256": "d904d2e92047c04c1263b2735a21659fbe3f754dca7b09f43f8ef9539fca950f",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00326/Sheet1/000005",
+      "sourceBindingSha256": "60eb129f4fb4e0cb2691f46457f4a06edf09d76a78b8583c7dff00b7b31ee71a",
+      "sourceTextSha256": "2e74e5c17d8760bb13294c74b8ee4d268f9b6469bd2410dea597548ad24e5614",
+      "freshTranslation": "「흑의 형제」의 장녀. 구 성은 바티카. ㊥수인 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00326/Sheet1/000006",
+      "sourceBindingSha256": "429f4ba6798e73bc668b462bc71a20b6d267276ee66397af54b3dfb008e75d41",
+      "sourceTextSha256": "c02558092259d0e92cfa7412c589eaca8499274323b10e0d41a691768ac7cb22",
+      "freshTranslation": "ー로서 행동하고 있을 때, 시몬들과 만난다. 큰 글렌단에 합류하면㊥키얄과 함께 다이글렌의 제3함교에서 포수가 되고, 나중에 다야카이저에 탑승. 격투㊥센스도 뛰어나 생신으로 수인과 교제한 일도 있었다.㊥명랑하고 포용력이 있어 형제 중에서는 장녀라기보다 어머니와 같은 존재였다.㊥당초는 카미나에 열을 올리고 있었지만, 나선왕과의 싸움을 마친 후, 다야카와 결혼.㊥이윽고 사랑의 결정인 안네를 출산했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00326/Sheet1/000007",
+      "sourceBindingSha256": "05435e8b4fd8307660fb52d95f42df76dadaeac883c93c9c29f71dace13dfdbc",
+      "sourceTextSha256": "2e74e5c17d8760bb13294c74b8ee4d268f9b6469bd2410dea597548ad24e5614",
+      "freshTranslation": "「흑의 형제」의 장녀. 구 성은 바티카. ㊥수인 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00326/Sheet1/000008",
+      "sourceBindingSha256": "212fe2c9c3f5c50f5635d2c1388bee7f81f263d88980811690d21ecea77c8e01",
+      "sourceTextSha256": "d723d57fe08615f8063b08e4da46bb9d49f776c8ba9e5f1937f6edf589f8128f",
+      "freshTranslation": "ー로서 행동하고 있을 때, 시몬들과 만난다. 큰 글렌단에 합류하면㊥키얄과 함께 다이글렌의 제3함교에서 포수가 되고, 나중에 다야카이저에 탑승. 격투㊥센스도 뛰어나 생신으로 수인과 교제한 일도 있었다.㊥명랑하고 포용력이 있어 형제 중에서는 장녀라기보다 어머니와 같은 존재였다.㊥당초는 카미나에 열을 올리고 있었지만, 나선왕과의 싸움을 마친 후, 다야카와 결혼.㊥이윽고 사랑의 결정인 안네를 출산했다.㊥큰 글렌단이 안티 스파이럴과의 결전에 갈 때 남편인 다야카를 웃는 얼굴로㊥발송했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00344",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00344/Sheet1/000002",
+      "sourceBindingSha256": "6f113d48415d8df5a62e051f48b3f08670c36b9a4d33d4f72bbc42f89c38a885",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00344/Sheet1/000003",
+      "sourceBindingSha256": "42df1633811707d6ff47d4567560c254db4032d27497582ec977ab4ae5058a5f",
+      "sourceTextSha256": "aea3380f105198b40bcdb0028b9b25f19b42d30b3a6b9fb82de9824ed899a4a0",
+      "freshTranslation": "수수께끼의 비밀조직으로 사해문서 외전에 따라 '인류보완계획'을 진행하고 있다. ㊥ 멤버들은 모노리스의 모습으로 '현견 사이'에 나타나 겐도우에게 지시를",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00344/Sheet1/000004",
+      "sourceBindingSha256": "52b51aad6833f4aff5fcb6e9b11a793fe36a65eb5e09895c04e73ffb54340359",
+      "sourceTextSha256": "b93db20ce337e0e4e4a0331c917b21b3a99ecb7375a3d3237b7c8d0ce73d0f6e",
+      "freshTranslation": "네.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00344/Sheet1/000005",
+      "sourceBindingSha256": "d094101f5aa7a1a6ff50c2c5094b0377bf0bee5b5e1d55bf56a10e0107c1cfa0",
+      "sourceTextSha256": "aea3380f105198b40bcdb0028b9b25f19b42d30b3a6b9fb82de9824ed899a4a0",
+      "freshTranslation": "수수께끼의 비밀조직으로 사해문서 외전에 따라 '인류보완계획'을 진행하고 있다. ㊥ 멤버들은 모노리스의 모습으로 '현견 사이'에 나타나 겐도우에게 지시를",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00344/Sheet1/000006",
+      "sourceBindingSha256": "5364172b25e261ac894664bdfb61ed1c3642c221efaa70917601af59617f5d67",
+      "sourceTextSha256": "b93db20ce337e0e4e4a0331c917b21b3a99ecb7375a3d3237b7c8d0ce73d0f6e",
+      "freshTranslation": "네.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

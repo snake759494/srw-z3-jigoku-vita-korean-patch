@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00018",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00018/Sheet1/000002",
+      "sourceBindingSha256": "4d3418c46bf3480d43241f1a27d38513f44bc4c37013e15caa65756b470fa137",
+      "sourceTextSha256": "16100e54405964aa6e96e6f0625b215b601620ba0932ebf45a95c4c86034b6c7",
+      "freshTranslation": "구라 킹 Jr.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00018/Sheet1/000003",
+      "sourceBindingSha256": "90eeba468c206f30dcdb73224a0d399965ddfdde27e3b3e82c401863af68206e",
+      "sourceTextSha256": "8c471b5350476760bea4e7be81be0f409905a86d67c5263f2f7d8c1c1499da05",
+      "freshTranslation": "구라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00018/Sheet1/000004",
+      "sourceBindingSha256": "1ade1447a243cf1f794e5ede9eddecf6ebc86869c89f36ee036c5d5f70b432ec",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00018/Sheet1/000005",
+      "sourceBindingSha256": "bbef72497108e8cbb9c364f5945f692935f03f6296d24339fc9e46d0217e0a5e",
+      "sourceTextSha256": "7775374b418c0814062be1610ea60952eca88cefc5710675daaf665f02a7c37d",
+      "freshTranslation": "사이가 미츠키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00018/Sheet1/000006",
+      "sourceBindingSha256": "9e7c421da2cbb259911c7ac787f70db836d2381be7aaf5a7e85bb9288030b4a0",
+      "sourceTextSha256": "d54cbd0285903edc7c54b19c2ecc3a666b24db9bb7e97dabfb4bc2816c2d66a9",
+      "freshTranslation": "우주 마왕의 아들. 통칭, 마수 왕자. ㊥ 지중에서 발굴된 캡슐 속에서 잠이 들었지만, 키시마 박사들의 손으로 ㊥ 깨어났다. ㊥ 그 자리를 만나 악수를 요구한 마타로와 친구가 된다. 키시마가의 면면에도 받아들여 ㊥, 특히 맥키는 열을 올리고 있었다. ㊥이지만, 어느 날 행한 구라의 기억을 찾는 실험에 의해, 그 정체가 우주마왕의 아들㊥인 것이 판명된다. 쇼타로들은 그것을 알리지 않겠지만, 머리에 울린 우주마왕㊥의 목소리에 의해, 자신의 출자를 기억한다. ㊥ 마사타로에게 우정을 느끼고는 있었지만, 아버지인 우주마왕을 따라 지구를 손에 넣는 ㊥ 위해 싸웠다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00018/Sheet1/000007",
+      "sourceBindingSha256": "ca922121109db49256cb2e488117169ca3bbfe9ea8c33e4e118f5b426c15a078",
+      "sourceTextSha256": "d1246b8994b1e09259544394333eb59c255ccda0ce6b8c680869592c3eed693f",
+      "freshTranslation": "우주 마왕의 아들. 통칭, 마수 왕자. ㊥ 지중에서 발굴된 캡슐 속에서 잠이 들었지만, 키시마 박사들의 손으로 ㊥ 깨어났다. ㊥ 그 자리를 만나 악수를 요구한 마타로와 친구가 된다. 키시마가의 면면에도 받아들여 ㊥, 특히 맥키는 열을 올리고 있었다. ㊥이지만, 어느 날 행한 구라의 기억을 찾는 실험에 의해, 그 정체가 우주마왕의 아들㊥인 것이 판명된다. 쇼타로들은 그것을 알리지 않겠지만, 머리에 울린 우주마왕㊥의 목소리에 의해, 자신의 출자를 기억한다. ㊥ 마사타로에게 우정을 느끼고는 있었지만, 아버지인 우주 마왕에 따라 지구를 손에 넣는다 ㊥ 위해서 때로는 부하의 마인 장군을 사용해, 때로는 스스로 스페이스 로보에 탑승해, 몇번이나 ㊥없이 마사타로와 싸웠다. ㊥ 이윽고 마사타로들이 우주마왕 아래에 다가갔을 때, 로비의 입차에 실려 단신 출격. ㊥ 격투 끝에 생명을 잃었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00028",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00028/Sheet1/000002",
+      "sourceBindingSha256": "1661f9ffb5e591da3d73a6e36afcf77a65880166d9ba50a63ab4b2905bad3085",
+      "sourceTextSha256": "278c2de5ec0ee25747151e5f15ff93d5f64a2c9afdb41e77bec401e1e42fd99e",
+      "freshTranslation": "듀라한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00028/Sheet1/000003",
+      "sourceBindingSha256": "f8fde373175b5b738915130203a9bb89ff75d28ef864cebb4c3b02209445b88c",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00028/Sheet1/000004",
+      "sourceBindingSha256": "56460b8dc3e156d1235928df292fc2334563ca1575ce918f667a444646a73cde",
+      "sourceTextSha256": "f98d8e1f96998121b2ee4b1d8cbf2c94ae925fc5957a5f5ed6fa1cc400718edd",
+      "freshTranslation": "유럽의 전승에 남는 요괴. ㊥ 한 손에 자신의 목을 잡고 있다. ㊥ 일부의 전기에는 기사의 모습으로 그려져 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00028/Sheet1/000005",
+      "sourceBindingSha256": "c6fd12875b4a3911586c7afe67818060237d704f32e3f4fd8662432f74094fe3",
+      "sourceTextSha256": "f98d8e1f96998121b2ee4b1d8cbf2c94ae925fc5957a5f5ed6fa1cc400718edd",
+      "freshTranslation": "유럽의 전승에 남는 요괴. ㊥ 한 손에 자신의 목을 잡고 있다. ㊥ 일부의 전기에는 기사의 모습으로 그려져 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

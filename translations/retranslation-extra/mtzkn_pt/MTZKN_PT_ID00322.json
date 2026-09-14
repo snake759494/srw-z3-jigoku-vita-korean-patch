@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00322",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00322/Sheet1/000002",
+      "sourceBindingSha256": "7668027391096a00d35d8c4cae4b9ca09ec96f5eec4e8528a4e3483ea4642d95",
+      "sourceTextSha256": "a4f2ba2f86b59f3b3b156e686a6557174040e2e38b8c27cc647cdf7c7b5582a1",
+      "freshTranslation": "로시우 아다이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00322/Sheet1/000003",
+      "sourceBindingSha256": "18f7516a74c2e564fb0f645827731b1faf892f950225d70c7169f05f42bcdf50",
+      "sourceTextSha256": "03dc526ef8790146a66365b93b94cc16624a2ba36a05e119cb44ec20607ea623",
+      "freshTranslation": "로시우",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00322/Sheet1/000004",
+      "sourceBindingSha256": "aa9b644f5fa48bc3023c2f49d06221f561a46d23c908ea59813b7dcfdf6b6942",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00322/Sheet1/000005",
+      "sourceBindingSha256": "7df06f8634f512655f878fef41e2e4684ce0145140ceffc3c1d4270e1ac7c0f6",
+      "sourceTextSha256": "07bde23a5018e363265be4594454a4b21930c331e562ebdfcc0d1ec4857f5194",
+      "freshTranslation": "신정부의 총사령 보좌관. ㊥ 시몬들이 여행 도중 아다이 마을을 방문했을 때 만나 글렌단의 일원이 되었다. 엄격한 ㊥ 격렬한 마긴 사제로 성장했기 때문에, 사토 아키라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00322/Sheet1/000006",
+      "sourceBindingSha256": "1f18d8c17ea81edad9edc3f17a62789d7c94a9cfa5dd2e7190dd77ef7b4b4473",
+      "sourceTextSha256": "4797c1ff455c86bce0e0d0174bd087f2a8632a228f9c5fd9e645bcffb25645cf",
+      "freshTranslation": "흥미로운 성격. 항상 냉정하고 대국적인 물건의 ㊥ 견해를 하고, 무질서·무궤도인 대그렌단 중에서는 귀중한 상식인으로서, 시몬들에게 아㊥ 두바이스를 보내는 것이 많았다. ㊥카미나의 사후는 글렌의 파일럿으로서 시몬을 서포트하고 있어 기합의 면에서 ㊥도 큰 글렌단의 자격은 충분했다. ㊥ 그 요소는 성장과 더불어 연마가 걸려 있으며, 총사령의 시몬이 정치에 희소 ㊥인 일도 있어 현재는 신정부의 실무를 한 손에 맡고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00322/Sheet1/000007",
+      "sourceBindingSha256": "a0564fdb82cb073f7c1adc62fe98725c754dca32c02c614f073886bb060fc127",
+      "sourceTextSha256": "07bde23a5018e363265be4594454a4b21930c331e562ebdfcc0d1ec4857f5194",
+      "freshTranslation": "신정부의 총사령 보좌관. ㊥ 시몬들이 여행 도중 아다이 마을을 방문했을 때 만나 글렌단의 일원이 되었다. 엄격한 ㊥ 격렬한 마긴 사제로 성장했기 때문에, 사토 아키라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00322/Sheet1/000008",
+      "sourceBindingSha256": "05556682a49167ee8a72ed79ce581933e16152e5ec12aefcfd3d441add4a6c77",
+      "sourceTextSha256": "0361c25c3e8c6d0b98620bfd531028533d8ea1609a07aa66440bc87a5d2c26df",
+      "freshTranslation": "흥미로운 성격. 항상 냉정하고 대국적인 물건의 ㊥ 견해를 하고, 무질서·무궤도인 대그렌단 중에서는 귀중한 상식인으로서, 시몬들에게 아㊥ 두바이스를 보내는 것이 많았다. ㊥카미나의 사후는 글렌의 파일럿으로서 시몬을 서포트하고 있어 기합의 면에서 ㊥도 큰 글렌단의 자격은 충분했다. ㊥ 그 요소는 성장과 더불어 연마가 걸려 있으며, 총사령의 시몬이 정치에 희소 ㊥인 일도 있어 현재는 신정부의 실무를 한 손에 맡고 있다. ㊥ 인류 섬멸 시스템이 발동되면 시민의 폭동을 억제하기 위해 시몬에게 책임을 져 ㊥ 한다는 고통의 결정을 내린다. 과거의 적, 로제놈을 생체 컴퓨팅",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00322/Sheet1/000009",
+      "sourceBindingSha256": "fd5a89a6ac17c9d7ca9424768d45a18dd5920b3e7a3da321d71363cbbdcee06c",
+      "sourceTextSha256": "82c2c5dcafd88466484a5ba5fa89431f01a7b1acce1b6195133ec2a864fae3d0",
+      "freshTranslation": "로 복㊥활동시켜, 발굴한 아크그렌으로 지구 탈출을 도모하는 등, 지도자로서 어떤 수단을 사용㊥라고 해도 인류를 살아남으려 했다. ㊥ 이윽고 자신이 취한 방법이 잘못되었음을 알게 되면, 책임을 지고자 스스로 생명을 ㊥ 단절하려고 한다. 하지만 달려온 시몬과 퀴논의 설득과 꾸짖음으로 생각을 바꿨다. ㊥ 안티 스파이럴과의 결전으로 향하는 시몬들을 배웅하고, 싸움 후, 시몬이 모습을 끄고㊥한 후에도 지도자로서, 그 생애를 인류의 발전을 위해 다했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

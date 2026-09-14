@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00026",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00026/Sheet1/000002",
+      "sourceBindingSha256": "2233a99dde0535306b78753dc53cdad832bb7e25d2ffc442cb7d39dec5af395b",
+      "sourceTextSha256": "eac376868cd32d04bf5d71037f11aaf51be25ee30a904e6d4e3f8a34fcf8bc38",
+      "freshTranslation": "히나타 미카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00026/Sheet1/000003",
+      "sourceBindingSha256": "55878f90be7316c9b4baeb411414999d6cdc05d866c7f20aa31cf07b0f401987",
+      "sourceTextSha256": "7dc16b5561a540e0280da8ed51b2d816bcd119e7965d71ec7bf5c328515184fb",
+      "freshTranslation": "미카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00026/Sheet1/000004",
+      "sourceBindingSha256": "f7c4344089a980a0569b807f7a42323954846f74382e4ad9263dd55193771288",
+      "sourceTextSha256": "2821f723e708a26125b2215f86a494a31e2eb1a3f45f2c6e857b2cc6d0a13f93",
+      "freshTranslation": "롯신 합체 갓 마즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00026/Sheet1/000005",
+      "sourceBindingSha256": "1d21e1d31ddd9079768befa93fd9b0293b9bfa68ba34dcbabf2f7f685b848748",
+      "sourceTextSha256": "b437205028482b80a7d6f280fb4c0b9e241acda6c296b698040781d08fe1dd40",
+      "freshTranslation": "카와 나미하코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00026/Sheet1/000006",
+      "sourceBindingSha256": "8f1f10177a2a0b4876016ebc3bc162a25eb831023370f03762a3d2fe42248dba",
+      "sourceTextSha256": "cd5494f6ef1faa5093ee7b9c7dfc2e22eaa66f72b3dc292de629a50c368e2eb6",
+      "freshTranslation": "크러셔대의 홍일점. 15세. ㊥ 아직 소녀라고 부를 수 있는 연령이지만, 통신 및 정보 분석의 전문가로서 활동㊥약한다. ㊥ 귀찮은 성격이었고, 그 삶에서 고립되기 쉽습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00026/Sheet1/000007",
+      "sourceBindingSha256": "42dbfeae7a2d12ffb95ec4cb47ec477b1a7633fd4897d5cadaae528dd7c7b93a",
+      "sourceTextSha256": "971b7189dcedb641270de9472b94637243b75adafa1118df4dd70ae29b531467",
+      "freshTranslation": "켈을 항상 신경쓰고, ㊥ 팔로우로 돌리는 것이 많았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00026/Sheet1/000008",
+      "sourceBindingSha256": "09e758f01c4a526c0c081faf7c7084aef31c916efeab475ebfb97d4d2245ee4f",
+      "sourceTextSha256": "cd5494f6ef1faa5093ee7b9c7dfc2e22eaa66f72b3dc292de629a50c368e2eb6",
+      "freshTranslation": "크러셔대의 홍일점. 15세. ㊥ 아직 소녀라고 부를 수 있는 연령이지만, 통신 및 정보 분석의 전문가로서 활동㊥약한다. ㊥ 귀찮은 성격이었고, 그 삶에서 고립되기 쉽습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00026/Sheet1/000009",
+      "sourceBindingSha256": "725db4cbf3357f6abe3731ab1743091c5bd3b68e4b0a6d256f8f404172df0058",
+      "sourceTextSha256": "971b7189dcedb641270de9472b94637243b75adafa1118df4dd70ae29b531467",
+      "freshTranslation": "켈을 항상 신경쓰고, ㊥ 팔로우로 돌리는 것이 많았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

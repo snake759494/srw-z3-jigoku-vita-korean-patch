@@ -1,0 +1,2679 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>시옥편 시나리오 대사 뷰어</title>
+  <style>
+    :root {
+      --bg: #070b16;
+      --panel: rgba(15, 23, 42, .92);
+      --panel-2: rgba(22, 32, 57, .94);
+      --line: rgba(148, 163, 184, .2);
+      --muted: #93a4c2;
+      --text: #eef4ff;
+      --accent: #62d5ff;
+      --accent-2: #9c7bff;
+      --good: #54e0a2;
+      --warn: #ffc857;
+      --bad: #ff7b93;
+      --shadow: 0 24px 70px rgba(0, 0, 0, .42);
+    }
+
+    * { box-sizing: border-box; }
+    [hidden] { display: none !important; }
+    html, body { min-height: 100%; }
+    body {
+      margin: 0;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 15% 5%, rgba(73, 144, 255, .16), transparent 34rem),
+        radial-gradient(circle at 90% 0%, rgba(156, 123, 255, .13), transparent 30rem),
+        var(--bg);
+      font-family: "Pretendard", "Noto Sans KR", "Malgun Gothic", system-ui, sans-serif;
+      letter-spacing: .01em;
+    }
+
+    button, input, select { font: inherit; }
+    button { cursor: pointer; }
+    button:disabled { cursor: not-allowed; opacity: .4; }
+
+    .app-shell { width: min(1500px, 100%); margin: 0 auto; padding: 22px; }
+    .topbar {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 18px;
+      margin-bottom: 18px;
+    }
+    .eyebrow {
+      color: var(--accent);
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: .18em;
+      text-transform: uppercase;
+    }
+    h1 { margin: 6px 0 3px; font-size: clamp(24px, 3vw, 38px); letter-spacing: -.045em; }
+    .subtitle { margin: 0; color: var(--muted); font-size: 13px; }
+    .top-status { color: var(--muted); text-align: right; font-size: 12px; line-height: 1.7; }
+    .top-status strong { color: var(--text); }
+
+    .layout { display: grid; grid-template-columns: 330px minmax(0, 1fr); gap: 18px; align-items: start; }
+    .sidebar, .screen-card {
+      border: 1px solid var(--line);
+      background: linear-gradient(145deg, rgba(20, 31, 56, .9), rgba(7, 13, 27, .94));
+      border-radius: 20px;
+      box-shadow: var(--shadow);
+    }
+    .sidebar { padding: 16px; }
+    .section-title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      margin: 0 0 9px;
+      color: #d8e6ff;
+      font-size: 12px;
+      font-weight: 800;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+    .section { padding: 4px 0 17px; border-bottom: 1px solid rgba(148, 163, 184, .12); margin-bottom: 16px; }
+    .section:last-child { border-bottom: 0; margin-bottom: 0; padding-bottom: 0; }
+    .ghost-button, .primary-button, .nav-button {
+      border: 1px solid rgba(148, 163, 184, .22);
+      border-radius: 10px;
+      color: var(--text);
+      background: rgba(30, 45, 76, .75);
+      padding: 9px 11px;
+      transition: border-color .2s, background .2s, transform .2s;
+    }
+    .ghost-button:hover, .primary-button:hover, .nav-button:hover {
+      border-color: rgba(98, 213, 255, .7);
+      background: rgba(39, 67, 109, .88);
+      transform: translateY(-1px);
+    }
+    .primary-button { color: #041522; background: linear-gradient(135deg, var(--accent), #a8f0ff); border: 0; font-weight: 800; }
+    .hint { color: var(--muted); font-size: 11px; line-height: 1.55; margin: 9px 0 0; }
+    .catalog-status {
+      margin-top: 10px;
+      padding: 10px 11px;
+      border: 1px solid rgba(84, 224, 162, .22);
+      border-radius: 10px;
+      color: #bdebd8;
+      background: rgba(18, 79, 65, .22);
+      font-size: 11px;
+      line-height: 1.5;
+    }
+    .catalog-status.error {
+      border-color: rgba(255, 123, 147, .36);
+      color: #ffd3db;
+      background: rgba(112, 33, 56, .25);
+    }
+    label.field-label { display: block; margin: 0 0 6px; color: var(--muted); font-size: 11px; }
+    select, input[type="search"] {
+      width: 100%;
+      border: 1px solid rgba(148, 163, 184, .2);
+      border-radius: 10px;
+      outline: none;
+      color: var(--text);
+      background: #101a31;
+      padding: 10px 11px;
+    }
+    select:focus, input[type="search"]:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(98, 213, 255, .12); }
+    .field + .field { margin-top: 11px; }
+    .game-rule {
+      margin-top: 10px;
+      padding: 9px 10px;
+      border: 1px solid rgba(98, 213, 255, .2);
+      border-radius: 9px;
+      color: #bcd7f5;
+      background: rgba(8, 32, 59, .35);
+      font-size: 10px;
+      line-height: 1.55;
+    }
+    .edit-panel { margin-top: 16px; padding: 15px; border: 1px solid rgba(98, 213, 255, .25); border-radius: 14px; background: rgba(8, 18, 37, .78); }
+    .edit-panel[hidden] { display: none; }
+    .edit-panel-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin-bottom: 11px; }
+    .edit-panel-head h2 { margin: 0; color: #d9e8ff; font-size: 14px; }
+    .edit-panel-head p { margin: 4px 0 0; color: var(--muted); font-size: 10px; line-height: 1.5; }
+    .edit-dirty { flex: 0 0 auto; color: var(--muted); font-size: 10px; white-space: nowrap; }
+    .edit-dirty.dirty { color: #ffd989; }
+    .editor-rows { display: grid; gap: 10px; }
+    .editor-row { padding: 10px; border: 1px solid rgba(148, 163, 184, .16); border-radius: 10px; background: rgba(7, 14, 29, .5); }
+    .editor-meta { display: flex; flex-wrap: wrap; gap: 5px 9px; align-items: baseline; color: var(--muted); font-size: 10px; }
+    .editor-meta strong { color: #d9e8ff; font-size: 11px; }
+    .editor-source { margin: 6px 0; padding: 7px 8px; border-left: 2px solid rgba(98, 213, 255, .45); color: #9fc9e6; background: rgba(8, 32, 59, .3); font-size: 11px; line-height: 1.45; white-space: pre-wrap; overflow-wrap: anywhere; }
+    .entry-editor-input { width: 100%; min-height: 46px; resize: vertical; border: 1px solid rgba(148, 163, 184, .24); border-radius: 8px; outline: none; color: var(--text); background: #0b1529; padding: 8px 9px; font-size: 12px; line-height: 1.45; }
+    .entry-editor-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(98, 213, 255, .12); }
+    .rule-report { margin-top: 11px; padding: 9px 10px; border: 1px solid rgba(148, 163, 184, .18); border-radius: 9px; color: var(--muted); background: rgba(7, 14, 29, .45); font-size: 10px; line-height: 1.55; }
+    .rule-report.ok { border-color: rgba(84, 224, 162, .42); color: #bdebd8; background: rgba(18, 79, 65, .2); }
+    .rule-report.warn { border-color: rgba(255, 200, 87, .44); color: #ffe4a2; background: rgba(91, 61, 15, .22); }
+    .rule-report.error { border-color: rgba(255, 123, 147, .5); color: #ffd3db; background: rgba(112, 33, 56, .24); }
+    .rule-report ul { margin: 5px 0 0 17px; padding: 0; }
+    .rule-report li + li { margin-top: 2px; }
+    .build-status { margin-top: 10px; padding: 9px 10px; border: 1px solid rgba(98, 213, 255, .2); border-radius: 9px; color: var(--muted); background: rgba(7, 14, 29, .45); font-size: 10px; line-height: 1.55; overflow-wrap: anywhere; }
+    .build-status.ok { border-color: rgba(84, 224, 162, .42); color: #bdebd8; background: rgba(18, 79, 65, .2); }
+    .build-status.warn { border-color: rgba(255, 200, 87, .44); color: #ffe4a2; background: rgba(91, 61, 15, .22); }
+    .build-status.error { border-color: rgba(255, 123, 147, .5); color: #ffd3db; background: rgba(112, 33, 56, .24); }
+    .build-status a { color: inherit; font-weight: 800; }
+    .find-status { margin-top: 10px; padding: 9px 10px; border: 1px solid rgba(98, 213, 255, .2); border-radius: 9px; color: var(--muted); background: rgba(7, 14, 29, .45); font-size: 10px; line-height: 1.55; overflow-wrap: anywhere; }
+    .find-status.ok { border-color: rgba(84, 224, 162, .42); color: #bdebd8; background: rgba(18, 79, 65, .2); }
+    .find-status.warn { border-color: rgba(255, 200, 87, .44); color: #ffe4a2; background: rgba(91, 61, 15, .22); }
+    .find-status.error { border-color: rgba(255, 123, 147, .5); color: #ffd3db; background: rgba(112, 33, 56, .24); }
+    .find-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 10px; }
+    .toggle-row { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: 10px; color: #d6e1f2; font-size: 12px; }
+    .toggle-row input { accent-color: var(--accent); }
+    .asset-meta { margin-top: 11px; display: grid; grid-template-columns: 1fr 1fr; gap: 7px; }
+    .stat-box { border: 1px solid rgba(148, 163, 184, .13); border-radius: 10px; padding: 9px; background: rgba(7, 14, 29, .45); }
+    .stat-box span { display: block; color: var(--muted); font-size: 10px; }
+    .stat-box strong { display: block; margin-top: 3px; font-size: 16px; }
+    .status-legend { display: flex; flex-wrap: wrap; gap: 7px; color: var(--muted); font-size: 11px; }
+    .legend-dot { display: inline-flex; align-items: center; gap: 4px; }
+    .legend-dot::before { content: ""; width: 7px; height: 7px; display: inline-block; border-radius: 50%; background: var(--good); }
+    .legend-dot.warn::before { background: var(--warn); }
+    .legend-dot.bad::before { background: var(--bad); }
+
+    .screen-card { padding: 13px; }
+    .game-screen {
+      position: relative;
+      aspect-ratio: 960 / 544;
+      min-height: 0;
+      overflow: hidden;
+      border: 1px solid rgba(156, 123, 255, .62);
+      border-radius: 3px;
+      background:
+        radial-gradient(ellipse at 87% 72%, rgba(80, 190, 242, .85) 0 13%, rgba(22, 105, 173, .85) 23%, transparent 43%),
+        radial-gradient(ellipse at 76% 56%, rgba(14, 68, 84, .72), transparent 34%),
+        radial-gradient(ellipse at 35% 24%, rgba(8, 109, 48, .78), transparent 36%),
+        linear-gradient(145deg, #03050b 0%, #06181c 54%, #07182b 100%);
+      box-shadow: inset 0 0 70px rgba(5, 9, 24, .76), 0 0 0 1px rgba(98, 213, 255, .08);
+      display: flex;
+      flex-direction: column;
+    }
+    .game-screen::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      opacity: .15;
+      background: repeating-linear-gradient(0deg, transparent 0 3px, rgba(255,255,255,.055) 4px 5px);
+      mix-blend-mode: screen;
+    }
+    .screen-header, .scene-space, .source-dialogue-window, .dialogue-window, .screen-footer { position: relative; z-index: 1; }
+    .screen-header {
+      position: absolute;
+      inset: 0 0 auto;
+      z-index: 3;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 15px;
+      padding: 9px 12px;
+      border-bottom: 0;
+      background: linear-gradient(180deg, rgba(2, 5, 14, .58), transparent);
+      pointer-events: none;
+      opacity: .75;
+    }
+    .scene-title { min-width: 0; }
+    .scene-title strong { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 10px; letter-spacing: .08em; }
+    .scene-title span { display: none; }
+    .screen-counter { flex: 0 0 auto; color: #b8c8ec; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 11px; }
+    .scene-space {
+      flex: 1;
+      min-height: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0;
+      text-align: center;
+    }
+    .scene-space::before, .scene-space::after { content: ""; position: absolute; border-radius: 50%; filter: blur(1px); opacity: .7; }
+    .scene-space::before { width: 39%; aspect-ratio: 1; right: -8%; bottom: 9%; border: 1px solid rgba(183, 233, 255, .42); background: radial-gradient(circle at 31% 28%, #e9ffff 0 2%, #75d7f1 13%, #1673b6 45%, #07385b 72%, #02182e 100%); box-shadow: -18px -18px 45px rgba(23, 164, 224, .35); }
+    .scene-space::after { width: 1.5%; aspect-ratio: 1; top: 26%; left: 51%; background: #fff; box-shadow: 130px -50px 0 rgba(255,255,255,.65), -220px 70px 0 rgba(255,255,255,.55), 180px 100px 0 rgba(255,255,255,.45), -300px -110px 0 rgba(255,255,255,.7); }
+    .scene-marker { color: rgba(184, 200, 236, .18); font-size: 9px; letter-spacing: .18em; text-transform: uppercase; }
+    .scene-marker strong { display: block; margin-top: 8px; color: rgba(228, 239, 255, .2); font-size: clamp(19px, 3vw, 32px); letter-spacing: -.03em; }
+    .source-dialogue-window,
+    .dialogue-window {
+      position: relative;
+      margin-left: 132px;
+      margin-right: 16px;
+      border: 1px solid rgba(185, 226, 255, .76);
+      border-radius: 0 5px 5px 0;
+      background: linear-gradient(115deg, rgba(7, 18, 34, .94), rgba(26, 23, 59, .93));
+      box-shadow: 0 12px 35px rgba(0, 0, 0, .44), inset 0 1px 0 rgba(255,255,255,.08);
+    }
+    .source-dialogue-window {
+      flex: 0 0 105px;
+      margin-bottom: 5px;
+      border-color: rgba(160, 208, 255, .56);
+      background: linear-gradient(115deg, rgba(7, 18, 34, .78), rgba(20, 23, 53, .78));
+      box-shadow: 0 8px 22px rgba(0, 0, 0, .32), inset 0 1px 0 rgba(255,255,255,.06);
+    }
+    .dialogue-window {
+      flex: 0 0 139px;
+      margin-bottom: 7px;
+    }
+    .source-dialogue-window::before,
+    .dialogue-window::before {
+      content: "";
+      position: absolute;
+      inset: 29px 9px 7px;
+      border-top: 1px solid rgba(201, 230, 255, .24);
+      border-bottom: 1px solid rgba(201, 230, 255, .2);
+      pointer-events: none;
+    }
+    .source-dialogue-window::before { inset: 27px 9px 6px; border-color: rgba(181, 222, 255, .16); }
+    .source-window-head { display: flex; align-items: center; gap: 9px; min-height: 27px; padding: 0 12px; transform: translateY(-1px); }
+    .source-window-label { color: #8ddfff; font-size: 9px; font-weight: 800; letter-spacing: .14em; }
+    .source-speaker-chip { display: inline-flex; align-items: center; min-height: 22px; max-width: 58%; padding: 2px 9px 3px; border: 1px solid rgba(172, 224, 255, .42); border-radius: 2px 0 0 2px; color: #d8f3ff; background: rgba(8, 30, 54, .76); font-size: 11px; font-weight: 800; }
+    .source-speaker-role { color: #83a9cb; font-size: 9px; }
+    .source-dialogue-body { min-height: 76px; padding: 2px 19px 7px; }
+    .source-dialogue-body,
+    .dialogue-body,
+    .new-dialogue-body { position: relative; overflow: hidden; }
+    .source-dialogue-body::after,
+    .dialogue-body::after,
+    .new-dialogue-body::after {
+      content: "";
+      position: absolute;
+      inset: 2px 19px 7px;
+      pointer-events: none;
+      opacity: .16;
+      background-image:
+        linear-gradient(to right, rgba(170, 216, 255, .54) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(170, 216, 255, .54) 1px, transparent 1px);
+      background-size: calc(100% / var(--grid-columns, 26)) calc(100% / 3);
+      z-index: 0;
+    }
+    .source-dialogue-text { position: relative; z-index: 1; white-space: normal; color: #c8e5f4; font-size: clamp(12px, 1.45vw, 16px); line-height: 1.25; letter-spacing: .03em; text-shadow: 0 1px 5px rgba(0,0,0,.45); }
+    .source-line { display: block; min-height: 1.25em; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .source-line.empty-line { color: transparent; }
+    .source-dialogue-text .token { display: inline-block; margin: 0 2px; padding: 0 3px; border-radius: 3px; color: #051b2d; background: rgba(113, 203, 244, .8); font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: .72em; line-height: 1.35; vertical-align: .08em; }
+    .speaker-line { display: flex; align-items: center; gap: 9px; min-height: 31px; padding: 0 12px; transform: translateY(-1px); }
+    .window-version-label { color: #8aa4c8; font-size: 9px; font-weight: 800; letter-spacing: .12em; }
+    .speaker-chip {
+      display: inline-flex;
+      align-items: center;
+      min-height: 27px;
+      max-width: 58%;
+      padding: 3px 11px 4px;
+      border: 1px solid rgba(221, 243, 255, .64);
+      border-radius: 2px 0 0 2px;
+      color: #f7fbff;
+      background: linear-gradient(180deg, rgba(20, 29, 43, .98), rgba(3, 11, 23, .96));
+      box-shadow: 8px 0 0 -7px rgba(193, 233, 255, .9), 12px 0 0 -10px rgba(193, 233, 255, .7);
+      font-weight: 900;
+      font-size: 12px;
+    }
+    .speaker-chip.narration { color: #d9e9f8; border-color: rgba(174, 206, 232, .5); background: linear-gradient(180deg, rgba(36, 48, 65, .92), rgba(10, 20, 34, .92)); }
+    .speaker-chip.location { color: #ffe8bd; border-color: rgba(255, 200, 87, .58); background: linear-gradient(180deg, rgba(75, 54, 27, .92), rgba(35, 25, 15, .92)); }
+    .speaker-role { color: #a8c7eb; font-size: 10px; }
+    .dialogue-body { min-height: 100px; padding: 3px 19px 9px 19px; }
+    .dialogue-text { position: relative; z-index: 1; white-space: normal; color: #f5f8ff; font-size: clamp(16px, 2vw, 22px); line-height: 1.25; letter-spacing: .08em; text-shadow: 0 2px 8px rgba(0,0,0,.4); }
+    .new-dialogue-window { border-color: rgba(255, 171, 224, .7); background: linear-gradient(115deg, rgba(35, 18, 45, .94), rgba(28, 24, 63, .94)); }
+    .new-dialogue-window::before { border-color: rgba(255, 188, 229, .28); }
+    .new-dialogue-window .speaker-chip { border-color: rgba(255, 190, 231, .7); background: linear-gradient(180deg, rgba(52, 27, 59, .98), rgba(17, 10, 30, .96)); }
+    .new-dialogue-window .window-version-label { color: #ffb9e8; }
+    .new-dialogue-body::after { background-image: linear-gradient(to right, rgba(255, 188, 229, .5) 1px, transparent 1px), linear-gradient(to bottom, rgba(255, 188, 229, .5) 1px, transparent 1px); }
+    .game-line { display: block; min-height: 1.25em; white-space: nowrap; }
+    .game-line.overflow { color: #ffd5dc; text-decoration: underline wavy rgba(255, 123, 147, .9); text-decoration-thickness: 1px; text-underline-offset: 4px; }
+    .game-line.at-limit { color: #ffe7a8; text-decoration: underline dotted rgba(255, 210, 116, .85); text-decoration-thickness: 1px; text-underline-offset: 4px; }
+    .game-line.empty-line { color: transparent; }
+    .dialogue-text.empty { color: #ffb9c5; }
+    .dialogue-text .token { display: inline-block; margin: 0 2px; padding: 0 4px; border-radius: 4px; color: #041522; background: var(--warn); font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: .72em; line-height: 1.45; vertical-align: .08em; }
+    .source-speaker-chip .token { display: inline-block; padding: 1px 4px; border-radius: 3px; font-size: .9em; line-height: 1.2; }
+    .dialogue-text .token.name, .source-dialogue-text .token.name, .source-speaker-chip .token.name { color: #26113b; background: #f4b3ff; }
+    .dialogue-text .token.unit, .source-dialogue-text .token.unit, .source-speaker-chip .token.unit { color: #08261e; background: #78e6bd; }
+    .dialogue-text .token.control, .source-dialogue-text .token.control, .source-speaker-chip .token.control { color: #dbeaff; background: rgba(76, 108, 158, .9); }
+    .dialogue-text .term, .source-dialogue-text .term { color: #ff9bdc; text-shadow: 0 0 8px rgba(255, 120, 212, .35); }
+    .dialogue-text .proper-term, .source-dialogue-text .proper-term { color: #ffc3f0; }
+    .control-strip { display: flex; flex-wrap: wrap; align-items: center; gap: 5px; min-height: 17px; margin: 0 0 3px; color: #9bb6d9; font-size: 9px; letter-spacing: .02em; }
+    .control-strip-label { color: #6683a9; }
+    .control-strip .token { display: inline-block; padding: 1px 4px; border-radius: 4px; font-size: 10px; }
+    .game-nav-rail { position: absolute; top: 23px; right: -1px; bottom: 4px; width: 29px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 7px; border-left: 1px solid rgba(207, 237, 255, .58); background: linear-gradient(90deg, rgba(8, 17, 31, .5), rgba(29, 30, 58, .88)); color: #eef8ff; font-size: 13px; }
+    .game-nav-rail span { width: 20px; height: 20px; display: grid; place-items: center; border: 1px solid rgba(230, 246, 255, .6); border-radius: 50%; line-height: 1; }
+    .screen-footer { display: grid; grid-template-columns: 1fr auto; gap: 12px; align-items: end; padding: 0 16px 9px; }
+    .entry-meta { display: flex; flex-wrap: wrap; gap: 6px 10px; color: var(--muted); font-size: 10px; line-height: 1.5; }
+    .entry-meta strong { color: #d6e5ff; font-weight: 700; }
+    .badges { display: flex; flex-wrap: wrap; gap: 6px; }
+    .badge { display: inline-flex; align-items: center; padding: 3px 7px; border-radius: 999px; color: #a8b9d4; background: rgba(148, 163, 184, .13); font-size: 10px; }
+    .badge.good { color: #8bf3c4; background: rgba(84, 224, 162, .13); }
+    .badge.warn { color: #ffd989; background: rgba(255, 200, 87, .13); }
+    .badge.bad { color: #ffadbb; background: rgba(255, 123, 147, .13); }
+    .nav-bar { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 10px; margin-top: 12px; }
+    .scenario-switch-wrap { display: grid; gap: 6px; margin-top: 10px; }
+    .scenario-switch-buttons { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); gap: 8px; align-items: center; }
+    .scenario-switch-button { width: 100%; min-height: 38px; }
+    .scenario-position { min-width: 92px; color: var(--muted); font-size: 10px; text-align: center; white-space: nowrap; }
+    .scenario-switch-label { color: var(--muted); font-size: 10px; text-align: center; line-height: 1.4; }
+    .nav-button { min-width: 92px; font-weight: 800; }
+    .progress-wrap { min-width: 0; }
+    .progress-track { height: 5px; overflow: hidden; border-radius: 999px; background: rgba(148, 163, 184, .2); }
+    .progress-fill { width: 0; height: 100%; border-radius: inherit; background: linear-gradient(90deg, var(--accent), var(--accent-2)); transition: width .25s ease; }
+    .progress-label { display: flex; justify-content: space-between; gap: 8px; margin-top: 5px; color: var(--muted); font-size: 10px; }
+    .empty-state { display: grid; place-items: center; min-height: 520px; padding: 30px; color: var(--muted); text-align: center; }
+    .empty-state strong { display: block; margin-bottom: 10px; color: var(--text); font-size: 19px; }
+    .toast { position: fixed; right: 22px; bottom: 22px; z-index: 20; max-width: min(400px, calc(100vw - 44px)); padding: 11px 14px; border: 1px solid rgba(98, 213, 255, .4); border-radius: 10px; color: var(--text); background: rgba(9, 22, 44, .95); box-shadow: var(--shadow); font-size: 12px; opacity: 0; transform: translateY(8px); pointer-events: none; transition: opacity .2s, transform .2s; }
+    .toast.show { opacity: 1; transform: translateY(0); }
+    .footer-note { margin-top: 14px; color: #7184a6; font-size: 11px; line-height: 1.65; }
+
+    @media (max-width: 980px) {
+      .layout { grid-template-columns: 1fr; }
+      .sidebar { order: 2; }
+      .screen-card { order: 1; }
+      .game-screen { min-height: 680px; }
+    }
+    @media (max-width: 620px) {
+      .app-shell { padding: 12px; }
+      .topbar { display: block; }
+      .top-status { margin-top: 10px; text-align: left; }
+      .screen-header { padding: 12px; }
+      .source-dialogue-window,
+      .dialogue-window { margin-left: 10px; margin-right: 10px; }
+      .screen-footer { display: block; padding: 0 12px 13px; }
+      .nav-bar { grid-template-columns: 1fr 1fr; }
+      .progress-wrap { grid-column: 1 / -1; grid-row: 1; }
+      .nav-button { width: 100%; }
+    }
+
+    /* 세 버전 비교 레이아웃: 대사창 3개를 1행·2행·3행으로 쌓고,
+       각 대사창 안에서는 버전명·화자명·대사를 3열로 나눈다. */
+    .game-screen { aspect-ratio: auto; min-height: 0; overflow: visible; }
+    .screen-header {
+      position: relative;
+      inset: auto;
+      min-height: 76px;
+      padding: 16px 16px 12px;
+      opacity: 1;
+      pointer-events: auto;
+      background: linear-gradient(180deg, rgba(2, 5, 14, .76), rgba(2, 5, 14, .16));
+    }
+    .scene-title strong { overflow: visible; white-space: normal; font-size: clamp(24px, 3.8vw, 46px); letter-spacing: -.055em; line-height: 1.08; }
+    .scene-title span { display: block; margin-top: 5px; color: #9db4d7; font-size: 11px; letter-spacing: .02em; }
+    .scene-space { display: none; }
+    .comparison-grid,
+    .comparison-grid.without-source,
+    .comparison-grid.without-new,
+    .comparison-grid.without-source.without-new { display: grid; grid-template-columns: minmax(0, 1fr); gap: 8px; padding: 0 12px; align-items: stretch; }
+    .comparison-column {
+      display: grid;
+      grid-template-columns: minmax(112px, .2fr) minmax(170px, .28fr) minmax(0, 1fr);
+      grid-template-rows: minmax(0, 1fr);
+      min-width: 0;
+      /* 게임 대사창은 항상 3줄 슬롯만 사용한다. 글꼴의 3줄 높이와
+         제어문자 표식·패딩만 포함하고, 내용이 길어져도 창 자체는 늘리지 않는다. */
+      height: clamp(102px, calc(6vw + 45px), 124px);
+      min-height: clamp(102px, calc(6vw + 45px), 124px);
+      max-height: clamp(102px, calc(6vw + 45px), 124px);
+      margin: 0;
+      border-radius: 9px;
+      overflow: hidden;
+    }
+    .source-dialogue-window,
+    .dialogue-window { flex: none; margin: 0; }
+    .comparison-version { min-height: 0; display: flex; align-items: center; padding: 0 11px; border-right: 1px solid rgba(201, 230, 255, .2); }
+    .comparison-speaker { display: flex; min-width: 0; min-height: 0; flex-direction: column; align-items: flex-start; justify-content: center; gap: 4px; padding: 7px 11px; border-right: 1px solid rgba(201, 230, 255, .18); }
+    .comparison-speaker .speaker-chip,
+    .comparison-speaker .source-speaker-chip { max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .comparison-speaker .speaker-role,
+    .comparison-speaker .source-speaker-role { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 100%; }
+    .comparison-column .source-dialogue-body,
+    .comparison-column .dialogue-body { min-height: 0; padding: 9px 12px 12px; }
+    /* 원고지 표: 한 줄 최대 칸 수만큼 실제 td를 만들고 글자 하나를 한 칸에
+       넣는다. 용어 괄호·제어문자는 슬롯을 차지하지 않는 표식으로 해당 칸
+       안에 겹쳐 표시한다. */
+    .manuscript-table {
+      width: 100%;
+      table-layout: fixed;
+      border-collapse: collapse;
+      border-spacing: 0;
+      border-top: 1px solid rgba(170, 216, 255, .34);
+      border-right: 1px solid rgba(170, 216, 255, .34);
+      border-bottom: 1px solid rgba(170, 216, 255, .34);
+      position: relative;
+      z-index: 1;
+      color: inherit;
+    }
+    .manuscript-table .manuscript-row { height: 1.25em; }
+    .manuscript-table .manuscript-cell {
+      position: relative;
+      width: calc(100% / var(--grid-columns, 26));
+      height: 1.25em;
+      min-width: 0;
+      padding: 0;
+      border: 1px solid rgba(170, 216, 255, .24);
+      vertical-align: middle;
+      white-space: pre;
+      line-height: 1;
+      text-align: center;
+    }
+    .manuscript-table .manuscript-cell.empty-cell { color: transparent; }
+    /* 반각 공백도 실제 원고지 한 칸을 차지한다. 글자를 넣지 않고
+       빈 칸으로 보이므로, 셀을 살짝 구분해 JSON의 공백이 살아 있음을
+       확인할 수 있게 한다. */
+    .manuscript-table .manuscript-cell.space-cell { background: rgba(164, 220, 255, .055); }
+    .manuscript-char { display: inline-block; white-space: pre; line-height: 1; }
+    .manuscript-char.space-char { display: block; width: 100%; min-height: 1em; }
+    .manuscript-char.control-expanded { color: #ff9bdc; text-shadow: 0 0 8px rgba(255, 120, 212, .35); }
+    .manuscript-char.control-expanded.unit { color: #78e6bd; text-shadow: 0 0 8px rgba(120, 230, 189, .3); }
+    .manuscript-char.control-expanded.control { color: #c5dcff; text-shadow: none; }
+    .manuscript-char.proper-term { color: #ffc3f0; }
+    .manuscript-char.glossary-term-char { color: #ff9bdc; text-shadow: 0 0 8px rgba(255, 120, 212, .35); }
+    .manuscript-char.control-slot { white-space: nowrap; overflow: visible; }
+    .manuscript-row.overflow-row .manuscript-char { color: #ffd5dc; text-decoration: underline wavy rgba(255, 123, 147, .9); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+    .manuscript-row.at-limit-row .manuscript-char { color: #ffe7a8; text-decoration: underline dotted rgba(255, 210, 116, .85); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+    .manuscript-row.empty-row .manuscript-cell { color: transparent; }
+    .manuscript-mark {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      z-index: 3;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      white-space: nowrap;
+      transform: translate(-50%, -50%);
+      pointer-events: auto;
+    }
+    .manuscript-mark.frame-opening {
+      left: -.3em;
+      transform: translate(-100%, -50%);
+    }
+    .manuscript-mark.frame-closing-end {
+      left: calc(100% + .3em);
+      transform: translate(0, -50%);
+    }
+    .manuscript-term-mark { color: #ff9bdc; }
+    .source-manuscript-table {
+      border-top-color: rgba(170, 216, 255, .26);
+      border-right-color: rgba(170, 216, 255, .26);
+      border-bottom-color: rgba(170, 216, 255, .26);
+    }
+    .source-manuscript-table .manuscript-cell { border-color: rgba(170, 216, 255, .18); }
+    /* 각 창 안의 장식용 긴 가로선은 제거하고, 문자 칸 세로 구분선만 남긴다. */
+    .source-dialogue-window::before,
+    .dialogue-window::before { display: none; }
+    .manuscript-table .manuscript-cell {
+      border-top: 0;
+      border-bottom: 0;
+      border-left: 1px solid rgba(170, 216, 255, .24);
+      border-right: 0;
+    }
+    .manuscript-table .manuscript-row + .manuscript-row .manuscript-cell {
+      border-top: 1px solid rgba(170, 216, 255, .24);
+    }
+    .source-manuscript-table .manuscript-cell { border-left-color: rgba(170, 216, 255, .18); }
+    .source-manuscript-table .manuscript-row + .manuscript-row .manuscript-cell {
+      border-top-color: rgba(170, 216, 255, .18);
+    }
+    .source-dialogue-body::after,
+    .dialogue-body::after,
+    .new-dialogue-body::after { display: none; }
+    .comparison-column .dialogue-text { font-size: clamp(13px, 1.6vw, 21px); letter-spacing: .045em; }
+    .comparison-column .source-dialogue-text { font-size: clamp(11px, 1.25vw, 15px); }
+    .comparison-column .control-strip { margin-bottom: 7px; }
+    .screen-footer { grid-template-columns: minmax(0, 1fr) minmax(280px, 42%); align-items: start; padding: 10px 12px 12px; }
+    .screen-controls { display: grid; gap: 8px; min-width: 0; }
+    .screen-page-nav { text-align: right; }
+    .scenario-switch-wrap { margin-top: 0; }
+    .scenario-switch-label { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    @media (max-width: 980px) {
+      .comparison-grid,
+      .comparison-grid.without-source,
+      .comparison-grid.without-new,
+      .comparison-grid.without-source.without-new { grid-template-columns: minmax(0, 1fr); }
+      .game-screen { min-height: 0; }
+    }
+    @media (max-width: 620px) {
+      .comparison-column { height: clamp(102px, calc(6vw + 45px), 124px); min-height: clamp(102px, calc(6vw + 45px), 124px); max-height: clamp(102px, calc(6vw + 45px), 124px); grid-template-columns: 82px 120px minmax(0, 1fr); }
+      .screen-footer { display: grid; grid-template-columns: 1fr; padding: 10px 12px 13px; }
+      .screen-page-nav { text-align: left; }
+      .screen-controls { order: -1; }
+    }
+  </style>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div>
+        <div class="eyebrow">SRW Z / JIGOKU-HEN</div>
+        <h1>시나리오 대사 뷰어</h1>
+        <p class="subtitle">공통 JSON을 게임 대사창과 유사한 화면으로 읽고 검수하는 로컬 도구</p>
+      </div>
+      <div class="top-status" id="globalStatus">파일을 불러오면 시나리오 목록이 표시됩니다.</div>
+    </header>
+
+    <main class="layout">
+      <aside class="sidebar">
+        <section class="section">
+          <h2 class="section-title">시나리오 목록 <span>CATALOG</span></h2>
+          <p class="hint" style="margin-top:0;">저장소의 시나리오 카탈로그를 자동으로 읽습니다. 아래 목록에서 고르면 해당 파일만 불러옵니다.</p>
+          <div id="catalogStatus" class="catalog-status" role="status">카탈로그를 불러오는 중…</div>
+          <button id="reloadCatalogButton" class="ghost-button" style="width:100%; margin-top:10px;">목록 새로고침</button>
+          <p class="hint">직접 HTML 파일을 열어 브라우저가 차단하면 <code>viewer/시나리오_대사_뷰어_실행.cmd</code>를 실행하세요.</p>
+        </section>
+
+        <section class="section">
+          <h2 class="section-title">탐색</h2>
+          <div class="field">
+            <label class="field-label" for="assetSelect">시나리오 파일</label>
+            <select id="assetSelect" disabled><option>카탈로그를 불러오는 중…</option></select>
+          </div>
+          <div class="field">
+            <label class="field-label" for="searchInput">원문·번역·ID 검색</label>
+            <input id="searchInput" type="search" placeholder="예: 신다원세기, STG0001" disabled>
+          </div>
+          <div class="field">
+            <label class="field-label" for="statusSelect">검수 상태</label>
+            <select id="statusSelect" disabled>
+              <option value="all">전체 행</option>
+              <option value="draft">draft</option>
+              <option value="reviewed">reviewed</option>
+              <option value="approved">approved</option>
+              <option value="flags">길이·일본어·재검수 플래그</option>
+            </select>
+          </div>
+         <div class="field">
+            <label class="field-label">기존 번역 기준 한 줄 최대</label>
+            <div id="lineLimitSummary" class="game-rule">기존 번역 행에서 자동 산출 · 원문 → 기존 → 신규 세로 비교 · 원고지 격자 · 대사창 최대 3줄 · 괄호 자동 표시</div>
+         </div>
+          <label class="toggle-row"><span>일본어 원문 함께 보기</span><input id="originalToggle" type="checkbox" checked></label>
+          <label class="toggle-row"><span>화자명 행 자동 묶기</span><input id="groupToggle" type="checkbox" checked></label>
+          <p class="hint">신규 번역이 있는 시나리오는 원문 → 기존 번역 → 신규 번역 순서로 비교합니다. 수정과 CPK 빌드는 신규 번역을 기준으로 합니다.</p>
+        </section>
+
+        <section class="section">
+          <h2 class="section-title">찾아 바꾸기 <span>REPLACE</span></h2>
+          <div class="field">
+            <label class="field-label" for="findInput">찾을 내용</label>
+            <input id="findInput" type="search" placeholder="예: 신다원세기" disabled>
+          </div>
+          <div class="field">
+            <label class="field-label" for="replaceInput">바꿀 내용</label>
+            <input id="replaceInput" type="search" placeholder="비워 두면 찾은 내용을 지웁니다" disabled>
+          </div>
+          <div class="field">
+            <label class="field-label" for="replaceScopeSelect">바꿀 범위</label>
+            <select id="replaceScopeSelect" disabled>
+              <option value="scenario">현재 시나리오 전체</option>
+              <option value="screen">지금 보고 있는 화면만</option>
+            </select>
+          </div>
+          <div class="field">
+            <label class="field-label" for="replaceFieldSelect">대상 텍스트</label>
+            <select id="replaceFieldSelect" disabled>
+              <option value="newTranslation">신규 번역 (초안)</option>
+              <option value="translation">기존 번역 (CPK 빌드에 쓰임)</option>
+            </select>
+          </div>
+          <label class="toggle-row"><span>대소문자 구분</span><input id="findCaseToggle" type="checkbox"></label>
+          <label class="toggle-row"><span>정규식으로 찾기</span><input id="findRegexToggle" type="checkbox"></label>
+          <div id="findStatus" class="find-status" role="status">찾을 내용을 입력하세요.</div>
+          <div class="find-actions">
+            <button id="findPrevButton" class="ghost-button" disabled>이전 찾기</button>
+            <button id="findNextButton" class="ghost-button" disabled>다음 찾기</button>
+          </div>
+          <button id="replaceOneButton" class="ghost-button" style="width:100%; margin-top:8px;" disabled>이 자리만 바꾸기</button>
+          <button id="replaceAllButton" class="primary-button" style="width:100%; margin-top:8px;" disabled>모두 바꾸기</button>
+          <button id="replaceUndoButton" class="ghost-button" style="width:100%; margin-top:8px;" disabled>바꾸기 되돌리기</button>
+          <p class="hint">화자명 행은 바꾸지 않습니다. 신규 번역을 대상으로 했는데 아직 초안이 없으면 기존 번역을 옮겨 온 뒤 바꿉니다.</p>
+          <p class="hint">바꾼 내용은 <strong>검사 후 신규 번역 저장</strong>을 눌러야 파일에 남습니다. 되돌리기는 마지막 한 번만 가능합니다.</p>
+        </section>
+
+        <section class="section">
+          <h2 class="section-title">현재 파일 통계</h2>
+          <div class="asset-meta">
+            <div class="stat-box"><span>대사 행</span><strong id="entryCount">—</strong></div>
+            <div class="stat-box"><span>표시 행</span><strong id="turnCount">—</strong></div>
+            <div class="stat-box"><span>경고</span><strong id="warningCount">—</strong></div>
+            <div class="stat-box"><span>번역 상태</span><strong id="statusCount">—</strong></div>
+          </div>
+          <div class="status-legend" style="margin-top: 12px;">
+            <span class="legend-dot">정상</span>
+            <span class="legend-dot warn">길이 경고</span>
+            <span class="legend-dot bad">재검수</span>
+          </div>
+        </section>
+
+        <section class="section">
+          <h2 class="section-title">키보드</h2>
+          <p class="hint">←/↑ 이전 · →/↓ 다음 · Home 처음 · End 마지막 · Space 다음</p>
+          <button id="copyButton" class="ghost-button" style="width:100%; margin-top:10px;" disabled>신규 번역 복사</button>
+          <button id="saveButton" class="primary-button" style="width:100%; margin-top:8px;" disabled>검사 후 신규 번역 저장</button>
+          <p class="hint">저장은 현재 시나리오 JSON을 새 파일로 내려받습니다. 브라우저가 파일 저장 선택을 지원하면 원하는 위치를 직접 고를 수 있습니다.</p>
+          <p class="hint">편집한 대사는 JSON의 `newTranslation`에 저장되고, CPK 빌드도 이 값을 씁니다. 기존 `translation`은 비교용으로 그대로 남습니다.</p>
+          <button id="buildCpkButton" class="primary-button" style="width:100%; margin-top:8px;" disabled>현재 시나리오 CPK 빌드</button>
+          <div id="buildCpkStatus" class="build-status" role="status">시나리오를 선택하면 CPK 빌드 버튼이 활성화됩니다.</div>
+          <p class="hint">뷰어 실행 명령으로 연 로컬 서버가 본인 소유의 원본 CPK·cpkmakec·wReplace를 사용해 `output/dialogue`에 검증된 새 CPK를 만듭니다. 원본 파일은 덮어쓰지 않습니다.</p>
+        </section>
+        <p class="footer-note">이 뷰어는 번역 초안을 읽기 위한 도구입니다. `approved`가 아닌 대사는 실제 패치 전에 사람이 문맥과 대사창 길이를 확인하세요.</p>
+      </aside>
+
+      <section class="screen-card">
+        <div id="emptyState" class="empty-state">
+          <div>
+            <strong>시나리오를 선택하세요</strong>
+            왼쪽 목록에서 원하는 화·분기를 고르면<br>해당 시나리오의 게임풍 대사창이 열립니다.
+          </div>
+        </div>
+        <div id="gameScreen" class="game-screen" hidden>
+          <div class="screen-header">
+            <div class="scene-title"><strong id="sceneTitle">—</strong><span id="sceneSubtitle">—</span></div>
+            <div class="screen-counter" id="screenCounter">0 / 0</div>
+          </div>
+          <div id="comparisonGrid" class="comparison-grid">
+            <div id="originalBox" class="comparison-column source-dialogue-window" hidden>
+              <div class="comparison-version source-window-label">JAPANESE SOURCE</div>
+              <div class="comparison-speaker source-speaker-row"><span id="sourceSpeakerChip" class="source-speaker-chip">—</span><span id="sourceSpeakerRole" class="source-speaker-role">원문 화자</span></div>
+              <div id="sourceDialogueBody" class="source-dialogue-body">
+                <div id="sourceText" class="source-dialogue-text">—</div>
+              </div>
+            </div>
+            <div id="existingDialogueBox" class="comparison-column dialogue-window existing-dialogue-window">
+              <div class="comparison-version window-version-label">기존 번역</div>
+              <div class="comparison-speaker"><span id="speakerChip" class="speaker-chip">화자 미상</span><span id="speakerRole" class="speaker-role"></span></div>
+              <div id="dialogueBody" class="dialogue-body">
+                <div id="dialogueText" class="dialogue-text">—</div>
+              </div>
+            </div>
+            <div id="newDialogueBox" class="comparison-column dialogue-window new-dialogue-window" hidden>
+              <div class="comparison-version window-version-label">신규 번역</div>
+              <div class="comparison-speaker"><span id="newSpeakerChip" class="speaker-chip">화자 미상</span><span id="newSpeakerRole" class="speaker-role"></span></div>
+              <div id="newDialogueBody" class="dialogue-body new-dialogue-body">
+                <div id="newDialogueText" class="dialogue-text">—</div>
+              </div>
+            </div>
+          </div>
+          <div class="screen-footer">
+            <div>
+              <div id="badges" class="badges"></div>
+              <div id="entryMeta" class="entry-meta" style="margin-top:7px;">—</div>
+            </div>
+            <div class="screen-controls">
+              <div class="screen-page-nav"><button id="prevButton" class="nav-button">‹ 이전</button> <button id="nextButton" class="primary-button nav-button">다음 ›</button></div>
+              <div class="scenario-switch-wrap">
+                <div class="scenario-switch-buttons">
+                  <button id="previousScenarioButton" class="nav-button scenario-switch-button" disabled>‹ 이전 시나리오</button>
+                  <span id="scenarioPosition" class="scenario-position">시나리오 0 / 0</span>
+                  <button id="nextScenarioButton" class="primary-button nav-button scenario-switch-button" disabled>다음 시나리오 ›</button>
+                </div>
+                <div id="scenarioNextLabel" class="scenario-switch-label">시나리오를 선택하면 이전·다음 시나리오로 이동할 수 있습니다.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <section id="editorPanel" class="edit-panel" hidden>
+          <div class="edit-panel-head">
+            <div>
+              <h2>신규 번역 수정</h2>
+              <p>화자명은 고정하고 대사만 수정합니다. 저장할 때 제어문자·용어 괄호·줄 길이를 검사합니다.</p>
+            </div>
+            <span id="editDirtyState" class="edit-dirty">변경 없음</span>
+          </div>
+          <div id="editorRows" class="editor-rows"></div>
+          <div id="ruleReport" class="rule-report" role="status">저장할 화면을 선택하세요.</div>
+        </section>
+        <div class="nav-bar">
+          <button id="bottomPrev" class="nav-button" disabled>‹ 이전</button>
+          <div class="progress-wrap"><div class="progress-track"><div id="progressFill" class="progress-fill"></div></div><div class="progress-label"><span id="progressLabel">파일을 불러오세요</span><span id="progressPercent">0%</span></div></div>
+          <button id="bottomNext" class="primary-button nav-button" disabled>다음 ›</button>
+        </div>
+      </section>
+    </main>
+  </div>
+  <div id="toast" class="toast"></div>
+
+  <script>
+    "use strict";
+
+    const CONTROL_RE = /(⑲|⑳|㊥|㊦|㊧|㊨|(?:[$＄&][nNlLcCfFｎＮｌＬｃＣｆＦ]))/gu;
+    const CONTROL_TOKEN_RE = /^(?:⑲|⑳|㊥|㊦|㊧|㊨|(?:[$＄&][nNlLcCfFｎＮｌＬｃＣｆＦ]))$/u;
+    const CONTROL_TOKEN_END_RE = /(?:⑲|⑳|㊥|㊦|㊧|㊨|(?:[$＄&][nNlLcCfFｎＮｌＬｃＣｆＦ]))$/u;
+    const TERM_RE = /《[^《》\r\n]*》/gu;
+    const TERM_MARK_RE = /[《》]/gu;
+    // 게임 대사창의 바깥 인용부호인 「」만 프레임 장식으로 취급한다.
+    // 『』와 【】는 대사 안에 실제로 표시되는 문장부호이므로, 일반 글자와
+    // 똑같이 원고지 한 칸씩 차지해야 한다(예: 『천사』 = 4칸).
+    const FRAME_MARK_RE = /[「」]/gu;
+    const LOCATION_RE = /^[\s\u3000]*(?:~|～|〜)[^~～〜\r\n]+(?:~|～|〜)[\s\u3000]*$/u;
+    const CONTROL_DISPLAY = {
+      "$n": { label: "히비키", kind: "name", description: "이름" },
+      "$l": { label: "카미시로", kind: "name", description: "성" },
+      "$F": { label: "히비키 카미시로", kind: "name", description: "풀네임" },
+      "$c": { label: "Z-BLUE", kind: "unit", description: "주인공 부대" },
+      "⑲": { label: "⑲", kind: "control", description: "제어문자" },
+      "⑳": { label: "⑳", kind: "control", description: "제어문자" },
+      "㊥": { label: "㊥", kind: "control", description: "제어문자" },
+      "㊦": { label: "㊦", kind: "control", description: "제어문자" },
+      "㊧": { label: "㊧", kind: "control", description: "제어문자" },
+      "㊨": { label: "㊨", kind: "control", description: "제어문자" },
+    };
+    const PROPER_TERM_RE = /(히비키(?:\s*[・·.]\s*카미시로)?|카미시로|제니온(?:\s*[・·.]\s*가이)?|Z-BLUE)/gu;
+    const JAPANESE_RE = /[ぁ-ゖァ-ヺ一-龯々〆ヵヶ]/;
+    const SOURCE_SENTENCE_RE = /[\s\u3000\u3001\u3002\uFF0C\uFF0E\uFF01\uFF1F\u2026\u003A\uFF1A\u003B\uFF1B\u300C\u300D\u300E\u300F\u300A\u300B\u3008\u3009\uFF08\uFF09]/;
+    const SOURCE_CLAUSE_END_RE = /(?:\u306F|\u304C|\u3092|\u306B|\u3078|\u3068|\u3067|\u306E|\u3082|\u304B\u3089|\u307E\u3067|\u3088\u308A|\u3063\u3066|\u306E\u3067|\u3060|\u3067\u3059|\u307E\u3059|\u306A\u3044|\u306A\u308B|\u3059\u308B|\u3060\u306A|\u304B\u306A|\u3088\u306A|\u3060\u308D|\u3060\u308D\u3046|\u306D|\u3088|\u305E|\u3055|\u305C)$/u;
+    const GAME_MAX_LINES = 3;
+    // 원본 STG0001a.cpk의 ID00007은 pid 화자 블록이 없는 나레이션 전용 멤버다.
+    // CPK 멤버가 바뀌면 이전 ID의 화자를 절대 이어받지 않는다.
+    const NARRATION_MEMBER_IDS = new Set(["ID00007"]);
+    const KNOWN_SPEAKERS = new Set([
+      "신", "신 아스카", "키라", "키라 야마토", "아스란", "카가리", "카미유", "아무로",
+      "로저", "도로시", "모므", "크와트로", "샤아", "세츠나", "히이로", "스즈네",
+      "아임・라이어드", "아임", "케이", "코우지", "테츠야", "사이토", "시몬", "요코",
+      "미코노", "알토", "쉐릴", "란카", "다나카", "히비키", "카나메", "쿄코",
+      "소스케", "마오", "쇼타로", "마키", "쿠르츠", "???", "？？？"
+    ]);
+    const CATALOG_URL = "./scenario-index.json";
+    const TITLE_CATALOG_URL = "./scenario-titles.json";
+    const CPK_LOCATION_CATALOG_URL = "./scenario-cpk-locations.json";
+    const SPEAKER_CATALOG_URL = "./scenario-speakers.json";
+
+    const state = {
+      assets: [],
+      assetIndex: -1,
+      turns: [],
+      visibleTurns: [],
+      current: 0,
+      groupSpeakerRows: true,
+      lineLimit: 0,
+      query: "",
+      status: "all",
+      scenarioTitles: {},
+      cpkLocations: {},
+      speakerRows: {},
+      dirty: false,
+      lastRuleReport: null,
+      find: {
+        query: "",
+        replacement: "",
+        scope: "scenario",
+        field: "newTranslation",
+        caseSensitive: false,
+        regex: false,
+        matches: [],
+        cursor: -1,
+        error: "",
+        undo: null,
+      },
+    };
+
+    const $ = (id) => document.getElementById(id);
+    const catalogStatus = $("catalogStatus");
+    const reloadCatalogButton = $("reloadCatalogButton");
+    const assetSelect = $("assetSelect");
+    const searchInput = $("searchInput");
+    const statusSelect = $("statusSelect");
+    const lineLimitSummary = $("lineLimitSummary");
+    const originalToggle = $("originalToggle");
+    const groupToggle = $("groupToggle");
+    const emptyState = $("emptyState");
+    const gameScreen = $("gameScreen");
+    const toast = $("toast");
+    const saveButton = $("saveButton");
+    const buildCpkButton = $("buildCpkButton");
+    const buildCpkStatus = $("buildCpkStatus");
+    const editorPanel = $("editorPanel");
+    const editorRows = $("editorRows");
+    const editDirtyState = $("editDirtyState");
+    const ruleReport = $("ruleReport");
+    const previousScenarioButton = $("previousScenarioButton");
+    const nextScenarioButton = $("nextScenarioButton");
+    const scenarioPosition = $("scenarioPosition");
+    const scenarioNextLabel = $("scenarioNextLabel");
+    const findInput = $("findInput");
+    const replaceInput = $("replaceInput");
+    const replaceScopeSelect = $("replaceScopeSelect");
+    const replaceFieldSelect = $("replaceFieldSelect");
+    const findCaseToggle = $("findCaseToggle");
+    const findRegexToggle = $("findRegexToggle");
+    const findStatus = $("findStatus");
+    const findPrevButton = $("findPrevButton");
+    const findNextButton = $("findNextButton");
+    const replaceOneButton = $("replaceOneButton");
+    const replaceAllButton = $("replaceAllButton");
+    const replaceUndoButton = $("replaceUndoButton");
+
+    function escapeHtml(value) {
+      return String(value ?? "").replace(/[&<>"']/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[char]));
+    }
+
+    function normalizeDialogueSpaces(value) {
+      return String(value ?? "").replace(/\u3000/gu, " ");
+    }
+
+    function normalizeTranslationFields(node) {
+      let changed = 0;
+      if (Array.isArray(node)) {
+        node.forEach((item) => { changed += normalizeTranslationFields(item); });
+      } else if (node && typeof node === "object") {
+        ["translation", "newTranslation"].forEach((field) => {
+          if (typeof node[field] !== "string") return;
+          const normalized = normalizeDialogueSpaces(node[field]);
+          if (normalized !== node[field]) {
+            node[field] = normalized;
+            changed += 1;
+          }
+        });
+        Object.keys(node).forEach((key) => { changed += normalizeTranslationFields(node[key]); });
+      }
+      return changed;
+    }
+
+    function normalizeControlToken(token) {
+      const value = String(token ?? "");
+      const letter = value.slice(-1);
+      const canonical = {
+        "n": "n", "N": "n", "ｎ": "n", "Ｎ": "n",
+        "l": "l", "L": "l", "ｌ": "l", "Ｌ": "l",
+        "c": "c", "C": "c", "ｃ": "c", "Ｃ": "c",
+        "f": "F", "F": "F", "ｆ": "F", "Ｆ": "F",
+      }[letter] || letter;
+      return value.startsWith("＄") || value.startsWith("$") || value.startsWith("＆") || value.startsWith("&") ? "$" + canonical : value;
+    }
+
+    function controlInfo(token) {
+      const canonical = normalizeControlToken(token);
+      return CONTROL_DISPLAY[canonical] || { label: canonical, kind: "control", description: "제어문자" };
+    }
+
+    function controlDisplayText(token) {
+      const info = controlInfo(token);
+      return String(info.label ?? normalizeControlToken(token));
+    }
+
+    function expandControlTokens(value) {
+      CONTROL_RE.lastIndex = 0;
+      const expanded = String(value ?? "").replace(CONTROL_RE, (token) => controlDisplayText(token));
+      CONTROL_RE.lastIndex = 0;
+      return expanded;
+    }
+
+    function tokenized(value) {
+      return renderDisplayText(value);
+    }
+
+    function renderDisplayText(value, { highlightProper = true } = {}) {
+      const raw = String(value ?? "");
+      const tokenRe = /(《[^《》\r\n]*》|⑲|⑳|㊥|㊦|㊧|㊨|(?:[$＄&][nNlLcCfFｎＮｌＬｃＣｆＦ]))/gu;
+      let html = "";
+      let cursor = 0;
+      const appendText = (text) => {
+        if (!text) return;
+        let escaped = escapeHtml(text);
+        if (highlightProper) {
+          escaped = escaped.replace(PROPER_TERM_RE, (term) => `<span class="proper-term">${term}</span>`);
+        }
+        html += escaped;
+      };
+      for (const match of raw.matchAll(tokenRe)) {
+        appendText(raw.slice(cursor, match.index));
+        const token = match[0];
+        if (token.startsWith("《")) {
+          html += `<span class="term">${escapeHtml(token)}</span>`;
+        } else {
+          const info = controlInfo(token);
+          html += `<span class="token ${escapeHtml(info.kind)}" title="${escapeHtml(info.description)} · ${escapeHtml(normalizeControlToken(token))}">${escapeHtml(controlDisplayText(token))}</span>`;
+        }
+        cursor = match.index + token.length;
+      }
+      appendText(raw.slice(cursor));
+      return html;
+    }
+
+    function clean(value) { return String(value ?? "").replace(CONTROL_RE, "").replace(TERM_MARK_RE, "").replace(FRAME_MARK_RE, "").trim(); }
+
+    function visualSlots(value) { return expandControlTokens(value).replace(TERM_MARK_RE, "").replace(FRAME_MARK_RE, "").length; }
+
+    function textSlots(value) { return expandControlTokens(value).replace(TERM_MARK_RE, "").replace(FRAME_MARK_RE, "").length; }
+
+    function visibleText(value) { return String(value ?? "").replace(CONTROL_RE, ""); }
+
+    function hasVisibleText(value) { return visibleText(value).replace(TERM_MARK_RE, "").replace(FRAME_MARK_RE, "").trim().length > 0; }
+
+    function hasDisplayContent(value) {
+      CONTROL_RE.lastIndex = 0;
+      const hasControl = CONTROL_RE.test(String(value ?? ""));
+      CONTROL_RE.lastIndex = 0;
+      return hasVisibleText(value) || hasControl;
+    }
+
+    // 공개 저장소 데이터에는 sourceText가 없다. 그때는 추출 시 함께 저장한
+    // controls.sourceTokens로 원문 제어문자를 대신한다.
+    function sourceControlTokens(entry) {
+      if (entry && typeof entry.sourceText === "string") return controlTokens(entry.sourceText);
+      const tokens = entry && entry.controls && Array.isArray(entry.controls.sourceTokens)
+        ? entry.controls.sourceTokens
+        : [];
+      return tokens.map((token) => normalizeControlToken(token));
+    }
+
+    function assetHasSourceText(data) {
+      return Boolean(data && Array.isArray(data.entries)
+        && data.entries.some((entry) => typeof entry.sourceText === "string" && entry.sourceText !== ""));
+    }
+
+    function controlTokens(value) {
+      const tokens = [];
+      const raw = String(value ?? "");
+      CONTROL_RE.lastIndex = 0;
+      for (const match of raw.matchAll(CONTROL_RE)) tokens.push(normalizeControlToken(match[0]));
+      CONTROL_RE.lastIndex = 0;
+      return tokens;
+    }
+
+    function collectControlTokens(page, field = "translation") {
+      return page.entries.flatMap((entry) => controlTokens(entry[field])).filter(Boolean);
+    }
+
+    function memberIdOf(entry) {
+      // ID00003@FILE-ID00004는 별도 CPK 파일이다. @ 뒤를 잘라 버리면
+      // 파일이 바뀌어도 직전 화자를 이어받아 서로 다른 대사가 한 화면에
+      // 붙으므로, 뷰어의 페이지 경계에서는 전체 internalId를 사용한다.
+      return String(entry && entry.location && entry.location.internalId || "").trim().toUpperCase();
+    }
+
+    function memberBaseIdOf(entry) {
+      return memberIdOf(entry).split("@", 1)[0];
+    }
+
+    function isNarrationEntry(entry) {
+      return NARRATION_MEMBER_IDS.has(memberBaseIdOf(entry));
+    }
+
+    function speakerCatalogKeyOf(entry) {
+      const location = entry && entry.location;
+      if (!location) return "";
+      const asset = String(location.assetKey || entry.assetKey || "").trim().toUpperCase();
+      const member = String(location.internalId || "").trim().toUpperCase();
+      const row = Number(location.sourceRow);
+      if (!asset || !member || !Number.isInteger(row) || row < 1) return "";
+      return `${asset}/${member}`;
+    }
+
+    function isCatalogSpeakerEntry(entry) {
+      const key = speakerCatalogKeyOf(entry);
+      if (!key) return false;
+      const rows = state.speakerRows[key];
+      if (!(rows instanceof Set)) return false;
+      return rows.has(Number(entry.location && entry.location.sourceRow));
+    }
+
+    function locationKeyOf(entry) {
+      return String(entry && entry.location && entry.location.assetKey || entry && entry.assetKey || "").trim();
+    }
+
+    function normalizeLocationText(value) {
+      return visibleText(value).replace(/[\s\u3000]+/gu, "").trim();
+    }
+
+    function isCpkLocationEntry(entry) {
+      const key = locationKeyOf(entry);
+      const source = normalizeLocationText(entry && entry.sourceText || "");
+      if (!key || !source) return false;
+      const candidates = Array.isArray(state.cpkLocations[key]) ? state.cpkLocations[key] : [];
+      return candidates.some((candidate) => normalizeLocationText(candidate) === source);
+    }
+
+    function isLocationEntry(entry) {
+      const source = visibleText(entry && entry.sourceText || "").trim();
+      const translation = visibleText(entry && entry.translation || "").trim();
+      const newTranslation = visibleText(entry && entry.newTranslation || "").trim();
+      // CPK의 pid_MUZIN + FDMode_NoDraw_or_FDMode_OnlyBGName 행은
+      // 「～장소～」 형태의 지역 표시다. 번역·원문 중 하나라도 양쪽 물결표를
+      // 유지하면 화자 행과 섞지 않고 별도 화면으로 고정한다.
+      return isCpkLocationEntry(entry) || [source, translation, newTranslation].some((value) => value && LOCATION_RE.test(value));
+    }
+
+    function isTechnicalPaddingEntry(entry) {
+      const value = String(entry && entry.translation || "");
+      const metadata = entry && entry.metadata;
+      const limit = Number(metadata && metadata.byteLimit);
+      if (!Number.isFinite(limit) || limit <= 0) return false;
+      // Sheet1·메뉴용 고정 슬롯은 한 문장 뒤에 ⑲/㊦ 등의 패딩 제어문자가
+      // 반복된다. 이 패딩을 시나리오 대사 한 줄 최대치로 세면 DLC에서
+      // 1,000칸이 넘는 값이 생기므로, 실제 문장 길이 기준에서 제외한다.
+      const paddingCount = controlTokens(value).filter((token) => /^[⑲⑳㊥㊦㊧㊨]$/u.test(token)).length;
+      return paddingCount >= 4;
+    }
+
+    function existingLineLimit(data) {
+      const entries = Array.isArray(data.entries) ? data.entries : [];
+      const visualEntries = entries.filter((entry) => !isTechnicalPaddingEntry(entry));
+      const candidates = visualEntries.length ? visualEntries : entries;
+      const lengths = candidates
+        .flatMap((entry) => String(entry.translation ?? "").split(/\r?\n/).map(textSlots))
+        .filter((length) => length > 0);
+      return lengths.length ? Math.max(...lengths) : 0;
+    }
+
+    function isSpeakerEntry(entry, index, entries) {
+      // 원본 CPK의 SP/SB/SF/SG 슬롯을 먼저 적용한다. 이름 길이·다음 행
+      // 길이에 의존한 추정은 "카나메" 다음에 같은 길이의 "쿄코!"가 오는
+      // 경우처럼 화자 행을 대사로 오인할 수 있다.
+      if (isCatalogSpeakerEntry(entry)) return true;
+      const raw = String(entry.translation || entry.sourceText || "").trim();
+      const tokenOnly = raw && [...raw.matchAll(CONTROL_RE)].map((match) => match[0]).join("") === raw;
+      const text = clean(raw);
+      if (tokenOnly) return Boolean(entries[index + 1] && hasVisibleText(entries[index + 1].translation || entries[index + 1].sourceText));
+      if (!text || text.length > 24 || /[.!?。！？,，、…]/.test(text)) return false;
+      if (KNOWN_SPEAKERS.has(text)) return true;
+      const source = clean(entry.sourceText);
+      if (SOURCE_SENTENCE_RE.test(source) || SOURCE_CLAUSE_END_RE.test(source)) return false;
+      const next = entries[index + 1];
+      const nextText = next ? clean(next.translation || next.sourceText) : "";
+      return source.length <= 12 && text.length <= 18 && !!nextText && nextText.length > text.length;
+    }
+
+    function speakerLabel(entry) {
+      const raw = stripSlotPadding(entry, (entry && (entry.translation || entry.sourceText)) || "").trim();
+      const tokenMatch = raw.match(/^(⑲|⑳|㊥|㊦|㊧|㊨|(?:\$|＄|&|＆)[nNlLcCfFｎＮｌＬｃＣｆＦ])$/u);
+      if (tokenMatch) return controlInfo(tokenMatch[1]).label;
+      return clean(raw) || "화자 미상";
+    }
+
+    function makePage(entries, speaker = "화자 미상", speakerEntry = null, speakerKind = "dialogue") {
+      return {
+        entries,
+        entry: entries[entries.length - 1] || speakerEntry,
+        speaker,
+        speakerEntry,
+        speakerKind,
+      };
+    }
+
+    function makeTurns(data) {
+      const entries = Array.isArray(data.entries) ? data.entries : [];
+      if (!state.groupSpeakerRows) {
+        return entries.map((entry) => makePage(
+          [entry],
+          isLocationEntry(entry) ? "지역 표시" : (isNarrationEntry(entry) ? "나레이션" : "화자 미상"),
+          null,
+          isLocationEntry(entry) ? "location" : (isNarrationEntry(entry) ? "narration" : "dialogue"),
+        ));
+      }
+      const turns = [];
+      let speaker = "화자 미상";
+      let speakerEntry = null;
+      let speakerKind = "dialogue";
+      let currentMemberId = null;
+      let pageEntries = [];
+      const flush = () => {
+        if (pageEntries.length) turns.push(makePage(pageEntries, speaker, speakerEntry, speakerKind));
+        pageEntries = [];
+      };
+      entries.forEach((entry, index) => {
+        const memberId = memberIdOf(entry);
+        if (memberId !== currentMemberId) {
+          flush();
+          currentMemberId = memberId;
+          speakerEntry = null;
+          speakerKind = isNarrationEntry(entry) ? "narration" : "dialogue";
+          speaker = speakerKind === "narration" ? "나레이션" : "화자 미상";
+        }
+        if (isLocationEntry(entry)) {
+          flush();
+          speaker = "지역 표시";
+          speakerEntry = null;
+          speakerKind = "location";
+          pageEntries.push(entry);
+          flush();
+          // 지역 표시 뒤의 실제 대사에 직전 화자를 물려주지 않는다.
+          speaker = "화자 미상";
+          speakerEntry = null;
+          speakerKind = isNarrationEntry(entry) ? "narration" : "dialogue";
+          return;
+        }
+        if (isNarrationEntry(entry)) {
+          pageEntries.push(entry);
+          if (pageEntries.length >= GAME_MAX_LINES) flush();
+          return;
+        }
+        if (isSpeakerEntry(entry, index, entries) && index < entries.length - 1) {
+          flush();
+          speaker = speakerLabel(entry);
+          speakerEntry = entry;
+          speakerKind = "dialogue";
+          return;
+        }
+        pageEntries.push(entry);
+        if (pageEntries.length >= GAME_MAX_LINES) flush();
+      });
+      flush();
+      return turns;
+    }
+
+    // 고정 슬롯(byteLimit) 행은 한 문장 뒤에 ㊦ 같은 글리프가 슬롯 끝까지
+    // 채워진다. 내용이 아니라 자리 채움이므로 화면·통계에서 제외한다.
+    // 원본 JSON은 그대로 두고 보여 줄 때만 걷어낸다.
+    const SLOT_PADDING_TAIL_RE = /(?:[⑲⑳㊥㊦㊧㊨]|[\s\u3000])+$/u;
+    const SLOT_PADDING_GLYPH_RE = /[⑲⑳㊥㊦㊧㊨]/gu;
+    const MIN_SLOT_PADDING = 4;
+
+    function slotPaddingLength(entry) {
+      const limit = Number(entry && entry.metadata && entry.metadata.byteLimit);
+      if (!Number.isFinite(limit) || limit <= 0) return 0;
+      let longest = 0;
+      ["sourceText", "translation", "newTranslation"].forEach((field) => {
+        const value = String((entry && entry[field]) ?? "");
+        const match = value.match(SLOT_PADDING_TAIL_RE);
+        if (!match) return;
+        const glyphs = (match[0].match(SLOT_PADDING_GLYPH_RE) || []).length;
+        if (glyphs >= MIN_SLOT_PADDING) longest = Math.max(longest, glyphs);
+      });
+      return longest;
+    }
+
+    function stripSlotPadding(entry, value) {
+      const text = String(value ?? "");
+      const limit = Number(entry && entry.metadata && entry.metadata.byteLimit);
+      if (!Number.isFinite(limit) || limit <= 0) return text;
+      const match = text.match(SLOT_PADDING_TAIL_RE);
+      if (!match) return text;
+      const glyphs = (match[0].match(SLOT_PADDING_GLYPH_RE) || []).length;
+      if (glyphs < MIN_SLOT_PADDING) return text;
+      return text.slice(0, text.length - match[0].length);
+    }
+
+    function pageSlotPadding(page) {
+      if (!page || !Array.isArray(page.entries)) return 0;
+      return page.entries.reduce((sum, entry) => sum + slotPaddingLength(entry), 0);
+    }
+
+    function pageLines(page, field = "translation") {
+      return page.entries.map((entry) => stripSlotPadding(entry, entry[field]));
+    }
+
+    function addOpeningQuote(line, { firstLineSpacing = false } = {}) {
+      const value = String(line ?? "");
+      const whitespace = value.match(/^\s*/u)?.[0] || "";
+      const content = value.slice(whitespace.length);
+      if (/^「/u.test(content)) {
+        if (firstLineSpacing && content.startsWith("「") && !content.startsWith("「 ")) {
+          return whitespace + "「 " + content.slice(1);
+        }
+        return value;
+      }
+      return whitespace + "「" + (firstLineSpacing ? " " : "") + content;
+    }
+
+    function addClosingQuote(line) {
+      const value = String(line ?? "");
+      let end = value.length;
+      while (end > 0) {
+        const before = value.slice(0, end);
+        const whitespace = before.match(/\s+$/u);
+        if (whitespace) { end -= whitespace[0].length; continue; }
+        const control = before.match(CONTROL_TOKEN_END_RE);
+        if (control) { end -= control[0].length; continue; }
+        break;
+      }
+      const content = value.slice(0, end);
+      return /」$/u.test(content) ? value : content + "」" + value.slice(end);
+    }
+
+    function framedLines(lines, frameKind = "dialogue") {
+      if (!lines.length) return [""];
+      const result = lines.slice();
+      if (frameKind !== "dialogue") return result;
+      result[0] = addOpeningQuote(result[0], { firstLineSpacing: result.length >= 2 });
+      result[result.length - 1] = addClosingQuote(result[result.length - 1]);
+      return result;
+    }
+
+    function splitDisplayLines(lines) {
+      return allDisplayLines(lines).slice(0, GAME_MAX_LINES);
+    }
+
+    function allDisplayLines(lines) {
+      return lines.flatMap((line) => String(line ?? "").split(/\r?\n/)).filter(hasVisibleText)
+        .map((line) => line.replace(/^[\s\u3000]+/u, ""));
+    }
+
+    function displayAtoms(value) {
+      const raw = String(value ?? "");
+      const atomRe = /(《[^《》\r\n]*》|⑲|⑳|㊥|㊦|㊧|㊨|(?:\$|＄)[nNlLcCfFｎＮｌＬｃＣｆＦ]|.)/gu;
+      return [...raw.matchAll(atomRe)].map((match) => match[0]);
+    }
+
+    function truncateAtoms(atoms, capacity) {
+      if (capacity <= 0) return { value: "", truncated: atoms.length > 0 };
+      const result = [];
+      let used = 0;
+      let truncated = false;
+      for (const atom of atoms) {
+        const cost = textSlots(atom);
+        if (used + cost <= capacity) {
+          result.push(atom);
+          used += cost;
+          continue;
+        }
+        truncated = true;
+        break;
+      }
+      if (truncated) {
+        if (capacity === 1) return { value: "…", truncated: true };
+        while (result.length && used >= capacity) {
+          const last = result.pop();
+          used -= textSlots(last);
+        }
+        result.push("…");
+      }
+      return { value: result.join(""), truncated };
+    }
+
+    function splitBalancedAtoms(atoms, lineCount, lineLimit) {
+      const total = atoms.reduce((sum, atom) => sum + textSlots(atom), 0);
+      const capacity = Math.max(0, lineCount * lineLimit);
+      const clipped = total > capacity ? truncateAtoms(atoms, capacity) : { value: atoms.join(""), truncated: false };
+      const clippedAtoms = displayAtoms(clipped.value);
+      const result = [];
+      let cursor = 0;
+      let remainingSlots = clippedAtoms.reduce((sum, atom) => sum + textSlots(atom), 0);
+      for (let lineIndex = 0; lineIndex < lineCount; lineIndex += 1) {
+        const remainingLines = lineCount - lineIndex;
+        if (cursor >= clippedAtoms.length) { result.push(""); continue; }
+        const target = Math.min(lineLimit, Math.ceil(remainingSlots / remainingLines));
+        let used = 0;
+        const lineAtoms = [];
+        while (cursor < clippedAtoms.length) {
+          const atom = clippedAtoms[cursor];
+          const cost = textSlots(atom);
+          if (lineAtoms.length && used + cost > target) break;
+          if (!lineAtoms.length && cost > lineLimit) {
+            lineAtoms.push(atom);
+            cursor += 1;
+            used += cost;
+            break;
+          }
+          lineAtoms.push(atom);
+          cursor += 1;
+          used += cost;
+          if (used >= target) break;
+        }
+        result.push(lineAtoms.join(""));
+        remainingSlots -= used;
+      }
+      return { lines: result, truncated: clipped.truncated };
+    }
+
+    function wrapAtomsToLimit(atoms, lineLimit) {
+      if (!lineLimit || !atoms.length) return [atoms.join("")];
+      const lines = [];
+      let lineAtoms = [];
+      let used = 0;
+      for (const atom of atoms) {
+        const cost = textSlots(atom);
+        if (lineAtoms.length && used + cost > lineLimit) {
+          lines.push(lineAtoms.join(""));
+          lineAtoms = [];
+          used = 0;
+        }
+        lineAtoms.push(atom);
+        used += cost;
+        // 제어문자·용어 표시는 한 원자 단위로 보존한다. 원자 하나가
+        // 한도보다 큰 경우에는 다음 단계의 3줄 균등 배치에서 처리한다.
+        if (used >= lineLimit) {
+          lines.push(lineAtoms.join(""));
+          lineAtoms = [];
+          used = 0;
+        }
+      }
+      if (lineAtoms.length) lines.push(lineAtoms.join(""));
+      return lines.length ? lines : [""];
+    }
+
+    function wrapExistingLines(rawLines, lineLimit) {
+      return rawLines.flatMap((line) => wrapAtomsToLimit(displayAtoms(line), lineLimit));
+    }
+
+    function fitPreviewLines(lines, frameKind = "dialogue") {
+      const rawLines = allDisplayLines(lines);
+      if (!rawLines.length || !state.lineLimit) {
+        return { lines: rawLines.slice(0, GAME_MAX_LINES), changed: rawLines.length > GAME_MAX_LINES, truncated: false, wrapped: false, rebalanced: false };
+      }
+      const wrapped = wrapExistingLines(rawLines, state.lineLimit);
+      const wrappedFits = wrapped.length <= GAME_MAX_LINES && wrapped.every((line) => textSlots(line) <= state.lineLimit);
+      if (wrappedFits) {
+        const changed = wrapped.length !== rawLines.length || wrapped.some((line, index) => line !== rawLines[index]);
+        return { lines: wrapped, changed, truncated: false, wrapped: wrapped.length > rawLines.length, rebalanced: false };
+      }
+      // 한 행을 다음 줄로 넘긴 뒤에도 세 줄을 초과하면 전체 문장을
+      // 기존 한 줄 최대치 안에서 균등하게 재배치한다. 총 용량을 넘는
+      // 부분만 미리보기에서 줄이고, 원본 JSON은 변경하지 않는다.
+      const balanced = splitBalancedAtoms(displayAtoms(wrapped.join("")), GAME_MAX_LINES, state.lineLimit);
+      return { lines: balanced.lines, changed: true, truncated: balanced.truncated, wrapped: wrapped.length > rawLines.length, rebalanced: true };
+    }
+
+    function displayFrameLines(lines, frameKind = "dialogue") {
+      const sourceLines = splitDisplayLines(lines);
+      if (!sourceLines.length) return { lines: ["", "", ""], count: 0 };
+      const framed = framedLines(sourceLines, frameKind);
+      const display = framed.slice(0, GAME_MAX_LINES);
+      while (display.length < GAME_MAX_LINES) display.push("");
+      return { lines: display, count: framed.length };
+    }
+
+    function gameLineStats(lines, frameKind = "dialogue") {
+      const fitted = fitPreviewLines(lines, frameKind);
+      const framed = displayFrameLines(fitted.lines, frameKind);
+      const sourceLines = splitDisplayLines(fitted.lines);
+      const display = framed.lines;
+      while (display.length < GAME_MAX_LINES) display.push("");
+      const slots = sourceLines.map((line) => textSlots(line));
+      return {
+        lines: display,
+        contentLines: sourceLines,
+        count: framed.count,
+        fitted: fitted.changed,
+        truncated: fitted.truncated,
+        wrapped: Boolean(fitted.wrapped),
+        rebalanced: Boolean(fitted.rebalanced),
+        maxSlots: slots.length ? Math.max(...slots) : 0,
+        overflow: slots.some((value) => value > state.lineLimit),
+        overflowLines: display.map((line, index) => index < slots.length && slots[index] > state.lineLimit),
+      };
+    }
+
+    function pageTranslation(page, field = "newTranslation") {
+      const values = pageLines(page, field);
+      if (field === "newTranslation" && !values.some((value) => value !== "")) {
+        return pageLines(page, "translation").join("\n");
+      }
+      return values.join("\n");
+    }
+
+    function entryHasFlag(entry) {
+      const text = String(entry.translation ?? "");
+      const limit = Number(entry.metadata && entry.metadata.byteLimit);
+      const overflow = Number.isFinite(limit) && limit > 0 && visualSlots(text) > limit;
+      const japanese = JAPANESE_RE.test(text);
+      const note = String(entry.notes || "");
+      const reviewNote = /재검수|보호 용어|공백/.test(note);
+      return overflow || japanese || reviewNote;
+    }
+
+    function visibleTurns() {
+      const query = state.query.toLocaleLowerCase();
+      return state.turns.filter((turn) => {
+        const entries = turn.entries;
+        const haystack = entries.flatMap((entry) => [
+          entry.entryId,
+          entry.sourceText,
+          entry.translation,
+          entry.newTranslation,
+          entry.location && entry.location.internalId,
+          entry.location && entry.location.sourceRow,
+        ]).concat(turn.speaker).join(" ").toLocaleLowerCase();
+        const matchesQuery = !query || haystack.includes(query);
+        const matchesStatus = state.status === "all" || (state.status === "flags"
+          ? entries.some(entryHasFlag)
+          : entries.some((entry) => String(entry.translationStatus || "draft") === state.status));
+        return matchesQuery && matchesStatus;
+      });
+    }
+
+    function showToast(message) {
+      toast.textContent = message;
+      toast.classList.add("show");
+      window.clearTimeout(showToast.timer);
+      showToast.timer = window.setTimeout(() => toast.classList.remove("show"), 2600);
+    }
+
+    function assetTitle(asset) {
+      const data = asset.data || {};
+      return asset.key || data.assetKey || (data.entries && data.entries[0] && data.entries[0].location && data.entries[0].location.assetKey) || asset.name.replace(/^scenario_/, "").replace(/\.json$/i, "");
+    }
+
+    function scenarioMetadata(asset) {
+      const key = assetTitle(asset);
+      const candidates = [key, key.match(/^STG\d{4}[a-z]?/i)?.[0], key.match(/^(DLC\d{4})/i)?.[1]];
+      for (const candidate of candidates.filter(Boolean)) {
+        if (state.scenarioTitles[candidate]) return { ...state.scenarioTitles[candidate], key };
+      }
+      const episodeMatch = key.match(/(?:^|-)(\d{1,3})화(?:후)?/u);
+      const branchMatch = key.match(/([A-Z])분기/u);
+      return {
+        key,
+        episode: episodeMatch ? Number(episodeMatch[1]) : null,
+        branch: branchMatch ? branchMatch[1] + "분기" : "",
+      };
+    }
+
+    function scenarioTitleText(asset) {
+      const meta = scenarioMetadata(asset);
+      const episode = Number(meta.episode);
+      const prefix = Number.isFinite(episode) && episode >= 0 ? "제" + episode + "화" : "시나리오";
+      const suffix = meta.titleKo || meta.titleJa || (meta.branch ? meta.branch + " · " : "") + assetTitle(asset);
+      return prefix + " · " + suffix;
+    }
+
+    function scenarioOptionText(asset) {
+      const title = scenarioTitleText(asset);
+      return title + " · " + assetTitle(asset) + " · " + asset.name;
+    }
+
+    function updateAssetSelect() {
+      assetSelect.innerHTML = "";
+      const groups = new Map();
+      [["stage", "본편·분기 시나리오"], ["dlc", "DLC 시나리오"]].forEach(([scope, label]) => {
+        const group = document.createElement("optgroup");
+        group.label = label;
+        group.dataset.scope = scope;
+        groups.set(scope, group);
+        assetSelect.appendChild(group);
+      });
+      state.assets.forEach((asset, index) => {
+        const scope = asset.scope === "dlc" ? "dlc" : "stage";
+        const option = document.createElement("option");
+        option.value = String(index);
+        const count = asset.entries ? `  ·  ${Number(asset.entries).toLocaleString()}행` : "";
+        option.textContent = `${scenarioOptionText(asset)}${count}`;
+        groups.get(scope).appendChild(option);
+      });
+      assetSelect.disabled = !state.assets.length;
+      searchInput.disabled = !state.assets.length;
+      statusSelect.disabled = !state.assets.length;
+      if (state.assetIndex >= 0) assetSelect.value = String(state.assetIndex);
+    }
+
+    async function loadAsset(index) {
+      const asset = state.assets[index];
+      if (!asset) return null;
+      if (asset.data) {
+        state.lineLimit = existingLineLimit(asset.data);
+        lineLimitSummary.textContent = state.lineLimit ? "기존 번역 최대 " + state.lineLimit + "칸 · 원문 → 기존 → 신규 세로 비교 · 원고지 격자 · 대사창은 최대 3줄" : "기존 번역 행에서 길이를 산출하지 못했습니다.";
+        return asset.data;
+      }
+      catalogStatus.classList.remove("error");
+      catalogStatus.textContent = `${assetTitle(asset)} 불러오는 중…`;
+      try {
+        const response = await fetch(asset.path, { cache: "no-store" });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const data = await response.json();
+        if (data.dialogueType !== "scenario" || !Array.isArray(data.entries)) {
+          throw new Error("시나리오 JSON 형식이 아닙니다.");
+        }
+        normalizeTranslationFields(data);
+        asset.data = data;
+        state.lineLimit = existingLineLimit(data);
+        lineLimitSummary.textContent = state.lineLimit ? "기존 번역 최대 " + state.lineLimit + "칸 · 원문 → 기존 → 신규 세로 비교 · 원고지 격자 · 대사창은 최대 3줄" : "기존 번역 행에서 길이를 산출하지 못했습니다.";
+        catalogStatus.textContent = `${state.assets.length}개 시나리오 목록 · ${assetTitle(asset)} 선택됨`;
+        return data;
+      } catch (error) {
+        catalogStatus.classList.add("error");
+        catalogStatus.textContent = "시나리오 JSON을 읽지 못했습니다. viewer/시나리오_대사_뷰어_실행.cmd로 열어 주세요.";
+        showToast(`${assetTitle(asset)} 불러오기 실패`);
+        console.warn("시나리오 JSON 읽기 실패", asset.path, error);
+        return null;
+      }
+    }
+
+    async function selectAsset(index) {
+      if (!state.assets[index]) return;
+      state.lastRuleReport = null;
+      state.assetIndex = index;
+      state.turns = [];
+      state.current = 0;
+      setBuildStatus("", "선택한 시나리오를 불러오는 중…");
+      updateAssetSelect();
+      const data = await loadAsset(index);
+      if (!data) { render(); return; }
+      state.turns = makeTurns(data);
+      applyFilters(false);
+    }
+
+    async function loadCatalog() {
+      catalogStatus.classList.remove("error");
+      catalogStatus.textContent = "시나리오 목록을 불러오는 중…";
+      assetSelect.disabled = true;
+      searchInput.disabled = true;
+      statusSelect.disabled = true;
+      try {
+        const response = await fetch(CATALOG_URL, { cache: "no-store" });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const catalog = await response.json();
+        if (catalog.format !== "siok.scenario-viewer-catalog" || !Array.isArray(catalog.assets)) {
+          throw new Error("시나리오 카탈로그 형식이 아닙니다.");
+        }
+        try {
+          const titleResponse = await fetch(TITLE_CATALOG_URL, { cache: "no-store" });
+          if (titleResponse.ok) {
+            const titleCatalog = await titleResponse.json();
+            if (titleCatalog.format === "siok.scenario-title-catalog" && titleCatalog.titles && typeof titleCatalog.titles === "object") {
+              state.scenarioTitles = titleCatalog.titles;
+            }
+          }
+        } catch (titleError) {
+          state.scenarioTitles = {};
+          console.warn("시나리오 제목 목록을 읽지 못했습니다", TITLE_CATALOG_URL, titleError);
+        }
+        try {
+          const locationResponse = await fetch(CPK_LOCATION_CATALOG_URL, { cache: "no-store" });
+          if (locationResponse.ok) {
+            const locationCatalog = await locationResponse.json();
+            if (locationCatalog.format === "siok.cpk-location-boundary-catalog" && locationCatalog.members && typeof locationCatalog.members === "object") {
+              state.cpkLocations = locationCatalog.members;
+            }
+          }
+        } catch (locationError) {
+          state.cpkLocations = {};
+          console.warn("CPK 지역 경계 목록을 읽지 못했습니다", CPK_LOCATION_CATALOG_URL, locationError);
+        }
+        try {
+          const speakerResponse = await fetch(SPEAKER_CATALOG_URL, { cache: "no-store" });
+          if (speakerResponse.ok) {
+            const speakerCatalog = await speakerResponse.json();
+            if (speakerCatalog.format === "siok.scenario-speaker-catalog" && speakerCatalog.members && typeof speakerCatalog.members === "object") {
+              state.speakerRows = Object.fromEntries(
+                Object.entries(speakerCatalog.members).map(([key, rows]) => [
+                  String(key).toUpperCase(),
+                  new Set(Array.isArray(rows) ? rows.map((row) => Number(row)).filter((row) => Number.isInteger(row) && row > 0) : []),
+                ]),
+              );
+            }
+          }
+        } catch (speakerError) {
+          // 카탈로그가 없는 복사본도 기존 휴리스틱으로 열 수 있게 한다.
+          state.speakerRows = {};
+          console.warn("CPK 화자 슬롯 목록을 읽지 못했습니다", SPEAKER_CATALOG_URL, speakerError);
+        }
+        state.assets = catalog.assets.map((asset) => ({ ...asset, data: null }));
+        state.assetIndex = state.assets.length ? 0 : -1;
+        updateAssetSelect();
+        if (state.assetIndex >= 0) await selectAsset(state.assetIndex);
+        catalogStatus.textContent = `${state.assets.length}개 시나리오 목록을 준비했습니다.`;
+      } catch (error) {
+        state.assets = [];
+        state.assetIndex = -1;
+        state.turns = [];
+        state.visibleTurns = [];
+        state.lineLimit = 0;
+        lineLimitSummary.textContent = "선택한 시나리오에서 자동 산출합니다.";
+        updateAssetSelect();
+        render();
+        catalogStatus.classList.add("error");
+        catalogStatus.textContent = "카탈로그를 읽지 못했습니다. viewer/시나리오_대사_뷰어_실행.cmd로 열어 주세요.";
+        showToast("시나리오 카탈로그를 불러오지 못했습니다.");
+        console.warn("시나리오 카탈로그 읽기 실패", CATALOG_URL, error);
+      }
+    }
+
+    function applyFilters(resetIndex = true) {
+      state.lastRuleReport = null;
+      state.visibleTurns = visibleTurns();
+      if (resetIndex) state.current = 0;
+      if (state.current >= state.visibleTurns.length) state.current = Math.max(0, state.visibleTurns.length - 1);
+      render();
+      refreshFind(resetIndex);
+    }
+
+    function addBadge(label, type = "") {
+      return `<span class="badge ${type}">${escapeHtml(label)}</span>`;
+    }
+
+    function controlStripMarkup(page, field = "translation") {
+      const sourceEntries = page.speakerEntry ? [page.speakerEntry, ...page.entries] : page.entries;
+      const tokens = sourceEntries.flatMap((entry) => controlTokens(stripSlotPadding(entry, entry[field])));
+      if (!tokens.length) return "";
+      const items = tokens.map((token) => renderDisplayText(token)).join("");
+      return `<div class="control-strip"><span class="control-strip-label">제어문자 치환</span>${items}</div>`;
+    }
+
+    function editableEntries(page, data) {
+      const result = [];
+      const seen = new Set();
+      const add = (entry, role) => {
+        const index = data.entries.indexOf(entry);
+        if (index < 0 || seen.has(index)) return;
+        seen.add(index);
+        result.push({ entry, index, role });
+      };
+      page.entries.forEach((entry) => {
+        const index = data.entries.indexOf(entry);
+        if (entry === page.speakerEntry) return;
+        // 화자명 행은 편집 대상에서 제외하고 실제 대사만 신규 번역으로 수정한다.
+        if (index >= 0 && isSpeakerEntry(entry, index, data.entries)) return;
+        add(entry, "대사");
+      });
+      return result;
+    }
+
+    // ── 찾아 바꾸기 ─────────────────────────────────────────────
+    function escapeRegExp(value) {
+      return String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    }
+
+    function buildFindPattern(global) {
+      const query = state.find.query;
+      if (!query) return null;
+      const source = state.find.regex ? query : escapeRegExp(query);
+      const base = (global ? "g" : "") + (state.find.caseSensitive ? "" : "i");
+      try {
+        return new RegExp(source, base + "u");
+      } catch (unicodeError) {
+        try {
+          return new RegExp(source, base);
+        } catch (error) {
+          state.find.error = error && error.message ? error.message : String(error);
+          return null;
+        }
+      }
+    }
+
+    function findTargetEntries() {
+      const asset = state.assets[state.assetIndex];
+      if (!asset || !asset.data || !Array.isArray(asset.data.entries)) return [];
+      const data = asset.data;
+      if (state.find.scope === "screen") {
+        const page = state.visibleTurns[state.current];
+        return page ? editableEntries(page, data) : [];
+      }
+      const result = [];
+      data.entries.forEach((entry, index) => {
+        // 화자명 행은 CPK 슬롯이 고정이라 바꾸기 대상에서 뺀다.
+        if (isSpeakerEntry(entry, index, data.entries)) return;
+        result.push({ entry, index, role: "대사" });
+      });
+      return result;
+    }
+
+    function findFieldText(entry) {
+      if (state.find.field === "newTranslation") {
+        return typeof entry.newTranslation === "string"
+          ? entry.newTranslation
+          : String(entry.translation || "");
+      }
+      return String(entry[state.find.field] || "");
+    }
+
+    function setFindFieldText(entry, value) {
+      const normalized = normalizeDialogueSpaces(value);
+      entry[state.find.field] = normalized;
+      if (state.find.field === "newTranslation") entry.newTranslationStatus = "draft";
+      return normalized;
+    }
+
+    function findReplacementText() {
+      // 일반 찾기에서는 $& 나 $1 을 글자 그대로 넣는다.
+      return state.find.regex
+        ? state.find.replacement
+        : state.find.replacement.replace(/\$/g, "$$$$");
+    }
+
+    function turnIndexForEntry(entryIndex) {
+      const asset = state.assets[state.assetIndex];
+      if (!asset || !asset.data) return -1;
+      const target = asset.data.entries[entryIndex];
+      if (!target) return -1;
+      return state.visibleTurns.findIndex((turn) =>
+        (turn.entries && turn.entries.includes(target)) || turn.speakerEntry === target);
+    }
+
+    function flushEditorEdits() {
+      const asset = state.assets[state.assetIndex];
+      if (!asset || !asset.data) return;
+      editorRows.querySelectorAll(".entry-editor-input").forEach((input) => {
+        const entry = asset.data.entries[Number(input.dataset.entryIndex)];
+        if (!entry) return;
+        const normalized = normalizeDialogueSpaces(input.value);
+        const current = typeof entry.newTranslation === "string" ? entry.newTranslation : null;
+        if (current === normalized) return;
+        entry.newTranslation = normalized;
+        entry.newTranslationStatus = "draft";
+      });
+    }
+
+    function collectMatches() {
+      state.find.error = "";
+      state.find.matches = [];
+      const pattern = buildFindPattern(true);
+      if (!pattern) return;
+      findTargetEntries().forEach(({ entry, index }) => {
+        const text = findFieldText(entry);
+        pattern.lastIndex = 0;
+        let match;
+        let guard = 0;
+        while ((match = pattern.exec(text)) !== null) {
+          state.find.matches.push({
+            entryIndex: index,
+            start: match.index,
+            end: match.index + match[0].length,
+          });
+          if (match[0] === "") pattern.lastIndex += 1;
+          guard += 1;
+          if (guard > 20000) break;
+        }
+      });
+      if (state.find.cursor >= state.find.matches.length) state.find.cursor = -1;
+    }
+
+    function updateFindStatus(extra) {
+      const asset = state.assets[state.assetIndex];
+      const ready = Boolean(asset && asset.data);
+      const hasQuery = Boolean(state.find.query);
+      findInput.disabled = !ready;
+      replaceInput.disabled = !ready;
+      replaceScopeSelect.disabled = !ready;
+      replaceFieldSelect.disabled = !ready;
+      const canAct = ready && hasQuery && !state.find.error && state.find.matches.length > 0;
+      findPrevButton.disabled = !canAct;
+      findNextButton.disabled = !canAct;
+      replaceOneButton.disabled = !canAct || state.find.cursor < 0;
+      replaceAllButton.disabled = !canAct;
+      replaceUndoButton.disabled = !(state.find.undo && ready && state.find.undo.assetKey === asset.key);
+
+      findStatus.className = "find-status";
+      if (!ready) { findStatus.textContent = "시나리오를 먼저 선택하세요."; return; }
+      if (state.find.error) {
+        findStatus.classList.add("error");
+        findStatus.textContent = `정규식을 읽을 수 없습니다 · ${state.find.error}`;
+        return;
+      }
+      if (!hasQuery) { findStatus.textContent = "찾을 내용을 입력하세요."; return; }
+      const total = state.find.matches.length;
+      if (!total) {
+        findStatus.classList.add("warn");
+        findStatus.textContent = "일치하는 내용이 없습니다.";
+        return;
+      }
+      const rows = new Set(state.find.matches.map((item) => item.entryIndex)).size;
+      const parts = [];
+      parts.push(state.find.cursor >= 0
+        ? `일치 ${state.find.cursor + 1} / ${total} · 대사 ${rows}행`
+        : `일치 ${total}개 · 대사 ${rows}행`);
+      if (total <= 500) {
+        const hidden = state.find.matches.filter((item) => turnIndexForEntry(item.entryIndex) < 0).length;
+        if (hidden) parts.push(`필터에 가려진 ${hidden}개는 화면 이동 불가`);
+      }
+      if (state.find.field === "translation") parts.push("기존 번역을 직접 바꿉니다");
+      if (extra) {
+        parts.push(extra);
+        findStatus.classList.add("ok");
+      }
+      findStatus.textContent = parts.join(" · ");
+    }
+
+    function refreshFind(resetCursor = true) {
+      if (resetCursor) state.find.cursor = -1;
+      collectMatches();
+      updateFindStatus();
+    }
+
+    function focusMatch(index) {
+      const match = state.find.matches[index];
+      if (!match) return false;
+      const turnIndex = turnIndexForEntry(match.entryIndex);
+      if (turnIndex < 0) return false;
+      state.find.cursor = index;
+      state.lastRuleReport = null;
+      state.current = turnIndex;
+      render();
+      if (state.find.field === "newTranslation") {
+        const input = editorRows.querySelector(`.entry-editor-input[data-entry-index="${match.entryIndex}"]`);
+        if (input) {
+          input.focus();
+          try { input.setSelectionRange(match.start, match.end); } catch (error) { /* 선택 실패는 무시 */ }
+        }
+      }
+      return true;
+    }
+
+    function stepFind(delta) {
+      flushEditorEdits();
+      collectMatches();
+      const total = state.find.matches.length;
+      if (!total) { updateFindStatus(); return; }
+      const start = state.find.cursor < 0 ? (delta > 0 ? -1 : 0) : state.find.cursor;
+      for (let step = 1; step <= total; step += 1) {
+        const candidate = ((start + delta * step) % total + total) % total;
+        if (focusMatch(candidate)) { updateFindStatus(); return; }
+      }
+      state.find.cursor = -1;
+      updateFindStatus();
+      showToast("필터에 가려져 이동할 수 있는 일치가 없습니다.");
+    }
+
+    function snapshotForUndo(targets) {
+      const asset = state.assets[state.assetIndex];
+      if (!asset) return;
+      state.find.undo = {
+        assetKey: asset.key,
+        field: state.find.field,
+        items: targets.map(({ entry, index }) => ({
+          index,
+          hadField: Object.prototype.hasOwnProperty.call(entry, state.find.field),
+          value: entry[state.find.field],
+          hadStatus: Object.prototype.hasOwnProperty.call(entry, "newTranslationStatus"),
+          status: entry.newTranslationStatus,
+        })),
+      };
+    }
+
+    function afterReplace(count, rows, message, note) {
+      const asset = state.assets[state.assetIndex];
+      if (count > 0 && asset && asset.data) {
+        markDirty();
+        state.turns = makeTurns(asset.data);
+        state.visibleTurns = visibleTurns();
+        if (state.current >= state.visibleTurns.length) {
+          state.current = Math.max(0, state.visibleTurns.length - 1);
+        }
+        render();
+      }
+      state.find.cursor = -1;
+      collectMatches();
+      updateFindStatus(note || message);
+      showToast(note ? `${message} · ${note}` : message);
+    }
+
+    function replaceCurrentMatch() {
+      const asset = state.assets[state.assetIndex];
+      if (!asset || !asset.data) return;
+      flushEditorEdits();
+      const cursor = state.find.cursor;
+      collectMatches();
+      const match = cursor >= 0 ? state.find.matches[cursor] : null;
+      if (!match) {
+        state.find.cursor = -1;
+        updateFindStatus();
+        showToast("먼저 다음 찾기로 바꿀 자리를 고르세요.");
+        return;
+      }
+      const entry = asset.data.entries[match.entryIndex];
+      if (!entry) return;
+      snapshotForUndo([{ entry, index: match.entryIndex }]);
+      const text = findFieldText(entry);
+      const piece = text.slice(match.start, match.end);
+      const single = buildFindPattern(false);
+      const replaced = state.find.regex && single
+        ? piece.replace(single, state.find.replacement)
+        : state.find.replacement;
+      setFindFieldText(entry, text.slice(0, match.start) + replaced + text.slice(match.end));
+      afterReplace(1, 1, "이 자리 1개를 바꿨습니다");
+    }
+
+    function replaceAllMatches() {
+      const asset = state.assets[state.assetIndex];
+      if (!asset || !asset.data) return;
+      flushEditorEdits();
+      collectMatches();
+      const total = state.find.matches.length;
+      if (!total) { updateFindStatus(); return; }
+      const rows = new Set(state.find.matches.map((item) => item.entryIndex)).size;
+      const scopeLabel = state.find.scope === "screen" ? "이 화면" : "이 시나리오 전체";
+      const fieldLabel = state.find.field === "translation" ? "기존 번역" : "신규 번역";
+      const question = `${scopeLabel}의 ${fieldLabel}에서 ${total}개(대사 ${rows}행)를 바꿉니다.\n\n`
+        + `찾을 내용 : ${state.find.query}\n`
+        + `바꿀 내용 : ${state.find.replacement || "(지웁니다)"}\n\n`
+        + "계속할까요?";
+      if (!window.confirm(question)) return;
+
+      const targets = findTargetEntries();
+      snapshotForUndo(targets);
+      const pattern = buildFindPattern(true);
+      if (!pattern) { updateFindStatus(); return; }
+      const replacement = findReplacementText();
+      let changedRows = 0;
+      let changedCount = 0;
+      let brokenControls = 0;
+      targets.forEach(({ entry }) => {
+        const before = findFieldText(entry);
+        pattern.lastIndex = 0;
+        const hits = (before.match(pattern) || []).length;
+        if (!hits) return;
+        const after = before.replace(pattern, replacement);
+        if (after === before) return;
+        const sourceControls = sourceControlTokens(entry).join("|");
+        const controlsBefore = controlTokens(before).join("|");
+        setFindFieldText(entry, after);
+        const controlsAfter = controlTokens(findFieldText(entry)).join("|");
+        if (controlsBefore === sourceControls && controlsAfter !== sourceControls) brokenControls += 1;
+        changedRows += 1;
+        changedCount += hits;
+      });
+      const note = brokenControls
+        ? `제어문자가 어긋난 행 ${brokenControls}개 — 저장 전에 확인하세요`
+        : "";
+      afterReplace(changedCount, changedRows, `${changedCount}개(대사 ${changedRows}행)를 바꿨습니다`, note);
+    }
+
+    function undoReplace() {
+      const asset = state.assets[state.assetIndex];
+      const undo = state.find.undo;
+      if (!asset || !asset.data || !undo || undo.assetKey !== asset.key) return;
+      undo.items.forEach((item) => {
+        const entry = asset.data.entries[item.index];
+        if (!entry) return;
+        if (item.hadField) entry[undo.field] = item.value;
+        else delete entry[undo.field];
+        if (item.hadStatus) entry.newTranslationStatus = item.status;
+        else delete entry.newTranslationStatus;
+      });
+      state.find.undo = null;
+      markDirty();
+      state.turns = makeTurns(asset.data);
+      state.visibleTurns = visibleTurns();
+      if (state.current >= state.visibleTurns.length) {
+        state.current = Math.max(0, state.visibleTurns.length - 1);
+      }
+      render();
+      state.find.cursor = -1;
+      collectMatches();
+      updateFindStatus("되돌렸습니다");
+      showToast("마지막 바꾸기를 되돌렸습니다.");
+    }
+
+    function markDirty() {
+      state.dirty = true;
+      state.lastRuleReport = null;
+      editDirtyState.textContent = "● 저장되지 않은 수정";
+      editDirtyState.classList.add("dirty");
+      ruleReport.className = "rule-report";
+      ruleReport.textContent = "수정 내용이 있습니다. 저장하면 현재 화면의 규칙을 검사합니다.";
+    }
+
+    function renderEditor(page, data) {
+      if (!page || !data || !Array.isArray(data.entries)) {
+        editorPanel.hidden = true;
+        saveButton.disabled = true;
+        editorRows.innerHTML = "";
+        return;
+      }
+      const rows = editableEntries(page, data);
+      editorPanel.hidden = false;
+      saveButton.disabled = false;
+      editorRows.innerHTML = rows.map(({ entry, index, role }) => {
+        const sourceRow = entry.location && entry.location.sourceRow != null ? entry.location.sourceRow : "—";
+        const internalId = entry.location && entry.location.internalId ? entry.location.internalId : "—";
+        const source = renderDisplayText(entry.sourceText || "");
+        const value = typeof entry.newTranslation === "string" ? entry.newTranslation : (entry.translation || "");
+        return `<div class="editor-row">
+          <div class="editor-meta"><strong>대사 · 원문 ${escapeHtml(sourceRow)}</strong><span>${escapeHtml(internalId)}</span><span>${escapeHtml(entry.entryId || "entryId 없음")}</span></div>
+          <div class="editor-source">${source || "(원문 없음)"}</div>
+          <textarea class="entry-editor-input" data-entry-index="${index}" spellcheck="false" aria-label="신규 번역 대사">${escapeHtml(value)}</textarea>
+        </div>`;
+      }).join("");
+      editorRows.querySelectorAll(".entry-editor-input").forEach((input) => {
+        // 대사 한 행은 게임 대사창 한 줄에 1:1로 대응한다. 줄바꿈으로 행을
+        // 나누면 슬롯 수가 어긋나 빌드가 막히므로 입력 단계에서 막는다.
+        input.addEventListener("keydown", (event) => {
+          if (event.key !== "Enter") return;
+          event.preventDefault();
+          showToast("한 행은 대사창 한 줄입니다. 줄을 나누려면 아래 원문 행에 나눠 쓰세요.");
+        });
+        input.addEventListener("input", () => {
+          const entry = data.entries[Number(input.dataset.entryIndex)];
+          if (!entry) return;
+          let value = input.value;
+          if (/[\r\n]/u.test(value)) {
+            value = value.replace(/[\r\n]+/gu, " ");
+            showToast("붙여 넣은 줄바꿈을 공백으로 바꿨습니다. 행은 나눌 수 없습니다.");
+          }
+          const normalized = normalizeDialogueSpaces(value);
+          if (normalized !== input.value) input.value = normalized;
+          entry.newTranslation = normalized;
+          entry.newTranslationStatus = "draft";
+          markDirty();
+        });
+      });
+      editDirtyState.textContent = state.dirty ? "● 저장되지 않은 수정" : "변경 없음";
+      editDirtyState.classList.toggle("dirty", state.dirty);
+      if (state.lastRuleReport) {
+        renderRuleReport(state.lastRuleReport);
+      } else {
+        ruleReport.className = "rule-report";
+        ruleReport.textContent = state.dirty
+          ? "수정 내용이 있습니다. 저장하면 현재 화면의 규칙을 검사합니다."
+          : "저장할 화면을 선택하세요.";
+      }
+    }
+
+    function entryKey(entry, index) {
+      return entry.entryId || `${entry.location && entry.location.assetKey || "scenario"}/${entry.location && entry.location.sourceRow || index}`;
+    }
+
+    function termMarkCount(value, mark) {
+      return (String(value || "").match(new RegExp(mark, "gu")) || []).length;
+    }
+
+    function validateEntry(entry, index, field = "translation") {
+      const errors = [];
+      const warnings = [];
+      const hasSource = typeof entry.sourceText === "string";
+      const source = hasSource ? stripSlotPadding(entry, entry.sourceText) : "";
+      const translation = stripSlotPadding(entry, entry[field]);
+      const label = entryKey(entry, index);
+      const sourceControls = hasSource ? controlTokens(source) : sourceControlTokens(entry);
+      const translationControls = controlTokens(translation);
+      if (sourceControls.join("|") !== translationControls.join("|")) {
+        errors.push(`${label}: 제어문자 순서·개수가 원문과 다릅니다 (${sourceControls.join(" ") || "없음"} → ${translationControls.join(" ") || "없음"})`);
+      }
+      if (/[\r\n]/u.test(translation)) {
+        errors.push(`${label}: 대사 한 행에는 줄바꿈을 넣을 수 없습니다 (행 = 대사창 한 줄)`);
+      }
+      // 원문 행에 글이 있는데 번역 행을 비우면 게임에서 그 줄이 빈 줄로 남고
+      // 대사창 닫는 괄호만 따로 떨어진다.
+      if (hasSource && hasVisibleText(source) && !hasVisibleText(translation)) {
+        warnings.push(`${label}: 원문에는 글이 있는데 이 행이 비었습니다. 게임에서 빈 줄로 보입니다`);
+      }
+      const openTerms = termMarkCount(translation, "《");
+      const closeTerms = termMarkCount(translation, "》");
+      if (openTerms !== closeTerms) errors.push(`${label}: 《 》 용어 괄호가 닫히지 않았습니다`);
+      const sourceTermCount = termMarkCount(source, "《");
+      if (sourceTermCount !== openTerms || termMarkCount(source, "》") !== closeTerms) {
+        if (sourceTermCount || openTerms) warnings.push(`${label}: 원문과 번역의 용어 괄호 수가 다릅니다 (${sourceTermCount} → ${openTerms})`);
+      }
+      const lines = translation.split(/\r?\n/);
+      const visibleLines = lines.filter((line) => hasVisibleText(line));
+      if (visibleLines.length > GAME_MAX_LINES) errors.push(`${label}: 대사창 최대 ${GAME_MAX_LINES}줄을 초과합니다 (${visibleLines.length}줄)`);
+      const metadataLimit = Number(entry.metadata && entry.metadata.byteLimit);
+      const limit = Number.isFinite(metadataLimit) && metadataLimit > 0 ? metadataLimit : state.lineLimit;
+      if (limit > 0) {
+        lines.forEach((line, lineIndex) => {
+          const slots = metadataLimit > 0 ? visualSlots(line) : textSlots(line);
+          if (slots > limit) errors.push(`${label}: ${lineIndex + 1}번째 줄이 ${limit}칸을 초과합니다 (${slots}칸)`);
+        });
+      }
+      if (translation.trim() && JAPANESE_RE.test(translation)) warnings.push(`${label}: 번역문에 일본어 문자가 남아 있습니다`);
+      if (source.trim() && !translation.trim() && !isLocationEntry(entry)) warnings.push(`${label}: 번역문이 비어 있습니다`);
+      return { label, errors, warnings };
+    }
+
+    function validateEntries(entries, field = "translation") {
+      const checks = entries.map(({ entry, index }) => validateEntry(entry, index, field));
+      return {
+        checks,
+        errors: checks.flatMap((check) => check.errors),
+        warnings: checks.flatMap((check) => check.warnings),
+      };
+    }
+
+    function renderRuleReport(report, saved = false) {
+      if (!report) return;
+      const level = report.errors.length ? "error" : (report.warnings.length ? "warn" : "ok");
+      ruleReport.className = `rule-report ${level}`;
+      const prefix = saved ? "저장 완료 · " : "규칙 검사 · ";
+      const summary = `${prefix}${report.checks.length}행 검사 · 오류 ${report.errors.length}건 · 경고 ${report.warnings.length}건`;
+      const items = [...report.errors.map((item) => `오류: ${item}`), ...report.warnings.map((item) => `경고: ${item}`)].slice(0, 12);
+      ruleReport.innerHTML = `<strong>${escapeHtml(summary)}</strong>${items.length ? `<ul>${items.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>` : "<div>현재 화면은 저장 규칙을 통과했습니다.</div>"}${report.errors.length + report.warnings.length > items.length ? `<div>… 외 ${report.errors.length + report.warnings.length - items.length}건</div>` : ""}`;
+    }
+
+    function applyEditorValues(data) {
+      editorRows.querySelectorAll(".entry-editor-input").forEach((input) => {
+        const entry = data.entries[Number(input.dataset.entryIndex)];
+        if (entry) {
+          entry.newTranslation = normalizeDialogueSpaces(input.value);
+          entry.newTranslationStatus = "draft";
+        }
+      });
+      normalizeTranslationFields(data);
+    }
+
+    async function sha256Text(value) {
+      if (!globalThis.crypto || !crypto.subtle || !globalThis.TextEncoder) {
+        throw new Error("SHA-256 계산에는 로컬 서버로 연 뷰어가 필요합니다.");
+      }
+      const bytes = new TextEncoder().encode(String(value ?? ""));
+      const digest = await crypto.subtle.digest("SHA-256", bytes);
+      return [...new Uint8Array(digest)].map((byte) => byte.toString(16).padStart(2, "0")).join("");
+    }
+
+    async function refreshTranslationHashes(data) {
+      for (const entry of Array.isArray(data.entries) ? data.entries : []) {
+        entry.translationTextSha256 = await sha256Text(entry.translation || "");
+        if (typeof entry.newTranslation === "string") {
+          entry.newTranslationTextSha256 = await sha256Text(entry.newTranslation);
+        }
+      }
+    }
+
+    async function writeScenarioJson(asset, data) {
+      normalizeTranslationFields(data);
+      await refreshTranslationHashes(data);
+      const json = JSON.stringify(data, null, 2) + "\n";
+      const suggestedName = asset.name || `scenario_${assetTitle(asset)}.json`;
+      if (typeof window.showSaveFilePicker === "function" && window.isSecureContext) {
+        const handle = await window.showSaveFilePicker({
+          suggestedName,
+          types: [{ description: "시나리오 JSON", accept: { "application/json": [".json"] } }],
+        });
+        const writable = await handle.createWritable();
+        await writable.write(json);
+        await writable.close();
+        return "파일 저장 완료";
+      }
+      const blob = new Blob([json], { type: "application/json;charset=utf-8" });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = suggestedName;
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+      URL.revokeObjectURL(url);
+      return "JSON 다운로드 완료";
+    }
+
+    async function saveCurrentScenario() {
+      const asset = state.assets[state.assetIndex];
+      const page = state.visibleTurns[state.current];
+      if (!asset || !asset.data || !page) return;
+      applyEditorValues(asset.data);
+      const report = validateEntries(editableEntries(page, asset.data), "newTranslation");
+      state.lastRuleReport = report;
+      renderRuleReport(report);
+      try {
+        const result = await writeScenarioJson(asset, asset.data);
+        state.dirty = false;
+        editDirtyState.textContent = "저장됨";
+        editDirtyState.classList.remove("dirty");
+        state.turns = makeTurns(asset.data);
+        applyFilters(false);
+        state.lastRuleReport = report;
+        renderRuleReport(report, true);
+        showToast(`${result} · 오류 ${report.errors.length}건 · 경고 ${report.warnings.length}건`);
+      } catch (error) {
+        if (error && error.name === "AbortError") return;
+        showToast("JSON 저장에 실패했습니다.");
+        console.warn("시나리오 JSON 저장 실패", error);
+      }
+    }
+
+    function setBuildStatus(level, message, links = []) {
+      buildCpkStatus.className = `build-status${level ? ` ${level}` : ""}`;
+      const linkMarkup = links.length
+        ? `<div style="margin-top:6px;">${links.map((link) => `<a href="${escapeHtml(link.href)}" target="_blank" rel="noopener">${escapeHtml(link.label)}</a>`).join(" · ")}</div>`
+        : "";
+      buildCpkStatus.innerHTML = `<strong>${escapeHtml(message)}</strong>${linkMarkup}`;
+    }
+
+    function pendingNewTranslations(data) {
+      if (!data || !Array.isArray(data.entries)) return [];
+      return data.entries.filter((entry) =>
+        typeof entry.newTranslation === "string"
+        && entry.newTranslation !== String(entry.translation || ""));
+    }
+
+    function buildValidationEntries(data) {
+      // 빌더의 build_text와 같은 규칙으로 검사한다. 신규 번역이 없는 행만
+      // 기존 번역을 임시로 채워 넣어, 없는 값 때문에 헛된 오류가 나지 않게 한다.
+      return data.entries.map((entry, index) => ({
+        entry: typeof entry.newTranslation === "string"
+          ? entry
+          : { ...entry, newTranslation: String(entry.translation || "") },
+        index,
+      }));
+    }
+
+    async function buildCurrentScenarioCpk() {
+      const asset = state.assets[state.assetIndex];
+      if (!asset || !asset.data) return;
+      applyEditorValues(asset.data);
+      const pending = pendingNewTranslations(asset.data).length;
+      const validation = validateEntries(buildValidationEntries(asset.data), "newTranslation");
+      if (validation.errors.length) {
+        const firstErrors = validation.errors.slice(0, 3).join(" · ");
+        setBuildStatus("error", `CPK 빌드를 중단했습니다 · 규칙 오류 ${validation.errors.length}건: ${firstErrors}`);
+        showToast("규칙 오류를 먼저 수정하세요.");
+        return;
+      }
+      buildCpkButton.disabled = true;
+      setBuildStatus("", `${assetTitle(asset)} CPK를 준비하는 중…`);
+      try {
+        const response = await fetch("/__siok__/build-cpk", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ assetKey: asset.key, data: asset.data }),
+        });
+        let result;
+        try {
+          result = await response.json();
+        } catch (error) {
+          throw new Error(`서버 응답을 읽지 못했습니다 (${response.status})`);
+        }
+        if (!response.ok || !result || !result.ok) {
+          throw new Error(result && result.error ? result.error : `CPK 빌드 실패 (${response.status})`);
+        }
+        const links = [];
+        if (result.outputUrl) links.push({ href: result.outputUrl, label: "CPK 다운로드" });
+        if (result.reportUrl) links.push({ href: result.reportUrl, label: "빌드 보고서" });
+        const warningSuffix = validation.warnings.length ? ` · 사전 경고 ${validation.warnings.length}건` : "";
+        const appliedSuffix = pending ? ` · 기존 번역과 다른 ${pending.toLocaleString()}행 반영` : "";
+        setBuildStatus(
+          "ok",
+          `CPK 빌드·재추출 검증 완료 · ${Number(result.outputBytes || 0).toLocaleString()}바이트${warningSuffix}${appliedSuffix}`,
+          links,
+        );
+        showToast("신규 번역으로 검증된 시나리오 CPK를 만들었습니다.");
+      } catch (error) {
+        const detail = error && error.message ? error.message : String(error);
+        const fileHint = window.location.protocol === "file:" ? " viewer/시나리오_대사_뷰어_실행.cmd로 다시 여세요." : "";
+        setBuildStatus("error", `CPK 빌드 실패: ${detail}${fileHint}`);
+        showToast("CPK 빌드에 실패했습니다. 아래 결과를 확인하세요.");
+        console.warn("시나리오 CPK 빌드 실패", error);
+      } finally {
+        buildCpkButton.disabled = !(state.assets[state.assetIndex] && state.assets[state.assetIndex].data);
+      }
+    }
+
+    function properTermRanges(value) {
+      const ranges = [];
+      for (const match of String(value ?? "").matchAll(PROPER_TERM_RE)) {
+        const start = Number(match.index || 0);
+        ranges.push([start, start + match[0].length]);
+      }
+      return ranges;
+    }
+
+    function renderManuscriptCells(value, { source = false, columns = 26, prefix = "" } = {}) {
+      const raw = String(value ?? "");
+      const ranges = properTermRanges(raw);
+      const atoms = displayAtoms(raw);
+      const safeColumns = Math.max(1, Number(columns) || 26);
+      const cells = Array.from({ length: safeColumns }, () => []);
+      const spaceCells = new Set();
+      let rawCursor = 0;
+      let slotIndex = 0;
+      let openingConsumed = false;
+      let openingSpacingConsumed = false;
+      // 2·3행 대사가 있는 경우에만 framedLines가 괄호 뒤에 표시용
+      // 반각 공백을 합성한다. 한 줄 대사의 첫 실제 공백(예: "무슨 소리야")
+      // 을 표시용 공백으로 잘못 판단해 버리지 않도록 원문에서 확인한다.
+      const hasSyntheticOpeningSpace = prefix === "quote" && /^「[ \u00a0]/u.test(raw);
+      if (prefix === "quote" || prefix === "space") {
+        const prefixText = prefix === "quote" ? (raw.match(/^「/u)?.[0] || "「") : " ";
+        cells[0].push(`<span class="manuscript-char frame-prefix-char">${prefixText === " " ? "&nbsp;" : escapeHtml(prefixText)}</span>`);
+        slotIndex = 1;
+      }
+      for (const atom of atoms) {
+        const start = rawCursor;
+        rawCursor += atom.length;
+        const slots = textSlots(atom);
+        if (prefix === "quote" && !openingConsumed && atom === "「") {
+          openingConsumed = true;
+          continue;
+        }
+        // 표시용 접두 칸이 첫 행의 여백을 이미 담당하므로, 합성 괄호 뒤에
+        // 들어간 기존 표시용 반각 공백은 실제 문자 칸으로 한 번 더 만들지 않는다.
+        if (hasSyntheticOpeningSpace && openingConsumed && !openingSpacingConsumed && (atom === " " || atom === "\u00a0")) {
+          openingSpacingConsumed = true;
+          continue;
+        }
+        const isTerm = atom.startsWith("《");
+        const isControl = CONTROL_TOKEN_RE.test(atom);
+        if (isTerm) {
+          const termText = atom.slice(1, -1);
+          for (const character of [...termText]) {
+            if (slotIndex < safeColumns) {
+              cells[slotIndex].push(`<span class="manuscript-char glossary-term-char">${escapeHtml(character).replace(/ /g, "&nbsp;")}</span>`);
+            }
+            slotIndex += 1;
+          }
+          continue;
+        }
+        if (isControl) {
+          const info = controlInfo(atom);
+          const expanded = controlDisplayText(atom);
+          const controlTitle = `${info.description} · ${normalizeControlToken(atom)} · ${expanded}`;
+          for (const character of [...expanded]) {
+            const isSpace = character === " " || character === "\u00a0";
+            const spaceClass = isSpace ? " space-char" : "";
+            const charText = isSpace ? "&nbsp;" : escapeHtml(character);
+            if (slotIndex < safeColumns) {
+              if (isSpace) spaceCells.add(slotIndex);
+              cells[slotIndex].push(`<span class="manuscript-char control-slot control-expanded ${escapeHtml(info.kind)}${spaceClass}" title="${escapeHtml(controlTitle)}">${charText}</span>`);
+            }
+            slotIndex += 1;
+          }
+          continue;
+        }
+        if (slots > 0) {
+          const proper = ranges.some(([from, to]) => start < to && rawCursor > from) ? " proper-term" : "";
+          const isHalfWidthSpace = atom === " " || atom === "\u00a0";
+          const spaceClass = isHalfWidthSpace ? " space-char" : "";
+          const cellText = escapeHtml(atom).replace(/ /g, "&nbsp;");
+          if (slotIndex < safeColumns) {
+            if (isHalfWidthSpace) spaceCells.add(slotIndex);
+            const title = isHalfWidthSpace ? ' title="반각 공백 · 원고지 1칸"' : "";
+            cells[slotIndex].push(`<span class="manuscript-char${proper}${spaceClass}"${title}>${cellText}</span>`);
+          }
+          slotIndex += slots;
+          continue;
+        }
+        const isFrameOpening = atom === "「";
+        const isFrameClosing = atom === "」";
+        const info = isTerm ? null : controlInfo(atom);
+        const description = isTerm ? "용어사전 표기" : `${info.description} · ${normalizeControlToken(atom)}`;
+        const target = Math.min(safeColumns - 1, Math.max(0, slotIndex));
+        const frameClass = isFrameOpening && prefix !== "quote"
+          ? " frame-opening"
+          : isFrameClosing && slotIndex >= safeColumns
+            ? " frame-closing-end"
+            : "";
+        cells[target].push(`<span class="manuscript-mark${frameClass} ${isTerm ? "manuscript-term-mark" : "manuscript-control-mark"}" title="${escapeHtml(description)}">${renderDisplayText(atom)}</span>`);
+      }
+      return cells.map((items, index) => {
+        const cellClass = `manuscript-cell${items.length ? "" : " empty-cell"}${spaceCells.has(index) ? " space-cell" : ""}`;
+        return `<td class="${cellClass}">${items.join("") || "&nbsp;"}</td>`;
+      }).join("");
+    }
+
+    function renderManuscriptTable(rows, { source = false, columns = 26 } = {}) {
+      const safeColumns = Math.max(1, Number(columns) || 26);
+      const tableClass = source ? "manuscript-table source-manuscript-table" : "manuscript-table";
+      const body = rows.map((row) => {
+        const line = String(row.line ?? "");
+        const emptyClass = row.empty ? " empty-row" : "";
+        const overflowClass = row.overflow ? " overflow-row" : "";
+        const atLimitClass = row.atLimit ? " at-limit-row" : "";
+        return `<tr class="manuscript-row${emptyClass}${overflowClass}${atLimitClass}" title="${escapeHtml(row.title || "")}">${renderManuscriptCells(line, { source, columns: safeColumns, prefix: row.prefix || "" })}</tr>`;
+      }).join("");
+      return `<table class="${tableClass}" role="presentation" style="--grid-columns:${safeColumns}"><tbody>${body}</tbody></table>`;
+    }
+
+    function gameLineMarkup(lineStats, frameKind = "dialogue") {
+      const hasFrame = frameKind === "dialogue" && lineStats.lines.some((line) => /^[\s\u3000]*「/u.test(line));
+      const columns = Math.max(1, state.lineLimit || 26) + (hasFrame ? 1 : 0);
+      const rows = lineStats.lines.map((line, index) => {
+        const overflowClass = lineStats.overflowLines[index] ? " overflow" : "";
+        const contentLine = lineStats.contentLines[index] || "";
+        const contentSlots = textSlots(contentLine);
+        const empty = !hasDisplayContent(line);
+        const atLimit = state.lineLimit > 0 && contentSlots === state.lineLimit;
+        const lineTitle = lineStats.overflowLines[index]
+          ? contentSlots + "칸 · 기준 " + state.lineLimit + "칸 초과"
+          : atLimit
+            ? contentSlots + "칸 · 기준 " + state.lineLimit + "칸 한계"
+            : contentSlots + "칸";
+        const prefix = hasFrame
+          ? index === 0
+            ? "quote"
+            : "space"
+          : "";
+        return { line, title: lineTitle, empty, overflow: Boolean(lineStats.overflowLines[index]), atLimit, prefix };
+      });
+      return renderManuscriptTable(rows, { columns });
+    }
+
+    function updateDialogueGrid() {
+      const columns = String(state.lineLimit > 0 ? state.lineLimit : 26);
+      ["sourceDialogueBody", "dialogueBody", "newDialogueBody"].forEach((id) => {
+        const body = $(id);
+        if (body) body.style.setProperty("--grid-columns", columns);
+      });
+    }
+
+    function updateComparisonGrid(sourceVisible, newVisible) {
+      const grid = $("comparisonGrid");
+      if (!grid) return;
+      grid.classList.toggle("without-source", !sourceVisible);
+      grid.classList.toggle("without-new", !newVisible);
+    }
+
+    function renderGamePreview(asset) {
+      const data = asset.data;
+      const page = state.visibleTurns[state.current];
+      const entries = Array.isArray(data.entries) ? data.entries : [];
+      $("copyButton").disabled = !page;
+      buildCpkButton.disabled = !asset || !asset.data;
+      const warnings = entries.filter(entryHasFlag).length;
+      const statuses = entries.reduce((acc, item) => { const key = String(item.translationStatus || "draft"); acc[key] = (acc[key] || 0) + 1; return acc; }, {});
+      $("globalStatus").innerHTML = "<strong>" + escapeHtml(assetTitle(asset)) + "</strong> · " + entries.length.toLocaleString() + "행 · 경고 " + warnings.toLocaleString() + "건";
+      $("sceneTitle").textContent = scenarioTitleText(asset);
+      $("sceneSubtitle").textContent = assetTitle(asset) + (asset.path && asset.path !== asset.name ? " · " + asset.path : " · translations/dialogue · scenario");
+      const titleMeta = scenarioMetadata(asset);
+      $("entryCount").textContent = entries.length.toLocaleString();
+      $("turnCount").textContent = state.turns.length.toLocaleString();
+      $("warningCount").textContent = warnings.toLocaleString();
+      $("statusCount").textContent = (statuses.draft || 0) + " draft";
+
+      if (!page) {
+        $("screenCounter").textContent = "검색 결과 없음";
+        $("speakerChip").textContent = "검색 결과 없음";
+        $("dialogueText").textContent = "검색 조건에 맞는 대사가 없습니다.";
+        $("dialogueText").classList.add("empty");
+        $("newDialogueBox").hidden = true;
+        $("newDialogueText").textContent = "";
+        $("newDialogueText").classList.add("empty");
+        $("newSpeakerChip").textContent = "—";
+        $("newSpeakerRole").textContent = "신규 번역";
+        $("sourceSpeakerChip").textContent = "—";
+        $("sourceSpeakerRole").textContent = "원문 화자";
+        $("sourceText").textContent = "";
+        $("originalBox").hidden = !originalToggle.checked;
+        updateComparisonGrid(originalToggle.checked, false);
+        $("entryMeta").textContent = "검색어 또는 상태 필터를 바꿔 보세요.";
+        $("badges").innerHTML = "";
+        updateDialogueGrid();
+        renderEditor(null, data);
+        updateNavigation();
+        return;
+      }
+
+      const translations = pageLines(page);
+      const newTranslations = pageLines(page, "newTranslation");
+      const sources = pageLines(page, "sourceText");
+      const speakerKind = page.speakerKind || "dialogue";
+      const lineStats = gameLineStats(translations, speakerKind);
+      const newLineStats = gameLineStats(newTranslations, speakerKind);
+      const sourceFit = fitPreviewLines(sources, speakerKind);
+      const sourceStats = displayFrameLines(sourceFit.lines, speakerKind);
+      const translation = translations.join("\n");
+      const newTranslation = newTranslations.join("\n");
+      const lineMarkup = gameLineMarkup(lineStats, speakerKind);
+      const newLineMarkup = gameLineMarkup(newLineStats, speakerKind);
+      const sourceHasFrame = speakerKind === "dialogue" && sourceStats.lines.some((line) => /^[\s\u3000]*「/u.test(line));
+      const manuscriptColumns = Math.max(1, state.lineLimit || 26) + (sourceHasFrame ? 1 : 0);
+      const sourceRows = sourceStats.lines.map((line, index) => ({
+        line,
+        title: visibleText(line),
+        empty: !hasDisplayContent(line),
+        prefix: sourceHasFrame
+          ? index === 0
+            ? "quote"
+            : "space"
+          : "",
+      }));
+      const sourceLineMarkup = renderManuscriptTable(sourceRows, { source: true, columns: manuscriptColumns });
+      const pageStatuses = [...new Set(page.entries.map((entry) => String(entry.translationStatus || "draft")))];
+      const pageStatus = pageStatuses.length === 1 ? pageStatuses[0] : "mixed";
+      const japanese = translations.some((text) => JAPANESE_RE.test(text));
+      const hasNewTranslation = page.entries.some((entry) => typeof entry.newTranslation === "string");
+      const review = page.entries.some((entry) => /재검수|보호 용어|공백/.test(String(entry.notes || "")));
+      const encodedLength = page.entries.reduce((sum, entry) => sum + (Number(entry.metadata && entry.metadata.encodedLength) || 0), 0);
+      const rows = page.entries.map((entry) => entry.location && entry.location.sourceRow).filter((row) => row != null);
+      const narration = speakerKind === "narration";
+      const location = speakerKind === "location";
+      const memberId = memberIdOf(page.entries[0]);
+      $("screenCounter").textContent = (state.current + 1).toLocaleString() + " / " + state.visibleTurns.length.toLocaleString();
+      $("speakerChip").textContent = narration ? "나레이션" : (location ? "지역 표시" : (page.speaker || "화자 미상"));
+      $("speakerChip").classList.toggle("narration", narration);
+      $("speakerChip").classList.toggle("location", location);
+      $("speakerRole").textContent = narration
+        ? "화자 없음 · " + memberId + " · 화면 " + lineStats.count + "줄"
+        : location
+          ? "화자 없음 · CPK pid_MUZIN · 화면 " + lineStats.count + "줄"
+        : page.speakerEntry
+          ? "원문 행 " + (page.speakerEntry.location && page.speakerEntry.location.sourceRow ? page.speakerEntry.location.sourceRow : "—") + " · 화면 " + lineStats.count + "줄"
+          : "화면 " + lineStats.count + "줄";
+      $("sourceSpeakerChip").innerHTML = narration || location
+        ? "—"
+        : (page.speakerEntry ? renderDisplayText(stripSlotPadding(page.speakerEntry, page.speakerEntry.sourceText)) || "—" : "—");
+      $("sourceSpeakerRole").textContent = narration
+        ? "화자 없음 · " + memberId
+        : location
+          ? "화자 없음 · CPK pid_MUZIN"
+          : (page.speakerEntry ? "원문 화자 · " + sourceStats.count + "줄" : "원문 행 묶음");
+      const controlMarkup = controlStripMarkup(page, "translation");
+      const newControlMarkup = controlStripMarkup(page, "newTranslation");
+      $("dialogueText").innerHTML = translation.trim() ? controlMarkup + lineMarkup : "번역 없음";
+      $("dialogueText").classList.toggle("empty", !translation.trim());
+      $("newSpeakerChip").textContent = narration ? "나레이션" : (location ? "지역 표시" : (page.speaker || "화자 미상"));
+      $("newSpeakerChip").classList.toggle("narration", narration);
+      $("newSpeakerChip").classList.toggle("location", location);
+      $("newSpeakerRole").textContent = narration
+        ? "화자 없음 · 신규 번역 · 화면 " + newLineStats.count + "줄"
+        : location
+          ? "화자 없음 · 신규 번역 · 화면 " + newLineStats.count + "줄"
+          : "신규 번역 · 화면 " + newLineStats.count + "줄";
+      $("newDialogueText").innerHTML = newTranslation.trim() ? newControlMarkup + newLineMarkup : "신규 번역 없음";
+      $("newDialogueText").classList.toggle("empty", !newTranslation.trim());
+      $("newDialogueBox").hidden = !hasNewTranslation;
+      const sourceAvailable = assetHasSourceText(data);
+      originalToggle.disabled = !sourceAvailable;
+      originalToggle.title = sourceAvailable ? "" : "이 데이터에는 일본어 원문이 들어 있지 않습니다.";
+      const showSource = sourceAvailable && originalToggle.checked;
+      $("originalBox").hidden = !showSource;
+      updateComparisonGrid(showSource, hasNewTranslation);
+      $("sourceText").innerHTML = controlStripMarkup(page, "sourceText") + sourceLineMarkup;
+      updateDialogueGrid();
+
+      const badges = [];
+      badges.push(addBadge(pageStatus, pageStatus === "approved" ? "good" : ""));
+      badges.push(addBadge("화면 " + lineStats.count + "/" + GAME_MAX_LINES + "줄", lineStats.count <= GAME_MAX_LINES ? "good" : "warn"));
+      const atLimit = state.lineLimit > 0 && lineStats.maxSlots === state.lineLimit;
+      badges.push(addBadge("최대 " + lineStats.maxSlots + "/" + state.lineLimit + "칸" + (atLimit ? " · 한계" : ""), lineStats.overflow || atLimit ? "warn" : "good"));
+      badges.push(addBadge(page.entries.length + "행 묶음", ""));
+      const hiddenPadding = pageSlotPadding(page);
+      if (hiddenPadding) badges.push(addBadge("고정 슬롯 자리 채움 " + hiddenPadding.toLocaleString() + "칸 숨김", ""));
+      if (hasNewTranslation) {
+        badges.push(addBadge("신규 " + newLineStats.count + "/" + GAME_MAX_LINES + "줄", newLineStats.count <= GAME_MAX_LINES ? "good" : "warn"));
+      }
+      if (lineStats.fitted) {
+        const fitLabel = lineStats.truncated
+          ? "3줄 균등 배치 · 미리보기 축약"
+          : lineStats.wrapped && !lineStats.rebalanced
+            ? "한 줄 초과 → 다음 줄"
+            : "3줄 균등 배치";
+        badges.push(addBadge(fitLabel, "warn"));
+      }
+      if (location) badges.push(addBadge("CPK 무화자 지역 행", ""));
+      if (japanese) badges.push(addBadge("일본어 잔존", "bad"));
+      if (review) badges.push(addBadge("재검수 필요", "bad"));
+      $("badges").innerHTML = badges.join("");
+      const row = rows.length ? "원문 행 " + Math.min(...rows) + "–" + Math.max(...rows) : "행 정보 없음";
+      const internal = page.entries[0].location && page.entries[0].location.internalId ? page.entries[0].location.internalId : "";
+      const sourceLength = encodedLength ? "원문 인코딩 합계 " + encodedLength : "";
+      $("entryMeta").innerHTML = "<strong>" + escapeHtml(page.entries[0].entryId || "entryId 없음") + "</strong> · " + escapeHtml(row) + (internal ? " · " + internal : "") + (sourceLength ? " · " + sourceLength : "");
+      renderEditor(page, data);
+      updateNavigation();
+    }
+
+    function render() {
+      const asset = state.assets[state.assetIndex];
+      if (!asset) {
+        emptyState.hidden = false;
+        gameScreen.hidden = true;
+        renderEditor(null, null);
+        $("copyButton").disabled = true;
+        buildCpkButton.disabled = true;
+        setBuildStatus("", "시나리오를 선택하면 CPK 빌드 버튼이 활성화됩니다.");
+        $("globalStatus").textContent = "카탈로그에서 시나리오를 선택하세요.";
+        return;
+      }
+      if (!asset.data) {
+        emptyState.hidden = false;
+        gameScreen.hidden = true;
+        renderEditor(null, null);
+        $("copyButton").disabled = true;
+        buildCpkButton.disabled = true;
+        setBuildStatus("", `${assetTitle(asset)}를 불러오는 중이거나 읽을 수 없습니다.`);
+        $("globalStatus").textContent = `${assetTitle(asset)}를 불러오는 중이거나 읽을 수 없습니다.`;
+        return;
+      }
+      emptyState.hidden = true;
+      gameScreen.hidden = false;
+      renderGamePreview(asset);
+    }
+
+    function updateNavigation() {
+      const hasEntries = state.visibleTurns.length > 0;
+      const atStart = state.current <= 0;
+      const atEnd = state.current >= state.visibleTurns.length - 1;
+      [$("prevButton"), $("bottomPrev")].forEach((button) => { button.disabled = !hasEntries || atStart; });
+      [$("nextButton"), $("bottomNext")].forEach((button) => { button.disabled = !hasEntries || atEnd; });
+      const hasScenario = state.assetIndex >= 0 && state.assetIndex < state.assets.length;
+      const scenarioNumber = hasScenario ? state.assetIndex + 1 : 0;
+      const scenarioCount = state.assets.length;
+      const previousScenario = hasScenario ? state.assets[state.assetIndex - 1] : null;
+      const nextScenario = state.assets[state.assetIndex + 1];
+      previousScenarioButton.disabled = !previousScenario;
+      nextScenarioButton.disabled = !nextScenario;
+      scenarioPosition.textContent = `시나리오 ${scenarioNumber} / ${scenarioCount}`;
+      scenarioNextLabel.textContent = hasScenario
+        ? `현재: ${scenarioTitleText(state.assets[state.assetIndex])}`
+        : "시나리오를 선택하면 이전·다음 시나리오로 이동할 수 있습니다.";
+      const percent = hasEntries ? Math.round(((state.current + 1) / state.visibleTurns.length) * 100) : 0;
+      $("progressFill").style.width = `${percent}%`;
+      $("progressLabel").textContent = hasEntries ? `${(state.current + 1).toLocaleString()} / ${state.visibleTurns.length.toLocaleString()} 표시 화면` : "검색 결과 없음";
+      $("progressPercent").textContent = `${percent}%`;
+    }
+
+    function move(delta) {
+      if (!state.visibleTurns.length) return;
+      state.lastRuleReport = null;
+      state.current = Math.max(0, Math.min(state.visibleTurns.length - 1, state.current + delta));
+      render();
+    }
+
+    assetSelect.addEventListener("change", (event) => selectAsset(Number(event.target.value)));
+    reloadCatalogButton.addEventListener("click", loadCatalog);
+    searchInput.addEventListener("input", (event) => { state.query = event.target.value.trim(); applyFilters(); });
+    statusSelect.addEventListener("change", (event) => { state.status = event.target.value; applyFilters(); });
+    findInput.addEventListener("input", (event) => { state.find.query = event.target.value; refreshFind(); });
+    findInput.addEventListener("keydown", (event) => {
+      if (event.key !== "Enter") return;
+      event.preventDefault();
+      stepFind(event.shiftKey ? -1 : 1);
+    });
+    replaceInput.addEventListener("input", (event) => { state.find.replacement = event.target.value; updateFindStatus(); });
+    replaceScopeSelect.addEventListener("change", (event) => { state.find.scope = event.target.value; refreshFind(); });
+    replaceFieldSelect.addEventListener("change", (event) => {
+      state.find.field = event.target.value;
+      state.find.undo = null;
+      refreshFind();
+    });
+    findCaseToggle.addEventListener("change", (event) => { state.find.caseSensitive = event.target.checked; refreshFind(); });
+    findRegexToggle.addEventListener("change", (event) => { state.find.regex = event.target.checked; refreshFind(); });
+    findNextButton.addEventListener("click", () => stepFind(1));
+    findPrevButton.addEventListener("click", () => stepFind(-1));
+    replaceOneButton.addEventListener("click", replaceCurrentMatch);
+    replaceAllButton.addEventListener("click", replaceAllMatches);
+    replaceUndoButton.addEventListener("click", undoReplace);
+    originalToggle.addEventListener("change", render);
+    groupToggle.addEventListener("change", (event) => {
+      state.groupSpeakerRows = event.target.checked;
+      if (state.assets[state.assetIndex] && state.assets[state.assetIndex].data) {
+        state.turns = makeTurns(state.assets[state.assetIndex].data);
+        applyFilters();
+      }
+    });
+    [$("prevButton"), $("bottomPrev")].forEach((button) => button.addEventListener("click", () => move(-1)));
+    [$("nextButton"), $("bottomNext")].forEach((button) => button.addEventListener("click", () => move(1)));
+    previousScenarioButton.addEventListener("click", () => {
+      if (state.assets[state.assetIndex - 1]) selectAsset(state.assetIndex - 1);
+    });
+    nextScenarioButton.addEventListener("click", () => {
+      if (state.assets[state.assetIndex + 1]) selectAsset(state.assetIndex + 1);
+    });
+    $("copyButton").addEventListener("click", async () => {
+      const page = state.visibleTurns[state.current];
+      if (!page) return;
+      try { await navigator.clipboard.writeText(pageTranslation(page, "newTranslation")); showToast("신규 번역을 클립보드에 복사했습니다."); }
+      catch { showToast("브라우저가 클립보드 접근을 허용하지 않았습니다."); }
+    });
+    saveButton.addEventListener("click", saveCurrentScenario);
+    buildCpkButton.addEventListener("click", buildCurrentScenarioCpk);
+    document.addEventListener("keydown", (event) => {
+      if (["INPUT", "SELECT", "TEXTAREA"].includes(document.activeElement && document.activeElement.tagName)) return;
+      if (["ArrowLeft", "ArrowUp"].includes(event.key)) { event.preventDefault(); move(-1); }
+      if (["ArrowRight", "ArrowDown", " "].includes(event.key)) { event.preventDefault(); move(1); }
+      if (event.key === "Home") { state.lastRuleReport = null; state.current = 0; render(); }
+      if (event.key === "End") { state.lastRuleReport = null; state.current = Math.max(0, state.visibleTurns.length - 1); render(); }
+    });
+    updateFindStatus();
+    loadCatalog();
+  </script>
+</body>
+</html>

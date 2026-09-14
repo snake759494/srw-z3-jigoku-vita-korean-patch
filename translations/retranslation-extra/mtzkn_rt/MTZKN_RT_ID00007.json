@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00007",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00007/Sheet1/000002",
+      "sourceBindingSha256": "4cf17ebe27bbfbf2de41d11d39afc3d1b985a5089ef2be4f8fb0d671cb3610c2",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00007/Sheet1/000003",
+      "sourceBindingSha256": "cb267aba84fe0c2cff0641d013388771347fd7017030b9b4a3af5869390b1f05",
+      "sourceTextSha256": "502a2f59ce42a1fd8b5eb1d82e945aae3b6bb3763eba4f8ccbe8296d558c1c99",
+      "freshTranslation": "스페이스 로보 3호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00007/Sheet1/000004",
+      "sourceBindingSha256": "525782007c1cbef76b0b2c52b2b712d4c09af267fea90cbfa765872c2698e847",
+      "sourceTextSha256": "502a2f59ce42a1fd8b5eb1d82e945aae3b6bb3763eba4f8ccbe8296d558c1c99",
+      "freshTranslation": "스페이스 로보 3호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00007/Sheet1/000005",
+      "sourceBindingSha256": "c87bc4c19d8e39790716476efa3cbb1ef20e07b047231b337aabff1260315efd",
+      "sourceTextSha256": "5d8d67e4d0d0e792439023be9693d08641795c93b03178c41ac8d51c1c5e2e29",
+      "freshTranslation": "제31화 『요새 혜성의 습격! 』에 등장한 로봇. ㊥ 우주마왕이 보낸 스페이스 로봇의 제3호에서 파트별로 분리시킨 신체를 운석㊥의 파편에 섞여 지구에 강하했다. 파트마다 자유자재로 합체 분리를 반복해, 철인㊥의 공격을 피했다. ㊥ 마지막은 분리의 틈을 뚫고 철인에게 롤링",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00007/Sheet1/000006",
+      "sourceBindingSha256": "57861f3676cb21430bcedc7e1fe0a20b7addda96f240e20d64e658d0407d7a33",
+      "sourceTextSha256": "b847d38815053cce4ba76d4d038c91beffc449a24ae985c32f94eb10663032b2",
+      "freshTranslation": "쿠로 바디 내부에 돌입되어 ㊥ 폭발했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00007/Sheet1/000007",
+      "sourceBindingSha256": "f77466ce3b2c4507019cf1253fc4b1d1784bfb7bf3081f1ed9d92bee591b3421",
+      "sourceTextSha256": "5d8d67e4d0d0e792439023be9693d08641795c93b03178c41ac8d51c1c5e2e29",
+      "freshTranslation": "제31화 『요새 혜성의 습격! 』에 등장한 로봇. ㊥ 우주마왕이 보낸 스페이스 로봇의 제3호에서 파트별로 분리시킨 신체를 운석㊥의 파편에 섞여 지구에 강하했다. 파트마다 자유자재로 합체 분리를 반복해, 철인㊥의 공격을 피했다. ㊥ 마지막은 분리의 틈을 뚫고 철인에게 롤링",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00007/Sheet1/000008",
+      "sourceBindingSha256": "ec18baa1e366ed0d55bbc4e53b549b613e6639451f1cb2684ffcd54ac39eba29",
+      "sourceTextSha256": "b847d38815053cce4ba76d4d038c91beffc449a24ae985c32f94eb10663032b2",
+      "freshTranslation": "쿠로 바디 내부에 돌입되어 ㊥ 폭발했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

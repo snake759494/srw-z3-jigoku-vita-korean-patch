@@ -1,0 +1,203 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00174",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000002",
+      "sourceBindingSha256": "f0e7a000b833b843652a3d0a972843d36b6b87c0f5355e642ec5190d90a7ff6b",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000003",
+      "sourceBindingSha256": "cee6cff046a04c3a67b73d6861c36fbc03fab9b1fda63c38c648bd93754b77c3",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000004",
+      "sourceBindingSha256": "76b418e86b33f3a400ad2718755c04f4e366324c476e1f9497c0c4db083cd436",
+      "sourceTextSha256": "14996ee1328f36a963b8ff20ac288661eb587fa302fabe3ca3e5dbebd8b278ad",
+      "freshTranslation": "M9 건즈백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000005",
+      "sourceBindingSha256": "a613244b2deeea49fc76335990cd4988b601bc91d26d83969ebc66fb798db792",
+      "sourceTextSha256": "14996ee1328f36a963b8ff20ac288661eb587fa302fabe3ca3e5dbebd8b278ad",
+      "freshTranslation": "M9 건즈백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000006",
+      "sourceBindingSha256": "786402d1619dff8226e9e1b4d12e91ae003379190582ceb62be0364cdbaca91b",
+      "sourceTextSha256": "52fa980f460bbedff1c7d04eb815784fd53074da84f2c01e6015014ccc60d76c",
+      "freshTranslation": "멜리사 마오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000007",
+      "sourceBindingSha256": "690c1e9fecc0f48534106b17023acbc27477cb249778e37b5c437570835e5f2f",
+      "sourceTextSha256": "de32f8a7c2c07d8294506cd2bc6a59b8d7297e02ee336d22867cb9445517faf3",
+      "freshTranslation": "최신예의 3세대 AS. ㊥ 미스릴에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000008",
+      "sourceBindingSha256": "982f1314517198a24201eae0e258b79c1eb4b4dd98c369e169fec56473755582",
+      "sourceTextSha256": "3854b21c54648989123835b328dd08d97c16444e489cdc7d407346b0ff4c95f0",
+      "freshTranslation": "사용되고 있으며 본 기기에는 멜리사 마오 조장이 탑승한다. ㊥ 본 기종은 현재 미군에서 개발 중으로 여겨지고 있으며, 미스릴 이외의 조직, 국가에는 아직 배포 ㊥ 갖추어지지 않았다. 그 미스릴의 주력무기로서 E계열이라고 불리는 기체가 SRT대 ㊥원에 의해",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000009",
+      "sourceBindingSha256": "8797b006566f7546af879376869281fdd0b01d99c477d5be4f7e861b0d9d75d9",
+      "sourceTextSha256": "d81dfd7e094b9f5503bc5d370ac5fbd93c9403af83a1200fa59c6f661a29d9bc",
+      "freshTranslation": "사용되었습니다. ㊥ 기존 기체에 비해 매우 고성능이며, 특히 그 고기동성과 스텔스성은 다른 ㊥AS를 압도. ECS에 의해, 모든 센서나 레이더 등의 전자 무기를 무력화 ㊥할 뿐만 아니라, 육안으로의 시인도 불가능하게 하는 기능을 갖는다. ㊥ 마오기의 가장 큰 특징은 센서 기능을 강화한 복합 블레이드 안테나를 헤드 유니㊥ 트에 장비하고 있다는 것이다. 이것에 의해 전선 지휘관기로서 필요한 전자전의 능력㊥을 획득. 고도의 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000010",
+      "sourceBindingSha256": "62ea89e7b901b185adb223482bc20df72cbd2fcc724814ae58d6836573b04640",
+      "sourceTextSha256": "5529b046cc92be6aa16c9a0f71501951cee9a6a525637a8ee8baef2ad00d9538",
+      "freshTranslation": "링크 장치 「ITCC-5(통합 전술 통신 관제 시스템)」에 ㊥부터, 전장의 방대한 데이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000011",
+      "sourceBindingSha256": "c648ba1204fb7aa586459bf4d7859faf0f1e0eb58616c4e173f725536122cbdd",
+      "sourceTextSha256": "b7a063c745d48446b06f4b5f4d4334e0aa0cab49307e443548d03f63c78deed2",
+      "freshTranslation": "의 통합, 관리, 분석을 가능하게 한다. ㊥ 주요 무장은 40mm 폭행 소총, 단분자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000012",
+      "sourceBindingSha256": "e6594e0fc6a33f5a8cab5bbe84ff4bb02c8c8fba1c5aa1bb1fe0757f1ac40bf7",
+      "sourceTextSha256": "580e63b2488b2a8287dcdccd6a5790f430aa1167ff2386479c94433e9707542d",
+      "freshTranslation": "- 등.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000013",
+      "sourceBindingSha256": "f8f95dd4d160b8f1bf7517971ef2a5b340de9d623ee5518c077b13ee66a14bae",
+      "sourceTextSha256": "de32f8a7c2c07d8294506cd2bc6a59b8d7297e02ee336d22867cb9445517faf3",
+      "freshTranslation": "최신예의 3세대 AS. ㊥ 미스릴에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000014",
+      "sourceBindingSha256": "3171fe3c9a28e6a3fb0851a6b408e0b00a3970e3dfb8d252d1a8c8e7497c1f8e",
+      "sourceTextSha256": "3854b21c54648989123835b328dd08d97c16444e489cdc7d407346b0ff4c95f0",
+      "freshTranslation": "사용되고 있으며 본 기기에는 멜리사 마오 조장이 탑승한다. ㊥ 본 기종은 현재 미군에서 개발 중으로 여겨지고 있으며, 미스릴 이외의 조직, 국가에는 아직 배포 ㊥ 갖추어지지 않았다. 그 미스릴의 주력무기로서 E계열이라고 불리는 기체가 SRT대 ㊥원에 의해",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000015",
+      "sourceBindingSha256": "eae19d838b44d810787610b2c3d2243faea40dcb8ab7034c69865e984ab5bcbc",
+      "sourceTextSha256": "d81dfd7e094b9f5503bc5d370ac5fbd93c9403af83a1200fa59c6f661a29d9bc",
+      "freshTranslation": "사용되었습니다. ㊥ 기존 기체에 비해 매우 고성능이며, 특히 그 고기동성과 스텔스성은 다른 ㊥AS를 압도. ECS에 의해, 모든 센서나 레이더 등의 전자 무기를 무력화 ㊥할 뿐만 아니라, 육안으로의 시인도 불가능하게 하는 기능을 갖는다. ㊥ 마오기의 가장 큰 특징은 센서 기능을 강화한 복합 블레이드 안테나를 헤드 유니㊥ 트에 장비하고 있다는 것이다. 이것에 의해 전선 지휘관기로서 필요한 전자전의 능력㊥을 획득. 고도의 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000016",
+      "sourceBindingSha256": "f117fba79156fe1e71bc87cc28978ec66df429fd2286dec69956d20d28cfba3a",
+      "sourceTextSha256": "5529b046cc92be6aa16c9a0f71501951cee9a6a525637a8ee8baef2ad00d9538",
+      "freshTranslation": "링크 장치 「ITCC-5(통합 전술 통신 관제 시스템)」에 ㊥부터, 전장의 방대한 데이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000017",
+      "sourceBindingSha256": "81053eb1d16bef95deee537456e66dc8823bf023fcbde79bcb7307119c3c40d3",
+      "sourceTextSha256": "b7a063c745d48446b06f4b5f4d4334e0aa0cab49307e443548d03f63c78deed2",
+      "freshTranslation": "의 통합, 관리, 분석을 가능하게 한다. ㊥ 주요 무장은 40mm 폭행 소총, 단분자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00174/Sheet1/000018",
+      "sourceBindingSha256": "7ed23c1a7b7c34505b91baa9de4dca5f2c7a6e3aab2e81b7cfcf017edd4cac8b",
+      "sourceTextSha256": "580e63b2488b2a8287dcdccd6a5790f430aa1167ff2386479c94433e9707542d",
+      "freshTranslation": "- 등.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

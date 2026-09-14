@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00152",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00152/Sheet1/000002",
+      "sourceBindingSha256": "b9acd99c5b6192d88abbfbae2061208913423bc152ea2aada418b37ed1ab2490",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00152/Sheet1/000003",
+      "sourceBindingSha256": "c9f7b9f6930eae8d0352e3781f779726372651c4f74b10faf7c7841dab239177",
+      "sourceTextSha256": "d0c6f402a80dfa4d42b848fed8c759ca4c338ae1c7864fe0390e3d56f3c4b1e9",
+      "freshTranslation": "더블러스 M2",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00152/Sheet1/000004",
+      "sourceBindingSha256": "e4423e7740a64b25df823128782cab0639c98e3d768023c99d7c3314ce2e0ab6",
+      "sourceTextSha256": "d0c6f402a80dfa4d42b848fed8c759ca4c338ae1c7864fe0390e3d56f3c4b1e9",
+      "freshTranslation": "더블러스 M2",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00152/Sheet1/000005",
+      "sourceBindingSha256": "579d0739fda74d50aacc22cc324058fbb9d9c11f296a5c67485446793d382b50",
+      "sourceTextSha256": "45104ba73bc86cb97ea1a7f0f38c997278042fe9fe35acb77708aebc3661ab38",
+      "freshTranslation": "제3화 『출격! 아슈라 군단에 등장한 기계 짐승. ㊥ 아슈라 남작이 조종하는 기계 짐승으로 행동 불능이 되었다고 생각되었다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00152/Sheet1/000006",
+      "sourceBindingSha256": "763ba86ac43ce1449b7a2ddbb933ab6ec08ae694cb799efcdbaa61dfb05866d8",
+      "sourceTextSha256": "d8cb7156d771b7e14941bf36e9d2c25b1afe5f5881baa0b0f49342a205a8b3a4",
+      "freshTranslation": "로스상 속에서 모습을 ㊥ 했다. ㊥ 두 개의 머리는 다테가 아니라 일반 기계 짐승의 두 배의 힘을 가지고 있습니다. ㊥ 마징가 Z의 브레스트 파이어에 의해 쓰러졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00152/Sheet1/000007",
+      "sourceBindingSha256": "273d558ec384c56aa76734b3c8c2698de97c876e0ff33f82057bf779467dd5b0",
+      "sourceTextSha256": "45104ba73bc86cb97ea1a7f0f38c997278042fe9fe35acb77708aebc3661ab38",
+      "freshTranslation": "제3화 『출격! 아슈라 군단에 등장한 기계 짐승. ㊥ 아슈라 남작이 조종하는 기계 짐승으로 행동 불능이 되었다고 생각되었다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00152/Sheet1/000008",
+      "sourceBindingSha256": "97242a7a42b18b12f923b393d4246664fc24bc1026a432ce3c42e299fc486716",
+      "sourceTextSha256": "d8cb7156d771b7e14941bf36e9d2c25b1afe5f5881baa0b0f49342a205a8b3a4",
+      "freshTranslation": "로스상 속에서 모습을 ㊥ 했다. ㊥ 두 개의 머리는 다테가 아니라 일반 기계 짐승의 두 배의 힘을 가지고 있습니다. ㊥ 마징가 Z의 브레스트 파이어에 의해 쓰러졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

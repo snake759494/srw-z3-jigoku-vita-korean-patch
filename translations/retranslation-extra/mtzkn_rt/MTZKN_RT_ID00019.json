@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00019",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00019/Sheet1/000002",
+      "sourceBindingSha256": "241aa434712f6f3b1fc4fbf19777c2a1d6f6872ccc97386edf5d5b787a766abc",
+      "sourceTextSha256": "095aa56eab1e8a38be44b7470675dbd3bb01e8bb6134a3c94d5e531e65a3923a",
+      "freshTranslation": "장갑 기병 하의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00019/Sheet1/000003",
+      "sourceBindingSha256": "732476121dca5ea298047627160183b69e9198a2f34441678bc66441df45f147",
+      "sourceTextSha256": "df1ffa491a212427f7282c2cdea92065eabda1bc5b4308b966bbb6fe78ce577f",
+      "freshTranslation": "스코프 개",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00019/Sheet1/000004",
+      "sourceBindingSha256": "a43a5504a881812b27a904a4bc45dc4ed18db384ef8fbc4f5324d4e57f78e3db",
+      "sourceTextSha256": "df1ffa491a212427f7282c2cdea92065eabda1bc5b4308b966bbb6fe78ce577f",
+      "freshTranslation": "스코프 개",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00019/Sheet1/000005",
+      "sourceBindingSha256": "eb8095f4649207bd034609e690e3d7ecf31a89443a8ce956c848a1b030ef442d",
+      "sourceTextSha256": "e91cce594226ec481b8490c61c70bd8ee036e9274a3cb7cd6db2c573daf2c897",
+      "freshTranslation": "키리코 큐비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00019/Sheet1/000006",
+      "sourceBindingSha256": "edefec02d9462aed88a55adafdc6bd2e7fd9c8a9a8d2ab6499f32ab1adc4b4b8",
+      "sourceTextSha256": "7313b37924a9d67797e43b68e65de724e7312cec70f55de478e17a9e3c51e212",
+      "freshTranslation": "길가메스군이 개발한 AT. ㊥AT의 대명사적인 존재이며, 범용성이 높고, 개조용 파트나 사용 가능 화기가 다수㊥ 존재한다. 생산성에 있어서도 우수하고, 총 생산 대수도 매우 많다. ㊥팔부의 고정 무장인 암 펀치, 다리부의 글라이딩 휠 등, 후의 A㊥T의 기본이 되는 기능의 모두가 장비되고 있다. ㊥ 가장 큰 특징인 머리의 삼중",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00019/Sheet1/000007",
+      "sourceBindingSha256": "a9e4b6a9a3469f1300b317d611c2a185568f94498206a794d1bf00931e71c714",
+      "sourceTextSha256": "007e22200334d42eb5a61f8e8aff017c3d7cb0284f613f1c8722bb2b72b4072c",
+      "freshTranslation": "룰렛 렌즈는 표준 줌·광각·정밀 조준의 조 ㊥ 맞추어 장면에 따라 회전시켜 구분하여 사용한다. ㊥ 덧붙여 이 버전은 우주 전함 X에 탑재되고 있었던 것으로, 일반 기체와 비교해 ㊥에 비해 약간의 성능 향상을 볼 수 있다. ㊥AT(에이티)란 'Armored Trooper(장갑 기병)'의 머리글 ㊥자를 취한 것으로, 이 파일럿은 'AT타기'라고 불리는 경우가 많다. ㊥ 또한, AT 승차는 「바텀즈 승차」라고 불리는 경우도 있다. 보텀스란 '최저야㊥로들'이라는 뜻으로 생산성을 높이는 대신 생존성이 잘린 무기에 태워 ㊥되는 파일럿들을 야한 속칭이다. 이 외에도 하의를 \"V㊥erticalOne-manTankforOffencendM㊥aneuver (공격 및 기동용 직립 단좌)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00019/Sheet1/000008",
+      "sourceBindingSha256": "673cde594253f09a6c842df5a3ff6c98cfa0a1ce1bfa59f8b6f8279ac56e25f1",
+      "sourceTextSha256": "4773cf0bba0ddf6601f7c66647ef2e6d7ce8c1f6a7abd202207eb1c04561643b",
+      "freshTranslation": "전차)」의 머리글자를 취한 것이다 ㊥로 하는 설도 있다. ㊥ 키리코가 많이 사용한 기체이지만, 애착이나 특별한 추억이 아니라 단순히 타고 있는 ㊥ 되어 있었던데 입수가 용이했다는 이유에 지나지 않은 것 같다. ㊥ 또한,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00019/Sheet1/000009",
+      "sourceBindingSha256": "8056531dbb6aa3caeede2b109307d63c55f19085b7158807c876bfe6b12953ac",
+      "sourceTextSha256": "e92d54b0bcab6f04f4253596075abbd422cb162f27e074f60063f4dc9d5ebf79",
+      "freshTranslation": "식 번호 「ATM-09-ST」로부터, 스코프 독 직계의 AT를 「09㊥계」라고 부르기도 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00019/Sheet1/000010",
+      "sourceBindingSha256": "505b8e5888942182414d4cb0ef48db1558b215cf9c7c8e3cf7382eaeb864462d",
+      "sourceTextSha256": "7313b37924a9d67797e43b68e65de724e7312cec70f55de478e17a9e3c51e212",
+      "freshTranslation": "길가메스군이 개발한 AT. ㊥AT의 대명사적인 존재이며, 범용성이 높고, 개조용 파트나 사용 가능 화기가 다수㊥ 존재한다. 생산성에 있어서도 우수하고, 총 생산 대수도 매우 많다. ㊥팔부의 고정 무장인 암 펀치, 다리부의 글라이딩 휠 등, 후의 A㊥T의 기본이 되는 기능의 모두가 장비되고 있다. ㊥ 가장 큰 특징인 머리의 삼중",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00019/Sheet1/000011",
+      "sourceBindingSha256": "3c589dab373021c2372ec585f787448801fdac6d4c5e8faa664b16ff642031aa",
+      "sourceTextSha256": "007e22200334d42eb5a61f8e8aff017c3d7cb0284f613f1c8722bb2b72b4072c",
+      "freshTranslation": "룰렛 렌즈는 표준 줌·광각·정밀 조준의 조 ㊥ 맞추어 장면에 따라 회전시켜 구분하여 사용한다. ㊥ 덧붙여 이 버전은 우주 전함 X에 탑재되고 있었던 것으로, 일반 기체와 비교해 ㊥에 비해 약간의 성능 향상을 볼 수 있다. ㊥AT(에이티)란 'Armored Trooper(장갑 기병)'의 머리글 ㊥자를 취한 것으로, 이 파일럿은 'AT타기'라고 불리는 경우가 많다. ㊥ 또한, AT 승차는 「바텀즈 승차」라고 불리는 경우도 있다. 보텀스란 '최저야㊥로들'이라는 뜻으로 생산성을 높이는 대신 생존성이 잘린 무기에 태워 ㊥되는 파일럿들을 야한 속칭이다. 이 외에도 하의를 \"V㊥erticalOne-manTankforOffencendM㊥aneuver (공격 및 기동용 직립 단좌)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00019/Sheet1/000012",
+      "sourceBindingSha256": "79838a560b7c5a221da63fea7fb6881a9651cced81cf67e11eeb1498694a3abe",
+      "sourceTextSha256": "4773cf0bba0ddf6601f7c66647ef2e6d7ce8c1f6a7abd202207eb1c04561643b",
+      "freshTranslation": "전차)」의 머리글자를 취한 것이다 ㊥로 하는 설도 있다. ㊥ 키리코가 많이 사용한 기체이지만, 애착이나 특별한 추억이 아니라 단순히 타고 있는 ㊥ 되어 있었던데 입수가 용이했다는 이유에 지나지 않은 것 같다. ㊥ 또한,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00019/Sheet1/000013",
+      "sourceBindingSha256": "164d69d725b6568f6454f1e8f068aff6be56f612594311f39648acc75f154446",
+      "sourceTextSha256": "e92d54b0bcab6f04f4253596075abbd422cb162f27e074f60063f4dc9d5ebf79",
+      "freshTranslation": "식 번호 「ATM-09-ST」로부터, 스코프 독 직계의 AT를 「09㊥계」라고 부르기도 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

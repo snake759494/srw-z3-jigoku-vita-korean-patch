@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00208",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00208/Sheet1/000002",
+      "sourceBindingSha256": "c9da80afc574c0b63fd93f9dc3b535c83aef91507aa720a11a12107582d5e140",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00208/Sheet1/000003",
+      "sourceBindingSha256": "458cd42a480003f6d1e8a76e39d784799c05f21e2645d15b9f78134a09322ace",
+      "sourceTextSha256": "951ebf9682c26851c1d047b0d5c8f114a5d1f3ca5235699281cd9ed3d3d61d40",
+      "freshTranslation": "파다급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00208/Sheet1/000004",
+      "sourceBindingSha256": "bde62efed5687eeb2c22b1d25ac2e9b40a4889b7bc6351b359b05e8991af27e8",
+      "sourceTextSha256": "951ebf9682c26851c1d047b0d5c8f114a5d1f3ca5235699281cd9ed3d3d61d40",
+      "freshTranslation": "파다급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00208/Sheet1/000005",
+      "sourceBindingSha256": "f0d0915d7c4ff2c9567a25b64561e45963199ad02dc2d584667acf6429c83584",
+      "sourceTextSha256": "179bbe194e28f2a780792b440c13b26e29b51b6f064b12f5a4a160e64e9f6e86",
+      "freshTranslation": "안티 스파이럴 함대의 초배급 우주 전함. 통칭 「불상 풋」. ㊥ 다리 뒷면에 여러 발사구에서 광선을 발한다. ㊥ 덧붙여 「파다」란 산스크리트어로 「길」 「발」이라고 하는 의미이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00208/Sheet1/000006",
+      "sourceBindingSha256": "7c9a4288c1855b039d2134d0c7cb7fe5674a4c66cb293c47847e2eae3765d8d7",
+      "sourceTextSha256": "179bbe194e28f2a780792b440c13b26e29b51b6f064b12f5a4a160e64e9f6e86",
+      "freshTranslation": "안티 스파이럴 함대의 초배급 우주 전함. 통칭 「불상 풋」. ㊥ 다리 뒷면에 여러 발사구에서 광선을 발한다. ㊥ 덧붙여 「파다」란 산스크리트어로 「길」 「발」이라고 하는 의미이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

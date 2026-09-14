@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00006",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00006/Sheet1/000002",
+      "sourceBindingSha256": "d6711fbae02485394296689647b255a86c651ad022438769ae093a834f2545df",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00006/Sheet1/000003",
+      "sourceBindingSha256": "b03d26fce8cb888b6529ca76d2190967f701216a7824d884e8a1a7776edd3054",
+      "sourceTextSha256": "c351ecd909d072f34d042509680f1cf93fd5a22c054330bb792fc6ce7ff9015e",
+      "freshTranslation": "스페이스 로보 2호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00006/Sheet1/000004",
+      "sourceBindingSha256": "58abbb350c6330728233aa0523e552f437e30d292918b5e2d39c0a799192476d",
+      "sourceTextSha256": "c351ecd909d072f34d042509680f1cf93fd5a22c054330bb792fc6ce7ff9015e",
+      "freshTranslation": "스페이스 로보 2호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00006/Sheet1/000005",
+      "sourceBindingSha256": "ecf993eaac733ea8e432bc809ebf0def576721350a5dee4cf21cae98f8769c34",
+      "sourceTextSha256": "b0b9adae5997a4cc75d143417813022466cb295f9dadc02fa82de5abf3b4d4ec",
+      "freshTranslation": "제26화 브랜치의 최후에 등장한 로봇. ㊥ 우주마왕군이 내놓은 스페이스 로봇의 제2호로, 딱정벌레와 같은 외관을 가진다. ㊥ 마사타로는 첫 우주공간에서의 전투였기 때문에 마음대로 모르고, 고전을 강요당하는 일㊥이 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00006/Sheet1/000006",
+      "sourceBindingSha256": "4be2999a128aca202b7c6bba96a6d859ee67772ba15428732edf38f454d419b4",
+      "sourceTextSha256": "0527da29c7d01e33419a38638885d93c7f636fe3c3a1468bbb3d42afd6a9e66c",
+      "freshTranslation": "제26화 브랜치의 최후에 등장한 로봇. ㊥ 우주마왕군이 내놓은 스페이스 로봇의 제2호로, 딱정벌레와 같은 외관을 가진다. ㊥ 마사타로는 첫 우주공간에서의 전투였기 때문에 마음대로 모르고, 고전을 강요당하는 일㊥이 되었다. 그러나 우주마왕에게 이용된 것을 알게 된 브랜치가 최후에 남긴 조언㊥에 의해 활로를 발견한 마사타로와 철인의 맹공 앞에 패했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00195",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00195/Sheet1/000002",
+      "sourceBindingSha256": "78d74e07f9ec133f6a5fd866143546791e0b978ed62be39f0216627d778ab69c",
+      "sourceTextSha256": "7d335dcac716bdda451600c0e7e303557797ddf603cad643bff0bb2ecdef111a",
+      "freshTranslation": "천원돌파 글렌 라간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00195/Sheet1/000003",
+      "sourceBindingSha256": "be083ce4f6dd6c3472f4f27e7a084041d9331bb621dfb6bf9e8bef05d7a3d069",
+      "sourceTextSha256": "3d4c273e63030a4bc554ff6257677db11d89c24008ca3d48d3daaee3764e45dd",
+      "freshTranslation": "글렌 라간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00195/Sheet1/000004",
+      "sourceBindingSha256": "11721dddac0d3df608241e13066bc96da89d8c12f91c1cfd5ca24104c6d60953",
+      "sourceTextSha256": "3d4c273e63030a4bc554ff6257677db11d89c24008ca3d48d3daaee3764e45dd",
+      "freshTranslation": "글렌 라간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00195/Sheet1/000005",
+      "sourceBindingSha256": "9ba1b78c09b2432b66f38f85fdb00e0978917fbdcccc94c932329918d0228c95",
+      "sourceTextSha256": "6d13935fae69e32c736ac42982c1026a87538a9f866f4a13b9321fd0af88842d",
+      "freshTranslation": "시몬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00195/Sheet1/000006",
+      "sourceBindingSha256": "1dfb3e4f5fb43d15fe3104f1ed3d9915fdffde8df90cb4c9f609fc9f29b0d790",
+      "sourceTextSha256": "b7a45fb76e4d58215f84b0d3c8f4ac0a7c01f38c3e37b0140a0f89d79c5d3efe",
+      "freshTranslation": "나선왕을 쓰러뜨리고 인류를 구한 대그렌단의 상징적 감정. ㊥ 글렌과 라간이 합체하는 것으로 완성되어 1과 1을 더하여 2 이상의 파워를 발휘. 그 외 ㊥에도 글렌과 라간이 아무리 파손되어도 순간에 기체가 재생해 버리는 재생 기능㊥이나 표면을 덮는 특수한 에너지 필드 등에 의해 경이적인 방어 성능을 자랑한다. ㊥ 모든 공격은 드릴에 의해 수행됩니다. 신축 자재의 드릴은 직접 찌르는 것만으로 ㊥ 없고, 회전력을 이용하여 토네이도를 발생시키거나, 지면에 박아 땅 균열을 일으키거나 ㊥라고 하는 사용법도 할 수 있다. ㊥신정부 발족 이후는 시몬이 단독으로 탑승하고 있었지만, 이윽고 글렌의 조종석에 ㊥는 한때의 숙적 빌랄이 탑승. 사람과 짐승의 두 가지 길을 섞은 '숙명 합체'를 하고 ㊥ 죽였다. ㊥ 또한 카미나 시티의 지하에 숨겨져 있던 아크 글렌과 합체하여 아크 글렌라 ㊥ 총을 낳았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00195/Sheet1/000007",
+      "sourceBindingSha256": "c22ed361f07dd063fff05ae04b259bf6fa1339a1a570e20019388235885e1353",
+      "sourceTextSha256": "2903c47ed57e2dcc35b3b435e71d89f74d486c5f443b5d08c2944d5a7e714f9b",
+      "freshTranslation": "나선왕을 쓰러뜨리고 인류를 구한 대그렌단의 상징적 감정.㊥글렌과 라간이 합체하는 것으로 완성되어 1과 1을 더하여 2 이상의 파워를 발휘. 기타㊥에도 글렌과 라간이 얼마나 파손되어도 순간에 기체가 재생해 버리는 재생 기능㊥그리고 표면을 덮는 특수한 에너지 필드 등에 의해 경이적인 방어 성능을 자랑한다.㊥모든 공격은 드릴에 의해 이루어진다. 신축 가능 드릴은 직접 찌르는 것만으로㊥아니고, 회전력을 이용하여 토네이도를 발생시키거나, 지면에 박아 땅 균열을 일으키거나㊥라고 하는 사용법도 할 수 있다.㊥신정부 출범 이후 시몬이 단독으로 탑승했지만 결국 글렌의 조종석에㊥한때 숙적 빌랄이 탑승. 사람과 짐승의 두 가지 길을 맺은 \"숙명 합체\"㊥죽었다.㊥또한 카미나 시티의 지하에 숨겨져 있던 아크 글렌과 합체하여 아크 글렌라㊥암을 낳고, 또한 그 아크 글렌 라간은 초은하 다이글렌의 코어가 되어,㊥초 은하 글렌 라간을 탄생시키고,㊥돌파 글렌 라간이 되고, 또한 천원 돌파 글렌 라간은 초천원 돌파 글렌 라간과㊥되었다.㊥이와 같이 시몬이 가진 코어 드릴과 라간을 핵으로, 글렌 라간은 무한하다고도 할 수 있다㊥성장과 진화를 이루었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

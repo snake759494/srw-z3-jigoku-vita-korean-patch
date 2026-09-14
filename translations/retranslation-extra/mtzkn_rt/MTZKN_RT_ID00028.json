@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00028",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00028/Sheet1/000002",
+      "sourceBindingSha256": "4f92a45f7d71909b5ed632d4c386483e5a0b1fe4a13cfd694ff394f1f1bdce71",
+      "sourceTextSha256": "d6da0d732e53cf9ec71ba1b1163d4c980ff617b1f4caa65741721bae9928ed9a",
+      "freshTranslation": "장갑 기병 보텀스 빅 배틀",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00028/Sheet1/000003",
+      "sourceBindingSha256": "7d809b0ceb8c600289bcef016031d6760a12ae47e100827b927578844f3234e1",
+      "sourceTextSha256": "e6e9a05ea099b123ff4cfaf378b2a8e67e689b911c3954dc65430b80264027bf",
+      "freshTranslation": "지상 전함",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00028/Sheet1/000004",
+      "sourceBindingSha256": "ab2618a2efeea623dcbbb97724ad97c2de123a895f6ce384902cc7a612078016",
+      "sourceTextSha256": "e6e9a05ea099b123ff4cfaf378b2a8e67e689b911c3954dc65430b80264027bf",
+      "freshTranslation": "지상 전함",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00028/Sheet1/000005",
+      "sourceBindingSha256": "22d6d382c5e7a1464106a34907b77c649a888880ddf23bc4301b38c6dcd90cf6",
+      "sourceTextSha256": "0f464a459a330cf5cca2d32d57bbd12350209672e26f2a3fb180bebbb83335eb",
+      "freshTranslation": "발라란트군이 개발한 지상 전함. ㊥포화력보다 모함으로서의 기능을 중시했다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00028/Sheet1/000006",
+      "sourceBindingSha256": "b65974c4bb8562b94c40ecd52a40d76118df06905f4b62ffd7661e655dc186a4",
+      "sourceTextSha256": "f6f7bcf6539deebfc43904c4670f5c291ef6b3d143cad8aec7e46f80280c0861",
+      "freshTranslation": "입으로 이동 기지의 측면이 강하다. ㊥백년 전쟁 초기에는 지상전에서 무적이라고도 부를 수 있는 전과를 꼽았지만, 고액의 건조 비용이나 ㊥AT의 대두에 의한 전술의 변화 등의 이유로, 곧 사라져 갔다. ㊥ 키리코 타도에 집념을 태우는 니바는, 에크루비스와 마찬가지로 제어 계통을 스스로의 뇌에 직접㊥결합시켜, 거대한 함을 자신의 육체의 연장으로서 조종했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00028/Sheet1/000007",
+      "sourceBindingSha256": "2469654c0a5ea4f04373915a7ce5cde832f729adc285b8b2dab9f43d9e85c2d4",
+      "sourceTextSha256": "0f464a459a330cf5cca2d32d57bbd12350209672e26f2a3fb180bebbb83335eb",
+      "freshTranslation": "발라란트군이 개발한 지상 전함. ㊥포화력보다 모함으로서의 기능을 중시했다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00028/Sheet1/000008",
+      "sourceBindingSha256": "bc2943df4f246233f16b90b11c197d2b065f1f3b2583aa79e0a96a879150603b",
+      "sourceTextSha256": "f6f7bcf6539deebfc43904c4670f5c291ef6b3d143cad8aec7e46f80280c0861",
+      "freshTranslation": "입으로 이동 기지의 측면이 강하다. ㊥백년 전쟁 초기에는 지상전에서 무적이라고도 부를 수 있는 전과를 꼽았지만, 고액의 건조 비용이나 ㊥AT의 대두에 의한 전술의 변화 등의 이유로, 곧 사라져 갔다. ㊥ 키리코 타도에 집념을 태우는 니바는, 에크루비스와 마찬가지로 제어 계통을 스스로의 뇌에 직접㊥결합시켜, 거대한 함을 자신의 육체의 연장으로서 조종했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

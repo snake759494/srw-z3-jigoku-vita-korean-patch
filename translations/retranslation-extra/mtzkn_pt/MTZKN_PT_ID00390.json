@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00390",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00390/Sheet1/000002",
+      "sourceBindingSha256": "db55da7b11b7d8664ccb2d4fc835fcf316bd741d18825028f2f4b7841021a3c2",
+      "sourceTextSha256": "7ffa13c76d9c16b278b3bf50c6bd9e40aadb2f14dd573bbd67d8fcb5c6ce6c15",
+      "freshTranslation": "실피",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00390/Sheet1/000003",
+      "sourceBindingSha256": "c8e362d7138e2f900df45c011f3847a962023ce688a9b3f474c9974abeef1c5a",
+      "sourceTextSha256": "7ffa13c76d9c16b278b3bf50c6bd9e40aadb2f14dd573bbd67d8fcb5c6ce6c15",
+      "freshTranslation": "실피",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00390/Sheet1/000004",
+      "sourceBindingSha256": "6f615f7f277e607297d20fabd0f7598c2b5c220ce1cab31a6f16fdae02857d90",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00390/Sheet1/000005",
+      "sourceBindingSha256": "fe4616eba9771b127f8adba7eec9a2f336c2bafbc64feeca40a4d294910e0225",
+      "sourceTextSha256": "2519b68f8ea316c3fc9aeb580b4d3229c5c5ccb64d4c46e162fb794732505e6d",
+      "freshTranslation": "1만 2000년 전 타천과 인류의 싸움을 그린 영화 '수족관이 춤추는 하늘'의 히㊥로인. ㊥ 그 역을 연기한 알리시아의 가성에 감동한 미코노는 눈물을 흘리고 있었다. ㊥ 이건 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00390/Sheet1/000006",
+      "sourceBindingSha256": "114773c509d0f78fd84d0b7315967f775ea77d293fbf35a3cb4b9131800cf4a2",
+      "sourceTextSha256": "3fddd4277f3b1ab39cb360ae1363af646d53450fd491c19c368f3c3bb058bef2",
+      "freshTranslation": "와 미코노를 연결하는 최초의 접점이 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00390/Sheet1/000007",
+      "sourceBindingSha256": "55bd80dcc40daa213e8c6fb30f60382f202e85e73675e3451424c8978dafd592",
+      "sourceTextSha256": "7239ee0afa1edfe1cf3abc0bb910d7c7703f682d9cd21087c3eb40fcc672648b",
+      "freshTranslation": "1만 2000년 전 타천과 인류의 싸움을 그린 영화 '수족관이 춤추는 하늘'의 히㊥로인. ㊥ 실비아를 모델로 하고 있으며, 그 역을 연기한 알리시아의 가성에 감동한 미코노㊥는 눈물을 흘리고 있었다. ㊥ 이건 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00390/Sheet1/000008",
+      "sourceBindingSha256": "16658077b9e5d85558ed847d3edeff10f24dc8b8bd98abfd4032376c86732308",
+      "sourceTextSha256": "3fddd4277f3b1ab39cb360ae1363af646d53450fd491c19c368f3c3bb058bef2",
+      "freshTranslation": "와 미코노를 연결하는 최초의 접점이 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

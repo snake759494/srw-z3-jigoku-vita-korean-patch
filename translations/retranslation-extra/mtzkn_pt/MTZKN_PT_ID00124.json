@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00124",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00124/Sheet1/000002",
+      "sourceBindingSha256": "5b52def2fd477f1a803ac0047e32e7b5aee4ba9a77b9ca5886b17a31f18831f4",
+      "sourceTextSha256": "e691967c5b60d5ba4a1c7f49bf2240dd354f2bcfeaf5d3da6e6f7aa0d930bc12",
+      "freshTranslation": "실린 버프티얄",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00124/Sheet1/000003",
+      "sourceBindingSha256": "ccc49ec24a670215c33f91198703ff76ad4b9334fa9f5298f772337ebc98e64f",
+      "sourceTextSha256": "623b11bc121b41949a0520afa39f4a37e22acfce10708628f5e51621134fa8b3",
+      "freshTranslation": "실린",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00124/Sheet1/000004",
+      "sourceBindingSha256": "d2d5775daa818764114c382c5b52fca358263a18fd0aa20e68bcb2fb0901c3be",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00124/Sheet1/000005",
+      "sourceBindingSha256": "bf3a07353f3db1585f2f2df449d5a85a95713898435c8c767582e0a8e4b9322b",
+      "sourceTextSha256": "2fe7fd20d7678c653652978b76794ddf2b4ddf9b0d1808b4c2c143ec6f3b9ca2",
+      "freshTranslation": "한때 마리나의 측근이었던 인물. 34세. ㊥ 괜찮아 사토메, 아자디스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00124/Sheet1/000006",
+      "sourceBindingSha256": "1d26a769a827861b686da29e4dcc68a6d2940b0c1f464d7771a12b26d22f7733",
+      "sourceTextSha256": "cfafc904ce114dde9a943f483dc791f3f5426bde3f9e5930d8effef48dd0dd72",
+      "freshTranslation": "의 톱이었던 마리나를 지지하는 통찰력을 가지고, 세계㊥정세에 대한 견식과 각 세력의 지식도 비정에 풍부했다. ㊥ 연방 정부 수립 후 비전주의 마리나와 헤어지고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00124/Sheet1/000007",
+      "sourceBindingSha256": "ac9eee91e4997485fd581853688a2280dd4b07b36b4d57b5a877477c9ad8bfc4",
+      "sourceTextSha256": "a3343bae9be621ab652eb152d60fcf32dda6367ddc6029da2a8bf1829b1e23ce",
+      "freshTranslation": "론 중동 지부에 소속. 쿠라 ㊥ 우스의 파트너로서 조국 아자 디스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00124/Sheet1/000008",
+      "sourceBindingSha256": "36f8deac88d1567500220ebbd56b1a1d7e91a0565721b5f9ee9f27fd0c132c4c",
+      "sourceTextSha256": "dc47eea7660be48d5a1c38d0f873c608981efa511d4ccf88050ed52ff8d18780",
+      "freshTranslation": "을 위해서 뿐만 아니라 세계 전체를 위해 분 ㊥ 달리게 된다. ㊥ 이노베이드와의 싸움 이후, 클라우스와 함께 다시 태어난 지구 연방 의원으로 ㊥ 활동하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00124/Sheet1/000009",
+      "sourceBindingSha256": "ef189647680789a10300ea4001447d0d4d7a18e66676c81a4b5387a2915326f0",
+      "sourceTextSha256": "2fe7fd20d7678c653652978b76794ddf2b4ddf9b0d1808b4c2c143ec6f3b9ca2",
+      "freshTranslation": "한때 마리나의 측근이었던 인물. 34세. ㊥ 괜찮아 사토메, 아자디스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00124/Sheet1/000010",
+      "sourceBindingSha256": "51238a58f94b1a6ebe3bfa08de239e7949d0aba52e0dee8c46925e7451679bae",
+      "sourceTextSha256": "cfafc904ce114dde9a943f483dc791f3f5426bde3f9e5930d8effef48dd0dd72",
+      "freshTranslation": "의 톱이었던 마리나를 지지하는 통찰력을 가지고, 세계㊥정세에 대한 견식과 각 세력의 지식도 비정에 풍부했다. ㊥ 연방 정부 수립 후 비전주의 마리나와 헤어지고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00124/Sheet1/000011",
+      "sourceBindingSha256": "7e829e92d058e38509320344dacbbd6fbaea122acb07064301c02cab9a2bd42d",
+      "sourceTextSha256": "a3343bae9be621ab652eb152d60fcf32dda6367ddc6029da2a8bf1829b1e23ce",
+      "freshTranslation": "론 중동 지부에 소속. 쿠라 ㊥ 우스의 파트너로서 조국 아자 디스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00124/Sheet1/000012",
+      "sourceBindingSha256": "ae0ea4f01697c7b4f36316b48a8e13d57963fa701044184a337be8a90b107ba5",
+      "sourceTextSha256": "dc47eea7660be48d5a1c38d0f873c608981efa511d4ccf88050ed52ff8d18780",
+      "freshTranslation": "을 위해서 뿐만 아니라 세계 전체를 위해 분 ㊥ 달리게 된다. ㊥ 이노베이드와의 싸움 이후, 클라우스와 함께 다시 태어난 지구 연방 의원으로 ㊥ 활동하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

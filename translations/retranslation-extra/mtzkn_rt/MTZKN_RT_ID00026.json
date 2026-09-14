@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00026",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00026/Sheet1/000002",
+      "sourceBindingSha256": "a9fa75c6b35d72c0407d4514547aad13ff8042cc2730b02a9ffefdf19c3c1b73",
+      "sourceTextSha256": "d6da0d732e53cf9ec71ba1b1163d4c980ff617b1f4caa65741721bae9928ed9a",
+      "freshTranslation": "장갑 기병 보텀스 빅 배틀",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00026/Sheet1/000003",
+      "sourceBindingSha256": "f3cac33c7ca9a8da9a2c5e80c81e6a6caea80c0f8e9ac824db15cfd2be425db0",
+      "sourceTextSha256": "f6aa8ec681632f74c064581ebcbe9da40ef41deb209738910991c93a5fb1fd80",
+      "freshTranslation": "라이트 스코프 개",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00026/Sheet1/000004",
+      "sourceBindingSha256": "1d8f7b35a45844790120c30179ec4bf3f2f14abc01d1d60a9b91cb59a86e065c",
+      "sourceTextSha256": "f6aa8ec681632f74c064581ebcbe9da40ef41deb209738910991c93a5fb1fd80",
+      "freshTranslation": "라이트 스코프 개",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00026/Sheet1/000005",
+      "sourceBindingSha256": "e190c57f0120bdc4b094be8a93b4bfe704aaf48f1402085d2ebbd33e47885be3",
+      "sourceTextSha256": "e91cce594226ec481b8490c61c70bd8ee036e9274a3cb7cd6db2c573daf2c897",
+      "freshTranslation": "키리코 큐비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00026/Sheet1/000006",
+      "sourceBindingSha256": "a63d6e56444b5139304aac3b8a2189d37ec4c2ab391202f333070d4b582f1780",
+      "sourceTextSha256": "72eaabafa63c1e28fa0777c10d276dd25c90a8b6682df6804046c41140a8f478",
+      "freshTranslation": "키리코가 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00026/Sheet1/000007",
+      "sourceBindingSha256": "fcce9ea2228452964f45f87a8467426a906c3800447a4716e6a8b6d86fde834f",
+      "sourceTextSha256": "ac096190f7abb750b15e772793820c5f0c2a2f5c6983df17036403322f1f326f",
+      "freshTranslation": "마이즈 한 스코프 개. ㊥니바의 에크루비스에 대항하기 위해 철저히 장갑을 쏟아내어 경량화를 도모해 ㊥ 있다. 내탄성은 현저하게 저하되었지만, 기체 중량의 대폭적인 경감과 증설한 글라이딩㊥휠의 효과도 있어, 고기동성과 고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00026/Sheet1/000008",
+      "sourceBindingSha256": "f0e8cffb12b5df06b693c388886ddc866cb7928fed5749ebd2ca3f13a27d9c99",
+      "sourceTextSha256": "bcb7fb7637117a6fa973880fdd230e8a5875ba98c5d5cbb3de7969105f14fdae",
+      "freshTranslation": "동성을 실현하고 있다. ㊥ 레드 숄더에 원한을 가진 니바를 도발하기 위해 감히 어깨가 붉게 칠해져 ㊥있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00026/Sheet1/000009",
+      "sourceBindingSha256": "2da664cd65b5e16feabad2f42e86a236b9914c92f85216e00064ff6dc62d93d4",
+      "sourceTextSha256": "72eaabafa63c1e28fa0777c10d276dd25c90a8b6682df6804046c41140a8f478",
+      "freshTranslation": "키리코가 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00026/Sheet1/000010",
+      "sourceBindingSha256": "fef756f39c999383fb8d685e8263868665492b04f1deb486ece2269dc6a9bf8a",
+      "sourceTextSha256": "ac096190f7abb750b15e772793820c5f0c2a2f5c6983df17036403322f1f326f",
+      "freshTranslation": "마이즈 한 스코프 개. ㊥니바의 에크루비스에 대항하기 위해 철저히 장갑을 쏟아내어 경량화를 도모해 ㊥ 있다. 내탄성은 현저하게 저하되었지만, 기체 중량의 대폭적인 경감과 증설한 글라이딩㊥휠의 효과도 있어, 고기동성과 고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00026/Sheet1/000011",
+      "sourceBindingSha256": "8454838a0643f4b3ce700d91c7db985dc73dae6322c64ed232471e116baea0e9",
+      "sourceTextSha256": "bcb7fb7637117a6fa973880fdd230e8a5875ba98c5d5cbb3de7969105f14fdae",
+      "freshTranslation": "동성을 실현하고 있다. ㊥ 레드 숄더에 원한을 가진 니바를 도발하기 위해 감히 어깨가 붉게 칠해져 ㊥있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

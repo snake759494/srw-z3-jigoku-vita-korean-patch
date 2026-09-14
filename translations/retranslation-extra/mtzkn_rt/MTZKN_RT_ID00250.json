@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00250",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00250/Sheet1/000002",
+      "sourceBindingSha256": "348587b50d1242c00c4777ae94b3805638ed35c4594e42039277c18fbb6d8a1d",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00250/Sheet1/000003",
+      "sourceBindingSha256": "e0fb7bf5d38388c74d37ff9f1c032162082612fd540ee1d03f5fc58992fd59d4",
+      "sourceTextSha256": "2a75e41521776539fbb68e83510e1e99a4b3c0c26d7b71659aab1eb0b57d7648",
+      "freshTranslation": "尸逝天",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00250/Sheet1/000004",
+      "sourceBindingSha256": "4e9243677e643583c3f489e67c61f4c30c0ba271bd8b6cc73a3f2ef1bebdc2bd",
+      "sourceTextSha256": "2a75e41521776539fbb68e83510e1e99a4b3c0c26d7b71659aab1eb0b57d7648",
+      "freshTranslation": "尸逝天",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00250/Sheet1/000005",
+      "sourceBindingSha256": "e80bafa68cddf29bcd6eca666a701b96359babc1bf1a7714cd04605791dc7284",
+      "sourceTextSha256": "4ce32c906190ecf59bcf6d185f77cb3945f9576423e1ac036b65d970eedd01de",
+      "freshTranslation": "범공이 탑승하는 기동병기. 「시세이텐」이라고 읽는다. ㊥ '침묵의 거게'의 스피어가 탑재되어 있어 거대한 생물의 시체를 생각㊥하게 하는 모습을 하고 있다. ㊥ 높은 화력을 가지며 여러 목표에 대해 동시 공격을 가능하게 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00250/Sheet1/000006",
+      "sourceBindingSha256": "f9caf67226fb8be23769d5632fbd2e962f16130d68c062b60240af039c6a8788",
+      "sourceTextSha256": "ca511c1d8136667a654a2776dac28fd3b1fa2092b9607ed343dae8977c1b0f6a",
+      "freshTranslation": "범공이 탑승하는 기동병기. 「시세이텐」이라고 읽는다. ㊥ '침묵의 거게'의 스피어가 탑재되어 있어 거대한 생물의 시체를 생각㊥하게 하는 모습을 하고 있다. ㊥ 높은 화력을 가지며 여러 목표에 대해 동시 공격을 가능하게 한다. ㊥모두가 수수께끼에 싸여 있고, 현시점에서는, 그 힘의 전부를 꺼내고 있지 않은 것 같아㊥있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

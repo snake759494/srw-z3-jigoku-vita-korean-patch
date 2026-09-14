@@ -1,0 +1,181 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00095",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00095/Sheet1/000002",
+      "sourceBindingSha256": "7349ccac0e48b3bd8ef8bc6cd33ba6e55e7c3c572889a820e050d7bf51ea4311",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00095/Sheet1/000003",
+      "sourceBindingSha256": "2f205328dd7a05ffc7284869e63735326cf5013d5df69de5564ea1df73481d43",
+      "sourceTextSha256": "a8669df0d7d7237e95085146b9a8cb3003c3c20a5c7d2094a67caadbbb75d81c",
+      "freshTranslation": "드와지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00095/Sheet1/000004",
+      "sourceBindingSha256": "ca7387c81865d1ed65716643e171566c8f4ea5fad5dd3bfc44e0c8ca531cb7bf",
+      "sourceTextSha256": "a8669df0d7d7237e95085146b9a8cb3003c3c20a5c7d2094a67caadbbb75d81c",
+      "freshTranslation": "드와지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00095/Sheet1/000005",
+      "sourceBindingSha256": "385e39979fa557e00e8bf0d0ec2036403c8be689abd8834218fe95c902e4563d",
+      "sourceTextSha256": "36a84500128fae5ecd38f88ad93d69f3d8649c26d7004373f679f774c21d0137",
+      "freshTranslation": "지온 공국군이 일년 전쟁 말기에 개발한 돔의 최종 생산 사양기. ㊥ 뒤쪽의 잔뜩",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00095/Sheet1/000006",
+      "sourceBindingSha256": "170d359ea4de0f02af24b1a3a2128e03b8bd22bf118bbd4e5983bd505572b554",
+      "sourceTextSha256": "1178c363cb56edfa75078fb73a51c282fe8d3e9fdbde31927de4b2ad02a8f254",
+      "freshTranslation": "- 큰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00095/Sheet1/000007",
+      "sourceBindingSha256": "1c0f19e6d7589783c86aaa538a544c177749f613831b020b3e8e80805459ddac",
+      "sourceTextSha256": "dbff4d0d30ee3ea36e5d6c4f417a416ec4697a030927bdf3f7f2ceac6a997bf3",
+      "freshTranslation": "화되고 스커트 내부에 잔뜩",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00095/Sheet1/000008",
+      "sourceBindingSha256": "f1054fec54c34712ccec9b109e92e16dc3214c6e3e1fab310d69dd1250ad0a74",
+      "sourceTextSha256": "33044c7ec489fbe184a724860c626ea0a861a09f78d3af0057f3aabd44569ea0",
+      "freshTranslation": "를 설치한 것에 의해,㊥돔의 2배 가까운 추력을 가진다. ㊥ 아프리카, 서아시아를 중심으로 배치되어 살아남은 기체는 지온잔당군에 의해 ㊥ 개수를 받으면서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00095/Sheet1/000009",
+      "sourceBindingSha256": "590e1665dd73518a50af1570ab4a21d9a63157a91cc413692eca9cd635cbc8c3",
+      "sourceTextSha256": "75c1bb64013cd7e166538f39b2dda4b9cfd25dad495987d520310fcda7b71249",
+      "freshTranslation": "사용되고 있으며, 제 1 차 네오 지온 항쟁시에도 파란 부대와 ㊥ 프리카 해방 전선",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00095/Sheet1/000010",
+      "sourceBindingSha256": "2abe5401ceaad5b8e02538d09adf6e4ce8b20bca90e094e5d63cfeaa0cea0183",
+      "sourceTextSha256": "2b6c93b1e448756610c747fee5abccec0bd1cf1abb60c352ba0f399752a2972c",
+      "freshTranslation": "남아있다. ㊥ 트링턴 기지 습격시에도 서아시아 방면에서의 참가가 확인되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00095/Sheet1/000011",
+      "sourceBindingSha256": "7b9abc5b5cc5e340047561d15e37ba7b813c6204ab5e2d84ddfeefc3eca64372",
+      "sourceTextSha256": "36a84500128fae5ecd38f88ad93d69f3d8649c26d7004373f679f774c21d0137",
+      "freshTranslation": "지온 공국군이 일년 전쟁 말기에 개발한 돔의 최종 생산 사양기. ㊥ 뒤쪽의 잔뜩",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00095/Sheet1/000012",
+      "sourceBindingSha256": "5bc76134a960263841280fa4be5f453ccff1337b6dbb60d34627a66194322b0a",
+      "sourceTextSha256": "1178c363cb56edfa75078fb73a51c282fe8d3e9fdbde31927de4b2ad02a8f254",
+      "freshTranslation": "- 큰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00095/Sheet1/000013",
+      "sourceBindingSha256": "6dac592b036ccf382cf554329a3e5d088ecf23cae66dd0a67a9ea0e4ef2ad015",
+      "sourceTextSha256": "dbff4d0d30ee3ea36e5d6c4f417a416ec4697a030927bdf3f7f2ceac6a997bf3",
+      "freshTranslation": "화되고 스커트 내부에 잔뜩",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00095/Sheet1/000014",
+      "sourceBindingSha256": "455123a4146cbc5ed7e7314b4f4cfabe3ab1136a8bf162776783a8fb48991f6a",
+      "sourceTextSha256": "33044c7ec489fbe184a724860c626ea0a861a09f78d3af0057f3aabd44569ea0",
+      "freshTranslation": "를 설치한 것에 의해,㊥돔의 2배 가까운 추력을 가진다. ㊥ 아프리카, 서아시아를 중심으로 배치되어 살아남은 기체는 지온잔당군에 의해 ㊥ 개수를 받으면서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00095/Sheet1/000015",
+      "sourceBindingSha256": "24c7f2464f775178419e215cb22c3ae9f9f7674a131c15b1d381a785caf779b6",
+      "sourceTextSha256": "75c1bb64013cd7e166538f39b2dda4b9cfd25dad495987d520310fcda7b71249",
+      "freshTranslation": "사용되고 있으며, 제 1 차 네오 지온 항쟁시에도 파란 부대와 ㊥ 프리카 해방 전선",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00095/Sheet1/000016",
+      "sourceBindingSha256": "5b8bef76ec8f288687d685b3601897272f7842ceecc48c68353646169c893ab1",
+      "sourceTextSha256": "2b6c93b1e448756610c747fee5abccec0bd1cf1abb60c352ba0f399752a2972c",
+      "freshTranslation": "남아있다. ㊥ 트링턴 기지 습격시에도 서아시아 방면에서의 참가가 확인되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

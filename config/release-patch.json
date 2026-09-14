@@ -1,0 +1,5120 @@
+{
+  "$schema": "release-patch.schema.json",
+  "format": "siok-release-patch-plan",
+  "formatVersion": 1,
+  "project": "PCSG00264",
+  "release": "vita3k-2025-01-10-baseline",
+  "policy": {
+    "requiresUserOwnedGame": true,
+    "gameBinaryIncluded": false,
+    "completedGameIncluded": false,
+    "deltaOnly": true,
+    "originalJapaneseTextIncluded": true,
+    "notice": "본인 소유·합법 덤프에만 사용하며 원본/완성 게임 파일을 공유하지 않습니다."
+  },
+  "profiles": {
+    "vita3k": {
+      "enabled": true,
+      "appOutputDirectory": "app",
+      "dlcOutputDirectory": "addcont",
+      "note": "Vita3K app와 addcont를 서로 다른 출력 트리로 만듭니다."
+    },
+    "vita": {
+      "enabled": false,
+      "note": "실기용 eboot·패키지 서명 절차는 별도 검증 전까지 차단합니다."
+    }
+  },
+  "tool": {
+    "name": "xdelta3",
+    "version": "3.2.0",
+    "assetSha256": "af8ef036cb077a48df080c9a8ac1be4a6e7511c32d11f8bec89b6803a9e52576",
+    "executableSha256": "53d90226615f217d3380c39892833311b4e24acd863e1ca01f14b5e772e2e6d0",
+    "downloadUrl": "https://github.com/jmacd/xdelta/releases/download/v3.2.0/xdelta3-3.2.0-windows-x86_64.zip"
+  },
+  "coverage": {
+    "entryCount": 253,
+    "groupCounts": {
+      "menu-unit": 3,
+      "battle-dialogue": 1,
+      "dictionary-dialogue": 1,
+      "scenario-dialogue": 182,
+      "map-data": 64,
+      "eboot-menu": 1,
+      "system": 1
+    },
+    "mainXdeltaCount": 222,
+    "dlcXdeltaCount": 29,
+    "battleJsonCount": 1,
+    "dictionaryJsonCount": 1
+  },
+  "entries": [
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "menu-unit",
+      "target": "CommonData/MtData/rpw_data.cpk",
+      "patch": "patches/release/vita3k/main/rpw_data_cpk.xdelta",
+      "source": {
+        "bytes": 507124,
+        "sha256": "cac8bd72479ce292753f75191f4b97ad296d75bea1a67b4fdf9dab6509482503"
+      },
+      "localized": {
+        "bytes": 507104,
+        "sha256": "3a7f454d87e580d6dc3be85859c2de4a5ab2b8a947b0925e12cf5361833f4d33"
+      },
+      "delta": {
+        "bytes": 30139,
+        "sha256": "b5867ac10d36de599018695e1f30ee5868fc9f6ceef1c6264fbbde14e513e4b7"
+      }
+    },
+    {
+      "kind": "dictionary-json",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "dictionary-dialogue",
+      "target": "CommonData/MtData/MtZkn_KW.cpk",
+      "patch": "translations/dialogue/dictionary_MtZkn_KW.json",
+      "source": {
+        "bytes": 131143,
+        "sha256": "a3d6022f9414810949ba736e5447385d7100695e09ffbc18a2d322bb68a6dd23"
+      },
+      "localized": {
+        "bytes": 157722,
+        "sha256": "6ac9303f966158758a3db32b056e07582e864cfdbdbb911895d4ec22be7bbaa9"
+      },
+      "delta": null,
+      "counts": {
+        "members": 141,
+        "fields": 564,
+        "translatedFields": 564,
+        "uniqueSourceTexts": 324
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "menu-unit",
+      "target": "DATA/AIDDATA/AIDDataPack.cpk",
+      "patch": "patches/release/vita3k/main/AIDDataPack_cpk.xdelta",
+      "source": {
+        "bytes": 3006180,
+        "sha256": "a8379ce089f70960e2222daaaf092ff28d1f59a641a1f30091c465acc33906be"
+      },
+      "localized": {
+        "bytes": 8380408,
+        "sha256": "fa7f56b17d00aa66051d8f1093df3a407ac1d01e45b800395c7628a35d3e03a2"
+      },
+      "delta": {
+        "bytes": 2685146,
+        "sha256": "a46b7f411f0a1ce852c53a0b92221f7fd845a012d29d9628d86f1f560b93c1a1"
+      }
+    },
+    {
+      "kind": "battle-json",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "battle-dialogue",
+      "target": "DATA/BTLC/SRVC.BIN",
+      "patch": "translations/dialogue/battle_SRVC.json",
+      "source": {
+        "bytes": 2193440,
+        "sha256": "47c34677df2d11c152ac4741c9a3b4886215d19b23626057a01f7a16185356bf"
+      },
+      "localized": {
+        "bytes": 2193440,
+        "sha256": "43d2cb427dea5c9026b4a4de6c51b47df392d419f164652302169f098aee4c1b"
+      },
+      "delta": null,
+      "counts": {
+        "masterRows": 25758,
+        "slotRows": 31983,
+        "uniqueSourceRows": 25758,
+        "appliedSlots": 31983,
+        "translationByteMismatchRows": 0,
+        "payloadRows": 25758
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0001a.cpk",
+      "patch": "patches/release/vita3k/main/STG0001a_cpk.xdelta",
+      "source": {
+        "bytes": 17208,
+        "sha256": "67a8e7132f334ab22b1a327ef519236592ffa4ee83d43f8c80b0d29867eda5da"
+      },
+      "localized": {
+        "bytes": 69184,
+        "sha256": "db85a68caeaf10cd6c6355254913a7c745dc827b199014812ddb584b4a04a559"
+      },
+      "delta": {
+        "bytes": 12333,
+        "sha256": "2e0df563408949f5a500020045539d3d31e24fb506405a3fc4a8d9ee52c59f59"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0001b.cpk",
+      "patch": "patches/release/vita3k/main/STG0001b_cpk.xdelta",
+      "source": {
+        "bytes": 37704,
+        "sha256": "d3bf1b3c77e23b9f76d65467be44288066f08c6a7377aadaf14fee8b953f3fd1"
+      },
+      "localized": {
+        "bytes": 187616,
+        "sha256": "1dfe4b14be9c16fe4049e3d3b33f3500b4a039d15a0bb3cb3a52fc80cf4c06f2"
+      },
+      "delta": {
+        "bytes": 27473,
+        "sha256": "2ba745d81f4ab3217b9cb7d6280371ee2f00784e9c7d7eda23fa41576bb3ce78"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0002.cpk",
+      "patch": "patches/release/vita3k/main/STG0002_cpk.xdelta",
+      "source": {
+        "bytes": 55992,
+        "sha256": "a86a7d1a6393fe3a12df2b372be755dc4a798b47021204601a1eff3a4047922d"
+      },
+      "localized": {
+        "bytes": 291160,
+        "sha256": "3b6dba7579bf52811414d861e476275091e29206943ee4b9f1b9882975c6f7cd"
+      },
+      "delta": {
+        "bytes": 42993,
+        "sha256": "dea9437ad92081b06a5ba574919f3b2e9e6f0fd36f7218ef5aed63f33736a0ea"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0003.cpk",
+      "patch": "patches/release/vita3k/main/STG0003_cpk.xdelta",
+      "source": {
+        "bytes": 45880,
+        "sha256": "e532a6e6e394bc87314dc5d4aac8060daf96e56b2084b0d10ee74edd1e182e71"
+      },
+      "localized": {
+        "bytes": 256504,
+        "sha256": "73a62efd8e0235d86e2ee24133c5c6d636283daf0e9aefe2a66e42801e410d00"
+      },
+      "delta": {
+        "bytes": 34910,
+        "sha256": "6a5ef6831d28382180b5488d9d5145ce008dfc4dfbfc9aa9b3f14cb0199b90a4"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0004.cpk",
+      "patch": "patches/release/vita3k/main/STG0004_cpk.xdelta",
+      "source": {
+        "bytes": 62648,
+        "sha256": "96359e0f6607f1dcd859f4e516bd0f372df5add309ab4855be7f24e63a0f629c"
+      },
+      "localized": {
+        "bytes": 391512,
+        "sha256": "1d47309043548c9da98cbba864f92a75d86c82dca007480a977638c5266d0053"
+      },
+      "delta": {
+        "bytes": 49306,
+        "sha256": "6e2b567e2c29fcf090dd88abfb2aac95ca33f764b76f56388ee96acfd2fbcd80"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0005.cpk",
+      "patch": "patches/release/vita3k/main/STG0005_cpk.xdelta",
+      "source": {
+        "bytes": 49260,
+        "sha256": "e5df8c8e7d8a42894a82338bd9d8ae46124926459e0a6a1636b5c6a644c2bb93"
+      },
+      "localized": {
+        "bytes": 357512,
+        "sha256": "58be096fe1398a64daaecc2e76cc99af05a35f54257bed45b6160f6a24af3d00"
+      },
+      "delta": {
+        "bytes": 36832,
+        "sha256": "729059396572af34fe7037dc9adbc5980a273872a647345971b89ab3a8ff027f"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0006.cpk",
+      "patch": "patches/release/vita3k/main/STG0006_cpk.xdelta",
+      "source": {
+        "bytes": 48148,
+        "sha256": "02c5e1a1e1c3601145be21c5e0bbd12720f9526cec5c83789edad60067d22860"
+      },
+      "localized": {
+        "bytes": 316648,
+        "sha256": "f7bec80bbae00898bc2e98db2ee4dfb1097acc9bc09d672cd6b8aeea0d3907f6"
+      },
+      "delta": {
+        "bytes": 36791,
+        "sha256": "bdfd67c26911d66b8c84bb9c6de3e3922c7185460bd04bce9dfe255a289659a7"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0007a.cpk",
+      "patch": "patches/release/vita3k/main/STG0007a_cpk.xdelta",
+      "source": {
+        "bytes": 21660,
+        "sha256": "52996f1ff1f02fde9103c83d7afd82a79dce90d768d5de52216be939c3dcb32d"
+      },
+      "localized": {
+        "bytes": 103776,
+        "sha256": "277395f20f3bfb532f41a85440f36cfb81fd1e3ebdc9a5a50f11748a73aba5df"
+      },
+      "delta": {
+        "bytes": 13806,
+        "sha256": "71b8210411edfbc97c8e2cd2874f9e75b44cde9a0c376f7d18fe95ae946fcf43"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0007b.cpk",
+      "patch": "patches/release/vita3k/main/STG0007b_cpk.xdelta",
+      "source": {
+        "bytes": 49324,
+        "sha256": "5be4f417ee91791d8acf409950d2c19c6807e8c33f545f59716d86eb7af3c680"
+      },
+      "localized": {
+        "bytes": 344584,
+        "sha256": "4f5e310bf94f2c93f60fe18ac0639ac2f71d4b14a21ec1f4e67182ee7bcf65d1"
+      },
+      "delta": {
+        "bytes": 37171,
+        "sha256": "c9bf2bda30b8b62ec01a6fd60b7ab50f28b8f00b1b922052f9b5e737aa6561eb"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0008.cpk",
+      "patch": "patches/release/vita3k/main/STG0008_cpk.xdelta",
+      "source": {
+        "bytes": 54216,
+        "sha256": "ae7939143c0bdb15f0aabeb0eef3e8908e1a8c3a60f1e50ccf36334c73f4cef2"
+      },
+      "localized": {
+        "bytes": 381320,
+        "sha256": "66af280c6d0c2fa105db5d3794522a61f9bdadf496e70786eff5e368bfeb8627"
+      },
+      "delta": {
+        "bytes": 41382,
+        "sha256": "b74a0d8391e9a65659e821761cc249ad2840040bf09c283826bf0a4d2aef2ea8"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0009.cpk",
+      "patch": "patches/release/vita3k/main/STG0009_cpk.xdelta",
+      "source": {
+        "bytes": 45348,
+        "sha256": "9c5a2bf0f05f3ab7b2f496d2c0dbdc552efeade48254469354904132f58e7215"
+      },
+      "localized": {
+        "bytes": 309672,
+        "sha256": "3828a1b8492394bb8e221c5c9ab4a69ae6ea01dbee8ed65c1e44c43b1441d6ce"
+      },
+      "delta": {
+        "bytes": 33808,
+        "sha256": "a77310a1637bd9942a0a43559d7f333ed92a0cd715195b203ff6409ef29957e1"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0010.cpk",
+      "patch": "patches/release/vita3k/main/STG0010_cpk.xdelta",
+      "source": {
+        "bytes": 70772,
+        "sha256": "c60bb80483d9bc400b702f3383e9382347ad28eb95e66b60b8257d59ac41beab"
+      },
+      "localized": {
+        "bytes": 439320,
+        "sha256": "0fc7491877e65c15b544b4b530ecbba1315ee595a073a2eaa84642d2cd4cf079"
+      },
+      "delta": {
+        "bytes": 56509,
+        "sha256": "322a82284d6af09ab4fef973ec6a84ac48c5d8a88ddac57a7dca5b0b703dadf1"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0011.cpk",
+      "patch": "patches/release/vita3k/main/STG0011_cpk.xdelta",
+      "source": {
+        "bytes": 51180,
+        "sha256": "03c2b9319d0a5e3a7f304ca32222ccf131d2bd876ba75d784290cc668ab1c84c"
+      },
+      "localized": {
+        "bytes": 353208,
+        "sha256": "3465cd238e94efc0594646d3a769fcf0e472c10a928c31cb334533248ed55515"
+      },
+      "delta": {
+        "bytes": 38608,
+        "sha256": "368d4c4f380ee37926e237b49015a84e4e01319f2ae4a311fb7f37f9b6e50bf8"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0012.cpk",
+      "patch": "patches/release/vita3k/main/STG0012_cpk.xdelta",
+      "source": {
+        "bytes": 53196,
+        "sha256": "7d7d1d63fb05ab1bfe8c1ae60fecb78bda1fe35a201d226366c972854226a817"
+      },
+      "localized": {
+        "bytes": 335064,
+        "sha256": "ce95d1df666ba24073a3f5d032055a23070cfc0febe9b550b5099269d505a5c9"
+      },
+      "delta": {
+        "bytes": 40401,
+        "sha256": "371127326229ccbf9bb8b99e520e24646733f56b7d6b4b46802bf4ac37108cce"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0013.cpk",
+      "patch": "patches/release/vita3k/main/STG0013_cpk.xdelta",
+      "source": {
+        "bytes": 37844,
+        "sha256": "9c3cae808e9bcbde8fdb80afd0865a101528ce378040c54bdeb9942f735f3969"
+      },
+      "localized": {
+        "bytes": 221080,
+        "sha256": "ba112c36931b2f92e342b76d47c60e88789ac72a18cd0a2e92237100ee078810"
+      },
+      "delta": {
+        "bytes": 28341,
+        "sha256": "5160a1cd173ba739092de7222d360816f6051df8d424e0e0e1c2f1572051c693"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0014.cpk",
+      "patch": "patches/release/vita3k/main/STG0014_cpk.xdelta",
+      "source": {
+        "bytes": 60196,
+        "sha256": "1044fde02aabf13a9ac1b4290f24edb0cada1b7ed7f23f35ad2fb4e255bafdbc"
+      },
+      "localized": {
+        "bytes": 314232,
+        "sha256": "3421e07598d1902ac9ca1e5facd6e41081b5ac2426b5d86881a7b21e487fcf2b"
+      },
+      "delta": {
+        "bytes": 47357,
+        "sha256": "db40db316c2709cd9a8df6792918b88eb9466ab076efcd6355bfa727a8fef763"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0015.cpk",
+      "patch": "patches/release/vita3k/main/STG0015_cpk.xdelta",
+      "source": {
+        "bytes": 49444,
+        "sha256": "3e6752cf778074de7792b59c2c9dbbaedfaa8b4d5f7af161355247d146ae7e64"
+      },
+      "localized": {
+        "bytes": 266392,
+        "sha256": "908a4a2efe29b0aad74755cfcd0207b3ca55a6859a015e1f31343476c214fbe0"
+      },
+      "delta": {
+        "bytes": 38818,
+        "sha256": "bc159218dfafbfdfa788716038d770b1e408b9ca4e6e7e1c14cebe3d6c2eb43c"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0016.cpk",
+      "patch": "patches/release/vita3k/main/STG0016_cpk.xdelta",
+      "source": {
+        "bytes": 68932,
+        "sha256": "f6ef6dfcd8a1a12fd896c52a06b2784fd7efb03f363b15140d6e45e011a0abfc"
+      },
+      "localized": {
+        "bytes": 524728,
+        "sha256": "c8c91328421a9d7c8c07b647c0bd3a58e5436bd9e967be17177c109f5c75fd74"
+      },
+      "delta": {
+        "bytes": 53237,
+        "sha256": "7428b4f9d976008d4b1aa32595f31d0cbf92e98388a81217bb8dac4e594745c0"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0017.cpk",
+      "patch": "patches/release/vita3k/main/STG0017_cpk.xdelta",
+      "source": {
+        "bytes": 49156,
+        "sha256": "45203f0dfcaf5fe9937fbe239ac030d7be37ede95605a2295af29eb4278ba5ea"
+      },
+      "localized": {
+        "bytes": 337192,
+        "sha256": "f12662118197933cdc9c83876a55b41ac95c8632eb791a311240a9f2d857ad1a"
+      },
+      "delta": {
+        "bytes": 36593,
+        "sha256": "137e5e9857e2a774f07a77cf837ce1f139fb1bfd9bb20b0f06e8014c007e0592"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0018.cpk",
+      "patch": "patches/release/vita3k/main/STG0018_cpk.xdelta",
+      "source": {
+        "bytes": 58880,
+        "sha256": "c077794bc9e37a7dfa5616f5811dcf457cb71c69f4399568682191a208cbb0e2"
+      },
+      "localized": {
+        "bytes": 334664,
+        "sha256": "5963176b3143e8635a9e30f81222c2dc4b26441c79259a4f64b3b2b865810805"
+      },
+      "delta": {
+        "bytes": 45596,
+        "sha256": "991d01d9ce1a472fb4419534424f2e3f5555e8b4cdffb9e2b36e86f18c71fb95"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0019.cpk",
+      "patch": "patches/release/vita3k/main/STG0019_cpk.xdelta",
+      "source": {
+        "bytes": 47136,
+        "sha256": "49f9bfdd14c1e4f061b8bf49f5ad62e9c81f24b4de0dc048484979185bc47068"
+      },
+      "localized": {
+        "bytes": 229104,
+        "sha256": "736f4ed60b1c2d53eb3d1521225db64593e5a1671c56cdf0ff0674fef9ee1b53"
+      },
+      "delta": {
+        "bytes": 35769,
+        "sha256": "91ebb52cf93a45c942857e2a0efd6ca1ef6cc270b4e0b6303e15612a09bef261"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0020.cpk",
+      "patch": "patches/release/vita3k/main/STG0020_cpk.xdelta",
+      "source": {
+        "bytes": 55268,
+        "sha256": "f49a901e8193d42ec4b45297804ad7da2a019da06735782645f998e68965a1cc"
+      },
+      "localized": {
+        "bytes": 388120,
+        "sha256": "bf18fb5f5722c01adb8bb691ecf9f8c5783f841222c6e22db59d5c504b2817c5"
+      },
+      "delta": {
+        "bytes": 42440,
+        "sha256": "f5eca2a20d72b2cb4d35b48a7271b7b648f4ad3fecae25e20f08888170bf31f0"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0021.cpk",
+      "patch": "patches/release/vita3k/main/STG0021_cpk.xdelta",
+      "source": {
+        "bytes": 54116,
+        "sha256": "d5f460ff69bdfe4a28f08b4f89acf6003e926037537bcd7fd67618a269e181e1"
+      },
+      "localized": {
+        "bytes": 368440,
+        "sha256": "cf80b415cee0b061486ef2b346c7e7759fbcd2c0d330db7c5eda8aa9da2b51f8"
+      },
+      "delta": {
+        "bytes": 40493,
+        "sha256": "783f63c3117ef62dff49139be5036b021ab0c074d4616d6c1036901941da9f84"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0022.cpk",
+      "patch": "patches/release/vita3k/main/STG0022_cpk.xdelta",
+      "source": {
+        "bytes": 43332,
+        "sha256": "26c7dce5f99d0bc4778019f24b6699e1771adaaa543b783939a912bbb1aef3d0"
+      },
+      "localized": {
+        "bytes": 234256,
+        "sha256": "7fb794f2749b63e7ec085e9aaeda113a6a8956dd2e85fc4bfd7572659ef2e6f0"
+      },
+      "delta": {
+        "bytes": 33075,
+        "sha256": "bb83f19a2238211de364b1817823718758a2922a66d1b8aa3c32729dac35f7e9"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0023.cpk",
+      "patch": "patches/release/vita3k/main/STG0023_cpk.xdelta",
+      "source": {
+        "bytes": 50580,
+        "sha256": "5549d9428145a004db97f1cd673692d3008797b668d92a9f60c4c603777e58ac"
+      },
+      "localized": {
+        "bytes": 358008,
+        "sha256": "53ab9ddfe6cffe29a0699ef7802efd124d7d466407310da221d20f67055efb73"
+      },
+      "delta": {
+        "bytes": 38780,
+        "sha256": "1a28eb532d5796889466a4601fa7d07c7b97913be1698ba361b89bcb24efc204"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0024.cpk",
+      "patch": "patches/release/vita3k/main/STG0024_cpk.xdelta",
+      "source": {
+        "bytes": 55856,
+        "sha256": "042c4464b515064734aa58e7903c4d77f3196603de084b4b68dfb42d55d2bbfb"
+      },
+      "localized": {
+        "bytes": 403192,
+        "sha256": "c875144dc08f8b1a8ca4ee6f6544c12ede3d7bec165924ba7b9ee4909bc43c91"
+      },
+      "delta": {
+        "bytes": 42977,
+        "sha256": "f29b362cc1b874e90065505d696736056a0a0f20154e38667f687ed3fd53f0ac"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0025.cpk",
+      "patch": "patches/release/vita3k/main/STG0025_cpk.xdelta",
+      "source": {
+        "bytes": 84428,
+        "sha256": "27784d69f362c4173dcec7d066834adbe3172a993ddfcb754eda1d2c80a9f845"
+      },
+      "localized": {
+        "bytes": 501000,
+        "sha256": "d8fd780385fc11c3b8e0c10d23687dda04700d4035edec4e92139f1b72dfb586"
+      },
+      "delta": {
+        "bytes": 65108,
+        "sha256": "40a6bc3a4054c011d9d1fb467a058ca4f6d4276013c39ebccf5ac6131cc2d72b"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0026.cpk",
+      "patch": "patches/release/vita3k/main/STG0026_cpk.xdelta",
+      "source": {
+        "bytes": 61964,
+        "sha256": "2b98cca343f28e7940ff59da9078fd8417c7fc0c2126c1050e4c18f2957e95ac"
+      },
+      "localized": {
+        "bytes": 431392,
+        "sha256": "83fca764c380a5f3fd81d909d11df7d6eb235ed09ab4715848265b2fe98f6ed8"
+      },
+      "delta": {
+        "bytes": 48236,
+        "sha256": "6229c5ecdbe94e540660898fa7bbe45f10d5e32883e7912de888546d817a9080"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0027.cpk",
+      "patch": "patches/release/vita3k/main/STG0027_cpk.xdelta",
+      "source": {
+        "bytes": 78104,
+        "sha256": "a6b8be719313a0eabe7946f12e430faa34fe8820ce9a725193778cbe7365b604"
+      },
+      "localized": {
+        "bytes": 575648,
+        "sha256": "91390359ebd1c001b12664dca48859668b2ac0f6667ba06a15756d1c638d0d25"
+      },
+      "delta": {
+        "bytes": 59045,
+        "sha256": "ec10e0647176bbc3522de8b1eda7510afb97a6de7ae0f0f927bbd1cc1b8cff00"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0028.cpk",
+      "patch": "patches/release/vita3k/main/STG0028_cpk.xdelta",
+      "source": {
+        "bytes": 56360,
+        "sha256": "86d4effe41a808e7419e9949568b5c35a556817d86eb596353b939837a716c30"
+      },
+      "localized": {
+        "bytes": 308824,
+        "sha256": "ec56995509e0373641ee2d991aa1610368ec0d8cd1524be3685e8ebf01c00c71"
+      },
+      "delta": {
+        "bytes": 44177,
+        "sha256": "2047cb5b73d41d0d54777b199025f8df30e8894f0ffa98354a4ed356ae060e5a"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0029.cpk",
+      "patch": "patches/release/vita3k/main/STG0029_cpk.xdelta",
+      "source": {
+        "bytes": 63768,
+        "sha256": "80ea75834122b558f96a8b05036f0e6d42fad0d5da5de8467ce2c610675f2866"
+      },
+      "localized": {
+        "bytes": 427528,
+        "sha256": "e3d0f389f2574f7680fb65518fb7d8f380a3c7f219168005a34ae4e2b5e3e19a"
+      },
+      "delta": {
+        "bytes": 49669,
+        "sha256": "aa172aee8cea539dad783f68477d0456370b4192dd2b359bf25df022dbc45969"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0030.cpk",
+      "patch": "patches/release/vita3k/main/STG0030_cpk.xdelta",
+      "source": {
+        "bytes": 54724,
+        "sha256": "0852694c16ca5e023b8e619e81b08b1ad62a5e6701f3fa6c4ed38c1ffb6a36d2"
+      },
+      "localized": {
+        "bytes": 424168,
+        "sha256": "16460421afc13c00d408d318a6287897c56fc0376aac5baa68db1d4dca70c6a9"
+      },
+      "delta": {
+        "bytes": 41533,
+        "sha256": "31a7f109ed77b58119ad5b5b06786b861c0d1b41db66256e2783f9040259ad44"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0031a.cpk",
+      "patch": "patches/release/vita3k/main/STG0031a_cpk.xdelta",
+      "source": {
+        "bytes": 24044,
+        "sha256": "83cb976190d78d442e39d0b9fcf3f145b733a94932fd4a7b96957867ce6cb25e"
+      },
+      "localized": {
+        "bytes": 79952,
+        "sha256": "2cf7acdbc04bcb72870ce7cd2ebdbc795458b5528e1f8dd86a39c5db999a7356"
+      },
+      "delta": {
+        "bytes": 16652,
+        "sha256": "27f633ba95b039957dcb46212d4a59cac8f69d382f2020c84abcc569116efec1"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0031b.cpk",
+      "patch": "patches/release/vita3k/main/STG0031b_cpk.xdelta",
+      "source": {
+        "bytes": 75244,
+        "sha256": "899f944109da8ac87565927a8871a0c3486506f882df7c55b38aff174228bfa6"
+      },
+      "localized": {
+        "bytes": 488000,
+        "sha256": "936ca5f57f602db6e23c932f8f23597102e7c9e6a65778e4f726245add26c0fb"
+      },
+      "delta": {
+        "bytes": 57546,
+        "sha256": "56f9d04fbf0e40c5ff210976518d92807d15a29c90e98ab7e1857c73cf754790"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0032.cpk",
+      "patch": "patches/release/vita3k/main/STG0032_cpk.xdelta",
+      "source": {
+        "bytes": 73448,
+        "sha256": "41f889a9bcf5d8618a62379430f19bcd773dbee98d4e7ffa9fe4ac76453cb22e"
+      },
+      "localized": {
+        "bytes": 531968,
+        "sha256": "1b2534a8bb3a7f5776d5ae1de20e5b9d6e31948504c6045dbd732cb5f15a1f97"
+      },
+      "delta": {
+        "bytes": 58220,
+        "sha256": "fcbf32463bfc3a55b7baac6011ba00a8dd22a9a5243a5a2d8e9c24638e89f569"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0033a.cpk",
+      "patch": "patches/release/vita3k/main/STG0033a_cpk.xdelta",
+      "source": {
+        "bytes": 38564,
+        "sha256": "797c047604576e5e94feebb95822bba218e89782c3e4e3988d8b75da7c1d6130"
+      },
+      "localized": {
+        "bytes": 196112,
+        "sha256": "dcabf6903dcc3a6a519ff470b82f58986eeb990220f36d0febd531fff7fca527"
+      },
+      "delta": {
+        "bytes": 29879,
+        "sha256": "190af7238fcb985a4d4aa6a352607e31ddeed8f3ab95428757fb82cc4ab99504"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0033b.cpk",
+      "patch": "patches/release/vita3k/main/STG0033b_cpk.xdelta",
+      "source": {
+        "bytes": 63348,
+        "sha256": "3276c9f30f633ce2f66e6284556db1b97e220dfff1a3d44aef2a497a8d9555fd"
+      },
+      "localized": {
+        "bytes": 611400,
+        "sha256": "7ad5c9d3474494afb4e58d6ff100cf8629b273409ee50bb39f9f2f4169d5a6ee"
+      },
+      "delta": {
+        "bytes": 47168,
+        "sha256": "4002bc3c987fc97fbae53289e7cbbcc20b87ac3a45bae38344ac1fefcf21ebc4"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0034.cpk",
+      "patch": "patches/release/vita3k/main/STG0034_cpk.xdelta",
+      "source": {
+        "bytes": 52184,
+        "sha256": "3fff1524a8d9180bcd839600e16ad3bd856cc057661f72f953fac31cc5f3b8c6"
+      },
+      "localized": {
+        "bytes": 367336,
+        "sha256": "7f1448fa5e28c083f43490c7f6916ea901e0ca3e0d9c366f7986bc2f59d2c19b"
+      },
+      "delta": {
+        "bytes": 40186,
+        "sha256": "e1725f5e4dfd4cced9aeb43eab56ffe9e75fb67e313c36174a7b0f7e61abbf86"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0035.cpk",
+      "patch": "patches/release/vita3k/main/STG0035_cpk.xdelta",
+      "source": {
+        "bytes": 61432,
+        "sha256": "c9b962fd34e694a2c89bcb059c71d16f1bea289f1c70ea146ba7deb59371ddeb"
+      },
+      "localized": {
+        "bytes": 492040,
+        "sha256": "bbd2160b56cdb6831ab5debf71e2bc6e9b2edee7f26af10a36d477ea118e77e6"
+      },
+      "delta": {
+        "bytes": 44595,
+        "sha256": "8210961cb438f8b313e9451539211669a4222c11ae2bd8f1c0550fd459fac58f"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0036.cpk",
+      "patch": "patches/release/vita3k/main/STG0036_cpk.xdelta",
+      "source": {
+        "bytes": 60392,
+        "sha256": "041407de7947bbe134fb499ec4d0dc0e6262453af04734f35ab636df40bad0d2"
+      },
+      "localized": {
+        "bytes": 511944,
+        "sha256": "d27c5d727849d1c642a26282e12e567c331452ceec13ac0bd563954e0cf448a6"
+      },
+      "delta": {
+        "bytes": 46053,
+        "sha256": "3047e982a2074d5570f4521a5d389cfacbc2d94f8c201ab4d3a2598820b73026"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0037.cpk",
+      "patch": "patches/release/vita3k/main/STG0037_cpk.xdelta",
+      "source": {
+        "bytes": 68520,
+        "sha256": "97e8759a3190da1b8ab996e37f6cdcc5abee00add0f35b1a1e035ed94bc39552"
+      },
+      "localized": {
+        "bytes": 535992,
+        "sha256": "f7c738a7e9a7305ac7911751b08f244d1fab2285a5f73c0b32673b7d9b8617a9"
+      },
+      "delta": {
+        "bytes": 52885,
+        "sha256": "c99c191fe6f7d59801648536a4677b2f7caae9fd7c3efa3af54dd4221cd45b73"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0038.cpk",
+      "patch": "patches/release/vita3k/main/STG0038_cpk.xdelta",
+      "source": {
+        "bytes": 62184,
+        "sha256": "e53e4c055892769188fc7f76052381a2cf49d8bde9ce38f91cee951b9ede2ffd"
+      },
+      "localized": {
+        "bytes": 508504,
+        "sha256": "6c2b60e81035aa6a7edcf95c58b9d6b698bf54cb2a2532c1604bcb0e5fb7b9ac"
+      },
+      "delta": {
+        "bytes": 47567,
+        "sha256": "d637cc3ac5acd1994498c5f28e7c0929fa112ff4581a8fa69ddb2e101ff0cbf5"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0039.cpk",
+      "patch": "patches/release/vita3k/main/STG0039_cpk.xdelta",
+      "source": {
+        "bytes": 60428,
+        "sha256": "c2e0da9ddff5924962addbdac0a1f37384990a49d967519cf50e77f5d4986fc2"
+      },
+      "localized": {
+        "bytes": 409512,
+        "sha256": "b84d5b3b6ad156ff731faf93b8324f754a2e3363c605b89dfd7f145a2e66dbe4"
+      },
+      "delta": {
+        "bytes": 47475,
+        "sha256": "289476b10d832a80d4e91f408d470d99f058691e2afec969efad1177e96574dc"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0040.cpk",
+      "patch": "patches/release/vita3k/main/STG0040_cpk.xdelta",
+      "source": {
+        "bytes": 50360,
+        "sha256": "ebc2bf2342effcf19dafac81deb32c01219a423985b5eb873a6581388936764a"
+      },
+      "localized": {
+        "bytes": 433720,
+        "sha256": "ca1fe46d307c24d11bba1b4fd6ebbd35ebc1725b0698e3cf03c146bc3f5231c4"
+      },
+      "delta": {
+        "bytes": 37263,
+        "sha256": "8ff7461fbe12c4794988306522219a222604459d70ebbacf1e6496ba99693a61"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0041.cpk",
+      "patch": "patches/release/vita3k/main/STG0041_cpk.xdelta",
+      "source": {
+        "bytes": 52252,
+        "sha256": "2ce4907c763fde0a6f613a73d9bf5d3af3da5a2aaffe7aaab8f14222cf4717a4"
+      },
+      "localized": {
+        "bytes": 354968,
+        "sha256": "d066d28e4a8c4c2547b8df123ce1666d438cdde92c2f7fdaf9d3429a2f3034e9"
+      },
+      "delta": {
+        "bytes": 41039,
+        "sha256": "115c41f4524ea57e1e51a89d91629922afdee02b843e39a546104a1907674269"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0042.cpk",
+      "patch": "patches/release/vita3k/main/STG0042_cpk.xdelta",
+      "source": {
+        "bytes": 65228,
+        "sha256": "1581844198bbd2a49ce3976d1f6c0895c83079d507b58aa0c191e94bf4995345"
+      },
+      "localized": {
+        "bytes": 550936,
+        "sha256": "6df2c3729d4f0b1e9c5298c2928182edc7074ac5c60e9a1b59fbd73ff1603fe9"
+      },
+      "delta": {
+        "bytes": 48864,
+        "sha256": "35256e1fbfd18865ae7a9cfabdfafdbcc7b556689086302f2ce9f576c46cd5a1"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0043.cpk",
+      "patch": "patches/release/vita3k/main/STG0043_cpk.xdelta",
+      "source": {
+        "bytes": 97228,
+        "sha256": "d67e6ee9f12f5edc933321d5b989f026ee3e16218f7058f50a90a241c92ab20a"
+      },
+      "localized": {
+        "bytes": 797800,
+        "sha256": "bf59e4a0192f7014de5752a2003a97318f6e28261f3dad224c5a3483e6a25c4a"
+      },
+      "delta": {
+        "bytes": 73748,
+        "sha256": "36d86af2dbe0c9229a18b9c45dc62cc0fa9c733965af7869fe73f94ff26fc046"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0044a.cpk",
+      "patch": "patches/release/vita3k/main/STG0044a_cpk.xdelta",
+      "source": {
+        "bytes": 25432,
+        "sha256": "f545ef10d96bd2e474889138ded25e5c990484336d73d0b241bc8562e0bf6f9f"
+      },
+      "localized": {
+        "bytes": 78432,
+        "sha256": "9ccf0894d5fcfb0c4aa4ad8240f9da11207809aa866cd637afff9a526963c3b2"
+      },
+      "delta": {
+        "bytes": 18014,
+        "sha256": "831d3e384a59200387f30e1411f18b4618200b7037cef7a763a2717bd4c64952"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0044b.cpk",
+      "patch": "patches/release/vita3k/main/STG0044b_cpk.xdelta",
+      "source": {
+        "bytes": 55432,
+        "sha256": "8a4737a92a9ae1c3d420d6c82c0afbac34933e2fc86daf4413495d3210d6dbce"
+      },
+      "localized": {
+        "bytes": 620600,
+        "sha256": "b754d72d83eed26c5e07e7a52492aa4fb1970e8ec6965e7fe54f2db45ce335fd"
+      },
+      "delta": {
+        "bytes": 41376,
+        "sha256": "679aea9525737a75b98497f7cd67eba30e61cfdd1fbf8e1c062b523610d9a04a"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0045.cpk",
+      "patch": "patches/release/vita3k/main/STG0045_cpk.xdelta",
+      "source": {
+        "bytes": 73020,
+        "sha256": "d7290ec2d9ffb74dd7da993b1b4dd431453ff30b6ba794d18893216be9db2990"
+      },
+      "localized": {
+        "bytes": 578800,
+        "sha256": "7f2e49dbbb855625eb74a38b065585b48de238167882fa6b9f1ae5f337c0fe0f"
+      },
+      "delta": {
+        "bytes": 56550,
+        "sha256": "9a4c1dac5492aad46f44072d6b1ffb6f88aa3ec432a15255fac4ea5d6516413c"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0046a.cpk",
+      "patch": "patches/release/vita3k/main/STG0046a_cpk.xdelta",
+      "source": {
+        "bytes": 19660,
+        "sha256": "11982569623bec30d3fc89ca16aa4a976f71c5bde33b476cc939f16500b935dd"
+      },
+      "localized": {
+        "bytes": 58640,
+        "sha256": "c26f262e7065985fd02ee657c99c2e77bc158b37140e4ee3429b5ab51c256be1"
+      },
+      "delta": {
+        "bytes": 12584,
+        "sha256": "2d8d1f7e030e2e008746e34621f9916a458ba483b1b2a18556749c5ce5f6064e"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0046b.cpk",
+      "patch": "patches/release/vita3k/main/STG0046b_cpk.xdelta",
+      "source": {
+        "bytes": 63804,
+        "sha256": "3813ed0995a0d62ff229c58d2f18dfdeee47dd563c61cc0d4493af4a47d83e01"
+      },
+      "localized": {
+        "bytes": 478216,
+        "sha256": "e9fc0f7594af40822ce68e0faf231cfb43075688dda585005730928ec8f21103"
+      },
+      "delta": {
+        "bytes": 50023,
+        "sha256": "4f34fc787b4883715372a7695aa3c9e82068552695d21dbc0bedbb0078401c8b"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0047.cpk",
+      "patch": "patches/release/vita3k/main/STG0047_cpk.xdelta",
+      "source": {
+        "bytes": 49896,
+        "sha256": "b3fb135f1336c6ee59c3706ffc9ec52a66a41fb6fcac02f255c875e8692ddb3b"
+      },
+      "localized": {
+        "bytes": 360792,
+        "sha256": "6cc59e048f1839339fd0eedf87f404ada8ef91aa26f3277a70549b8517d1204b"
+      },
+      "delta": {
+        "bytes": 38186,
+        "sha256": "19103806548820674b0721143a6b6c712092e64ee631ea262336a08dcd7f0720"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0048.cpk",
+      "patch": "patches/release/vita3k/main/STG0048_cpk.xdelta",
+      "source": {
+        "bytes": 68688,
+        "sha256": "1611a84e9eb6413e34a3f03fc2adf84e08bf8979d960aa99c3af3dd5f58d5006"
+      },
+      "localized": {
+        "bytes": 508328,
+        "sha256": "f0c8d33cb0b2ac3d7cc3da3e916a7d857a9b62263e7052172818e44e47269eca"
+      },
+      "delta": {
+        "bytes": 53613,
+        "sha256": "fda4491228331d0c5695247364c76c02ec15d2bc4d6f27aac02593a99c7d5884"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0049.cpk",
+      "patch": "patches/release/vita3k/main/STG0049_cpk.xdelta",
+      "source": {
+        "bytes": 69504,
+        "sha256": "f6d0bb05381ea7601d387b0a344f402594307f1673816fb35de9122d63ab4d60"
+      },
+      "localized": {
+        "bytes": 579704,
+        "sha256": "712ad4e86d63cb9e038182e7361c1ecf35584997cdf10794b15299d78361bd64"
+      },
+      "delta": {
+        "bytes": 53629,
+        "sha256": "ed52ca9095f4ed54a1cb8d14dcf72f702cb2b6f9bdb4a65a185dccacde709535"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0050a.cpk",
+      "patch": "patches/release/vita3k/main/STG0050a_cpk.xdelta",
+      "source": {
+        "bytes": 21640,
+        "sha256": "89976ac70cfc19b810773a6be9e23e74b12c9fc1e8f7304bc3669ae6860846fd"
+      },
+      "localized": {
+        "bytes": 76304,
+        "sha256": "668e5cec916212a1dd658d649bf166dda3a483649519bf78ff6c6e347a3b89e0"
+      },
+      "delta": {
+        "bytes": 14392,
+        "sha256": "ca0138443a1fffaffe2568e5940d090afbc3f9c389a8348917e79bf6955d11fb"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0050b.cpk",
+      "patch": "patches/release/vita3k/main/STG0050b_cpk.xdelta",
+      "source": {
+        "bytes": 39464,
+        "sha256": "e52e3470b6adec11c84db6e4c6368daea7fe16aa672c01ff48d94feb6b9ae911"
+      },
+      "localized": {
+        "bytes": 311624,
+        "sha256": "f447d6c6c0c9688a54f8887bdb7c19a9fcf3dab50fa88a30c7ca468bc4926d35"
+      },
+      "delta": {
+        "bytes": 28349,
+        "sha256": "80395bbe95ae09cb65532357baba81bcc29476a68c24bc63d76e5144f9b1ecfd"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0051a.cpk",
+      "patch": "patches/release/vita3k/main/STG0051a_cpk.xdelta",
+      "source": {
+        "bytes": 53196,
+        "sha256": "4341b5fae4c514b613d0cdf9d8e4e5b2cf13f01246e6ce97cd9c1ddcc6cbf3ea"
+      },
+      "localized": {
+        "bytes": 347448,
+        "sha256": "8328507b25fbb8db96c80eb2b21ef55bc1b283e13b123be3bd82f98424c9b759"
+      },
+      "delta": {
+        "bytes": 41310,
+        "sha256": "5bcb675b6d33b036a3b9bb1d79a7a5c027220b166ad0e28fe2b95037203ac001"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0051b.cpk",
+      "patch": "patches/release/vita3k/main/STG0051b_cpk.xdelta",
+      "source": {
+        "bytes": 28172,
+        "sha256": "8b1df7fab33bcce767c7f549cab21be736d97d8ae3b70be0d09acd73e16e5689"
+      },
+      "localized": {
+        "bytes": 109600,
+        "sha256": "fce4414b7feca043fcc55233fc02d464b59cf649f50163e937cfc19e7859fe3b"
+      },
+      "delta": {
+        "bytes": 19356,
+        "sha256": "875c90f50b3e5007a5f23d79bbdf8c431debbb88803e5500b6d6af1a59f50fab"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0052.cpk",
+      "patch": "patches/release/vita3k/main/STG0052_cpk.xdelta",
+      "source": {
+        "bytes": 64920,
+        "sha256": "2d903bf434b016ea0fea241af81666d78c5ad36409c0fd2ce5a379ffcbc08d33"
+      },
+      "localized": {
+        "bytes": 496400,
+        "sha256": "de169c64db458623840d75b1e32c5d781a84ee82bdd78e2b7876643bf999379b"
+      },
+      "delta": {
+        "bytes": 49159,
+        "sha256": "488e38f7c37c8309a17f6488e79c4351fcff41cbbdf5a5d33ba50713728463d1"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0053.cpk",
+      "patch": "patches/release/vita3k/main/STG0053_cpk.xdelta",
+      "source": {
+        "bytes": 87804,
+        "sha256": "78ba47b7cad98863c937c12ff4759a57813388d254df88765291c34d9ddd0381"
+      },
+      "localized": {
+        "bytes": 854928,
+        "sha256": "fbe3c6960b2bebf2e9cc0748f67fec228021f5dd564f4f20cdf9e692e8ab876a"
+      },
+      "delta": {
+        "bytes": 67399,
+        "sha256": "6352913da7dcc6416abd1ff0b49815c0fdaa85e69da654e96f2d713e921fb1f6"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0054.cpk",
+      "patch": "patches/release/vita3k/main/STG0054_cpk.xdelta",
+      "source": {
+        "bytes": 53620,
+        "sha256": "0dd27c2555785bb5a0a4b2bec3c2812186de7feee3ee14bc4c3cc13c0994607e"
+      },
+      "localized": {
+        "bytes": 392520,
+        "sha256": "8981a310359485b61c46c52c2b638306ef67fa526195a4c43a708c964a37efd2"
+      },
+      "delta": {
+        "bytes": 41031,
+        "sha256": "7af22a31ed6b98492ab0003d3d46146a9a670282bb8424f1fd78114db56090ff"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0055.cpk",
+      "patch": "patches/release/vita3k/main/STG0055_cpk.xdelta",
+      "source": {
+        "bytes": 67176,
+        "sha256": "5e4ff8111f3d35235f9bcb4c837501e789e290c842007750989b1a55f0c83db0"
+      },
+      "localized": {
+        "bytes": 537488,
+        "sha256": "a11d060e5822fcc12cdddbfe76fc502afc13b75b8ef6b649fe3c1b4f3ccdeb37"
+      },
+      "delta": {
+        "bytes": 51573,
+        "sha256": "949edc3da5aaa471b505200511d9894727815de9382109c02916536cfb3b3671"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0056.cpk",
+      "patch": "patches/release/vita3k/main/STG0056_cpk.xdelta",
+      "source": {
+        "bytes": 54872,
+        "sha256": "56befeff7e07517a3d4e8d2bdd11f81d53f2e0dfa12ee2e7edfeb4303e5e0169"
+      },
+      "localized": {
+        "bytes": 410888,
+        "sha256": "3359c7b040f29bae1fbfc9ca6d29ef8f138254daa903dfc81b039c4ebf1f4134"
+      },
+      "delta": {
+        "bytes": 42156,
+        "sha256": "7ea81cbbda9aca9c65ddb945aa4beccc0aa7dbed2d642b4c415588f0b646150a"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0057.cpk",
+      "patch": "patches/release/vita3k/main/STG0057_cpk.xdelta",
+      "source": {
+        "bytes": 58948,
+        "sha256": "5a478fc2127e5920051cf6e7e4a59c1d2ba2fe867c96e4a6b43747fcc9b32751"
+      },
+      "localized": {
+        "bytes": 493320,
+        "sha256": "5e3c6584fa696d5a0f5c8c8390f1864c646c59e4d3012ab6053c46d6d7ec841e"
+      },
+      "delta": {
+        "bytes": 44672,
+        "sha256": "ad3693ef0110e36045eec44294bb3336b02229dfcc7dae5d4d10a3325616d2d5"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0058.cpk",
+      "patch": "patches/release/vita3k/main/STG0058_cpk.xdelta",
+      "source": {
+        "bytes": 72224,
+        "sha256": "30f23d79bc387ddcc9b5e39b6de6c03c1824b040fa15a17dd6132f97ec65753b"
+      },
+      "localized": {
+        "bytes": 575176,
+        "sha256": "fce7c5ee62f468758977a44cff1b2b5af57a7ecfe4b72375eac53695177a7d65"
+      },
+      "delta": {
+        "bytes": 54690,
+        "sha256": "a64daa341652e706c0c4af509dfec3df1b752859a7979b2204743151c727fdc6"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0059.cpk",
+      "patch": "patches/release/vita3k/main/STG0059_cpk.xdelta",
+      "source": {
+        "bytes": 56888,
+        "sha256": "b00a3a8c38dc6eb5a2956ca6f73bbd0cfb872596905cc46e380977b9f01d3b5e"
+      },
+      "localized": {
+        "bytes": 399192,
+        "sha256": "1a536ac91eb3ea15674b108e43ceb7995922d4f27a28defb957325d4f8b0b31d"
+      },
+      "delta": {
+        "bytes": 43033,
+        "sha256": "4ef9105383a5672a7dd07b9dec5e995e768718a4aa6830c0c54425154f2b0592"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0060.cpk",
+      "patch": "patches/release/vita3k/main/STG0060_cpk.xdelta",
+      "source": {
+        "bytes": 55096,
+        "sha256": "92c0ff7d48ed850a18dd0d50840f406bd3ff353ce8c417a34945de5e5df64709"
+      },
+      "localized": {
+        "bytes": 426840,
+        "sha256": "9c914705e2104efd21bd250f61f4767eae17c42d5db12cf81990e331b8441898"
+      },
+      "delta": {
+        "bytes": 42076,
+        "sha256": "25310aebedb2e58f1db9e674d55c660af3e3d91cff812d7dd423f3fa832ccfdf"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0061.cpk",
+      "patch": "patches/release/vita3k/main/STG0061_cpk.xdelta",
+      "source": {
+        "bytes": 57864,
+        "sha256": "15c86be16dc31b73cc251d6e6202989152ed424078c1c1005a3e166c2f73e603"
+      },
+      "localized": {
+        "bytes": 399912,
+        "sha256": "008ac96ffe817e127ec9adc46ed57b729c71fa438ce834049a2da0d2852b2052"
+      },
+      "delta": {
+        "bytes": 44815,
+        "sha256": "0394cd035bf7124c0ea0a0982f37cb1677c287677325ee757575ea16754bbf18"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0062.cpk",
+      "patch": "patches/release/vita3k/main/STG0062_cpk.xdelta",
+      "source": {
+        "bytes": 61436,
+        "sha256": "1243faf71ecae2dba345e1fc8def6319f543a81ecfe9ff8fd2d9054e7eb5bc89"
+      },
+      "localized": {
+        "bytes": 529864,
+        "sha256": "27a01c60793272f3378be60600e01ee7702adeea533032c0f40b17daf1d6870d"
+      },
+      "delta": {
+        "bytes": 45894,
+        "sha256": "963f7f8726cc642856c0ff54ccda0b7e8393f328aa3ed5a3588972cff0eb8925"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0063.cpk",
+      "patch": "patches/release/vita3k/main/STG0063_cpk.xdelta",
+      "source": {
+        "bytes": 57480,
+        "sha256": "93f70c6913261a342bc0cfac2baaf4ec8984727ddc96a7786c8571016f8ce455"
+      },
+      "localized": {
+        "bytes": 503560,
+        "sha256": "f31b5ca2712c2b6dc7a60143a59f8755a735941b1cf426eb9c8f16f2702e3d5f"
+      },
+      "delta": {
+        "bytes": 44281,
+        "sha256": "dcc02bf8cc81db6a3b89c64286fad77551657b95d014b87512ceda45c70ec48a"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0064.cpk",
+      "patch": "patches/release/vita3k/main/STG0064_cpk.xdelta",
+      "source": {
+        "bytes": 69960,
+        "sha256": "3afcb281b0684e5771def1c08c5b6d0af5507b36a4c52df085d4663ce2855e37"
+      },
+      "localized": {
+        "bytes": 513464,
+        "sha256": "a6ba49707f955cabe8dc0e9184bf6c685783e7aee995ab5414725fc2609ab6b6"
+      },
+      "delta": {
+        "bytes": 54464,
+        "sha256": "f4f77d6767bf85de87c881eafcffc670d629691e42e37d9a242f5974a4089ec0"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0065.cpk",
+      "patch": "patches/release/vita3k/main/STG0065_cpk.xdelta",
+      "source": {
+        "bytes": 59012,
+        "sha256": "6d1efe8c480602805ff59d6b79282df98aaf6ee7c5e2dfc6158eb481214123d4"
+      },
+      "localized": {
+        "bytes": 407704,
+        "sha256": "12d10583eaaead5860c0b4f0f998fd03361f4a3009dbec7e6553b5a8a63d116b"
+      },
+      "delta": {
+        "bytes": 45389,
+        "sha256": "f465437b193ec7906c63e7be4e057f2cb5045258c79ee8e5378689a17c253dec"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0066.cpk",
+      "patch": "patches/release/vita3k/main/STG0066_cpk.xdelta",
+      "source": {
+        "bytes": 60896,
+        "sha256": "1341d9cb9ea10d2b71955f27040fed4c05b161f9299d1aa2e73c6aac52487c08"
+      },
+      "localized": {
+        "bytes": 496200,
+        "sha256": "f628a59e8e43ad6a0df9673c738bdad0cd3d99f23d8dfccf4d259c3799cb503b"
+      },
+      "delta": {
+        "bytes": 47012,
+        "sha256": "0da224034d5d4e8f56a1e6f673dcf6cf130580476b8a271d2b476bbdeb72edf1"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0067.cpk",
+      "patch": "patches/release/vita3k/main/STG0067_cpk.xdelta",
+      "source": {
+        "bytes": 65968,
+        "sha256": "a8ebdfd70c637d489e019fe95df10b4c1d18c147bb7feadd7971e01fa7d4c125"
+      },
+      "localized": {
+        "bytes": 653768,
+        "sha256": "87a76e81edceb82addbe282809a25b2ce21013013d945d43c02d8768d9a7a7df"
+      },
+      "delta": {
+        "bytes": 50793,
+        "sha256": "2ce4d76065b9a37eb8a7cc214cd479ea1b308e534d55412052aead5cc0bae29e"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0068.cpk",
+      "patch": "patches/release/vita3k/main/STG0068_cpk.xdelta",
+      "source": {
+        "bytes": 88108,
+        "sha256": "366840d7f7358a0e0a822c3a309879936ab1f3339ecd92a00864e42b9db09f67"
+      },
+      "localized": {
+        "bytes": 586096,
+        "sha256": "fbf7b888d4da03c1e2fa6ad5a657bfdb733919c7f980b39dcac66a2752719cae"
+      },
+      "delta": {
+        "bytes": 75948,
+        "sha256": "ae58fedfbb5afc33efbb720081481f31ea2f75271113319b745b161e868e6afc"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0068a.cpk",
+      "patch": "patches/release/vita3k/main/STG0068a_cpk.xdelta",
+      "source": {
+        "bytes": 16032,
+        "sha256": "5702a421ed51365979847294f66d9e1593ba1bedd631932c038340f53cbc1bf2"
+      },
+      "localized": {
+        "bytes": 60912,
+        "sha256": "650d9db77ed21c36cb8d14b382bf8040a1995130c0785e347d6c573e8bc2ff2c"
+      },
+      "delta": {
+        "bytes": 11144,
+        "sha256": "a8953fdc8dec60ba93d63d6b47c27cc9e383b89d49f861da03d544aca553a541"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0068b.cpk",
+      "patch": "patches/release/vita3k/main/STG0068b_cpk.xdelta",
+      "source": {
+        "bytes": 94816,
+        "sha256": "5aebb1afe6e425569846b8dc8755b9e7fb080a495bb116974ff77781c5dfe09e"
+      },
+      "localized": {
+        "bytes": 776960,
+        "sha256": "b618da1ac7150f2ca4fc3ac02ddb3453010cdbbeffe9abdefc37a67f50762e1a"
+      },
+      "delta": {
+        "bytes": 73223,
+        "sha256": "9cfcc4a84f70d3cad9d283afe09363ba03587045a16736d3a56de6aec8b7cfbb"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0069.cpk",
+      "patch": "patches/release/vita3k/main/STG0069_cpk.xdelta",
+      "source": {
+        "bytes": 76276,
+        "sha256": "cd1a3eb76c6e6a7672152e112f53216079f1cb531e8203ffed4ee15c5d686e4c"
+      },
+      "localized": {
+        "bytes": 549304,
+        "sha256": "0ecfc753328ae51883c4b9465c92f9b37895445efb1fcdd673578def3fd77484"
+      },
+      "delta": {
+        "bytes": 57076,
+        "sha256": "2bc3cbfc586608022dfc42f514d1dbcff2fc38678e00c6c2d12fa4b271a1ef22"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0070.cpk",
+      "patch": "patches/release/vita3k/main/STG0070_cpk.xdelta",
+      "source": {
+        "bytes": 65988,
+        "sha256": "a7dc611d5f0679b461b1fcdfe5e3dc5b5ba9d9ac1dd6f25886ce23032fb825b9"
+      },
+      "localized": {
+        "bytes": 392952,
+        "sha256": "eef7f8ac27bbdb314cec6b7a7a987ed8bb11de670ec674ae29c21cc4dd491018"
+      },
+      "delta": {
+        "bytes": 50983,
+        "sha256": "5c9e535ac1703dd8665e489f3f3972660e5c0115eba4bfe63af48778a9bb6b28"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0071.cpk",
+      "patch": "patches/release/vita3k/main/STG0071_cpk.xdelta",
+      "source": {
+        "bytes": 59684,
+        "sha256": "8cc349095a033430be949567be5f62cc8803303755da75a12b01e91a121af31d"
+      },
+      "localized": {
+        "bytes": 388088,
+        "sha256": "f252f4d8e8779d382a72ca22da48a701b55494909fa70cc6dba6ae2da5bddad9"
+      },
+      "delta": {
+        "bytes": 46791,
+        "sha256": "d5d8872e12a37881f9eb73b1ba4180e7b71e3228b7913db39cf3defdad883f01"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0072.cpk",
+      "patch": "patches/release/vita3k/main/STG0072_cpk.xdelta",
+      "source": {
+        "bytes": 60420,
+        "sha256": "c7cefe45fb6ecbc69bfc35df8cdf4c8c37f361366cce53f6a52cd5a48f01117c"
+      },
+      "localized": {
+        "bytes": 562728,
+        "sha256": "8507fca045a14cafd7e5da077d51a10920d363452661a4d3f49ce3fc918daf8a"
+      },
+      "delta": {
+        "bytes": 45665,
+        "sha256": "726c75af46c0b4ec63d866fa7e9754c1dd9bd8575fe12e8392af7854ceca9dea"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0073.cpk",
+      "patch": "patches/release/vita3k/main/STG0073_cpk.xdelta",
+      "source": {
+        "bytes": 56724,
+        "sha256": "ed6e73a6a6aae2218339f1e51e11290ae48f26fe2b09a1b57a2c763f7c323a2e"
+      },
+      "localized": {
+        "bytes": 550584,
+        "sha256": "7144505101296b69acbe992dca30fc70ceed057c51d8185a47a4d1a5f16f211d"
+      },
+      "delta": {
+        "bytes": 42113,
+        "sha256": "362c88616390ab18ac2c36e763a4ff59945371defd94001afd7a825d128ac6d0"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0074.cpk",
+      "patch": "patches/release/vita3k/main/STG0074_cpk.xdelta",
+      "source": {
+        "bytes": 62676,
+        "sha256": "1fe8eb7896b697482865a48dab74d6dc294ae7aac054153b42497adf606abc63"
+      },
+      "localized": {
+        "bytes": 448728,
+        "sha256": "5245eb2b83799dc39b961ead9e60e6e554f16d063b24d291f61e4eed15cfa8f5"
+      },
+      "delta": {
+        "bytes": 48440,
+        "sha256": "85ec604201307ec15b1d355cf4f89233c96f31775bc56209c45920bdce690db1"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0075.cpk",
+      "patch": "patches/release/vita3k/main/STG0075_cpk.xdelta",
+      "source": {
+        "bytes": 65236,
+        "sha256": "99e89b5ebdd1523eb214147dac156143c98ca3d256f754f3308e200895a7a98d"
+      },
+      "localized": {
+        "bytes": 528872,
+        "sha256": "2769da2621dab4c7d69aa24d6dcc30b5e195eba12c6fe674d823bb19cc9c5c03"
+      },
+      "delta": {
+        "bytes": 50483,
+        "sha256": "d15f90443ffc27b97bf6274fc2200ebdb08c75739a07baf4cd1b3d73483ec042"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0076.cpk",
+      "patch": "patches/release/vita3k/main/STG0076_cpk.xdelta",
+      "source": {
+        "bytes": 51616,
+        "sha256": "13b95f591fb4cadd8302eca49bc9e623312c47224f28ebe0285e7afe1aa7e13c"
+      },
+      "localized": {
+        "bytes": 406840,
+        "sha256": "dc32e457a280b294e8d28ea1883deb49e0e2869eef78445b8838dcde72058d93"
+      },
+      "delta": {
+        "bytes": 39718,
+        "sha256": "d4ab84618d1aa2497a13968d7a471a60189991a07173b6a816fc39800c69d654"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0077.cpk",
+      "patch": "patches/release/vita3k/main/STG0077_cpk.xdelta",
+      "source": {
+        "bytes": 84676,
+        "sha256": "a9b5ca02f4ca8a07314f378169d6ebc89b41f0fd86a07665863e22d4e385e196"
+      },
+      "localized": {
+        "bytes": 785048,
+        "sha256": "c0ecba656e6be3ea3340606f7107cd72361346243bc871bc7591c12290a3d444"
+      },
+      "delta": {
+        "bytes": 65361,
+        "sha256": "deaec375af37b2842f7eadfbc34cb47b42caecc767cf8c53a4defbbb640797fa"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0078.cpk",
+      "patch": "patches/release/vita3k/main/STG0078_cpk.xdelta",
+      "source": {
+        "bytes": 65220,
+        "sha256": "2fc4ec03b13478661b2c932d9a3f81a9ff9627b894d598117ef0030bca4092a8"
+      },
+      "localized": {
+        "bytes": 691960,
+        "sha256": "583c7d208bc98e4a8d92769964704feec2bbf8560cb85d3e6dff4a05ae4c4394"
+      },
+      "delta": {
+        "bytes": 47539,
+        "sha256": "33dc73277909f6b51fc81b5cc6203adf07b442179f050ae6cefc303fde42fdb9"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0079.cpk",
+      "patch": "patches/release/vita3k/main/STG0079_cpk.xdelta",
+      "source": {
+        "bytes": 54524,
+        "sha256": "1845626037e5e47fe99a3861b14ede4306e66016032c2ccae91636d5fe66c6f9"
+      },
+      "localized": {
+        "bytes": 418584,
+        "sha256": "39c69b077d285fa5d3aef1ddaeab9485b0e948df6d5c1c228a9370f2e30afaec"
+      },
+      "delta": {
+        "bytes": 42187,
+        "sha256": "ae1abad7c11a23d0110232db80f92017882527db7046571737019ebe2934801e"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0080.cpk",
+      "patch": "patches/release/vita3k/main/STG0080_cpk.xdelta",
+      "source": {
+        "bytes": 63660,
+        "sha256": "98b6da05d2fb200a763f5045eeb2593ffa7bf6fa7bddd55ff7c9a333100290ef"
+      },
+      "localized": {
+        "bytes": 584392,
+        "sha256": "cc7c723649f7f65f8e70494fae73d94eb2828a0b28799b1f32ddbf67b43cc87d"
+      },
+      "delta": {
+        "bytes": 48438,
+        "sha256": "4aad00f05be68a711e5744cd424cf0cb2774d4fe9480bf694d90f91e708fefd1"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0081.cpk",
+      "patch": "patches/release/vita3k/main/STG0081_cpk.xdelta",
+      "source": {
+        "bytes": 56828,
+        "sha256": "88d4310ccd7cc0076d7886e0254b3b652864e8482c10cc606c19c3b5e7f16463"
+      },
+      "localized": {
+        "bytes": 464008,
+        "sha256": "7132c04ac917ecde720e183f07c2ac89f9a06a56dcfca92c3fa6ddd68ae88d08"
+      },
+      "delta": {
+        "bytes": 42955,
+        "sha256": "0ca03647bfcd643eb49223fc1b910a5d97c8f35bf5b1e2a964e0037fa6d16824"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0082.cpk",
+      "patch": "patches/release/vita3k/main/STG0082_cpk.xdelta",
+      "source": {
+        "bytes": 60400,
+        "sha256": "f9750dbea640594f91a97647f082b8ef7c0a438ba97a9757471030f73e31f61c"
+      },
+      "localized": {
+        "bytes": 544408,
+        "sha256": "d517b8071d85b7af8dac5575fb2ca9c3dba0dd886fd46c70df4d93965b78d510"
+      },
+      "delta": {
+        "bytes": 45540,
+        "sha256": "87f2b8e77c898efd8ea3763be1dae52c1b5b4331ffcd6068798fd5b81eb0c26e"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0083.cpk",
+      "patch": "patches/release/vita3k/main/STG0083_cpk.xdelta",
+      "source": {
+        "bytes": 94768,
+        "sha256": "3ef736da5117ffe2002183bc5c15864104ee7a3d7f5dec26f31ca2b010b1e395"
+      },
+      "localized": {
+        "bytes": 715328,
+        "sha256": "c5b1d3fea309f6e0b5473f20c3eceb9206a22864109a01317c4d318bcd066471"
+      },
+      "delta": {
+        "bytes": 74952,
+        "sha256": "5ad225cbe15dbdb6fd896e28fd827f5d1f5b0b0037945ea8cbc03056202ecd9d"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0084.cpk",
+      "patch": "patches/release/vita3k/main/STG0084_cpk.xdelta",
+      "source": {
+        "bytes": 65528,
+        "sha256": "3d0f58156f053811e3b25e8d0712326e7163227381fc9f8c5eb3b869a8da8748"
+      },
+      "localized": {
+        "bytes": 510088,
+        "sha256": "a0928aa8f14c1afa43770eeba63acf2d6f4db2c755518ef918b974a762f04b6a"
+      },
+      "delta": {
+        "bytes": 50870,
+        "sha256": "a0d2afb895d094c7bed88eb02527a932b2af1d5767a1fe6a1ea6c95b88e48b2c"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0085a.cpk",
+      "patch": "patches/release/vita3k/main/STG0085a_cpk.xdelta",
+      "source": {
+        "bytes": 34560,
+        "sha256": "03d9820c2c657432e30bcd5e6bd4202b379bbbd5d2d450dda5a5af10595d2fd8"
+      },
+      "localized": {
+        "bytes": 226088,
+        "sha256": "f817b160b20daee75f08b70ae59b85cfee98a3438d61c606cbad7635383822d4"
+      },
+      "delta": {
+        "bytes": 25319,
+        "sha256": "2f925069ff9b1ab67d418264eb399104593d8d169b0282fc3627e37132dffd87"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0085b.cpk",
+      "patch": "patches/release/vita3k/main/STG0085b_cpk.xdelta",
+      "source": {
+        "bytes": 57984,
+        "sha256": "6c6365da4f30640a4a4c4c81ad4d05ba9279bbbc650781d54cba18dc1ffd66e9"
+      },
+      "localized": {
+        "bytes": 551528,
+        "sha256": "85be59d377c3c3a54e0c8a8bfb2f0f5d518ce247fe18f9a7ee990ec8399e3053"
+      },
+      "delta": {
+        "bytes": 44548,
+        "sha256": "e9552c18f86011be3439e3232709f5d5381bc9ea51fd7eae5cd8081e80d3b51c"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0086.cpk",
+      "patch": "patches/release/vita3k/main/STG0086_cpk.xdelta",
+      "source": {
+        "bytes": 91428,
+        "sha256": "82e380ce21aabce3411bab257be44d2201835684868950170f646dcfd0c78289"
+      },
+      "localized": {
+        "bytes": 794096,
+        "sha256": "4c8f616fd88d94fd5f9da9e096c915a17183695ed2185ee869079c66dabc2500"
+      },
+      "delta": {
+        "bytes": 70812,
+        "sha256": "d78bddcc6c7e61fb2600ff66de324a31ab3e6506868a54a16790137f9ccbea77"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0087.cpk",
+      "patch": "patches/release/vita3k/main/STG0087_cpk.xdelta",
+      "source": {
+        "bytes": 78204,
+        "sha256": "899d1361b5c75fe2a35248f22492c84c0802b99330fd593070ad4efaefd52715"
+      },
+      "localized": {
+        "bytes": 837408,
+        "sha256": "c39527fe5c78df6e52c30f8bf50183ea6c7443aaddf7ad071afe29bbdaca2f29"
+      },
+      "delta": {
+        "bytes": 59967,
+        "sha256": "1d4fd48085ded9525246dbbe0c0ffce9327a09d8379a123994e6f0fa6e20f0e7"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0088a.cpk",
+      "patch": "patches/release/vita3k/main/STG0088a_cpk.xdelta",
+      "source": {
+        "bytes": 68460,
+        "sha256": "c0d6dc53f041079b7bfc908b9735c682ce696874530d38a226c5fe736eb11b6c"
+      },
+      "localized": {
+        "bytes": 555424,
+        "sha256": "a8d247a5b92970e3c408d7cd3cc3545f0ddbc6b02a06e3d2afef14db294053cf"
+      },
+      "delta": {
+        "bytes": 51599,
+        "sha256": "0d5f76f0550b5c70309923decdc909a1a784e95a743ab9493736aacbfaf10707"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0088b.cpk",
+      "patch": "patches/release/vita3k/main/STG0088b_cpk.xdelta",
+      "source": {
+        "bytes": 21676,
+        "sha256": "c6cda64d073f138fb32854891630a8826bea1e0eba27242f3242691d11b273d6"
+      },
+      "localized": {
+        "bytes": 78752,
+        "sha256": "3de1c48f20446a9b2f520979cbf828bf0a5b4c8365ce8f6fb25cc13666e823c2"
+      },
+      "delta": {
+        "bytes": 14771,
+        "sha256": "4e04fde9c0fb4995af027b46c70c8a3bc520cfc0140f80ce4433f29e3b36eea1"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0089a.cpk",
+      "patch": "patches/release/vita3k/main/STG0089a_cpk.xdelta",
+      "source": {
+        "bytes": 25048,
+        "sha256": "96f05119e500f559ed322c055c1741538cf845a7c2b8bda574598047258cd4e9"
+      },
+      "localized": {
+        "bytes": 91392,
+        "sha256": "8fe9ed0040cfde86c7eff4fb498347f96f1bf3123276b7011e3b6e13dffc43a5"
+      },
+      "delta": {
+        "bytes": 18010,
+        "sha256": "feab90e341bf82f37f2278643377835e38ed46c3e64c8dc1eb2b6efd0d0ac9b3"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0089b.cpk",
+      "patch": "patches/release/vita3k/main/STG0089b_cpk.xdelta",
+      "source": {
+        "bytes": 83912,
+        "sha256": "da10e4726465d70181fd142738a05c9eaa15956a55bbf562abc9f00f7f3bec00"
+      },
+      "localized": {
+        "bytes": 1043944,
+        "sha256": "20077acbbeebd0687903e40b8ec3ca1d190c356fbb4a226cf378a8cdce37cadd"
+      },
+      "delta": {
+        "bytes": 61806,
+        "sha256": "b05d9bad815615bbb8358b2318e730eab62aae16aa836b3e0f3286ed232e4814"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0090.cpk",
+      "patch": "patches/release/vita3k/main/STG0090_cpk.xdelta",
+      "source": {
+        "bytes": 58376,
+        "sha256": "675aaa81d1addf1cbed611eabada0c527a3ed6469a245d051e5d1e32de7189c5"
+      },
+      "localized": {
+        "bytes": 606072,
+        "sha256": "7e0a813a96d44d15a4b8f0d288365b38c5621bed249c2554abed480da288a98e"
+      },
+      "delta": {
+        "bytes": 43843,
+        "sha256": "f045dfb5e4052e3e4d47f9670f8dd229c05b75a0008a6ceee3ae60b95848827a"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0091.cpk",
+      "patch": "patches/release/vita3k/main/STG0091_cpk.xdelta",
+      "source": {
+        "bytes": 68156,
+        "sha256": "6d352abb187a67c746be9c46a4f0ab3ba083e7dc5d2c764d0a827c45e3b5d776"
+      },
+      "localized": {
+        "bytes": 687944,
+        "sha256": "ee7163a1225f362f8c0a7de4ddc7b9d7c4b50fbbed3d8728031daac37b320a27"
+      },
+      "delta": {
+        "bytes": 52062,
+        "sha256": "4efe4f9317d07f90d13439a58b26dc824dc5da3b8c0ecd6ae72503dae4578dd4"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0092.cpk",
+      "patch": "patches/release/vita3k/main/STG0092_cpk.xdelta",
+      "source": {
+        "bytes": 83356,
+        "sha256": "30fd1c0b76cb6ab534aa3d00b8079fd7395fd3c19e3e552d6eeddfe8ca99469f"
+      },
+      "localized": {
+        "bytes": 742480,
+        "sha256": "8645e03fcc1720017b9b4ac85ac7955e88c053e89336a05938c8f3f8d8a7640f"
+      },
+      "delta": {
+        "bytes": 63475,
+        "sha256": "999f9be7ce42d9ba8e6cd0daa0b5074aa3afd2c06012336ad10220cd202601e0"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0093a.cpk",
+      "patch": "patches/release/vita3k/main/STG0093a_cpk.xdelta",
+      "source": {
+        "bytes": 106004,
+        "sha256": "84e36fb6b69b6a107bc7608ffcc9a6bf5a9bf486a65bd63b78470530c7ee60d2"
+      },
+      "localized": {
+        "bytes": 950304,
+        "sha256": "f8e30c67c796cacc763e1453e9c43f6b89cd4ec33cb1eaddc477da57c166b390"
+      },
+      "delta": {
+        "bytes": 83881,
+        "sha256": "280110688529c3754b5a96c4848c0d6ef4e6ff7ff063278183738900b1566f5b"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0093b.cpk",
+      "patch": "patches/release/vita3k/main/STG0093b_cpk.xdelta",
+      "source": {
+        "bytes": 25012,
+        "sha256": "c9e1f3504e244ad5f7ded3eefb66958a81524f005c99046763caf3fbf9414bf8"
+      },
+      "localized": {
+        "bytes": 89456,
+        "sha256": "dcf3299aca6a358c1817b386e3ecc7c8670872ebaea8c2cd5399c2fa9b4bf7c8"
+      },
+      "delta": {
+        "bytes": 17937,
+        "sha256": "2492e4a8fc71f6a15e48a8237c1b6ad389f9c4308fa01e3dc9b81ae8dd413461"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0094.cpk",
+      "patch": "patches/release/vita3k/main/STG0094_cpk.xdelta",
+      "source": {
+        "bytes": 64084,
+        "sha256": "0cd4db14f1c1f8f99d6c0a4a19e98035015c11942e7afdf9e26b155615613569"
+      },
+      "localized": {
+        "bytes": 516328,
+        "sha256": "45d8fe7c0ea13468faf95f5eb573dee1fc3619e20f1383c6b1834666f6c46bce"
+      },
+      "delta": {
+        "bytes": 48927,
+        "sha256": "09a9de7aa5c9cf91e027ef849f360d51412aaa1495a60126005bfbb2c1e024f7"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0095.cpk",
+      "patch": "patches/release/vita3k/main/STG0095_cpk.xdelta",
+      "source": {
+        "bytes": 65180,
+        "sha256": "80434ff4718f8ff74f66133577a78143c053793d18d0cec1882b1f98ca904f36"
+      },
+      "localized": {
+        "bytes": 593480,
+        "sha256": "02af801783983e8af9f1b72c65a623af7e0c577e5708847367b49ea9799e8f7d"
+      },
+      "delta": {
+        "bytes": 49502,
+        "sha256": "cf22cb19abe23776c1bbe2cf8cbce432814a78df256f381da6af61c94b84cb6c"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0096.cpk",
+      "patch": "patches/release/vita3k/main/STG0096_cpk.xdelta",
+      "source": {
+        "bytes": 88860,
+        "sha256": "bb5918531b0e1a56152d88b2d9775dd3585edccea22f6c9d35544f586b524925"
+      },
+      "localized": {
+        "bytes": 737136,
+        "sha256": "c8468573d89fd8a5039f44715ae6aa74c539f334b51215eb96a71b2d3ed3990c"
+      },
+      "delta": {
+        "bytes": 70080,
+        "sha256": "fcc5b1dbcf294c33f5f81ced4aba0b7a54e9273396b02942a07701db07c9bfd5"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0097.cpk",
+      "patch": "patches/release/vita3k/main/STG0097_cpk.xdelta",
+      "source": {
+        "bytes": 100492,
+        "sha256": "5503e03a3f26bcfd30ace8c112da1d70a3d77509f45bff8bc9e990c02119ec4a"
+      },
+      "localized": {
+        "bytes": 947488,
+        "sha256": "458a28fac97090f6c084598b44c79e3c93891fb18fd3e3e0a30b3f6b85748fb7"
+      },
+      "delta": {
+        "bytes": 77767,
+        "sha256": "8bf8b279cb75ab19eabcd0b3e3cb59e94528c841aa5910610456c0de2dd3c2e4"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0098a.cpk",
+      "patch": "patches/release/vita3k/main/STG0098a_cpk.xdelta",
+      "source": {
+        "bytes": 50172,
+        "sha256": "7b2432461ca4b6c48ed93c0398f885d760b9177808d44f51205b2a006f7b4717"
+      },
+      "localized": {
+        "bytes": 194816,
+        "sha256": "2b19119aa5505018ee8db79a7c1c2c34ca7d014f1881f494abd090f74d67bd50"
+      },
+      "delta": {
+        "bytes": 40216,
+        "sha256": "2a0d6677e47ab0828eecdfea554c0172250cc9f2199c9baa567c7c6d22bb005f"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0098b.cpk",
+      "patch": "patches/release/vita3k/main/STG0098b_cpk.xdelta",
+      "source": {
+        "bytes": 69684,
+        "sha256": "df5a0d1487042931f1441be4918742e2a8db33ab9e84002cdb8b69728641a212"
+      },
+      "localized": {
+        "bytes": 1028920,
+        "sha256": "783b2d8c6a2beacacf15a76e0b604d7f26863039afee3d659291328a60521bcf"
+      },
+      "delta": {
+        "bytes": 47871,
+        "sha256": "1e023828258bb2a6d8ca12ad31b0e9bc73447bc53ced1bc32420d7f31206cb9f"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0099.cpk",
+      "patch": "patches/release/vita3k/main/STG0099_cpk.xdelta",
+      "source": {
+        "bytes": 82724,
+        "sha256": "e22efd1fbae874c20a66f216fd0b912cfa6dead11a5927a7d7c9f98a9eff3231"
+      },
+      "localized": {
+        "bytes": 740272,
+        "sha256": "fb6ba781dd57d25c5199c0b566365530b834c92513f1aced593014c6cc3602f0"
+      },
+      "delta": {
+        "bytes": 64060,
+        "sha256": "49573293829494e5cc2528a609a1a47e295a1b8662ad3c6ceeb8bc00c616f4c3"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0100a.cpk",
+      "patch": "patches/release/vita3k/main/STG0100a_cpk.xdelta",
+      "source": {
+        "bytes": 60428,
+        "sha256": "f141f77483ca33fcf9d1ff71bfa775614daeaf9f72782cec20864a8db740dd71"
+      },
+      "localized": {
+        "bytes": 414112,
+        "sha256": "e6b81023d37536612690e8058facfb6184decf3df50858790049281334d27188"
+      },
+      "delta": {
+        "bytes": 46258,
+        "sha256": "36b35fe0942520e081e03d839922c5dd75bf37f2d28d2496f6b4b69beb27839f"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0100b.cpk",
+      "patch": "patches/release/vita3k/main/STG0100b_cpk.xdelta",
+      "source": {
+        "bytes": 25776,
+        "sha256": "fdb67dc73dc85a7754664cc2e628f32b9327790affa2f7aa7fbe482031896980"
+      },
+      "localized": {
+        "bytes": 188456,
+        "sha256": "449a1385c7fb536e376eb17e68f38e7c406bd9df6950c8b28ca5f758a999e4c3"
+      },
+      "delta": {
+        "bytes": 15957,
+        "sha256": "20606695f84507cbbaf8b1576cdd97c2fb6313d4f9a81ba16a4ff0369e16882c"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0200.cpk",
+      "patch": "patches/release/vita3k/main/STG0200_cpk.xdelta",
+      "source": {
+        "bytes": 12872,
+        "sha256": "aeb744a6ff3f4d13eb9cb2195a3499e73ea5c7533856b13ee304d822a0a6d486"
+      },
+      "localized": {
+        "bytes": 37912,
+        "sha256": "fb53ded6132087364aeb6475f126844800bc689e7f179b67efd38c98d34dc5b2"
+      },
+      "delta": {
+        "bytes": 8862,
+        "sha256": "5001e4df6e3a2cb229ae342b1ab6bd46d147460827350a556588dfa6ee889c5c"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0201.cpk",
+      "patch": "patches/release/vita3k/main/STG0201_cpk.xdelta",
+      "source": {
+        "bytes": 9480,
+        "sha256": "540587075b3fc7d94ad8e01abd2097859da543dd8d05aa61bed060a548be2e05"
+      },
+      "localized": {
+        "bytes": 25248,
+        "sha256": "8f5c8142465f847b962e88c1e80cec3c9f9ee345134b226e8cfda0c80e84f269"
+      },
+      "delta": {
+        "bytes": 5371,
+        "sha256": "81e7586ce6a0f107b7bb2322fbe3af8f6cc207d17f0553870c1acac81315a3f2"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0202.cpk",
+      "patch": "patches/release/vita3k/main/STG0202_cpk.xdelta",
+      "source": {
+        "bytes": 9480,
+        "sha256": "b5838d81a286cdda055ce3b994f73028033fd0e57d9367482358d192af492929"
+      },
+      "localized": {
+        "bytes": 25248,
+        "sha256": "9342bf289aaf2a1d7ab35cfdbec249181c91cca0cf839b4c622d6d161a55fce2"
+      },
+      "delta": {
+        "bytes": 5396,
+        "sha256": "0a894b481c133978af64658495a45f82adb4862ea5cad43c7476eb26fd8e8646"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0210.cpk",
+      "patch": "patches/release/vita3k/main/STG0210_cpk.xdelta",
+      "source": {
+        "bytes": 14232,
+        "sha256": "db4a53ecd8d6c51511f8689828ba63d3608ce8d1850b7665eafb0230cb99a8d8"
+      },
+      "localized": {
+        "bytes": 45712,
+        "sha256": "4d090c8697ac69ba5e765cbb683584dd686e41968c425ace12ce85add5e3c8d0"
+      },
+      "delta": {
+        "bytes": 10447,
+        "sha256": "1fd565b4e6ab88cd909999d00d4ea34a4f19dfd53b6ba069e5b79353d78d9828"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0211.cpk",
+      "patch": "patches/release/vita3k/main/STG0211_cpk.xdelta",
+      "source": {
+        "bytes": 9688,
+        "sha256": "5ad045aa33d7b39fb3ca6afb42eb636562e832c84ff2b73fda735e219d14aab6"
+      },
+      "localized": {
+        "bytes": 26672,
+        "sha256": "574088de09889fe8bd28fc9746b442f7c8f107d94d680f31fb32afcae1b8afaa"
+      },
+      "delta": {
+        "bytes": 5585,
+        "sha256": "e44d5b91e474a61b0037987107adb83bcd550eb32dc34e83bef0b39c68092016"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0212.cpk",
+      "patch": "patches/release/vita3k/main/STG0212_cpk.xdelta",
+      "source": {
+        "bytes": 9688,
+        "sha256": "0c194b4080ce6faaf594d71989768a37b9bc5229b01a3cc30913c2c360a7a1d3"
+      },
+      "localized": {
+        "bytes": 26704,
+        "sha256": "017a2b3a5f0e797fb7eb99491562441a3bc4e57a0782d3eabeff046d28579e5c"
+      },
+      "delta": {
+        "bytes": 5604,
+        "sha256": "42916d37d72946b757c039877cf5b8f8359b6ba3aa2b6c60d19d25cd1a1323cc"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0220.cpk",
+      "patch": "patches/release/vita3k/main/STG0220_cpk.xdelta",
+      "source": {
+        "bytes": 19144,
+        "sha256": "580dcb555cb56a17155e4e739bdc62a8ebc91cf04b1913b8972f429cc01a85e0"
+      },
+      "localized": {
+        "bytes": 80944,
+        "sha256": "f48e9079b8e9e03a90ea769e9241f4d0f9a970119bd7d1717a2d79d4a99311bd"
+      },
+      "delta": {
+        "bytes": 14607,
+        "sha256": "81ceebda695c0de81c8d03fac49a179eaa3ed13728e6c8091ce80244108bb126"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0221.cpk",
+      "patch": "patches/release/vita3k/main/STG0221_cpk.xdelta",
+      "source": {
+        "bytes": 14200,
+        "sha256": "8607da2cc6c7e7b7477333109dfb25ce44edd5edb9e1d5a0fa2a1c18024d67b0"
+      },
+      "localized": {
+        "bytes": 82816,
+        "sha256": "2e0919ad4b4bbfb170aa163aef6e612ed2f0aea7d28911ce620e1f06472cd1e5"
+      },
+      "delta": {
+        "bytes": 8419,
+        "sha256": "dc412be7da163256c64cbfd8ab23ff35c7a57abb6f2304601dda7877e469952e"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0222.cpk",
+      "patch": "patches/release/vita3k/main/STG0222_cpk.xdelta",
+      "source": {
+        "bytes": 11352,
+        "sha256": "5a042d19c09b3b44f0b745d1cc83d4039c6ff803b1a570e6e1b412e9d9b08c31"
+      },
+      "localized": {
+        "bytes": 44448,
+        "sha256": "ae573f6d94484f5b2c24160c3623266c65d3a3545edbb17670fba4616e4fbca8"
+      },
+      "delta": {
+        "bytes": 7195,
+        "sha256": "18712fe74b18d5cbeaa2f1262255c8f4a43675646312d272c1805b8d566e1538"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0223.cpk",
+      "patch": "patches/release/vita3k/main/STG0223_cpk.xdelta",
+      "source": {
+        "bytes": 11880,
+        "sha256": "eb5da14d049eefd8adf9e70407b901049d1a7658013f3b9674bb7b36ff7b1ad9"
+      },
+      "localized": {
+        "bytes": 50624,
+        "sha256": "13939baf5b9d2b6a7f64c6f42546cd7f36c7b13de0a40d600815ba02f2ab0bea"
+      },
+      "delta": {
+        "bytes": 7746,
+        "sha256": "f029e0d21fc3bc0d06ed721b4ce64715ece436a2a864e9670b7b01a5d3bb1191"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0230.cpk",
+      "patch": "patches/release/vita3k/main/STG0230_cpk.xdelta",
+      "source": {
+        "bytes": 17416,
+        "sha256": "559f23642cdabe7651cd7a15302acffcaa3469edca8218a2a045ac3cd6d52d1b"
+      },
+      "localized": {
+        "bytes": 53232,
+        "sha256": "4436229e20aedf61c6b8b55437a8fe7a2337e46091a59261f255a948ae338f6f"
+      },
+      "delta": {
+        "bytes": 13418,
+        "sha256": "fd673f5e7c9a7c7185c05cfd46395a70a3cb8b77078d39035301e70648bbe4db"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0231.cpk",
+      "patch": "patches/release/vita3k/main/STG0231_cpk.xdelta",
+      "source": {
+        "bytes": 9752,
+        "sha256": "2a114c4cb70cecbbc13e703ed2a09b6a9ab7f3e1bd08126e9982f67ca1ab920b"
+      },
+      "localized": {
+        "bytes": 28128,
+        "sha256": "5744632df4e6063e847c51015e7c159ec72eab988fcd077ada0020a4f62e4f72"
+      },
+      "delta": {
+        "bytes": 5668,
+        "sha256": "bcd7e6389c33b26ee5829d66c3c6f67fb395d1d180a0e4791bc57168353d2d80"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0232.cpk",
+      "patch": "patches/release/vita3k/main/STG0232_cpk.xdelta",
+      "source": {
+        "bytes": 9752,
+        "sha256": "64c59f8cf21fc19b286276377af240f73af99a99e3e83a32c77d03b7c7c3b1e3"
+      },
+      "localized": {
+        "bytes": 28128,
+        "sha256": "cdd303cf778ad47badaa35dd30b0cddea856c24f4f79e8bf9de89913443e762c"
+      },
+      "delta": {
+        "bytes": 5674,
+        "sha256": "1373db244cf723066bf15ad28b408ebfce1c54d941c3c7ec1c8e7895f53f5996"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0240.cpk",
+      "patch": "patches/release/vita3k/main/STG0240_cpk.xdelta",
+      "source": {
+        "bytes": 13528,
+        "sha256": "7742fc3a4cb3ab19391a947b191c41d831279f920ce1142cc1ada4f017a6dbe0"
+      },
+      "localized": {
+        "bytes": 41184,
+        "sha256": "4be45a8826b242943b30df0037dc3614ae20e2b343190e4c2dea719f5d2e2b1a"
+      },
+      "delta": {
+        "bytes": 9520,
+        "sha256": "54a92b444659d4f957859e97cf136cfb217744e9472a241a93fac52869e1e088"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0241.cpk",
+      "patch": "patches/release/vita3k/main/STG0241_cpk.xdelta",
+      "source": {
+        "bytes": 10296,
+        "sha256": "1de75cb08b0716275fd6460139e550aaaac80323377b10dc11f67297954babda"
+      },
+      "localized": {
+        "bytes": 35232,
+        "sha256": "084dd01e34fdecaad69885c65b0e658771dd5ad0539da8f451071e3194c69831"
+      },
+      "delta": {
+        "bytes": 6117,
+        "sha256": "468c1426ac673ab911a4973e4847eb124f11706d1fdc0bfda8caf38374645466"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0242.cpk",
+      "patch": "patches/release/vita3k/main/STG0242_cpk.xdelta",
+      "source": {
+        "bytes": 9480,
+        "sha256": "b39514b7e7b9a7283277dd7c31100012b7b62bf7f7895f1d28a479510b97bebb"
+      },
+      "localized": {
+        "bytes": 25952,
+        "sha256": "b03294c3042236812473c2408e00353ee1e9a85bbe2c351c1339636f295b4eee"
+      },
+      "delta": {
+        "bytes": 5387,
+        "sha256": "80346584c5b1c5d1baea5c3bd0d427ab3b98278178bcbf1ae3554d79b89d067b"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0250.cpk",
+      "patch": "patches/release/vita3k/main/STG0250_cpk.xdelta",
+      "source": {
+        "bytes": 23032,
+        "sha256": "c45d5fbef5db0b45da67bf00c688e4812e53e950fa23ddc543eddcbb9fd4191a"
+      },
+      "localized": {
+        "bytes": 138760,
+        "sha256": "76197e2a4b684f0eefefe9f08b5a32349823773d0836103419be04bde076b581"
+      },
+      "delta": {
+        "bytes": 18227,
+        "sha256": "eeb915b33e0e1655c5796e8b4c4e038d3999946f1dccd9d27954720fdb8d429a"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0251.cpk",
+      "patch": "patches/release/vita3k/main/STG0251_cpk.xdelta",
+      "source": {
+        "bytes": 23032,
+        "sha256": "a736625972d648cb4dba6645bdad0a0059f95e81cd65b6215c4267acf713679e"
+      },
+      "localized": {
+        "bytes": 192120,
+        "sha256": "63e6bed5d5a8e1b6a00bd6b19531b1efdb811a154f002541e4a0ada065d98a36"
+      },
+      "delta": {
+        "bytes": 14380,
+        "sha256": "470c27c38c0643d4eb4bbf292b2026f991b64fe8ea937f5ae921412a640d82e9"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0252.cpk",
+      "patch": "patches/release/vita3k/main/STG0252_cpk.xdelta",
+      "source": {
+        "bytes": 15416,
+        "sha256": "904da7e1df0200f88f2eb7009c872e89cf78ab43c44ffc2e2130070a54d0863b"
+      },
+      "localized": {
+        "bytes": 87232,
+        "sha256": "1503db9d0be80ac6a3c9e9e878bd7c2f195974a1350ae9967c5d8d96e2407cbc"
+      },
+      "delta": {
+        "bytes": 10965,
+        "sha256": "deec0844674fb8c99bb2bf35e417f29cb6571a4f9533e6a7d866a92d07fd0ec5"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0253.cpk",
+      "patch": "patches/release/vita3k/main/STG0253_cpk.xdelta",
+      "source": {
+        "bytes": 16280,
+        "sha256": "bb14e5586c864958e31f74906a96416287de432c82adabd438ccbca99971e434"
+      },
+      "localized": {
+        "bytes": 97576,
+        "sha256": "67fbf6a4a886e0d3a746026f0d6d8686b3aae339727b52f3ca3663d35d867f79"
+      },
+      "delta": {
+        "bytes": 11758,
+        "sha256": "143f27b0f0ff4b574a57e5a42491c23b8425a7857e9fe9b381f333d614510008"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0260.cpk",
+      "patch": "patches/release/vita3k/main/STG0260_cpk.xdelta",
+      "source": {
+        "bytes": 11752,
+        "sha256": "b22972f8681b458cdec09b17e5e329404509347fb70cb5a23eb2579e1284ef7a"
+      },
+      "localized": {
+        "bytes": 33504,
+        "sha256": "20cab99ac0ae84971648ef89eb35a22ba481e72dbdbe1ff6f6ee0d59f0f6b196"
+      },
+      "delta": {
+        "bytes": 7756,
+        "sha256": "7bc7f3e6a2b6b96faec13ee63a36cffb13289eac60bfb0aaf18750daacd54c2f"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0261.cpk",
+      "patch": "patches/release/vita3k/main/STG0261_cpk.xdelta",
+      "source": {
+        "bytes": 9784,
+        "sha256": "82bb1fe7f1d92dc459fff9fc264496dd7c2b31578edd56628ad0da7548309869"
+      },
+      "localized": {
+        "bytes": 27680,
+        "sha256": "690c33943eb443bdd252c24418c048ce0884ac867072f83d6b59ab36ae1c1d74"
+      },
+      "delta": {
+        "bytes": 5732,
+        "sha256": "34a704951f3cab62f3d75851a7ad09a56df0ac62754ee8f979e885cbb4f1cd86"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0262.cpk",
+      "patch": "patches/release/vita3k/main/STG0262_cpk.xdelta",
+      "source": {
+        "bytes": 9784,
+        "sha256": "1a4361d727ecd37c05d358a4e0a3c13ee5cadaa58059d6910a1790ea6c1a7d49"
+      },
+      "localized": {
+        "bytes": 27680,
+        "sha256": "ca1efacad30b904886f79e0c0910e7a054d8200feb45302103d0ffe4d0cc57bb"
+      },
+      "delta": {
+        "bytes": 5740,
+        "sha256": "6ab6a9e287e469d63dd8edfdefa85c816efb3b829a2e8b29995db131a9fd4517"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0270.cpk",
+      "patch": "patches/release/vita3k/main/STG0270_cpk.xdelta",
+      "source": {
+        "bytes": 20760,
+        "sha256": "2e21e2bc1b7736bc82cd35ad6b36e8d38bde9b4de8688a23d0d3752b62f6ec57"
+      },
+      "localized": {
+        "bytes": 128360,
+        "sha256": "56c3c12f2629144ce95f0dfb94010c8f72df6efcff0916cb66280e6871406f53"
+      },
+      "delta": {
+        "bytes": 16321,
+        "sha256": "ee4585ac54a234e8bffd47deb718197d09fa69faac9519c318544763b4031777"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0271.cpk",
+      "patch": "patches/release/vita3k/main/STG0271_cpk.xdelta",
+      "source": {
+        "bytes": 15176,
+        "sha256": "e0c573e214bd16a6e94c0312c68f3e5e9eacdcfdbcf25d3c4717eb71ef467026"
+      },
+      "localized": {
+        "bytes": 87440,
+        "sha256": "98e8c5002ab769b5d8edddaa65adcf057fcb82b1a720f9e0652407a679aa66a4"
+      },
+      "delta": {
+        "bytes": 10932,
+        "sha256": "b7aad4a32d746b0da09fae55bb6025fba14673e23ab8eb6464e2149541da78f2"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0272.cpk",
+      "patch": "patches/release/vita3k/main/STG0272_cpk.xdelta",
+      "source": {
+        "bytes": 15256,
+        "sha256": "80c4ae428983d327408b3c98af6a01a72dc16d1b60b7e6c0e7bafa37e03b9c57"
+      },
+      "localized": {
+        "bytes": 86112,
+        "sha256": "8a3d0a4bad2fb17a2959cc095aee1e8f221a66bd73a83442a6d8e97898ace659"
+      },
+      "delta": {
+        "bytes": 11087,
+        "sha256": "668a738617ff38b55942115cd4e16d00a4f53d2a4e3aadcdbda67a892c61677c"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0400.cpk",
+      "patch": "patches/release/vita3k/main/STG0400_cpk.xdelta",
+      "source": {
+        "bytes": 5016,
+        "sha256": "f41febcdd65f22cb31251854e2e342856650d3c633fec56ce7cae9e5eaabc96f"
+      },
+      "localized": {
+        "bytes": 5016,
+        "sha256": "f41febcdd65f22cb31251854e2e342856650d3c633fec56ce7cae9e5eaabc96f"
+      },
+      "delta": {
+        "bytes": 109,
+        "sha256": "32b64b8776f901bf4d42db7c99ee45d9f513ea31b22bb06b9a95ec80381afff7"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0401.cpk",
+      "patch": "patches/release/vita3k/main/STG0401_cpk.xdelta",
+      "source": {
+        "bytes": 5000,
+        "sha256": "7f0b28195261c8fb83c1c6bf07cd52e3f6b05a5b8887342525543d88da529428"
+      },
+      "localized": {
+        "bytes": 5000,
+        "sha256": "7f0b28195261c8fb83c1c6bf07cd52e3f6b05a5b8887342525543d88da529428"
+      },
+      "delta": {
+        "bytes": 109,
+        "sha256": "4304ab910b70434e38314a073c578aedbc90636ab53cb83cb0be49538cfe96b0"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0500.cpk",
+      "patch": "patches/release/vita3k/main/STG0500_cpk.xdelta",
+      "source": {
+        "bytes": 41976,
+        "sha256": "c76806e732099a3f05f37947164ec8e87362eeb52e19a047ab0a19add37dec69"
+      },
+      "localized": {
+        "bytes": 234936,
+        "sha256": "1ba6b16a53db9e79fb5ba9d509103e2d49ed451e2589eedb9e220df823b97e52"
+      },
+      "delta": {
+        "bytes": 36460,
+        "sha256": "c42ae07cc8ff7db86a305c58c30cc01b9b586e8c72df31af3be3f209ffc8d3e1"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0501.cpk",
+      "patch": "patches/release/vita3k/main/STG0501_cpk.xdelta",
+      "source": {
+        "bytes": 90496,
+        "sha256": "1efc7f3e62a0a27268c73676ac68f7a9bf5b53565b5d22c79447d3e80e1d06db"
+      },
+      "localized": {
+        "bytes": 602432,
+        "sha256": "fd83bc4704d7fc8834ff1fce7e828442b960f65d56df95e6db6b081e011b58ee"
+      },
+      "delta": {
+        "bytes": 78691,
+        "sha256": "9f748ee054f849a4eb06c0d6b7f68bbf194d019a16a94e0e332c6c3ff95a00f8"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0600.cpk",
+      "patch": "patches/release/vita3k/main/STG0600_cpk.xdelta",
+      "source": {
+        "bytes": 33448,
+        "sha256": "dceac88115f4850091d22482fdef157d33ee4d5a52740f54220bbdc5a3cefbdd"
+      },
+      "localized": {
+        "bytes": 152208,
+        "sha256": "c0ef7eb7d73f94649222032e27b2bf84581d9094e45eb34ca999b11416459c5a"
+      },
+      "delta": {
+        "bytes": 24996,
+        "sha256": "e7ebcb39c1561dd6815b9712c7ed355666acea8360dba9317f61d65435fc067b"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0700.cpk",
+      "patch": "patches/release/vita3k/main/STG0700_cpk.xdelta",
+      "source": {
+        "bytes": 45516,
+        "sha256": "57b5fcdc7838c9064bebaa693e8bb1330c0ca30eceb5027b5981a3a74baf8c5c"
+      },
+      "localized": {
+        "bytes": 301176,
+        "sha256": "6ddfad2b48e6d1a35dc68635c010a8e19e61d634a47cef32e15eb65a0f4acc7f"
+      },
+      "delta": {
+        "bytes": 37707,
+        "sha256": "fb6e98c8c1e25b69d4933821dc7d868fd7f8e39a1160672ee758696df7108e9c"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0901.cpk",
+      "patch": "patches/release/vita3k/main/STG0901_cpk.xdelta",
+      "source": {
+        "bytes": 55192,
+        "sha256": "877e177094b72a8f366b041f67726c2e9e90f06cc74cb7d1d8ba3cf16b27b902"
+      },
+      "localized": {
+        "bytes": 502264,
+        "sha256": "bf09985f42d6f0c13fff077241903c315f787a4595322f3bccd09351524345d9"
+      },
+      "delta": {
+        "bytes": 42805,
+        "sha256": "eb9370e83fd3efb9ed2ea26d7a96e591b35c5ab6d981d599cff31503097325d7"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0903.cpk",
+      "patch": "patches/release/vita3k/main/STG0903_cpk.xdelta",
+      "source": {
+        "bytes": 4520,
+        "sha256": "85488fa459e8ad5e7d69a7fa539a02c9751ee3cbe543153d64bc5a428ab6d67c"
+      },
+      "localized": {
+        "bytes": 15224,
+        "sha256": "9c815b11dd7f2f8357ce682a041ef9d8d508fc154eed5408d9eb50f7b6010f64"
+      },
+      "delta": {
+        "bytes": 1631,
+        "sha256": "e1a0d53f916025f1c63dc046fb228757c823952c60a4aeb43ccdc7a00db28fdf"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0904.cpk",
+      "patch": "patches/release/vita3k/main/STG0904_cpk.xdelta",
+      "source": {
+        "bytes": 21032,
+        "sha256": "c173a00644142809f46c773f83001cef40f527240f93986ea4440a5af993810d"
+      },
+      "localized": {
+        "bytes": 21032,
+        "sha256": "c173a00644142809f46c773f83001cef40f527240f93986ea4440a5af993810d"
+      },
+      "delta": {
+        "bytes": 112,
+        "sha256": "f27e7dc17032f50f306bf6357a653585fbd14c0bb9a5a6aa72c595629583132a"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0905.cpk",
+      "patch": "patches/release/vita3k/main/STG0905_cpk.xdelta",
+      "source": {
+        "bytes": 22712,
+        "sha256": "771538f120aa44cb776de8985d13ec5092f8451a9b3b6fe6047320d19b630772"
+      },
+      "localized": {
+        "bytes": 22712,
+        "sha256": "771538f120aa44cb776de8985d13ec5092f8451a9b3b6fe6047320d19b630772"
+      },
+      "delta": {
+        "bytes": 112,
+        "sha256": "f6fa2a929472d9c6d16ed8bdb9998440edcd05688a5156e69c7a2afb27144f23"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "scenario-dialogue",
+      "target": "DATA/STAGE/STG0999.cpk",
+      "patch": "patches/release/vita3k/main/STG0999_cpk.xdelta",
+      "source": {
+        "bytes": 90496,
+        "sha256": "d5f748958c03d1f702c788975c0baa99b1c8e821b31be6c665a2521f1d171aa3"
+      },
+      "localized": {
+        "bytes": 602432,
+        "sha256": "ad52ea68f2e7e4edd0d385426144e03817911d96372fb8db5eb2e43579930391"
+      },
+      "delta": {
+        "bytes": 78691,
+        "sha256": "e8ac6d11f1abc615cecadef47c0b857cab0ecf48b2d41f0612e389484f8ac115"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "menu-unit",
+      "target": "DATA/kurodata/KDataVITA.cpk",
+      "patch": "patches/release/vita3k/main/KDataVITA_cpk.xdelta",
+      "source": {
+        "bytes": 513556,
+        "sha256": "28edad7a7d8070a949d5be88ce286889560dc2b25025c4fc9f07cb58ff963f7e"
+      },
+      "localized": {
+        "bytes": 539712,
+        "sha256": "bb7905a9162530527f858a3effb935a0582459c6950724133cd4676dc6360817"
+      },
+      "delta": {
+        "bytes": 23076,
+        "sha256": "51883bb45ceeb069f00112a0245363d2389adb9b36e15e71242dab4a3eb950a7"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_001.zld",
+      "patch": "patches/release/vita3k/main/map_001_zld.xdelta",
+      "source": {
+        "bytes": 912,
+        "sha256": "b99bf5ee8bdeb89eba7cbb712287f64a70f2cc6c3e3fa8b8db8f8bea3caaf408"
+      },
+      "localized": {
+        "bytes": 912,
+        "sha256": "82b60f688649cff31fbcaf9f6e7ccd5ca8c99e43c5e776286dc30d5ccad1b337"
+      },
+      "delta": {
+        "bytes": 213,
+        "sha256": "41cf0e9c026d66ca4b249c5985684673e967f0d8f30c2bf65019c1b7e71da49c"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_002.zld",
+      "patch": "patches/release/vita3k/main/map_002_zld.xdelta",
+      "source": {
+        "bytes": 832,
+        "sha256": "247b7ac1a04ab948c2145b7b7a659f32cdda7cefed0563b0f03a0f207c424c07"
+      },
+      "localized": {
+        "bytes": 832,
+        "sha256": "9c1337273367917bec614c0661feb28537fa1798431b6628a7fe0a67101d5b5b"
+      },
+      "delta": {
+        "bytes": 226,
+        "sha256": "bd0bbe0fba32aa0bdb2d407deceadb0e0c82c4028951b7b57f212abb04c07a1a"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_003.zld",
+      "patch": "patches/release/vita3k/main/map_003_zld.xdelta",
+      "source": {
+        "bytes": 984,
+        "sha256": "cc228092746ddf5534eca7ede8e4edcdeb4e31165788569249337d1ce57d0cfa"
+      },
+      "localized": {
+        "bytes": 984,
+        "sha256": "2625812fa914fa05b955538217ee49bc1b8a70c59008daeaa6c21b4fa90559ba"
+      },
+      "delta": {
+        "bytes": 258,
+        "sha256": "48e0e95fc55988b4ab0c437ffabef16cc4cb739308ba3e1d65fae2344f77afc4"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_004.zld",
+      "patch": "patches/release/vita3k/main/map_004_zld.xdelta",
+      "source": {
+        "bytes": 912,
+        "sha256": "193beafc3531482aa9569ce03eba9f9ef2c83f9d45381b0b2c643b2507ece6f0"
+      },
+      "localized": {
+        "bytes": 912,
+        "sha256": "df164f7be6af2801e753dd176ecfe9dc732bcfcc97478eb4530998f9702c03ae"
+      },
+      "delta": {
+        "bytes": 237,
+        "sha256": "82535e25bf80156689545f1a5f44dac4787999c305c3a5f10ba157377ad8e078"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_005.zld",
+      "patch": "patches/release/vita3k/main/map_005_zld.xdelta",
+      "source": {
+        "bytes": 864,
+        "sha256": "36a3dcc0909fc4dd2d660edc063a1717cb4e9d2bc3b5cdd7b9e0a991d937c73a"
+      },
+      "localized": {
+        "bytes": 864,
+        "sha256": "3b7eca269d53cc3a73fefdc524b81962d8abcb68079b43f12d1629a50068c44a"
+      },
+      "delta": {
+        "bytes": 224,
+        "sha256": "115c8551e1677373b880ae594f8ad0a6378d4f3c9ec86ece098e6d8560b19762"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_006.zld",
+      "patch": "patches/release/vita3k/main/map_006_zld.xdelta",
+      "source": {
+        "bytes": 944,
+        "sha256": "5a015c1642446729da11efd48b50868adb2e0d60f504c3b80c1af25a7df626da"
+      },
+      "localized": {
+        "bytes": 944,
+        "sha256": "b56174426cd8b771533783ef598a91303957c2310c7829a21195dfe28642918b"
+      },
+      "delta": {
+        "bytes": 216,
+        "sha256": "48d086ddd88b8d3fc4142eff09eee8a884e56b5765d8b9ee67f0ca09573ccfd6"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_007.zld",
+      "patch": "patches/release/vita3k/main/map_007_zld.xdelta",
+      "source": {
+        "bytes": 800,
+        "sha256": "b10d3d50bc2ed70101b2435d9024521d58a14c084e9d5bb3a835b637d1b007a6"
+      },
+      "localized": {
+        "bytes": 800,
+        "sha256": "a83d935073318e58011e554319b4d4f72e91abef2a64b1cd95905788d6c74b82"
+      },
+      "delta": {
+        "bytes": 216,
+        "sha256": "a114ff7f61fb1b1318892b8e54d03984bf2ec9e63fbef52b73e8ff83cc37da1a"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_008.zld",
+      "patch": "patches/release/vita3k/main/map_008_zld.xdelta",
+      "source": {
+        "bytes": 1032,
+        "sha256": "ed4d4d4179de9870fd77dd7707af153f32764627689d4273c65592f6e783bf78"
+      },
+      "localized": {
+        "bytes": 1032,
+        "sha256": "ab7479901fd7eb5ff445162c6b18969019fc783a384df6f65bc37bdac42b1605"
+      },
+      "delta": {
+        "bytes": 233,
+        "sha256": "2e0d340d2e92e8552f0ccefb0abbeb90a542cbcc55184169fb8a7fdb4978744c"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_009.zld",
+      "patch": "patches/release/vita3k/main/map_009_zld.xdelta",
+      "source": {
+        "bytes": 1040,
+        "sha256": "4b45b4ae5bacc2ce5ede0ec5d6f7ca5fb5ea991d71ee7c4eace924f94c1f53d0"
+      },
+      "localized": {
+        "bytes": 1040,
+        "sha256": "1039cfc306e16fd07c79058c88bc4fdca91b4ce41a34dc25b37d5bce81229847"
+      },
+      "delta": {
+        "bytes": 256,
+        "sha256": "e0323650dae03ce98a4ae322d0b4fa2c85372768b905398826dc32e81416de87"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_010.zld",
+      "patch": "patches/release/vita3k/main/map_010_zld.xdelta",
+      "source": {
+        "bytes": 1156,
+        "sha256": "9ca7edec0a291932391a91ccaa64bac86de49ecfadbbbf3d966729df38d228d7"
+      },
+      "localized": {
+        "bytes": 1156,
+        "sha256": "d5eed72258664a314b8d38f19fe713dcda2b9066d381630fc413f3897f6859b3"
+      },
+      "delta": {
+        "bytes": 258,
+        "sha256": "b087d864e2d9c84f6e89d3fb6138b1edc2385bccb97c11f8e25a61b0e5d52bb2"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_011.zld",
+      "patch": "patches/release/vita3k/main/map_011_zld.xdelta",
+      "source": {
+        "bytes": 1440,
+        "sha256": "7a994b3edc731b1c5ddc036eb7ed8442c29299734bd7641928fdb8f0f30e13d8"
+      },
+      "localized": {
+        "bytes": 1440,
+        "sha256": "e0210bf72964cb2bfe8ac1e36ae066e7ab910d0cc52c7c1452412f98600cf8ab"
+      },
+      "delta": {
+        "bytes": 348,
+        "sha256": "316a35ed8a177f668a6c0a2e45737a5d4a9d5e0a07eef635fe54e8348cc7d2af"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_012.zld",
+      "patch": "patches/release/vita3k/main/map_012_zld.xdelta",
+      "source": {
+        "bytes": 1440,
+        "sha256": "5e44644f725a358c4ffbc82f9335c61f8944be398367efe0bfff6b5e529ac9df"
+      },
+      "localized": {
+        "bytes": 1440,
+        "sha256": "ff5b13b08c74c28a4a527038116551cdac497ddb9636f55eddb4f62d5165b700"
+      },
+      "delta": {
+        "bytes": 348,
+        "sha256": "c03bf12162dd5b6aa2204d732e46a2adc971ec35846ac65be2d9d0a432286381"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_013.zld",
+      "patch": "patches/release/vita3k/main/map_013_zld.xdelta",
+      "source": {
+        "bytes": 1440,
+        "sha256": "804fcdc6ab5628b71ce908571c9e813ebb9d0a75af8f5b77ef17a0313f5f2e6a"
+      },
+      "localized": {
+        "bytes": 1440,
+        "sha256": "fac7fcac23598040e46bba265b91efb5a4fba2b462ead222c31c6d3a4dc3d28a"
+      },
+      "delta": {
+        "bytes": 348,
+        "sha256": "2f4827c7fcf5ae2587a9524102cd8004ecc0f2545bde43d20dea34bf163b706c"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_014.zld",
+      "patch": "patches/release/vita3k/main/map_014_zld.xdelta",
+      "source": {
+        "bytes": 1408,
+        "sha256": "0dc6a10f0a150bb1496917c86ad4e9509c9585de23b26dc5b6de59b4d008f92b"
+      },
+      "localized": {
+        "bytes": 1408,
+        "sha256": "b3cd1715f1389a84e94c8b59f1f81cedefa28bb0db2ec5cd5290cc134459a5f8"
+      },
+      "delta": {
+        "bytes": 343,
+        "sha256": "1930f5e7d229f643f54f68bcb4cb07c1feec6044f6fc19335f4e8ba32469c474"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_015.zld",
+      "patch": "patches/release/vita3k/main/map_015_zld.xdelta",
+      "source": {
+        "bytes": 1408,
+        "sha256": "bf5d7154aec4dd9da00561843ba5d323b9fa24de5a94700ffdf8c2f863c8b707"
+      },
+      "localized": {
+        "bytes": 1408,
+        "sha256": "dad6624d23045916e4158fbdf8555bebe9749455b5e38d5568eef790e2f21fea"
+      },
+      "delta": {
+        "bytes": 343,
+        "sha256": "d6153d631c5b776a43a49d87e12513c65fe6e246804000afadb9ab65e3b1cbb9"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_016.zld",
+      "patch": "patches/release/vita3k/main/map_016_zld.xdelta",
+      "source": {
+        "bytes": 1152,
+        "sha256": "6a7443ac938957879ab0e99756367f1f9425b47abeaa0e0c5687292beff272ac"
+      },
+      "localized": {
+        "bytes": 1152,
+        "sha256": "d464686bca7ed3c39ed379012bfdaae67e148e30b2c7bed280ced192bf395587"
+      },
+      "delta": {
+        "bytes": 274,
+        "sha256": "66dd6e5ce41c0074f6e014a5f1e572e44c28ced1e00e6ca0d83299918405074c"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_017.zld",
+      "patch": "patches/release/vita3k/main/map_017_zld.xdelta",
+      "source": {
+        "bytes": 1152,
+        "sha256": "391c0d46af25c64c41aded54eedb14a3bb365057b19420fff657f6c8af064859"
+      },
+      "localized": {
+        "bytes": 1152,
+        "sha256": "86f456e19fcfe43adc514874d2a555ec7132833661502ba0fa9ca745e01e81a5"
+      },
+      "delta": {
+        "bytes": 274,
+        "sha256": "a2d971aa247ca3fc78f8ee57d38189e0244c9b138b02232f834ee27b6c0b1697"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_018.zld",
+      "patch": "patches/release/vita3k/main/map_018_zld.xdelta",
+      "source": {
+        "bytes": 1312,
+        "sha256": "75a9be6f68ca9a4744513a3383cf5eb2135528cbcb5f9e682c01bfadbbe41abf"
+      },
+      "localized": {
+        "bytes": 1312,
+        "sha256": "25161725e1b4942b3609e18536c24bcd62bf4decad7b5962b61a3e8e63241ff7"
+      },
+      "delta": {
+        "bytes": 386,
+        "sha256": "945141d83c9335b9aab9ceb54f488bb4f20d8416e98b0eadc68f154e88a28b01"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_019.zld",
+      "patch": "patches/release/vita3k/main/map_019_zld.xdelta",
+      "source": {
+        "bytes": 1312,
+        "sha256": "46638fee9d0b08e3d5946a342b305f77f321f5e5d8b716e01d9c07d9d2ce68f0"
+      },
+      "localized": {
+        "bytes": 1312,
+        "sha256": "b0d7bb000f85aaab1075dc6cb40077f3c866c9b93464f09919f8ee184ffbf792"
+      },
+      "delta": {
+        "bytes": 386,
+        "sha256": "d588d91406d1936c48923a5f649e7a84fda0ba1673ff9eda6687eb5d6450e39c"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_020.zld",
+      "patch": "patches/release/vita3k/main/map_020_zld.xdelta",
+      "source": {
+        "bytes": 1384,
+        "sha256": "248381da4f2e36f58da66b8f625987c6022744eab91e19cef2734136a28ab0e0"
+      },
+      "localized": {
+        "bytes": 1384,
+        "sha256": "e4a521fb7c15c77a32c023184f9b284f7583fca73d459efbaa2eae25203b08ce"
+      },
+      "delta": {
+        "bytes": 394,
+        "sha256": "a7583148db914a8e817abe30aa6603a8241029deaac71b26d507b19786fba546"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_021.zld",
+      "patch": "patches/release/vita3k/main/map_021_zld.xdelta",
+      "source": {
+        "bytes": 1352,
+        "sha256": "5841fdfd8c4e9f4944a084f4a06ded51a853031f4398a7b96dd4433d53ade4bd"
+      },
+      "localized": {
+        "bytes": 1352,
+        "sha256": "7ef049dd6bd1ecf50179ffe55def2f20acedcbcbbf234859b0150bc0d198a8da"
+      },
+      "delta": {
+        "bytes": 386,
+        "sha256": "4f23cdb1f02f3b9fa2d8c6cecf98f67880650f3ed59b009d7f709bb621b9433e"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_022.zld",
+      "patch": "patches/release/vita3k/main/map_022_zld.xdelta",
+      "source": {
+        "bytes": 1312,
+        "sha256": "530b71981d4327bf87bd6c3ae9c468479224b806eb722533a456c46ec3d66d94"
+      },
+      "localized": {
+        "bytes": 1312,
+        "sha256": "5ed447828f21f5c5b9a10d0de6bb81be9a0d72e25395c1cd8c959828767819c7"
+      },
+      "delta": {
+        "bytes": 283,
+        "sha256": "eca5f4aa9d0b77a7124bd5bbb654cac276692dc2e23b923713e87f86e2c943b6"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_023.zld",
+      "patch": "patches/release/vita3k/main/map_023_zld.xdelta",
+      "source": {
+        "bytes": 1318,
+        "sha256": "923cf12a6fa7c24304b2ff0fc17634ab86430b68974179ecc8e868b651665fb7"
+      },
+      "localized": {
+        "bytes": 1318,
+        "sha256": "518bb5229c75995c55610cb2ea60cfd57c557c3d2cac89180e0b714c9e8be73f"
+      },
+      "delta": {
+        "bytes": 356,
+        "sha256": "4defb00d74783648b090426edba83ab21f3de42350ce7d0e9cf96ca38c66875c"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_024.zld",
+      "patch": "patches/release/vita3k/main/map_024_zld.xdelta",
+      "source": {
+        "bytes": 1408,
+        "sha256": "4330b21382970cda25bc9f50fa58a965e34c7c0714a8f32b50d93fc8b02fd5f8"
+      },
+      "localized": {
+        "bytes": 1408,
+        "sha256": "feef5e00a93616e1dcc49638306b79b6770853dea2f5c8c57da31c9c5b0b57ac"
+      },
+      "delta": {
+        "bytes": 352,
+        "sha256": "92f8de89739713323de96b18c8d61d3451a2e30a034007bc1d1b2c1916e066b8"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_025.zld",
+      "patch": "patches/release/vita3k/main/map_025_zld.xdelta",
+      "source": {
+        "bytes": 1412,
+        "sha256": "4c42af255a2d6a96a35dcc0317e805018b32065f0c8e236ff3622bb0d4b8f19f"
+      },
+      "localized": {
+        "bytes": 1412,
+        "sha256": "aa74678e9547d60d59e95c5be7ec40956550f81e1448b4583c58780d84b830ac"
+      },
+      "delta": {
+        "bytes": 369,
+        "sha256": "eceddf38905153e8fab09fa7d6dbca7da305b4641fde8020bbace3da6d8f426a"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_026.zld",
+      "patch": "patches/release/vita3k/main/map_026_zld.xdelta",
+      "source": {
+        "bytes": 1152,
+        "sha256": "ef4922d416d70ba1862e6e12d62fdf17857548553365cbea336a39f0ff57b722"
+      },
+      "localized": {
+        "bytes": 1152,
+        "sha256": "88558ca8eda62d7d6e9944ecd12635eaa0cdef3bdb9621dc5204431cc993cb48"
+      },
+      "delta": {
+        "bytes": 258,
+        "sha256": "6e0fc7a570fd44d0ab4a9d9d5a711aee2cbc696e736bb28e5003460d35cad3c1"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_027.zld",
+      "patch": "patches/release/vita3k/main/map_027_zld.xdelta",
+      "source": {
+        "bytes": 1536,
+        "sha256": "5e84455704200ff92e5e44d9eefb3b8fbce9a108d6857121dbe273372606db7c"
+      },
+      "localized": {
+        "bytes": 1536,
+        "sha256": "6b73e362ad32eccb0d09600e19c4e8e7eb54b44473b9eb1c12acf99c1d201e36"
+      },
+      "delta": {
+        "bytes": 385,
+        "sha256": "eec76bbd6c90e0f91f1303cc1c7b017fa8295d967e9ad737e2bde1399570d43a"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_028.zld",
+      "patch": "patches/release/vita3k/main/map_028_zld.xdelta",
+      "source": {
+        "bytes": 1156,
+        "sha256": "2365b549bf894af4a569c74b31e5f6d1e64dd395bc5b40c1da4fb9974e5b0c51"
+      },
+      "localized": {
+        "bytes": 1156,
+        "sha256": "b3e1b09d24b1003c76ea4da6792c8169c9ca953b66d04a65d6ce9c8047041811"
+      },
+      "delta": {
+        "bytes": 261,
+        "sha256": "693be31f8bcec15c0084497bd71edf943d59943383356985d04f0b4a87259f6e"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_029.zld",
+      "patch": "patches/release/vita3k/main/map_029_zld.xdelta",
+      "source": {
+        "bytes": 976,
+        "sha256": "18cf24499513221083cea46bd644f37b5b6ca57638965be8ea6f3dd56e9bf434"
+      },
+      "localized": {
+        "bytes": 976,
+        "sha256": "118eb980cc451c918f7ee57f64601c5ec1dd21d2a62461c2269e2ba9fa8294a3"
+      },
+      "delta": {
+        "bytes": 238,
+        "sha256": "e3be0b1ebbe2f507f4f9fde76c876322f99021e159bd04d3e01cb1bd43677904"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_030.zld",
+      "patch": "patches/release/vita3k/main/map_030_zld.xdelta",
+      "source": {
+        "bytes": 852,
+        "sha256": "6b0bb8f2472ab046fd97ca98149800b9a82ed8cfd7846faa7ce91ecf1181c8c5"
+      },
+      "localized": {
+        "bytes": 852,
+        "sha256": "b4d53ccc9a5ea40c880925b68a2b776fb4ce95a13458be5ad1b12e39c52b4e98"
+      },
+      "delta": {
+        "bytes": 233,
+        "sha256": "529364ab70a7109673034bc182aaae301dcda2258850b7bf981a90b4b107b09f"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_031.zld",
+      "patch": "patches/release/vita3k/main/map_031_zld.xdelta",
+      "source": {
+        "bytes": 944,
+        "sha256": "ac5827718099fe12433005a2f2c3c2cd9aa11c10f0dd265621c4bcc33cfd5d69"
+      },
+      "localized": {
+        "bytes": 944,
+        "sha256": "7de8dcbf2b00e9fc427a76e99077d12f8ed52886a061f2b1be83290aae9da230"
+      },
+      "delta": {
+        "bytes": 233,
+        "sha256": "932aefd66137592b25ecd2300bec8d74121364119b616e9b10113ef506ed4cd5"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_032.zld",
+      "patch": "patches/release/vita3k/main/map_032_zld.xdelta",
+      "source": {
+        "bytes": 1252,
+        "sha256": "55cff81858aa2fa27c75cb8ef5948d568a9e765ab88126bd8dc64b910ea27b15"
+      },
+      "localized": {
+        "bytes": 1252,
+        "sha256": "02ddb8b9b0b5d17c5a99482cb61f947da404158cf10932c6343d4499293be4fd"
+      },
+      "delta": {
+        "bytes": 269,
+        "sha256": "dc4a9656a54dd62cc0c2a2a6eeae526a46a445f5070900d68fe9689496736721"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_033.zld",
+      "patch": "patches/release/vita3k/main/map_033_zld.xdelta",
+      "source": {
+        "bytes": 1088,
+        "sha256": "4329a0b48638986ef21d131ae7c961a479e01c818e409de198ee213d531afb6e"
+      },
+      "localized": {
+        "bytes": 1088,
+        "sha256": "52c355f74d4c2714cf569aaad6b33597dbda878c63a00b5771d7731ccc82153f"
+      },
+      "delta": {
+        "bytes": 214,
+        "sha256": "5177476d3e95272c2674b72cae9fd9569446a15cc04fa34d3f6b6e6951095f8d"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_034.zld",
+      "patch": "patches/release/vita3k/main/map_034_zld.xdelta",
+      "source": {
+        "bytes": 1152,
+        "sha256": "aa28d71936ff059c311f5a4053c9646b17aab28e884aeadb741369f1a605bba7"
+      },
+      "localized": {
+        "bytes": 1152,
+        "sha256": "2a929579eb776686608c94b31554be10023f17691b39df9d3afe0a5e4e674f4f"
+      },
+      "delta": {
+        "bytes": 269,
+        "sha256": "1a39d4827737e0dabbfbf6251e0d40d84369dc0ab6244d3e212f7c31b80e38dc"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_035.zld",
+      "patch": "patches/release/vita3k/main/map_035_zld.xdelta",
+      "source": {
+        "bytes": 1216,
+        "sha256": "596f38db69ff4f78352bb3fd5433ddc1fd691bc638fd33716ed33fb5424cb95d"
+      },
+      "localized": {
+        "bytes": 1216,
+        "sha256": "15870eec2b5267549364302345dd132631d6e2c94834cd1f23fefd2feb25829b"
+      },
+      "delta": {
+        "bytes": 297,
+        "sha256": "585df4cf6f253aefd939732f1694acf4d2650ca2031a5c15b8f85e93a4697d9d"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_036.zld",
+      "patch": "patches/release/vita3k/main/map_036_zld.xdelta",
+      "source": {
+        "bytes": 992,
+        "sha256": "f5bd3b879c96460ffebd87cfc2d9e23c389214f01cc6c2f0a35803c57f659b74"
+      },
+      "localized": {
+        "bytes": 992,
+        "sha256": "80664ee78d7bdaf55aaf5e2f0e59fa40cab766c43264a60bcbb2f433050dd762"
+      },
+      "delta": {
+        "bytes": 291,
+        "sha256": "56cd6626c83732ca2b3d9f08df37d2a9fc6c25419cfd968dec689cc4679e87c4"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_037.zld",
+      "patch": "patches/release/vita3k/main/map_037_zld.xdelta",
+      "source": {
+        "bytes": 1124,
+        "sha256": "ab9a566c93d1ee8b92cbf473e295d1dcc14374fbcd65d364ce87cb815fe8c85a"
+      },
+      "localized": {
+        "bytes": 1124,
+        "sha256": "a8207b37c7785b338f888e2604c85a9ce5d7f9463a7b37fa316add496d8b75a5"
+      },
+      "delta": {
+        "bytes": 252,
+        "sha256": "55f13f1499f9a5714220f3a2f23d9b18a0bb6c81a00a6ec08f48012a140d577a"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_038.zld",
+      "patch": "patches/release/vita3k/main/map_038_zld.xdelta",
+      "source": {
+        "bytes": 1184,
+        "sha256": "81634a67e5bf3e0ae9c7fb7ba3cd65de26ac7b9da1354a24a108c65f92f82912"
+      },
+      "localized": {
+        "bytes": 1184,
+        "sha256": "ba8e27537b5bae34dddae20284dc3a52ff1b42866d33b23babe09ab26952f9a4"
+      },
+      "delta": {
+        "bytes": 269,
+        "sha256": "a4c17e14bc520d7f315705f28f92afa55d7d2a85cddf521be453e143ac96d948"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_039.zld",
+      "patch": "patches/release/vita3k/main/map_039_zld.xdelta",
+      "source": {
+        "bytes": 1216,
+        "sha256": "1b2ff14443ee717b669cf7226586890b58c86ea687e248ec00ada0e064023469"
+      },
+      "localized": {
+        "bytes": 1216,
+        "sha256": "532816c08749f5783dcd50defe99e60dfaa0ab56ee4da5198c42080b914fb155"
+      },
+      "delta": {
+        "bytes": 283,
+        "sha256": "039df1eb0479004610e3527f79408be8cb395df97c40b698e896a86c09198989"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_040.zld",
+      "patch": "patches/release/vita3k/main/map_040_zld.xdelta",
+      "source": {
+        "bytes": 1184,
+        "sha256": "c91448a55f0886c78562cc92f08efe65aa61f1fc705fd9c6e356aa172000dbf7"
+      },
+      "localized": {
+        "bytes": 1184,
+        "sha256": "655f5cb154378aea759f88c2dea0258218b0ded23bf2a23411d94489564260df"
+      },
+      "delta": {
+        "bytes": 283,
+        "sha256": "f1e15f2f938ef3742fc0761881907a47981037933ce0656d182cdaf5af8a41fd"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_041.zld",
+      "patch": "patches/release/vita3k/main/map_041_zld.xdelta",
+      "source": {
+        "bytes": 1024,
+        "sha256": "ade4671afcf2154ab463d4dad09a7964356ba3a4f69d092d69ad3774f20f5096"
+      },
+      "localized": {
+        "bytes": 1024,
+        "sha256": "90dee7edbdffb50c4a94ef378e3f680c8faa9e969d95b2c2437e89c492c15d97"
+      },
+      "delta": {
+        "bytes": 210,
+        "sha256": "8a18e1a284d290275ccb0a348fc19015c1e16f15243e9b2ba6a9f9dff4338f8f"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_042.zld",
+      "patch": "patches/release/vita3k/main/map_042_zld.xdelta",
+      "source": {
+        "bytes": 1284,
+        "sha256": "c1768a55e97773d5f0464bc8d4db524f8811af57fb5a17079915ad5f10a4d138"
+      },
+      "localized": {
+        "bytes": 1284,
+        "sha256": "76f99ff7680ce2f7930c7eac31cfaab71052dabbbcbc3ebf20ad21a69017546e"
+      },
+      "delta": {
+        "bytes": 407,
+        "sha256": "b3a62ce106a747bc9f69b6ae996687c6ff4c71b9f9871c8c4643e37514153750"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_043.zld",
+      "patch": "patches/release/vita3k/main/map_043_zld.xdelta",
+      "source": {
+        "bytes": 1252,
+        "sha256": "2722a423d564d773e12c67d540c79017c6d9dbb29074b2bf21cde32b75f021b1"
+      },
+      "localized": {
+        "bytes": 1252,
+        "sha256": "b49e5c2892b9d61eb96768b4a9207e276168cd700ab9be9f7a5caef3f2cdb6ec"
+      },
+      "delta": {
+        "bytes": 356,
+        "sha256": "dc1043c1b983d20e94db260e4a74e2297127650a177c25ff83fe18f81e870ad9"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_044.zld",
+      "patch": "patches/release/vita3k/main/map_044_zld.xdelta",
+      "source": {
+        "bytes": 1252,
+        "sha256": "5f9d24112cf112d2f5e75d313a35dd2c7dd325eee44f8684fbb3478b921cd784"
+      },
+      "localized": {
+        "bytes": 1252,
+        "sha256": "3db5c77d7e105208ef038138e252f83c23e5d2c8691111148fb2513ad3e982fd"
+      },
+      "delta": {
+        "bytes": 356,
+        "sha256": "8e202ee8e778eaaa388998787a1d9d7459ad5ac6c023819052cc113a1d0890d7"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_045.zld",
+      "patch": "patches/release/vita3k/main/map_045_zld.xdelta",
+      "source": {
+        "bytes": 1248,
+        "sha256": "050ebcd4f6a20caca5e4a052870f4aac2860704a7234d505c069bd025b99c240"
+      },
+      "localized": {
+        "bytes": 1248,
+        "sha256": "db7903b8d899131b299303a5a4be3dae33a1ac0db1e3a960313dcc90fe4d2e8e"
+      },
+      "delta": {
+        "bytes": 337,
+        "sha256": "20c14aa49122cee7fa983336b23ec369ae37752fe767f42f3c25a4d8b8398dbf"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_046.zld",
+      "patch": "patches/release/vita3k/main/map_046_zld.xdelta",
+      "source": {
+        "bytes": 1312,
+        "sha256": "dbd646ed51d810ff37752bde988965d2622b83c7a3e871a3b43a5c66add874de"
+      },
+      "localized": {
+        "bytes": 1312,
+        "sha256": "53da732f383c64c814a90d6325fc5abd22d445038b6798defca23f26ed40c744"
+      },
+      "delta": {
+        "bytes": 337,
+        "sha256": "e88f02ea8fd53b5bcc62a526461a9b5fdebbc44ddaf0ddf51691127d784a69c2"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_047.zld",
+      "patch": "patches/release/vita3k/main/map_047_zld.xdelta",
+      "source": {
+        "bytes": 1088,
+        "sha256": "d3180bf9c8faae336536c602bc26f8d17f82a3a2ac36abc7ab887b5e7c616158"
+      },
+      "localized": {
+        "bytes": 1088,
+        "sha256": "ee5be2d6160dc1724cf29847507c1dd14ac65812ef0ac27e44d9c61640a819a3"
+      },
+      "delta": {
+        "bytes": 217,
+        "sha256": "ec31712b89203204c3702002a8ff48154f030644c7340be488228b6ece521fbb"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_048.zld",
+      "patch": "patches/release/vita3k/main/map_048_zld.xdelta",
+      "source": {
+        "bytes": 1028,
+        "sha256": "70ab67ab5f94e0aaa0904f3af114eaf67e51fbf6a7a3b6364ea65c0901f58887"
+      },
+      "localized": {
+        "bytes": 1028,
+        "sha256": "576db72b6ac0e5848972463413a08cd1e374faba3c1f7f8cfed20d21551b1bbc"
+      },
+      "delta": {
+        "bytes": 215,
+        "sha256": "ec31c119a053b41779d68af28025a721846e2ed00404e47414408b06b84ad789"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_049.zld",
+      "patch": "patches/release/vita3k/main/map_049_zld.xdelta",
+      "source": {
+        "bytes": 1312,
+        "sha256": "34ebb5a794344086b8fe092c697a49d704febcd8ad42d8c524f25da78929b5f0"
+      },
+      "localized": {
+        "bytes": 1312,
+        "sha256": "dce911ea831c4ad69659eff5648e7ea6cb855a756a38571889372498ae7ef0f0"
+      },
+      "delta": {
+        "bytes": 334,
+        "sha256": "7013ea4cd561efa495fd0bc1ac39eed11a0356c5df83312c3a31cabb2b084091"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_050.zld",
+      "patch": "patches/release/vita3k/main/map_050_zld.xdelta",
+      "source": {
+        "bytes": 1028,
+        "sha256": "8acb6a2cb245232c200c739121dae9fb9e1c003303dfefe5f9708d0d23f851c1"
+      },
+      "localized": {
+        "bytes": 1028,
+        "sha256": "e6364ba3069ad16a6267ae2361cc65fde552cbe5e7b30630f169d5b99737f06c"
+      },
+      "delta": {
+        "bytes": 215,
+        "sha256": "e44ef91a2d8ad9eed2acb7d13895e24734ed65c21997e6718805e9c60fca56ec"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_051.zld",
+      "patch": "patches/release/vita3k/main/map_051_zld.xdelta",
+      "source": {
+        "bytes": 1056,
+        "sha256": "380542ef539d27dffc2fbdd908268180b6e183a700ac8a97157e048e573a58b3"
+      },
+      "localized": {
+        "bytes": 1056,
+        "sha256": "3d221cc16b87482cdd50d93bf65829076470a4ea91bbfde0c9a7672575a6dbe7"
+      },
+      "delta": {
+        "bytes": 234,
+        "sha256": "497cb385d9703fe38b5b7aaebd8da37491738a186d4b716c5c9f32a0a60e925b"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_052.zld",
+      "patch": "patches/release/vita3k/main/map_052_zld.xdelta",
+      "source": {
+        "bytes": 1312,
+        "sha256": "88fecffebdb4683486a091805a3072834df016a1f0e29963ae72547ded8df461"
+      },
+      "localized": {
+        "bytes": 1312,
+        "sha256": "9557e48b0aa8dee6984191c9d1d61de9b0099ebf4a6c0b36d9229d7d8bf0d057"
+      },
+      "delta": {
+        "bytes": 337,
+        "sha256": "e69bc39c9599596a9accd5e1424b76024035435931d2771e11278d8aac0b85f4"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_053.zld",
+      "patch": "patches/release/vita3k/main/map_053_zld.xdelta",
+      "source": {
+        "bytes": 996,
+        "sha256": "76fd146b0905a929a952230bb5f577148007a4c2782777c22d59fc9b0834b50f"
+      },
+      "localized": {
+        "bytes": 996,
+        "sha256": "1844e3da4f2aca6fb81a12ba1b1f2dc5c69a064e0ff4e53093957364b101cc0a"
+      },
+      "delta": {
+        "bytes": 205,
+        "sha256": "425017537e8a9518e87ac57f730e07afd402fdd35cf62e2ca7399d6cefb80d25"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_054.zld",
+      "patch": "patches/release/vita3k/main/map_054_zld.xdelta",
+      "source": {
+        "bytes": 1120,
+        "sha256": "cc2b29a774d9c5a8f5c50e0f5447e5354db433193fa58dab24e60c812f4d04d1"
+      },
+      "localized": {
+        "bytes": 1120,
+        "sha256": "5e23fde492178203b67357da03710e85e4ebdae366c20b09108e7e5f58a46243"
+      },
+      "delta": {
+        "bytes": 336,
+        "sha256": "c72a62e1bf1c85ab5bc1921354ede367271b86a5c526e9ab3478456162539bd3"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_055.zld",
+      "patch": "patches/release/vita3k/main/map_055_zld.xdelta",
+      "source": {
+        "bytes": 1088,
+        "sha256": "d6124e0e4b629d1c2a4a14ca3030410a64511c08b87cdf807cf0f4e8e32044b1"
+      },
+      "localized": {
+        "bytes": 1088,
+        "sha256": "e140f47c1d9354c7942abc86231932273451051dbd57bd0d514a35c18574ff48"
+      },
+      "delta": {
+        "bytes": 217,
+        "sha256": "c2816311979656f79727bce4a52250532d1061694b144a3bb917b9fac0fc0a70"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_056.zld",
+      "patch": "patches/release/vita3k/main/map_056_zld.xdelta",
+      "source": {
+        "bytes": 1088,
+        "sha256": "1297920195d9122a8246999b1a08347b0d922d5ea44e3e4074bc2b3c5e73fa25"
+      },
+      "localized": {
+        "bytes": 1088,
+        "sha256": "9fa449859ca199d50d9b83f101a72b29b3ae9ec1beb2212b480e2a7f05e58fc3"
+      },
+      "delta": {
+        "bytes": 223,
+        "sha256": "2b160b2829bb4135800e6e42baa44da4d6666c401d3a4f153e8b00b16f80febf"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_057.zld",
+      "patch": "patches/release/vita3k/main/map_057_zld.xdelta",
+      "source": {
+        "bytes": 1312,
+        "sha256": "2961071bc5bef9e24eca15d648cfc6f032d7337662666a4a4edd3bf059817874"
+      },
+      "localized": {
+        "bytes": 1312,
+        "sha256": "91e592116a3bfcab9fea40f115d3679cca7ba965b1b56e98f1c99f7b938d255d"
+      },
+      "delta": {
+        "bytes": 336,
+        "sha256": "f4bc751b61bbd6a606fe8eb784870eb4f26e459f433fea0b5d49892d93d14855"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_058.zld",
+      "patch": "patches/release/vita3k/main/map_058_zld.xdelta",
+      "source": {
+        "bytes": 1028,
+        "sha256": "12fe5cf1403de3a5c3922c3a0c64d762df467fd208317af0f1ba7a275cf1d373"
+      },
+      "localized": {
+        "bytes": 1028,
+        "sha256": "52d1de3ccee8fb8985f7d8c5a3622f1f7d761ed94fbc10f4855e0cb396e3c8cf"
+      },
+      "delta": {
+        "bytes": 223,
+        "sha256": "a594a4104565251023602caabf61dbf2834ce7ee647825a52a614502c73e3065"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_059.zld",
+      "patch": "patches/release/vita3k/main/map_059_zld.xdelta",
+      "source": {
+        "bytes": 1376,
+        "sha256": "ce264d380a0a2c9852b7542cab5e4d87f83441d4435d00a912dec11270d6ec71"
+      },
+      "localized": {
+        "bytes": 1376,
+        "sha256": "56a7181cf2e71c1efac84f3392b3834f380bc2f621cdb6fc43cf19e2d99ef202"
+      },
+      "delta": {
+        "bytes": 421,
+        "sha256": "ba5d446a576c91a547fcaee9ab449eccb9d11123f43216d59fe13f1299596b4b"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_060.zld",
+      "patch": "patches/release/vita3k/main/map_060_zld.xdelta",
+      "source": {
+        "bytes": 1472,
+        "sha256": "14ddb887100d3f844f3e0b736ae930c50254145bb6c86bb6d8c5ff827e76469f"
+      },
+      "localized": {
+        "bytes": 1472,
+        "sha256": "ff4116642a1f7b2dd11bc2d970b32db5602e9d8cc17d95293f879c04128ad533"
+      },
+      "delta": {
+        "bytes": 440,
+        "sha256": "398b0b6f2b2183cc5cef8906245d00f8bdd06d7f7c71965add5c80fccb1c0f9a"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_061.zld",
+      "patch": "patches/release/vita3k/main/map_061_zld.xdelta",
+      "source": {
+        "bytes": 1440,
+        "sha256": "6c50bae1522d2e181e05e1ae30e8fb02be65a34c3c5e1c0d3aaea64c7e2418c6"
+      },
+      "localized": {
+        "bytes": 1440,
+        "sha256": "0a41572ff334742ca692f5675af7915ac268e2619873eb2daffa164db0cd70ad"
+      },
+      "delta": {
+        "bytes": 421,
+        "sha256": "3a80b4428c995e5b5e1b26d880d51259db50556814e9a7e799d9d9d11e5cd7ef"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_062.zld",
+      "patch": "patches/release/vita3k/main/map_062_zld.xdelta",
+      "source": {
+        "bytes": 1156,
+        "sha256": "fded81a74475e8d0ea7a7e5ff48f78023490421574900b3598c192d257bbd07a"
+      },
+      "localized": {
+        "bytes": 1156,
+        "sha256": "1a9192a0e52154a4b073436c285f364a64a5594f1a60e441dcb68e58af9158f6"
+      },
+      "delta": {
+        "bytes": 250,
+        "sha256": "5573e83406dab2b560086ae19100c71216ced7db3aee87839ea205073b245fe9"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_063.zld",
+      "patch": "patches/release/vita3k/main/map_063_zld.xdelta",
+      "source": {
+        "bytes": 428,
+        "sha256": "5737215c2d665bbdad3a5004ff27d9a4f236b25d289d261263ff47a972d812af"
+      },
+      "localized": {
+        "bytes": 428,
+        "sha256": "2af54ecdbcc75967f37e72c4fa78fc92d502ecb8551f9b1cf771da1571b530ae"
+      },
+      "delta": {
+        "bytes": 219,
+        "sha256": "6a717fec72ac51316879ec230a6a7e3487048e77d56d871bfbcb494dfb574c59"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "map-data",
+      "target": "DATA/mapetc/attr/map_064.zld",
+      "patch": "patches/release/vita3k/main/map_064_zld.xdelta",
+      "source": {
+        "bytes": 1412,
+        "sha256": "c7fa80f812c8efcb16f2f2f31a45ea785ad6640ebac39f1679779f8740b9b57d"
+      },
+      "localized": {
+        "bytes": 1412,
+        "sha256": "5367d880cb8e50a0bf7c3093541b2d79527fe6a064ab8ed84aa381e5658bb2a7"
+      },
+      "delta": {
+        "bytes": 410,
+        "sha256": "5b60b9340d48ba1804da05c3ae5550ec50d2a791b2fddc13a21fe3b3ffe3204a"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "eboot-menu",
+      "target": "eboot.bin",
+      "patch": "patches/release/vita3k/main/eboot_bin.xdelta",
+      "source": {
+        "bytes": 1974368,
+        "sha256": "6ef4490394fac7b52878b694ce9e77d3ade87938f16bdac6ec75c13afe927b7b"
+      },
+      "localized": {
+        "bytes": 4297328,
+        "sha256": "cd20bb118eb506382bda5978d09135d963f4723e5c091bfbff40c06b2bb38fbf"
+      },
+      "delta": {
+        "bytes": 1875502,
+        "sha256": "63912c73411808251b37f7066270c5a4444404cfa0b1ac9dd933dd775ae2dc1f"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "app",
+      "group": "system",
+      "target": "sce_sys/param.sfo",
+      "patch": "patches/release/vita3k/main/param_sfo.xdelta",
+      "source": {
+        "bytes": 1268,
+        "sha256": "e8abc2cebf97112d59319c7dde5f80d99a6cd02fc7344d2db5a07b2ab9d77fb4"
+      },
+      "localized": {
+        "bytes": 1268,
+        "sha256": "973cc0ac47d1d66b79e66add18541190c4810d4e8328bf587e559e56bac7aaa4"
+      },
+      "delta": {
+        "bytes": 215,
+        "sha256": "299ea982b4d32571c84c9721b656f36e72962261eb6b3632f6df6b4c30207b22"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00301/DLC/DLC0301.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0301_cpk.xdelta",
+      "source": {
+        "bytes": 27572,
+        "sha256": "93326c962108a810877d8beadb20118d5b2f66b14e18b2c70172d33825133cc8"
+      },
+      "localized": {
+        "bytes": 127952,
+        "sha256": "be5ded24fc16288f23c37d23ea3387973488de23614390c3ff0f3eb92c66655a"
+      },
+      "delta": {
+        "bytes": 19493,
+        "sha256": "50bfc46c02f43673b7de78786e1578808adcba54b03065623f7d4feeb48621b0"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00302/DLC/DLC0302.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0302_cpk.xdelta",
+      "source": {
+        "bytes": 32312,
+        "sha256": "dbc57e2e5d7d1c7807b56e55119a3bc0a45332c92be8f3aa7dd5d7de9dce851e"
+      },
+      "localized": {
+        "bytes": 154144,
+        "sha256": "e7872b3f84cbe2346465c6ded72c547e4f0839bb42a3a5c4ad7ebb3c4c6095cf"
+      },
+      "delta": {
+        "bytes": 23245,
+        "sha256": "f9854ef89d72b7732f960e6e5619797f93706929b7887eb8c39dc0a0520ac409"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00303/DLC/DLC0303.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0303_cpk.xdelta",
+      "source": {
+        "bytes": 33016,
+        "sha256": "e4de5ae6d00fca80d2e1ed254ac6445948b693d8c0ccd74f0e7506527f002690"
+      },
+      "localized": {
+        "bytes": 167344,
+        "sha256": "a698905bd5c44e2f0c8712e41fbc4d80c926288d2efbf416f22cf53eb22d4c08"
+      },
+      "delta": {
+        "bytes": 23910,
+        "sha256": "bd8c127a12909057ce09086c3307b8c67d24b9229042f67a7f244e1f2193a018"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00304/DLC/DLC0304.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0304_cpk.xdelta",
+      "source": {
+        "bytes": 38840,
+        "sha256": "050f638472d1093911a6e1e24c2ba4f9134d653aa9df333efd4173b8a9071f66"
+      },
+      "localized": {
+        "bytes": 197648,
+        "sha256": "84dbbc66a49ba6cb98f003470be80df408bec98e253bad96c704ec8ce61aa948"
+      },
+      "delta": {
+        "bytes": 28770,
+        "sha256": "308be7be0ec2825b5586bd3f60ed1485efac53db80c1d96200617c9aefe79e16"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00305/DLC/DLC0305.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0305_cpk.xdelta",
+      "source": {
+        "bytes": 29784,
+        "sha256": "3480c8695144b2481d61738036c3b110b5e9c3587e5aadb7879f7d1af45228a2"
+      },
+      "localized": {
+        "bytes": 152320,
+        "sha256": "4af88ca440a6bc7987c9bc8ce4eef00db1534142e8c20247e70fc1c0f07a7f29"
+      },
+      "delta": {
+        "bytes": 21408,
+        "sha256": "fc2891647b01fdd4fcdc7be51ffa1ada1b76c27fb1b1250e57cd0372474b03e5"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00306/DLC/DLC0306.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0306_cpk.xdelta",
+      "source": {
+        "bytes": 40772,
+        "sha256": "d758407094fadb159cf77c6e95a7a235a0c78f2ce3b2038b47b71ea6865e9dcd"
+      },
+      "localized": {
+        "bytes": 312688,
+        "sha256": "5d342535a40c0e9080d631ac6fdd627706d8830a4f21aa0fe860fa58816a9ba3"
+      },
+      "delta": {
+        "bytes": 29898,
+        "sha256": "bbf94555cd21f79bcdfe16a4ccfde95d0cc221b0b6fe89c3d45430dd4e7ee51c"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00307/DLC/DLC0307.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0307_cpk.xdelta",
+      "source": {
+        "bytes": 33464,
+        "sha256": "3732b83e37a4ba39bb89e735494154702fa9d90ab69857e6cc6d14d44a80fd0d"
+      },
+      "localized": {
+        "bytes": 163360,
+        "sha256": "0ac8aa56e10e5ad9701d45ebbe5af8971e5eee01f5cb9c1395cb9aba759d91df"
+      },
+      "delta": {
+        "bytes": 24318,
+        "sha256": "2f3fe3089fc7b30064699d86570c1a267966bbe5b356339a122f741530faa95a"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00308/DLC/DLC0308.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0308_cpk.xdelta",
+      "source": {
+        "bytes": 36536,
+        "sha256": "f61498ccdfb868f356b9e198f96636da3b24898d5b441029d701a1fe83ad128b"
+      },
+      "localized": {
+        "bytes": 219376,
+        "sha256": "29779d34961fa4c8ab989491e4dbbffe540a812ad49ecd981e3a29f4da798709"
+      },
+      "delta": {
+        "bytes": 26930,
+        "sha256": "a856cd43f96b96aa42471cc0bb23ab2706232853a2a551f2beca58d13e4a5cd4"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00309/DLC/DLC0309.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0309_cpk.xdelta",
+      "source": {
+        "bytes": 33892,
+        "sha256": "90fa57468d4700838a6ea010d6dde185be7b342b4ca148667660bd2e214d4d53"
+      },
+      "localized": {
+        "bytes": 182240,
+        "sha256": "33db49c7996de5a7abeb39b668003bd1e7637a3f7033d0b61cebaef00ccd025f"
+      },
+      "delta": {
+        "bytes": 25374,
+        "sha256": "5737d54394387c6eda2607b33387ceaba75ea5690b8caa80c63787c4d0fe8130"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00310/DLC/DLC0310.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0310_cpk.xdelta",
+      "source": {
+        "bytes": 33240,
+        "sha256": "649d2650d32a58e98b103ad36e519a4bc9dff8c28c3856e80708dc68a37b1510"
+      },
+      "localized": {
+        "bytes": 184416,
+        "sha256": "493272fec51b5f0df722c859cc6cb7afc61feca18f8fba13263c5809a9fd1606"
+      },
+      "delta": {
+        "bytes": 24332,
+        "sha256": "f23e87c30557ba876cb305fc4321dae807803d576adfc716f4e875b18a0c425f"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00311/DLC/DLC0311.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0311_cpk.xdelta",
+      "source": {
+        "bytes": 35240,
+        "sha256": "3fb3fc4d6aa184cfbb468120a504823e008aeb282935e97fa1b39e7dfc1b217e"
+      },
+      "localized": {
+        "bytes": 226896,
+        "sha256": "d8b0c11dadd29773a30e2254b4bdddbb096b15b9d95499f9d962adc81587820c"
+      },
+      "delta": {
+        "bytes": 25519,
+        "sha256": "a551e3ee5352baa562fc883d2c03cb5c11c753ba0ef4fb0ee435f1c23b6a5cc2"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00312/DLC/DLC0312.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0312_cpk.xdelta",
+      "source": {
+        "bytes": 33792,
+        "sha256": "560be27464598eacb5e209943a63729edde6e2bd346352d623f72e1329ec1f2c"
+      },
+      "localized": {
+        "bytes": 178240,
+        "sha256": "3ca08ce37bdf5573ca4b38c214c170ef3e448bf32f4161f744eb2740c9599e43"
+      },
+      "delta": {
+        "bytes": 24286,
+        "sha256": "4ea10a7279489b490fa6a098dee1423338441e393b4b8240c8d782510f694538"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00313/DLC/DLC0313.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0313_cpk.xdelta",
+      "source": {
+        "bytes": 42412,
+        "sha256": "ff564504b38e7bc1e8725785454a9d7c32d84444fe3c42b6e230cba9b90e7ea7"
+      },
+      "localized": {
+        "bytes": 345056,
+        "sha256": "490231285262ccb1a66221a09579d2b2165f4fd52bb523726568b2b2146aa7b2"
+      },
+      "delta": {
+        "bytes": 29505,
+        "sha256": "f4b42727cc08e4dc40d0834a1f37d2f4c68b8db8746c09601b61b2e8410dc497"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00314/DLC/DLC0314.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0314_cpk.xdelta",
+      "source": {
+        "bytes": 36916,
+        "sha256": "d23ee62d13da8abed6cb546640cc61808bf3e16b4d93f26a493bdaab814eab8d"
+      },
+      "localized": {
+        "bytes": 206896,
+        "sha256": "996e7a726645f34c61e03c295070b3863a57724f5c444e98ee8e43c291cb23be"
+      },
+      "delta": {
+        "bytes": 27338,
+        "sha256": "8f894e0499a22029713efecf46ea273e583d13cc33bc28265ac14702776e9db0"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00315/DLC/DLC0315.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0315_cpk.xdelta",
+      "source": {
+        "bytes": 47232,
+        "sha256": "1be085dee25ca03726b43cffe0608d981637e62df0c37401242cc66f2d7252e6"
+      },
+      "localized": {
+        "bytes": 265472,
+        "sha256": "4180b622616dd899b334601bc2451fc06f570769ec9e720eeecc9973d8ff8bd9"
+      },
+      "delta": {
+        "bytes": 36026,
+        "sha256": "1264227ccafdcce5d29422048a0af2e98fc125bbd3eb9c683cde9f3d93f924ef"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00316/DLC/DLC0316.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0316_cpk.xdelta",
+      "source": {
+        "bytes": 45876,
+        "sha256": "5390ce37d7289f39b3ab9ad5d443c8757a095085b64301a37168e8be22cfd731"
+      },
+      "localized": {
+        "bytes": 336496,
+        "sha256": "00ef0435044e01150b475cf85052b78b3d64f6f4f82be9505476725031ba292c"
+      },
+      "delta": {
+        "bytes": 34060,
+        "sha256": "bd3e3987e022ccc172deff24b53c9bfcffdd6cc1e5a660e5c4a1418c09497378"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00317/DLC/DLC0317.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0317_cpk.xdelta",
+      "source": {
+        "bytes": 34692,
+        "sha256": "0f0079712eedb2d9a7e2c984fe5d07f6f83610b461a2106bfc9bd903dc3f1348"
+      },
+      "localized": {
+        "bytes": 180384,
+        "sha256": "5725bc4a80d259b2bb09421a51e18e4a9164b47e7874fe0fd5769339ac119a2c"
+      },
+      "delta": {
+        "bytes": 25721,
+        "sha256": "680291a6aea423de5430c5cc31c9292cbe13339ccb08f2b02762781a0edb5981"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00318/DLC/DLC0318.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0318_cpk.xdelta",
+      "source": {
+        "bytes": 41924,
+        "sha256": "eb4e0f072fea51add07f4532596f17c63eadb01ebceb2418d528c6c0d7194ad5"
+      },
+      "localized": {
+        "bytes": 270528,
+        "sha256": "b4bb298cf68091a532479030cdbafb968ef8dca665e85aecb99dcb1e660ff8a8"
+      },
+      "delta": {
+        "bytes": 30321,
+        "sha256": "9b3e5c458159a3098a6c3e4d5cb77bc5dcfe6db91f83ced5f39319b2ecf47a39"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00319/DLC/DLC0319.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0319_cpk.xdelta",
+      "source": {
+        "bytes": 37492,
+        "sha256": "3f3054b46e21e71a8cda24fded767d9f851b6711fa677105d206b95331f8287a"
+      },
+      "localized": {
+        "bytes": 222080,
+        "sha256": "3690d56d396f61e4b48277ce987662b2c00515cc8a3ed4108ac8ed002ea3f62e"
+      },
+      "delta": {
+        "bytes": 27171,
+        "sha256": "0bce2e251e6c5e59f17457e2d6fd3c67587a3bfdd0d710be1aaaec689ec19e75"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00320/DLC/DLC0320.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0320_cpk.xdelta",
+      "source": {
+        "bytes": 43160,
+        "sha256": "d98491adb2c837da458720d3b50ac2d81bd396a2880ab7e6f516beafd4b4b4ed"
+      },
+      "localized": {
+        "bytes": 286848,
+        "sha256": "6ac06489976a2f7cccf12e07c20c3ea74e62c719b1962215a05ded5a4c683a10"
+      },
+      "delta": {
+        "bytes": 31805,
+        "sha256": "65d8708208a43138ef3e8ac571a8aa3071f2336cae2fe70ad13b6249ea0d8b09"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00321/DLC/DLC0321.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0321_cpk.xdelta",
+      "source": {
+        "bytes": 46012,
+        "sha256": "ccd699fee3245d44b8756ba2e7727d4aebfb0e38759040d6500b8a4441411f84"
+      },
+      "localized": {
+        "bytes": 395168,
+        "sha256": "6ce0b79971e3814dc9ae31110523533fd87fe56e1338711d8b8b832b17e2aafd"
+      },
+      "delta": {
+        "bytes": 32869,
+        "sha256": "bf90c50e611c5fac1c41ed592f1155323e2b2021d8a42fe8abf16c4413e401c4"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00322/DLC/DLC0322.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0322_cpk.xdelta",
+      "source": {
+        "bytes": 37740,
+        "sha256": "8caacb436f9953dc700f4491a0ef9cb003db959b4972877bb8c4b73a9f2d120e"
+      },
+      "localized": {
+        "bytes": 365552,
+        "sha256": "b5e1da939172da22db412cc749a7d07fd889884654b44558d04c5e691f8c0067"
+      },
+      "delta": {
+        "bytes": 26777,
+        "sha256": "097d478573d1b08fc256373ebb8c3fecdf674166ee070bf9edcaade6b51d4032"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00323/DLC/DLC0323.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0323_cpk.xdelta",
+      "source": {
+        "bytes": 33356,
+        "sha256": "f3aba4b8b04a87543d003d275445daa3bb2188090dbc987ef4161a53dbc853fc"
+      },
+      "localized": {
+        "bytes": 326320,
+        "sha256": "4032380e6e74245a8d83b23c558b6a845e5539ab273197f9f1839f02ad560163"
+      },
+      "delta": {
+        "bytes": 21430,
+        "sha256": "2533c59879d11fe2185281264f5c3fda29cd1da55c91ad32c68abddf0c4700ed"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00324/DLC/DLC0324.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0324_cpk.xdelta",
+      "source": {
+        "bytes": 46932,
+        "sha256": "7972e2d9755115d13ae2035e8dc4af6a3e5d5caee96fe1bc43708c2d378a8776"
+      },
+      "localized": {
+        "bytes": 457312,
+        "sha256": "231aa449e02c84818ba0f1aa1a72bbd9bf787a9dff8b33933f867b214412fd1d"
+      },
+      "delta": {
+        "bytes": 35230,
+        "sha256": "76423006072902fd7bf1f9f4271be8d1a8aa58f03859ff22cdd097c7f6e93e2a"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00327/DLC/DLC0327.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0327_cpk.xdelta",
+      "source": {
+        "bytes": 8984,
+        "sha256": "cd55e2cda14bd72bee4af525feb04344608526b04a44f0173c5f9ef978d395cc"
+      },
+      "localized": {
+        "bytes": 23248,
+        "sha256": "0a5d7b3757fe8d92c86a62815fbc5d7c3dbd3fa3da14a49c2ca2b4e479cc16d3"
+      },
+      "delta": {
+        "bytes": 4942,
+        "sha256": "b097c47c090ca60e24583c175f9d4eab8874b5bbfa7dc6b4d629ca699b932bc5"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00328/DLC/DLC0328.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0328_cpk.xdelta",
+      "source": {
+        "bytes": 9016,
+        "sha256": "31ec6f06d4157c261ff10d3763b159cc74707e47a6ca6282dbb020d64f7603f1"
+      },
+      "localized": {
+        "bytes": 23312,
+        "sha256": "df611a53887dbfdc309c3dad4d4b1de4e78f1cb79ce01f210b0aacbf152908a2"
+      },
+      "delta": {
+        "bytes": 4969,
+        "sha256": "3e365fcc187827f678f0d5d6a081b2c2b017f3676a0bc44b17a9e38d9c12de7b"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00329/DLC/DLC0329.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0329_cpk.xdelta",
+      "source": {
+        "bytes": 9016,
+        "sha256": "681f08c95e2541ba4a5b49012e2b3e77f841001db28b1b640c66b11f6919ee65"
+      },
+      "localized": {
+        "bytes": 23312,
+        "sha256": "6d816babdf788938435108f6f802ed57570a1f3e92a0f87227e48efcaf39870f"
+      },
+      "delta": {
+        "bytes": 4979,
+        "sha256": "d4bcb36c1a41dbedfe8d21fe66392a217424c2e7b5f56a99016acd818d44ddaf"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00330/DLC/DLC0330.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0330_cpk.xdelta",
+      "source": {
+        "bytes": 8984,
+        "sha256": "b2cff72108218415f47a5c1224fb61ecc37804f545a141d7b6c58567fe6b03a2"
+      },
+      "localized": {
+        "bytes": 23232,
+        "sha256": "3bc29746f60b370f358af92134795fcbdf06a7d92cb0868893d533d01285158e"
+      },
+      "delta": {
+        "bytes": 4939,
+        "sha256": "8f87b4ff3f38901173e18ef7b88d3e7bbc43765c19b440d4c9f5c58d933cc0eb"
+      }
+    },
+    {
+      "kind": "xdelta",
+      "profile": "vita3k",
+      "root": "dlc",
+      "group": "scenario-dialogue",
+      "target": "SRWZ3OF1DLC00331/DLC/DLC0331.cpk",
+      "patch": "patches/release/vita3k/dlc/DLC0331_cpk.xdelta",
+      "source": {
+        "bytes": 9016,
+        "sha256": "28320e4fdc6814d39333a088feb4754e19bee906e2c79dd364acf5423c34d232"
+      },
+      "localized": {
+        "bytes": 23312,
+        "sha256": "209ad1a1125eca87b449eb83cd7c16c554311d1451b8b8c7bb4b7f6ce007351a"
+      },
+      "delta": {
+        "bytes": 4986,
+        "sha256": "c777aaa2b8be83a104585d8a6d177e190a5b839b7058a417546e90faba5efd2f"
+      }
+    }
+  ]
+}

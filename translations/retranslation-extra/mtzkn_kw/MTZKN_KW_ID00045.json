@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00045",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00045/Sheet1/000002",
+      "sourceBindingSha256": "e76dba88e946fb6605426d9e2f67d20a176c7bd2c406694b14d1090de45371e2",
+      "sourceTextSha256": "416a9d1d3dbd3a4ca3033152a2a21a528631406701e52b6b6bbc7d13b40d454f",
+      "freshTranslation": "프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00045/Sheet1/000003",
+      "sourceBindingSha256": "26d99563f48f7ea96b55691c454acc5581aa829d0c95f8ce084c44869b2c8092",
+      "sourceTextSha256": "b70cf0d11108c1260701549e671a70c8747d7e5ed173c098e5fea7dbc50bf2c5",
+      "freshTranslation": "「신기동전기 건담 WEndlessWaltz」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00045/Sheet1/000004",
+      "sourceBindingSha256": "b86299d7f6567acea4d57b17f73920e20c10328a4074c22e975c7d55bffc660d",
+      "sourceTextSha256": "09ee16a6c4cf6526df1f73816d6a5edfa882a506f307f3acfd389e7540f41791",
+      "freshTranslation": "대통령 직속의 특수 부대. ㊥ 레이디안을 사령으로 하고, 소속 멤버는 각각 코드명을 가진다. ㊥ 첩보 부대로서의 측면이 강하고, 전쟁이나 테러를 미연에 방지하는 것을 임무로 하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00045/Sheet1/000005",
+      "sourceBindingSha256": "97d7a999a750877cbc42d64a1152adc0f78ee29b4c7c0c0219a85b286b4b4836",
+      "sourceTextSha256": "09ee16a6c4cf6526df1f73816d6a5edfa882a506f307f3acfd389e7540f41791",
+      "freshTranslation": "대통령 직속의 특수 부대. ㊥ 레이디안을 사령으로 하고, 소속 멤버는 각각 코드명을 가진다. ㊥ 첩보 부대로서의 측면이 강하고, 전쟁이나 테러를 미연에 방지하는 것을 임무로 하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

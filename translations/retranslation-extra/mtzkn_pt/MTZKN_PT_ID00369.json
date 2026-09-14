@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00369",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00369/Sheet1/000002",
+      "sourceBindingSha256": "2fca2706e2a026cfca3d9fc49a299f4de5e966ffbafba7bbca1b4498212b95b8",
+      "sourceTextSha256": "a115e00663b1778d77738b2f9223041a27402aeb532adf56ab208ae1bb3a5162",
+      "freshTranslation": "제시카 원",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00369/Sheet1/000003",
+      "sourceBindingSha256": "63d793d9a87a16b8ac1283c4ab4d3444dc5cc8eaa8052319d8f8e57f973dab0d",
+      "sourceTextSha256": "4dca59d06c57f6ab986a99b0f5aae02dd85f63429f3c7e292c5f44c575a76ee3",
+      "freshTranslation": "제시카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00369/Sheet1/000004",
+      "sourceBindingSha256": "b663af3e3acafe33212b91687481538e7c7e392432701df3d3ce743a3399f45b",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00369/Sheet1/000005",
+      "sourceBindingSha256": "edb2a8bef1b9afa5820464beb993bee351e76b1be0b4a05f5dca5a1d4fd0b09d",
+      "sourceTextSha256": "c1c1945c104b5f3bf9f2a076f6f2affb7d043abf00d53a2524dbf48df1fd5a6c",
+      "freshTranslation": "나카무라 유이치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00369/Sheet1/000006",
+      "sourceBindingSha256": "bae5c5905db41e25b3dff1a71192697ecd694ec6fca032243882362dbfac5363",
+      "sourceTextSha256": "dfb6d637dced6f5ed397c252b8b957d62fa9578b78c859fb0a5ad2505d80cd70",
+      "freshTranslation": "아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00369/Sheet1/000007",
+      "sourceBindingSha256": "654e9f55de5f61604abc4a5c9f8fe9d46595428b0dfa5c1049471dda66db80e4",
+      "sourceTextSha256": "376c41f57ade1c26a5361fad03a02bde70c38f78a517e60b296a000ce1864150",
+      "freshTranslation": "에 대한 보상받지 못한 마음에 시달리는 제시카에 미카게가 빙의한 모습. ㊥ 표면적인 외형은 전혀 변함이 없지만, 정신은 미카게의 마음의 미궁에 사로잡혀 있어, ㊥본성을 드러내면 머리카락의 색이 바뀐다. ㊥ 제시카를 치고 아폴로의 영혼을 계승하는 카그라라면 신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00369/Sheet1/000008",
+      "sourceBindingSha256": "824916a364fff6e8180106a31656e909b3b2296d1096117f9c221955c344d747",
+      "sourceTextSha256": "42d4692ee5523e19d287cda0ef67bf4284b17840275257d33ddc39c454045f0d",
+      "freshTranslation": "아쿠아리온을 움직일 수 있으면 ㊥ 초대, 미코노와 함께 이것을 기동시킨다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00369/Sheet1/000009",
+      "sourceBindingSha256": "c1f24862a01b1cc4e33cbba4ea3cf05c857cae267886a1ffd9bab1cdc730850a",
+      "sourceTextSha256": "dfb6d637dced6f5ed397c252b8b957d62fa9578b78c859fb0a5ad2505d80cd70",
+      "freshTranslation": "아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00369/Sheet1/000010",
+      "sourceBindingSha256": "04628cbd35a4030283b37c209889bc1ae21d7456cc1b3e8e10ebe970495b9a61",
+      "sourceTextSha256": "376c41f57ade1c26a5361fad03a02bde70c38f78a517e60b296a000ce1864150",
+      "freshTranslation": "에 대한 보상받지 못한 마음에 시달리는 제시카에 미카게가 빙의한 모습. ㊥ 표면적인 외형은 전혀 변함이 없지만, 정신은 미카게의 마음의 미궁에 사로잡혀 있어, ㊥본성을 드러내면 머리카락의 색이 바뀐다. ㊥ 제시카를 치고 아폴로의 영혼을 계승하는 카그라라면 신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00369/Sheet1/000011",
+      "sourceBindingSha256": "91f0a3955093d8562b81392a26134624c76d59abc3bccde782488d0872f02eef",
+      "sourceTextSha256": "f879e6223f99b9dce7eb35a1f91190f64eb3e56484ed52c490ecf83c1945939a",
+      "freshTranslation": "아쿠아리온을 움직일 수 있으면 ㊥ 초대, 미코노와 함께 이것을 기동시킨다. 게다가 알테아의 별의 힘을 흡수해, 엔셰㊥인트 AQ를 탄생시켰다. ㊥ 미카게의 마음의 미궁에 사로잡힌 정신은 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00369/Sheet1/000012",
+      "sourceBindingSha256": "7d16cb77ca3ba5b329943d5300dc68115fb6773a946c35e2c4c7c24d282f52a8",
+      "sourceTextSha256": "5bfe109200febf4cf5f88332eec5df2fbeb2e49f0812a37be11784979739117d",
+      "freshTranslation": "그들을 죽이려고 하는 일에 시달리고 ㊥하고, 마찬가지로 유린 합체에서 사로잡혀 있던 카구라에게 자신을 죽이라고 부탁하지만, 그는 이것을 거부 ㊥부. 카그라에 의해 도움을 받고 함께 탈출을 도모했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00209",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00209/Sheet1/000002",
+      "sourceBindingSha256": "e7d038881439d50305c4728e967700869893368c64525ce8024e1c95bb399f21",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00209/Sheet1/000003",
+      "sourceBindingSha256": "d7f9a20be256408c379ede1ad49ed68a2780655a362d9588c19c445e6cb02f05",
+      "sourceTextSha256": "3f56c766db0b20ae26414bf735d3e453f93cffa3e6b41ac4ef5fbd378b98370f",
+      "freshTranslation": "그란제보마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00209/Sheet1/000004",
+      "sourceBindingSha256": "4f4eee287acafa08fd0600e7f6034b0bb533afccfc2355785ab720689f746886",
+      "sourceTextSha256": "3f56c766db0b20ae26414bf735d3e453f93cffa3e6b41ac4ef5fbd378b98370f",
+      "freshTranslation": "그란제보마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00209/Sheet1/000005",
+      "sourceBindingSha256": "66d9f8ff365988efbde17b6fd724109b58623bdaa48eead8935815419550f154",
+      "sourceTextSha256": "33c93229f104e9e1fe948934165b78daf6ea3afd31339f61c669fbe339d9be99",
+      "freshTranslation": "안티 스파이럴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00209/Sheet1/000006",
+      "sourceBindingSha256": "0b5b3d1f385ef2b20ca06404a419d4073258f5b542de605f5b733735ac11bf6f",
+      "sourceTextSha256": "8ecb9395d268eb877bfb21d72afbbbf624a696ee51c9c8b73fa3b635b8d974f5",
+      "freshTranslation": "안티 스파이럴이 구현화한, 안티 스파이럴 그 자체라고 할 수 있는 존재. ㊥격절우주에 밟은 시몬들을 맞이해 쏘기 위해 출현해, 그 사이즈는 은하계를 훨씬 ㊥상회한다. ㊥ 시몬들에게 \"동등한 모습으로 싸우고 승리한다\"는 일로 절대적 절망을 심기 위해 천원돌파㊥ 글렌 라간에 대항하는 형태로 나타나, 천원돌파 글렌 라간조차 웃도는 파워를 가지고 있다. ㊥ 덧붙여 그 이름은 \"글렌 라간을 절대적 절망으로 멸망시키려는 궁극적 우주 마신\"㊥에서, 후에 로시우가 명명한 것이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00209/Sheet1/000007",
+      "sourceBindingSha256": "bb95c9d73d4a380cd54cfeb94bb05fcd748322dafcd099e5a85a009fe49406de",
+      "sourceTextSha256": "33c5a40b0481ae0ce9d3e58ba997bdb6bc0b115d3c6110ce8df5ee7b68e9c9c6",
+      "freshTranslation": "안티 스파이럴이 구현화한, 안티 스파이럴 그 자체라고 할 수 있는 존재. ㊥격절우주에 밟은 시몬들을 맞이해 쏘기 위해 출현해, 그 사이즈는 은하계를 훨씬 ㊥상회한다. ㊥ 그 이마에는 안티 스파이럴이 아직 육체를 가지고 있었을 무렵의 모성이 있다. ㊥ 시몬들에게 \"동등한 모습으로 싸우고 승리한다\"는 일로 절대적 절망을 심기 위해 천원돌파㊥ 글렌 라간에 대항하는 형태로 나타나, 천원 돌파 글렌 라간조차 웃도는 파워를 가지고 있다. ㊥ 안티 스파이럴이 최후를 맞이했을 때, 그것에 호응하여 소멸했다. ㊥ 덧붙여 그 이름은 \"글렌 라간을 절대적 절망으로 멸망시키려는 궁극적 우주 마신\"㊥에서 나중에 로시우가 명명한 것이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

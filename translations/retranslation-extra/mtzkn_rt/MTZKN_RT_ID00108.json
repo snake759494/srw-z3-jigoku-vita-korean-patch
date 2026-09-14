@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00108",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00108/Sheet1/000002",
+      "sourceBindingSha256": "70412b3b83fe67d8755359191a30cc37efab354896940b8a5ca832caf49441f4",
+      "sourceTextSha256": "c1758e7351f74ec3cb72cb78c6d26cd6eeb745582c8a9473ce6f39bda42875b8",
+      "freshTranslation": "마크로스 다이너마이트 7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00108/Sheet1/000003",
+      "sourceBindingSha256": "ea63f6b1e08968fd5bafd2591e62d9194176fea8457540002f87c7167c6dee5e",
+      "sourceTextSha256": "63b9f38250c752d5465df2501abf251344e8ae21b28082fc95e205f5f4b3b152",
+      "freshTranslation": "VF-22SS 보겔ⅡB",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00108/Sheet1/000004",
+      "sourceBindingSha256": "b18dfef66dcc675f91df1905d2f2b3afcf72678530fe5f94cadd5e1e5ccd8b68",
+      "sourceTextSha256": "e8847bddec3152a81d3aefe5c1f8336f257febb8ddf910247ad951f9a41ef1e6",
+      "freshTranslation": "VF-22S 슈투름보겔 II 배트로이드 모드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00108/Sheet1/000005",
+      "sourceBindingSha256": "114452c7dcf9c1f53e426ecc0b2ec9fea988c503243d10f4d7a0b74c42ecf45e",
+      "sourceTextSha256": "09e8453cad950579d228ebadd4c680f4fef56f3bbd688d56188bf4bf28e76065",
+      "freshTranslation": "껌린·키자키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00108/Sheet1/000006",
+      "sourceBindingSha256": "d48019fb9e326e863c15d7701476fcfc26a1e7dbbd19105f3f70d5fb0cddbcd6",
+      "sourceTextSha256": "9a5db11d252de36bf05844e0ec961d14a0b60a1b67f66816370bb834709c53cb",
+      "freshTranslation": "마크로스 7 선단에서 제식 채용된 가변 전투기의 배트로이드 형태. ㊥ 한때 YF-19와 경쟁 한 YF-21",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00108/Sheet1/000007",
+      "sourceBindingSha256": "cd4d15243b4d71a40133fec4a43dfa8410a7e54e1de2900c28a8710d0242a75b",
+      "sourceTextSha256": "1fb35da3c88f68de9e67db8b79620b070e7be67c9566d1ce251f0d94f993d595",
+      "freshTranslation": "하고있다. ㊥YF-21의 가장 큰 특징 인 뇌파 조종 시스템은 잘라내어 시야, 수동 조종 ㊥ 세로 호환 콕핏으로 대체되었습니다. 이러한 변화에 의해 비용의 대폭 삭감과 ㊥ 기체의 경량화에 성공하고 있다. ㊥ 또한 젠트라디의 기술이 응용되고 있어 프로토타입의 YF-21과 마찬가지로 배틀㊥ 정장에 가까운 디자인이 되고 있다. ㊥ 감림은 이 기체에서 바사라를 쫓아 행성 졸라로 향해 졸라 주류군 은하 패트로 ㊥ 르대와 은하 고래 밀렵단의 전투에 참가했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00108/Sheet1/000008",
+      "sourceBindingSha256": "5374ad9f424ed0236c21320f6ea5e5430e90ef3d8bad31711c0ad8f554ccff2d",
+      "sourceTextSha256": "9a5db11d252de36bf05844e0ec961d14a0b60a1b67f66816370bb834709c53cb",
+      "freshTranslation": "마크로스 7 선단에서 제식 채용된 가변 전투기의 배트로이드 형태. ㊥ 한때 YF-19와 경쟁 한 YF-21",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00108/Sheet1/000009",
+      "sourceBindingSha256": "433ad475b2ebbd5ee8caa527f2938aa77bcbbb09a1b519b8d74e50ed3e9da358",
+      "sourceTextSha256": "1fb35da3c88f68de9e67db8b79620b070e7be67c9566d1ce251f0d94f993d595",
+      "freshTranslation": "하고있다. ㊥YF-21의 가장 큰 특징 인 뇌파 조종 시스템은 잘라내어 시야, 수동 조종 ㊥ 세로 호환 콕핏으로 대체되었습니다. 이러한 변화에 의해 비용의 대폭 삭감과 ㊥ 기체의 경량화에 성공하고 있다. ㊥ 또한 젠트라디의 기술이 응용되고 있어 프로토타입의 YF-21과 마찬가지로 배틀㊥ 정장에 가까운 디자인이 되고 있다. ㊥ 감림은 이 기체에서 바사라를 쫓아 행성 졸라로 향해 졸라 주류군 은하 패트로 ㊥ 르대와 은하 고래 밀렵단의 전투에 참가했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

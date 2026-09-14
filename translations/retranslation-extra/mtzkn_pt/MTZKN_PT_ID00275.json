@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00275",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00275/Sheet1/000002",
+      "sourceBindingSha256": "f33d18077d1c6a2827563fc108e193a7e01d3ccaf968b379965ef0771a11d7f5",
+      "sourceTextSha256": "0c5dca4ec25cbd77130629e3d136e349b59e7c6e69af578fbea8c783220c2e27",
+      "freshTranslation": "츠바키 이치나리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00275/Sheet1/000003",
+      "sourceBindingSha256": "68192bbab41a3fa2eba7c6612a25d7fb6873c89d862489b28f2b96e21b5a6317",
+      "sourceTextSha256": "f3dbc10678609e914d8e2f8106a1197d986187ce2470d153212e66a7f5c90f87",
+      "freshTranslation": "일성",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00275/Sheet1/000004",
+      "sourceBindingSha256": "4ad621067b2206313999b134d890387c7782c0cd4eb9f1dda49b7f0a062bf0d0",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00275/Sheet1/000005",
+      "sourceBindingSha256": "16a5504a0e7150ab633f77aa45665908b0bfe07ff2a2fa8ff41ffcbc4884e3bf",
+      "sourceTextSha256": "9e9b34d92f4bc3a617bf9dfd80231d1ec66843cd2c627f4c27236be52d8cde21",
+      "freshTranslation": "르 패닉? 후모후",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00275/Sheet1/000006",
+      "sourceBindingSha256": "ffe655c3680778b60aafda7448f6b2d003fc1917d78ad8f7d49fde6cac2399d9",
+      "sourceTextSha256": "254d6c7004bd67c2e4405a5ad7c10863b12a6a351160b2d2d4dd808bf8701d7e",
+      "freshTranslation": "진대고교 가라데 동호회의 부장. ㊥ 대도맥류 사용자. 가나메달을 불량으로부터 지키는 등 정의감 넘치는 성격이지만 ㊥ 여성에게 약하다는 약점을 가진다. ㊥ 부실의 퇴각을 둘러싼 소스케와",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00275/Sheet1/000007",
+      "sourceBindingSha256": "1a14164f3427f708a0bd95f27fdbd861cd2c9299b66d54d8362c6ab1bf4784f5",
+      "sourceTextSha256": "3db1498852661a2108cfc48ff70158c635e84017ef1792c84be6a1025082357a",
+      "freshTranslation": "검승부를 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00275/Sheet1/000008",
+      "sourceBindingSha256": "3fbc49b7a112f57b96313c5e391938cb90fcd446b7c46249ba090253452f8328",
+      "sourceTextSha256": "9746cb4dd4fda4c6decc18aa57fecb48e960712c0ef2f9fa4ccc2146d8b05117",
+      "freshTranslation": "진대고교 가라데 동호회의 부장. ㊥ 대도맥류 사용자. 가나메달을 불량으로부터 지키는 등 정의감 넘치는 성격이지만 ㊥ 여성에게 약하다는 약점을 가진다. 또한 극도의 근안으로 안경을 쓰지 않으면 몇 미터 앞 ㊥의 인물도 시인할 수 없다. ㊥ 부실의 퇴각을 둘러싼 소스케와",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00275/Sheet1/000009",
+      "sourceBindingSha256": "761249b7fb9d7ccfc0d2e62e1926195135b69b50907c9d1d9a0303c6a7578067",
+      "sourceTextSha256": "1429ebad5690fa5967282817498d46481f0c6d9f17f523184f74fe739d10719f",
+      "freshTranslation": "검승부를 한다. ㊥ 카나메에 신경이 쓰이고, 그 후에도 무언가와 소스케와 싸우고, 승부를 펼친다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

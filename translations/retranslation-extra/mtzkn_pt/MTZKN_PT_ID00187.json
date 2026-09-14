@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00187",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00187/Sheet1/000002",
+      "sourceBindingSha256": "630092b5817ca10b1fb2d3208546f8be7ff649dde3b7f1ed585f165506385816",
+      "sourceTextSha256": "2d10e876f144cc90fddf8688906be0abdaf6addca8374746f9b9bbcee532fe3c",
+      "freshTranslation": "엘모 크리다닉",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00187/Sheet1/000003",
+      "sourceBindingSha256": "48b71302eee21d1ee77344878c020048681145c0625d0e824b89b53a7ed82352",
+      "sourceTextSha256": "3d260531b097ba8ea0ec12bff4f0f0990432b90d3ce89dbb10a2805b16bae44b",
+      "freshTranslation": "엘모",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00187/Sheet1/000004",
+      "sourceBindingSha256": "dc5900b2c84bb2b63dcf27f6072e6c82335f6a2690914df32c9287583f2ac06b",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00187/Sheet1/000005",
+      "sourceBindingSha256": "037aa255d5c361fc475b43721c31df27d215640de0ab6b8c3ab0a7fa5ce59478",
+      "sourceTextSha256": "f0c57dd996335a91718948bdeaa23943c2ff172bcc0733a9498cf06a2d184e8f",
+      "freshTranslation": "연예 프로덕션의 사장. ㊥ 젠틀라디인, 약소예능 프로덕션 '베크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00187/Sheet1/000006",
+      "sourceBindingSha256": "3740fcb5d2f7f9adcf32d99832a7bc9a3e6e9e4440326b170963f69c96dcb10c",
+      "sourceTextSha256": "2619f771626236c087a89e683bea67f5f69500278af929f193af03bbbe84c39b",
+      "freshTranslation": "「프로모션」을 경영. ㊥ 랑카의 노래를 듣고 그녀를 '찾는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00187/Sheet1/000007",
+      "sourceBindingSha256": "62be97e1a7f820e45c751677345f8d47473d751a5f2d1ca7da0e07749e8146db",
+      "sourceTextSha256": "1009fd628140b0c57a2960608741eeb6ea189c1df97f482a6dfff286773d5330",
+      "freshTranslation": "생명의 가희」라고 불러 스카우트한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00187/Sheet1/000008",
+      "sourceBindingSha256": "10568a07e278c7b035c8bf3f59308772d5ee4a5b811f08000dcad46037b6a8d0",
+      "sourceTextSha256": "f0c57dd996335a91718948bdeaa23943c2ff172bcc0733a9498cf06a2d184e8f",
+      "freshTranslation": "연예 프로덕션의 사장. ㊥ 젠틀라디인, 약소예능 프로덕션 '베크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00187/Sheet1/000009",
+      "sourceBindingSha256": "a13fe873c79c42836924f595713e69e747ff6fe4e9aece29e3b3eadbdc2e183f",
+      "sourceTextSha256": "2619f771626236c087a89e683bea67f5f69500278af929f193af03bbbe84c39b",
+      "freshTranslation": "「프로모션」을 경영. ㊥ 랑카의 노래를 듣고 그녀를 '찾는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00187/Sheet1/000010",
+      "sourceBindingSha256": "08ac77cab595fead1d0c99036d72e9418c7622afd9036e95ae4cd2b74365a450",
+      "sourceTextSha256": "1009fd628140b0c57a2960608741eeb6ea189c1df97f482a6dfff286773d5330",
+      "freshTranslation": "생명의 가희」라고 불러 스카우트한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

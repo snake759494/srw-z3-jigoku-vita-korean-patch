@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00044",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00044/Sheet1/000002",
+      "sourceBindingSha256": "2cd558bb9e8759b612ba79ac2873c0a0776a1f2165ed36fa2c021d07aa6d0af3",
+      "sourceTextSha256": "58795265a127b0a2d95dd117578ddd2388a79813c796ac854684a0b9369470fc",
+      "freshTranslation": "아스트라기우스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00044/Sheet1/000003",
+      "sourceBindingSha256": "b497e3feaa5b7415e904f5a7565bb49deafe8e24555f190c4f792af5268098e1",
+      "sourceTextSha256": "00c3cbf4c1fa840433f934400fe630426ff59429734dff11e4e9b153142371e1",
+      "freshTranslation": "「장갑 기병 보텀스」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00044/Sheet1/000004",
+      "sourceBindingSha256": "4c7230c4c1b6a1c2b83eb9d82c96a9859dd37a7a38f5d765b3c5e30af2c13ee7",
+      "sourceTextSha256": "cefbc94919e2375dfe67587cc191f0f76ceb2a2bf65c5d6de94f9bb6d61bc4a6",
+      "freshTranslation": "직경 약 26만광년의 와상상 성운. ㊥200 이상의 유인 행성이 존재하지만, 길가메스와 발라란트의 2대 세력으로 ㊥로 나뉘어 대립을 계속하고 있다. 백년전쟁이라 불리는 제3차 은하대전은 그 이름의 ㊥대로 100년의 길이에 걸쳐 계속되었고, 후기에는 AT가 실전 투입되었다. ㊥ 양진영의 대립은 1000년 이상 전부터 이어지고 있지만, 그 원인은 아스트라기 ㊥우스 은하의 그늘의 지배자 와이즈만의 획책에 의한 것이었다. 그러나 와이즈㊥맨이 쓰러진 뒤에도 전쟁은 계속되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00044/Sheet1/000005",
+      "sourceBindingSha256": "0b45a047da65120d5a6a19235a5841476a2cd0f03fa86d67ced0de3cd616886a",
+      "sourceTextSha256": "cefbc94919e2375dfe67587cc191f0f76ceb2a2bf65c5d6de94f9bb6d61bc4a6",
+      "freshTranslation": "직경 약 26만광년의 와상상 성운. ㊥200 이상의 유인 행성이 존재하지만, 길가메스와 발라란트의 2대 세력으로 ㊥로 나뉘어 대립을 계속하고 있다. 백년전쟁이라 불리는 제3차 은하대전은 그 이름의 ㊥대로 100년의 길이에 걸쳐 계속되었고, 후기에는 AT가 실전 투입되었다. ㊥ 양진영의 대립은 1000년 이상 전부터 이어지고 있지만, 그 원인은 아스트라기 ㊥우스 은하의 그늘의 지배자 와이즈만의 획책에 의한 것이었다. 그러나 와이즈㊥맨이 쓰러진 뒤에도 전쟁은 계속되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

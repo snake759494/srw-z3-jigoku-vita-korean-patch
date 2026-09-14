@@ -1,0 +1,159 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00035",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00035/Sheet1/000002",
+      "sourceBindingSha256": "a5ae5cfb55b06ab436431b16b44d65a6a4bf3ddeb61fc05d047ae7dfdf4ac52a",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00035/Sheet1/000003",
+      "sourceBindingSha256": "af969d5c672ef9906410c7fa9004f6bfa2c04d262ab4fced1ab0a4b6270948b3",
+      "sourceTextSha256": "43e22576debe903bc7f146b3606ff7a8460d4e1d57bd82309ed27d6c9a40ad96",
+      "freshTranslation": "건담 Mk-Ⅱ",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00035/Sheet1/000004",
+      "sourceBindingSha256": "04acf8c6419de79029cf71f849af3010f2f954de104ce7eec80d1dfe24fc4690",
+      "sourceTextSha256": "43e22576debe903bc7f146b3606ff7a8460d4e1d57bd82309ed27d6c9a40ad96",
+      "freshTranslation": "건담 Mk-Ⅱ",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00035/Sheet1/000005",
+      "sourceBindingSha256": "de7a37f45a6f3c5baaae53a733c8233b900834b582e5e708e94b33a5c58bff05",
+      "sourceTextSha256": "7dc0fc7452e405f5c315cadf6ad6e892e3f7bd9c65fb9cb7f1f9ef058c909315",
+      "freshTranslation": "티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00035/Sheet1/000006",
+      "sourceBindingSha256": "53f0658727577fa012fed041beed596034360ecc242883621c314cbbad3540ca",
+      "sourceTextSha256": "607343afa0760943c978f0124f73f902fc4e6780734fdf877490311612680575",
+      "freshTranslation": "네즈가 그립스에서 독자적으로 개발한 모빌슈트. ㊥ 초대 건담의 재설계기이지만, 그 최대의 특징은 코어 블록 시스템을 ㊥ 폐지해, 무버블 프레임을 채용한 것이다. 이렇게하면 인체에 더 가까운 ㊥ 움직임이 가능 해지고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00035/Sheet1/000007",
+      "sourceBindingSha256": "ef76183e45a7295e13ec08595be5549a200b093301fc6a00fbe136bec5aa548e",
+      "sourceTextSha256": "5608fa3fd7562edc620418dc8caeee3c26760e51cb208903bb045a613479ced8",
+      "freshTranslation": "동성을 획득했다. 그 밖에도 전주위 모니",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00035/Sheet1/000008",
+      "sourceBindingSha256": "620db5cb360d18f72717f4a4415b9810bc67f015967e2419523c840426c72262",
+      "sourceTextSha256": "788bb429a72c3326154778bb6f051bce8c86e277ad64fd4341087898af97af45",
+      "freshTranslation": "- 리니어 시트식 ㊥ 콕핏이나 탈착식 발칸 포드 시스템 등 신기술이 기체 각처에 담겨 ㊥ 되고 있다. ㊥ 카미유 등의 손으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00035/Sheet1/000009",
+      "sourceBindingSha256": "db4928ae5e48afc8d778b2177b48fad2ffa81a0e19b9c18364c85fb2cbcf62b9",
+      "sourceTextSha256": "906af8d9fa826d088ee7a0d62cf16802cdc89b1b25a34309523976b538c0c366",
+      "freshTranslation": "네즈로부터 탈취되어 에우고의 소속이 된 후, 기계㊥체색이 블랙에서 화이트로 변경된다. ㊥ 주요 무장은 빔 라이플, 빔 세이버, 롱 라이플, 하이퍼 ㊥ 바주카 등이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00035/Sheet1/000010",
+      "sourceBindingSha256": "9984610bb58cf156f25ed7b52f9ab81e9e8eddec74d93464f908d1a2f8c2af7e",
+      "sourceTextSha256": "7dc0fc7452e405f5c315cadf6ad6e892e3f7bd9c65fb9cb7f1f9ef058c909315",
+      "freshTranslation": "티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00035/Sheet1/000011",
+      "sourceBindingSha256": "bdd64a8556711a25c6f2911dc598765c79098a8abf06a1746da323baff356853",
+      "sourceTextSha256": "607343afa0760943c978f0124f73f902fc4e6780734fdf877490311612680575",
+      "freshTranslation": "네즈가 그립스에서 독자적으로 개발한 모빌슈트. ㊥ 초대 건담의 재설계기이지만, 그 최대의 특징은 코어 블록 시스템을 ㊥ 폐지해, 무버블 프레임을 채용한 것이다. 이렇게하면 인체에 더 가까운 ㊥ 움직임이 가능 해지고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00035/Sheet1/000012",
+      "sourceBindingSha256": "59f8c83e9d6d0a5fc9ec63c3e3f3569780c47acec51215141c053c56376e0b41",
+      "sourceTextSha256": "5608fa3fd7562edc620418dc8caeee3c26760e51cb208903bb045a613479ced8",
+      "freshTranslation": "동성을 획득했다. 그 밖에도 전주위 모니",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00035/Sheet1/000013",
+      "sourceBindingSha256": "1c27a4bc021f99f3dc757f17ff2789472e16a5102a2218ca3d68ef96f443aa9f",
+      "sourceTextSha256": "788bb429a72c3326154778bb6f051bce8c86e277ad64fd4341087898af97af45",
+      "freshTranslation": "- 리니어 시트식 ㊥ 콕핏이나 탈착식 발칸 포드 시스템 등 신기술이 기체 각처에 담겨 ㊥ 되고 있다. ㊥ 카미유 등의 손으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00035/Sheet1/000014",
+      "sourceBindingSha256": "1fff0d9e9f82ac91a08711126c9fda89ed81d45eade410a1873804b5ac43e555",
+      "sourceTextSha256": "906af8d9fa826d088ee7a0d62cf16802cdc89b1b25a34309523976b538c0c366",
+      "freshTranslation": "네즈로부터 탈취되어 에우고의 소속이 된 후, 기계㊥체색이 블랙에서 화이트로 변경된다. ㊥ 주요 무장은 빔 라이플, 빔 세이버, 롱 라이플, 하이퍼 ㊥ 바주카 등이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

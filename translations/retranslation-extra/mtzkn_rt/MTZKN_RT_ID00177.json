@@ -1,0 +1,159 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00177",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00177/Sheet1/000002",
+      "sourceBindingSha256": "342acabe3620b8a8b16ea3e4d87c2a41721d0beaafa526ae7ef72748ea0183cf",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00177/Sheet1/000003",
+      "sourceBindingSha256": "8b696b81daf0faf77df0468ba8dacfae42103834124dfc41b2a50841fa76f82e",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00177/Sheet1/000004",
+      "sourceBindingSha256": "3665c42618a63b94942386d8f949ef4e87a915ac9972cdaaf48417cec63be453",
+      "sourceTextSha256": "7de53e62aeb0947cc27e4885aff9f67af9278c1d383020a2efcf9ffd791a2054",
+      "freshTranslation": "ARX-7 아바레스트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00177/Sheet1/000005",
+      "sourceBindingSha256": "471fd0f898a2a23ba803cb94713df06ba71493087115f9b227103e0ca7e723ee",
+      "sourceTextSha256": "7de53e62aeb0947cc27e4885aff9f67af9278c1d383020a2efcf9ffd791a2054",
+      "freshTranslation": "ARX-7 아바레스트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00177/Sheet1/000006",
+      "sourceBindingSha256": "e5b7ca82a92411da519dde28c86fd244ded91e7527d565fdbb4df33fa36ba573",
+      "sourceTextSha256": "f91afdc28beeb902f129d5bc6b845c29aa164b9130da1547c25a16cbec2052dc",
+      "freshTranslation": "사가라 무네스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00177/Sheet1/000007",
+      "sourceBindingSha256": "b1519234157169103ec000065333a7e0f3812b74f5e73f007eb66ae5cfcdef80",
+      "sourceTextSha256": "c9bcb34610c2a77b9064b97b92df404b060814318ee707bd89bc5523b7e6d119",
+      "freshTranslation": "대 테러 조직 미스릴이 보유한 AS. ㊥사이라 무네스케 군조 선임 오퍼레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00177/Sheet1/000008",
+      "sourceBindingSha256": "0704aa57100904cf3c6699756952a7746e30087ed21d9e581ed60188193c4ffa",
+      "sourceTextSha256": "fad13b9cec07488aaa2980978c125201fa2f3acc4ae00951593f31dd98126bb2",
+      "freshTranslation": "ー(탑승자)로 한다.㊥M9를 기반으로 개발된 최신예의 3세대 AS. 그 가장 큰 특징은 블랙 테크㊥노로지인 「람다 드라이버」를 탑재하고 있는 것이다. 람다 드라이버와㊥탑승자의 공격 충동을 물리적 힘으로 변환하는 시스템으로 일반 AS에서는 불가능합니다.㊥파워나 기동성을 발휘할 수 있다. 미스릴이 보유한 AS로서는 유일하게 본 기기㊥만이 시스템을 구현합니다. 그러나 그 발동에 관해서는 불확실한 곳㊥따라서 원래의 소스케는 무기로서의 신뢰성이 부족하여 본 기기에 혐오감을 느낍니다.㊥안고 있었다.㊥무장 등은 미스릴 공통의 규격을 채용. 따라서 M9 장비 등을 그대로 사용하십시오.㊥사용할 수 있다. 주요 무장은 소스케가 선호하고 사용하는 복서 산탄포, 단분자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00177/Sheet1/000009",
+      "sourceBindingSha256": "ed84abf3328065232672ce3d1088018ae8c064984805ba12e1f010d28a8562e0",
+      "sourceTextSha256": "2f28d3c7d4e7112b1e80e25b0937fd68b853f6662e36e19c5220a0229e79171c",
+      "freshTranslation": "등 ㊥로 고정 무기로는 2문 체인건과 양팔에 장비된 와이어건이 있다. ㊥ 동력원은 팔라듐 리액",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00177/Sheet1/000010",
+      "sourceBindingSha256": "d48f69cd59e60ad33ccb81a8e96df16917c93ceaffc945f414438840c42bed01",
+      "sourceTextSha256": "9b887aa9601cab926d64b78993414f20ba1e65a52d547367718e76abfe610da9",
+      "freshTranslation": "-에서 최대 작전 행동 시간은 100시간이다. ㊥AI의 콜사인은 알. 처음 아바레스트를 탄 소스케를 탑승자로서 최적㊥화한다. 이후는 그 변경이 불가능해지고, 그 이외의 인간에게는 람다 드라이버를 작동㊥ 할 수 없게 되는 등, 수수께끼가 많은 기체이기도 하다. ㊥ 당초는 고가의 실험기로서 투아하 데 다낭에 배치되어 있었지만, 한카자 ㊥ 치슈에서의 하이잭 사건시에 소스케가 탑승. ㊥ 이후 우여곡절을 거치면서 그와 함께 많은 격전을 빠져나간다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00177/Sheet1/000011",
+      "sourceBindingSha256": "93b83c9278e841c8cbb0ce66cface27ba8da81a9380ffe02acec0a4ec7d346c4",
+      "sourceTextSha256": "c9bcb34610c2a77b9064b97b92df404b060814318ee707bd89bc5523b7e6d119",
+      "freshTranslation": "대 테러 조직 미스릴이 보유한 AS. ㊥사이라 무네스케 군조 선임 오퍼레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00177/Sheet1/000012",
+      "sourceBindingSha256": "3086706f69226c0565e3a1370a6d5ffd1b5b6b0131a85dede82a5cbe13e71d84",
+      "sourceTextSha256": "fad13b9cec07488aaa2980978c125201fa2f3acc4ae00951593f31dd98126bb2",
+      "freshTranslation": "ー(탑승자)로 한다.㊥M9를 기반으로 개발된 최신예의 3세대 AS. 그 가장 큰 특징은 블랙 테크㊥노로지인 「람다 드라이버」를 탑재하고 있는 것이다. 람다 드라이버와㊥탑승자의 공격 충동을 물리적 힘으로 변환하는 시스템으로 일반 AS에서는 불가능합니다.㊥파워나 기동성을 발휘할 수 있다. 미스릴이 보유한 AS로서는 유일하게 본 기기㊥만이 시스템을 구현합니다. 그러나 그 발동에 관해서는 불확실한 곳㊥따라서 원래의 소스케는 무기로서의 신뢰성이 부족하여 본 기기에 혐오감을 느낍니다.㊥안고 있었다.㊥무장 등은 미스릴 공통의 규격을 채용. 따라서 M9 장비 등을 그대로 사용하십시오.㊥사용할 수 있다. 주요 무장은 소스케가 선호하고 사용하는 복서 산탄포, 단분자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00177/Sheet1/000013",
+      "sourceBindingSha256": "483db3dbe4c262d94ae37df1b4d15cedf84a605ac75056961724610a506494c9",
+      "sourceTextSha256": "2f28d3c7d4e7112b1e80e25b0937fd68b853f6662e36e19c5220a0229e79171c",
+      "freshTranslation": "등 ㊥로 고정 무기로는 2문 체인건과 양팔에 장비된 와이어건이 있다. ㊥ 동력원은 팔라듐 리액",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00177/Sheet1/000014",
+      "sourceBindingSha256": "431883b48896141f38559f990aa2ac1ca701df46f2eb0dcbded210e3d72a2b12",
+      "sourceTextSha256": "9b887aa9601cab926d64b78993414f20ba1e65a52d547367718e76abfe610da9",
+      "freshTranslation": "-에서 최대 작전 행동 시간은 100시간이다. ㊥AI의 콜사인은 알. 처음 아바레스트를 탄 소스케를 탑승자로서 최적㊥화한다. 이후는 그 변경이 불가능해지고, 그 이외의 인간에게는 람다 드라이버를 작동㊥ 할 수 없게 되는 등, 수수께끼가 많은 기체이기도 하다. ㊥ 당초는 고가의 실험기로서 투아하 데 다낭에 배치되어 있었지만, 한카자 ㊥ 치슈에서의 하이잭 사건시에 소스케가 탑승. ㊥ 이후 우여곡절을 거치면서 그와 함께 많은 격전을 빠져나간다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

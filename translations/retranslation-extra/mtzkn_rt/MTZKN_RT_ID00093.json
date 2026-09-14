@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00093",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00093/Sheet1/000002",
+      "sourceBindingSha256": "6194dbe074f6ff31ebf1c62b60212f037b1e15037a9e9f1f33e5d77b3319912b",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00093/Sheet1/000003",
+      "sourceBindingSha256": "eb1cf00be33e07a98cf354ef17f0dc8e92f6f13252a6f650fb4c5ab6fd49a5ea",
+      "sourceTextSha256": "d5001b7fb3986c30ca16f73849ebe70576462cc9e4f91b3ce5b53c4a3ce2b3a9",
+      "freshTranslation": "드라이센",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00093/Sheet1/000004",
+      "sourceBindingSha256": "e2cf024cd7eeff730e4f667d178144d65c9df9a2e3260ef0b7388d5a2f7a0b28",
+      "sourceTextSha256": "d5001b7fb3986c30ca16f73849ebe70576462cc9e4f91b3ce5b53c4a3ce2b3a9",
+      "freshTranslation": "드라이센",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00093/Sheet1/000005",
+      "sourceBindingSha256": "d513e422b0fbdf3f0d0cfe8fd21018baae30ce2ad6e76a6348bfa1b60479e83b",
+      "sourceTextSha256": "3b8996de795af1116ff31cc713bd824ad8044d09fbfdc449d73183e049bdc6fe",
+      "freshTranslation": "제1차 네오지온 항쟁 때 네오지온군이 지구 침공 작전용으로 개발한 모㊥빌슈트. ㊥ 안정적인 고성능을 자랑하며, 건다리움 합금제의 장갑과 고출력의 제네레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00093/Sheet1/000006",
+      "sourceBindingSha256": "495ed73fc2c525b6f109f883724336674da2b9536d6c5acac31a14af69a17192",
+      "sourceTextSha256": "97da1a85e3562aa3a104ff8b7147c2ed5937c22c8131d3c01e2d0ddc520df6cc",
+      "freshTranslation": "-는 ㊥U. C. 0096년대 모빌슈트와 비교해도 뒤떨어지지 않는다. 그 때문에, 전력의 부족㊥인 소매 첨부에 있어서 귀중한 전력이 되고 있다. ㊥ 내장 화기로서, 팔부에 3연장 빔 건과 트라이 블레이드라고 불리는 사출",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00093/Sheet1/000007",
+      "sourceBindingSha256": "f586dd569f9e4559a54d226588e416bc5870030a3e8b4c873e01633e28afde54",
+      "sourceTextSha256": "18c1a38b8d4a01afff14360443e5b9515c9a8deb7e5ab73919bb9ad685aa47b4",
+      "freshTranslation": "참격무기를 장비하고 있다. 또, 시난주의 바주카를 기초로 새롭게 개발된 자㊥이언트 버즈를 옵션으로서 장비한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00093/Sheet1/000008",
+      "sourceBindingSha256": "671d9b430c7e0086eba4d0fde79700feb3578962434261488eb75fcbc4be939b",
+      "sourceTextSha256": "3b8996de795af1116ff31cc713bd824ad8044d09fbfdc449d73183e049bdc6fe",
+      "freshTranslation": "제1차 네오지온 항쟁 때 네오지온군이 지구 침공 작전용으로 개발한 모㊥빌슈트. ㊥ 안정적인 고성능을 자랑하며, 건다리움 합금제의 장갑과 고출력의 제네레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00093/Sheet1/000009",
+      "sourceBindingSha256": "ca499bc7cb2c243fdcf5cd0e78a9ad7b70a78e770086aba61bdb418be5c7b955",
+      "sourceTextSha256": "97da1a85e3562aa3a104ff8b7147c2ed5937c22c8131d3c01e2d0ddc520df6cc",
+      "freshTranslation": "-는 ㊥U. C. 0096년대 모빌슈트와 비교해도 뒤떨어지지 않는다. 그 때문에, 전력의 부족㊥인 소매 첨부에 있어서 귀중한 전력이 되고 있다. ㊥ 내장 화기로서, 팔부에 3연장 빔 건과 트라이 블레이드라고 불리는 사출",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00093/Sheet1/000010",
+      "sourceBindingSha256": "4baa4308fab5960dcb9c99723b25140e960300c3dd572831d177969b4d132913",
+      "sourceTextSha256": "18c1a38b8d4a01afff14360443e5b9515c9a8deb7e5ab73919bb9ad685aa47b4",
+      "freshTranslation": "참격무기를 장비하고 있다. 또, 시난주의 바주카를 기초로 새롭게 개발된 자㊥이언트 버즈를 옵션으로서 장비한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

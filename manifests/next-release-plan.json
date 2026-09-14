@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 2,
+  "gameId": "PCSG00264",
+  "requiredGameVersion": "1.02",
+  "status": "blocked",
+  "snapshotInterpretation": "The baselines describe an observed, mixed-date archive state; they are not asserted to be a coherent published release.",
+  "baselineManifests": [
+    {
+      "path": "legacy-main.json",
+      "sha256": "14f4a9f4b8440ec1c2fe115c8cf06c6551d4c13304c9c1222d5592b87363781e",
+      "snapshotLabel": "observed-main-mixed-2025-01-06-to-2025-01-10",
+      "snapshotKind": "observed-archive-state"
+    },
+    {
+      "path": "legacy-dlc.json",
+      "sha256": "ce6f7aeb1c382f0dceae933e6069b49af45931ffe7f6b465ba6223f12d837102",
+      "snapshotLabel": "observed-dlc-2025-01-10",
+      "snapshotKind": "observed-archive-state"
+    }
+  ],
+  "releaseScopeDecision": {
+    "status": "blocked",
+    "question": "Choose whether the next release is Vita3K-only or also includes a separately validated real-hardware track."
+  },
+  "releaseTracks": {
+    "vita3k": {
+      "status": "blocked",
+      "target": "Vita3K PC/Android",
+      "inputRootKind": "Legally dumped and decrypted PCSG00264 update 1.02 tree matching every original hash in the selected manifest.",
+      "manifests": ["legacy-main.json", "legacy-dlc.json"],
+      "blockingGateIds": [
+        "scope-decision",
+        "secret-rotation",
+        "eboot-delta",
+        "stg0202-repack",
+        "kdata-decision",
+        "cpk-reproducibility",
+        "translation-scope",
+        "font-texture-licensing",
+        "aid-residual-markers",
+        "dlc-play-qa"
+      ]
+    },
+    "hardware": {
+      "status": "research",
+      "target": "PS Vita real hardware",
+      "inputRootKind": "Legally dumped app, patch, and addcont roots kept separate; no merged-root baseline has been approved.",
+      "manifests": [],
+      "blockingGateIds": [
+        "scope-decision",
+        "secret-rotation",
+        "hardware-layout",
+        "hardware-font-tpack",
+        "hardware-play-qa",
+        "dlc-play-qa",
+        "font-texture-licensing"
+      ]
+    }
+  },
+  "originalHashAnchors": [
+    {
+      "path": "eboot.bin",
+      "sha256": "6ef4490394fac7b52878b694ce9e77d3ade87938f16bdac6ec75c13afe927b7b"
+    },
+    {
+      "path": "CommonData/MtData/rpw_data.cpk",
+      "sha256": "cac8bd72479ce292753f75191f4b97ad296d75bea1a67b4fdf9dab6509482503"
+    },
+    {
+      "path": "DATA/AIDDATA/AIDDataPack.cpk",
+      "sha256": "a8379ce089f70960e2222daaaf092ff28d1f59a641a1f30091c465acc33906be"
+    },
+    {
+      "path": "DATA/BTLC/SRVC.BIN",
+      "sha256": "47c34677df2d11c152ac4741c9a3b4886215d19b23626057a01f7a16185356bf"
+    },
+    {
+      "path": "sce_sys/param.sfo",
+      "sha256": "e8abc2cebf97112d59319c7dde5f80d99a6cd02fc7344d2db5a07b2ab9d77fb4"
+    },
+    {
+      "path": "DATA/kurodata/KDataVITA.cpk",
+      "sha256": "28edad7a7d8070a949d5be88ce286889560dc2b25025c4fc9f07cb58ff963f7e",
+      "note": "Changed localized counterpart exists, but this target was absent from the 222-entry main manifest."
+    }
+  ],
+  "main": {
+    "regenerate": [
+      {
+        "targetPath": "eboot.bin",
+        "status": "blocked",
+        "reason": "The archived delta does not reproduce the currently observed localized SHA-256."
+      },
+      {
+        "targetPath": "DATA/STAGE/STG0202.cpk",
+        "status": "needs-repack-and-play-verification",
+        "reason": "A payload-to-ID order mismatch is structurally confirmed; author intent and gameplay impact still require verification."
+      }
+    ],
+    "decideAndInclude": [
+      {
+        "targetPath": "DATA/kurodata/KDataVITA.cpk",
+        "status": "decision-required",
+        "localizedSha256": "bb7905a9162530527f858a3effb935a0582459c6950724133cd4676dc6360817",
+        "reason": "The localized file differs from the original but was omitted from the legacy 222-entry manifest."
+      }
+    ],
+    "removeIfConfirmedNoOp": [
+      "DATA/STAGE/STG0400.cpk",
+      "DATA/STAGE/STG0401.cpk",
+      "DATA/STAGE/STG0904.cpk",
+      "DATA/STAGE/STG0905.cpk"
+    ],
+    "notYetIntegrated": [
+      "Latest observed TPACKVITA ID00001/ID00003 font-atlas work; release integration evidence not found.",
+      "Real-hardware app/patch/addcont overlay."
+    ]
+  },
+  "knownTranslationDebt": [
+    {
+      "id": "battle-dialogue",
+      "status": "unresolved",
+      "description": "The legacy release notes describe battle dialogue as provisional."
+    },
+    {
+      "id": "dictionary-data",
+      "status": "unresolved",
+      "description": "The legacy release notes describe dictionary progress as zero; archive work roots 5_AND_BIN, 6_MtV_all_keyword_def_cpk, 7_MtZkn_msg_dat, 8_MtZkn_xls_cpk, and 9_MtZkn_mdl_cpk must be inventoried into the new build graph."
+    },
+    {
+      "id": "team-name-corruption",
+      "status": "unresolved",
+      "description": "Automatically generated team names can render incorrectly."
+    },
+    {
+      "id": "name-truncation",
+      "status": "unresolved",
+      "description": "Some names are truncated by field limits."
+    },
+    {
+      "id": "aid-residual-markers",
+      "status": "needs-verification",
+      "description": "Review the AIDDataPack work markers for the deferred ID00004 item and DLC ending-credit items 10-40 before accepting the legacy menu-complete claim."
+    }
+  ],
+  "dlc": {
+    "deltaRoundTrip": "29/29 passed",
+    "playQa": {
+      "status": "blocked",
+      "observedLegacyProgress": "through item 18",
+      "remaining": "item 19 onward"
+    }
+  },
+  "expectedValidationExceptions": {
+    "xdeltaRoundTrip": [
+      {
+        "manifest": "legacy-main",
+        "targetPath": "eboot.bin",
+        "status": "hash-mismatch"
+      }
+    ],
+    "manifestCoverage": [
+      {
+        "manifest": "legacy-main",
+        "kind": "changedNotManifested",
+        "path": "DATA/kurodata/KDataVITA.cpk"
+      }
+    ]
+  },
+  "releaseGates": [
+    {
+      "id": "baseline-pinning",
+      "status": "satisfied",
+      "description": "Committed baseline manifest hashes are pinned above."
+    },
+    {
+      "id": "scope-decision",
+      "status": "blocked",
+      "description": "Select Vita3K-only or independently validated Vita3K and real-hardware release tracks."
+    },
+    {
+      "id": "secret-rotation",
+      "status": "blocked",
+      "description": "Revoke the exposed API and service-account credentials."
+    },
+    {
+      "id": "eboot-delta",
+      "status": "blocked",
+      "description": "Generate and round-trip a delta for the intended localized eboot."
+    },
+    {
+      "id": "stg0202-repack",
+      "status": "blocked",
+      "description": "Repack the structurally mismatched payload order and complete gameplay verification."
+    },
+    {
+      "id": "kdata-decision",
+      "status": "blocked",
+      "description": "Decide whether KDataVITA belongs in the release and pin its provenance."
+    },
+    {
+      "id": "cpk-reproducibility",
+      "status": "blocked",
+      "description": "Document and reproduce the CPK generator and exact options."
+    },
+    {
+      "id": "translation-scope",
+      "status": "blocked",
+      "description": "For every known translation debt item, record either a verified fix or an explicit release deferral."
+    },
+    {
+      "id": "aid-residual-markers",
+      "status": "blocked",
+      "description": "Resolve or explicitly defer the remaining AIDDataPack work markers."
+    },
+    {
+      "id": "dlc-play-qa",
+      "status": "blocked",
+      "description": "Resume gameplay QA from legacy item 19 onward."
+    },
+    {
+      "id": "font-texture-licensing",
+      "status": "blocked",
+      "description": "Confirm redistribution rights and asset attribution."
+    },
+    {
+      "id": "hardware-layout",
+      "status": "blocked",
+      "description": "Define and test separate app, patch, and addcont inputs and installation layout."
+    },
+    {
+      "id": "hardware-font-tpack",
+      "status": "blocked",
+      "description": "Rebuild TPACK and verify the intended internal font integration on hardware."
+    },
+    {
+      "id": "hardware-play-qa",
+      "status": "blocked",
+      "description": "Complete a hardware-specific smoke and regression matrix."
+    }
+  ],
+  "distributionPolicy": "Distribute no original game files. Any future delta requires a legally owned exact source whose hashes match the selected manifest."
+}

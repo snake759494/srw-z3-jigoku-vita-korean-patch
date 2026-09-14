@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00233",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00233/Sheet1/000002",
+      "sourceBindingSha256": "e99acbe8104b0380e2b434512d55e5da14f5e08d73705d8e66059f63d3f988ab",
+      "sourceTextSha256": "eb3cfbf1551bd39a188b50120692b8a4d45283d05fef956a5d48a8b1a2cd7dea",
+      "freshTranslation": "스미다 요스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00233/Sheet1/000003",
+      "sourceBindingSha256": "1be52503d42e8ce03478e02af3ae31b9709211de778243931740e203d332cbc3",
+      "sourceTextSha256": "0c1abb4bccaeccdd85546506ca9eee21a44b6e511f23a0452a6c21f415bbad7e",
+      "freshTranslation": "스미다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00233/Sheet1/000004",
+      "sourceBindingSha256": "61c29b3e3c43559b5b8b4478745607c934662e364b41c7bc8058d182a2cf847b",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00233/Sheet1/000005",
+      "sourceBindingSha256": "cd286abae0cfbd6b63250a0df5b4b81bec91a0a2e9f765deb603a0f431add5a6",
+      "sourceTextSha256": "9756465114e881fc98431434a35482e6e4c26bd07f8dd0c9a12be45e72b02496",
+      "freshTranslation": "21세기 경비 보장의 다이 가드 정비 반반장. ㊥ 무언가와 느끼는 아카기와는 사이가 좋고, 입은 나쁘지만 정비의 팔은 확실하다. 헤테로 다인과의 ㊥ 격전이나 아카기의 무차로 피해를 입은 다이 가드를 항상 베스트 컨디션에 가까이 ㊥ 붙이고 있었다. ㊥다이가드용 기기를 개발한다는 관계상, 동사의 기술부와는 끊어도 끊어진 ㊥인 관계에 있지만, 기술부 주임인 백메오니에게는 당초에는 그다지 좋은 감정을 가지고 없는 ㊥이었다. 그러나 백목귀가 넘어진 박자에게 보여준 본모습을 보고 한눈에 반해, 이후는 뭔가 ㊥ 사용되고 있었지만, 반한 약점인가, 어딘가 기쁘게 하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00233/Sheet1/000006",
+      "sourceBindingSha256": "2abddfa6f8246bb7fa91bdc19f5db2b87419ce891b8968cdf262426690cecc04",
+      "sourceTextSha256": "9756465114e881fc98431434a35482e6e4c26bd07f8dd0c9a12be45e72b02496",
+      "freshTranslation": "21세기 경비 보장의 다이 가드 정비 반반장. ㊥ 무언가와 느끼는 아카기와는 사이가 좋고, 입은 나쁘지만 정비의 팔은 확실하다. 헤테로 다인과의 ㊥ 격전이나 아카기의 무차로 피해를 입은 다이 가드를 항상 베스트 컨디션에 가까이 ㊥ 붙이고 있었다. ㊥다이가드용 기기를 개발한다는 관계상, 동사의 기술부와는 끊어도 끊어진 ㊥인 관계에 있지만, 기술부 주임인 백메오니에게는 당초에는 그다지 좋은 감정을 가지고 없는 ㊥이었다. 그러나 백목귀가 넘어진 박자에게 보여준 본모습을 보고 한눈에 반해, 이후는 뭔가 ㊥ 사용되고 있었지만, 반한 약점인가, 어딘가 기쁘게 하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

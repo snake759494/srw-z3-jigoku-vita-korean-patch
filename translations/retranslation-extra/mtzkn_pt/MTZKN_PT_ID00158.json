@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00158",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00158/Sheet1/000002",
+      "sourceBindingSha256": "e9946f62a5286edc305d52db701aeaf3358f350ee481de16bfd21ba4a1e6dd3b",
+      "sourceTextSha256": "d69612cd34187f6209c4f75e712ebd67c5588cd61f42ad9fd66e51e624959c45",
+      "freshTranslation": "미콧 자작나무",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00158/Sheet1/000003",
+      "sourceBindingSha256": "9d021bf64f77f0436b9cd78355645752f9e2fa6867df1cc2c85084b724c042e7",
+      "sourceTextSha256": "39c9d8efde6d077cd46c9bb45a6cfb8dcb98376999a97c99a71448d06929387b",
+      "freshTranslation": "미콧",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00158/Sheet1/000004",
+      "sourceBindingSha256": "4cc4b3e31e6b275cff9b73fbd5fe47157fbbb4e8c4f09635f3ebc308195f44ac",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00158/Sheet1/000005",
+      "sourceBindingSha256": "0cabdf1f46639a54fe16ea266c184a4a34b933bcecd413cb22120fa721d373c0",
+      "sourceTextSha256": "56003cb6fd8c81b16d3bcb18108a22e23ffa21d834b9efd55693cff896c6c866",
+      "freshTranslation": "애너하임 일렉트로닉스 공업 전문 학교 학생. 16세. ㊥ 배너지 친구이며 비밀리에 그에게 호의를 보이고 있습니다. ㊥인더스트리얼 7의 전투에서 네엘 아가마에 수용된 이후 그대로 승선㊥한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00158/Sheet1/000006",
+      "sourceBindingSha256": "4a81ac6f435193c2e61369046edceb46537913bfd3a5d7f512f651f591fd0991",
+      "sourceTextSha256": "c0fb3d871337bd47790b43efac45443dffc998f25756ad090ffd0338760c3833",
+      "freshTranslation": "애너하임 일렉트로닉스 공업 전문 학교 학생. 16세. ㊥ 배너지 친구이며 비밀리에 그에게 호의를 보이고 있습니다. ㊥인더스트리얼 7의 전투에서 네엘 아가마에 수용된 이후 그대로 승선㊥한다. ㊥ 오드리가 미네바 자비라고 알게 된 후, 전재를 당한 것으로부터 그녀를 적시하는 것도, ㊥ 그녀의 결의에 마음을 움직여 네엘 아가마로부터의 탈주를 놓쳤다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

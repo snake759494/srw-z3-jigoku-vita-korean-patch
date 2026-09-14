@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00094",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00094/Sheet1/000002",
+      "sourceBindingSha256": "34414b59d91c986abae34110e00874a5cf179846940a553c581fc83f176f9158",
+      "sourceTextSha256": "ce9b31b78fd3a4c3ab62ce3d9109257a25f3a8705a4125f256bcfc52cdf9f118",
+      "freshTranslation": "알로우즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00094/Sheet1/000003",
+      "sourceBindingSha256": "8b03797799bbe428147b5a2d46cf40e75c62853082541a1c4c64c91beeec8b72",
+      "sourceTextSha256": "7669c78573db7851e69684ca226465fd07fe9556c10d361219f1dde2c7e809ab",
+      "freshTranslation": "「극장판 기동전사 건담 00-AwakeningofftheTrailblazer-」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00094/Sheet1/000004",
+      "sourceBindingSha256": "e2e820e424b0ad90f969bdf9a93a7a006657b4b550550857f04fcd173bceca3f",
+      "sourceTextSha256": "1fa4d36ab96b8a7d90a6bbdbf74c7cb3fadc4e530819e13a04ba1dd86be4cc02",
+      "freshTranslation": "지구 연방군 내의 독립 치안 유지 부대. ㊥ 정규군을 웃도는 초법규적인 권한을 가지며, 장비에 있어서도 최신예의 것이 우선㊥적으로 배치되고 있다. ㊥ 인류를 관리하는 이노베이드, 리본스 알마크의 의지하에 지구 연방 ㊥에 반항적인 소국과 레지스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00094/Sheet1/000005",
+      "sourceBindingSha256": "f14c97bf6e4f68cedd91dd6215bc1d6a5e9eb0b41613669afeabd6c9e3022697",
+      "sourceTextSha256": "f2b231975889ca307e64d13c9a1a63e2dad48005395e59a07300004cd65beb37",
+      "freshTranslation": "탄수리를 탄압해 왔다. 또한 나중에는 정규군에 대해 ㊥도 전면적인 지휘권을 얻는다. ㊥솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00094/Sheet1/000006",
+      "sourceBindingSha256": "4d9f5e785fabf4d7578253d99330f229ff011d7b72c836e3d093c841e1c48325",
+      "sourceTextSha256": "a4d77f7ed1be478c6675b4712fcacf47083e44ae635f975d8d762642fecc257d",
+      "freshTranslation": "루비잉이 이노베이드에 승리한 것을 계기로 지구 연방군도 재편 ㊥ 성취되었고, 어로우즈도 해체되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00094/Sheet1/000007",
+      "sourceBindingSha256": "0bbf55c2bbc586c91e246fd7ef0cf65257e53b15d02d635efde6d03f440dec4c",
+      "sourceTextSha256": "1fa4d36ab96b8a7d90a6bbdbf74c7cb3fadc4e530819e13a04ba1dd86be4cc02",
+      "freshTranslation": "지구 연방군 내의 독립 치안 유지 부대. ㊥ 정규군을 웃도는 초법규적인 권한을 가지며, 장비에 있어서도 최신예의 것이 우선㊥적으로 배치되고 있다. ㊥ 인류를 관리하는 이노베이드, 리본스 알마크의 의지하에 지구 연방 ㊥에 반항적인 소국과 레지스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00094/Sheet1/000008",
+      "sourceBindingSha256": "c28d99e7adb6b02f3b3751ffeb7b3ef138544645d505ca6a6970ce87c5fdea64",
+      "sourceTextSha256": "f2b231975889ca307e64d13c9a1a63e2dad48005395e59a07300004cd65beb37",
+      "freshTranslation": "탄수리를 탄압해 왔다. 또한 나중에는 정규군에 대해 ㊥도 전면적인 지휘권을 얻는다. ㊥솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00094/Sheet1/000009",
+      "sourceBindingSha256": "538ac60bfd233652c011bf5c7d9f1dd2477e1f23b42164ba859ccada18aea99c",
+      "sourceTextSha256": "a4d77f7ed1be478c6675b4712fcacf47083e44ae635f975d8d762642fecc257d",
+      "freshTranslation": "루비잉이 이노베이드에 승리한 것을 계기로 지구 연방군도 재편 ㊥ 성취되었고, 어로우즈도 해체되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

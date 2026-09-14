@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00153",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00153/Sheet1/000002",
+      "sourceBindingSha256": "7ee2cb2397afedc3403e5f7d0350c14ddfeb10d6f6592c82f4d2c48b720d1f31",
+      "sourceTextSha256": "6fe679bb9ef1c304712f8d7a46b379dc0024ce0bf2f5d247c82e60f885ad00e5",
+      "freshTranslation": "힐 도슨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00153/Sheet1/000003",
+      "sourceBindingSha256": "9ceb7e6fb474e6930a9e97f041605fe1426430b0165bdefbe37de40d648bf0f2",
+      "sourceTextSha256": "7f8c01ee55f9f787ed872c9aefe59fd7688f11263b5b859a92bd2fce32b5beb2",
+      "freshTranslation": "힐",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00153/Sheet1/000004",
+      "sourceBindingSha256": "5984836fe976e24659357cb709e3936aefcbd95bb37f3cbd5cf5b6dae74ea835",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00153/Sheet1/000005",
+      "sourceBindingSha256": "0ca2de290ffab1b9b253605d5acffcea0707b629634a4c2344975f0e65975a5e",
+      "sourceTextSha256": "f008adc8cc2ce50de5b880d84c756c2ebe11a38a8378e086003319bf80b24569",
+      "freshTranslation": "우메즈 히데유키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00153/Sheet1/000006",
+      "sourceBindingSha256": "5b2aa4e42a85732200ffc9438bb4c911125855b292ac5d9bf3709d13e4313580",
+      "sourceTextSha256": "4cb849b942e1f5b3d59e4412f5e93f9d878c453b7d6782014266bb77a305c4f2",
+      "freshTranslation": "「소매 첨부」의 기함 레울룰라의 함장. 계급은 대령. 43세. ㊥ 친위대의 권력을 가사에 입는 안젤로에게 불쾌감을 나타내면서도 임무를 다하는 군인. ㊥ 유니콘 건담을 회수한 네르 아가마에게 공격을 가한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00153/Sheet1/000007",
+      "sourceBindingSha256": "1dd504bfd22b41cf21fe30e84e3c2324cc57cf12d5787f38e41533204d6cbf86",
+      "sourceTextSha256": "4cb849b942e1f5b3d59e4412f5e93f9d878c453b7d6782014266bb77a305c4f2",
+      "freshTranslation": "「소매 첨부」의 기함 레울룰라의 함장. 계급은 대령. 43세. ㊥ 친위대의 권력을 가사에 입는 안젤로에게 불쾌감을 나타내면서도 임무를 다하는 군인. ㊥ 유니콘 건담을 회수한 네르 아가마에게 공격을 가한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00363",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000002",
+      "sourceBindingSha256": "c91a4ab89faca44e86e04ca8322f12b2bd7de2b38c46b40c7911283df543d831",
+      "sourceTextSha256": "e19de215a737fed033a1ab94ad57abaaa3e75387aba16561d6b54769ce59f073",
+      "freshTranslation": "부채",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000003",
+      "sourceBindingSha256": "6f65d234f063b43b3390161a32b23c34f6a333a674b0c6ae8a11f4099790aa79",
+      "sourceTextSha256": "b40f8de117e644be3d8ab8c76b9b5779575051515b39a54c7b5cfa1a85297d19",
+      "freshTranslation": "코드기어스 반역의 루루슈 R2",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000004",
+      "sourceBindingSha256": "a788d9c7252385b9abbdd117eca862423bf38058316d179e0d8a161811a86855",
+      "sourceTextSha256": "d4f8de436ab66a637724eb8b9ec68ae6e8ffc8102a2c1a21363566f4ed8003cc",
+      "freshTranslation": "한때 도쿄 조계 주변에서 활동했던 레지스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000005",
+      "sourceBindingSha256": "b726e0f98752b48e47e1e37f309803bab34dc6a9337f0b4a62c29bf9044eeffb",
+      "sourceTextSha256": "84c4f23ee038aff6cb17172b8c795d683e672d34aadc464a3dc3c00f735e54f6",
+      "freshTranslation": "은스 조직 '부채 그룹'의 __㊥ 다로 검은 기사단의 부사령. 27세. ㊥ 기억을 잃은 빌레",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000006",
+      "sourceBindingSha256": "3f68de60a8aaf469c08d0023893670424970cf775c650c016366ce0cafd2af94",
+      "sourceTextSha256": "81aeab2e7d2a3f48cd85048d502273c93fdc08e18f73d20aeb2540c0e4b4cf1e",
+      "freshTranslation": "은 익은, 치쿠사라는 이름으로 돌보는 안에 특별한 감정을 품는 ㊥ 되었다. 그 감정은 블랙 리베리온 도중 기억을 되찾은 빌레㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000007",
+      "sourceBindingSha256": "916746bb2554bf0b97ec50025049a41129b3c68efbca215128367bf1a563330f",
+      "sourceTextSha256": "85e60d788952e091a3c35b692ba10a54d802805502b43a7a5926bc23bb606d22",
+      "freshTranslation": "에 쏠 수 있어도 사라질 수는 없었다. ㊥ 블랙 리베리온 후 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000008",
+      "sourceBindingSha256": "b74a574e72bdcb3aef2636c0694f21b1ce1beba2051adb48f9133f0babfbc787",
+      "sourceTextSha256": "c022c19e6aa5b8f0c5f8466c804a1a3094b3cf414a335dbd530fa50b9248f3c7",
+      "freshTranslation": "니어에 의해 일년 별로 구속되고 있었지만, 부활해 ㊥한 제로에 의해 다른 단원과 함께 구출되었다. 이후 다시 검은 기사단의 부사령으로서 제㊥로에 따라 초합집국군에서는 사무총장의 역을 맡았다. ㊥ 오랫동안 떨어져 있더라도 부채의 마음에서 빌레",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000009",
+      "sourceBindingSha256": "c2ddc4917c0dab84e090a58ea5c3f7c825886c9c2a99642249c95f389dcdbe46",
+      "sourceTextSha256": "2cb5539e9841787eed44f66c5f1fd45491007c02ab7f3cf48fc91dfc4fc01542",
+      "freshTranslation": "에 대한 생각이 사라지지 않고, 그 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000010",
+      "sourceBindingSha256": "fc125e81f5bcbcf933011d66dd0c37ee1ddcbcbb162a7451cbfb1a4c4be08f78",
+      "sourceTextSha256": "c60653d09b178b110e32a725e25a01b9e0b8afbe09af8e2c9e15eec56fd98288",
+      "freshTranslation": "부터 제로의 정체와 기어스에 관한 정보를 들었던 부채는 제로에게 자신 ㊥들이 단지 조각에 불과하다는 것을 알고 결별하는 길을 선택하는 것이었다. ㊥ 제로 레퀴엠 후, 빌레",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000011",
+      "sourceBindingSha256": "8a9e78703a0a8157801ba530839caa83428960720aaf9b3f85d531bb096efdc7",
+      "sourceTextSha256": "a44a9a39ce11d30b41f05ac4b9bf14d66feab7a6b18b1a0e1fbaf464b3bc9847",
+      "freshTranslation": "결혼하고, 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000012",
+      "sourceBindingSha256": "67f34801f30deb1f987d8dd48f7c0e9008d159efee52edd72781ddaab9c10c42",
+      "sourceTextSha256": "414fd8ec46cb7d327d3cc2351bf382a6459700a4f4d57cb209c955767129209b",
+      "freshTranslation": "니아로부터 독립한 일본의 목㊥상이 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000013",
+      "sourceBindingSha256": "12189a7e798c7a88cfbe28e9e7f9f5a86dda1d778ff7ea3d4726afe8143f2afb",
+      "sourceTextSha256": "d4f8de436ab66a637724eb8b9ec68ae6e8ffc8102a2c1a21363566f4ed8003cc",
+      "freshTranslation": "한때 도쿄 조계 주변에서 활동했던 레지스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000014",
+      "sourceBindingSha256": "5ccd0b53e38ae6b1b3c1fec0d7b919b3e9b9179e813c7839fdcce87ffae10eb4",
+      "sourceTextSha256": "84c4f23ee038aff6cb17172b8c795d683e672d34aadc464a3dc3c00f735e54f6",
+      "freshTranslation": "은스 조직 '부채 그룹'의 __㊥ 다로 검은 기사단의 부사령. 27세. ㊥ 기억을 잃은 빌레",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000015",
+      "sourceBindingSha256": "b395a6616c4dd5ca44b2ab98e5e22bac30070aac1fbedb506665e1fe10e6a17f",
+      "sourceTextSha256": "81aeab2e7d2a3f48cd85048d502273c93fdc08e18f73d20aeb2540c0e4b4cf1e",
+      "freshTranslation": "은 익은, 치쿠사라는 이름으로 돌보는 안에 특별한 감정을 품는 ㊥ 되었다. 그 감정은 블랙 리베리온 도중 기억을 되찾은 빌레㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000016",
+      "sourceBindingSha256": "3e3a40c0e8c469cd21447b1044a33c28968dfff40cb25e82119302641873bfd4",
+      "sourceTextSha256": "85e60d788952e091a3c35b692ba10a54d802805502b43a7a5926bc23bb606d22",
+      "freshTranslation": "에 쏠 수 있어도 사라질 수는 없었다. ㊥ 블랙 리베리온 후 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000017",
+      "sourceBindingSha256": "55f49d23c5cda5df95aa56921cba8059c3a35a11dfbace46b95b79f9ce6893a6",
+      "sourceTextSha256": "c022c19e6aa5b8f0c5f8466c804a1a3094b3cf414a335dbd530fa50b9248f3c7",
+      "freshTranslation": "니어에 의해 일년 별로 구속되고 있었지만, 부활해 ㊥한 제로에 의해 다른 단원과 함께 구출되었다. 이후 다시 검은 기사단의 부사령으로서 제㊥로에 따라 초합집국군에서는 사무총장의 역을 맡았다. ㊥ 오랫동안 떨어져 있더라도 부채의 마음에서 빌레",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000018",
+      "sourceBindingSha256": "b70421571c3fac68ec49ed8ce62e7a7d692b0a7e7e312c98fb075efe8cf51f6c",
+      "sourceTextSha256": "2cb5539e9841787eed44f66c5f1fd45491007c02ab7f3cf48fc91dfc4fc01542",
+      "freshTranslation": "에 대한 생각이 사라지지 않고, 그 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000019",
+      "sourceBindingSha256": "f516562990ba9043d9228520f44cba6e9fa4a940e38f194a45d527a60cf2eb7e",
+      "sourceTextSha256": "c60653d09b178b110e32a725e25a01b9e0b8afbe09af8e2c9e15eec56fd98288",
+      "freshTranslation": "부터 제로의 정체와 기어스에 관한 정보를 들었던 부채는 제로에게 자신 ㊥들이 단지 조각에 불과하다는 것을 알고 결별하는 길을 선택하는 것이었다. ㊥ 제로 레퀴엠 후, 빌레",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000020",
+      "sourceBindingSha256": "36d640d13fed0d5d8f5c6bcdcb99890c9f49eb723e303dade3ea32524afab84f",
+      "sourceTextSha256": "a44a9a39ce11d30b41f05ac4b9bf14d66feab7a6b18b1a0e1fbaf464b3bc9847",
+      "freshTranslation": "결혼하고, 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00363/Sheet1/000021",
+      "sourceBindingSha256": "fd24236bcf4bf4d950e9bfe1539df8e9eddb0ebddc97070a2aa112c040313c71",
+      "sourceTextSha256": "414fd8ec46cb7d327d3cc2351bf382a6459700a4f4d57cb209c955767129209b",
+      "freshTranslation": "니아로부터 독립한 일본의 목㊥상이 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

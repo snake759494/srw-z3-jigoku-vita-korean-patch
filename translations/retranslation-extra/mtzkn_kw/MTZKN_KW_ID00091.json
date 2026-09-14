@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00091",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00091/Sheet1/000002",
+      "sourceBindingSha256": "fa186ad54415fe332642417f82ea9a5fea3847ee080610abae1ae6571eec745a",
+      "sourceTextSha256": "8d707d1e4e502555eba0e4516e8383c312bb60fb1d65bbd1ea244efa0a38a50d",
+      "freshTranslation": "시공 수리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00091/Sheet1/000003",
+      "sourceBindingSha256": "08cd734a3645fbf181116dc6c9043d39d7c5103ebd29d93b0b08da5f1384fb0f",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00091/Sheet1/000004",
+      "sourceBindingSha256": "eeaffd5e6afce70b8ec55575502ebc751a80ab5f2b2a7a3d3ea79c3701bdb61f",
+      "sourceTextSha256": "ccaace1a7f4166a5588f929070b4b6924cf394c50e3d4ccad6c94e92a91906e6",
+      "freshTranslation": "시공진동에 의해 탄생한 세계의 부자연스러운 차원 경계선의 상황(불안정한 상태, ㊥ 혹은 극단적인 고정 상태)이나 세계 그 자체의 존재 방식을, 특이점의 의지에 의해 ㊥ 수복하는 것. ㊥ 경우에 따라서는, 그 다원 세계 전체를 크게 변용시킨다. ㊥ 시공진동 발생에 큰 영향",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00091/Sheet1/000005",
+      "sourceBindingSha256": "d422a0f050e8ad9875ac79823425be4c6dbcd873e43940c44d3800446407ad23",
+      "sourceTextSha256": "e32a4d9be7a73f6de8840d61d799894b62a6892e10091e0f840f1f9b9c046e66",
+      "freshTranslation": "인물이나 물체가 특이점이 된다. 시공진동에 ㊥은 그 자리에 있던 사람의 의지가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00091/Sheet1/000006",
+      "sourceBindingSha256": "bebec9a3a89b9b1dd014b7ffc6892be0c419415b60b2f04397dc8067f78df041",
+      "sourceTextSha256": "7f8b0f08fe2a544abf9e6d65d17068c187f3afd463c37a5d46640f6ddc85d5a1",
+      "freshTranslation": "따라서, 편의상, 인물을 특이점, 시공진㊥동의 기점이 된 공간 또는 위치를 대특이점이라고 부른다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00091/Sheet1/000007",
+      "sourceBindingSha256": "5661cdb3354cf9757e7cd66a722a5bfce5ea0960ed4201feccd13fbecef6de97",
+      "sourceTextSha256": "ccaace1a7f4166a5588f929070b4b6924cf394c50e3d4ccad6c94e92a91906e6",
+      "freshTranslation": "시공진동에 의해 탄생한 세계의 부자연스러운 차원 경계선의 상황(불안정한 상태, ㊥ 혹은 극단적인 고정 상태)이나 세계 그 자체의 존재 방식을, 특이점의 의지에 의해 ㊥ 수복하는 것. ㊥ 경우에 따라서는, 그 다원 세계 전체를 크게 변용시킨다. ㊥ 시공진동 발생에 큰 영향",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00091/Sheet1/000008",
+      "sourceBindingSha256": "27431bd4a795da838e5650a2ac354bd8591867a12a9fb6bf355d3d188efb5656",
+      "sourceTextSha256": "e32a4d9be7a73f6de8840d61d799894b62a6892e10091e0f840f1f9b9c046e66",
+      "freshTranslation": "인물이나 물체가 특이점이 된다. 시공진동에 ㊥은 그 자리에 있던 사람의 의지가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00091/Sheet1/000009",
+      "sourceBindingSha256": "61fd9bc88bebf6891e821ca179489c3df0039cc2951f75a133a41ce4aee28d86",
+      "sourceTextSha256": "7f8b0f08fe2a544abf9e6d65d17068c187f3afd463c37a5d46640f6ddc85d5a1",
+      "freshTranslation": "따라서, 편의상, 인물을 특이점, 시공진㊥동의 기점이 된 공간 또는 위치를 대특이점이라고 부른다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

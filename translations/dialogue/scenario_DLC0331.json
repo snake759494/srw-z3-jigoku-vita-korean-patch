@@ -1,0 +1,374 @@
+{
+  "$schema": "../../config/dialogue-review.schema.json",
+  "format": "siok.dialogue-review",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "dialogueType": "scenario",
+  "languages": {
+    "source": "ja",
+    "target": "ko"
+  },
+  "asset": {
+    "assetKey": "DLC0331",
+    "fileName": "DLC0331.cpk",
+    "target": "DLC0331/DLC/DLC0331.cpk",
+    "source": {
+      "kind": "normalized-translations-tsv",
+      "fileName": "translations.tsv"
+    },
+    "localized": null
+  },
+  "sourceSnapshot": {
+    "fileName": "translations.tsv",
+    "sha256": "7a7bd4a37228b384a5d8ed7225ccdcb378bbe38cb6196c8057cc439730cbe1cf",
+    "rowCount": 175210
+  },
+  "encoding": {},
+  "policy": {
+    "requiresUserOwnedGame": true,
+    "gameBinaryIncluded": false,
+    "originalJapaneseTextIncluded": true,
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "counts": {
+    "entries": 6,
+    "uniqueSourceTexts": 5,
+    "translatedEntries": 6
+  },
+  "entries": [
+    {
+      "entryId": "DLC0331/ID00003/000002",
+      "translation": "AG",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "translationTextSha256": "9af9eef31e66682c7a4c3053e2f28007fd5f6ea4f2b668263ed2716fe4c793d8",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "",
+        "translationSignature": ""
+      },
+      "location": {
+        "scope": "dlc",
+        "assetKey": "DLC0331",
+        "internalId": "ID00003",
+        "sourceRow": 2,
+        "sourceArtifact": "!DLC/DLC0331_cpk/DLC0331(DLC-31)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "71707a6f009dcbd41c6fa737b87a8e700f9ae625885d31c3b9f192a3b7ad865e",
+        "sourceBindingSha256": "eb0358fb6bcd803cdad05471c90bebea8e4a095a5f24bec1d0e750a723adc797"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "ＡＧ",
+        "legacyTranslation": "",
+        "importedTranslation": "AG"
+      },
+      "metadata": {
+        "replacementText": "ＡＧ",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "AG",
+      "newTranslationTextSha256": "9af9eef31e66682c7a4c3053e2f28007fd5f6ea4f2b668263ed2716fe4c793d8",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "DLC0331 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "DLC0331/ID00003/000003",
+      "translation": "어...?",
+      "sourceTextSha256": "e91b1600ec1ada54c08e55709a86556948dd80321e3fa4ea1d77e831bf64c68a",
+      "translationTextSha256": "5795153a735970cdfd2ade905053c244bd14acb9de89eed2996c557257afa7d0",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "",
+        "translationSignature": ""
+      },
+      "location": {
+        "scope": "dlc",
+        "assetKey": "DLC0331",
+        "internalId": "ID00003",
+        "sourceRow": 3,
+        "sourceArtifact": "!DLC/DLC0331_cpk/DLC0331(DLC-31)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "71707a6f009dcbd41c6fa737b87a8e700f9ae625885d31c3b9f192a3b7ad865e",
+        "sourceBindingSha256": "c82530cd806dc6eac70e66c1fb8637896870e13bd9d90bd9a46397d23dc529ef"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 8,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "어라...?",
+        "legacyTranslation": "",
+        "importedTranslation": "어머…？"
+      },
+      "metadata": {
+        "replacementText": "嬢袴…？",
+        "byteLimit": null,
+        "encodedLength": 8
+      },
+      "newTranslation": "어라…?",
+      "newTranslationTextSha256": "1ac0d36230bcda487f274e460a2ab2c2e1d5b02e6eaffb32e8d16ae25f08eeb9",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "DLC0331 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "DLC0331/ID00003/000004",
+      "translation": "어딘가에서 선물이 도착했습니다.",
+      "sourceTextSha256": "17d7f6dc7e0e9e6b9a3c34e9addcf3819d43ab13daaafb3753bea745ea2d48cc",
+      "translationTextSha256": "d945538d123bd99928a91e29592065d78772588f05eed471a2a73c191239b403",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "",
+        "translationSignature": ""
+      },
+      "location": {
+        "scope": "dlc",
+        "assetKey": "DLC0331",
+        "internalId": "ID00003",
+        "sourceRow": 4,
+        "sourceArtifact": "!DLC/DLC0331_cpk/DLC0331(DLC-31)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "71707a6f009dcbd41c6fa737b87a8e700f9ae625885d31c3b9f192a3b7ad865e",
+        "sourceBindingSha256": "e204fa28ca9a33f7d2f5e11acb81eb1ed47fe9fe0a9f4186e86aeca8b2625d36"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 30,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "어디선가 선물이 도착하고 있군요",
+        "legacyTranslation": "",
+        "importedTranslation": "어딘가에서 선물이 도착했네요"
+      },
+      "metadata": {
+        "replacementText": "嬢拠亜拭辞　識弘戚　亀鐸梅革推",
+        "byteLimit": null,
+        "encodedLength": 30
+      },
+      "newTranslation": "어디선가 선물이 도착했군요",
+      "newTranslationTextSha256": "2a610521096a5242f88e777fc855fbf8a2c5c3bd4ffe04d3f85d7cd0db6136d4",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "DLC0331 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "DLC0331/ID00003/000005",
+      "translation": "AG",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "translationTextSha256": "9af9eef31e66682c7a4c3053e2f28007fd5f6ea4f2b668263ed2716fe4c793d8",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "",
+        "translationSignature": ""
+      },
+      "location": {
+        "scope": "dlc",
+        "assetKey": "DLC0331",
+        "internalId": "ID00003",
+        "sourceRow": 5,
+        "sourceArtifact": "!DLC/DLC0331_cpk/DLC0331(DLC-31)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "71707a6f009dcbd41c6fa737b87a8e700f9ae625885d31c3b9f192a3b7ad865e",
+        "sourceBindingSha256": "688b84122d45fe6e4672b7c0bcc3b890c224c68bfc84fc41d7d9342648c6f4a0"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "ＡＧ",
+        "legacyTranslation": "",
+        "importedTranslation": "AG"
+      },
+      "metadata": {
+        "replacementText": "ＡＧ",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "AG",
+      "newTranslationTextSha256": "9af9eef31e66682c7a4c3053e2f28007fd5f6ea4f2b668263ed2716fe4c793d8",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "DLC0331 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "DLC0331/ID00003/000006",
+      "translation": "확실히 노력하고 있는 여러분에게의 보상일 것입니다.",
+      "sourceTextSha256": "24da4f73170f61907ce03db6c04ac65a8817b24895e67db32cf22201e73211a3",
+      "translationTextSha256": "46aa37ad4ed56c51acc2f28a2c19e69d7d2fc1873e5fc40340eec089c16b95bf",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "",
+        "translationSignature": ""
+      },
+      "location": {
+        "scope": "dlc",
+        "assetKey": "DLC0331",
+        "internalId": "ID00003",
+        "sourceRow": 6,
+        "sourceArtifact": "!DLC/DLC0331_cpk/DLC0331(DLC-31)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "71707a6f009dcbd41c6fa737b87a8e700f9ae625885d31c3b9f192a3b7ad865e",
+        "sourceBindingSha256": "aff9e891abcf03df57b0b68aed2e0deb07c4a1e1641d283ee3846295fed99f61"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 52,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "분명 노력하고 있는 여러분에 대한 보상일 것입니다.",
+        "legacyTranslation": "",
+        "importedTranslation": "열심히 하고 있는 여러분에게 주는 선물일 거예요"
+      },
+      "metadata": {
+        "replacementText": "伸宿備　馬壱　赤澗　食君歳拭惟　爽澗　識弘析　暗森推",
+        "byteLimit": null,
+        "encodedLength": 52
+      },
+      "newTranslation": "분명 힘내시는 여러분께 드리는 포상이겠죠.",
+      "newTranslationTextSha256": "ab41998b0d87f06c4d06f258d72defdfad74733c4215143a0c44b963297bc337",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "DLC0331 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "DLC0331/ID00003/000007",
+      "translation": "마음껏 사용하지 마십시오.",
+      "sourceTextSha256": "8a535f1c411ca0e24c49e621608eda0c275e7d76a076258acf884d34711c174d",
+      "translationTextSha256": "88f0a9fde123e071910f9ebd5abbd0a175843d0fdbe7ce6802e5d54d7a7ce7ed",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "",
+        "translationSignature": ""
+      },
+      "location": {
+        "scope": "dlc",
+        "assetKey": "DLC0331",
+        "internalId": "ID00003",
+        "sourceRow": 7,
+        "sourceArtifact": "!DLC/DLC0331_cpk/DLC0331(DLC-31)-ID00003-script-통합.xlsx",
+        "sourceArtifactSha256": "71707a6f009dcbd41c6fa737b87a8e700f9ae625885d31c3b9f192a3b7ad865e",
+        "sourceBindingSha256": "e49ec873d9021af19f0a7e0c0343ab2ad826a49c8050171139709a04960b1893"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 18,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "마음껏 사용해 주십시오",
+        "legacyTranslation": "",
+        "importedTranslation": "마음껏 사용하세요"
+      },
+      "metadata": {
+        "replacementText": "原製億　紫遂馬室推",
+        "byteLimit": null,
+        "encodedLength": 18
+      },
+      "newTranslation": "마음껏 써 주십시오",
+      "newTranslationTextSha256": "55bf15f466a654b1c83d8dc7ace98462fd2383e01c7f37046c5be2d0f1de3066",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "DLC0331 원문·용어사전·인물 관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    }
+  ],
+  "retranslationPreview": {
+    "scope": "scenario_DLC0331.json",
+    "version": "DLC0331-settings-v1",
+    "field": "newTranslation",
+    "activeTranslationUnchanged": true,
+    "spacePolicy": "입력·미리보기는 반각 U+0020 공백; 최종 삽입 단계에서만 0xFEFE 치환",
+    "linePolicy": "기존 번역에서 산출한 파일별 최대 행 길이를 기준으로 뷰어가 표시 줄을 재배치",
+    "translationPolicy": "일본어 원문·로컬 용어사전·인물 관계 자료 우선; 기존 번역은 참고용"
+  }
+}

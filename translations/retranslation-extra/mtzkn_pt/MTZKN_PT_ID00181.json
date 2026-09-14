@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00181",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00181/Sheet1/000002",
+      "sourceBindingSha256": "68922a0620d73803d30fe34a2b5eb481b026fae6f373d632e00ee6c125c7814e",
+      "sourceTextSha256": "18e6a4b293bfaff9374756f304929f259d5880bcdd421b14a65787d6e8873c74",
+      "freshTranslation": "모니카 랭",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00181/Sheet1/000003",
+      "sourceBindingSha256": "486462caf73f0920e34b13d8605a65f0a5a99d6bfea59dfe56aa57479e879a16",
+      "sourceTextSha256": "0970dc4593d4dd5e3ea1da6c0eb85f406f74742f9ccdad8949a2a8bd0d058697",
+      "freshTranslation": "모니카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00181/Sheet1/000004",
+      "sourceBindingSha256": "985d24f633a0fdebd93f865b2d6610b88bf708816214d406757b0a7087f07ff1",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00181/Sheet1/000005",
+      "sourceBindingSha256": "7b42006add0ed1936eb592d6b918fb469021be76c2e776df196c709aae0a3a3c",
+      "sourceTextSha256": "b9b0ac2eb44efa87b475222a11b25780cfdd6e4aa0185f779a42f1fd96f538cb",
+      "freshTranslation": "다나카 리에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00181/Sheet1/000006",
+      "sourceBindingSha256": "f8cf03be3dbcea29db387553ede722c778c9e12a6aa13de26eda434a04299332",
+      "sourceTextSha256": "c0d3a63f2fec78158d842fcc9a7a1204a1f896ed8e48e569596715eb59975d55",
+      "freshTranslation": "마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00181/Sheet1/000007",
+      "sourceBindingSha256": "21f35fae7b28ea04fa2cd26fb0b35b75d1591ecd6247280db50e38e0b15c284f",
+      "sourceTextSha256": "80634b56fed5a5e3c9c83384440dc20f07f4a0513545dce1124a624f53b66b26",
+      "freshTranslation": "- 오퍼레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00181/Sheet1/000008",
+      "sourceBindingSha256": "c4de3867150fc7b5dd59858eca3f3195a077fba05aad3ce8025a0db9043e559e",
+      "sourceTextSha256": "e353b07a940fa042ed58a3c51af83cf4c1f556a82d957168a1215e707418bb98",
+      "freshTranslation": "ー.㊥색적을 담당하는 레이더 손.㊥성격은 생",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00181/Sheet1/000009",
+      "sourceBindingSha256": "dda8e79860cf557ab14433100d1da7acda5018d35885172d6048962c9ec8b528",
+      "sourceTextSha256": "3acb417a40fcfac91802ead58a0a4747cc46f687af5e1bea5588ac2258a789cd",
+      "freshTranslation": "흥미로운 위원장",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00181/Sheet1/000010",
+      "sourceBindingSha256": "be6fc08f5216c725bf8016a7969da25c9411ccafbd575d0f31205f37e23953af",
+      "sourceTextSha256": "f89c47590fd7939b5977490b9ad3707b2a1e08e29ed812e50c1e3064d081b1ef",
+      "freshTranslation": "입으로, 램이나 미나를 정리하는 리더적인 존재로 ㊥한다. ㊥ 함장의 제프리에게 비밀리에 마음을 전한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00181/Sheet1/000011",
+      "sourceBindingSha256": "8cc5e0ec8d9a627ec31724a6d066f11d7dcc2e5b4a1a1cb84b566b9a16992af7",
+      "sourceTextSha256": "c0d3a63f2fec78158d842fcc9a7a1204a1f896ed8e48e569596715eb59975d55",
+      "freshTranslation": "마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00181/Sheet1/000012",
+      "sourceBindingSha256": "42fe69874604928793b432989338b8d527224cdc6d718a99cdac34040bd33a7e",
+      "sourceTextSha256": "80634b56fed5a5e3c9c83384440dc20f07f4a0513545dce1124a624f53b66b26",
+      "freshTranslation": "- 오퍼레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00181/Sheet1/000013",
+      "sourceBindingSha256": "f82c299efe80a776903a822b4325c71deaf0ad86c4d274df856453607224f59a",
+      "sourceTextSha256": "e353b07a940fa042ed58a3c51af83cf4c1f556a82d957168a1215e707418bb98",
+      "freshTranslation": "ー.㊥색적을 담당하는 레이더 손.㊥성격은 생",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00181/Sheet1/000014",
+      "sourceBindingSha256": "cab894a587665e52c15f4d0c2c6fa757609b861af073a100b48a7aa9c9c9bbe6",
+      "sourceTextSha256": "3acb417a40fcfac91802ead58a0a4747cc46f687af5e1bea5588ac2258a789cd",
+      "freshTranslation": "흥미로운 위원장",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00181/Sheet1/000015",
+      "sourceBindingSha256": "8c3d5f22c18156d36cf1b6c5d0f9a4ee0e7acae06214ce09b96f7b5eeb7238ff",
+      "sourceTextSha256": "f89c47590fd7939b5977490b9ad3707b2a1e08e29ed812e50c1e3064d081b1ef",
+      "freshTranslation": "입으로, 램이나 미나를 정리하는 리더적인 존재로 ㊥한다. ㊥ 함장의 제프리에게 비밀리에 마음을 전한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

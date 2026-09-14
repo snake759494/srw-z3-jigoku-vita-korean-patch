@@ -1,0 +1,5071 @@
+{
+  "$schema": "../../config/dialogue-review.schema.json",
+  "format": "siok.dialogue-review",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "dialogueType": "scenario",
+  "languages": {
+    "source": "ja",
+    "target": "ko"
+  },
+  "asset": {
+    "assetKey": "STG0001a",
+    "fileName": "STG0001a.cpk",
+    "target": "DATA/STAGE/STG0001a.cpk",
+    "source": {
+      "kind": "normalized-translations-tsv",
+      "fileName": "translations.tsv"
+    },
+    "localized": null
+  },
+  "sourceSnapshot": {
+    "fileName": "translations.tsv",
+    "sha256": "7a7bd4a37228b384a5d8ed7225ccdcb378bbe38cb6196c8057cc439730cbe1cf",
+    "rowCount": 175210
+  },
+  "encoding": {},
+  "policy": {
+    "requiresUserOwnedGame": true,
+    "gameBinaryIncluded": false,
+    "originalJapaneseTextIncluded": true,
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "counts": {
+    "entries": 93,
+    "uniqueSourceTexts": 77,
+    "translatedEntries": 93
+  },
+  "entries": [
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000002",
+      "translation": "신",
+      "sourceTextSha256": "fc7931c25e37b8b170dced5d7d48995dd0fb0a34946fbea7c5f3298dafcf5423",
+      "translationTextSha256": "e609f3d29b9f741ae96e996316c188e8b472b12dca6c4f9d1122b62e451a2adc",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 2,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "5006c90b02d2b8f80e808f6d9312e9ef226ce737b186e2f74eb0446f81e0997d"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 2,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "신",
+        "legacyTranslation": "신",
+        "importedTranslation": "신"
+      },
+      "metadata": {
+        "replacementText": "重",
+        "byteLimit": null,
+        "encodedLength": 2
+      },
+      "newTranslation": "신",
+      "newTranslationTextSha256": "e609f3d29b9f741ae96e996316c188e8b472b12dca6c4f9d1122b62e451a2adc",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000003",
+      "translation": "봐,모두!",
+      "sourceTextSha256": "d7b01573e684b32b1f3b579d135960f3cdc2691454f07437522e2a9a71e67300",
+      "translationTextSha256": "c1733a441ad08b4160a97d3c5e1067351ae8084801985886711d12b91bade87e",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 3,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "5521725c0952464a45ae63d2f21877c3099ab1fcba7f12b7aa6e1c4e64afe3bc"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 10,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "봐, 모두!",
+        "legacyTranslation": "봐바,다들!",
+        "importedTranslation": "봐,모두!"
+      },
+      "metadata": {
+        "replacementText": "坐，乞砧！",
+        "byteLimit": null,
+        "encodedLength": 10
+      },
+      "newTranslation": "봐, 모두!",
+      "newTranslationTextSha256": "5eb2bd6457302bb0b2ba066c7fbd0f2805aee3ce8f767772cbd637cdfc0b14f6",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000004",
+      "translation": "우리들의 지구다!",
+      "sourceTextSha256": "c473d6a80a6dcc37351ead58c81efecce73b4c134376b280d596cc01121c3282",
+      "translationTextSha256": "303712c08d29645accb8d88804ef52c7e5856b365f82d4dcb9202dd5d93fa9bd",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 4,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "22922de1ebb87a65c491ad154dcbce78463022fdcf78313c4477e00c2bcdb455"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 18,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "우리의 지구다! ",
+        "legacyTranslation": "우리들의 지구다!",
+        "importedTranslation": "우리들의 지구다!"
+      },
+      "metadata": {
+        "replacementText": "酔軒級税　走姥陥！",
+        "byteLimit": null,
+        "encodedLength": 18
+      },
+      "newTranslation": "우리들의 지구다!",
+      "newTranslationTextSha256": "303712c08d29645accb8d88804ef52c7e5856b365f82d4dcb9202dd5d93fa9bd",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000005",
+      "translation": "키라",
+      "sourceTextSha256": "f568cc1670d935a0151b9b317c3af1068eaa9b69f64c94bd5148cbfd78170cbe",
+      "translationTextSha256": "9c567a4f01f5f43d4775d203a3ede8829f0ec3a18fefcec4fb737707e9f8040d",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 5,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "d6a22f5383bbdd1df5e635704580d6833fd55b018ee3aa6531d255a2bf658f77"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "키라",
+        "legacyTranslation": "키라",
+        "importedTranslation": "키라"
+      },
+      "metadata": {
+        "replacementText": "徹虞",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "키라",
+      "newTranslationTextSha256": "9c567a4f01f5f43d4775d203a3ede8829f0ec3a18fefcec4fb737707e9f8040d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000006",
+      "translation": "돌아왔네,우리들…",
+      "sourceTextSha256": "d67880aa3d33390b395f7dc9b98b4c6593e6c058cb50a0a21c341763c3007cd6",
+      "translationTextSha256": "29e0b934d9b8630d7ec1e83a61097f2884982a980054f6a6537fe51e0786b1ae",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 6,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "955ac136bd70bca4148a97539bc1d1c96a824b19752d58deac234c8540d68f90"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 18,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "돌아왔구나, 우리…",
+        "legacyTranslation": "돌아온거구나,우리들…",
+        "importedTranslation": "돌아왔네,우리들…"
+      },
+      "metadata": {
+        "replacementText": "宜焼尽革，酔軒級…",
+        "byteLimit": null,
+        "encodedLength": 18
+      },
+      "newTranslation": "돌아왔구나, 우리들…",
+      "newTranslationTextSha256": "186cae29a1b71262d8cf8670235123bad1cd70f97f9a5360be53de7349d0694a",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000007",
+      "translation": "케이",
+      "sourceTextSha256": "9bcbe1433ae8354ccd85f9694a2b81767eae6e5d568b6d40e1cc70115167e130",
+      "translationTextSha256": "1e1de6b4264f4ce14d4450309e3a8756e3eae44bc40b449581cca36678dd8995",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 7,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "1f1a5e0d8a429ce2ecc2289ad4073ee8da32459fedece0456b88b0f45a46f8f2"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "카츠라",
+        "legacyTranslation": "케이",
+        "importedTranslation": "케이"
+      },
+      "metadata": {
+        "replacementText": "追戚",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "케이",
+      "newTranslationTextSha256": "1e1de6b4264f4ce14d4450309e3a8756e3eae44bc40b449581cca36678dd8995",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000008",
+      "translation": "《파계사변》과 《재세전쟁》…",
+      "sourceTextSha256": "3ae31fd8c295d3e7313a0726c22044f213379263069e3700aa29565363edf1e1",
+      "translationTextSha256": "60a6d339656f72f87129f93ae8248a176279fba813dc832dda4d79ea9565e763",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 8,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "e9b6315023e58afd9a6e635e9588193b0fa44d72fc7982096117a587a2e22e30"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 30,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "《파계사변》과《재세전쟁》…",
+        "legacyTranslation": "《파계사변》과 《재세전쟁》…",
+        "importedTranslation": "《파계사변》과 《재세전쟁》…"
+      },
+      "metadata": {
+        "replacementText": "《督域紫痕》引　《仙室穿戦》…",
+        "byteLimit": null,
+        "encodedLength": 30
+      },
+      "newTranslation": "《파계사변》과 《재세전쟁》…",
+      "newTranslationTextSha256": "60a6d339656f72f87129f93ae8248a176279fba813dc832dda4d79ea9565e763",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000009",
+      "translation": "저쪽 세계에서도 여러 가지 일이 있었지만",
+      "sourceTextSha256": "ec37cf9161ba12176d31d2e19a82faff8aa49cd69228d9e772c54beee89ca2b4",
+      "translationTextSha256": "67accbcffc83b31813d6b1910fb88a59e59374e5ec0f025d168800890b1bdc61",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 9,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "4df4869ddb566c7be4ce816bae648e43b96ad53b3c827070ab3ed73fe4082657"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 44,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "저쪽의 세계에서도 여러가지 있었지만,",
+        "legacyTranslation": "저쪽 세계에서도 이런저런 일들이 있었지만,",
+        "importedTranslation": "저쪽 세계에서도 여러 가지 일이 있었지만"
+      },
+      "metadata": {
+        "replacementText": "煽楕　室域拭辞亀　食君　亜走　析戚　赤醸走幻",
+        "byteLimit": null,
+        "encodedLength": 44
+      },
+      "newTranslation": "저쪽 세계에도 여러 일이 있었지만,",
+      "newTranslationTextSha256": "e3ad2bd8b8f71775af77cb5c408db615fe216d5ff1b180b86574f1920f0ece7a",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000010",
+      "translation": "지금 와서는 좋은 추억이군",
+      "sourceTextSha256": "def70911965dfa892399765c03d7744e7ae754e43700997eecc6a59663113195",
+      "translationTextSha256": "9b734e4b9b63e83a1c1e7300708230f1a5286cbe44b8064a71ff680beaf469c9",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 10,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "c5ca63ce889df1709f2e216a704fb702ea551276642fc73bbe085afe3d89d66a"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 28,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "지금이라면 좋은 추억이다.",
+        "legacyTranslation": "지금에 와서는 좋은 추억이야.",
+        "importedTranslation": "지금 와서는 좋은 추억이군"
+      },
+      "metadata": {
+        "replacementText": "走榎　人辞澗　疏精　蓄常戚浦",
+        "byteLimit": null,
+        "encodedLength": 28
+      },
+      "newTranslation": "이제 와서는 좋은 추억이군.",
+      "newTranslationTextSha256": "6119a3c775394d22e146062dc203cc6d90af8e3419a9ef45c98ad45d2d00ef9f",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000011",
+      "translation": "신",
+      "sourceTextSha256": "fc7931c25e37b8b170dced5d7d48995dd0fb0a34946fbea7c5f3298dafcf5423",
+      "translationTextSha256": "e609f3d29b9f741ae96e996316c188e8b472b12dca6c4f9d1122b62e451a2adc",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 11,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "babf2c4755e3fafb8a8b9cc34be6d5428ed4917fcb84715472c5439ec370a4a1"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 2,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "신",
+        "legacyTranslation": "신",
+        "importedTranslation": "신"
+      },
+      "metadata": {
+        "replacementText": "重",
+        "byteLimit": null,
+        "encodedLength": 2
+      },
+      "newTranslation": "신",
+      "newTranslationTextSha256": "e609f3d29b9f741ae96e996316c188e8b472b12dca6c4f9d1122b62e451a2adc",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000012",
+      "translation": "차원의 구멍 《어비스》는",
+      "sourceTextSha256": "b0dc23c3dd4d49b81963340b2959137a302b3b696b173d0fee96d6d6cb2d5ee7",
+      "translationTextSha256": "a5788721e2d200edfd8ee5ab2d70a5c44e8c2ac2a1e5d19cafd84210ec9221c8",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 12,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "d5afd02abde65d0a4e611b73c8679ea912427488d3d21aac27f90c5194512cc3"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 26,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "차원의 구멍의《어비스》는,",
+        "legacyTranslation": "차원의 구멍 《어비스》는,",
+        "importedTranslation": "차원의 구멍 《어비스》는"
+      },
+      "metadata": {
+        "replacementText": "託据税　姥雇　《嬢搾什》澗",
+        "byteLimit": null,
+        "encodedLength": 26
+      },
+      "newTranslation": "차원의 구멍 《어비스》는",
+      "newTranslationTextSha256": "a5788721e2d200edfd8ee5ab2d70a5c44e8c2ac2a1e5d19cafd84210ec9221c8",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000013",
+      "translation": "닫혀버렸으니까,저쪽 세계에는",
+      "sourceTextSha256": "1f0fd88ab2e29aa547a188821069e514e9125bf8f440a70279b309b11fa5a339",
+      "translationTextSha256": "b2b7b4eb2ab2b725764067e5db049f2acc0aae4265829ece3c378d6b4b57f081",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 13,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "5b7f7a0e06a5a74d417390dd1eb534e63e5770926c5c82ffb7aee228f5578014"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 30,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "닫혀 버렸기 때문에 저쪽의 세계에",
+        "legacyTranslation": "닫혀버렸으니까,저쪽 세계에는",
+        "importedTranslation": "닫혀버렸으니까,저쪽 세계에는"
+      },
+      "metadata": {
+        "replacementText": "丸粕獄携生艦猿，煽楕　室域拭澗",
+        "byteLimit": null,
+        "encodedLength": 30
+      },
+      "newTranslation": "닫혀 버렸으니, 저쪽 세계에는",
+      "newTranslationTextSha256": "ced4767ab520c194599e4518a772f84d1027e510a5b7bfa3dd130c31da9f8b88",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000014",
+      "translation": "당분간 갈 수 없는 건가…",
+      "sourceTextSha256": "f9a2513a8759044213364bdbb160908198002d5ff59fedbb082a59bcda417468",
+      "translationTextSha256": "1c54cd44f857ff10339fcd7960a8cf7ee745adbb9bb34f2848029829ca996a42",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 14,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "0fa537b725357e3fe07fb2ec9919455b9119f50d643bffd2936443011c2c92fc"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 28,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "당분간 갈 수 없는 것인가…”",
+        "legacyTranslation": "당분간 못 가는건가…",
+        "importedTranslation": "당분간 갈 수 없는 건가…"
+      },
+      "metadata": {
+        "replacementText": "雁歳娃　哀　呪　蒸澗　闇亜…",
+        "byteLimit": null,
+        "encodedLength": 28
+      },
+      "newTranslation": "당분간 갈 수 없는 건가…",
+      "newTranslationTextSha256": "1c54cd44f857ff10339fcd7960a8cf7ee745adbb9bb34f2848029829ca996a42",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000015",
+      "translation": "카미유",
+      "sourceTextSha256": "9f6eb77d0cdcada3c71fcdb67d8f4d15f15485eb3534fa9b6669026eaa997fec",
+      "translationTextSha256": "adf3446abcd6bf686acde58f665092f590906dba594a5adc50bccdc645139f83",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 15,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "09a4d6cacd2c91ab4ea6b17c5b45663171405d4a6bd743902958eef90d71f2b4"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "카미유",
+        "legacyTranslation": "카미유",
+        "importedTranslation": "카미유"
+      },
+      "metadata": {
+        "replacementText": "朝耕政",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "카미유",
+      "newTranslationTextSha256": "adf3446abcd6bf686acde58f665092f590906dba594a5adc50bccdc645139f83",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000016",
+      "translation": "그렇다고 해서,세츠나나 히이로들을",
+      "sourceTextSha256": "0abc2b16de60b1eb2be72d1cd0324cc27a003d8aa55e60abb184b80a148ce604",
+      "translationTextSha256": "8c1e4a94d31a6a3c02ccf73452827970b0ea4d41656dbc249354951a64166afc",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 16,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "f929b427b439c04008b0156febda644c74d892ea18687f4269b2479f975bef06"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 36,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "그러니까 찰나나 히이로들에게",
+        "legacyTranslation": "그렇다고 해도 세츠나나 히이로들과",
+        "importedTranslation": "그렇다고 해서,세츠나나 히이로들을"
+      },
+      "metadata": {
+        "replacementText": "益係陥壱　背辞，室苧蟹蟹　備戚稽級聖",
+        "byteLimit": null,
+        "encodedLength": 36
+      },
+      "newTranslation": "그렇다고 해서 세츠나나 히이로와",
+      "newTranslationTextSha256": "05c280670538842453a2e6ca510c97570668021cea87a00aa286f3fc2976a85a",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000017",
+      "translation": "두 번 다시 만날 수 없게 된 건 아니야",
+      "sourceTextSha256": "ac8fc6255154be1cf422730d8112917bac35873bfc1832ae4884f7e65cb07dc4",
+      "translationTextSha256": "3babf0c6455fba26d6738ef51c5f986519bbf20ac241dd87e2bb7cd04166f34f",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 17,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "b82cf95c69d41ca70499407ab946973db4452c39f20de3a3a1fcdf58e00140b7"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 44,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "다시 만날 수 없게 된 것은 아니다 ",
+        "legacyTranslation": "두번 다시 못 만나게 된 건 아니야.",
+        "importedTranslation": "두 번 다시 만날 수 없게 된 건 아니야"
+      },
+      "metadata": {
+        "replacementText": "砧　腰　陥獣　幻劾　呪　蒸惟　吉　闇　焼艦醤",
+        "byteLimit": null,
+        "encodedLength": 44
+      },
+      "newTranslation": "두 번 다시 만날 수 없는 건 아니야.",
+      "newTranslationTextSha256": "b3c6a6a6b5b6cc089248b878b08d2f800684ec09515fc983e5aaa82849432ff9",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000018",
+      "translation": "아무로",
+      "sourceTextSha256": "0809e902288fd530b039e4e7fab7574e60ab089cc228349e4cb8bad432f0a05b",
+      "translationTextSha256": "1598c7f44b409588dde3e91c05710a84e61176dfe7032a643b78f20756a488e9",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 18,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "e2dfff9573e9d4906aeb5a2b312939c23b0d6841600021f7e6dfe8a842540ed2"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "암로",
+        "legacyTranslation": "아무로",
+        "importedTranslation": "아무로"
+      },
+      "metadata": {
+        "replacementText": "焼巷稽",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "아무로",
+      "newTranslationTextSha256": "1598c7f44b409588dde3e91c05710a84e61176dfe7032a643b78f20756a488e9",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000019",
+      "translation": "그 말이 맞다",
+      "sourceTextSha256": "dca3e20b4a2b6a9bad48a7c90f3179cb50c4792fe0702d22c0c3dc49f193a715",
+      "translationTextSha256": "32b651081e0d04def1daa29c5fde285463545fc0f6b81401031e0b35f46b048c",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 19,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "ca6d9a5e2647617c3539e34b03e92bd341ea3add64f9da1d0c8afd94355ff126"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 14,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "그대로다.",
+        "legacyTranslation": "맞는 말이야.",
+        "importedTranslation": "그 말이 맞다"
+      },
+      "metadata": {
+        "replacementText": "益　源戚　限陥",
+        "byteLimit": null,
+        "encodedLength": 14
+      },
+      "newTranslation": "그 말이 맞다.",
+      "newTranslationTextSha256": "bff66f8950dfaf88336feafbe295ad92999916cdf9a9c4242e1c2c8ba5e71436",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000020",
+      "translation": "우리들은 이쪽 세계에서 우리들이",
+      "sourceTextSha256": "5155ac798ef9c8193d586a83f17af8a086afda06710056e0c126d1ef6f61c46c",
+      "translationTextSha256": "f72a1bea19f138690ae9105b4a03df61230b7c8a2020a9b92023d5bce4c785c9",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 20,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "88baf41d1dbb3d1904235672fa542308b92e437c1f51400fc69b009b8778376f"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 34,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "우리는 이 세상에서",
+        "legacyTranslation": "우리들은 이쪽 세계에서",
+        "importedTranslation": "우리들은 이쪽 세계에서 우리들이"
+      },
+      "metadata": {
+        "replacementText": "酔軒級精　戚楕　室域拭辞　酔軒級戚",
+        "byteLimit": null,
+        "encodedLength": 34
+      },
+      "newTranslation": "우리는 이 세계에서",
+      "newTranslationTextSha256": "7bafb0e01e67d214bd77f3569748add98d5543aae1829e9364f2ce47ba9f4cd8",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000021",
+      "translation": "해야 할일을 해나가자",
+      "sourceTextSha256": "f017f53f4daecd50e2b6776326de3c382a6d638b2ffa5eb6db91e7783ceb6a64",
+      "translationTextSha256": "72f62e6f62bc0170e951573c5a5d8c8d4945805dd9cb2665ec49c5401b467618",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 21,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "0336b30c7be6361f7ae10c27a2a65236a0a2e60f1cbcd0886ad4354f12721508"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 22,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "자신들의 해야 할 일을 해보자”",
+        "legacyTranslation": "우리가 해야 할 일을 해 나가자.",
+        "importedTranslation": "해야 할일을 해나가자"
+      },
+      "metadata": {
+        "replacementText": "背醤　拝析聖　背蟹亜切",
+        "byteLimit": null,
+        "encodedLength": 22
+      },
+      "newTranslation": "우리가 해야 할 일을 해 나가자.",
+      "newTranslationTextSha256": "31701b0fca7b443cd02a93b773eead66fc07a62ac700426f5ff9d81890b21e64",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000022",
+      "translation": "케이",
+      "sourceTextSha256": "9bcbe1433ae8354ccd85f9694a2b81767eae6e5d568b6d40e1cc70115167e130",
+      "translationTextSha256": "1e1de6b4264f4ce14d4450309e3a8756e3eae44bc40b449581cca36678dd8995",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 22,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "c2b8014eefe00d552e34075815650b934f6cb796a787ff34ffba7f21cb4b0bb3"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "카츠라",
+        "legacyTranslation": "케이",
+        "importedTranslation": "케이"
+      },
+      "metadata": {
+        "replacementText": "追戚",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "케이",
+      "newTranslationTextSha256": "1e1de6b4264f4ce14d4450309e3a8756e3eae44bc40b449581cca36678dd8995",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000023",
+      "translation": "그렇군",
+      "sourceTextSha256": "22807a340966f04da20a8e8e9d748bcd8e543053ec03e3c94dd9687304827f96",
+      "translationTextSha256": "d2dc07a8facf3ca0943f903516bfbbc7ae045dd9d2d5dfbc0644606898b68931",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 23,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "e58f97f57975f499351a0b985212d980020acec334d095692e79f853fb6b2a95"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "그렇구나.",
+        "legacyTranslation": "맞아.",
+        "importedTranslation": "그렇군"
+      },
+      "metadata": {
+        "replacementText": "益係浦",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "그래.",
+      "newTranslationTextSha256": "47dd1707211c7354d813fcd6c66319369aef44dca3d28aedf2278035f5fb055c",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000024",
+      "translation": "우선은 소중한 사람들과의 재회다",
+      "sourceTextSha256": "ffd6fd80d7e70dd2a6288090d700318e7767ffa3be7d43df35f8f61b415ad226",
+      "translationTextSha256": "5f78a9fe83e44dee21302f3f5c1e0faa39f2c15d8769a36d15a1ca20dc0b2377",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 24,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "ce4e0413e1a7168bd93d71490fae9c44187d384ec43d3459e9f973358128d9d7"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 34,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "우선은 소중한 사람들과의 재회다",
+        "legacyTranslation": "우선은 소중한 사람들과의 재회다.",
+        "importedTranslation": "우선은 소중한 사람들과의 재회다"
+      },
+      "metadata": {
+        "replacementText": "酔識精　社掻廃　紫寓級引税　仙噺陥",
+        "byteLimit": null,
+        "encodedLength": 34
+      },
+      "newTranslation": "우선은 소중한 사람들과 다시 만나는 것부터다.",
+      "newTranslationTextSha256": "7348f88f24cb1f2ab32a3f87dd0f6daa14d2d92a2fd0fde47b767166ae0fc884",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000025",
+      "translation": "로저",
+      "sourceTextSha256": "dc0e2044a9ad5cdce06319958004716ee429e349f5ef44f7cb886ba6b3b2198e",
+      "translationTextSha256": "aa0d2ccd6c119b25742e8675ff621d63dbe0956a1e074a86a7f0edf66e9f1c60",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 25,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "e6aecf7ee3a7c38cc2a389851f5d1f71f4cb4788bd1197322d62310294bdc881"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "로저",
+        "legacyTranslation": "로저",
+        "importedTranslation": "로저"
+      },
+      "metadata": {
+        "replacementText": "稽煽",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "로저",
+      "newTranslationTextSha256": "aa0d2ccd6c119b25742e8675ff621d63dbe0956a1e074a86a7f0edf66e9f1c60",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000026",
+      "translation": "………",
+      "sourceTextSha256": "4be66cf94e7033822cdfc8a62cfb6122805b339fe22766c4e71d115cc89cb60f",
+      "translationTextSha256": "4be66cf94e7033822cdfc8a62cfb6122805b339fe22766c4e71d115cc89cb60f",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 26,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "974b7224a376995f9b67a1d33ab880b62500e8db51a40cb177cfc5817005669f"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "………",
+        "legacyTranslation": "………",
+        "importedTranslation": "………"
+      },
+      "metadata": {
+        "replacementText": "………",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "………",
+      "newTranslationTextSha256": "4be66cf94e7033822cdfc8a62cfb6122805b339fe22766c4e71d115cc89cb60f",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000027",
+      "translation": "도로시",
+      "sourceTextSha256": "7a098615626f62dfa87b27d60e9eef35c75518e010ff83ccdc69a0232fe66ff4",
+      "translationTextSha256": "88ba7afc279c6b67304552cdaf0a49bc0ce8bdec48b81ff3bbb13266d7da5428",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 27,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "565ec350ac96df41b79fef154ca8f8eb86e4c5c5401935d450a720d1457a724a"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "도로시",
+        "legacyTranslation": "도로시",
+        "importedTranslation": "도로시"
+      },
+      "metadata": {
+        "replacementText": "亀稽獣",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "도로시",
+      "newTranslationTextSha256": "88ba7afc279c6b67304552cdaf0a49bc0ce8bdec48b81ff3bbb13266d7da5428",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000028",
+      "translation": "왜 그래,로저?",
+      "sourceTextSha256": "0e2b44580f0969c277d9ff47e063147eac1bc0747b6f1f653c6bf9d108f519bd",
+      "translationTextSha256": "3aba0443ca9cd2c4b54e8defe065e93acfc62fc86ca67cbd1b507c4470a7a874",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 28,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "24e62722b5b04225db42b05f586e5d72d2035bb09f5942955a1382d018f0f5ae"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 16,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "무슨 일이야, 로저?",
+        "legacyTranslation": "왜 그래,로저?",
+        "importedTranslation": "왜 그래,로저?"
+      },
+      "metadata": {
+        "replacementText": "訊　益掘，稽煽？",
+        "byteLimit": null,
+        "encodedLength": 16
+      },
+      "newTranslation": "무슨 일이야, 로저?",
+      "newTranslationTextSha256": "0bb4d466dde8c10c6da3d2e744314ba8bb0cc6a52e94d5c63089e15d5352fd6b",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000029",
+      "translation": "로저",
+      "sourceTextSha256": "dc0e2044a9ad5cdce06319958004716ee429e349f5ef44f7cb886ba6b3b2198e",
+      "translationTextSha256": "aa0d2ccd6c119b25742e8675ff621d63dbe0956a1e074a86a7f0edf66e9f1c60",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 29,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "6916aac328873bd2034e59113a3e269c15d7ab39ca78a994359c5327389a809d"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "로저",
+        "legacyTranslation": "로저",
+        "importedTranslation": "로저"
+      },
+      "metadata": {
+        "replacementText": "稽煽",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "로저",
+      "newTranslationTextSha256": "aa0d2ccd6c119b25742e8675ff621d63dbe0956a1e074a86a7f0edf66e9f1c60",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000030",
+      "translation": "평온한 일상으로의 귀환…",
+      "sourceTextSha256": "160ba44231ce2575ec858090bc06dc03eed9c6cb912974999b73da26ceb01810",
+      "translationTextSha256": "55e6f51591965f740ad0de82cc4aaa6db535082bfb030a84fb2cf2d9e467b815",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 30,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "629299ca4a0a12b78529ae03adfc6370515961299081c12a1598ff8092fffae3"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 26,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "“평온한 일상으로의 귀환…",
+        "legacyTranslation": "평온한 일상으로의 귀환….",
+        "importedTranslation": "평온한 일상으로의 귀환…"
+      },
+      "metadata": {
+        "replacementText": "汝紳廃　析雌生稽税　瑛発…",
+        "byteLimit": null,
+        "encodedLength": 26
+      },
+      "newTranslation": "평온한 일상으로의 귀환…",
+      "newTranslationTextSha256": "55e6f51591965f740ad0de82cc4aaa6db535082bfb030a84fb2cf2d9e467b815",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000031",
+      "translation": "그것은 이루어질까…",
+      "sourceTextSha256": "1f9fb8f458364b801aecff9fc93fa2bee675430d6304fa6119382fa5e8bea03c",
+      "translationTextSha256": "63186653db3d4465f01715f316f585a4f8810e6f672594537d23cc96f8ae3473",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 31,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "d46a5820b4c69f2a9a2131f9de96715e9e52638752cac3d00c65e04f3cfd9d86"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 20,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "그것은 완수될까…”",
+        "legacyTranslation": "그건 이루어진 것일까…",
+        "importedTranslation": "그것은 이루어질까…"
+      },
+      "metadata": {
+        "replacementText": "益依精　戚欠嬢霜猿…",
+        "byteLimit": null,
+        "encodedLength": 20
+      },
+      "newTranslation": "그게 가능할까…",
+      "newTranslationTextSha256": "db2a10cbff0bc6cf0a1b39d1053f799b93ca66157909dd005f22619c750138be",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000032",
+      "translation": "케이",
+      "sourceTextSha256": "9bcbe1433ae8354ccd85f9694a2b81767eae6e5d568b6d40e1cc70115167e130",
+      "translationTextSha256": "1e1de6b4264f4ce14d4450309e3a8756e3eae44bc40b449581cca36678dd8995",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 32,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "4fa255b085d02309f448fa893a58f1b5af7c3cd45cf30ca64b682685528e527a"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "카츠라",
+        "legacyTranslation": "케이",
+        "importedTranslation": "케이"
+      },
+      "metadata": {
+        "replacementText": "追戚",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "케이",
+      "newTranslationTextSha256": "1e1de6b4264f4ce14d4450309e3a8756e3eae44bc40b449581cca36678dd8995",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000033",
+      "translation": "무슨 소리야,그게?",
+      "sourceTextSha256": "1a38c112e7be721118decb23792c4af0669bb49be8be21c48b726742ece5af05",
+      "translationTextSha256": "ee9c0a06ddb99973b21f638fadb9b135444b6fc93d64e2f7e5fbb2a15e440863",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 33,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "36e3bd709814f73f09a627a7d0b17e9c49259b91372406b2be787959ea6a04dc"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 20,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "무슨 일이야, 그래?",
+        "legacyTranslation": "무슨 말이야,그건?",
+        "importedTranslation": "무슨 소리야,그게?"
+      },
+      "metadata": {
+        "replacementText": "巷充　社軒醤，益惟？",
+        "byteLimit": null,
+        "encodedLength": 20
+      },
+      "newTranslation": "무슨 소리야, 그게?",
+      "newTranslationTextSha256": "176ef30066909748cb8c572ea7a53c048bb64c0b370f6c5e68d1c79c71facf9f",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000034",
+      "translation": "로저",
+      "sourceTextSha256": "dc0e2044a9ad5cdce06319958004716ee429e349f5ef44f7cb886ba6b3b2198e",
+      "translationTextSha256": "aa0d2ccd6c119b25742e8675ff621d63dbe0956a1e074a86a7f0edf66e9f1c60",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 34,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "fed83b1f8c4c7cae82a004f2705929b639375df64c94a85d660525ba4a956777"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "로저",
+        "legacyTranslation": "로저",
+        "importedTranslation": "로저"
+      },
+      "metadata": {
+        "replacementText": "稽煽",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "로저",
+      "newTranslationTextSha256": "aa0d2ccd6c119b25742e8675ff621d63dbe0956a1e074a86a7f0edf66e9f1c60",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000035",
+      "translation": "《낙인》(스티그마)…",
+      "sourceTextSha256": "32cbd66192752095738486ce6203dc63cb0af20bb36797adae463d02bfba53e8",
+      "translationTextSha256": "96a81756afd382a52ef391e4eb12ce72584ceef0649e74568db1dd2bafa0d9b5",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 35,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "c1a524876ca6e92c88a238cb1189e1406d512dc29bfcc6509219cac30630f0f6"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 22,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "《낙인》(스티그마)…」",
+        "legacyTranslation": "《낙인》(스티그마)…",
+        "importedTranslation": "《낙인》(스티그마)…"
+      },
+      "metadata": {
+        "replacementText": "《開昔》（什銅益原）…",
+        "byteLimit": null,
+        "encodedLength": 22
+      },
+      "newTranslation": "《낙인》(스티그마)…",
+      "newTranslationTextSha256": "96a81756afd382a52ef391e4eb12ce72584ceef0649e74568db1dd2bafa0d9b5",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000036",
+      "translation": "키라",
+      "sourceTextSha256": "f568cc1670d935a0151b9b317c3af1068eaa9b69f64c94bd5148cbfd78170cbe",
+      "translationTextSha256": "9c567a4f01f5f43d4775d203a3ede8829f0ec3a18fefcec4fb737707e9f8040d",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 36,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "bb1d75471ee8a62fec6c4d3d3998476730f504475e3f1bbee44ce222205c0cf5"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "키라",
+        "legacyTranslation": "키라",
+        "importedTranslation": "키라"
+      },
+      "metadata": {
+        "replacementText": "徹虞",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "키라",
+      "newTranslationTextSha256": "9c567a4f01f5f43d4775d203a3ede8829f0ec3a18fefcec4fb737707e9f8040d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000037",
+      "translation": "…！",
+      "sourceTextSha256": "a908898f36c6b9e47d5472a8ce2cb62467e7606ad2cf9266650c8b967784464f",
+      "translationTextSha256": "a908898f36c6b9e47d5472a8ce2cb62467e7606ad2cf9266650c8b967784464f",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 37,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "440b9c8f46cf84036668bf008692c1bf28da2172ad7fa887b2b170041865e823"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "…!",
+        "legacyTranslation": "…!",
+        "importedTranslation": "…！"
+      },
+      "metadata": {
+        "replacementText": "…！",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "…!",
+      "newTranslationTextSha256": "6e5a9ede8578cae74b171558ddf42fe374d14f82c058c8db044178247836c2dd",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000038",
+      "translation": "신",
+      "sourceTextSha256": "fc7931c25e37b8b170dced5d7d48995dd0fb0a34946fbea7c5f3298dafcf5423",
+      "translationTextSha256": "e609f3d29b9f741ae96e996316c188e8b472b12dca6c4f9d1122b62e451a2adc",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 38,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "b8be1c5b27ca3a9426e55c19072d49ed6226307acc763ff0b3cb5f56e974582f"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 2,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "신",
+        "legacyTranslation": "신",
+        "importedTranslation": "신"
+      },
+      "metadata": {
+        "replacementText": "重",
+        "byteLimit": null,
+        "encodedLength": 2
+      },
+      "newTranslation": "신",
+      "newTranslationTextSha256": "e609f3d29b9f741ae96e996316c188e8b472b12dca6c4f9d1122b62e451a2adc",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000039",
+      "translation": "그 《아임》・라이어드가 말했던 말…",
+      "sourceTextSha256": "c27fc33ed7384827ebc3bdbc9dce948eb3d28baf5733127f9693273a26a8f6d0",
+      "translationTextSha256": "f4bfb38121f2425cbbf9494b262a9249b4ad623034cc8ddfdc0a8821fe377066",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 39,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "92160910dfac81a7058abd548c444defca8a8a614bb12e60a5e5ab98b9049ab3"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 38,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "그《아임》・라이아드가 말하고 있던 말…」",
+        "legacyTranslation": "그 《아임》 라이어드가 했던 말…",
+        "importedTranslation": "그 《아임》・라이어드가 말했던 말…"
+      },
+      "metadata": {
+        "replacementText": "益　《焼績》・虞戚嬢球亜　源梅揮　源…",
+        "byteLimit": null,
+        "encodedLength": 38
+      },
+      "newTranslation": "그 《아임》・라이어드가 했던 말…",
+      "newTranslationTextSha256": "dc3133b194616a893034d74211e12559f1e2649e665c71748045116e762e1799",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000040",
+      "translation": "로저",
+      "sourceTextSha256": "dc0e2044a9ad5cdce06319958004716ee429e349f5ef44f7cb886ba6b3b2198e",
+      "translationTextSha256": "aa0d2ccd6c119b25742e8675ff621d63dbe0956a1e074a86a7f0edf66e9f1c60",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 40,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "17a8d1e3d8d075ea2e5cac532c26e6292624afb8bd74c56dc879055567551df8"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "로저",
+        "legacyTranslation": "로저",
+        "importedTranslation": "로저"
+      },
+      "metadata": {
+        "replacementText": "稽煽",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "로저",
+      "newTranslationTextSha256": "aa0d2ccd6c119b25742e8675ff621d63dbe0956a1e074a86a7f0edf66e9f1c60",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000041",
+      "translation": "그것이 새겨진 우리들은 앞으로도",
+      "sourceTextSha256": "bb2f86683b7851b9d934aa49b1c2f1b4a186f39504bf01fc0cdd787cb97f45ce",
+      "translationTextSha256": "e3055ed0cdc48c9ba4ea88ee07c4019906c308e8d2248b68a9859f6c20013673",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 41,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "75b3a47535f90a86254fce7f7d426fd5c677ab28ed00952d4e29d5c7f5a1f234"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 34,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "“그것을 새겨진 우리는",
+        "legacyTranslation": "그게 새겨진 우리들은",
+        "importedTranslation": "그것이 새겨진 우리들은 앞으로도"
+      },
+      "metadata": {
+        "replacementText": "益依戚　歯移遭　酔軒級精　蒋生稽亀",
+        "byteLimit": null,
+        "encodedLength": 34
+      },
+      "newTranslation": "그 낙인이 새겨진 우리는 앞으로도",
+      "newTranslationTextSha256": "25aaae1c50c066084d2b9a95dccd69b52882edd4fdede64b4107eeb7e34c1a8c",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000042",
+      "translation": "운명에 농락당할 거라고 그 녀석은 말했지",
+      "sourceTextSha256": "96cecc797ac11f0eec413564a775bb2748114d25fbcf7eac7b4559e7d221ef81",
+      "translationTextSha256": "eafcb4993924253f6df144e23588ad1a0440c8f7b12bf7d0f757e67dd13f0caf",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 42,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "5643ed037727d7d66a2ea84c9bb3cf65433c88c32cf75c9916aa88e47cda1a33"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 44,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "앞으로도 운명을 가지고 곁들여지겠다고 녀석은 말했다",
+        "legacyTranslation": "앞으로도 운명을 유린당할 거라고 녀석은 말했다.",
+        "importedTranslation": "운명에 농락당할 거라고 그 녀석은 말했지"
+      },
+      "metadata": {
+        "replacementText": "錘誤拭　鞄喰雁拝　暗虞壱　益　橿汐精　源梅走",
+        "byteLimit": null,
+        "encodedLength": 44
+      },
+      "newTranslation": "운명에 농락당할 거라고 그자는 말했지.",
+      "newTranslationTextSha256": "98183030ac4fe40e929cd2039384e2980c0ad43960b0a40eaba698868d8dc5e2",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000043",
+      "translation": "아무로",
+      "sourceTextSha256": "0809e902288fd530b039e4e7fab7574e60ab089cc228349e4cb8bad432f0a05b",
+      "translationTextSha256": "1598c7f44b409588dde3e91c05710a84e61176dfe7032a643b78f20756a488e9",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 43,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "99e7fd598243612be0123e032193f85c213a79683678ed76efe4f64481488e57"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "암로",
+        "legacyTranslation": "아무로",
+        "importedTranslation": "아무로"
+      },
+      "metadata": {
+        "replacementText": "焼巷稽",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "아무로",
+      "newTranslationTextSha256": "1598c7f44b409588dde3e91c05710a84e61176dfe7032a643b78f20756a488e9",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000044",
+      "translation": "하지만,그 《낙인》의 실태에 대해서는",
+      "sourceTextSha256": "e80b4a4e87d5d522a847935c513123d4c269a43f0e050cc6beeadf580ee32c7b",
+      "translationTextSha256": "611937e1c03075f27654ca9d53afe089af27468ddd39a2f2f1f05868a6ed4ac6",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 44,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "b6ed2598e58aa40c0524667bf9600888b38558e8a6d816e37142e74ab609247d"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 40,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "그러나 그《낙인》의 실태에 대해서는",
+        "legacyTranslation": "하지만,그 《낙인》의 실태에 대해서는",
+        "importedTranslation": "하지만,그 《낙인》의 실태에 대해서는"
+      },
+      "metadata": {
+        "replacementText": "馬走幻，益　《開昔》税　叔殿拭　企背辞澗",
+        "byteLimit": null,
+        "encodedLength": 40
+      },
+      "newTranslation": "하지만 그 《낙인》의 실체에 대해서는",
+      "newTranslationTextSha256": "2212ac72b6932b9462c06a0e68e4d32bc7e7d106ff97987b20a973c48692a2a5",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000045",
+      "translation": "아무것도 알지 못해",
+      "sourceTextSha256": "3e983493c8ce1f65dc7eb58e2b2f79fd0e24aad746a8bc9e66c1d7cde14e177f",
+      "translationTextSha256": "2f93b716f7aa424e443caa22ab5ef2a228db76f5667fcb2339d9b136d5733725",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 45,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "f0e1f5e5d7aa664ca15f036be2a2f0263ed1d3d3375960b440cd2df4cec07a86"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 20,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "아무것도 모르겠다",
+        "legacyTranslation": "아무것도 알지 못하고 있어.",
+        "importedTranslation": "아무것도 알지 못해"
+      },
+      "metadata": {
+        "replacementText": "焼巷依亀　硝走　公背",
+        "byteLimit": null,
+        "encodedLength": 20
+      },
+      "newTranslation": "아무것도 알지 못해.",
+      "newTranslationTextSha256": "4aaec5d12040a93b6fb1816f62bf687a2ebe38103f48bf21c5ac7f87445e8edc",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000046",
+      "translation": "카미유",
+      "sourceTextSha256": "9f6eb77d0cdcada3c71fcdb67d8f4d15f15485eb3534fa9b6669026eaa997fec",
+      "translationTextSha256": "adf3446abcd6bf686acde58f665092f590906dba594a5adc50bccdc645139f83",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 46,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "987a42ed9a72516f502754df03940eb3f98e5f988e2872bf48c3b0cf2248789d"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "카미유",
+        "legacyTranslation": "카미유",
+        "importedTranslation": "카미유"
+      },
+      "metadata": {
+        "replacementText": "朝耕政",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "카미유",
+      "newTranslationTextSha256": "adf3446abcd6bf686acde58f665092f590906dba594a5adc50bccdc645139f83",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000047",
+      "translation": "아임의 말로는",
+      "sourceTextSha256": "b2763f557f2c2cb39314655e7aba7f488f1c86c79d3ba8ce2e85503bacc9f172",
+      "translationTextSha256": "0e224252a2dee7fb4d8e0d33b88b46abd09d01e581f1ee1ef71d60509521dd8c",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 47,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "33ed08dc30b7413109ab86fe818ac56145c62c80348e7b00c90487057d9e77dd"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 14,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "“아임의 말로는",
+        "legacyTranslation": "아임 말로는,",
+        "importedTranslation": "아임의 말로는"
+      },
+      "metadata": {
+        "replacementText": "焼績税　源稽澗",
+        "byteLimit": null,
+        "encodedLength": 14
+      },
+      "newTranslation": "아임의 말로는,",
+      "newTranslationTextSha256": "407590eb95d8c69e80911206b8ed5893ad4cee3c5fffa0e4e078a00b4741713f",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000048",
+      "translation": "그것이 새겨진 것으로 우리들은",
+      "sourceTextSha256": "4c9d427505f1a30fed97fdd5ac108e2100cdb9620d2c4faf4349444a14510cf8",
+      "translationTextSha256": "74aa4328bd859237e4588be4491828e3cddf39abb4dd21c0e1d51a415083ac39",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 48,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "8109ac45241a43d23444483182fce750980a8c4f7bf08097d87565ade41fac3e"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 32,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "그것을 새겨 둔 것으로, 우리는",
+        "legacyTranslation": "그것을 새겨짐으로써 우리들은",
+        "importedTranslation": "그것이 새겨진 것으로 우리들은"
+      },
+      "metadata": {
+        "replacementText": "益依戚　歯移遭　依生稽　酔軒級精",
+        "byteLimit": null,
+        "encodedLength": 32
+      },
+      "newTranslation": "그 낙인이 새겨진 탓에 우리는",
+      "newTranslationTextSha256": "d4ac7fe2ef6275099ab65174d7aaf30f97d35ddac10d6f41a2e735fafb7f6f62",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000049",
+      "translation": "저쪽 세계로 넘어갔던 것 같지만…",
+      "sourceTextSha256": "ec8ee0dd154054cad94c5700e5c4bc3b6b9868df7a7f0da8562b06759094d935",
+      "translationTextSha256": "0eae105ea5ae89e019d785e404119699301e8d5d2ee1ad4d0555f074aa8fa5b9",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 49,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "2ad7b32a8fac798dd3ab2eb1514ee4aa398b7dc474b10d48b0effd3197596491"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 36,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "저쪽의 세계에 뛰어든 것 같지만…",
+        "legacyTranslation": "저쪽 세계에 날아가게 된 모양입니다만…",
+        "importedTranslation": "저쪽 세계로 넘어갔던 것 같지만…"
+      },
+      "metadata": {
+        "replacementText": "煽楕　室域稽　角嬢穐揮　依　旭走幻…",
+        "byteLimit": null,
+        "encodedLength": 36
+      },
+      "newTranslation": "저쪽 세계로 날아간 것 같습니다만…",
+      "newTranslationTextSha256": "dbb7641b27f9c4ae33df1106499f8491194184346268ada0388bafe41b52d47c",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000050",
+      "translation": "케이",
+      "sourceTextSha256": "9bcbe1433ae8354ccd85f9694a2b81767eae6e5d568b6d40e1cc70115167e130",
+      "translationTextSha256": "1e1de6b4264f4ce14d4450309e3a8756e3eae44bc40b449581cca36678dd8995",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 50,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "acf00b774724005ac7e67be3babb2f736608d93d0cc990eeece38260fdda0161"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "카츠라",
+        "legacyTranslation": "케이",
+        "importedTranslation": "케이"
+      },
+      "metadata": {
+        "replacementText": "追戚",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "케이",
+      "newTranslationTextSha256": "1e1de6b4264f4ce14d4450309e3a8756e3eae44bc40b449581cca36678dd8995",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000051",
+      "translation": "으…！",
+      "sourceTextSha256": "d5be322586beba5f0a8149978c7151d69b1de45e5e39b0245061120100a1dde2",
+      "translationTextSha256": "8bd8f49bb01d6778f319cc6274871743ef69ae81dd87b3244a05920b65841471",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 51,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "e0704617830fb807c152591823e5dc0c41d068b601371453a92be8fcfc87986d"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "으…!",
+        "legacyTranslation": "윽…!",
+        "importedTranslation": "으…！"
+      },
+      "metadata": {
+        "replacementText": "生…！",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "윽…!",
+      "newTranslationTextSha256": "af5f1b79faa03b21e7636e06dc9d72e80218ca64609f456de6f29c2af809c044",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000052",
+      "translation": "모므",
+      "sourceTextSha256": "431100102afcb4c3e4e506820d52121f2e40ec34cd8b13d59f7e222c5f53de57",
+      "translationTextSha256": "58420dc621fb7b82a640f1e57a449cc20d0c2ca1d4d524ed16a939077719ad4f",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 52,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "a2c9f45bf2764d051e05ecd5e7840e9dc0e5614b1bf81b86e784e0b617dcf98f"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "Mom",
+        "legacyTranslation": "모옴",
+        "importedTranslation": "모므"
+      },
+      "metadata": {
+        "replacementText": "乞糠",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "모므",
+      "newTranslationTextSha256": "58420dc621fb7b82a640f1e57a449cc20d0c2ca1d4d524ed16a939077719ad4f",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000053",
+      "translation": "케이 님!",
+      "sourceTextSha256": "a7c680daabc06e56ab9bafd4d02659e3f64ca0fd38b88a4b530c8dd2e4b42a90",
+      "translationTextSha256": "5f1bacbdf34ef1755cf7bc6d3f08ff58e83f6c28208fb93e926798aff165fdbd",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 53,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "023ed557a2a488d7f820e5a613d1f8e94a8ea52c110c9d105ef9ca4483de1eb9"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 10,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "카츠라님!",
+        "legacyTranslation": "케이님!",
+        "importedTranslation": "케이 님!"
+      },
+      "metadata": {
+        "replacementText": "追戚　還！",
+        "byteLimit": null,
+        "encodedLength": 10
+      },
+      "newTranslation": "케이 님!",
+      "newTranslationTextSha256": "5f1bacbdf34ef1755cf7bc6d3f08ff58e83f6c28208fb93e926798aff165fdbd",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000054",
+      "translation": "키라",
+      "sourceTextSha256": "f568cc1670d935a0151b9b317c3af1068eaa9b69f64c94bd5148cbfd78170cbe",
+      "translationTextSha256": "9c567a4f01f5f43d4775d203a3ede8829f0ec3a18fefcec4fb737707e9f8040d",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 54,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "f549b6a26739f4b039e8c96ab13027ae2de15d5539e4c152007d21ecf6db8d18"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 4,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "키라",
+        "legacyTranslation": "키라",
+        "importedTranslation": "키라"
+      },
+      "metadata": {
+        "replacementText": "徹虞",
+        "byteLimit": null,
+        "encodedLength": 4
+      },
+      "newTranslation": "키라",
+      "newTranslationTextSha256": "9c567a4f01f5f43d4775d203a3ede8829f0ec3a18fefcec4fb737707e9f8040d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000055",
+      "translation": "이 감각…！",
+      "sourceTextSha256": "60fad73e7035bc939638e2839fffbd320c4183b6c0cfe3c33ef1efcbbaff7a83",
+      "translationTextSha256": "76c5b3a3f2b8846499860b5c6bbeb3955dcc7ef463de9bbf319b9e5e18123628",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 55,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "011585e30aa403cb6d293ccfdd33dcdde59ad8239a427ea33ac4268b56100f08"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "이 감각…!",
+        "legacyTranslation": "이 감각…!",
+        "importedTranslation": "이 감각…！"
+      },
+      "metadata": {
+        "replacementText": "戚　姶唖…！",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "이 감각…!",
+      "newTranslationTextSha256": "2a578bb3e0f8ce0f166cafeb4853f7b5524c46860d524709dc4802d9de367f21",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000056",
+      "translation": "신",
+      "sourceTextSha256": "fc7931c25e37b8b170dced5d7d48995dd0fb0a34946fbea7c5f3298dafcf5423",
+      "translationTextSha256": "e609f3d29b9f741ae96e996316c188e8b472b12dca6c4f9d1122b62e451a2adc",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 56,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "8957559e59e5493b98942dc40f2b66bdf5cadcc2863f2e21530814bdf79a09a0"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 2,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "신",
+        "legacyTranslation": "신",
+        "importedTranslation": "신"
+      },
+      "metadata": {
+        "replacementText": "重",
+        "byteLimit": null,
+        "encodedLength": 2
+      },
+      "newTranslation": "신",
+      "newTranslationTextSha256": "e609f3d29b9f741ae96e996316c188e8b472b12dca6c4f9d1122b62e451a2adc",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000057",
+      "translation": "또 《시공진동》이 일어나는 건가!?",
+      "sourceTextSha256": "6e06c038f4153a55f4502524158ca6bc0e1ffb1e4f6631f4b0f98c6565b51b62",
+      "translationTextSha256": "9a34ec0f87e983c710afbd133bceee8e21f241dc89ad63662c985488a6c200d0",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 57,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "61211bcaf64ad994191827a2963088d6b2c4ef1010bdbe797703fa13a40b73a8"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 38,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "또《시공진동》이 일어나는 것인가!?」",
+        "legacyTranslation": "또 《시공진동》이 일어나는 건가!?",
+        "importedTranslation": "또 《시공진동》이 일어나는 건가!?"
+      },
+      "metadata": {
+        "replacementText": "暁　《獣因遭疑》戚　析嬢蟹澗　闇亜！？",
+        "byteLimit": null,
+        "encodedLength": 38
+      },
+      "newTranslation": "또 《시공진동》이 일어나는 건가!?",
+      "newTranslationTextSha256": "9a34ec0f87e983c710afbd133bceee8e21f241dc89ad63662c985488a6c200d0",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000058",
+      "translation": "크와트로",
+      "sourceTextSha256": "16815cab93105df702dcb64d245e74e2f4eb6fa48f3d23e7d86aa14eb294ac2f",
+      "translationTextSha256": "a669e8a8d6f737734928abee8296ed571f5ed1149f4e6e1efc7afaa03a1a3a5a",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 58,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "ea57a0acab0b51537e3bf30cd67d6937aa739f7b48d7806c0453149e8afea674"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 8,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "크와트로",
+        "legacyTranslation": "크와트로",
+        "importedTranslation": "크와트로"
+      },
+      "metadata": {
+        "replacementText": "滴人闘稽",
+        "byteLimit": null,
+        "encodedLength": 8
+      },
+      "newTranslation": "크와트로",
+      "newTranslationTextSha256": "a669e8a8d6f737734928abee8296ed571f5ed1149f4e6e1efc7afaa03a1a3a5a",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000059",
+      "translation": "큭!?",
+      "sourceTextSha256": "6c9789a9e5f407410f0121337add590c515098b0a8491ce9d5067a770106f73c",
+      "translationTextSha256": "3f3069eb6827544d56cecdc3de5397027c25895bf627d1ec9c261dd394afb596",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 59,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "9d87a7e20a9418982c980d34af62c314b507339a45b6676ed570a1c38f0f500b"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "큭!?",
+        "legacyTranslation": "큭!?",
+        "importedTranslation": "큭!?"
+      },
+      "metadata": {
+        "replacementText": "的！？",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "큭!?",
+      "newTranslationTextSha256": "3f3069eb6827544d56cecdc3de5397027c25895bf627d1ec9c261dd394afb596",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000060",
+      "translation": "카미유",
+      "sourceTextSha256": "9f6eb77d0cdcada3c71fcdb67d8f4d15f15485eb3534fa9b6669026eaa997fec",
+      "translationTextSha256": "adf3446abcd6bf686acde58f665092f590906dba594a5adc50bccdc645139f83",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 60,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "5cfdd95b3bb253140dff27eb45d24ab307ae0701a5c8b6063386e2e941955d93"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "카미유",
+        "legacyTranslation": "카미유",
+        "importedTranslation": "카미유"
+      },
+      "metadata": {
+        "replacementText": "朝耕政",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "카미유",
+      "newTranslationTextSha256": "adf3446abcd6bf686acde58f665092f590906dba594a5adc50bccdc645139f83",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000061",
+      "translation": "무슨 일이죠,크와트로 대위…!?",
+      "sourceTextSha256": "cc0fb39a9a43c1ec66e0c0e38eadd803100e555b60015a57b94853640acb4f8e",
+      "translationTextSha256": "488fb401ff2f505995c422ad3ca8efdce11380c87308e9b61c6350c070ab1445",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 61,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "e7118c173208840d1d4e14763c894f4b86e456112aaa0d675ba25d6ee8e011af"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 34,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "무슨 일이에요, 크와트로 대위…!?",
+        "legacyTranslation": "왜 그래요,크와트로 대위…!?",
+        "importedTranslation": "무슨 일이죠,크와트로 대위…!?"
+      },
+      "metadata": {
+        "replacementText": "巷充　析戚倉，滴人闘稽　企是…！？",
+        "byteLimit": null,
+        "encodedLength": 34
+      },
+      "newTranslation": "무슨 일이죠, 크와트로 대위…!?",
+      "newTranslationTextSha256": "fc462126b4396a8ff9306fc2599cf7a297ca9e7d4ba9f054b72e6a6ac566939d",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000062",
+      "translation": "아무로",
+      "sourceTextSha256": "0809e902288fd530b039e4e7fab7574e60ab089cc228349e4cb8bad432f0a05b",
+      "translationTextSha256": "1598c7f44b409588dde3e91c05710a84e61176dfe7032a643b78f20756a488e9",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 62,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "b4853b0653c0a3ea5153ed16021997fdc308cd35195f91cd9d1ef1f2a878e386"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 6,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "암로",
+        "legacyTranslation": "아무로",
+        "importedTranslation": "아무로"
+      },
+      "metadata": {
+        "replacementText": "焼巷稽",
+        "byteLimit": null,
+        "encodedLength": 6
+      },
+      "newTranslation": "아무로",
+      "newTranslationTextSha256": "1598c7f44b409588dde3e91c05710a84e61176dfe7032a643b78f20756a488e9",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000063",
+      "translation": "샤아!?",
+      "sourceTextSha256": "0767ce8e55a6f789b74e71c05253dcfb31457352a62602816c1c9cb642f519d7",
+      "translationTextSha256": "fc2429874c2803765ba359898323bd8174af17232aff0b9768eb4f9534659473",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 63,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "bb77052181b62b397cf434e7173e6b43b86e280a6d4d83cdaeaec6f3e7aae965"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 8,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "샤아!?",
+        "legacyTranslation": "샤아!?",
+        "importedTranslation": "샤아!?"
+      },
+      "metadata": {
+        "replacementText": "時焼！？",
+        "byteLimit": null,
+        "encodedLength": 8
+      },
+      "newTranslation": "샤아!?",
+      "newTranslationTextSha256": "fc2429874c2803765ba359898323bd8174af17232aff0b9768eb4f9534659473",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000064",
+      "translation": "크와트로",
+      "sourceTextSha256": "16815cab93105df702dcb64d245e74e2f4eb6fa48f3d23e7d86aa14eb294ac2f",
+      "translationTextSha256": "a669e8a8d6f737734928abee8296ed571f5ed1149f4e6e1efc7afaa03a1a3a5a",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 64,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "6be07d07d1969fc2c2d59ad0da6a81e5da5bf503e4bb4966eac66c1b8d6d5970"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 8,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "크와트로",
+        "legacyTranslation": "크와트로",
+        "importedTranslation": "크와트로"
+      },
+      "metadata": {
+        "replacementText": "滴人闘稽",
+        "byteLimit": null,
+        "encodedLength": 8
+      },
+      "newTranslation": "크와트로",
+      "newTranslationTextSha256": "a669e8a8d6f737734928abee8296ed571f5ed1149f4e6e1efc7afaa03a1a3a5a",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000065",
+      "translation": "… 조심해!",
+      "sourceTextSha256": "8715df8cccf2108ed99e89ccf797bf647dc0dc258e5679bac0a47cee38fbbbc3",
+      "translationTextSha256": "9c8878b9d353ee51aa761eae2436a3ff6134e53a3b0493ddc35b9c426408e871",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 65,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "968eaf3431da0bf087534d78271bbbe8be1134862dcae6320d0f9b678ebd2a8e"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 12,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "… 조심해!",
+        "legacyTranslation": "…조심해라!",
+        "importedTranslation": "… 조심해!"
+      },
+      "metadata": {
+        "replacementText": "…　繕宿背！",
+        "byteLimit": null,
+        "encodedLength": 12
+      },
+      "newTranslation": "…조심해!",
+      "newTranslationTextSha256": "8c7b238070543e8f658032d36e44574d46cf36343f26819df7a832b5c6e51cec",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00003@FILE-ID00004/000066",
+      "translation": "뭔가가…지금까지와는 다른 뭔가가 일어난다!",
+      "sourceTextSha256": "0233bb7d7f47c87288dad730fbacb105c574be1b7c9330857a9af8bcdf5f2573",
+      "translationTextSha256": "2d29ac8b7294b64b62fe40b43d7fdf809e36471b5ddaa82560f21c6d58417102",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00003@FILE-ID00004",
+        "sourceRow": 66,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00004-script-통합.xlsx",
+        "sourceArtifactSha256": "b971ecf533d0997d738783b7e03aa1a3ec1ac3091c02fb575ca23591213adc90",
+        "sourceBindingSha256": "52d62050b26939930c5db0472da957c1c071617af4c444eec56f7ee425c27903"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 46,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "무언가가 … 지금까지 없었던 무언가가 일어난다! ",
+        "legacyTranslation": "무언가가…여태까지 없던 무언가가 일어난다!",
+        "importedTranslation": "뭔가가…지금까지와는 다른 뭔가가 일어난다!"
+      },
+      "metadata": {
+        "replacementText": "杭亜亜…走榎猿走人澗　陥献　杭亜亜　析嬢貝陥！",
+        "byteLimit": null,
+        "encodedLength": 46
+      },
+      "newTranslation": "무언가가… 지금까지와는 다른 뭔가가 일어난다!",
+      "newTranslationTextSha256": "4bdd183aa37b4429ffba983be3783f30145f7202a199cfb4a29e61d9e9d992df",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000002",
+      "translation": "다양한 세계,다양한 우주……",
+      "sourceTextSha256": "4c4be27a150ebc7092b2e5a8f08aa6f9c35f5ded6d1bd07d8bf62f95e4b13885",
+      "translationTextSha256": "6842559310bc6e3e7e7f8b80a3095afd6beb0a65bc2c3e97d4954f8f35b26d27",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 2,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "fe4231498c46d95e4b5a7dc1a36d44de10887639a1075aba28a2230a5d7c05aa"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 30,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "다양한 세계,다양한 우주……",
+        "importedTranslation": "다양한 세계,다양한 우주……"
+      },
+      "metadata": {
+        "replacementText": "陥丞廃　室域，陥丞廃　酔爽……",
+        "byteLimit": 52,
+        "encodedLength": 30
+      },
+      "newTranslation": "서로 다른 세계, 서로 다른 우주……",
+      "newTranslationTextSha256": "86d09546fc7df33c4ad5d02df6a1d86ca5416afc4b05e9da7d1adc7807d64f77",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000003",
+      "translation": "다른 시공에 존재하는 그것들은 평행세계라 불리며",
+      "sourceTextSha256": "66bde5d10ab3b5777870f1ed3bbbcc05a1958b993f97047922a26dc0371fee19",
+      "translationTextSha256": "3971ef3578a5ef0e605790d5b3a9c2800eacf3f7a1605e3d269d05477dcb7c59",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 3,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "5c98df9d4172e08875853032e501cc8865be36cd2f1f08fd0ec08644d358aa27"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 52,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "다른 시공에 존재하는 그것들은 평행세계라 불리며",
+        "importedTranslation": "다른 시공에 존재하는 그것들은 평행세계라 불리며"
+      },
+      "metadata": {
+        "replacementText": "陥献　獣因拭　糎仙馬澗　益依級精　汝楳室域虞　災軒悟",
+        "byteLimit": 52,
+        "encodedLength": 52
+      },
+      "newTranslation": "서로 다른 시공의 세계를 평행세계라 부르며,",
+      "newTranslationTextSha256": "a3329157657681db7d0ca0f5866574d5e8c237dbe69f83736a68254ddc0ef2d3",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000004",
+      "translation": "서로 간에 엇갈릴 리가 없는 것이었다.",
+      "sourceTextSha256": "104c697aec849daac3aab2349973ea6263e25108339e4a4698153391d06427a5",
+      "translationTextSha256": "7612ae84ce41a77ecedc011837f22a9fa6df44ffda870d100e928cb7fe1fa6dd",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 4,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "3f4e9f7f6933ddb0d310253dcd3107939c99f31f4dea7c2a4675b2046b36a78a"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 42,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "서로 간에 엇갈릴 리가 없는 것이었다.",
+        "importedTranslation": "서로 간에 엇갈릴 리가 없는 것이었다."
+      },
+      "metadata": {
+        "replacementText": "辞稽　娃拭　譲哀険　軒亜　蒸澗　依戚醸陥．",
+        "byteLimit": 52,
+        "encodedLength": 42
+      },
+      "newTranslation": "서로 만날 수 없는 존재였다.",
+      "newTranslationTextSha256": "bd7c163c682a600a85b732ec0629ae0bd59b0b42158db9f4793cb1116040fe54",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000005",
+      "translation": "그래……그 날이 올 때까지는.",
+      "sourceTextSha256": "8c05e0afde1a1d2fd4b948162c1166f734c993313d60c973b1cc9afba3d9f13c",
+      "translationTextSha256": "66f9e8f4c877715a05df884753f6b3491a99dfd5e4df20ac4ff1458a5e883783",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 5,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "dee049c40e428266ed6bebadb56dd38622da3b9084f256c88947d6af639768ec"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 32,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "그래……그 날이 올 때까지는.",
+        "importedTranslation": "그래……그 날이 올 때까지는."
+      },
+      "metadata": {
+        "replacementText": "益掘……益　劾戚　臣　凶猿走澗．",
+        "byteLimit": 52,
+        "encodedLength": 32
+      },
+      "newTranslation": "그래…… 그날이 오기 전까지는.",
+      "newTranslationTextSha256": "999ae56b3af7500df644445b0cf61cf922606bd89f813dc7e66225fbc97b605a",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000006",
+      "translation": "대시공진동……",
+      "sourceTextSha256": "1bfb3a9b806f7369faf9c04280ba3da692b0bfe78a1db1eec7a4acf9e37242a8",
+      "translationTextSha256": "f90aba63b63d4b61536f6e3b2d5355e1456ac869d4aada652dd79d0fee9108fd",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 6,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "7e9f015c9b192a29f6c6bf6d20feafde1cbf3ee0dfce94da975d09d532f76f08"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 14,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "대시공진동……",
+        "importedTranslation": "대시공진동……"
+      },
+      "metadata": {
+        "replacementText": "企獣因遭疑……",
+        "byteLimit": 52,
+        "encodedLength": 14
+      },
+      "newTranslation": "대시공진동……",
+      "newTranslationTextSha256": "f90aba63b63d4b61536f6e3b2d5355e1456ac869d4aada652dd79d0fee9108fd",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000007",
+      "translation": "어느 세계에서 발생한 거대한 시공진동에 의해,",
+      "sourceTextSha256": "a5c33ff6eae7e32f573739c5047d91a82e137b20218416bb2294648862239b0e",
+      "translationTextSha256": "a1810f8a3352e85f5c2d4e9cd458a3467091d95cd1bb223ca911ea32d9503bf2",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 7,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "6a5232f950f8f8bcb384b183ef297403cb8301f47e51a1bb9e1152e206d9f554"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 50,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "어느 세계에서 발생한 거대한 시공진동에 의해,",
+        "importedTranslation": "어느 세계에서 발생한 거대한 시공진동에 의해,"
+      },
+      "metadata": {
+        "replacementText": "嬢汗　室域拭辞　降持廃　暗企廃　獣因遭疑拭　税背，",
+        "byteLimit": 52,
+        "encodedLength": 50
+      },
+      "newTranslation": "어느 세계에서 발생한 거대한 시공진동으로,",
+      "newTranslationTextSha256": "0cc60c6ae701f0052808a0a106d9b9f8250156a610669e317f174598d088c72e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000008",
+      "translation": "각각의 세계를 나누는 차원의 벽이 파괴되었다.",
+      "sourceTextSha256": "a3417f06e396e24c6048c6518f5a8e0f66f2f59eaaef5e9c5c0184bac098fe34",
+      "translationTextSha256": "aa89d58bbe15485bad7f64dcfcfeab0d96ae22179bdc5f24016d582829fd8f70",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 8,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "16c5381b6bc5bacc31e0c7307d80df46fb6abfeeef9c1f56a12dc0ba1ae69331"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 50,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "각각의 세계를 나누는 차원의 벽이 파괴되었다.",
+        "importedTranslation": "각각의 세계를 나누는 차원의 벽이 파괴되었다."
+      },
+      "metadata": {
+        "replacementText": "唖唖税　室域研　蟹刊澗　託据税　混戚　督雨鞠醸陥．",
+        "byteLimit": 52,
+        "encodedLength": 50
+      },
+      "newTranslation": "각 세계를 가르던 차원의 벽이 무너졌다.",
+      "newTranslationTextSha256": "dcc9cd44d26f04aef6eae52dccf2e041acac6f761b329f1d28a018b1b1938b2e",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000009",
+      "translation": "그 결과,수많은 평행세계는 서로 뒤섞이고,",
+      "sourceTextSha256": "96f4b95ca8d6277dfdef5ca496a95a66e1aed4bd726eb7a79cdaadc77ffec83f",
+      "translationTextSha256": "a87d03364a9395e1c91ab811ff1623be8b418ef987c67c08738449683059936e",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 9,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "21f314e8d476fe4161eb7eb8490e7878a64c335f0f669043135c1cd870091042"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 46,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "그 결과,수많은 평행세계는 서로 뒤섞이고,",
+        "importedTranslation": "그 결과,수많은 평행세계는 서로 뒤섞이고,"
+      },
+      "metadata": {
+        "replacementText": "益　衣引，呪弦精　汝楳室域澗　辞稽　及鹿戚壱，",
+        "byteLimit": 52,
+        "encodedLength": 46
+      },
+      "newTranslation": "그 결과 수많은 평행세계가 서로 뒤섞여,",
+      "newTranslationTextSha256": "681a96e1deb8aad96c96c85e4a5025d49b712e165c8575cdfd5d545f938a6d2f",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000010",
+      "translation": "많은 새로운 세계가 태어났다.",
+      "sourceTextSha256": "509e5abfc1587141800b162b752fc1ff89d73c1a0681bc5c4a5d77d1b53abe9e",
+      "translationTextSha256": "30e8057d1ec7aebe8a7c01c05fc90f175d55d80d1bf4977276e295a6229ba291",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 10,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "69692d8b5f37279a3abd97b5b6b929eef730d482f61a5e3209fb2b3b144d9fa4"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 32,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "많은 새로운 세계가 태어났다.",
+        "importedTranslation": "많은 새로운 세계가 태어났다."
+      },
+      "metadata": {
+        "replacementText": "弦精　歯稽錘　室域亜　殿嬢概陥．",
+        "byteLimit": 52,
+        "encodedLength": 32
+      },
+      "newTranslation": "새로운 세계가 여럿 태어났다.",
+      "newTranslationTextSha256": "c84f1633f75fc45e8a9361f9bae1ff9912bb93355676046f62262f741df9455c",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000011",
+      "translation": "그것이 다원세계의 탄생이다.",
+      "sourceTextSha256": "ecf140a10fd455c1c18c0500cfea6112158427fb2a0dbc6c6784d04bc3e7a8a8",
+      "translationTextSha256": "e19a54d17ecfccc510d5c3f55aedfb4d9f4ddc751352d2cabfcfb3be5920d90d",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 11,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "0189d30cd1cfe945efa5bfed194851e9a42c4213b7704408ada7566a5bbb0708"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 30,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "그것이 다원세계의 탄생이다.",
+        "importedTranslation": "그것이 다원세계의 탄생이다."
+      },
+      "metadata": {
+        "replacementText": "益依戚　陥据室域税　添持戚陥．",
+        "byteLimit": 52,
+        "encodedLength": 30
+      },
+      "newTranslation": "그것이 다원세계의 탄생이었다.",
+      "newTranslationTextSha256": "ced0af554e41e9070988c4942038e98ea985733779426d1b005ae4e852242bf2",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000012",
+      "translation": "새로운 세계의 탄생은 새로운 만남을 낳고,",
+      "sourceTextSha256": "68e34308e630f557d87dac584e221757224c71058a6c08e52531c34a0d0fb7cd",
+      "translationTextSha256": "db5fdb6113ca30c25f0eff7ec68441393bd7ebe5e3f29035b0667a216d1cd75c",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 12,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "94ba53b174b72c1138bd8e1a706829bae2369c42f516f436c1aa5bbf01880f0b"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 46,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "새로운 세계의 탄생은 새로운 만남을 낳고,",
+        "importedTranslation": "새로운 세계의 탄생은 새로운 만남을 낳고,"
+      },
+      "metadata": {
+        "replacementText": "歯稽錘　室域税　添持精　歯稽錘　幻害聖　該壱，",
+        "byteLimit": 52,
+        "encodedLength": 46
+      },
+      "newTranslation": "새로운 세계의 탄생은 새로운 만남을 낳고,",
+      "newTranslationTextSha256": "db5fdb6113ca30c25f0eff7ec68441393bd7ebe5e3f29035b0667a216d1cd75c",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000013",
+      "translation": "새로운 만남은 새로운 싸움을 낳고,많은",
+      "sourceTextSha256": "e621155acb8ea80838b44202aafe49755f795b1a8437da55a1797cf8bbfc2f9d",
+      "translationTextSha256": "2cb466a215d8fac31ca853ec739cb237e3d8facc0ecd7914e35006ec0581ad48",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 13,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "df07642600a5cf0a3f2192ad2625728548a6ddba2ead1a5b7022dd3625904ee4"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 42,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "새로운 만남은 새로운 싸움을 낳고,많은",
+        "importedTranslation": "새로운 만남은 새로운 싸움을 낳고,많은"
+      },
+      "metadata": {
+        "replacementText": "歯稽錘　幻害精　歯稽錘　塾崇聖　該壱，弦精",
+        "byteLimit": 52,
+        "encodedLength": 42
+      },
+      "newTranslation": "새로운 만남은 새로운 싸움을 낳았다. 수많은",
+      "newTranslationTextSha256": "d848634dbf84d5835d48621a0cb74ebc89790dfc9e92c9926a177157ba210586",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000014",
+      "translation": "다원세계가 탄생한 후 오랫동안 혼돈속에 있었다.",
+      "sourceTextSha256": "83f11dbae5cc2b14b5d74a77999209e479a15b17155c319c42246e7a2a065df7",
+      "translationTextSha256": "74af1a1b35cecfbafd170c5a28d2f39cbc33e0f9c8d45bec3fdeb938d0021bbf",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 14,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "700b87bd4396ebf2376ba7c684e305b457b4af6ad19fa01360a244d4077529a3"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 52,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "다원세계가 탄생한 후 오랫동안 혼돈속에 있었다.",
+        "importedTranslation": "다원세계가 탄생한 후 오랫동안 혼돈속에 있었다."
+      },
+      "metadata": {
+        "replacementText": "陥据室域亜　添持廃　板　神熊疑照　肇儀紗拭　赤醸陥．",
+        "byteLimit": 52,
+        "encodedLength": 52
+      },
+      "newTranslation": "다원세계는 탄생 후 오랫동안 혼돈 속에 있었다.",
+      "newTranslationTextSha256": "7851948785572b7a8019cf96948d96dfd125969851340df9f459f58068b2095b",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000015",
+      "translation": "하지만 그 가운데 몇몇에서는 점차 새로운 질서가",
+      "sourceTextSha256": "2e88b3f5992b5c9b2484b4364041c451b452e23ac15080d4ab2d906746cdc5ab",
+      "translationTextSha256": "80b690bbbdacf0b9ea23e898be2315d01f6be8c155fe1acc2a67da042d14b3d9",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 15,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "cdb497b6ca893eac16e7b35269297189753b28d9a8e9e40dfd801672b566cfc7"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 52,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "하지만 그 가운데 몇몇에서는 점차 새로운 질서가",
+        "importedTranslation": "하지만 그 가운데 몇몇에서는 점차 새로운 질서가"
+      },
+      "metadata": {
+        "replacementText": "馬走幻　益　亜錘汽　護護拭辞澗　繊託　歯稽錘　霜辞亜",
+        "byteLimit": 52,
+        "encodedLength": 52
+      },
+      "newTranslation": "그러나 그중 일부에는 차츰 새로운 질서가",
+      "newTranslationTextSha256": "098877ecda6666b492b0d456eb35870f4a25066265bff545c2af715e2a1f9968",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000016",
+      "translation": "만들어져 갔다.",
+      "sourceTextSha256": "db2af2849985667bd98b2f8e818c7324e5598cb36294d3753e06a74e9cac3991",
+      "translationTextSha256": "3631b1ba611e3bae1d2f1c05f2b2655b89939633b931da00b2b1320b1280fe04",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 16,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "e1dc77de77c0b74609e1ae73092705f18841e67b0cf6129fd5d7174482cff4b9"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 16,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "만들어져 갔다.",
+        "importedTranslation": "만들어져 갔다."
+      },
+      "metadata": {
+        "replacementText": "幻級嬢閃　穐陥．",
+        "byteLimit": 52,
+        "encodedLength": 16
+      },
+      "newTranslation": "자리 잡기 시작했다.",
+      "newTranslationTextSha256": "09799f576deb016dd24b423a0b5da8f4bf6346bfbbedc69c6aa4a539675886d9",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000017",
+      "translation": "후에 UCW라 불리게 되는 세계",
+      "sourceTextSha256": "c88642f567561b404c9579e3b6dc9f418929ef7bd76f687f565a34273faf733d",
+      "translationTextSha256": "c39fba3cdf17555254aa9555b809f3dd8eb5dfe2c3f963c88b5adc593915fe10",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 17,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "552342b22e822cfa22df04f3483b6dd0a11f2aa814332a1f8b82a13ed76382c1"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 34,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "후에 UCW라 불리게 되는 세계",
+        "importedTranslation": "후에 UCW라 불리게 되는 세계"
+      },
+      "metadata": {
+        "replacementText": "板拭　ＵＣＷ虞　災軒惟　鞠澗　室域",
+        "byteLimit": 52,
+        "encodedLength": 34
+      },
+      "newTranslation": "훗날 UCW라 불리게 된 세계",
+      "newTranslationTextSha256": "4b459bc44213f96a1551f37f17bc9a10999ad5cf56bb202706321afe96e638dc",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000018",
+      "translation": "（＝『슈퍼로봇대전Z』）에서 일어난 다원전쟁.",
+      "sourceTextSha256": "36773bbc5a74147982a6497872fe94bdd4279f8f30d71c120e5c99cee7883254",
+      "translationTextSha256": "0fcd336570397e50271fd5c765a61601462a9087cb3082f8a0c316202b55f345",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 18,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "e03fdb79f34a255e148896f29eaa1cca6b310633dce0974063c24db16713c212"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 48,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "（＝『슈퍼로봇대전Z』）에서 일어난 다원전쟁.",
+        "importedTranslation": "（＝『슈퍼로봇대전Z』）에서 일어난 다원전쟁."
+      },
+      "metadata": {
+        "replacementText": "（＝『輯遁稽鎖企穿Ｚ』）拭辞　析嬢貝　陥据穿戦．",
+        "byteLimit": 52,
+        "encodedLength": 48
+      },
+      "newTranslation": "(=『슈퍼로봇대전 Z』)에서 벌어진 다원전쟁.",
+      "newTranslationTextSha256": "d0969036a85c976f496f022ded7398c4c07d89775aaefd39676d6885ab9a99ff",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000019",
+      "translation": "그 싸움을 종결로 이끈 특수부대 ZEUTH는",
+      "sourceTextSha256": "1faec5a90ede2a4cfd09557da63a822a5eb2074c1718880b2cfe64a02bc8dd50",
+      "translationTextSha256": "e94e0cb644a80e7268c27bb3c811f0462f463ed7f014074f44d4a833cdc045ef",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 19,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "3efbbce048de458209976e8ed1f56e4f7d69247d9451366ebfe2f84d9535adcc"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 48,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "그 싸움을 종결로 이끈 특수부대 ZEUTH는",
+        "importedTranslation": "그 싸움을 종결로 이끈 특수부대 ZEUTH는"
+      },
+      "metadata": {
+        "replacementText": "益　塾崇聖　曽衣稽　戚廻　働呪採企　ＺＥＵＴＨ澗",
+        "byteLimit": 52,
+        "encodedLength": 48
+      },
+      "newTranslation": "그 싸움을 종결로 이끈 특수부대 ZEUTH는",
+      "newTranslationTextSha256": "e94e0cb644a80e7268c27bb3c811f0462f463ed7f014074f44d4a833cdc045ef",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000020",
+      "translation": "시공진동에 의해 ADW라 불리게 되는 세계",
+      "sourceTextSha256": "f77fd5e8ed6bc27ae366093d4210a6e0f53799f4f495ae978ccfa0c19a8d6d34",
+      "translationTextSha256": "fb9c615eec4d1df3d208d4f75092921f6b7d03897ab98bec0fde0f6b0f0ca756",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 20,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "9d1b01d8f1b203694a3b3f9a34091b73f427856c1fa997e0091f45ab8a39099a"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 46,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "시공진동에 의해 ADW라 불리게 되는 세계",
+        "importedTranslation": "시공진동에 의해 ADW라 불리게 되는 세계"
+      },
+      "metadata": {
+        "replacementText": "獣因遭疑拭　税背　ＡＤＷ虞　災軒惟　鞠澗　室域",
+        "byteLimit": 52,
+        "encodedLength": 46
+      },
+      "newTranslation": "시공진동으로 ADW라 불리게 된 세계",
+      "newTranslationTextSha256": "f6b5c4e258cdce621dff0543e27b2dd6c6f19f1e45225ee6ed2028fcdaa7d23b",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000021",
+      "translation": "（＝『제2차 슈퍼로봇대전Z』）에",
+      "sourceTextSha256": "5960a58751400ddefbccb856039c6119944e4a3204591533c147f659489d53bf",
+      "translationTextSha256": "3105226d23ee8d6add945e106cee5bb1fc28526f2dee8b2f26c60679714f889c",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 21,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "bf28374c379f740c6c00fc9cf9d5e588aa58d7af6bd3fd9733375bb342e2f1f5"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 34,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "（＝『제2차 슈퍼로봇대전Z』）에",
+        "importedTranslation": "（＝『제2차 슈퍼로봇대전Z』）에"
+      },
+      "metadata": {
+        "replacementText": "（＝『薦２託　輯遁稽鎖企穿Ｚ』）拭",
+        "byteLimit": 52,
+        "encodedLength": 34
+      },
+      "newTranslation": "(=『제2차 슈퍼로봇대전 Z』)로",
+      "newTranslationTextSha256": "87f1d3eb9af8fbf17ae5dbf303368ae99d48e447cf98174b0f7992ec4384c381",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000022",
+      "translation": "전이 되었다.",
+      "sourceTextSha256": "8c33bbed4338e3851cdea4f0f17f510b93a99f672a612d1283e27fb16ea2e4b6",
+      "translationTextSha256": "8e5cd1c619b54ab29f0d3db5e0c158a5887ca6b7e38d15ce3d8b78d0b3fda07f",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 22,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "f058b043e0c87dfbdea0d38b4f5df9ef0a6d6a7e4802cc46946ba3bfc310fe47"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 14,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "전이 되었다.",
+        "importedTranslation": "전이 되었다."
+      },
+      "metadata": {
+        "replacementText": "穿戚　鞠醸陥．",
+        "byteLimit": 52,
+        "encodedLength": 14
+      },
+      "newTranslation": "전이되었다.",
+      "newTranslationTextSha256": "b58702d0dc914e93551a3222dda9f7f367a6401c658fe9c2a67e44c64df80e67",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000023",
+      "translation": "거기서 그들은 새롭게 만난 동료들과 함께",
+      "sourceTextSha256": "d0c1b12a65b546e15c8de3c8df494eccae6bfb8f36403468a8d11ca8b8b1f732",
+      "translationTextSha256": "f64c43de7bd13803ae8e42e35c615cf0ec8972712334578299d677c944bb3eba",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 23,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "ad26e5f393f2b2f0d5a38ec5cab07df72b0799d93bd1cc9bf813232105b47ae5"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 44,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "거기서 그들은 새롭게 만난 동료들과 함께",
+        "importedTranslation": "거기서 그들은 새롭게 만난 동료들과 함께"
+      },
+      "metadata": {
+        "replacementText": "暗奄辞　益級精　歯罫惟　幻貝　疑戟級引　敗臆",
+        "byteLimit": 52,
+        "encodedLength": 44
+      },
+      "newTranslation": "그곳에서 그들은 새로 만난 동료들과 함께",
+      "newTranslationTextSha256": "3b15bf4b577b0cc05aa644c98cbbfdbbcf4ebf0300c3e88c2e65d097ceb0b874",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000024",
+      "translation": "특수부대 ZEXIS를 결성해 파계사변,재세전쟁을",
+      "sourceTextSha256": "5c0f892d26fbcbb780b37a00fd84c78b167f8a6b77dc6fc812655c1c3030ec79",
+      "translationTextSha256": "2d14dfdf878667e7a040892198d08dee3f0eb4b1a97056abba25a3c08c0f63b3",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 24,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "cfbaa72a2fb8eb2bfd77c4ae48c0a6b088eef2e5ecde88672fbb02a1ee03771c"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 52,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "특수부대 ZEXIS를 결성해 파계사변,재세전쟁을",
+        "importedTranslation": "특수부대 ZEXIS를 결성해 파계사변,재세전쟁을"
+      },
+      "metadata": {
+        "replacementText": "働呪採企　ＺＥＸＩＳ研　衣失背　督域紫痕，仙室穿戦聖",
+        "byteLimit": 52,
+        "encodedLength": 52
+      },
+      "newTranslation": "특수부대 ZEXIS로 파계사변, 재세전쟁을",
+      "newTranslationTextSha256": "691ffe043b50076f6dc5a8c823d632db72f2d97bd5ba059e431773974be1b4b7",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000025",
+      "translation": "싸워 나갔다.",
+      "sourceTextSha256": "f08008c1cfb363038a5f15aa7fc77b8717482eb2158e85787093555addd1d90b",
+      "translationTextSha256": "4ea1966814a0d9cf13b59b674095051541aa59b5ffb5efabc77d649e4ab830ab",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 25,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "f681884f4926a84bebeb412500d2de56f3f419e2b5a2d68e85008259b4eb342f"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 14,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "싸워 나갔다.",
+        "importedTranslation": "싸워 나갔다."
+      },
+      "metadata": {
+        "replacementText": "塾趨　蟹穐陥．",
+        "byteLimit": 52,
+        "encodedLength": 14
+      },
+      "newTranslation": "끝까지 싸웠다.",
+      "newTranslationTextSha256": "97f54a832ceb1876bb51bd4fa5517aa177bc52bbda985e10d9da361171c15926",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000026",
+      "translation": "ADW에 평온을 가져온 ZEUTH 멤버는",
+      "sourceTextSha256": "82e0c7d508c6b1908becf4c85a8b6ec189453f06359b7bdee3251f8b99ee7dc8",
+      "translationTextSha256": "3db16345349524cba092016b0e4a7fa20e30ed5a18c6e44130678bbcc5c02678",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 26,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "51543063809083eed7781d052785790d695a2174b6c7e46fc35fbe3c0b0c626f"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 44,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "ADW에 평온을 가져온 ZEUTH 멤버는",
+        "importedTranslation": "ADW에 평온을 가져온 ZEUTH 멤버는"
+      },
+      "metadata": {
+        "replacementText": "ＡＤＷ拭　汝紳聖　亜閃紳　ＺＥＵＴＨ　呉獄澗",
+        "byteLimit": 52,
+        "encodedLength": 44
+      },
+      "newTranslation": "ADW에 평온을 가져온 ZEUTH의 멤버들은",
+      "newTranslationTextSha256": "fe69c956c3c8497c2e3df909005282508d54f58c3500b7bc9830109486cb8dba",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000027",
+      "translation": "차원의 구멍 어비스를 거쳐 UCW로 귀환하려",
+      "sourceTextSha256": "a458cb05038b494a982cd9a10ee3732337aae849dbb2e18bf3855d60ab3ab4b5",
+      "translationTextSha256": "963cce2a8f08c6bb19d581a3dd083490a298c4835c8ace736fcaf70d92d2dd18",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 27,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "83f6a6cdfc698e0e92d9a7a7a8fcf66ee8d4a9444bf3bdcc5b8aa4545b8c596f"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 48,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "차원의 구멍 어비스를 거쳐 UCW로 귀환하려",
+        "importedTranslation": "차원의 구멍 어비스를 거쳐 UCW로 귀환하려"
+      },
+      "metadata": {
+        "replacementText": "託据税　姥雇　嬢搾什研　暗団　ＵＣＷ稽　瑛発馬形",
+        "byteLimit": 52,
+        "encodedLength": 48
+      },
+      "newTranslation": "차원의 구멍 어비스를 지나 UCW로 돌아가려",
+      "newTranslationTextSha256": "e1bda15f75dc3209014a48c6f4f9a6567026d85c8a6e1c699dd2d2c8d8eded77",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000028",
+      "translation": "하고 있었다.",
+      "sourceTextSha256": "6ff9c73d7a0796d8285da59cffed1f49714a290dd57522bd569eab84d77f2c80",
+      "translationTextSha256": "d3097d716c38eb644e37c0a815f1876f4eb9f520f74222f20d3089a29a2b8a74",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 28,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "9c3e14ce2c103626c1929799022c4a16b613d137a6d5bb8b1fa56bd65ca3694c"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 14,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "하고 있었다.",
+        "importedTranslation": "하고 있었다."
+      },
+      "metadata": {
+        "replacementText": "馬壱　赤醸陥．",
+        "byteLimit": 52,
+        "encodedLength": 14
+      },
+      "newTranslation": "하고 있었다.",
+      "newTranslationTextSha256": "d3097d716c38eb644e37c0a815f1876f4eb9f520f74222f20d3089a29a2b8a74",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    },
+    {
+      "entryId": "STG0001a/ID00007/000029",
+      "translation": "그앞에 새로운 싸움이 기다리고 있는줄도 모르고…",
+      "sourceTextSha256": "7052d21f6a639cc30db96521169f546dbbc06335beb2d7867e37a4bd4ae4ec08",
+      "translationTextSha256": "d83f0b7bfac51740577b06d894a2387d6371183a5cb0779845ab661256e97285",
+      "translationStatus": "reviewed",
+      "translator": "Codex",
+      "reviewer": "Codex 독립 교차검수",
+      "referenceConsulted": true,
+      "notes": "일본어 원문 기준 신규 번역; 기존 번역은 참고만 사용",
+      "controls": {
+        "sourceTokens": [],
+        "translationTokens": [],
+        "sourceSignature": "[]",
+        "translationSignature": "[]"
+      },
+      "location": {
+        "scope": "stage",
+        "assetKey": "STG0001a",
+        "internalId": "ID00007",
+        "sourceRow": 29,
+        "sourceArtifact": "01_스테이지 xlsx 모음/STG0001a(1화)-ID00007.xlsx",
+        "sourceArtifactSha256": "16d7400cfc9d0b6a2a75a516868bc79edeccbc150962f3427654d08ad4a32007",
+        "sourceBindingSha256": "cdfa65daa4622ec535bbc9d8e799f5f0501ffef82ff190943dcf5aa8de98fbd8"
+      },
+      "sourcePayload": {
+        "bytes": null,
+        "sha256": null,
+        "hex": null
+      },
+      "appliedPayload": {
+        "bytes": 52,
+        "sha256": null,
+        "hex": null
+      },
+      "references": {
+        "googleTranslation": "",
+        "legacyTranslation": "그앞에 새로운 싸움이 기다리고 있는줄도 모르고…",
+        "importedTranslation": "그앞에 새로운 싸움이 기다리고 있는줄도 모르고…"
+      },
+      "metadata": {
+        "replacementText": "益蒋拭　歯稽錘　塾崇戚　奄陥軒壱　赤澗匝亀　乞牽壱…",
+        "byteLimit": 52,
+        "encodedLength": 52
+      },
+      "newTranslation": "그 너머 새 싸움을 기다리는 줄도 모른 채……",
+      "newTranslationTextSha256": "69f1d4e069c38067fb85840ea88cce75bafb32642b48a7094f8083ff803cfd7c",
+      "newTranslationStatus": "draft",
+      "newTranslationReference": {
+        "glossary": "translations/retranslation/scenario_glossary_v2.json",
+        "seriesReference": "translations/retranslation/series_reference.json",
+        "note": "1화 설정·관계·말투 자료를 반영한 신규 번역 초안; 기존 translation은 비교용으로 보존"
+      }
+    }
+  ],
+  "retranslationPreview": {
+    "scope": "scenario_STG0001a.json, scenario_STG0001b.json",
+    "version": "1화-settings-v1",
+    "field": "newTranslation",
+    "activeTranslationUnchanged": true,
+    "spacePolicy": "입력·미리보기는 반각 U+0020 공백; 최종 삽입 단계에서만 0xFEFE 치환",
+    "linePolicy": "기존 번역에서 산출한 파일별 최대 행 길이를 기준으로 뷰어가 3줄을 재배치"
+  }
+}

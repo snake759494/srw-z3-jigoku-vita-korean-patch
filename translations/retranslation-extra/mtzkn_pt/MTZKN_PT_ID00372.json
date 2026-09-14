@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00372",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00372/Sheet1/000002",
+      "sourceBindingSha256": "285b0fe3f1cf00e50bc14256ab97a9e4ae740207d13a4c2116f9cf4d2368a0e2",
+      "sourceTextSha256": "715a3f56583d84966b54a91614696fa9f90211721795237f131f85c52db9d11b",
+      "freshTranslation": "슈레이드 엘란",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00372/Sheet1/000003",
+      "sourceBindingSha256": "ebf86c8af4b5b1928f4d26611679aac96ef746140f4505950e636ff59cecd478",
+      "sourceTextSha256": "72c46e86b9bce2a39b21c88b29d2c2694bfdc9de11afb16758ff626562bade9e",
+      "freshTranslation": "슈레이드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00372/Sheet1/000004",
+      "sourceBindingSha256": "7617191f31aef94a78c7a772494827110bf28f50326c872f0b935473fc45cc2b",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00372/Sheet1/000005",
+      "sourceBindingSha256": "2a33d66acc8d31a20995145a1a7e5b82eda7e7bb8926a3cc43f281f06d7a2201",
+      "sourceTextSha256": "eb2dc0794fe6bc89c552b52c3e81cd210d27e59dbc84105c6b87987948951f92",
+      "freshTranslation": "나미가와 다이스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00372/Sheet1/000006",
+      "sourceBindingSha256": "899291016ffff2e7f71351e1e8db1170b2f43c154a8172c0deccce707fc808ee",
+      "sourceTextSha256": "496df7fd89f5552feb5e10bd017d1d77c2b50047d6c7ff90cb6828ef9a8c87ac",
+      "freshTranslation": "네오디바의 요소 후보생. ㊥ 천재 피아니스트이며, 전투 능력도 높고, 엘리먼트 후보생 중에서는 최고 클래스의 ㊥ 솜씨를 자랑하는 미소년. ㊥이지만, 병약하고 아쿠에리온에 감응할 때마다 생명이 깎아 버리기 때문에, 실전에는 거의 ㊥ 참가할 수 없다. ㊥ 싸움 중 하나 하나를 음악으로 비유하고 싸움 자체를 하나의 곡으로 잡는다. 그 중 생명을 ㊥ 희생해도 궁극의 멜로디를 완성시키는 것을 목적으로 하고 있다. ㊥ 엘리먼트 능력은 「정신 연주」. 음악을 연주하는 것으로, 타인의 마음을 당황하게 할 수 ㊥한다. 어린 시절에는 이 능력을 악용되고 있었지만, 클레어에 의해 스카우트되어 엘레메 ㊥인 후보생이 되었다. ㊥ 카이엔을 일방적으로 '친한 친구'라고 부른다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00372/Sheet1/000007",
+      "sourceBindingSha256": "bec729a49c2e53ebcf096dfa7f187444b2df32769f2d8774740b259133098c27",
+      "sourceTextSha256": "d6e9dcd52235513bb0473b1c546d351e47c89cb2e3c130d900329c55891c62e3",
+      "freshTranslation": "네오디바의 요소 후보생. ㊥ 천재 피아니스트이며, 전투 능력도 높고, 엘리먼트 후보생 중에서는 최고 클래스의 ㊥ 솜씨를 자랑하는 미소년. ㊥이지만, 병약하고 아쿠에리온에 감응할 때마다 생명이 깎아 버리기 때문에, 실전에는 거의 ㊥ 참가할 수 없다. ㊥ 싸움 중 하나 하나를 음악으로 비유하고 싸움 자체를 하나의 곡으로 잡는다. 그 중 생명을 ㊥ 희생해도 궁극의 멜로디를 완성시키는 것을 목적으로 하고 있다. ㊥ 엘리먼트 능력은 「정신 연주」. 음악을 연주하는 것으로, 타인의 마음을 당황하게 할 수 ㊥한다. 어린 시절에는 이 능력을 악용되고 있었지만, 클레어에 의해 스카우트되어 엘레메 ㊥인 후보생이 되었다. ㊥ 카이엔을 일방적으로 '친구'라고 부르지만, 내심에서는 그도 슈레이드와의 사이에 강한 유대를 ㊥ 느끼고 있다. ㊥ 전투가 격화됨에 따라 출격이 늘어나 몸이 부풀어 오르고, 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00372/Sheet1/000008",
+      "sourceBindingSha256": "8b67d54deb35acbe45118f3ad4fb078490380ff4f8cc4db0480ad29c964b0de0",
+      "sourceTextSha256": "4235b1ec0ce0ae26f03b323dbf5cbba3e8bb4bc7ccc427b702b2fc3c86b22787",
+      "freshTranslation": "그리고 제시카에게 차원의 벽을 ㊥ 넘어서 힘을 다하고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00372/Sheet1/000009",
+      "sourceBindingSha256": "f4c8a396d0c82637fcbeb1bd722d07c1b711257ae096d1890812dfbd4b0f0146",
+      "sourceTextSha256": "b8d31708e49240e0a12c7d2134e39d3009cc9856cd02792171989ecdd4724567",
+      "freshTranslation": "머신과 함께 차원의 그쪽으로 사라진다. ㊥ 하지만 죽음의 시기에 궁극의 멜로디가 완성되고, 최종 결전에는 그의 영혼의 선율이 담긴 ㊥ 받은 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00372/Sheet1/000010",
+      "sourceBindingSha256": "306e25086b36ca293639a1382b47766c2421d82a67993e16fa337a67d2730a16",
+      "sourceTextSha256": "2ff90eeced5d924edb1d5eb6ed4fc744e9e577e43a4e6b5171640c3d90582a5e",
+      "freshTranslation": "- 실론을 탄 카이엔에 의해 새로운 형태인 아쿠아리온게빠㊥다가 탄생했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

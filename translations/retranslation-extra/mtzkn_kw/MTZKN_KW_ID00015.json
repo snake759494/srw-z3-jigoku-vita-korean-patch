@@ -1,0 +1,49 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00015",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00015/Sheet1/000002",
+      "sourceBindingSha256": "db411e88ad0a7c5ff67b3b03cb47de168fb3dab90ef7b1ce5779b2cbd91dbb33",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00015/Sheet1/000003",
+      "sourceBindingSha256": "4508ab07ff21f93eddd81cb901d526e6894f62960391f603b3615086da0c2056",
+      "sourceTextSha256": "1b5aa89535fbdd2c3eecf211fa09c2f74e12fdd2255ca747be8aaac5f27d50e9",
+      "freshTranslation": "병행 세계간을 오가는 기업 「DEM(DimensionExtra㊥Merchant) 코퍼레이션」의 약자. ㊥ 또는 그 DEM 코퍼레이션 개발의 기동 무기 시리즈 「DEM㊥(Dimension EnergyMachinery)」를 가리킨다. ㊥ DEM Corporation의 직원은 차원 상인을 자칭하고 다양한 병행 세계에서 상업 ㊥ 활동을 운영하는 것에 자부심을 가지고 있습니다. ㊥AG는, 거기의 에이전트 로봇이지만, 현재는 본사와 연락을 취할 수 없고, 고㊥립한 상태에 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00015/Sheet1/000004",
+      "sourceBindingSha256": "cd6fbb59b5e1aee6af0fc71122f90c9779bbdc512758247a8f275fb31416c07b",
+      "sourceTextSha256": "ac66164db8d281e49a2193cb0d7f82c95fb422a1d1d81b402d74ca267aa13699",
+      "freshTranslation": "병행 세계간을 오가는 기업 「DEM(DimensionExtra㊥Merchant) 코퍼레이션」의 약자. ㊥ 또는 그 DEM 코퍼레이션 개발의 기동 무기 시리즈 「DEM㊥(Dimension EnergyMachinery)」를 가리킨다. ㊥ DEM Corporation의 직원은 차원 상인을 자칭하고 다양한 병행 세계에서 상업 ㊥ 활동을 운영하는 것에 자부심을 가지고 있습니다. ㊥AG는, 거기의 에이전트 로봇이지만, 현재는 본사와 연락을 취할 수 없고, 고㊥립한 상태에 있다. 그러나, 때의 감옥이 파괴된 것으로 상황의 변화가 기대되고 ㊥ 하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

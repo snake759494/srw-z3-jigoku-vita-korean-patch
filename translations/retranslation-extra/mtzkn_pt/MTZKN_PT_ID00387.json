@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00387",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00387/Sheet1/000002",
+      "sourceBindingSha256": "b9f3d4e8506b15e493ebdb7c3db67a599d8bdaffdee0014d1083fd4bea0ed9b5",
+      "sourceTextSha256": "f8ce16eb6901102802bdb117557186e987502bfd3df8dd350637cc5cbc8f6e8f",
+      "freshTranslation": "이즈모 캄로기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00387/Sheet1/000003",
+      "sourceBindingSha256": "ca31082fd8cf7f969d2ceb5822acac8a7eadbdbe0dc3ff47af28529612ebb688",
+      "sourceTextSha256": "5ceddd1c7aadc8c84169ffca566db8f7fcf5c3174171e0852d79e574d98d7922",
+      "freshTranslation": "이즈모",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00387/Sheet1/000004",
+      "sourceBindingSha256": "5b1f61493fd5d65f10f7b6c6bb8482e0836724af626af8f9b3c42e8846298ea1",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00387/Sheet1/000005",
+      "sourceBindingSha256": "95c15e8bbde2295b945a5599da8bcaae2880e3b5e3e1432eb10b6a6eb740c210",
+      "sourceTextSha256": "6fe3d302eec020aa1263e83513e89461ab76ec17649c5a379990d6e3b0be005c",
+      "freshTranslation": "야스모토 요카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00387/Sheet1/000006",
+      "sourceBindingSha256": "071fcdd94fa77bd3a68ac50f05f606d10588de5c18892196ad19ae05561cba25",
+      "sourceTextSha256": "27726370177ace1a28e506daaabeabe37c0edb01c338f1b469ac14ec0b6c38f3",
+      "freshTranslation": "알테아의 최고 사령관. ㊥ 어머니인 오리자 캄로기가 개발한 아이언시를 사용하여 알테아를 발전시켜 ㊥ 온 영웅. 멸망 위기에 처한 모성을 부흥하기 위해 지휘를 하고 있다. ㊥내심에서는 그 의도를 읽을 수 없는 미카게에게 불신감을 가지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00387/Sheet1/000007",
+      "sourceBindingSha256": "c9db693d2f2d356566a249ce699e965042ecd90f300538e3752360426fbfd915",
+      "sourceTextSha256": "3a2485597d582e12614f648a381588da7ff5d068c9eadd3854051485ed2cdb86",
+      "freshTranslation": "알테아의 최고 사령관. ㊥ 어머니인 오리자 캄로기가 개발한 아이언시를 사용하여 알테아를 발전시켜 ㊥ 온 영웅. 멸망 위기에 처한 모성을 부흥하기 위해 지휘를 하고 있다. ㊥아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00387/Sheet1/000008",
+      "sourceBindingSha256": "3fdb87eb5e3df634af6a47f475ad679a24c7a3d2aa9e79f81c8e46a7727bea5a",
+      "sourceTextSha256": "79a704e0375053a4b659eebd3ebc679cb16717078b1eda3728136e750d2db588",
+      "freshTranslation": "열매의 아버지이자 스스로 레어 이글러 탐색을 위해 베가(=지구)를 ㊥ 방문했을 때 알리시아와 만나, 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00387/Sheet1/000009",
+      "sourceBindingSha256": "f5f23f1336e84f1f7b1cd07ac4131af4e93a4c3631dbbc0835a2271f0fa111ec",
+      "sourceTextSha256": "dd0b0ca9ba2df0482a5ecffb8853f510265d92357bb052307e2e11bd1524b72c",
+      "freshTranslation": "벌다. ㊥ 알리시아와 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00387/Sheet1/000010",
+      "sourceBindingSha256": "8ef0b51dc12370980613998bb80856751dbb8ad4cd34407a6d381cdbec640849",
+      "sourceTextSha256": "081538f4b640e468f00a2d8e04e96ee6b56ed6c4870146125f8e666fae50ba29",
+      "freshTranslation": "는 지구에 남길 생각이었지만, 미카게에게 그 존재를 곁들여 ㊥되어 알리시아를 알테아에 데려가게 된다. ㊥ 전장에서는 아르테아 최강의 기체 아프라 그니스에 탑승. 그 실력은 압도적이며 ㊥ 네오디바의 아쿠에리온을 궁지에 몰아넣고 신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00387/Sheet1/000011",
+      "sourceBindingSha256": "0ee655ce13bf78d775137bab0f72fa932eed41a02124b1ca0ce5a0a713729d8f",
+      "sourceTextSha256": "29af13bf8cd55a5e2fa5a18b7da84c70bdfc760673fc94f76450bd6c4a56262a",
+      "freshTranslation": "아쿠에리온을 탄 카그㊥라조차 압도하는 힘을 보였다. ㊥이지만, 미카게의 기획에 의해 알리시아를 공격받은 것에 동요해, 그 틈을 찔려 ㊥ 패배했다. ㊥ 죽음에 아들인 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00387/Sheet1/000012",
+      "sourceBindingSha256": "d979c15a48542f27e46238a93047890eccf778aa858b3bc967f204fdfe6dc59f",
+      "sourceTextSha256": "31e5a1775aaa0d8616cdfc3d7f2a10c1b24ade8ebb50e42b8555546208f7095c",
+      "freshTranslation": "그리고 화해. 알리시아의 영혼과 함께, 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00387/Sheet1/000013",
+      "sourceBindingSha256": "fc5223e57eb1d4ad9e7e3c1a30d1d395caa9d8ed015adc42949584604388facd",
+      "sourceTextSha256": "b9688c2da66928a5733f2124a3660c1c7781e9f4892e3529cd9301357377e307",
+      "freshTranslation": "에 희망을 맡겼다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

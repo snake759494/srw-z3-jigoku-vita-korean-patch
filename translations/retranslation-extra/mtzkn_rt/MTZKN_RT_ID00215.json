@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00215",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00215/Sheet1/000002",
+      "sourceBindingSha256": "08936b0a845c589bbb0fde3c8732c6edd56f189b096823b3ad37fe3f7031ef1f",
+      "sourceTextSha256": "04e0d2c766e3b46051c4f48019d26a285dd0b59cbf31cca297d47e2bd40b733a",
+      "freshTranslation": "에반게리온 신극장판 : 서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00215/Sheet1/000003",
+      "sourceBindingSha256": "2c0a470653e7616f37e4a04f1d79228883b89a96100ef42f512f2557ab222601",
+      "sourceTextSha256": "a9eee32d011cfc6ca86c82d057b47b05679fba9c95b80a31809af53e1e6415ff",
+      "freshTranslation": "다섯 번째 사도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00215/Sheet1/000004",
+      "sourceBindingSha256": "500185c975265c87d0d55cd6708c5039ab6ecd38f5320f4a87b0b592c31ed3d7",
+      "sourceTextSha256": "a9eee32d011cfc6ca86c82d057b47b05679fba9c95b80a31809af53e1e6415ff",
+      "freshTranslation": "다섯 번째 사도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00215/Sheet1/000005",
+      "sourceBindingSha256": "77389acbc4cb3c7da9afc674aecec460cd3a07f638c8f7bb199915326667a836",
+      "sourceTextSha256": "c02dcb8102fad754eca26ddbe06154a234997d33bad3324c473cf634d7915f3b",
+      "freshTranslation": "제3신도쿄시에 습격한 5번째 사도. ㊥ 주로 비행하고 행동. 좌우 두 개의 빛의 채찍으로 모든 것을 찢는다. ㊥ EVA 초호기에서 모바일",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00215/Sheet1/000006",
+      "sourceBindingSha256": "bc77fe6a97c2f6308d904fe6051ed2060f8fd3827dd7ae05d1864f6a3924812f",
+      "sourceTextSha256": "3c02eccf019ce28e15bb98eba099224bdd3c767a1adb5efb4e4b95cc70fd4a66",
+      "freshTranslation": "회전식 다포신 440mm 기관포의 맹공격을 받지만, 안 ㊥는 거의 없고, 반대로 초호기를 압도한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00215/Sheet1/000007",
+      "sourceBindingSha256": "73245c50918e9da68b04a457dc7ac3e88bc6bdd264b8b1c964a6b079837a7591",
+      "sourceTextSha256": "c02dcb8102fad754eca26ddbe06154a234997d33bad3324c473cf634d7915f3b",
+      "freshTranslation": "제3신도쿄시에 습격한 5번째 사도. ㊥ 주로 비행하고 행동. 좌우 두 개의 빛의 채찍으로 모든 것을 찢는다. ㊥ EVA 초호기에서 모바일",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00215/Sheet1/000008",
+      "sourceBindingSha256": "aa24a4098268aab4628340c38022a2fbb5d240e91ba5c809d62738f831f321f5",
+      "sourceTextSha256": "751a7424d971e44ff13a327f09e1bf3e3ede409cea83e785ca6cbad7332e25a6",
+      "freshTranslation": "회전식 다포신 440mm 기관포의 맹공격을 받지만, 안 ㊥는 거의 없고, 반대로 초호기를 압도한다. 마지막은 활동 한계가 다가오는 초호기의 반격 ㊥을 받아 코어에 프로그레시브 나이프를 찔려 쓰러진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

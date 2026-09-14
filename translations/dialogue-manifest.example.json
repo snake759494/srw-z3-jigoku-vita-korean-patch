@@ -1,0 +1,72 @@
+{
+  "documentType": "siok.dialogue-build-manifest",
+  "schemaVersion": 1,
+  "sourceCpk": {
+    "fileName": "SAMPLE.cpk",
+    "bytes": 100,
+    "sha256": "5555555555555555555555555555555555555555555555555555555555555555",
+    "members": [
+      {
+        "id": "ID00004",
+        "bytes": 20,
+        "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ]
+  },
+  "pack": {
+    "profile": "cpkmakec-id-align16-uc-v1",
+    "toolSha256": "4444444444444444444444444444444444444444444444444444444444444444",
+    "toolVersion": "example-only"
+  },
+  "scripts": [
+    {
+      "scriptId": "script-001",
+      "sourceMemberId": "ID00004",
+      "sourcePayloadBytes": 20,
+      "sourcePayloadSha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "parserProfile": "stage-script-cp932-v1",
+      "normalizationProfile": "legacy-dialogue-insert-v1",
+      "encoding": "cp932",
+      "workbook": {
+        "fileName": "SAMPLE.xlsx",
+        "sha256": "1111111111111111111111111111111111111111111111111111111111111111",
+        "sheetName": "대사",
+        "headerRow": 1,
+        "sourceHeader": "원문",
+        "replacementHeader": "한글폰트로",
+        "sourceColumn": 1,
+        "replacementColumn": 2,
+        "edgeFullwidthSpaceWarnings": 0
+      },
+      "rows": [
+        {
+          "ordinal": 1,
+          "sourceLineNumber": 2,
+          "tag": "S1",
+          "sourceRawLineSha256": "2222222222222222222222222222222222222222222222222222222222222222",
+          "lineEnding": "crlf",
+          "workbookRow": 2,
+          "sourceMatch": "exact",
+          "replacementText": "翻訳$n",
+          "control": {
+            "sourceTokens": [
+              "$n"
+            ],
+            "replacementTokens": [
+              "$n"
+            ],
+            "approval": null
+          }
+        }
+      ],
+      "expectedPayloadBytes": 20,
+      "expectedPayloadSha256": "3333333333333333333333333333333333333333333333333333333333333333"
+    }
+  ],
+  "outputs": [
+    {
+      "targetMemberId": "ID00004",
+      "scriptId": "script-001"
+    }
+  ]
+}

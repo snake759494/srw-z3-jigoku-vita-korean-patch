@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00171",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00171/Sheet1/000002",
+      "sourceBindingSha256": "1d430901e88e15d0c805ba9185048c6fb42196ac7e563ac2f17f964f58312762",
+      "sourceTextSha256": "c2c2e5756441c5c52c02341c5f7598cd240cfbd22261da490b01b6ba7f0caf88",
+      "freshTranslation": "사오토메 알토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00171/Sheet1/000003",
+      "sourceBindingSha256": "48b7103a531e4c1543661d60844c4080cbdfbdbc0093dfecd04cb3c0844b5c56",
+      "sourceTextSha256": "fa9340198eeaa266f350a59c09940fabea3390fb9800cf2afc7cba1324d1e800",
+      "freshTranslation": "알토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00171/Sheet1/000004",
+      "sourceBindingSha256": "a918331325a04b696029055faf687b26499d0f27fe63dde8837590f2061ba6bc",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00171/Sheet1/000005",
+      "sourceBindingSha256": "9bd554292470626fb2181df4c87a39da66d9573a5e0a87933ec3bddf6c999411",
+      "sourceTextSha256": "c1c1945c104b5f3bf9f2a076f6f2affb7d043abf00d53a2524dbf48df1fd5a6c",
+      "freshTranslation": "나카무라 유이치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00171/Sheet1/000006",
+      "sourceBindingSha256": "d93fc02c9f01dc2efa8d936c03e8767b665975b453135753157a974742282db5",
+      "sourceTextSha256": "1546c8950969ff81f8b23474304483b17e39bfa5063f84e0bb16c2b150996fe3",
+      "freshTranslation": "미성학원 고등부의 항주과 2학년. 17세. ㊥ 여성에게 잘못 될 정도로 아름답고 섬세한 외모의 소유자. 성격은 시원하고 비스듬히 세운 것처럼 ㊥로 보이지만, 미셸로부터 별명의 「알토 공주」라고 불리자마자 뜨거워지는 등, ㊥ 분노 같은 면도 있다. ㊥은하 가부키계의 명문·사오토메 가문의 장남으로서 태어나 엄격한 아버지에게 엄격한 지도를 받아㊥로 자란다. 재능에도 축복받아, 사오토메 일좌의 천재자 역으로서 어릴 적부터 가부키의 무대에 서 ㊥ 하고 있었다. 하지만 역을 맡고 있는 동안 자신을 잃어버려 가부키의 세계나 ㊥ 등 은퇴한다. 그리고, 일개의 학생으로서 파일럿을 목표로 하는 길을 선택한다. 꿈은 프론트㊥이아 선단처럼 천장이 있는 하늘이 아닌, 진짜 하늘에서 날아가는 것. ㊥ 프론티어 선단이 바쥬라의 습격을 받으면, 성행으로 VF-25에 타고 ㊥ 싸운다. 그 후, 민간 군사 제공자 S. M. S(StrategicMilit㊥aryServices)에 입대. 미셸들과 함께 바쥬라와의 싸움에 몸을 던져 ㊥ 가자.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00171/Sheet1/000007",
+      "sourceBindingSha256": "aead396a2587b83e9195614ef58111ba9800367c8093be2966ecc0d3ef7aae50",
+      "sourceTextSha256": "1546c8950969ff81f8b23474304483b17e39bfa5063f84e0bb16c2b150996fe3",
+      "freshTranslation": "미성학원 고등부의 항주과 2학년. 17세. ㊥ 여성에게 잘못 될 정도로 아름답고 섬세한 외모의 소유자. 성격은 시원하고 비스듬히 세운 것처럼 ㊥로 보이지만, 미셸로부터 별명의 「알토 공주」라고 불리자마자 뜨거워지는 등, ㊥ 분노 같은 면도 있다. ㊥은하 가부키계의 명문·사오토메 가문의 장남으로서 태어나 엄격한 아버지에게 엄격한 지도를 받아㊥로 자란다. 재능에도 축복받아, 사오토메 일좌의 천재자 역으로서 어릴 적부터 가부키의 무대에 서 ㊥ 하고 있었다. 하지만 역을 맡고 있는 동안 자신을 잃어버려 가부키의 세계나 ㊥ 등 은퇴한다. 그리고, 일개의 학생으로서 파일럿을 목표로 하는 길을 선택한다. 꿈은 프론트㊥이아 선단처럼 천장이 있는 하늘이 아닌, 진짜 하늘에서 날아가는 것. ㊥ 프론티어 선단이 바쥬라의 습격을 받으면, 성행으로 VF-25에 타고 ㊥ 싸운다. 그 후, 민간 군사 제공자 S. M. S(StrategicMilit㊥aryServices)에 입대. 미셸들과 함께 바쥬라와의 싸움에 몸을 던져 ㊥ 가자.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

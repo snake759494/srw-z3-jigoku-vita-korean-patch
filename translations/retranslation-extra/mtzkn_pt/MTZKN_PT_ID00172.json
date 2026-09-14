@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00172",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00172/Sheet1/000002",
+      "sourceBindingSha256": "dae51dbb5ce5e47867033568f2c546e04349cac7ad05c203543075461bc93efe",
+      "sourceTextSha256": "a244a056ccdaed31e36c0bf7311e503532c10f2734c6a8a411dd00620b6a01b6",
+      "freshTranslation": "마이클 블랑",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00172/Sheet1/000003",
+      "sourceBindingSha256": "185f2fea4a60f48b0f760ca17616d1b3d9ca2a0958762209288c1f57e6fe5951",
+      "sourceTextSha256": "de0d4f06ac62a1b7a0bfaa692fd156f13f0a107e3eb775853dbe4e52351df319",
+      "freshTranslation": "미셸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00172/Sheet1/000004",
+      "sourceBindingSha256": "5f1a81f4d9315b7e9258e08fe813761950780f0bf628ffc9069540f1788aa828",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00172/Sheet1/000005",
+      "sourceBindingSha256": "4500fe4f2e746b7093eb7e3d3bc6199935ad09154dc0cb3ca450fe9f001e9d8b",
+      "sourceTextSha256": "fe7eb3e14f84b1aa02caf9ff990905dd2a32f241441657b7ed56ca5b8c3e4f10",
+      "freshTranslation": "카미야 히로시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00172/Sheet1/000006",
+      "sourceBindingSha256": "f5c64fd3d5fdc9f1f2a953ea6bbb8c583ad1df4dc2a0270aa00ff60749f33504",
+      "sourceTextSha256": "b24617ca4d04c9d3b0d33a87f6ee72a4c080eb9004f16641d3c8f171c782a78a",
+      "freshTranslation": "S. M. S스컬 소대의 파일럿. 계급은 소위. 17세. ㊥ 평소는 미성학원 항주과 2년의 학생이다. 알토의 동급생으로, 그가 은하 가부키의 여자㊥형태였던 과거를 알고 있어, 「알토 공주」라고 불러 놀린다. 기본적으로는 귀찮은 ㊥ 성격이지만 사실을 직접 입으로 만드는 냉철한 일면도 있다. ㊥S. M. S에서는 VF-25G에 탑승. 졸라인의 피를 당기고 있어 그 상인 떨어져 있는 ㊥ 시력에 의한 발군의 사격 능력으로 스나이핑을 담당한다. 덧붙여 그 시력의 장점은 일㊥상생활에 지장을 초래할 정도로, 평상시는 시력을 낮추기 위해 보정용의 안경을 걸고 있다. ㊥ 소꿉친구에서 같은 S. M. S대원의 클랜과는 서로 마음을 맞대는 사이이지만 서로 ㊥에 좀처럼 솔직해질 수 없다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00172/Sheet1/000007",
+      "sourceBindingSha256": "91dfa5d923011d57d0e6c7a23d2277dd970858f9f231bb26c748370ed5695cf1",
+      "sourceTextSha256": "87f36cf78370920c9c657a4e9bdd18d217112e70c4be85654a5a1ad171658274",
+      "freshTranslation": "S. M. S스컬 소대의 파일럿. 계급은 소위. 17세. ㊥ 평소는 미성학원 항주과 2년의 학생이다. 알토의 동급생으로, 그가 은하 가부키의 여자㊥형태였던 과거를 알고 있어, 「알토 공주」라고 불러 놀린다. 기본적으로는 귀찮은 ㊥ 성격이지만 사실을 직접 입으로 만드는 냉철한 일면도 있다. ㊥S. M. S에서는 VF-25G에 탑승. 발군의 사격 능력을 살려 스나이퍼로서 ㊥ 싸운다. 그것은 그가 졸라인의 피를 당기고, 상인 떨어져 있는 시력을 가지고 있기 때문에 ㊥한다. 하지만 그 시력의 장점은 일상생활에 지장을 초래할 정도로 평소에는 시력을 낮춘 ㊥째에 보정용 안경을 걸고 있다. ㊥ 소꿉친구에서 같은 S. M. S대원의 클랜과는 서로 마음을 맞대는 사이이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

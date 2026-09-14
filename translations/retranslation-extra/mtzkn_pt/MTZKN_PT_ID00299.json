@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00299",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00299/Sheet1/000002",
+      "sourceBindingSha256": "592014acaee7771a7579f3cb8d0c4f2c61a1c08d470ec65e0fafd075cf15821b",
+      "sourceTextSha256": "fbd70e01766a088ef186ce1102ec1e2156004d3f9a0e91b6fbe46f84ed88d107",
+      "freshTranslation": "조니 버넷",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00299/Sheet1/000003",
+      "sourceBindingSha256": "be5339759f7c54ca896bb40251808c86c8ef684b26e74bba5db580788d845981",
+      "sourceTextSha256": "c33abe57228442e47cdfb7a97806f5ac17a7f9558462aa4a1e790a5d0b5afa82",
+      "freshTranslation": "조니",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00299/Sheet1/000004",
+      "sourceBindingSha256": "3c2d9c9c9efa05108cc6cf0b717dd307fc1f1b6c5f5e3fa420eefb961d815f42",
+      "sourceTextSha256": "1e56b9ff86dcef266f12989d9d9c1a049376962d8d547fa14759ae90a788c964",
+      "freshTranslation": "수장기공 단쿠가노바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00299/Sheet1/000005",
+      "sourceBindingSha256": "d7e82bceb1a1a568dc37d8bd8a7de86e056bd25e3d24182e222fcc1035e287c6",
+      "sourceTextSha256": "d5c1fc4ba7aa4241ec1a70cf9dbb22023822b9f6ac3ceaad12db5301c53b2598",
+      "freshTranslation": "태 용기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00299/Sheet1/000006",
+      "sourceBindingSha256": "e4ea84828796bc78756a6a803890ac4195f66891678a8cdadf819ed4b69cfde3",
+      "sourceTextSha256": "561abd1945cf708e8178b9b7b6ce6ff5c9f65d75be14d7a25b1d1dbfb7d7af1a",
+      "freshTranslation": "팀 D의 일원으로 노바 엘리펀트의 파일럿. ㊥결정 대사는 \"해보자!\". ㊥ 차기 사장 후보 필두로까지 눈에 띄는 우수한 영업 샐러리맨으로, 드래곤즈 하이브에 ㊥ 전송되었을 때도 회의로 향하는 도중이었다. ㊥ '남자 요리' '남자 전함' '남자 한 낚시' '남자 항공기' 등 '남자~'부터 시작 ㊥ 마루 잡지를 월 30권 구독하고 있다. 이것은 자신이 정말로 하고 싶은 일을 찾기 위해서이며, ㊥ 직장인 가업도 발판에 지나지 않는다. 싸움에 몸을 던진 것도 같은 이유에서, 계약㊥을 맺었을 때는 「시도 기간」이라고 칭하고 있었다. 또한 일, 요리, 전투와 무엇이든 흥미 ㊥을 보여줄 뿐만 아니라, 그들을 어울리지 않고 해내는 민첩성도 가지고 있다. 단쿠가노바㊥합신시에도 과부족 없이 출력제어를 담당한다. ㊥ 구독 잡지의 표지를 장식하고 있던 에이더의 일은 다소 신경 쓰이고 있었지만, 이㊥골 콘체른의 파티 회장에서 만난 것을 계기로 서로 매료되어㊥해 간다. 이윽고 에이다가 적대하고 있던 R-다이건의 파일럿인 것을 아는㊥과, 놀라면서도 「어제의 적은 오늘의 친구」로서 손을 맞대는 길을 선택했다. ㊥ 문 윌을 쓰러뜨리고 평화를 되찾은 후 에이다와 거리에서 쇼핑을 즐기는 모습이 ㊥ 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00299/Sheet1/000007",
+      "sourceBindingSha256": "60f6a337479703163b0d08d37ce598c837de8e719ef9b930632ac8676e065a22",
+      "sourceTextSha256": "561abd1945cf708e8178b9b7b6ce6ff5c9f65d75be14d7a25b1d1dbfb7d7af1a",
+      "freshTranslation": "팀 D의 일원으로 노바 엘리펀트의 파일럿. ㊥결정 대사는 \"해보자!\". ㊥ 차기 사장 후보 필두로까지 눈에 띄는 우수한 영업 샐러리맨으로, 드래곤즈 하이브에 ㊥ 전송되었을 때도 회의로 향하는 도중이었다. ㊥ '남자 요리' '남자 전함' '남자 한 낚시' '남자 항공기' 등 '남자~'부터 시작 ㊥ 마루 잡지를 월 30권 구독하고 있다. 이것은 자신이 정말로 하고 싶은 일을 찾기 위해서이며, ㊥ 직장인 가업도 발판에 지나지 않는다. 싸움에 몸을 던진 것도 같은 이유에서, 계약㊥을 맺었을 때는 「시도 기간」이라고 칭하고 있었다. 또한 일, 요리, 전투와 무엇이든 흥미 ㊥을 보여줄 뿐만 아니라, 그들을 어울리지 않고 해내는 민첩성도 가지고 있다. 단쿠가노바㊥합신시에도 과부족 없이 출력제어를 담당한다. ㊥ 구독 잡지의 표지를 장식하고 있던 에이더의 일은 다소 신경 쓰이고 있었지만, 이㊥골 콘체른의 파티 회장에서 만난 것을 계기로 서로 매료되어㊥해 간다. 이윽고 에이다가 적대하고 있던 R-다이건의 파일럿인 것을 아는㊥과, 놀라면서도 「어제의 적은 오늘의 친구」로서 손을 맞대는 길을 선택했다. ㊥ 문 윌을 쓰러뜨리고 평화를 되찾은 후 에이다와 거리에서 쇼핑을 즐기는 모습이 ㊥ 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

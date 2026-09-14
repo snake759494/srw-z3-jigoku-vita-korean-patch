@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00091",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00091/Sheet1/000002",
+      "sourceBindingSha256": "4b2cdc76597add3651b869e74b156e3f75c0d74300e25531473bfd9c9f66fc2f",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00091/Sheet1/000003",
+      "sourceBindingSha256": "e11b50d25e5e17a7fcb88a8a234b0e4bbcb172e2492e891467ce2227d548b6f4",
+      "sourceTextSha256": "4b11e5255540e596af8d86d747f4920477c3c07606efd6af1227fdf98f13d08f",
+      "freshTranslation": "길라 줄",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00091/Sheet1/000004",
+      "sourceBindingSha256": "76b0fabe57c740168b3449e0e2e60b523c26f8e31d2a1b41cbbb43213c4eee85",
+      "sourceTextSha256": "4b11e5255540e596af8d86d747f4920477c3c07606efd6af1227fdf98f13d08f",
+      "freshTranslation": "길라 줄",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00091/Sheet1/000005",
+      "sourceBindingSha256": "cf4a382a76de503a3180e06569135842776726932917c8d122ee633bd948013b",
+      "sourceTextSha256": "25f883a493ef27cd5e9be7bdae70e2b4f187854fcc35d4a460c9779aeb2bc42d",
+      "freshTranslation": "안젤로 자우퍼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00091/Sheet1/000006",
+      "sourceBindingSha256": "7bba49449d6738b4a14fe479cc6efa47f392210cca007c6c588d1e4ba04a50d4",
+      "sourceTextSha256": "7c49a1addc8844075c499825132a645f3901e9c90d3158bf26861e3f66303d0b",
+      "freshTranslation": "안젤로 자우퍼가 탑승하는 기라 줄. ㊥ 퍼스널 컬러의 퍼플에 도장되어 있다. ㊥ 다른 친위대 탑승기와 마찬가지로 출력의 향상이 도모되고 있어 양 어깨가 스파이크로 변경되어 ㊥ 각부에 베풀어진 장식이 보다 세세한 것이 되고 있다. ㊥작전에 의해 무장을 변경하고, 장사정 빔 무기의 랑게·브루노포·개나, 비㊥무 샷 라이플을 사용한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00091/Sheet1/000007",
+      "sourceBindingSha256": "1a1d1b19c51a25d33e949c959ede6f93c85ff0cb5c0b3569bbce533410c10e11",
+      "sourceTextSha256": "7c49a1addc8844075c499825132a645f3901e9c90d3158bf26861e3f66303d0b",
+      "freshTranslation": "안젤로 자우퍼가 탑승하는 기라 줄. ㊥ 퍼스널 컬러의 퍼플에 도장되어 있다. ㊥ 다른 친위대 탑승기와 마찬가지로 출력의 향상이 도모되고 있어 양 어깨가 스파이크로 변경되어 ㊥ 각부에 베풀어진 장식이 보다 세세한 것이 되고 있다. ㊥작전에 의해 무장을 변경하고, 장사정 빔 무기의 랑게·브루노포·개나, 비㊥무 샷 라이플을 사용한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

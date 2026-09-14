@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00069",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00069/Sheet1/000002",
+      "sourceBindingSha256": "51999b4e4e95ce0fe83bd95dc97d84699863f2d491a4cf43891c090a921d85cc",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00069/Sheet1/000003",
+      "sourceBindingSha256": "959b59335ebe6213d84ad4bc17cdfefb3116c691cb2ecf3b9e4dc46eec029aee",
+      "sourceTextSha256": "fb37ee7b44f3409942bd31e135b708f194b8d4ad9db12c68ef2dfd1aafdc6f7a",
+      "freshTranslation": "더블 오쿠안",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00069/Sheet1/000004",
+      "sourceBindingSha256": "a13958938fe0ff0308167dae6603b643fc7685450ca25fdf2e9394ef580e6eec",
+      "sourceTextSha256": "fb37ee7b44f3409942bd31e135b708f194b8d4ad9db12c68ef2dfd1aafdc6f7a",
+      "freshTranslation": "더블 오쿠안",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00069/Sheet1/000005",
+      "sourceBindingSha256": "c0c3873350a0ecd37ce7ab99b0466766526dff2f8be658138616448490099bf1",
+      "sourceTextSha256": "9d9ae172fdc3acb985e0859af43788b807b9a44eda6e92500860ae00333e84b9",
+      "freshTranslation": "세츠나・F・세이에이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00069/Sheet1/000006",
+      "sourceBindingSha256": "63e14bab6f326aecb30ea55036252c257f1e99f9f29ff2d1f709f5a4fd76f78e",
+      "sourceTextSha256": "e8e51bd85fb1eb896cee93610421b5accf8a2d1ef504d431c35548741e28f656",
+      "freshTranslation": "더블 오라이저의 후계 기종으로 개발된 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00069/Sheet1/000007",
+      "sourceBindingSha256": "f62618b8ef282f25c84b4a732a2b784c0910e3b388040f1f06b4ea5219baeee5",
+      "sourceTextSha256": "893861e019c57428e5c7f11f77312925f62399c15b3795cbd9c4a0cbdc06e0ad",
+      "freshTranslation": "루비잉의 제5세㊥대 건담. ㊥찰나·F·세이에이가 탑승한다. ㊥ 이노베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00069/Sheet1/000008",
+      "sourceBindingSha256": "686a5fb663a463150748b96e6b2bbbaac05ec4063551d15f765c41b83c92153c",
+      "sourceTextSha256": "eb55fe4d5828f5108d9815ef44deb3f185f3e6b2bfc8a536998ea37e7f51381a",
+      "freshTranslation": "-로 각성한 세츠나의 능력을 최대한으로 살리는 것을 컨셉으로 개㊥ 발된 기체. ㊥ 기본 프레임은 이미 완성의 영역에 이르고 있던 더블 오건담을 축으로 해 ㊥ 등도 전자 계통 등의 내부 부품을 쇄신. ㊥ 또한 더블 오건담처럼 트윈드 라이브를 채용하고 있지만, 본 기기에 탑재되어 ㊥ 된 GN 드라이브는 트윈드 라이브를 전제로 신조 된 것이기 때문에, 오라이저 ㊥없이 완전한 동조를 이루고있다. ㊥ 특징적인 무장으로 GN 소드 비트를 장비. 6장의 소드 비트는 각각이 독㊥ 서서 공격 가능할 뿐만 아니라, GN 필드 발생시켜, 실드로서도 사용 가능. ㊥ GN 소드 V와 연동하여 GN 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00069/Sheet1/000009",
+      "sourceBindingSha256": "e29874b74d7bd6de9e7201b57030d53cd859b24091b2b692caf04052304ccf82",
+      "sourceTextSha256": "67ec6c41f6d2653d53c98dbdc0ed358f0f893da2541a9e7ca45184cf4084f1ce",
+      "freshTranslation": "- 소총, GN 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00069/Sheet1/000010",
+      "sourceBindingSha256": "dfa42335813a0856a409a91d3913c65198e5e0626a071c258ae6522b6429fd2e",
+      "sourceTextSha256": "e9f5e545fff1ee904b82fc56d0f49d3e51a27b7714c4f091e5fc325d5b7efe57",
+      "freshTranslation": "- 소㊥도 같은 강력한 장비도된다. ㊥ 본기는 스펙상, 더블 오라이저를 웃도는 전투력을 가지는 기체로서 완성한 ㊥가, 그 최대의 목적은 전투와는 별개이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00069/Sheet1/000011",
+      "sourceBindingSha256": "d4ec59960e2547c5414206d5788da35b35d6f09d08f02e4b71f7dbee20f189e2",
+      "sourceTextSha256": "e8e51bd85fb1eb896cee93610421b5accf8a2d1ef504d431c35548741e28f656",
+      "freshTranslation": "더블 오라이저의 후계 기종으로 개발된 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00069/Sheet1/000012",
+      "sourceBindingSha256": "6a7dc4dfd00d38ea36ea6ebefd247bc1786d033a1297b44e2837512c24d9079a",
+      "sourceTextSha256": "893861e019c57428e5c7f11f77312925f62399c15b3795cbd9c4a0cbdc06e0ad",
+      "freshTranslation": "루비잉의 제5세㊥대 건담. ㊥찰나·F·세이에이가 탑승한다. ㊥ 이노베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00069/Sheet1/000013",
+      "sourceBindingSha256": "c9e4dc9d7645d9971cff12868f8b0ac853ec83af2e3adce9fbed7f779ffc1d28",
+      "sourceTextSha256": "eb55fe4d5828f5108d9815ef44deb3f185f3e6b2bfc8a536998ea37e7f51381a",
+      "freshTranslation": "-로 각성한 세츠나의 능력을 최대한으로 살리는 것을 컨셉으로 개㊥ 발된 기체. ㊥ 기본 프레임은 이미 완성의 영역에 이르고 있던 더블 오건담을 축으로 해 ㊥ 등도 전자 계통 등의 내부 부품을 쇄신. ㊥ 또한 더블 오건담처럼 트윈드 라이브를 채용하고 있지만, 본 기기에 탑재되어 ㊥ 된 GN 드라이브는 트윈드 라이브를 전제로 신조 된 것이기 때문에, 오라이저 ㊥없이 완전한 동조를 이루고있다. ㊥ 특징적인 무장으로 GN 소드 비트를 장비. 6장의 소드 비트는 각각이 독㊥ 서서 공격 가능할 뿐만 아니라, GN 필드 발생시켜, 실드로서도 사용 가능. ㊥ GN 소드 V와 연동하여 GN 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00069/Sheet1/000014",
+      "sourceBindingSha256": "ae2f46744a238fc7f604bee309f32e59bad6881c2ded4f45464cc4878495e071",
+      "sourceTextSha256": "67ec6c41f6d2653d53c98dbdc0ed358f0f893da2541a9e7ca45184cf4084f1ce",
+      "freshTranslation": "- 소총, GN 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00069/Sheet1/000015",
+      "sourceBindingSha256": "458c11828957f149921fa1daf2b02d095c24f2a8a7581c15c034eb646533e407",
+      "sourceTextSha256": "e9f5e545fff1ee904b82fc56d0f49d3e51a27b7714c4f091e5fc325d5b7efe57",
+      "freshTranslation": "- 소㊥도 같은 강력한 장비도된다. ㊥ 본기는 스펙상, 더블 오라이저를 웃도는 전투력을 가지는 기체로서 완성한 ㊥가, 그 최대의 목적은 전투와는 별개이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

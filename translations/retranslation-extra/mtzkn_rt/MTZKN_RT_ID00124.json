@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00124",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00124/Sheet1/000002",
+      "sourceBindingSha256": "9ce869dca9b73b13ac28f73afc282dc84b5a5fe56af3a29ca6ffaa03e565141d",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00124/Sheet1/000003",
+      "sourceBindingSha256": "34800739b2b05939e2207aaf701ac399019eb992ebfe114bb5fe30391d37aa97",
+      "sourceTextSha256": "2217827a1f901bad04d1612f59eb000574ead2d2616688c306b3a271cf239c90",
+      "freshTranslation": "VF-25S 메사이아 B·TP",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00124/Sheet1/000004",
+      "sourceBindingSha256": "1f046227f436310355878641044facb4c2dc891ddb61006a38a4385a4c6376a3",
+      "sourceTextSha256": "952eaac297a6758a1103139d4800eafd6756befd594eab81e991960297c087c5",
+      "freshTranslation": "VF-25S 메사이아 배트로이드 모드·토네이도 팩 장비(대기권 외 사양)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00124/Sheet1/000005",
+      "sourceBindingSha256": "3333a6e54df965dbe7d72f38ec028a12326adad473212784a824ff9c34c6dadc",
+      "sourceTextSha256": "5c6c3ba8fd3c18524d1ed4e7f3a6b7751bbcb94c763b59aa386ad8f95e46af0f",
+      "freshTranslation": "오즈마 리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00124/Sheet1/000006",
+      "sourceBindingSha256": "d1ba05972b77e3c9de5f4b69e54f4c327ddcccbe47326fdfb3be7ee11f535331",
+      "sourceTextSha256": "0c3f11fb7a54267132e172c8dc4ba75d25607ce2314827252ef35dd7e99c16fd",
+      "freshTranslation": "VF-25 메사이어 시리즈의 지휘관용기. 그 배트로이드 모드에 토네이도㊥팩을 장비한 대기권외 사양. ㊥S. M. S에서는 대장 오즈마가 본 기기에 탑승하고 있다. ㊥ 다른 모델과 비교하여 출력과 화력 등 각 성능의 향상을 도모하고 있으며, 지휘관용으로 ㊥로 통신 지휘 기능의 강화나 작전 지휘 보좌용 프로그램의 도입 등도 실시되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00124/Sheet1/000007",
+      "sourceBindingSha256": "6c28ec1485a8be5653c47a23a5c8e3293bd4c4269a2e8d821290b62a45af5e67",
+      "sourceTextSha256": "0c3f11fb7a54267132e172c8dc4ba75d25607ce2314827252ef35dd7e99c16fd",
+      "freshTranslation": "VF-25 메사이어 시리즈의 지휘관용기. 그 배트로이드 모드에 토네이도㊥팩을 장비한 대기권외 사양. ㊥S. M. S에서는 대장 오즈마가 본 기기에 탑승하고 있다. ㊥ 다른 모델과 비교하여 출력과 화력 등 각 성능의 향상을 도모하고 있으며, 지휘관용으로 ㊥로 통신 지휘 기능의 강화나 작전 지휘 보좌용 프로그램의 도입 등도 실시되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

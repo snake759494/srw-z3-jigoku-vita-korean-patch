@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00200",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00200/Sheet1/000002",
+      "sourceBindingSha256": "aeca0cb1991be40a900eead9f9ab33f5858d3fcf543de780ee87283999836c6c",
+      "sourceTextSha256": "7ffaf6f2bb3330fb17d1d3e2c5b68d586a02732382da5caba9e32ddd0a69a9e1",
+      "freshTranslation": "兜シロ",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00200/Sheet1/000003",
+      "sourceBindingSha256": "1d5bdb416e7b728fb23a10a999e2f22064365a65093ff01c4dac1beb9a7f5e27",
+      "sourceTextSha256": "7fc8ba60a0f88f009499842f01304d6f80f73505088bd3604be0bc136e288605",
+      "freshTranslation": "시로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00200/Sheet1/000004",
+      "sourceBindingSha256": "c3cc045d7a4e8f1bbd3449379a8e8ddcc044f6bb72f6d48f827b065e7b22c9bb",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00200/Sheet1/000005",
+      "sourceBindingSha256": "4714d6e4840c1f3ccd82f1170d0428bc2930cde6ee4cbf36aeaf8ba67735263b",
+      "sourceTextSha256": "6412e3c314ba0b271e7932fe2c0b373704cf71b9562e784f84fcf35be8842d45",
+      "freshTranslation": "후지무라 걸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00200/Sheet1/000006",
+      "sourceBindingSha256": "a1317fcd1a72d16a727eb2a7935b6cb79476944983d607035b68bfdffc39b4c2",
+      "sourceTextSha256": "851fb02636d7e292e68f9ef411e501a37ec1a48eb6c5db3b4bb4952e46babdd4",
+      "freshTranslation": "갑아의 동생. ㊥ 물건을 깊이 생각하지 않는 것을 모토로 하는 건강하고 밝은 초등학생. ㊥ 할아버지·토조의 일은 당황하면서도, 아이 특유의 입의 나쁨으로 얼굴이 모르는 등의 경구㊥를 두드리는 일이 많아, 그때마다 갑아에게 갇혀 있었다. ㊥ 수수께끼의 소녀 로렐라이와의 만남에 따라 투가 일족의 비밀을 접하게 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00200/Sheet1/000007",
+      "sourceBindingSha256": "c8f1e5c48a9fc304b5e3a826307d1d171c1e1b413a2ad0a07a21347297ac14ff",
+      "sourceTextSha256": "afeae2a70b189df31554e7179e0954f26d7d7abb2f2883412b55bba998454a34",
+      "freshTranslation": "갑아의 동생. ㊥ 물건을 깊이 생각하지 않는 것을 모토로 하는 건강하고 밝은 초등학생. ㊥ 할아버지·토조의 일은 당황하면서도, 아이 특유의 입의 나쁨으로 얼굴이 모르는 등의 경구㊥를 두드리는 일이 많아, 그때마다 갑아에게 갇혀 있었다. ㊥ 수수께끼의 소녀 로렐라이와의 만남에 따라 투가 일족의 비밀을 접하고, 한때는 갑아와 함께 ㊥ 어머니인 츠바사를 부정하고 있었다. 그러나 피그만의 저주로 츠바사가 쇠약했을 때 ㊥에는 갑아의 지시로 그 보디 가드를 맡아 최종적으로는 화해할 수 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

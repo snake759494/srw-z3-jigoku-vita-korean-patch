@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00170",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00170/Sheet1/000002",
+      "sourceBindingSha256": "5a549b33e8c3329aa6d5d3c0c56c0a4ba078c3cf6fc993f35e328647c035a74f",
+      "sourceTextSha256": "fe82c905a6215168a90a9b27d7eb05a7c47166cb9ec609a131f0bd7583092bde",
+      "freshTranslation": "THE 빅오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00170/Sheet1/000003",
+      "sourceBindingSha256": "678810f1c15486b149b33318539c6560b64c5b4cf53c8ecc685f0dae4550367a",
+      "sourceTextSha256": "30cec751fb5b961b1b15223a79b698ace0fc5eabd1bfa76bc07bcf5e271b70eb",
+      "freshTranslation": "벡 빅토리 디럭스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00170/Sheet1/000004",
+      "sourceBindingSha256": "bd2586a515fc61be795fc11cab913371efc832fa97be8d491d7101d8b28fcefe",
+      "sourceTextSha256": "30cec751fb5b961b1b15223a79b698ace0fc5eabd1bfa76bc07bcf5e271b70eb",
+      "freshTranslation": "벡 빅토리 디럭스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00170/Sheet1/000005",
+      "sourceBindingSha256": "c239bbb7c7a3d27404996f3cd6e9eeff8d8b2ba496c8fd94494bc90e89d2183a",
+      "sourceTextSha256": "a903985f9a15394f74944dd6d54d0cd14c60de7ee8501b72e1f66fb9107a73d0",
+      "freshTranslation": "벡",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00170/Sheet1/000006",
+      "sourceBindingSha256": "de71c4ce3b5601a4892a63d6cc7b558485047bb81564f96069cd62f6e008b42e",
+      "sourceTextSha256": "fd7c2e83e58abc000ef041d5ca862b62063efc70242ac22125c7489e518270e7",
+      "freshTranslation": "Act09 「BeckComesBack」에 등장한 메가데우스. 별명 「스㊥-퍼베크」. ㊥T 본과 다브가 베크를 감옥에서 탈옥시킬 때 사용했다. ㊥ 와이즈 컴퍼니에서 빼앗은 헤비메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00170/Sheet1/000007",
+      "sourceBindingSha256": "82bd435375188faab831fff2bc5be6b9b3c884831eae4fa1b9142e1d13e7a5da",
+      "sourceTextSha256": "afc5c728b3a8469b6273fbb746fd465fd1b3a42a344b84bcc5ae87a3db6441e0",
+      "freshTranslation": "르 유닛의 부품을 사용하여 제조 ㊥있다. ㊥ 무기로 양 가슴에 수납된 미사일과 손끝에서 발하는 빔이 있다. 빔은 모㊥ 비딕 앵커의 사슬을 끊는 위력을 가지고 있지만, 빅오의 머리 크리스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00170/Sheet1/000008",
+      "sourceBindingSha256": "7652ae79c45b916d19d4a83f3dc65e13a5516563c8e654f7a53f011630de8fcd",
+      "sourceTextSha256": "5bf902171d417960ada7bf51e1438a25b4348dc7886e78b9a2b72a430a6f1c60",
+      "freshTranslation": "르에게 생명㊥안했을 때는 튕겨져 버렸다. ㊥ 도망 다리가 빠르고 상반신이 180도 회전하는 것이 특징으로, 그 기능을 사용해 빅오에 ㊥ 의심을 건 장면도 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00170/Sheet1/000009",
+      "sourceBindingSha256": "969e7dac669907f04c0168612cb4d68a334d038eb341956fb0853840e13e5c28",
+      "sourceTextSha256": "fd7c2e83e58abc000ef041d5ca862b62063efc70242ac22125c7489e518270e7",
+      "freshTranslation": "Act09 「BeckComesBack」에 등장한 메가데우스. 별명 「스㊥-퍼베크」. ㊥T 본과 다브가 베크를 감옥에서 탈옥시킬 때 사용했다. ㊥ 와이즈 컴퍼니에서 빼앗은 헤비메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00170/Sheet1/000010",
+      "sourceBindingSha256": "3d327648318869a8f3c960358b18e3ac02c58b1f1f8576dff8af1834a3387c61",
+      "sourceTextSha256": "afc5c728b3a8469b6273fbb746fd465fd1b3a42a344b84bcc5ae87a3db6441e0",
+      "freshTranslation": "르 유닛의 부품을 사용하여 제조 ㊥있다. ㊥ 무기로 양 가슴에 수납된 미사일과 손끝에서 발하는 빔이 있다. 빔은 모㊥ 비딕 앵커의 사슬을 끊는 위력을 가지고 있지만, 빅오의 머리 크리스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00170/Sheet1/000011",
+      "sourceBindingSha256": "b376a2694ee0e54acb770618e084bb469b6a42154c5dd2c566dcaf8a16eecf04",
+      "sourceTextSha256": "5bf902171d417960ada7bf51e1438a25b4348dc7886e78b9a2b72a430a6f1c60",
+      "freshTranslation": "르에게 생명㊥안했을 때는 튕겨져 버렸다. ㊥ 도망 다리가 빠르고 상반신이 180도 회전하는 것이 특징으로, 그 기능을 사용해 빅오에 ㊥ 의심을 건 장면도 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

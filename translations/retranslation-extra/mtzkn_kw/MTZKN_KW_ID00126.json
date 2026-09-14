@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00126",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00126/Sheet1/000002",
+      "sourceBindingSha256": "4960180f7858b69dae2e910cebfb2f7935d754e817599ef0831491fce5879115",
+      "sourceTextSha256": "e1f7325e90c7171b330a8f51d1f3bde03571c2c13061a86873ceeca7dfbda222",
+      "freshTranslation": "기어스 능단",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00126/Sheet1/000003",
+      "sourceBindingSha256": "e46857fd6b9aa85da738a484913854aec89aaaa01dea3736b719dd3b5c92ccd1",
+      "sourceTextSha256": "05bab81238428e66e9b20af6d4a8576f3c3ccd044a774f0672f9e18b0d828c8a",
+      "freshTranslation": "「코드 기어스 반역의 루루슈 R2」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00126/Sheet1/000004",
+      "sourceBindingSha256": "da29d2f3c095827d4ddb9020ca63a7d8c99b47ad064ff39f0f26225ede5148fe",
+      "sourceTextSha256": "12161f47d772794bde7e9730f4f41ec987ef536a7157c3ef4bf7dce3e257b981",
+      "freshTranslation": "샤를 지 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00126/Sheet1/000005",
+      "sourceBindingSha256": "09e3f37860ca87881274ff2c6f0e05e7d6625fd3372bd9852603b66100842b4d",
+      "sourceTextSha256": "0b636355a6c9cc6c9c51abf50ae96681e4e27620c31420137c36c8d756b06368",
+      "freshTranslation": "니어가 설립한 기어스의 연구를 실시하는 조직. ㊥ 루루슈의 거짓 남동생 로로도 여기에서 파견된 사람이며, 제레미아 ㊥ 고트발트의 기어스캔셀러도 여기에서 개발되었다. ㊥ 한때 C.I. C. 하지만 숙주였지만, 그녀가 능단을 떠난 후, 마찬가지로 ㊥코드를 소지하고 있는 샤를의 친형형 V. V. 가 그 자리에 붙었다. ㊥ 기어스의 존재에 의해 친구 셜리 페넷을 잃은 것에 화난 루루㊥슈에 의해 파괴된다. ㊥ 덧붙여 능단 본부 안쪽에는 황혼 사이로 나아가는 문이 존재하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00126/Sheet1/000006",
+      "sourceBindingSha256": "b820b20e73a4bcf79b81e5d10cca39b284243f0dacf5f49485eddbbe87bd064e",
+      "sourceTextSha256": "12161f47d772794bde7e9730f4f41ec987ef536a7157c3ef4bf7dce3e257b981",
+      "freshTranslation": "샤를 지 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00126/Sheet1/000007",
+      "sourceBindingSha256": "2f0d6a9034dcc08ab087166ab39e4eeeb483f041a4ea0cb47c813552f34d2db7",
+      "sourceTextSha256": "0b636355a6c9cc6c9c51abf50ae96681e4e27620c31420137c36c8d756b06368",
+      "freshTranslation": "니어가 설립한 기어스의 연구를 실시하는 조직. ㊥ 루루슈의 거짓 남동생 로로도 여기에서 파견된 사람이며, 제레미아 ㊥ 고트발트의 기어스캔셀러도 여기에서 개발되었다. ㊥ 한때 C.I. C. 하지만 숙주였지만, 그녀가 능단을 떠난 후, 마찬가지로 ㊥코드를 소지하고 있는 샤를의 친형형 V. V. 가 그 자리에 붙었다. ㊥ 기어스의 존재에 의해 친구 셜리 페넷을 잃은 것에 화난 루루㊥슈에 의해 파괴된다. ㊥ 덧붙여 능단 본부 안쪽에는 황혼 사이로 나아가는 문이 존재하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

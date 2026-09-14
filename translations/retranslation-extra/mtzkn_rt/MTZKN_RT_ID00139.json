@@ -1,0 +1,335 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00139",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000002",
+      "sourceBindingSha256": "ec947268d087f69fd757c09d774c60b049c126c4fd285011e07a93c2bc577b5a",
+      "sourceTextSha256": "2e50e921e3c7b75fbcf433d1563a8398e58c77dd78a57ca4d82d5572435bab13",
+      "freshTranslation": "(체인지!)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000003",
+      "sourceBindingSha256": "aa9c2fdd630a4b99d44662e8c04cc8f8204ef1770a11c8f047395ff77398a2aa",
+      "sourceTextSha256": "7c3cb5cb2ef14de63eec14acd214053a7f20637efe0ffd4631309ea46fb1a51d",
+      "freshTranslation": "- 로보 세계 마지막 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000004",
+      "sourceBindingSha256": "8d2d5ea5e25e589788308674b6e803cdb1c30a279425ec74d7dc76334369194a",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000005",
+      "sourceBindingSha256": "be6465cf070891fd71ce4d44118ded09db0e63dc4c46f49824fc273151f39427",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000006",
+      "sourceBindingSha256": "bb0a1eac49f94cbe7ba55ddbfdb4acc14f6d445cc8614a8917fd0dfe5786f163",
+      "sourceTextSha256": "4073b29d4a1e82ff650355db6dfc435004a48401464fe8f5ab7abd7c65e795a2",
+      "freshTranslation": "유룡마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000007",
+      "sourceBindingSha256": "8ac4ea155d328e31b4be07e39315b66161b32924eb2172ca9df8cdbe07a8370f",
+      "sourceTextSha256": "fde0f14434aba0a8e95b4e137427bf0196feab04e76e026da2a0f5c958ea7413",
+      "freshTranslation": "공중 전투용으로 개발된 마지막 게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000008",
+      "sourceBindingSha256": "8f8dd930f6918a1466dfc0b7b217b38a435957b404bb477cd879051ab361eda8",
+      "sourceTextSha256": "210216cce5dcfca76e46ccae105a32c2721b8bde6364c37829746427eeac9e81",
+      "freshTranslation": "- 로보. ㊥ 뒤의 게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000009",
+      "sourceBindingSha256": "125d3d96ad0a6b4f39e48dd8144b6e4f9a1f23aed1e59f10e58db6a9cdd297b5",
+      "sourceTextSha256": "8855a43251230e35e5c2e6e6ddda3454eb6312724ec3d01114f14daaa28f4b8d",
+      "freshTranslation": "- 배틀 윙은 반중력을 발생시킴으로써 비행을 가능하게 ㊥하는 날개. 최대 속도를 중시, 공중에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000010",
+      "sourceBindingSha256": "4543886a15a4077e4583f1886e3130b384cde6ab49fbfdb24f3dd67e22ced6b8",
+      "sourceTextSha256": "56811d68a9d0eccddc06f3f2d002ffa74425791a574bbac615395db28d4fb387",
+      "freshTranslation": "동성 중시 등 상황에 따라 형상을 변화시킨다. ㊥ 겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000011",
+      "sourceBindingSha256": "7273729c5d78f948f5dbae181496bedafd0e6dbada7b43a9d3198f36a2b7f481",
+      "sourceTextSha256": "c93119b581e3181833d7d475bb94c911a69147f722991a47bde0e2c8141d0624",
+      "freshTranslation": "토마호크와 겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000012",
+      "sourceBindingSha256": "471bc5f2d52979701995aa5cf3ca8d2b089a5d498065ba8f2fbb09d07db3ab73",
+      "sourceTextSha256": "b255af8c82776f08ab7ad28815dabd90d4cbcb1939d02f9c1f372504b4ade440",
+      "freshTranslation": "- 사이트를 사용한 격투전을 자랑하지만, 인베이더 ㊥ -에 가장 유효한 무장 게임",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000013",
+      "sourceBindingSha256": "625563e324164acea47ab6b8c1fd4f95a9080e0ea11340b53bba6623f04eebab",
+      "sourceTextSha256": "4d73a69c3bd671521c0bad8260a8c7eedeb8cc3e643beda3f3f7933bb68d00b2",
+      "freshTranslation": "- 빔을 발할 수있는 것은,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000014",
+      "sourceBindingSha256": "ebfe00b56da6564bcb6105b7fb01329cce316d583aa10cd67faac839bf87a0ff",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000015",
+      "sourceBindingSha256": "210bcb92c5221bf84e02d89ff579b6183abfd0caa4fbccfa88c3da88391c0929",
+      "sourceTextSha256": "bae08c38fea529d706b6d1125c81d6551d59efd35662878cc6b423f5895173a2",
+      "freshTranslation": "- 세 가지 형태 중 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000016",
+      "sourceBindingSha256": "04033118917f90de47a1c5cffad970a0a48d70fc4bacec5cb9f533b2505edeac",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000017",
+      "sourceBindingSha256": "798079e5e148ea01e4dcf23ab1750fdc8ef3cfede9b4599bd6141eb74222872d",
+      "sourceTextSha256": "37b3317397f816f23549f413c727961f40df7b56a5a4b9757f5a0682f3fcf650",
+      "freshTranslation": "-1만이다. 또한, 이마에서 방출되는 것보다 복부에서 빔이 ㊥ 위력도 높다. ㊥ 가장 큰 필살기술은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000018",
+      "sourceBindingSha256": "947b2ba5f2b469284fd31b481d8444f305d338161fbaed479af7fd40b18db2d5",
+      "sourceTextSha256": "4a3c613b08cf270449bf401f2773b6fc771448d2c7ea0f4d9d090562e2999ce8",
+      "freshTranslation": "- 선의 힘을 이끌어내는 스토너 선샤인이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000019",
+      "sourceBindingSha256": "7e1ad9ef46402cc3d37dd57b204aa63c5e315ff5c1b22e41604494ccc4675503",
+      "sourceTextSha256": "fde0f14434aba0a8e95b4e137427bf0196feab04e76e026da2a0f5c958ea7413",
+      "freshTranslation": "공중 전투용으로 개발된 마지막 게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000020",
+      "sourceBindingSha256": "f8591dadce99be29bae0f1f2713eeec4565f0ad1dc7d1b0686858c6a44628df9",
+      "sourceTextSha256": "210216cce5dcfca76e46ccae105a32c2721b8bde6364c37829746427eeac9e81",
+      "freshTranslation": "- 로보. ㊥ 뒤의 게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000021",
+      "sourceBindingSha256": "586161ea940d335229042a68b55d617cfca543d8fbbe16f058452fa1d9267e93",
+      "sourceTextSha256": "8855a43251230e35e5c2e6e6ddda3454eb6312724ec3d01114f14daaa28f4b8d",
+      "freshTranslation": "- 배틀 윙은 반중력을 발생시킴으로써 비행을 가능하게 ㊥하는 날개. 최대 속도를 중시, 공중에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000022",
+      "sourceBindingSha256": "a1b081dce8c6786b75713c998c56c75be1a0bad5d120662c337d75186ad51fe8",
+      "sourceTextSha256": "56811d68a9d0eccddc06f3f2d002ffa74425791a574bbac615395db28d4fb387",
+      "freshTranslation": "동성 중시 등 상황에 따라 형상을 변화시킨다. ㊥ 겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000023",
+      "sourceBindingSha256": "b26dec04498c616a318be3b96558bc25a4d7b65dcc20fd7eac2c47028a1df241",
+      "sourceTextSha256": "c93119b581e3181833d7d475bb94c911a69147f722991a47bde0e2c8141d0624",
+      "freshTranslation": "토마호크와 겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000024",
+      "sourceBindingSha256": "b9e97b8d37bf4892c7ebb17a8318f849ef8ba9db08dfa7770550b05810011025",
+      "sourceTextSha256": "b255af8c82776f08ab7ad28815dabd90d4cbcb1939d02f9c1f372504b4ade440",
+      "freshTranslation": "- 사이트를 사용한 격투전을 자랑하지만, 인베이더 ㊥ -에 가장 유효한 무장 게임",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000025",
+      "sourceBindingSha256": "7ed5ad9d1075f41a5257b1c03be7a0889efce48a834b8f64a17a967252f4b310",
+      "sourceTextSha256": "4d73a69c3bd671521c0bad8260a8c7eedeb8cc3e643beda3f3f7933bb68d00b2",
+      "freshTranslation": "- 빔을 발할 수있는 것은,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000026",
+      "sourceBindingSha256": "1a5dc0d735e5ce09016ef813959baf8319a31cdc1412e8ae46e1b733e0f93441",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000027",
+      "sourceBindingSha256": "6a1e0de08f0ce320a623dc423c2408aea1411bf672876892ff0f41cc0cc8e5a8",
+      "sourceTextSha256": "bae08c38fea529d706b6d1125c81d6551d59efd35662878cc6b423f5895173a2",
+      "freshTranslation": "- 세 가지 형태 중 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000028",
+      "sourceBindingSha256": "224c012240354a7faee538e5d39d3e434d0c6aa85efc0f265cb50e5a47a8e142",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000029",
+      "sourceBindingSha256": "81486160d440ac9cef9a936136d45857ef26bee7a047c757546600e87706c45a",
+      "sourceTextSha256": "37b3317397f816f23549f413c727961f40df7b56a5a4b9757f5a0682f3fcf650",
+      "freshTranslation": "-1만이다. 또한, 이마에서 방출되는 것보다 복부에서 빔이 ㊥ 위력도 높다. ㊥ 가장 큰 필살기술은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00139/Sheet1/000030",
+      "sourceBindingSha256": "fb581b08a37f8be2e9e2e50bea43dc7185fe21095359ec80897e60b760098a3b",
+      "sourceTextSha256": "4a3c613b08cf270449bf401f2773b6fc771448d2c7ea0f4d9d090562e2999ce8",
+      "freshTranslation": "- 선의 힘을 이끌어내는 스토너 선샤인이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

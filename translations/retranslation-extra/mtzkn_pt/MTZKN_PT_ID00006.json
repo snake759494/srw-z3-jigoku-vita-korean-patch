@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00006",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00006/Sheet1/000002",
+      "sourceBindingSha256": "967c5073949d643793072c60f77f636886fd22cb185e904c31003a8893ee3bc4",
+      "sourceTextSha256": "350d3b71ac5ab52386b29a8ee212d3b7081e54dff222ab9105c328f6704e8e11",
+      "freshTranslation": "대문",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00006/Sheet1/000003",
+      "sourceBindingSha256": "9322c71fb52e808cc43c7016d982ab8ca52ccf8fd9b88fda319ef96fd22504c1",
+      "sourceTextSha256": "350d3b71ac5ab52386b29a8ee212d3b7081e54dff222ab9105c328f6704e8e11",
+      "freshTranslation": "대문",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00006/Sheet1/000004",
+      "sourceBindingSha256": "31abf8a242ef61c4f5e9d56314881323a7c069064a9a761c714a80ee97386690",
+      "sourceTextSha256": "77c406ff1c1b9634902fdd15ec771c2a07e20db9f0a6b53196dbf872ebd5aa4c",
+      "freshTranslation": "무적 로보 트라이더 G7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00006/Sheet1/000005",
+      "sourceBindingSha256": "57fb77c9ba576c15754b5d1bd379e0296a9d4a0ae5666922b8d98dba2c6e9fdd",
+      "sourceTextSha256": "f0572af95c6803bf8f6e629ff564baca49e657d92fbc5402298e4838ecf55af8",
+      "freshTranslation": "미도리가오카 초등학교 6년 1조의 담임 교사. 28세. ㊥ 미에코 선생님에 비하면 어려운 부분이 눈에 띄고, 왓타가 초등학생이면서 일하고 있어 ㊥한다는 현상을 기쁘게 생각하지 않는다. 하지만 세상을 위해 사람을 위해 회사 직원을 위해 분 ㊥ 달리는 와타를 언제밖에 인정하게 되었다. ㊥ 옆의 수업을 받으면서, 종종 지각이나 소동을 반복하는 와타에게 카미나리를 ㊥ 떨어뜨리기 위해서 자주 와타의 클래스에 얼굴을 내밀고 있었다. 그것은 미에코 선생님에게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00006/Sheet1/000006",
+      "sourceBindingSha256": "07d8e3e7d0b8501ef6d52d3bcb581160b87ca34b616d0a83e9e6b2ca2ecc9592",
+      "sourceTextSha256": "b0f2919ad80e6d11b04246a79bfb5d72bc259dfc9fb170ca0428884953dfb34e",
+      "freshTranslation": "반하기 때문에 그녀를 만나고 싶은 좋은 곳을 보여주고 싶다는 이유도 아마 포함되어 ㊥인 것 같다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00006/Sheet1/000007",
+      "sourceBindingSha256": "fc25a5ccda683de42836baced7a5a29b47487a1bedbfbc3f4f3acefd3dbdfaf8",
+      "sourceTextSha256": "f0572af95c6803bf8f6e629ff564baca49e657d92fbc5402298e4838ecf55af8",
+      "freshTranslation": "미도리가오카 초등학교 6년 1조의 담임 교사. 28세. ㊥ 미에코 선생님에 비하면 어려운 부분이 눈에 띄고, 왓타가 초등학생이면서 일하고 있어 ㊥한다는 현상을 기쁘게 생각하지 않는다. 하지만 세상을 위해 사람을 위해 회사 직원을 위해 분 ㊥ 달리는 와타를 언제밖에 인정하게 되었다. ㊥ 옆의 수업을 받으면서, 종종 지각이나 소동을 반복하는 와타에게 카미나리를 ㊥ 떨어뜨리기 위해서 자주 와타의 클래스에 얼굴을 내밀고 있었다. 그것은 미에코 선생님에게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00006/Sheet1/000008",
+      "sourceBindingSha256": "59b7cddbf8a240a669bd741546a279f71f8f81e3e2771609dae553c7f3a55b92",
+      "sourceTextSha256": "b0f2919ad80e6d11b04246a79bfb5d72bc259dfc9fb170ca0428884953dfb34e",
+      "freshTranslation": "반하기 때문에 그녀를 만나고 싶은 좋은 곳을 보여주고 싶다는 이유도 아마 포함되어 ㊥인 것 같다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

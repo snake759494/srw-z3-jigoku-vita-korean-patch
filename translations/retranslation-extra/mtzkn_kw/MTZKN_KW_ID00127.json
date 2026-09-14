@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00127",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00127/Sheet1/000002",
+      "sourceBindingSha256": "6fd63c1d962ed07484973be5622bc24893adbcdbd0f70a008ad25b0756da91cc",
+      "sourceTextSha256": "606252509d828d65c65dfd9eb74bda8e6cb86a53c7dcf633c46f4c4fda74bd13",
+      "freshTranslation": "이노베이드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00127/Sheet1/000003",
+      "sourceBindingSha256": "0765643d6ae757d402f3238c74f71d63b630cf9dc0af1f89d86a3ee875cf4f5c",
+      "sourceTextSha256": "7669c78573db7851e69684ca226465fd07fe9556c10d361219f1dde2c7e809ab",
+      "freshTranslation": "「극장판 기동전사 건담 00-AwakeningofftheTrailblazer-」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00127/Sheet1/000004",
+      "sourceBindingSha256": "0938c2af5eb1602ce34818d7ad7553665b8f08ca4f22758fe99852c707f065a7",
+      "sourceTextSha256": "a340cff44f59612bb8dcbbd08974fc3f29b13b414ff8b69b0681c28ebce99729",
+      "freshTranslation": "이오리아 슈헨베르크의 계획을 수행하기 위한 정보 단말로, 인간과 마찬가지로 ㊥의 모습을 가지고 있다. ㊥GN 입자에 의한 뇌 양자파 영역에서의 감응 능력이나 양자 연산 시스템, 베다와 ㊥의 링크, 유전자 조작이나 나노 머신을 이용한 노화 억제 등이 가능하다. ㊥ 리본즈 알마크를 비롯한 이들은 새로운 시대의 인류로 간주되는 이노베 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00127/Sheet1/000005",
+      "sourceBindingSha256": "736953deaadb002fbb3da25c27e11ed23257194781a2b31fc706bffd7e191acf",
+      "sourceTextSha256": "3047340f7dda6de693ffaa1b6c109d1f86b76c74690676d13f4441af3eab3b0b",
+      "freshTranslation": "-의 발현을 지키기위한 존재 이었지만,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00127/Sheet1/000006",
+      "sourceBindingSha256": "7c805032ea331e0ac4a75038caeade1df931e5d98311a249b7da7448b8510eb1",
+      "sourceTextSha256": "e04f263328aec3c2603447014abaa4ada9cdbec5948fdb9f4c014a0fc1b45f1a",
+      "freshTranslation": "-를 자칭하고 ㊥ 인류를 관리하려고 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00127/Sheet1/000007",
+      "sourceBindingSha256": "a692be0e805c89e9f017bd0a2bd7652646f68fa1f8d57f667628b9d296b5e3bc",
+      "sourceTextSha256": "a340cff44f59612bb8dcbbd08974fc3f29b13b414ff8b69b0681c28ebce99729",
+      "freshTranslation": "이오리아 슈헨베르크의 계획을 수행하기 위한 정보 단말로, 인간과 마찬가지로 ㊥의 모습을 가지고 있다. ㊥GN 입자에 의한 뇌 양자파 영역에서의 감응 능력이나 양자 연산 시스템, 베다와 ㊥의 링크, 유전자 조작이나 나노 머신을 이용한 노화 억제 등이 가능하다. ㊥ 리본즈 알마크를 비롯한 이들은 새로운 시대의 인류로 간주되는 이노베 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00127/Sheet1/000008",
+      "sourceBindingSha256": "f34ae7b65b5543ff193c115a29f2b11724a627ef7f575f14084c4b78fcc2e259",
+      "sourceTextSha256": "3047340f7dda6de693ffaa1b6c109d1f86b76c74690676d13f4441af3eab3b0b",
+      "freshTranslation": "-의 발현을 지키기위한 존재 이었지만,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00127/Sheet1/000009",
+      "sourceBindingSha256": "aebcdc3032c800e18c75ed35b59139bda7b9dc062ffe0c3ee9108f03bba84c6b",
+      "sourceTextSha256": "e04f263328aec3c2603447014abaa4ada9cdbec5948fdb9f4c014a0fc1b45f1a",
+      "freshTranslation": "-를 자칭하고 ㊥ 인류를 관리하려고 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

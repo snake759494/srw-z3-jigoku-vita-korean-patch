@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["format", "formatVersion", "source", "counts", "members"],
+  "properties": {
+    "format": { "const": "siok.scenario-speaker-catalog" },
+    "formatVersion": { "const": 1 },
+    "generatedAt": { "type": "string" },
+    "source": {
+      "type": "object",
+      "required": ["kind", "field", "textIncluded"],
+      "properties": {
+        "kind": { "type": "string" },
+        "field": { "type": "string" },
+        "textIncluded": { "const": false }
+      },
+      "additionalProperties": true
+    },
+    "counts": {
+      "type": "object",
+      "required": ["members", "speakerRows"],
+      "properties": {
+        "members": { "type": "integer", "minimum": 0 },
+        "speakerRows": { "type": "integer", "minimum": 0 },
+        "mappedEntries": { "type": "integer", "minimum": 0 },
+        "unreadableIdFiles": { "type": "integer", "minimum": 0 },
+        "missingIdFiles": { "type": "integer", "minimum": 0 }
+      },
+      "additionalProperties": true
+    },
+    "members": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "array",
+        "items": { "type": "integer", "minimum": 1 },
+        "uniqueItems": true
+      }
+    }
+  },
+  "additionalProperties": true
+}

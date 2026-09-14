@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00304",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00304/Sheet1/000002",
+      "sourceBindingSha256": "eab1cc3c752bb1f9bb1de9c9801de4d58fa4c7e26982e1a3d71b7129dfa47aa5",
+      "sourceTextSha256": "83c78d8199451ea4bfb4c0063372351999ca6c176f86a07e9b6f38757761d764",
+      "freshTranslation": "루 릴리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00304/Sheet1/000003",
+      "sourceBindingSha256": "6787802e9ac7b2a2e108826e9a6a2e6791a14be10c465f966697aeb217a436ad",
+      "sourceTextSha256": "da184f16d8bc10361b0cb119bbc7dae51416f2b1641da9110a14801ad6feab38",
+      "freshTranslation": "루",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00304/Sheet1/000004",
+      "sourceBindingSha256": "a14c4850788bd8eda4e58fdfbce3e57b066762e358f26146fdef21adadbd1307",
+      "sourceTextSha256": "1e56b9ff86dcef266f12989d9d9c1a049376962d8d547fa14759ae90a788c964",
+      "freshTranslation": "수장기공 단쿠가노바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00304/Sheet1/000005",
+      "sourceBindingSha256": "9f05a60610368f6c8f8fd6ecb3f27dad8f4ff07480828233821844a446a0887c",
+      "sourceTextSha256": "098b25562d65ce81cac1390da46c7b0fd2d6e09fdb7db3683c662dbe61b96fea",
+      "freshTranslation": "드래곤즈하이브의 4대째 정신 카운셀러. 15세. ㊥살 젊음이 100개 이상의 정신의학과 심리학의 면허를 가지고 있어 아이 취급되는 것을 ㊥ 극단적으로 싫어한다. 덧붙여 그녀가 있는 일본에서의 성인 연령은 15세부터로, 일이 있을 때마다 자신㊥은 「15세와 3개월」인 것을 주장하고 있었다. ㊥ 또한 이름을 줄여서 '루릴리'라고 불리는 것도 바람직하지 않은 것 같고, 그렇게 불리고 ㊥하면 기분을 잃는다. ㊥ 카운셀러이지만 남성이 서투르고, 조니나 슈야에 상담을 할 때는 가 ㊥ 드 로봇을 수반시키고 있었다. ㊥ 상담뿐만 아니라 로봇 등의 조종도 해낸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00304/Sheet1/000006",
+      "sourceBindingSha256": "b2ea9dc2a1f0e543999d70649eacf72c2c36501c95e930dd0f01dc1df8ef5538",
+      "sourceTextSha256": "098b25562d65ce81cac1390da46c7b0fd2d6e09fdb7db3683c662dbe61b96fea",
+      "freshTranslation": "드래곤즈하이브의 4대째 정신 카운셀러. 15세. ㊥살 젊음이 100개 이상의 정신의학과 심리학의 면허를 가지고 있어 아이 취급되는 것을 ㊥ 극단적으로 싫어한다. 덧붙여 그녀가 있는 일본에서의 성인 연령은 15세부터로, 일이 있을 때마다 자신㊥은 「15세와 3개월」인 것을 주장하고 있었다. ㊥ 또한 이름을 줄여서 '루릴리'라고 불리는 것도 바람직하지 않은 것 같고, 그렇게 불리고 ㊥하면 기분을 잃는다. ㊥ 카운셀러이지만 남성이 서투르고, 조니나 슈야에 상담을 할 때는 가 ㊥ 드 로봇을 수반시키고 있었다. ㊥ 상담뿐만 아니라 로봇 등의 조종도 해낸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

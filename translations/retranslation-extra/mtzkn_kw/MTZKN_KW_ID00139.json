@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00139",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00139/Sheet1/000002",
+      "sourceBindingSha256": "90ca1ce96cbd55edd06c975d345db0f91f56d725bc5264743962099ea417e292",
+      "sourceTextSha256": "6e836af6b0f00b77e7cb3f85550fe3b14b851b8be8bca13434bd602dc96a5de6",
+      "freshTranslation": "스피어의 반응",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00139/Sheet1/000003",
+      "sourceBindingSha256": "8472a07848bc966eeb74bdae0ed042141832f29daab5980b1aaf1bc9d1819939",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00139/Sheet1/000004",
+      "sourceBindingSha256": "3d5e0797d70be4b3ce3a9db9be80ecb7e576d009f641885a8db1ad13607095f9",
+      "sourceTextSha256": "f4409bb519e8efb320beb50ffc0955b3e19e62c97a57b9846c90edd8905db37e",
+      "freshTranslation": "스피어 리악",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00139/Sheet1/000005",
+      "sourceBindingSha256": "97d53a423adce34d27dec83ecd188fa5c7fbd5506b394a1dc624fd16f33e5240",
+      "sourceTextSha256": "384a476a28bb60560b94bf83ea4f8fa9e1fd4d859991aa349a15fb7ab7fd51ac",
+      "freshTranslation": "-가 스피어의 힘을 이끌어내는 것에 의한 대가. ㊥ 단순한 동력원으로 스피어를 사용하는 단계에서는 눈에 띄는 해가 없지만, ㊥ 스피어가 이벤트의 제어 단계에 도달하면 반응이 발생한다. ㊥ 그 증상은 스피어에 따라 다양하지만 거짓말을 하는 '거짓의 흑양'의 반응이 ㊥ '올바른 일을 말할 수 없게 된다'라는 상태에 스피어가 맡는 인간의 정신과 관련 ㊥가 보인다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00139/Sheet1/000006",
+      "sourceBindingSha256": "af6b34a4d37a8e03cbb932fdb1a276966bb89faa16967da260cce4bd8397e8da",
+      "sourceTextSha256": "f4409bb519e8efb320beb50ffc0955b3e19e62c97a57b9846c90edd8905db37e",
+      "freshTranslation": "스피어 리악",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00139/Sheet1/000007",
+      "sourceBindingSha256": "e71647ca529a31bebd7ef46dfe445d83bd4eb3a1e5d814cb8f1b611f8c28a5aa",
+      "sourceTextSha256": "bcf3d18e3ee838f8f99a3418844af917cd50be11776b44df7dade3ac804cad77",
+      "freshTranslation": "-가 스피어의 힘을 이끌어내는 것에 의한 대가. ㊥ 단순한 동력원으로 스피어를 사용하는 단계에서는 눈에 띄는 해가 없지만, ㊥ 스피어가 이벤트의 제어 단계에 도달하면 반응이 발생한다. ㊥ 그 증상은 스피어에 따라 다양하지만 거짓말을 하는 '거짓의 흑양'의 반응이 ㊥ '올바른 일을 말할 수 없게 된다'라는 상태에 스피어가 맡는 인간의 정신과 관련 ㊥가 보인다. ㊥ 타사 단계의 리액션",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00139/Sheet1/000008",
+      "sourceBindingSha256": "e5d585beb2208781b37f86e6a59ea2aea5974652149a2a903aa5056e2014ee13",
+      "sourceTextSha256": "a046456919322e00cd59f14212fe977f62111d194e59eb9a095f5455dea311f2",
+      "freshTranslation": "-를 자칭하는 가드라이트 메온삼에게 증상들 ㊥ 하지 않은 것이 보이지 않았기 때문에, 보다 스피어의 제어가 진행되면 반응은 억제㊥ 되어 가고, 최종적으로는 무해해질 것으로 보인다. 반대로, 반응을 극복 ㊥하는 것이 리액션",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00139/Sheet1/000009",
+      "sourceBindingSha256": "2ee92092d6c8de314fa6859b9188b0b270927caae955a0b39c916520f4e9c9b4",
+      "sourceTextSha256": "0f53cd0f54fb711512a4814144d77a6140a39725498e4141aafe01419beb1191",
+      "freshTranslation": "-가 추가 단계로 진행하기 위한 조건이라고 추측된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

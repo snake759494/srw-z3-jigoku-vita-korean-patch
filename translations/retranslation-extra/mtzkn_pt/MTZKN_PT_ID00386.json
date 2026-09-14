@@ -1,0 +1,159 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00386",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00386/Sheet1/000002",
+      "sourceBindingSha256": "33a98edcd3a81946fcde5e3950c08685947ab62397f955e4973f9066cb1f0449",
+      "sourceTextSha256": "a5f17bd20f2d4b4b420db3d5e9407245241e4152a1809996dd5eba6af493985a",
+      "freshTranslation": "토와노 미카게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00386/Sheet1/000003",
+      "sourceBindingSha256": "fe55d7a5c8311e6d64cbbfe7d1e0d90bf8737b582e06dbdd4c88471ba69598b2",
+      "sourceTextSha256": "a8a168177d4aee7a960464ae189b4741a0e3ed1daa50ef26cc9152372f5c4eac",
+      "freshTranslation": "미카게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00386/Sheet1/000004",
+      "sourceBindingSha256": "05a63a8dd61c43d74cb0001ea6d9b016bda5a7412aafd9f0c5855609bd1f1b37",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00386/Sheet1/000005",
+      "sourceBindingSha256": "98d337e506dcde6ca5d9ca859ab8e1effed7b28b9dbdd9a734d37442308aeb68",
+      "sourceTextSha256": "c1c1945c104b5f3bf9f2a076f6f2affb7d043abf00d53a2524dbf48df1fd5a6c",
+      "freshTranslation": "나카무라 유이치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00386/Sheet1/000006",
+      "sourceBindingSha256": "a5cc548750e6f5f433c73c8040b6c74aa07a7150544b3d45dbd92b38d60b36ba",
+      "sourceTextSha256": "8718bdb3ae88c9dc8cf50b0098001cfe99dc229a613e17107919e5e3fcc8a640",
+      "freshTranslation": "알테아의 신관. ㊥ 다양한 사이킥 능력을 사용할 수 있다. ㊥ 수수께끼가 많아 변덕스러운 언동으로 힘을 빌려주거나 방해를 하는 등 최고 사령관인 이 ㊥ 주모조차도 농락당하고 있다. ㊥ 어린 시절의 카구라를 슬램으로 찾아 그를 키웠다. ㊥ 오랫동안 잠들었지만, 아쿠아리온의 부활에 호응하고 일어나 독자적인 목적을 위해 ㊥로 움직이기 시작한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00386/Sheet1/000007",
+      "sourceBindingSha256": "8e5bfad9d889555b674ac0a622d30f9140fc1d9b8a8e69924465c3ca5b1e8f2f",
+      "sourceTextSha256": "87840cc26a8293ba89a3e9a3e45375a335244d9e5853c7ffca2f397c3bdd2108",
+      "freshTranslation": "알테아의 신관. ㊥ 다양한 사이킥 능력을 사용할 수 있다. ㊥ 수수께끼가 많아 변덕스러운 언동으로 힘을 빌려주거나 방해를 하는 등 최고 사령관인 이 ㊥ 주모조차도 농락당하고 있다. ㊥ 어린 시절의 카구라를 슬램으로 찾아 그를 키웠다. ㊥ 오랫동안 잠들었지만, 아쿠아리온의 부활에 호응하고 일어나 독자적인 목적을 위해 ㊥로 움직이기 시작한다. ㊥ 그 정체는, 아폴로가 사랑하는 아폴로니아스의 다시 태어나지 않는 것을 알고 버렸습니다㊥ 한 머리의 어둠의 부분. 두선 자신은 그것을 받아들이고 세상을 구하는 사람 기둥이 되었지만 ㊥ 그의 마음의 일부가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00386/Sheet1/000008",
+      "sourceBindingSha256": "093975d4a63599e5b5722c8a7e0435ff5e71d007855a8a45594958ecd0a2ef90",
+      "sourceTextSha256": "298f3bda0cd861b7c79e7ce0b61de7752e6e7f1ed29d5fff2d0dd0d6d921d961",
+      "freshTranslation": "열매를 받아들일 수 없이 폭주하고 실태화했다. ㊥신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00386/Sheet1/000009",
+      "sourceBindingSha256": "697cf509566481938bec661ea7e69acad00a5d75ea6c95ab35a6539235cb99bd",
+      "sourceTextSha256": "8bffc4ea69c80ef98cdf337ab1b462d1db49d792aa09fcd7709896e51125c4c0",
+      "freshTranslation": "아쿠에리온을 부활시키고 그 힘으로 베가와 알테아를 모두 파괴하고 ㊥ 새로운 세계를 창조하려고 한다. ㊥ 최종 결전에서는 신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00386/Sheet1/000010",
+      "sourceBindingSha256": "6a17fc9ecac894d90db9a8aa72823426346b816ff53c6a45e393d4278b0b2ded",
+      "sourceTextSha256": "b010cffc70c9e13aa4577e75d77a6dcb77a4a2119d18dc67d9975dfd703a84b7",
+      "freshTranslation": "알테아의 전체 에너지를 흡수합니다. 또한 검은 굵은 ㊥ 양을 만들어 지구를 말리려고 신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00386/Sheet1/000011",
+      "sourceBindingSha256": "a39c5b7b23f0f0adc8a1527759414d14742b9768a40b3a830f380582479561d6",
+      "sourceTextSha256": "e30be5d03dff0372d077b927c8ed9eb93c9639aa3983620993f72fa788740425",
+      "freshTranslation": "어쿼리온을 고대 AQ㊥로 변경하고 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00386/Sheet1/000012",
+      "sourceBindingSha256": "ad95a04ba6263bd9acd1601ef7591900a0b095589bd33166aa6ca8d7264e3ee6",
+      "sourceTextSha256": "ebcf0c348914c3f80564059875010462fa175de0595e50065115fd8d24d2b0a2",
+      "freshTranslation": "앞에 서서 막혔다. 그러나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00386/Sheet1/000013",
+      "sourceBindingSha256": "a89b2bc6aadd3fd6647b7644188b272c15faf903d6228e71a4611eef84e03a54",
+      "sourceTextSha256": "4a82a720cfe0e4fa3220dce55c35be3955b608180e4ee5bd7bbaaa142302aeb5",
+      "freshTranslation": "생명을 뛰어넘어 미코노를 도와 ㊥하려고 하는 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00386/Sheet1/000014",
+      "sourceBindingSha256": "cafa6fbdc8c35ca62145508f41464bdb519f9b539eaff384dd065e17882ced2b",
+      "sourceTextSha256": "de2d42baa6240f3be924bce32e6538f426ba5d2819b238e2ef6892044a75439c",
+      "freshTranslation": "그리고 그를 밀어주는 네오디바 앞에 패배했다. ㊥ 그 후, 부동 ZEN에 받아들여져 그의 마음 속에 잠들었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

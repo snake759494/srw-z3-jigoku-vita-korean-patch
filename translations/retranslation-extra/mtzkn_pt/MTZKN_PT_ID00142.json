@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00142",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00142/Sheet1/000002",
+      "sourceBindingSha256": "e669ce04d4c2dbf1ba7e58dace7a9bed3f9325441055c8966f1ab7548cd63824",
+      "sourceTextSha256": "8ceea6803e4dfa87c2ca53b713da6b3d2807b0bd38cfa8be06eb41d84599a17a",
+      "freshTranslation": "풀 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00142/Sheet1/000003",
+      "sourceBindingSha256": "4d9c63133f937d00ad735d9cb523129276db7de201925fe06d06c47c0daf9883",
+      "sourceTextSha256": "66b9fc38e26f28a7788937a292125e6a9ce0359edf59b11306bf6e96b177ae64",
+      "freshTranslation": "프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00142/Sheet1/000004",
+      "sourceBindingSha256": "5f9241788fce5ae10153751ab4c3509872030e60fde6d79aba432cf1fe1cc1bf",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00142/Sheet1/000005",
+      "sourceBindingSha256": "5ce057836368eb482ed814b26bc2903b2c98a4a14b61d6a7565ec3117c0870ed",
+      "sourceTextSha256": "189dcf7a5b647c09ffee65a22b6e7570011486224b32af9f88ac9cde8d4cbacf",
+      "freshTranslation": "이케다 히데이치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00142/Sheet1/000006",
+      "sourceBindingSha256": "463a19071a8007a62233b78b30c0c7b2ed9342add1f0b4ce2661161466e173ec",
+      "sourceTextSha256": "c8d800ee3b1afd7ac93cea026000cf51469c39c277178f4b73f326b7663a6b8e",
+      "freshTranslation": "항상 가면으로 맨얼굴을 숨기고, 많은 것이 수수께끼에 싸인 「소매 첨부」의 수갑. ㊥ 샤아 아즈나블이라는 거점을 잃은 네오지온에서 높은 카리스마성 ㊥을 통해 네오지온을 정리했다. ㊥ 한 손 니 손끝을 읽는 날카로운 전략뿐만 아니라 전술 눈, 탁월한 조종 센스로 시난주를 몰아 ㊥하는 모습에서 '샤아의 재래'라고 불린다. ㊥ 네엘 아가마를 습격했을 때에는, 함재기를 전멸시켜, 디스트로이 모드로 하여 ㊥한 유니콘조차 압도하는 실력을 보여, 바로 거리 이름에 적합한 실력을 보였다. ㊥이지만, 그 게으른 지나치는 언동은, 어딘가 인간미를 가지지 않는 기분을 느끼게 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00142/Sheet1/000007",
+      "sourceBindingSha256": "94fc426e10f1184d61a937b4cf86eb694760d789341e75554f3ca5352e2bc571",
+      "sourceTextSha256": "40b65f2b10aa0b6db0a3535c3a7bc541ee13ecd83e567c20b5386d82fe1ae264",
+      "freshTranslation": "항상 가면으로 맨얼굴을 숨기고, 많은 것이 수수께끼에 싸인 「소매 첨부」의 수갑. ㊥ 샤아 아즈나블이라는 거점을 잃은 네오지온에서 높은 카리스마성 ㊥을 통해 네오지온을 정리했다. ㊥ 한 손 니 손끝을 읽는 날카로운 전략뿐만 아니라 전술 눈, 탁월한 조종 센스로 시난주를 몰아 ㊥하는 모습에서 '샤아의 재래'라고 불린다. ㊥ 네엘 아가마를 습격했을 때에는, 함재기를 전멸시켜, 디스트로이 모드로 하여 ㊥한 유니콘조차 압도하는 실력을 보여, 바로 거리 이름에 적합한 실력을 보였다. ㊥이지만, 그 게으른 지나치는 언동은, 어딘가 인간미를 가지지 않는 기분을 느끼게 한다. ㊥NT-D시스템을 발동시키기 위해 마리다를 씹어 개로 삼아 트링턴 공략의 ㊥을 위해 지온잔당군의 감정을 이용하는 등 냉철한 면을 가진다. ㊥ 가면 아래의 모습은 샤아 아즈나블 본인과 매우 비슷하며 이마에 고상도 아㊥ 한다. 덧붙여 가면을 쓰는 이유는 의도적으로 샤아를 상기시키기 위한 것에 지나지 않고, 포로㊥로 한 배너지에 맨얼굴을 노출하도록 말해져도, 특히 저항하는 일은 없었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

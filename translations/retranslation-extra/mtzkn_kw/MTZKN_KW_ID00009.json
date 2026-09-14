@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00009",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00009/Sheet1/000002",
+      "sourceBindingSha256": "a84883423b0989f7e0376f4c7f5746a6a5bd8b33db48a2454d098fa82495b81d",
+      "sourceTextSha256": "94c07b6268ce1e25de3ea74557eab3cbbc2e58b3f17035cec401e99966e3a107",
+      "freshTranslation": "제2신도쿄시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00009/Sheet1/000003",
+      "sourceBindingSha256": "7352ea886ba45663f611e25255ac26eebfd250cf70627e1ba21c43075826d6c5",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00009/Sheet1/000004",
+      "sourceBindingSha256": "205bee1ad7d92450ec5363cdbd792fda8bdf4ba43571f432858f301cfe379ece",
+      "sourceTextSha256": "63ec7a49b0f4079c0dd7337be5fc9930d224f4819d407874c8e0cdf39105ecc8",
+      "freshTranslation": "도쿄 23구 밖에 새롭게 정비된 도시. ㊥연구학원도시로서 인근 초등학교에서 대학, 전문학교를 모아 도시 전체에서의 ㊥교육을 컨셉으로 하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00009/Sheet1/000005",
+      "sourceBindingSha256": "edb119f5f2670d574a6d4903f4b97ad646b2abb70faa2ce8f26e4129132ea123",
+      "sourceTextSha256": "63ec7a49b0f4079c0dd7337be5fc9930d224f4819d407874c8e0cdf39105ecc8",
+      "freshTranslation": "도쿄 23구 밖에 새롭게 정비된 도시. ㊥연구학원도시로서 인근 초등학교에서 대학, 전문학교를 모아 도시 전체에서의 ㊥교육을 컨셉으로 하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00196",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00196/Sheet1/000002",
+      "sourceBindingSha256": "5b4554295a48f70f8d9566a2b9c1a7a5196537136d0fab4d683e1fb58b5bedf9",
+      "sourceTextSha256": "7a0d9e3fa47edd01b39401b26016e8fc43eaca6c9c1fcc699158e37fef5e33c0",
+      "freshTranslation": "활 사야카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00196/Sheet1/000003",
+      "sourceBindingSha256": "d476f3b7ed05373b8aa73ca1ceccbc96bd9a08102152ed9cb3c245de9c5bf2bc",
+      "sourceTextSha256": "9af21164f24e02819540c28abb14cc670e3e78b3173aef9cd2b55bc0d74e09ad",
+      "freshTranslation": "사야카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00196/Sheet1/000004",
+      "sourceBindingSha256": "ebe931e454e46584e650632eac901fe69e7e979a0401c827b9fa36207c5ad181",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00196/Sheet1/000005",
+      "sourceBindingSha256": "d6fd41d16b61b0eed26359a3a9e9e51a87c150e5c5a7a567ed32b5c41e6a620e",
+      "sourceTextSha256": "741583af1e0f1824e4680b06bc2c2107f8251cf7d54f3db039c6df3db66e058e",
+      "freshTranslation": "혼다 요코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00196/Sheet1/000006",
+      "sourceBindingSha256": "20268e79adfb0d2477c4f6e590abeb164a3786f5bb7862b358db31f60a57f36c",
+      "sourceTextSha256": "b2dccee8a88cb687d64f094b66e5c754c75de4577e9f13bd84c3f15ce5fbd035",
+      "freshTranslation": "아프로다이 A와 그 후계기의 뷰너스 A의 파일럿. ㊥ 광자력 연구소 소장의 궁 야노스케의 딸이며,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00196/Sheet1/000007",
+      "sourceBindingSha256": "1e42b368fd362eb016b603bf39d5d171d44cf8086d63e52804eef463fc1500eb",
+      "sourceTextSha256": "67a5576740e95ec4ff3a341bbfe47a725199430cfcfef9876bea393b61dcbaee",
+      "freshTranslation": "면목으로 협조성을 중시하는 성격. ㊥ 마징가의 힘을 과신하고 혼자서 싸우려고 하는 갑아를 몸에 박아 말하는 ㊥ 헌신함도 보였다. ㊥ 갑아와는 서로 신경이 쓰이는 사이지만, 갖추어져 연애에는 안쪽이기 때문에, 친구 이상 연인㊥ 미만이라고 하는 상태가 계속되고 있다. ㊥ 아프로다이 A가 파괴된 후에는 자신을 모델로 한 뷰너스 A의 작성을 세 박사에게 ㊥ 의뢰. 최종 결전에서는 갑아 부재 그대로 Dr. 헬의 군단을 맞아 쏘고 분투했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00196/Sheet1/000008",
+      "sourceBindingSha256": "d7959a8d84c0b7b043e96854aa9df4e4635ec11da5be3170241b40707c87e124",
+      "sourceTextSha256": "b2dccee8a88cb687d64f094b66e5c754c75de4577e9f13bd84c3f15ce5fbd035",
+      "freshTranslation": "아프로다이 A와 그 후계기의 뷰너스 A의 파일럿. ㊥ 광자력 연구소 소장의 궁 야노스케의 딸이며,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00196/Sheet1/000009",
+      "sourceBindingSha256": "f1fdfde0dcfd63e3a7c6c0802b2dc80b03150b01f84844d810854257532b11b5",
+      "sourceTextSha256": "67a5576740e95ec4ff3a341bbfe47a725199430cfcfef9876bea393b61dcbaee",
+      "freshTranslation": "면목으로 협조성을 중시하는 성격. ㊥ 마징가의 힘을 과신하고 혼자서 싸우려고 하는 갑아를 몸에 박아 말하는 ㊥ 헌신함도 보였다. ㊥ 갑아와는 서로 신경이 쓰이는 사이지만, 갖추어져 연애에는 안쪽이기 때문에, 친구 이상 연인㊥ 미만이라고 하는 상태가 계속되고 있다. ㊥ 아프로다이 A가 파괴된 후에는 자신을 모델로 한 뷰너스 A의 작성을 세 박사에게 ㊥ 의뢰. 최종 결전에서는 갑아 부재 그대로 Dr. 헬의 군단을 맞아 쏘고 분투했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

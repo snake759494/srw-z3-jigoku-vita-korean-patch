@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00254",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00254/Sheet1/000002",
+      "sourceBindingSha256": "ab69c53868a8239fb7014a9ae064d491cfc5cfb17a6fda1433fad3fe1e499952",
+      "sourceTextSha256": "ad3e6f5c7bc0771d689c261e900c4236e1c004851fd0226784aa4efa641544e9",
+      "freshTranslation": "리처드 헨리 마듀카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00254/Sheet1/000003",
+      "sourceBindingSha256": "d9d196424f627809397f399858739ab07f7fd3c28ed8916ec0fac7a7f1f5a63a",
+      "sourceTextSha256": "b0dc4d1729d1887ff6430934ded7866c8f2b19242133584c6bfa23d6eef0c362",
+      "freshTranslation": "마듀카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00254/Sheet1/000004",
+      "sourceBindingSha256": "7f3b24ac2a049c737c88c0f89d24d9da634f4a87b066a929b2365455ca51cfa6",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00254/Sheet1/000005",
+      "sourceBindingSha256": "76f51174251fdbd486de356eb2c7de2a6d9c339aee5606297c5008f0bbac0c74",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00254/Sheet1/000006",
+      "sourceBindingSha256": "b342ceafad31e9d65c2e0fa77b593a35a2e9aed578ee7b383f2ed9849d874a9c",
+      "sourceTextSha256": "20d5c00521775b5854590cfa468fc58186da21c766073ca9e2d4e7acb6145d21",
+      "freshTranslation": "니시무라 지도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00254/Sheet1/000007",
+      "sourceBindingSha256": "abf90a110ba58674218076aa3c0c6fecfab1fe78b78b3d25a58e150b0f2dc289",
+      "sourceTextSha256": "7704dd0b76bc3b1b00c9c4be58350ef08dbdb8a2745848bedc7168eabe4e6cd0",
+      "freshTranslation": "대 테러 조직 미스릴의 투아하 데 다낭 부장. 계급은 중령. ㊥ 어려운 표정에 안경과 모자가 트레이드 마크. ㊥ 영국 해군 잠수함의 함장을 맡은 경력을 가진 군 인기질의 인물로, 규율을 무엇보다도 무겁게 ㊥ 한다. 함장의 테사의 행동에 의견하는 일도 있지만, 그것은 경애하는 그녀에게 항상 훌륭한 ㊥ 함장이 되기를 원하기 때문이다. ㊥ 소스케는 그의 일을 싫어하고, 대면 때 긴장하는 모습을 잘 볼 수 있다. ㊥ 수많은 전투에서 함장인 테사를 생명으로 지키면서 보좌해 간다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00254/Sheet1/000008",
+      "sourceBindingSha256": "96f74b37995128fb1854863ec56b8fd22ad05d1b746260946b3f7e5de1f2ef95",
+      "sourceTextSha256": "7704dd0b76bc3b1b00c9c4be58350ef08dbdb8a2745848bedc7168eabe4e6cd0",
+      "freshTranslation": "대 테러 조직 미스릴의 투아하 데 다낭 부장. 계급은 중령. ㊥ 어려운 표정에 안경과 모자가 트레이드 마크. ㊥ 영국 해군 잠수함의 함장을 맡은 경력을 가진 군 인기질의 인물로, 규율을 무엇보다도 무겁게 ㊥ 한다. 함장의 테사의 행동에 의견하는 일도 있지만, 그것은 경애하는 그녀에게 항상 훌륭한 ㊥ 함장이 되기를 원하기 때문이다. ㊥ 소스케는 그의 일을 싫어하고, 대면 때 긴장하는 모습을 잘 볼 수 있다. ㊥ 수많은 전투에서 함장인 테사를 생명으로 지키면서 보좌해 간다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

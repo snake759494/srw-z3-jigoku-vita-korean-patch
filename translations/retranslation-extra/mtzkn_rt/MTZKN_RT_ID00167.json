@@ -1,0 +1,302 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00167",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000002",
+      "sourceBindingSha256": "ad3c2cdb29a9ff0aed24109d41b1c2cb19660d9720de1e9a5c92dcef830a7e85",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000003",
+      "sourceBindingSha256": "b64eb4592419f145dda17bd38fee6693b0ac0fefe675c4439ccf797e2e35579a",
+      "sourceTextSha256": "438ba97024f8e2e88871edbadd500222cbca14f8aa2e04a6b7188e7f25019fea",
+      "freshTranslation": "다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000004",
+      "sourceBindingSha256": "49d39928ea74379e13751c74f55fb0d05ad093358f1bf508b177ad58a9e664e3",
+      "sourceTextSha256": "438ba97024f8e2e88871edbadd500222cbca14f8aa2e04a6b7188e7f25019fea",
+      "freshTranslation": "다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000005",
+      "sourceBindingSha256": "c3ff8bf1197f3a09d7ee096e9e44a20ab6d7e5ce14b7462129ec1be3a4c39a48",
+      "sourceTextSha256": "02c5447666a17d306ba16811799a87ad1db709bbf326e134549a0c681611f7fe",
+      "freshTranslation": "아카기 슌스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000006",
+      "sourceBindingSha256": "22554fe6029cd780bda5f96ce5dfcd0e08011d014b9b1bff1d549ae507f80813",
+      "sourceTextSha256": "736c6c03f1249fec3696af53070ae9838330e61a83651a88361731b94c79c5a8",
+      "freshTranslation": "21세기 경비보장이 소유하는 기획개발부 홍보 2과 소속의 대헤테로다인용 전투무기. ㊥ 정식 명칭은 \"을식 직립",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000007",
+      "sourceBindingSha256": "6a9e37d03d472b2832ea391e8083c72dc27778c5bcf76d1be87a196871960c45",
+      "sourceTextSha256": "a4e0b8c254089ee4f2b5392073e89d873fe36f86608b1880f717f9ba020d034c",
+      "freshTranslation": "특수 차량”. ㊥기원 2018년에 처음으로 헤테로다인의 위협에 노출된 인류가 재출현에 대비하여 개발㊥했지만, 이후 12년간 헤테로다인은 출현하지 않고, 유지비만을 먹는 결과가 되어㊥해 버립니다. 나중에 유엔안전보장군이 민영화를 결정한 것으로 군을 대주주로 한 경비회사 ㊥인 21세기 경비보장이 탄생. 다이 가드도 그 소속이 되어 현재에 이르고 있다. ㊥반관반민의 체제가 된 후에도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000008",
+      "sourceBindingSha256": "3134d69c6395a188fbea019e9fd25a503479010648e4d6f7d0394c4a9cdeb005",
+      "sourceTextSha256": "cea16e82125d0ea3899765a1f750dcc6a584b8b6b34db136ca61ce8a26454968",
+      "freshTranslation": "용비의 문제는 무시할 수 없고, 유일하게 선전용의 ㊥ 마스코트로 취급되고 있었다. 하지만 사가미만에 12년 만에 두 번째 헤테로다㊥인이 출현했을 때, 우연히 현지에 전시되고 있던 일이나 파일럿이 갖추어져 있던 일 등을㊥계기로 본래의 역할에 돌아와, 그 후에도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000009",
+      "sourceBindingSha256": "2c53007d8e5c5448d50ec4306ad753893fe8894d8231ca0fab76e00a0f735065",
+      "sourceTextSha256": "0ecae4a435816ea186007ce602977ac2ca7224d8caf6535c7ec14abd45ef7185",
+      "freshTranslation": "사용되어 가게 되었다. ㊥ 처음에는",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000010",
+      "sourceBindingSha256": "0cf8efa809940bc5d59df3d3f54baf9a1c64da3d9bf74885a3598a67de8cef9f",
+      "sourceTextSha256": "352f20c7dbaf5c18f2bbc9eb712370649843abe81aeb332cd280d48b27762611",
+      "freshTranslation": "용 및 정비의 문제로부터 분해한 상태로 대기하고, 출격할 때마다 현장에서 케이지㊥를 설치하여 조립할 필요가 있었다. 하지만 머리와 양팔을 1호기, 상반신을 2호기, ㊥하체를 3호기로 하는 3블록 구성으로 개량되어 각각 옵션식 자주 시스㊥템을 장착한 것으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000011",
+      "sourceBindingSha256": "8ac21620c8fea6c6f818be111f16d1608fea20ddcb8790b00c4a5f440e5449e4",
+      "sourceTextSha256": "113359ff190f05fedf13eec45f10451a87ad20762b270e20f7b6bf05ecc7ec8f",
+      "freshTranslation": "용성을 향상시키는 데 성공. 게다가 마스코트로 여겨졌을 때 ㊥에는 무게를 완화한다는 이유로 종이 동연이었던 장갑은 본래의 치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000012",
+      "sourceBindingSha256": "a03c7bd3b85b09caf2000d358ab913687fc4d61a6c5140ab8ec41845c13a85a7",
+      "sourceTextSha256": "947cbf81d352cac5ffecdd7d96a63c6cc9448c037d108b703e67ef3116b29bc9",
+      "freshTranslation": "은계 다중 장갑㊥로 돌아가고 있다. ㊥무장은 절삭용 '드릴 암'을 무기로 취급한 것 외에 포획용 '넷암'㊥, 오리지널 프랙",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000013",
+      "sourceBindingSha256": "a8a04bc877d2acc722543d6bce10bb90ae79449bd7e50789d5a7b3c4667b7ebb",
+      "sourceTextSha256": "c4e77733b930a508f05bc4241a5675016f255dcbc8cf6bc3f6824ad1492eb70b",
+      "freshTranslation": "르 노트를 핀 포인트로 파괴하는 \"매듭 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000014",
+      "sourceBindingSha256": "816e6b15ae49d69f1cfef82aa78e3e30036a51bcb304a97545de332ab47fa2fe",
+      "sourceTextSha256": "9e91f5bf47077680c733f44de55f4151368b2c8bf6878c52398f02fe8c2ebd3b",
+      "freshTranslation": "- \"㊥어. 무기라는 카테고리이지만, 민간 기업의 소유물이라고도합니다.㊥까지 대 헤테로다인에 특화된 장비를 가질 뿐이다.㊥나중에 각 무장의 개선",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000015",
+      "sourceBindingSha256": "fab5f8c4939fe5cdfaf4b63dcb09026a2c05cb01c39fb223a0605262dcc80e4b",
+      "sourceTextSha256": "39c4be9a4ba707e723da7c93591baee0f4cca3a69f7c6893746b573f86b1ee75",
+      "freshTranslation": "'노트 파니셔'와 '더블 드릴러'(아카기 명명) ㊥를 장비하여 전투력 강화와 하드웨어 우선순위를 변경하는 OS가 개발되어 기계㊥ 동성 향상을 도모했다. 또한 합체를 용이하게하기 위해 1 호기에 비행 능력을 갖추고 \"㊥ 가드 파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000016",
+      "sourceBindingSha256": "045a74d776f5a65a0eaf84634a5b4c4d392dc687e0efa9382ef0dc4058821f98",
+      "sourceTextSha256": "120a205b7064d076f65ef3f6bbc041c7b9dc7b5f5822d8863c0c77545fad2983",
+      "freshTranslation": "ー」, 2호기에 호버 주행 능력을 추가해 「가드 스트라이커」, 3㊥호기의 각부를 개수해 「가드 비클」(각기의 명칭은 역시 아카기가 명명)으로 한다㊥등 다양한 파워 업이 수시로 행해졌지만, 대 헤테로 다인 용 전투 무기라는 기본 개요㊥만일 변화는 없었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000017",
+      "sourceBindingSha256": "1efc152ca7557f8f3c74694a5c57ed0515e5833ede30ec0bce47980a1e64efde",
+      "sourceTextSha256": "736c6c03f1249fec3696af53070ae9838330e61a83651a88361731b94c79c5a8",
+      "freshTranslation": "21세기 경비보장이 소유하는 기획개발부 홍보 2과 소속의 대헤테로다인용 전투무기. ㊥ 정식 명칭은 \"을식 직립",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000018",
+      "sourceBindingSha256": "d6b9e0b6e80faa91aba535e1ea088b3cf3698c6f8af8e8f6daca0d9709c68cad",
+      "sourceTextSha256": "a4e0b8c254089ee4f2b5392073e89d873fe36f86608b1880f717f9ba020d034c",
+      "freshTranslation": "특수 차량”. ㊥기원 2018년에 처음으로 헤테로다인의 위협에 노출된 인류가 재출현에 대비하여 개발㊥했지만, 이후 12년간 헤테로다인은 출현하지 않고, 유지비만을 먹는 결과가 되어㊥해 버립니다. 나중에 유엔안전보장군이 민영화를 결정한 것으로 군을 대주주로 한 경비회사 ㊥인 21세기 경비보장이 탄생. 다이 가드도 그 소속이 되어 현재에 이르고 있다. ㊥반관반민의 체제가 된 후에도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000019",
+      "sourceBindingSha256": "241525cc009d21b97064d25e6f7cd3cae7033caa27f2b8b1e563907e9200c724",
+      "sourceTextSha256": "cea16e82125d0ea3899765a1f750dcc6a584b8b6b34db136ca61ce8a26454968",
+      "freshTranslation": "용비의 문제는 무시할 수 없고, 유일하게 선전용의 ㊥ 마스코트로 취급되고 있었다. 하지만 사가미만에 12년 만에 두 번째 헤테로다㊥인이 출현했을 때, 우연히 현지에 전시되고 있던 일이나 파일럿이 갖추어져 있던 일 등을㊥계기로 본래의 역할에 돌아와, 그 후에도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000020",
+      "sourceBindingSha256": "029ac640563dedeecde79fb40aa2872c3bd39dcb0f46b701379ab6a3edcc8ba8",
+      "sourceTextSha256": "0ecae4a435816ea186007ce602977ac2ca7224d8caf6535c7ec14abd45ef7185",
+      "freshTranslation": "사용되어 가게 되었다. ㊥ 처음에는",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000021",
+      "sourceBindingSha256": "f05e1eb44f5e87009baa4103c14d6377900b584f51cb532effae5c76b032f4c4",
+      "sourceTextSha256": "352f20c7dbaf5c18f2bbc9eb712370649843abe81aeb332cd280d48b27762611",
+      "freshTranslation": "용 및 정비의 문제로부터 분해한 상태로 대기하고, 출격할 때마다 현장에서 케이지㊥를 설치하여 조립할 필요가 있었다. 하지만 머리와 양팔을 1호기, 상반신을 2호기, ㊥하체를 3호기로 하는 3블록 구성으로 개량되어 각각 옵션식 자주 시스㊥템을 장착한 것으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000022",
+      "sourceBindingSha256": "5e7bda58970a6c7cbac8af38ad41dfd755b9aaeac72cf42592d0de592895daa0",
+      "sourceTextSha256": "113359ff190f05fedf13eec45f10451a87ad20762b270e20f7b6bf05ecc7ec8f",
+      "freshTranslation": "용성을 향상시키는 데 성공. 게다가 마스코트로 여겨졌을 때 ㊥에는 무게를 완화한다는 이유로 종이 동연이었던 장갑은 본래의 치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000023",
+      "sourceBindingSha256": "8b1ae81857fb893232ba42830bda8ccd43c376ac760cb493ed937856bd2be4d7",
+      "sourceTextSha256": "947cbf81d352cac5ffecdd7d96a63c6cc9448c037d108b703e67ef3116b29bc9",
+      "freshTranslation": "은계 다중 장갑㊥로 돌아가고 있다. ㊥무장은 절삭용 '드릴 암'을 무기로 취급한 것 외에 포획용 '넷암'㊥, 오리지널 프랙",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000024",
+      "sourceBindingSha256": "ebe1ba81c8cf358d889fdb48b4df5aece141bfd7859ee0f35cf73e8e9fc06909",
+      "sourceTextSha256": "c4e77733b930a508f05bc4241a5675016f255dcbc8cf6bc3f6824ad1492eb70b",
+      "freshTranslation": "르 노트를 핀 포인트로 파괴하는 \"매듭 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000025",
+      "sourceBindingSha256": "2bcb9194d07b716fe1643b795c21365a0a784b93b42a89582b25036952f7aaed",
+      "sourceTextSha256": "9e91f5bf47077680c733f44de55f4151368b2c8bf6878c52398f02fe8c2ebd3b",
+      "freshTranslation": "- \"㊥어. 무기라는 카테고리이지만, 민간 기업의 소유물이라고도합니다.㊥까지 대 헤테로다인에 특화된 장비를 가질 뿐이다.㊥나중에 각 무장의 개선",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000026",
+      "sourceBindingSha256": "808b6adccb60533cf101d6cc2c66094063708ad63a57ba8b926602e93d6a60ee",
+      "sourceTextSha256": "39c4be9a4ba707e723da7c93591baee0f4cca3a69f7c6893746b573f86b1ee75",
+      "freshTranslation": "'노트 파니셔'와 '더블 드릴러'(아카기 명명) ㊥를 장비하여 전투력 강화와 하드웨어 우선순위를 변경하는 OS가 개발되어 기계㊥ 동성 향상을 도모했다. 또한 합체를 용이하게하기 위해 1 호기에 비행 능력을 갖추고 \"㊥ 가드 파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00167/Sheet1/000027",
+      "sourceBindingSha256": "c7efd9c164164f087f45b7dcbbea8b1a3268d762b7b1b11b654b15c727b5179a",
+      "sourceTextSha256": "120a205b7064d076f65ef3f6bbc041c7b9dc7b5f5822d8863c0c77545fad2983",
+      "freshTranslation": "ー」, 2호기에 호버 주행 능력을 추가해 「가드 스트라이커」, 3㊥호기의 각부를 개수해 「가드 비클」(각기의 명칭은 역시 아카기가 명명)으로 한다㊥등 다양한 파워 업이 수시로 행해졌지만, 대 헤테로 다인 용 전투 무기라는 기본 개요㊥만일 변화는 없었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

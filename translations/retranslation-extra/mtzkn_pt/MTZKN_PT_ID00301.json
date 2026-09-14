@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00301",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00301/Sheet1/000002",
+      "sourceBindingSha256": "9d02483600ebfe490b80836a30be1182e8e1e53be2d62c53ab29e770a7240c4c",
+      "sourceTextSha256": "1e56b9ff86dcef266f12989d9d9c1a049376962d8d547fa14759ae90a788c964",
+      "freshTranslation": "수장기공 단쿠가노바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00301/Sheet1/000003",
+      "sourceBindingSha256": "88fc8f3b2b1b881cccd538ed92e74e49b6adb3116702e41879aaebd4ec0d4d32",
+      "sourceTextSha256": "1daa39c571f7f4eab6b5e6b984d71502c37509b2d223ae93ce096bc3b67197ee",
+      "freshTranslation": "야오 카즈키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00301/Sheet1/000004",
+      "sourceBindingSha256": "dcba7d11399d65e000ec6b3ce41dddac9ec7b3321e5a8a29dc1b509776fcc975",
+      "sourceTextSha256": "50c39ed77f14c4fa800338175e9eddaa9adda5ff659f7f2fa67f03eb06eedf31",
+      "freshTranslation": "드래곤즈하이브의 창립자로 하여 최고 책임자. ㊥ 테이블의 얼굴은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00301/Sheet1/000005",
+      "sourceBindingSha256": "aef18392dcc5622d2ae84c0240ab51004f071e7169a927a975e9e1e2c5bf0c35",
+      "sourceTextSha256": "41db55559d02a87c6707cb45b7ff110d71d713b1d3b4664cc259144404fd3717",
+      "freshTranslation": "ー테인먼트 업계의 대기업 「이골 콘체른」의 총재.㊥뒤에서 국제 연맹 가입국의 정상과 수수께끼의 백만장자로부터의 자금 원조를 받아, 던쿠가 노바를㊥쌓아 올렸다.㊥이름은 그대로 「에후에스」라고 읽지만, 본명은 불명. F. S. 란 포그 스위㊥파의 이니셜을 취한 것으로, 「안개를 지불하는 사람」을 의미한다.㊥한때는 홋카이도인지 과학 뇌 연구소에 재적했고, 운석의 낙하로 피해를 입었습니다.㊥WILL과 조우. 그와 협력하게 되어 드래곤즈하이브를 조직했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00301/Sheet1/000006",
+      "sourceBindingSha256": "55b6b491dc6bca83f6c095854719cfcd59dda96447ef5c06f3008ab9985cca99",
+      "sourceTextSha256": "50c39ed77f14c4fa800338175e9eddaa9adda5ff659f7f2fa67f03eb06eedf31",
+      "freshTranslation": "드래곤즈하이브의 창립자로 하여 최고 책임자. ㊥ 테이블의 얼굴은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00301/Sheet1/000007",
+      "sourceBindingSha256": "88814a68dba7b66ebb3dadf653ade7285b1dd7e42ebe76664847e23bdf08d1d1",
+      "sourceTextSha256": "41db55559d02a87c6707cb45b7ff110d71d713b1d3b4664cc259144404fd3717",
+      "freshTranslation": "ー테인먼트 업계의 대기업 「이골 콘체른」의 총재.㊥뒤에서 국제 연맹 가입국의 정상과 수수께끼의 백만장자로부터의 자금 원조를 받아, 던쿠가 노바를㊥쌓아 올렸다.㊥이름은 그대로 「에후에스」라고 읽지만, 본명은 불명. F. S. 란 포그 스위㊥파의 이니셜을 취한 것으로, 「안개를 지불하는 사람」을 의미한다.㊥한때는 홋카이도인지 과학 뇌 연구소에 재적했고, 운석의 낙하로 피해를 입었습니다.㊥WILL과 조우. 그와 협력하게 되어 드래곤즈하이브를 조직했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

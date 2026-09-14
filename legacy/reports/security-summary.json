@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "publicReleaseBlocked": true,
+  "secretCandidates": [
+    {
+      "path": "gen-lang-client-<redacted>.json",
+      "type": "service-account-private-key"
+    },
+    {
+      "path": "g.py",
+      "type": "google-api-key-literal"
+    },
+    {
+      "path": "trans-test.py",
+      "type": "openai-api-key-literal"
+    }
+  ],
+  "workbookPersonalMetadataDetected": true,
+  "requiredActions": [
+    "revoke-and-rotate-all-detected-keys",
+    "move-new-secrets-to-environment-or-secret-store",
+    "remove-workbook-personal-metadata-before-publication",
+    "scan-release-archive-before-publication"
+  ],
+  "containsSecretValues": false
+}
+

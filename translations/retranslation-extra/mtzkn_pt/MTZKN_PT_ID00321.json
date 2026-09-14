@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00321",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00321/Sheet1/000002",
+      "sourceBindingSha256": "041dc91370bb0922e5bcb6d53eb4ea48bc87ae09e8952ed9f026faa4199b9df3",
+      "sourceTextSha256": "d790e20b7162b69141dcaf0970c10c2a3e02b5efd07e8d9c95a2fd8d3c382b10",
+      "freshTranslation": "테츠칸 리트너",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00321/Sheet1/000003",
+      "sourceBindingSha256": "7358c59b0b44039c35e81f6457a72412739ebf3a65111e6592478c51011526d4",
+      "sourceTextSha256": "6d6be8f5fcbebba0ad470df7d092d2c377bb193f26bb4c6e908246a8163b6760",
+      "freshTranslation": "테츠칸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00321/Sheet1/000004",
+      "sourceBindingSha256": "ebe6c765e3a5263bf89cc257eaa8b72031cdc100b9d9781c0260cdc0948b834a",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00321/Sheet1/000005",
+      "sourceBindingSha256": "3a756d98da852c83ee278742e5989dceba069c0e2dfe1e8f822285a7ca60136a",
+      "sourceTextSha256": "6b5ec4efe92b102b739a87027fe9e5a5b265621979c48e621cd613927458b97b",
+      "freshTranslation": "신정부의 과학 국원. ㊥ 이전에는 다이글렌의 감시 역할로, 현재는 책상 작업에서 항상 철야 계속 매 ㊥ 일을 보내고 있기 때문에 눈 아래에는 항상 곰이되어있다. 게다가 현재는 신체를 움직이는 ㊥ 잃어버린 적도 있어 상당히 맹폭이 좋아졌다. ㊥ 큰 글렌 그룹의 멤버가 우주로 여행 할 때,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00321/Sheet1/000006",
+      "sourceBindingSha256": "c3ddbb48d40ccc6700cbd853d8e0d019a5e7f36c91293f582de75a8a896ed1eb",
+      "sourceTextSha256": "76d8a3e82d07e015512092ee03f79048d14dd7c594a940d437a6db4e0de18d81",
+      "freshTranslation": "-로 변함없는 분투로 주위㊥을 서포트했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00321/Sheet1/000007",
+      "sourceBindingSha256": "bfb5b19ff9225ce969201afbd181da5bd51c2d1a76c5e001e552ccc4585edc6d",
+      "sourceTextSha256": "6b5ec4efe92b102b739a87027fe9e5a5b265621979c48e621cd613927458b97b",
+      "freshTranslation": "신정부의 과학 국원. ㊥ 이전에는 다이글렌의 감시 역할로, 현재는 책상 작업에서 항상 철야 계속 매 ㊥ 일을 보내고 있기 때문에 눈 아래에는 항상 곰이되어있다. 게다가 현재는 신체를 움직이는 ㊥ 잃어버린 적도 있어 상당히 맹폭이 좋아졌다. ㊥ 큰 글렌 그룹의 멤버가 우주로 여행 할 때,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00321/Sheet1/000008",
+      "sourceBindingSha256": "df074c5f153d53158237ab026d16c35852461e49e3bfe85aec9b398e8344100e",
+      "sourceTextSha256": "76d8a3e82d07e015512092ee03f79048d14dd7c594a940d437a6db4e0de18d81",
+      "freshTranslation": "-로 변함없는 분투로 주위㊥을 서포트했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

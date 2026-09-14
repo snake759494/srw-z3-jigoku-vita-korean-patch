@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00375",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00375/Sheet1/000002",
+      "sourceBindingSha256": "c469b5e23d28ae6976219465a06cdc69ee49c943daa106e6140da507f305253a",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00375/Sheet1/000003",
+      "sourceBindingSha256": "3f680a0b1fce83df269465e6227b028c2875a953fc8db58ac898651e6016f965",
+      "sourceTextSha256": "6412e3c314ba0b271e7932fe2c0b373704cf71b9562e784f84fcf35be8842d45",
+      "freshTranslation": "후지무라 걸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00375/Sheet1/000004",
+      "sourceBindingSha256": "005418c6ed11785466a558cbe7e27c466023d007fc42d01bbb4bbb5fb0f50889",
+      "sourceTextSha256": "a011736ed2d5e62c40c512b50fefea09cf8be0736d18f5e6cf6be537b1d880d6",
+      "freshTranslation": "알테아 군인. ㊥ 알테아에 데려간 MIX가 '이브의 저주'의 영향으로 육체가 남성화되어 ㊥ 버린 모습. ㊥ 기억이 조작되고 있어 과거의 기억이 없어지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00375/Sheet1/000005",
+      "sourceBindingSha256": "4d3061b6eb9f470674f458a63d25c80508e4a887d527fb7bf0e07a08319edcc6",
+      "sourceTextSha256": "3ca7fc5a2cc677b0fd7b98ddd43b969146e4118e77e8429659be05ba4471e0b7",
+      "freshTranslation": "알테아 군인. ㊥ 알테아에 데려간 MIX가 '이브의 저주'의 영향으로 육체가 남성화되어 ㊥ 버린 모습. ㊥ 기억이 조작되고 있어 과거의 기억이 없어지고 있다. ㊥이지만, 앤디의 재삼의 호소에 의해, 곧 기억을 되찾아, 앤디와 함께 ㊥에 무사히 네오디바에 귀환했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

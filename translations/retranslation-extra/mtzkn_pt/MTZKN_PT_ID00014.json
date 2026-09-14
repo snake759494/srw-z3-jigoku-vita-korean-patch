@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00014",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00014/Sheet1/000002",
+      "sourceBindingSha256": "d7d1aeb3da71289811277fa82f9a62302f4ebf61013c0078e552e6a58276f356",
+      "sourceTextSha256": "17c2b50ec558852cccfa0462cb49a232376194e3f35e29955420d910e1718209",
+      "freshTranslation": "블랙옥스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00014/Sheet1/000003",
+      "sourceBindingSha256": "275da3242d287916843c7b8de6d0cf1ee8b76eab38e3fc9157f49113915be584",
+      "sourceTextSha256": "17c2b50ec558852cccfa0462cb49a232376194e3f35e29955420d910e1718209",
+      "freshTranslation": "블랙옥스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00014/Sheet1/000004",
+      "sourceBindingSha256": "74e2f42c2586104e220f96a6b7bc03c092b5d8dc4c875b1dfc5ca570509f730e",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00014/Sheet1/000005",
+      "sourceBindingSha256": "878aac1dd2bc02afec37b410880ea8f50255f2f5fd559132ab46724d7eb88007",
+      "sourceTextSha256": "f2358b551d53d896399f1ac395deaf004a9de1742f80752708baa7868b3d0fc0",
+      "freshTranslation": "X단의 지하 공장에서 개발된 의사를 가진 로봇. ㊥ 본래라면, 낳은 부모인 불란권박사의 전두뇌가 복사될 것이었지만, ㊥10만분의 1곳에서 복사가 중단되었기 때문에, 지능은 3세 아동이 되어 버렸다. ㊥ 파워나 스피드 등, 철인을 이기면 못지않은 성능을 가진다. 또한 눈으로부터는, ㊥등 느슨한 메카를 정지시키는 강력한 전자기 광선이 방출된다. ㊥X단에 의해 불란권박사가 살해된 뒤 한번은 부지마 박사에게 맡겨졌지만, X단의 가㊥ 응갈이 불란권 박사로 변장해 명령을 내렸기 때문에 철인과 싸우게 되었다. ㊥강갈이 쓰러진 뒤는 스스로의 의사로 철인과 함께 싸우게 되어, 든든한 동료인 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00014/Sheet1/000006",
+      "sourceBindingSha256": "8a314a9a5031d8e068b13dc7a5705d284507e61ffc0dedc6a10792a8d304d4eb",
+      "sourceTextSha256": "49bcdd7b98df425c69178bd659e83d88df2958e928511c0c823c5ca8affd74e4",
+      "freshTranslation": "X단의 지하 공장에서 개발된 의사를 가진 로봇. ㊥ 본래라면, 낳은 부모인 불란권박사의 전두뇌가 복사될 것이었지만, ㊥10만분의 1곳에서 복사가 중단되었기 때문에, 지능은 3세 아동이 되어 버렸다. ㊥ 파워나 스피드 등, 철인을 이기면 못지않은 성능을 가진다. 또한 눈으로부터는, ㊥등 느슨한 메카를 정지시키는 강력한 전자기 광선이 방출된다. ㊥X단에 의해 불란권박사가 살해된 뒤 한번은 부지마 박사에게 맡겨졌지만, X단의 가㊥ 응갈이 불란권 박사로 변장해 명령을 내렸기 때문에 철인과 싸우게 되었다. ㊥강갈이 쓰러진 뒤는 스스로의 의사로 철인과 함께 싸우게 되어, 든든한 동료인 ㊥했다. ㊥ 후에 키시마 박사로부터 교육을 받아 싸움과 행동에 성장을 보인다. 철인이 굴라에 쫓아 ㊥ 막혔을 때에는 깔끔하게 달려 핀치를 구했다. ㊥ 계속되는 싸움에도 몸을 던지지만, 최면 장치를 붙인 것으로 자아를 잃고, 다시 철인의 적 ㊥이 되어 버린다. 싸움 속에서 장치는 파괴되어 나에게 돌아오지만, 스스로의 실수를 되찾은 ㊥째에 무차한 싸움을 하고, 그 몸을 흩뜨리게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

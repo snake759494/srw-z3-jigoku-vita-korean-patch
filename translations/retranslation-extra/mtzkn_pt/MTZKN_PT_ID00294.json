@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00294",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00294/Sheet1/000002",
+      "sourceBindingSha256": "416ea355dd5c27fcb52c4f7c29e03afdda942712e492394990d820b996ea46b2",
+      "sourceTextSha256": "c1f67305032260a9558d27c2d0ee453a33a10dffce5e9a524d96c26d6dd4df4c",
+      "freshTranslation": "나츠타마 요시히로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00294/Sheet1/000003",
+      "sourceBindingSha256": "b3bc7a8628357272447584b2b17bd66b6f6a518dba1b55f2f8d951fda40d63f4",
+      "sourceTextSha256": "dcf7ff56621c29f73d794acee58113f01513c92132d8394ab62fc7e41ab96bf6",
+      "freshTranslation": "타마요시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00294/Sheet1/000004",
+      "sourceBindingSha256": "b690ba4b333c3b96b78c91082c612b83ec48f257874d4a4aad5f6deeed41b64d",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00294/Sheet1/000005",
+      "sourceBindingSha256": "1513626379a187ec654c644e5230c9452b641571def4a6220f282a8e737893db",
+      "sourceTextSha256": "6cbead29f5f3666f5882c4fd6c0d7e56e8208850dd34efe1c72cd7834907e4e2",
+      "freshTranslation": "르 패닉! TheSecondRaid",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00294/Sheet1/000006",
+      "sourceBindingSha256": "624b2169588037f648aaee58ff1f5a8f585d90d676c80deba3ec0d54a7b04be4",
+      "sourceTextSha256": "a0d3966d75292b9c6c80cc9edaadf09a7badba3a1c1589aa2be999c594242dad",
+      "freshTranslation": "시노하라 에미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00294/Sheet1/000007",
+      "sourceBindingSha256": "6b2d2b595dd55739e14b2813539694b92b0b01454dfc1ba7b4e2791e2e8dd7c2",
+      "sourceTextSha256": "2a7c7257415d0e385e57cb5e75eb084db13ed760586d3d9f8f3d52ebd368d23c",
+      "freshTranslation": "비밀 조직 아말감에 속하는 소녀. 16세. ㊥명은 '샤유이환'이라고 읽는다. ㊥ 고도의 훈련을 받은 암살자로, AS의 조종에 뛰어나다. ㊥ 항상 무표정이지만, 쌍둥이 여동생·타마란에게는 깊은 애정을 보인다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00294/Sheet1/000008",
+      "sourceBindingSha256": "d79ad33a4a917ee6732d8bda63fa2a6671574caafaf3493e8f012c995074b089",
+      "sourceTextSha256": "f46978e867e06259985b608ddbe98907ebbc1c6ba9c78bd3d0d5c934f94b4e34",
+      "freshTranslation": "비밀 조직 아말감에 속하는 소녀. 16세. ㊥명은 '샤유이환'이라고 읽는다. ㊥ 고도의 훈련을 받은 암살자로, AS의 조종에 뛰어나다. ㊥ 항상 무표정이지만, 쌍둥이 여동생·타마란에게는 깊은 애정을 보인다. 또한 전투기술을 넣어 ㊥된 가우룬을 '선생님'이라고 부르며 심취하고 있다. ㊥ 나가에 횡단 터널 내에서의 사건에서는 Zy-98 그림자를 타고 크루츠의 M9와 ㊥ 전투. 그를 앞으로 한 걸음까지 몰아넣는다. ㊥ 그 후, 소스케를 노리는 가우른의 명령을 수행하기 위해 조직을 탈주하고, 미스릴을 ㊥ 몰아들이기 위해 홍콩의 거리를 파괴하지만, 마지막은 전 상관의 게이츠에 숙청된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00106",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00106/Sheet1/000002",
+      "sourceBindingSha256": "dc0b2f462b0d0cb70f3c5776715d549c4e1c00c626ed72a2c4d57e1669aea877",
+      "sourceTextSha256": "731941a5853c57b871e7ec7402e93f755b0248f857b75b582342e3e13e0e8d1a",
+      "freshTranslation": "할렐루야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00106/Sheet1/000003",
+      "sourceBindingSha256": "aca8a2425509ed4d7f58abca9a403b515c1661df28c67f6aa1cf9a79fcf2d06a",
+      "sourceTextSha256": "731941a5853c57b871e7ec7402e93f755b0248f857b75b582342e3e13e0e8d1a",
+      "freshTranslation": "할렐루야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00106/Sheet1/000004",
+      "sourceBindingSha256": "4fa054218337e28e16de90c0e2dd18bd83b9f814593e8ca6616875116df87c07",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00106/Sheet1/000005",
+      "sourceBindingSha256": "b08ca29d3581b4ef01e919d983f333711d22b349456bf060fa1893e84906cfce",
+      "sourceTextSha256": "b8fbf564ca9335f7cbed21d09c81301d11bf1bdef3261468d3604321334e64fa",
+      "freshTranslation": "요시노 유유",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00106/Sheet1/000006",
+      "sourceBindingSha256": "21dc5203b33c677fa22e581c7fe289689502c9d89ed2c02b80e7268d7ea75a3a",
+      "sourceTextSha256": "aff9fe583843a4071d3ec9e81881cb845a5d04c7cd4e99ed55b8d8cf3ff13014",
+      "freshTranslation": "알레르야 안에 숨어있는 또 다른 인격. ㊥ 초인기관에서 뇌양자파 처치를 했을 때 탄생한 인격으로 온화한 알레르야와 달리 ㊥ 흉포하고 잔학성을 가지고 있다. 유엔군과의 싸움으로 사라졌다고 생각되었지만, 트윈드㊥라이브의 GN입자에 의해 부활을 한다. ㊥ 알레르야와의 공존도 가능해져, 두 사람의 의식을 동시에 각성시킨 상태에서 모빌스㊥ 츠를 조종하는 것으로, 반사와 사고의 융합했다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00106/Sheet1/000007",
+      "sourceBindingSha256": "2f97c48480f3371598304d22100f2f2be62dbf0055a7e45deedf24d5778306bc",
+      "sourceTextSha256": "a87dddf31223406eb1b12312a0878f2f60c36cc52d65413a1c741453e9e5e83e",
+      "freshTranslation": "의 초병의 힘을 발휘할 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00106/Sheet1/000008",
+      "sourceBindingSha256": "c2afd4ff67f03bf510d98635e54f5ff8d1c5b7cca833b5794bad3a04b1b45fb9",
+      "sourceTextSha256": "aff9fe583843a4071d3ec9e81881cb845a5d04c7cd4e99ed55b8d8cf3ff13014",
+      "freshTranslation": "알레르야 안에 숨어있는 또 다른 인격. ㊥ 초인기관에서 뇌양자파 처치를 했을 때 탄생한 인격으로 온화한 알레르야와 달리 ㊥ 흉포하고 잔학성을 가지고 있다. 유엔군과의 싸움으로 사라졌다고 생각되었지만, 트윈드㊥라이브의 GN입자에 의해 부활을 한다. ㊥ 알레르야와의 공존도 가능해져, 두 사람의 의식을 동시에 각성시킨 상태에서 모빌스㊥ 츠를 조종하는 것으로, 반사와 사고의 융합했다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00106/Sheet1/000009",
+      "sourceBindingSha256": "31b83242d659fa098187ac75c581b57936eba124924abc775f0aee0ffaf34d01",
+      "sourceTextSha256": "a87dddf31223406eb1b12312a0878f2f60c36cc52d65413a1c741453e9e5e83e",
+      "freshTranslation": "의 초병의 힘을 발휘할 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

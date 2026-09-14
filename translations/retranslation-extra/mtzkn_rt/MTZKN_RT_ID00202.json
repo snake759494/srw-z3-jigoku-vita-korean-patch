@@ -1,0 +1,159 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00202",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00202/Sheet1/000002",
+      "sourceBindingSha256": "e01ff07089a549a8b256270c4c728cf6d2b845f040b2298b151a39ac6da7c1ee",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00202/Sheet1/000003",
+      "sourceBindingSha256": "4def11c2223b41a4c057aa4ad83644e6e63729741ae4bc0a88b0d983f764f189",
+      "sourceTextSha256": "294e5e8c0fe2e8eecad342054711923126ee0492e431fedeec2113f81bcbc623",
+      "freshTranslation": "우주 킹키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00202/Sheet1/000004",
+      "sourceBindingSha256": "4ae506f8c34647fcefa295158f2740866d617c15f355c07f8fd26aaa7441754c",
+      "sourceTextSha256": "294e5e8c0fe2e8eecad342054711923126ee0492e431fedeec2113f81bcbc623",
+      "freshTranslation": "우주 킹키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00202/Sheet1/000005",
+      "sourceBindingSha256": "ed186a27d972313c6d1c27f70b1341967ba84fc372ed4a0b7e6f8fa9546264a0",
+      "sourceTextSha256": "8952fca57f74f5f0ef8fe83b2d2082c0ee95ab9e1cc9d7acff109e29e93c70f7",
+      "freshTranslation": "n 바티카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00202/Sheet1/000006",
+      "sourceBindingSha256": "06af34574a98346b1998c994fa6f4a760d808745ab42f8ffc35d6c4395cc6f14",
+      "sourceTextSha256": "b34b58bcd32af23fdc12aa6be91446c8fb02af6bceab80d6557144bc33c3f177",
+      "freshTranslation": "키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00202/Sheet1/000007",
+      "sourceBindingSha256": "c9e1d2424f5b0945ee4d36675596e9b69b3881b6533f260f02e572a012687dbf",
+      "sourceTextSha256": "19a436e0b9c944251db961e34ea0e2c39f6c289dee3855e2192e8234a3685134",
+      "freshTranslation": "의 조종 스페이스 건멘. ㊥ 눈빛의 나쁨은 그대로, 정면에 더해 뒷면에도 얼굴이 붙었다. ㊥ 다른 감정을 능가하는 두꺼운 장갑을 갖고 머리와 가랑이에 대비하는 부스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00202/Sheet1/000008",
+      "sourceBindingSha256": "710320c2ceb6ee7ece0172ffd7ed040e22fdd639e914c1850d6736e10ea5f4eb",
+      "sourceTextSha256": "e52063932e27c9a2f0da4780670863691ee37aeb24eb594ba8d2aa33115ac8a1",
+      "freshTranslation": "-에 의해㊥속력도 도와 예각적인 바디의 이미지 그대로의 돌파력을 자랑한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00202/Sheet1/000009",
+      "sourceBindingSha256": "4808690eb92b3bbb32dc5679ee7caf9aff3bc548a83d0725f4e1b225c1fe3a63",
+      "sourceTextSha256": "b34b58bcd32af23fdc12aa6be91446c8fb02af6bceab80d6557144bc33c3f177",
+      "freshTranslation": "키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00202/Sheet1/000010",
+      "sourceBindingSha256": "062142c07a2056ee023eac9d946cca130fcf2609e283b145e190c50d4539a295",
+      "sourceTextSha256": "19a436e0b9c944251db961e34ea0e2c39f6c289dee3855e2192e8234a3685134",
+      "freshTranslation": "의 조종 스페이스 건멘. ㊥ 눈빛의 나쁨은 그대로, 정면에 더해 뒷면에도 얼굴이 붙었다. ㊥ 다른 감정을 능가하는 두꺼운 장갑을 갖고 머리와 가랑이에 대비하는 부스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00202/Sheet1/000011",
+      "sourceBindingSha256": "05c4e19ecc28a0ffa1e0f86a7ebc39bb52c17e68a39f78102ac78a296eee0a35",
+      "sourceTextSha256": "9256196bb8733a094dd2b4e0a84b27dbb954721870764ef524ac267d4aead247",
+      "freshTranslation": "-에 의해㊥속력도 도와 예각적인 바디의 이미지 그대로의 돌파력을 자랑한다.㊥은하 나선 해구의 초중력장에서는 중장비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00202/Sheet1/000012",
+      "sourceBindingSha256": "b400b8c06a77c94e946512c1d383dcf373ee8bcd3329761808691ee76c2bce3b",
+      "sourceTextSha256": "a5799d26609df08a1ced7bfad7a387fc45f30d997f2af2cad0fbc8dca8f1cb7c",
+      "freshTranslation": "되어 본래의 특성을 살려 고속㊥이동으로 적진을 돌파한다. 외장이야말로 파괴되었지만 내부 킹키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00202/Sheet1/000013",
+      "sourceBindingSha256": "eb1ce76db07c8f94fe1659ed5452c9dfb459ccdee92d1355199db1e6d3bf12a4",
+      "sourceTextSha256": "ecc9cfd8199cdf14246ee0fce17fcfcdb95fc648f1adfdfdba7ca5e915c8c077",
+      "freshTranslation": "에 의한 키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00202/Sheet1/000014",
+      "sourceBindingSha256": "846a4d6999a38d1e223b2a7cbdf320f5aa2b4bf4f2c27d1accf7ac22692818b3",
+      "sourceTextSha256": "cc096a6fdaf56e6cc974b91ce023605cd1b17460e0f4d9707cd4358f709a0818",
+      "freshTranslation": "의 생명을 태운 기가드릴 브레이크에 의해, 데스 스파이럴 머신을 관철해, ㊥ 시몬들을 구했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

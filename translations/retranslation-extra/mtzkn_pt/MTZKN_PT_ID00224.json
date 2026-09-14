@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00224",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00224/Sheet1/000002",
+      "sourceBindingSha256": "8df8f856f7fd2c28785ebd3faa5fb80f0fd459525913d13b30429b0374cfd7bc",
+      "sourceTextSha256": "c57cd1e39da411d665ec77175e81ac23f01b536dd57e1ad2e9a69d9e1ae65a3c",
+      "freshTranslation": "이리에 시즈카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00224/Sheet1/000003",
+      "sourceBindingSha256": "1a1c614c192eb810e8680de06a4c7b66aba8e44bb28dd9a0303ccf8a34d34c79",
+      "sourceTextSha256": "90ff2c6e740dc0949ccff619ab1f5b924b6fb2cf00d898d19e0b30d810175291",
+      "freshTranslation": "이리에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00224/Sheet1/000004",
+      "sourceBindingSha256": "d76d376b26e49731e6f4017baacf637d5c481c75e7b24675c5f0e01b27e4c2a3",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00224/Sheet1/000005",
+      "sourceBindingSha256": "3a0739ec421e6be4f89858b70bd9d6e05888f2b015a7f27e5d89d5bb54c6262b",
+      "sourceTextSha256": "004091ca73f3202c651de1cbfd7a066e1228083def8d2e4524b662134b964c33",
+      "freshTranslation": "홍보 2과의 여자 과원. 20세. ㊥정보 분석 능력이 뛰어나며, 어떤 사태에도 안색 하나 바꾸지 않고 맞는 냉정 침착을 ㊥ 가진다. ㊥이지만, 가끔 사람이 바뀐 듯한 개그를 날리는 일도 있는 등, 포착할 수 없는 성㊥격을 하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00224/Sheet1/000006",
+      "sourceBindingSha256": "429629e5b574769f68f8c5845b6b6ff94978e2f59f0f147cd9e643ab14c7d8d0",
+      "sourceTextSha256": "004091ca73f3202c651de1cbfd7a066e1228083def8d2e4524b662134b964c33",
+      "freshTranslation": "홍보 2과의 여자 과원. 20세. ㊥정보 분석 능력이 뛰어나며, 어떤 사태에도 안색 하나 바꾸지 않고 맞는 냉정 침착을 ㊥ 가진다. ㊥이지만, 가끔 사람이 바뀐 듯한 개그를 날리는 일도 있는 등, 포착할 수 없는 성㊥격을 하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

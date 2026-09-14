@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00084",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00084/Sheet1/000002",
+      "sourceBindingSha256": "2983f8da3c2d275a3f6170ba296ff8f89c8ae82e195f1a6f2079d62dca10af4f",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00084/Sheet1/000003",
+      "sourceBindingSha256": "2c82a10a3c984a79ed98ec9d760d700b21dc94e349b6824c14a3bf91b40f5bfe",
+      "sourceTextSha256": "40d60fc09c99da52bd7eaefc5efd075f7299c5302060276b13553c1a5c3afcf2",
+      "freshTranslation": "델",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00084/Sheet1/000004",
+      "sourceBindingSha256": "18412ed6ecb9c0040390c43291c50135beb2ef208e0e0178eeb953ba7d1de67f",
+      "sourceTextSha256": "db317ffbc7f8dda0291b4e4e50fa5c524097c3725c746f70fb71209a166cbf58",
+      "freshTranslation": "플러스(WR)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00084/Sheet1/000005",
+      "sourceBindingSha256": "fca4ffec91c59b5a67e9d364ad075a763d12359de484be776a571b5350bf0a06",
+      "sourceTextSha256": "40d60fc09c99da52bd7eaefc5efd075f7299c5302060276b13553c1a5c3afcf2",
+      "freshTranslation": "델",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00084/Sheet1/000006",
+      "sourceBindingSha256": "b8d6a1c26c387f38e0d4bfbea7c97b459c976d2e953f7bbda1a2a2d1ec8f378c",
+      "sourceTextSha256": "db317ffbc7f8dda0291b4e4e50fa5c524097c3725c746f70fb71209a166cbf58",
+      "freshTranslation": "플러스(WR)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00084/Sheet1/000007",
+      "sourceBindingSha256": "b50af030623c035843ba84bfc40b304f77da2bcc8af29760adbf12230d56f4d1",
+      "sourceTextSha256": "69332d056eb1d600706336d2bede202d7558151670e899fc0dd3bc6a122bd21d",
+      "freshTranslation": "리디 마세나스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00084/Sheet1/000008",
+      "sourceBindingSha256": "64233807aef1168988c87dd956041209363f997aaca944fcf920cfc6d240f66d",
+      "sourceTextSha256": "40d60fc09c99da52bd7eaefc5efd075f7299c5302060276b13553c1a5c3afcf2",
+      "freshTranslation": "델",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00084/Sheet1/000009",
+      "sourceBindingSha256": "edbb5cc1b4ef9f4ed36cee5c78c41771c2b0e0f7a8f5c92dca798465ab58644b",
+      "sourceTextSha256": "9591d622906c1acc84e74c2a6e1a7f3bd89a08cbfd4b1d4599ca0a2bd50ced7d",
+      "freshTranslation": "플러스 웨이브 라이더 형태. ㊥ 단독으로 대기권 돌입과 중력하에서 비행이 가능. ㊥Z 건담의 가변 기능을 더욱 발전시키는 것을 목적으로 설계되어 있어, 가변 날개가 되는 ㊥ 플렉시블 바인더의 탑재나, 슬러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00084/Sheet1/000010",
+      "sourceBindingSha256": "aea1e2c5b2d3a53cfa7d06452f5c3b1ae7f67e583d91d404fc04068cb1da186e",
+      "sourceTextSha256": "ace065391a1b8c97465f88e50eb2f07e867416b4fdaaa155e980ccb39eb82e19",
+      "freshTranslation": "-를 후부에 집중시킨 일 등으로, 공전㊥ 능력의 향상을 도모하고 있다. ㊥모빌슈트 형태시에는 실드로서 사용되는 파츠가 기수가 되어, 선단에는 ㊥센서류나 빔 캐논, 수류탄등의 무장이 베풀어지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00084/Sheet1/000011",
+      "sourceBindingSha256": "7f5ddcd497d1f669d817a45fe67f94279874e1a2c54539a29fab3949ff630a53",
+      "sourceTextSha256": "40d60fc09c99da52bd7eaefc5efd075f7299c5302060276b13553c1a5c3afcf2",
+      "freshTranslation": "델",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00084/Sheet1/000012",
+      "sourceBindingSha256": "1a5ad9db59425fda8feafcc5939963ee56ffb9c5862a520d1f11fd025098821c",
+      "sourceTextSha256": "9591d622906c1acc84e74c2a6e1a7f3bd89a08cbfd4b1d4599ca0a2bd50ced7d",
+      "freshTranslation": "플러스 웨이브 라이더 형태. ㊥ 단독으로 대기권 돌입과 중력하에서 비행이 가능. ㊥Z 건담의 가변 기능을 더욱 발전시키는 것을 목적으로 설계되어 있어, 가변 날개가 되는 ㊥ 플렉시블 바인더의 탑재나, 슬러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00084/Sheet1/000013",
+      "sourceBindingSha256": "6424ae8d6ff009d31527d78900150babf24e7540a817114be8a3e4dfe1b43145",
+      "sourceTextSha256": "ace065391a1b8c97465f88e50eb2f07e867416b4fdaaa155e980ccb39eb82e19",
+      "freshTranslation": "-를 후부에 집중시킨 일 등으로, 공전㊥ 능력의 향상을 도모하고 있다. ㊥모빌슈트 형태시에는 실드로서 사용되는 파츠가 기수가 되어, 선단에는 ㊥센서류나 빔 캐논, 수류탄등의 무장이 베풀어지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

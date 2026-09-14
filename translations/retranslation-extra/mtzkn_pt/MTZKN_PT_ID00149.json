@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00149",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00149/Sheet1/000002",
+      "sourceBindingSha256": "f416cf85298f21d4e934c9f935d0a1f3d88ffacf3d5c7fcb1e387cf07ce6d6b9",
+      "sourceTextSha256": "ec8b711bd1eb39c7c3594c374739d34caee9bbf99a41fe09e9bb3dcbd35ecdc7",
+      "freshTranslation": "베슨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00149/Sheet1/000003",
+      "sourceBindingSha256": "de5af7fe74a5508d265f571c1e82db493e627bb9d2122d238e5003870687c981",
+      "sourceTextSha256": "ec8b711bd1eb39c7c3594c374739d34caee9bbf99a41fe09e9bb3dcbd35ecdc7",
+      "freshTranslation": "베슨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00149/Sheet1/000004",
+      "sourceBindingSha256": "287b9b6fc0d8b6679d64d95442a148cbe58bdadc048843a3bb4f308ade5d0aae",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00149/Sheet1/000005",
+      "sourceBindingSha256": "53b95324bde4d8613f0f5d12e0d3e544a6b609612f582a6cdc450a1ea6f51515",
+      "sourceTextSha256": "58f37895d215e778caad0489c6d77c4b2b89b5fb726b5f0f74ed00436092de15",
+      "freshTranslation": "소매가 달린 갈란셰르대대원. ㊥ 밀항한 오드리를 되찾기 위해 산업 7에 잠입했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00149/Sheet1/000006",
+      "sourceBindingSha256": "26f2ee835969fb2836720ec3a6ae02474abdf966330b0de022b3cb912eeb95f8",
+      "sourceTextSha256": "58f37895d215e778caad0489c6d77c4b2b89b5fb726b5f0f74ed00436092de15",
+      "freshTranslation": "소매가 달린 갈란셰르대대원. ㊥ 밀항한 오드리를 되찾기 위해 산업 7에 잠입했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

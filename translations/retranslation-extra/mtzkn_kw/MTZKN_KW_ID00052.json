@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00052",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00052/Sheet1/000002",
+      "sourceBindingSha256": "b5c9aecb0d2a394e58f726be9b1364fc629d6c55fa2c2e54efb982d2b7af950b",
+      "sourceTextSha256": "3b35064e5ecc6a0cf05ccc9c70f09341cb44895414ef503fa7c47cf6e3d7506f",
+      "freshTranslation": "트로하치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00052/Sheet1/000003",
+      "sourceBindingSha256": "a9e74d48ba10e2984756996a45a1627bc4c93ae77962b19fb56409016a8a81e2",
+      "sourceTextSha256": "5673d206dec7b1c89a192bd4c2df145af3faa5bfe5a66f65c798ff4a8a7aadf4",
+      "freshTranslation": "「기동전사 건담 UC」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00052/Sheet1/000004",
+      "sourceBindingSha256": "11da34a888c3c90b5451eb465d671620d21b0493f92af796f6fa8f4a9889524f",
+      "sourceTextSha256": "569af1a47dbdf05386a101de6852ecf1ea9cabdc6e02bfcc05175badcaf0bf16",
+      "freshTranslation": "최신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00052/Sheet1/000005",
+      "sourceBindingSha256": "3e37084c97fde044755b4f0e841dd417f84d28aff291021c688576047688ae5a",
+      "sourceTextSha256": "88284e1d8d755f420fdc3ba61dc79c4185cb3067f005f462036945fa4fbb8552",
+      "freshTranslation": "작업용 쁘띠 모빌 슈트. ㊥ 정식 명칭은 「토루로 사제 쁘띠 모빌 슈트 TOLRO-800",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00052/Sheet1/000006",
+      "sourceBindingSha256": "47e191c68fd0371495ad82409c2cf8065a32fa441fde86f684e0aded99e9bf65",
+      "sourceTextSha256": "306294b507eaa93d9d7263593f5059652f9a6c88b6c3c679771fa3db478c2dc1",
+      "freshTranslation": "\"그러나,㊥로하치의 애칭이 정착하고 있다.㊥산업 7에서도 사용되며이 기체로 배너지는 떨어집니다.㊥오드리를 받아들이고 그 위기를 구했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00052/Sheet1/000007",
+      "sourceBindingSha256": "3b20bf975fec1a3873f04fa24407c92a12533c48bc0b6c15dae7dd4efb5e9b57",
+      "sourceTextSha256": "569af1a47dbdf05386a101de6852ecf1ea9cabdc6e02bfcc05175badcaf0bf16",
+      "freshTranslation": "최신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00052/Sheet1/000008",
+      "sourceBindingSha256": "6318a3d362b91fe826da7a16e1ff2fc38c5cfedaf5319e0a993dd828b41b10ca",
+      "sourceTextSha256": "88284e1d8d755f420fdc3ba61dc79c4185cb3067f005f462036945fa4fbb8552",
+      "freshTranslation": "작업용 쁘띠 모빌 슈트. ㊥ 정식 명칭은 「토루로 사제 쁘띠 모빌 슈트 TOLRO-800",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00052/Sheet1/000009",
+      "sourceBindingSha256": "440eea9466fb3ecadf3f476ecc30b0c00d06419305d8ae178fd472811c2dd276",
+      "sourceTextSha256": "306294b507eaa93d9d7263593f5059652f9a6c88b6c3c679771fa3db478c2dc1",
+      "freshTranslation": "\"그러나,㊥로하치의 애칭이 정착하고 있다.㊥산업 7에서도 사용되며이 기체로 배너지는 떨어집니다.㊥오드리를 받아들이고 그 위기를 구했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

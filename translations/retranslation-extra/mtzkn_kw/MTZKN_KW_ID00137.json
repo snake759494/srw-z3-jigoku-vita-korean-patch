@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00137",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00137/Sheet1/000002",
+      "sourceBindingSha256": "dab1ae14e181aa6968a567d12b4d169592d125aac4987bb06ade92ea807549a7",
+      "sourceTextSha256": "29be74e1cc68c7b8a9ebf8dbaa516ce76b63a2feb26d805105a297fd967b4a2f",
+      "freshTranslation": "메트로폴리스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00137/Sheet1/000003",
+      "sourceBindingSha256": "49c6cc94592e883c53b28367df45246fe4ceae6c902a0c1b5d93a76ecf6153b7",
+      "sourceTextSha256": "9e174dbe341e73750196d19602a21f1d24887bd3b8b5c37df53e3918174f45db",
+      "freshTranslation": "「THE 빅오」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00137/Sheet1/000004",
+      "sourceBindingSha256": "e4068d598c7a4583187516420bd7ec0e40dfcef931fe71c01c70b139e30ddbc5",
+      "sourceTextSha256": "9eea75a37cb59965eadbe82504bb7f562def9501429aee4476fd2c5448f8178d",
+      "freshTranslation": "이전 패러다임 사장의 고든 로즈워",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00137/Sheet1/000005",
+      "sourceBindingSha256": "cf2b2e855fae3fe17bf21d6b5b91fff49472579ea5bb0756e083cb93521c4df8",
+      "sourceTextSha256": "cb2f798a9ead24975735f2762a050fdab19f33ea1ba9c54080ed363ee6189759",
+      "freshTranslation": "의 저서. ㊥ 40 년 이상 전에 일어난 세계의 종말을 그린 것으로 알려져 있지만",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00137/Sheet1/000006",
+      "sourceBindingSha256": "4a3f3fcf1845a41c29a3078840db60307a2ca2da0cc61f8d807a680ffd020030",
+      "sourceTextSha256": "8b709fa3463c6bc7b1da98692d7bf18e091c3d59120aacf84877d90a6cc2e304",
+      "freshTranslation": "가짜는 ㊥ 알 수 없다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00137/Sheet1/000007",
+      "sourceBindingSha256": "ace19927cad4ff8fd0432702608e46665fa164922ec177d18e08c8e04d562eee",
+      "sourceTextSha256": "9eea75a37cb59965eadbe82504bb7f562def9501429aee4476fd2c5448f8178d",
+      "freshTranslation": "이전 패러다임 사장의 고든 로즈워",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00137/Sheet1/000008",
+      "sourceBindingSha256": "ead1cf926209f3f4336fee8586aad14b103fdfe96810ae283e4de2b3fb65620f",
+      "sourceTextSha256": "cb2f798a9ead24975735f2762a050fdab19f33ea1ba9c54080ed363ee6189759",
+      "freshTranslation": "의 저서. ㊥ 40 년 이상 전에 일어난 세계의 종말을 그린 것으로 알려져 있지만",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00137/Sheet1/000009",
+      "sourceBindingSha256": "1ab20ef26622e407edfe02dbd590ca7bbebd92ce04cd0ac69b9301aa6d19921b",
+      "sourceTextSha256": "8b709fa3463c6bc7b1da98692d7bf18e091c3d59120aacf84877d90a6cc2e304",
+      "freshTranslation": "가짜는 ㊥ 알 수 없다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

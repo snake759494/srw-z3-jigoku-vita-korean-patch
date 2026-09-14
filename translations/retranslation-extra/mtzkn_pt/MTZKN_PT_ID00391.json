@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00391",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00391/Sheet1/000002",
+      "sourceBindingSha256": "84bcd55ca299a3c5d46f3e15182fb8da0c8cc7b2a4b92262a0ea88a710c2f646",
+      "sourceTextSha256": "1c852245c14f189f4ca12d99821bb9d51801648ba8b5135cae62acc5013a6320",
+      "freshTranslation": "히비키 카미시로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00391/Sheet1/000003",
+      "sourceBindingSha256": "ef616d47e1e3d35b0ad6be8747025df724ed7aeb6a3b180e01fe9a48db6d2d86",
+      "sourceTextSha256": "b1ac4a5b08927ece9b3a7e39aed7b103b647e3833883e83fd9822a6c8bef0800",
+      "freshTranslation": "히비키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00391/Sheet1/000004",
+      "sourceBindingSha256": "f7e4d706a2f9f8c81790f333ceb525c08683dccd5659a9b7efd6b98d35185fbc",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00391/Sheet1/000005",
+      "sourceBindingSha256": "87c79d73fed7bc581f87725827c36777d589eb7e34e8cf580dc7dd1eaf78cb48",
+      "sourceTextSha256": "db72b55d3b57e537cf700d7dd4500d120b437d8958cf8840df2776fca1690f52",
+      "freshTranslation": "무라카미 류",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00391/Sheet1/000006",
+      "sourceBindingSha256": "0bbf790691c4602e07c8ce495258e6d652af99f5ba9f12b3185df0d64d99ce61",
+      "sourceTextSha256": "af91508bf780c0397415f179357097bf0a4f08884afc21fd753346a04327effc",
+      "freshTranslation": "제니온 테스트 파일럿. 17세. ㊥ 우연히 만난 제니온에 탑승한 것을 계기로 DEM Corporation의 AG㊥의 의뢰와 스스로의 목적에 따라 동기의 테스트 파일럿을 맡게 된다. ㊥ 무애상으로 멋진 분위기를 모으고 있지만, 사람 싫다는 것은 아니고, 나름 ㊥에 커뮤니케이션을 취할 수 있다. 그러나 마음의 깊은 부분에서는 타인을 차단하고 ㊥ 있어 스스로의 목적 수행을 위해서라면 모든 것을 버리는 각오를 숨기고 있다. ㊥ 제2신도쿄시에 오기 전에는 퇴역군인 아버지와 함께 비스트한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00391/Sheet1/000007",
+      "sourceBindingSha256": "2badd457008fdf13a1724d6b6b5cc3ca406e57b075491db442a72ac4bffa178e",
+      "sourceTextSha256": "09fdb66f3099d89fe2879376101d43852030ad21c890c4d42562a92b855ec2ae",
+      "freshTranslation": "-(다른 병행세㊥계에서 온 해수의 구제업)을 하고 있으며, 높은 야전 기술과 서바이벌 능력을 가진다. 뭐㊥한, 영화 좋아하는 아버지에게 담겨진 일로 계권도(지쿤도)를 몸에 익히고 있다. ㊥ 덧붙여 오컬트 연구를 취미로 하고 있어, 넷상의 한 연구 사이트의 단골 투고자㊥가 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00391/Sheet1/000008",
+      "sourceBindingSha256": "2425c867d1c3d15e2f0fbe5660c8985e88876cf60611a8493be7cbf2f8aa938e",
+      "sourceTextSha256": "a9d74d000205d5e0045b2ac48532c05b9793539aeb19de7b3529129c8ecfbd04",
+      "freshTranslation": "제니온 테스트 파일럿. 17세. ㊥ 우연히 만난 제니온에 탑승한 것을 계기로 DEM Corporation의 AG㊥의 의뢰와 스스로의 목적에 따라 동기의 테스트 파일럿을 맡게 된다. 그 목적과 ㊥는 아버지와 누나의 생명을 빼앗은 차원진 때 나타난 수수께끼의 존재 \"텐시\"를 쫓는 것이며, ㊥ 그 힘으로 제니온을 사용하는 것을 생각하고 있다. ㊥ 덧붙여 텐시에 접촉한 사람의 증거로서, 「혈색된 눈」이라고 불리는 현상이 한눈의 ㊥미이지만 발병해, 그것에 수반되는 통증과 공포에 시달리고 있다. ㊥ 무애상으로 멋진 분위기를 모으고 있지만, 사람 싫어하는 것은 아니고, 나름 ㊥에 커뮤니케이션을 취할 수 있다. 그러나 마음이 깊은 부분에서는 타인을 차단하고 ㊥ 있어 스스로의 목적 수행을 위해서라면 모든 것을 버리는 각오를 숨기고 있다. ㊥ 제2신도쿄시에 오기 전에는 퇴역군인 아버지와 함께 비스트한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00391/Sheet1/000009",
+      "sourceBindingSha256": "0d2dddaa6903857e9d161d8d4c50cc9680a9e5ef61543b4ed9e352cf5f0fa2b9",
+      "sourceTextSha256": "f985d4255f2af1cdd8ad5ff5024c4340ebe79ed2dfc867ba94694e549ca2456e",
+      "freshTranslation": "-(다른 병행세㊥계에서 온 해수의 구제업)을 하고 있으며, 높은 야전 기술과 서바이벌 능력을 가진다. 뭐㊥한, 영화 좋아하는 아버지에게 담겨진 일로 계권도(지쿤도)를 몸에 익히고 있다. ㊥ 덧붙여 「텐시」를 쫓기 위해서 여러가지 오컬트 현상을 조사하고 있어, 넷상의와 ㊥ 있는 연구 사이트의 단골 투고자가 되고 있다. ㊥ 친구나 동료들과의 교류 중, 전사로서 인간으로서 성장해 간다. 또한 보란 ㊥ 티아부의 활동을 통해 쓰레기 픽업의 즐거움에 눈을 뜬다. ㊥ 또한 자신과 마찬가지로 피가 묻은 눈을 가진 사람을 쳐다보면 알게 된 간호사 카시와바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00391/Sheet1/000010",
+      "sourceBindingSha256": "d335972eec995869b39e4bed486ec0bcd2a1adcafeb0cf0a2802174bd1e7995f",
+      "sourceTextSha256": "93ab7d33fc44fc21607bc8844d6b282fd4d632449c31aaa09dfe98f1e1b1fcbd",
+      "freshTranslation": "기와 사귀게 되지만, 자신이 제니온에서 싸우고 있는 것은 애매하게 하고 있다. ㊥가족의 원수인 가드라이트를 쓰러뜨리고, 때의 감옥을 파괴한 후에도, 스스로 할 수 있는 일로 해 ㊥라고 뭔가를 지키기 위해서 싸워 가는 것을 결의한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

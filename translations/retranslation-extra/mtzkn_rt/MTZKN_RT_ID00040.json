@@ -1,0 +1,159 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00040",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00040/Sheet1/000002",
+      "sourceBindingSha256": "64c57947c91f7fe8cd5e0eb29be7a3afa6b9dad5e8bfbf62dab11229b88389a0",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00040/Sheet1/000003",
+      "sourceBindingSha256": "0819609856e3fafad67db5221370d0d672c789f1075484c9fe6fb36aa87c86c6",
+      "sourceTextSha256": "824161db49d635015b5eb7baccb6a00911c05d25e0f4afc6e68f22384a3d40e1",
+      "freshTranslation": "ν건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00040/Sheet1/000004",
+      "sourceBindingSha256": "a04d288ca9ba0f559ad406a10d7027be5a20355fe193cc9c71063bccd5d4be98",
+      "sourceTextSha256": "824161db49d635015b5eb7baccb6a00911c05d25e0f4afc6e68f22384a3d40e1",
+      "freshTranslation": "ν건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00040/Sheet1/000005",
+      "sourceBindingSha256": "24d06d0585fe9792cda5d06ad994e07dde2f3ee9a2d75072033837dd032a4db8",
+      "sourceTextSha256": "9c2b3edef726961c12a50ac8209d2614b31d7790f0a5fb2a375628e230cd2941",
+      "freshTranslation": "아무로 레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00040/Sheet1/000006",
+      "sourceBindingSha256": "848aa3233070186d2bf0033bcd3fcf94291d6e6f3823185240b29bfa83726f3c",
+      "sourceTextSha256": "d4d0979236b44fcec253b7120b238295f13dc059db3308c3c927389417f53aab",
+      "freshTranslation": "애너하임 일렉트로닉스가 런던 벨의 요청을 받아 개발한 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00040/Sheet1/000007",
+      "sourceBindingSha256": "676428dcf7a6f5e5dea4ea78fcf373087ee000c48ad7b811fb4ac8d479c61c3f",
+      "sourceTextSha256": "81bc558968d702205f79e3b5f764b2c959b11baa733ec8d9951bbd971dd31c85",
+      "freshTranslation": "입 전용 모빌 슈트. 파일럿의 아무로가 스스로 설계를 담당하고 있다. ㊥ 역대 건담의 성능을 분석하고 최신 기술을 도입하여 개발되었기 때문에 급조라고는 생각 ㊥ 없을 정도의 초고성능기로서 완성하고 있다. ㊥ 조종석 주변에 내장 된 사이코 프레임으로 파격",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00040/Sheet1/000008",
+      "sourceBindingSha256": "e088a50d4ef6918cfda5918d1034b15507c1de5af39868263a149e0f296cc23a",
+      "sourceTextSha256": "295c196cd6cc6556514ed7dc39d48414c3a4a826c0b27421e7909c4dec8b1d23",
+      "freshTranslation": "동성과 추종㊥성을 실현하고 있다. 또, 건담계의 모빌 슈트에서는 최초가 되는 사이코뮤 무기, ㊥핀·판넬이 사용 가능하다. 이것은 일반 깔때기보다 큰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00040/Sheet1/000009",
+      "sourceBindingSha256": "22e97bcc0d48a820e97acfb8ca18df99d64274090986c022c89c0e36f8298d94",
+      "sourceTextSha256": "25346421d488ada1f9af55c9e55e5cfbbd44ddc0f063e2b6d58d9b282ddf7ddd",
+      "freshTranslation": "그리고 ㊥ 그만큼 고출력입니다. 공격으로서의 사용 외에 몇 기를 연결해 I피㊥루드를 발생시켜 대빔 배리어를 형성할 수도 있어 공수에 걸쳐 활용할 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00040/Sheet1/000010",
+      "sourceBindingSha256": "95c50c708a8d3850f8b04bcc25f0a4512de664e7c6986a6c06b6084eb5abe718",
+      "sourceTextSha256": "d4d0979236b44fcec253b7120b238295f13dc059db3308c3c927389417f53aab",
+      "freshTranslation": "애너하임 일렉트로닉스가 런던 벨의 요청을 받아 개발한 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00040/Sheet1/000011",
+      "sourceBindingSha256": "5777a7ba4512de93bff3d6e564669ababc716abfd7e9fe1ef7a34bea863064c2",
+      "sourceTextSha256": "81bc558968d702205f79e3b5f764b2c959b11baa733ec8d9951bbd971dd31c85",
+      "freshTranslation": "입 전용 모빌 슈트. 파일럿의 아무로가 스스로 설계를 담당하고 있다. ㊥ 역대 건담의 성능을 분석하고 최신 기술을 도입하여 개발되었기 때문에 급조라고는 생각 ㊥ 없을 정도의 초고성능기로서 완성하고 있다. ㊥ 조종석 주변에 내장 된 사이코 프레임으로 파격",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00040/Sheet1/000012",
+      "sourceBindingSha256": "28f56df1bc6f79eca0eed939abf077b8b19904a2a5116acbadaba08f6abdc43a",
+      "sourceTextSha256": "295c196cd6cc6556514ed7dc39d48414c3a4a826c0b27421e7909c4dec8b1d23",
+      "freshTranslation": "동성과 추종㊥성을 실현하고 있다. 또, 건담계의 모빌 슈트에서는 최초가 되는 사이코뮤 무기, ㊥핀·판넬이 사용 가능하다. 이것은 일반 깔때기보다 큰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00040/Sheet1/000013",
+      "sourceBindingSha256": "8b807cd156e4d8dd62c2327055378818005aa1d5f460a8981af36998e4a20e7c",
+      "sourceTextSha256": "994299b5fb488de64c658246c529996144d7723d23767d6d8962e7906e94afe7",
+      "freshTranslation": "그리고 ㊥ 그만큼 고출력입니다. 공격으로서의 사용 외에 몇 기를 연결해 I피㊥루드를 발생시켜 대빔 배리어를 형성할 수도 있어 공수에 걸쳐 활용할 수 있다. ㊥ 네오지온에 의한 액시즈 떨어뜨림을 저지하기 위해서도, 사이코 프레임을 갖고 ㊥한 샤아의 사자비와의 결전에 도전해 승리했다. ㊥ 그 후, 액시즈를 되돌리려고 분투하는 모습은 많은 인간의 마음을 하나로 했다. 그리고 ㊥ 로, 사이코 프레임에 의해 빛나는 역장이 형성되어, 액시즈의 궤도가 변경되었다. ㊥ 그 빛은 \"액시즈 쇼크\"라고 불리며 많은 인간에게 영향을 미칩니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00040/Sheet1/000014",
+      "sourceBindingSha256": "fc9c7c4c4267ef2dce66c6df696d560088a2e66e471ae8fff9c77fd18a693ead",
+      "sourceTextSha256": "86319c381aeb88a8132cda2f93785db57cb9f19b124842f7a7cb955e5fca4ca2",
+      "freshTranslation": "네.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

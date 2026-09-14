@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00180",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00180/Sheet1/000002",
+      "sourceBindingSha256": "245c609ea2d9f2787f5a5ca4edceda73cb36140be4b5bb941e076712b145168a",
+      "sourceTextSha256": "b2c5734313d60cb3f4df939115302cf5a3011df8ef5b441139da9caae9e0159c",
+      "freshTranslation": "캐서린 유리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00180/Sheet1/000003",
+      "sourceBindingSha256": "4a667c8d1158507bcc0dd8a9dbd3222bbdf987b9e86c667d2e56b3cb3d3fceb6",
+      "sourceTextSha256": "5426473d4c61e68c7fc6b46a9c9f2dbfcc17254a44fb4519f4b3fc0469e47118",
+      "freshTranslation": "캐시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00180/Sheet1/000004",
+      "sourceBindingSha256": "c194cfb6c95754b266dacd8cfa348fbd59e6ce25fed52fca4f8873e53399af4d",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00180/Sheet1/000005",
+      "sourceBindingSha256": "be678831e2e4f9fe6807ef78a60583e2437c808e9929c21c10b66d5fd28ff8a1",
+      "sourceTextSha256": "140c4909ada4b3fccaf6f031fd568b9f3718d7fa0029d53a1692b45dfab76c43",
+      "freshTranslation": "고바야시 사나에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00180/Sheet1/000006",
+      "sourceBindingSha256": "c5356d79895a8e8d23ae113a05997443ad1bb8cc88e8334465a9479aa92eb723",
+      "sourceTextSha256": "fbb9f25aa57eefca29f456e2771342aeecbe892bd068feb8d757795e39c3700e",
+      "freshTranslation": "신통합군 참모본부의 사관. 계급은 중위. 23세. ㊥ 명랑한 두뇌와 한때 준미스 마크로스 프론티어로 선정된 미모를 가진 재색 겸 ㊥ 비의 여성으로 프론티어 대통령 하워드 글라스의 딸이기도 하다. ㊥ 신통합군으로부터 파견되는 형태로 S. M. S에 참가하고 브리지에서 오퍼레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00180/Sheet1/000007",
+      "sourceBindingSha256": "f76241fa25dd1dd426fc81500d409678dd6a5b425de3f9f8b35dc61a8464db20",
+      "sourceTextSha256": "1994d9136a61a418e125ad3b93db3576d8064a40cc395d01d34796359941471e",
+      "freshTranslation": "- 맡아 ㊥ 한다. ㊥ 오즈마는 한때 연인끼리이며 내심에서는 미련을 남기고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00180/Sheet1/000008",
+      "sourceBindingSha256": "3f0d0760cd370d1a58bcbc158b69faf5e718df87e51d13dc2448018ab8abdee2",
+      "sourceTextSha256": "fbb9f25aa57eefca29f456e2771342aeecbe892bd068feb8d757795e39c3700e",
+      "freshTranslation": "신통합군 참모본부의 사관. 계급은 중위. 23세. ㊥ 명랑한 두뇌와 한때 준미스 마크로스 프론티어로 선정된 미모를 가진 재색 겸 ㊥ 비의 여성으로 프론티어 대통령 하워드 글라스의 딸이기도 하다. ㊥ 신통합군으로부터 파견되는 형태로 S. M. S에 참가하고 브리지에서 오퍼레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00180/Sheet1/000009",
+      "sourceBindingSha256": "c85cbd2fb7ace121f9c2abbecf0ad99697b6999d3eba07a2318a15106c0619cb",
+      "sourceTextSha256": "1994d9136a61a418e125ad3b93db3576d8064a40cc395d01d34796359941471e",
+      "freshTranslation": "- 맡아 ㊥ 한다. ㊥ 오즈마는 한때 연인끼리이며 내심에서는 미련을 남기고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

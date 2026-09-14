@@ -1,0 +1,258 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00132",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000002",
+      "sourceBindingSha256": "2e081aa5b93d364daa962f79507412f806183d9ce0335f4bdf12086e3a64173c",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000003",
+      "sourceBindingSha256": "07259b8147d49dd5633d624ce81443af60624488c7eb09f82c498313a96af8f0",
+      "sourceTextSha256": "c0d3a63f2fec78158d842fcc9a7a1204a1f896ed8e48e569596715eb59975d55",
+      "freshTranslation": "마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000004",
+      "sourceBindingSha256": "46195fb4bed7bf1d4d29691e7ba08e6b1381b98936d38f03fb8d1577c4c2a1f2",
+      "sourceTextSha256": "8b4c749e262710b51c833bbbe5a6556ea434531624a03ad50fad2fa419adec63",
+      "freshTranslation": "- 강공",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000005",
+      "sourceBindingSha256": "a63a31552f8813e7d480f424f60542c46ccdbdfa34eded69d114fee5c5bf62f1",
+      "sourceTextSha256": "c0d3a63f2fec78158d842fcc9a7a1204a1f896ed8e48e569596715eb59975d55",
+      "freshTranslation": "마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000006",
+      "sourceBindingSha256": "e1078b4c3f0a04e293c82f3966a10081a48c8c40831811ae9bfcbafa36bf79e6",
+      "sourceTextSha256": "8a5ab881480af4b95d2effde685e4fde7a6af62c8a766de5a35fac65ae200fb8",
+      "freshTranslation": "ー(강공",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000007",
+      "sourceBindingSha256": "a3106bd481dea05d00510c8d1ac5ba83766a5eb13a7bf292fca8ef0c7b655622",
+      "sourceTextSha256": "17678b5f0c786c5d4f595c79241f5b3dace84368d807342c05ca7623a1d110cd",
+      "freshTranslation": "제프리 와일더",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000008",
+      "sourceBindingSha256": "57dd80556742d85618f7d26209d8efb3c19c21d762d06703f9432a6dbdd14982",
+      "sourceTextSha256": "c0d3a63f2fec78158d842fcc9a7a1204a1f896ed8e48e569596715eb59975d55",
+      "freshTranslation": "마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000009",
+      "sourceBindingSha256": "5635aa5c6063b2c7d50c55a6a6ad83f8be4143227036fd12b7ed073389d615b0",
+      "sourceTextSha256": "3072c997b2daf8d93d211b01c52472344756892c14bbed31cef5d290e00b7b27",
+      "freshTranslation": "-의 강공",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000010",
+      "sourceBindingSha256": "83995e5b2e2164414e67b4ea346b31125b5135639f20c91f665b62d9b4d40e65",
+      "sourceTextSha256": "c15d4395d6961d686b9e41901aa6076eabcce47f7e2c1648cfacc218f387225c",
+      "freshTranslation": "형태. ㊥변환의 발동으로 요새함",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000011",
+      "sourceBindingSha256": "3228b5407b5162ddeb47ec0e74b6ee1d0d6848cf448750e387d25c0b9adc503e",
+      "sourceTextSha256": "95fc98af4645d11962d8b0d31066645ba50d204aa2170ee2c67334ec5700a49a",
+      "freshTranslation": "에서 변형한다. ㊥3연장 속사 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000012",
+      "sourceBindingSha256": "d39e4b0ad8d51bfc38e3de5ed24dcc0562cce609332b1e5bc5b9978a5eef2d8c",
+      "sourceTextSha256": "af5cb96295a73ce64bb04e87ed9f89b5694e046556b0488de8ebf70698275401",
+      "freshTranslation": "- 캐논을 장비한 건십은 오른팔에, 캐리어의 비행㊥갑판은 실드를 겸해 왼팔에 장착된다. ㊥ 건십의 무게-자 반응포 모드는 이 형태로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000013",
+      "sourceBindingSha256": "43a23eaa0e6b89b842f1dcc1553e44c64ec62cfecc359c25f4361d1f3f47f85c",
+      "sourceTextSha256": "74b13b3344d63a285bf4dd3b45cc9aa8ac2870e5c638d8e81327e626a77b9053",
+      "freshTranslation": "사용된다. 또한 가슴과 어깨에 ㊥ 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000014",
+      "sourceBindingSha256": "d764995f75216b8b33908d902221504680852160c75ca0fb088e2cf2db369589",
+      "sourceTextSha256": "a12c581713331d012a3fc9e3e30cb502099bc817d701a21a3c47e07f10d9d119",
+      "freshTranslation": "- 캐논이 배치되어 전면에 화력을 집중시킬 수 있습니다. ㊥ 이 형태는 근접 전투에서도 절대적인 공격력을 자랑한다. 그 가장 특징적인 공격 방법㊥으로서, 캐리어의 함수에 핀 포인트 배리어를 모아 적함의 장갑을 관통해, 내㊥부에서 디스트로이드 부대를 전개시키는 「마크로스아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000015",
+      "sourceBindingSha256": "504098b7bda518a8d99adb80ef10dfa9c3ce6c9a5444c4b2963ff41f45cd9db4",
+      "sourceTextSha256": "d48eb1c1d86f23a1596f94fe1f157c987c3b0c2727ca6f4691d0ed4d0016136d",
+      "freshTranslation": "'를 들 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000016",
+      "sourceBindingSha256": "125f03d3732b9cbcdb002f224ce78343179c1c4ed6748ac8c154a271b9decf97",
+      "sourceTextSha256": "c0d3a63f2fec78158d842fcc9a7a1204a1f896ed8e48e569596715eb59975d55",
+      "freshTranslation": "마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000017",
+      "sourceBindingSha256": "b8e9ebc9e920943c025c7deeac206b5553121aa36a46a97ec58d07cfedb2d674",
+      "sourceTextSha256": "3072c997b2daf8d93d211b01c52472344756892c14bbed31cef5d290e00b7b27",
+      "freshTranslation": "-의 강공",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000018",
+      "sourceBindingSha256": "d83cf5f12e409d871aa5a8f3190f8d0f539630877eb448e56b1f317b4c0daf3b",
+      "sourceTextSha256": "c15d4395d6961d686b9e41901aa6076eabcce47f7e2c1648cfacc218f387225c",
+      "freshTranslation": "형태. ㊥변환의 발동으로 요새함",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000019",
+      "sourceBindingSha256": "9fa4981ec6ee435c019022420fb0f69daa3798efe23dcff62f4b98279b9d9415",
+      "sourceTextSha256": "95fc98af4645d11962d8b0d31066645ba50d204aa2170ee2c67334ec5700a49a",
+      "freshTranslation": "에서 변형한다. ㊥3연장 속사 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000020",
+      "sourceBindingSha256": "2875e239256a1a933a078d1cc78d31c9099cd87c4958597f94792d772955dabd",
+      "sourceTextSha256": "af5cb96295a73ce64bb04e87ed9f89b5694e046556b0488de8ebf70698275401",
+      "freshTranslation": "- 캐논을 장비한 건십은 오른팔에, 캐리어의 비행㊥갑판은 실드를 겸해 왼팔에 장착된다. ㊥ 건십의 무게-자 반응포 모드는 이 형태로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000021",
+      "sourceBindingSha256": "cc6e377b2ac2b28e1262d6049de3e6212aa0ce33221f60af153eae5883d2f851",
+      "sourceTextSha256": "74b13b3344d63a285bf4dd3b45cc9aa8ac2870e5c638d8e81327e626a77b9053",
+      "freshTranslation": "사용된다. 또한 가슴과 어깨에 ㊥ 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000022",
+      "sourceBindingSha256": "1a99b5e7423bd883a028c083575aa24cfd4188d9302f7a587cc878f385f8ba84",
+      "sourceTextSha256": "a12c581713331d012a3fc9e3e30cb502099bc817d701a21a3c47e07f10d9d119",
+      "freshTranslation": "- 캐논이 배치되어 전면에 화력을 집중시킬 수 있습니다. ㊥ 이 형태는 근접 전투에서도 절대적인 공격력을 자랑한다. 그 가장 특징적인 공격 방법㊥으로서, 캐리어의 함수에 핀 포인트 배리어를 모아 적함의 장갑을 관통해, 내㊥부에서 디스트로이드 부대를 전개시키는 「마크로스아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00132/Sheet1/000023",
+      "sourceBindingSha256": "3f8b331651ffcb99fea8a30a0ce99887e042d65d04bb451af848a2d912ed4a54",
+      "sourceTextSha256": "d48eb1c1d86f23a1596f94fe1f157c987c3b0c2727ca6f4691d0ed4d0016136d",
+      "freshTranslation": "'를 들 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00039",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00039/Sheet1/000002",
+      "sourceBindingSha256": "a4536d4358729045bbcabfdd5fa2388b167a05e11582d6f2cc13a8b71f3e2c4f",
+      "sourceTextSha256": "3dfde55a37c0074ca02b91f7c0da79c6f8542a92e050bcdef4c155accc5ea6db",
+      "freshTranslation": "트레이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00039/Sheet1/000003",
+      "sourceBindingSha256": "0d9cd003698a739757f7ba5deb5e7c2730239048a1f952fbab596257dd6ba8e5",
+      "sourceTextSha256": "b70cf0d11108c1260701549e671a70c8747d7e5ed173c098e5fea7dbc50bf2c5",
+      "freshTranslation": "「신기동전기 건담 WEndlessWaltz」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00039/Sheet1/000004",
+      "sourceBindingSha256": "5879142d6e50097802420799ff56b9690865b39def877aa96a01b10e0acad2cb",
+      "sourceTextSha256": "fbd7402879734e9a18dca5da9ed242a57d174c2d80903d5f794a2fe534f32274",
+      "freshTranslation": "전체 이름은 트레이즈 쿠슈리나다. ㊥ 로옴 페라 재단의 임원이자 후계자로 태어났다. ㊥ 천재적인 두뇌와 절대적인 카리스마를 가지고 비밀결사 OZ의 총수로 부패한 ㊥연합의 개혁, 그리고 권태하는 시대의 개혁을 획책한다. ㊥모빌돌 도입에 차이를 주고, OZ의 총수의 자리를 쫓기고 나서는 오랫동안 모습을 끄고㊥하고 있었다. 그러나 델마이유에 의해 세계 국가 원수로 축제 받은 릴리㊥나를 해방하기 위해 세계의 표 무대로 복귀. 세계 국가 원수의 역을 맡아, 하와 ㊥ 이트팡의 지도자가 된 한때의 친구 밀리알도와 암컷을 결정하기 위해 우주로 ㊥ 올랐다. ㊥ 최종결전에서는 토르기스Ⅱ를 달려 영원히 전쟁을 장사하기 위해 지구의 대표로 ㊥로 싸운다. 최후는 최대의 이해자라고 평하는 오비와 대결해, 그들과 싸운 것을 자랑스럽게 ㊥ 생각한다고 말해, 폭발 속에 사라졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00039/Sheet1/000005",
+      "sourceBindingSha256": "0f987c90146497da217801b52785078bf2c8fff9fa131d51c3c1387930655c3c",
+      "sourceTextSha256": "fbd7402879734e9a18dca5da9ed242a57d174c2d80903d5f794a2fe534f32274",
+      "freshTranslation": "전체 이름은 트레이즈 쿠슈리나다. ㊥ 로옴 페라 재단의 임원이자 후계자로 태어났다. ㊥ 천재적인 두뇌와 절대적인 카리스마를 가지고 비밀결사 OZ의 총수로 부패한 ㊥연합의 개혁, 그리고 권태하는 시대의 개혁을 획책한다. ㊥모빌돌 도입에 차이를 주고, OZ의 총수의 자리를 쫓기고 나서는 오랫동안 모습을 끄고㊥하고 있었다. 그러나 델마이유에 의해 세계 국가 원수로 축제 받은 릴리㊥나를 해방하기 위해 세계의 표 무대로 복귀. 세계 국가 원수의 역을 맡아, 하와 ㊥ 이트팡의 지도자가 된 한때의 친구 밀리알도와 암컷을 결정하기 위해 우주로 ㊥ 올랐다. ㊥ 최종결전에서는 토르기스Ⅱ를 달려 영원히 전쟁을 장사하기 위해 지구의 대표로 ㊥로 싸운다. 최후는 최대의 이해자라고 평하는 오비와 대결해, 그들과 싸운 것을 자랑스럽게 ㊥ 생각한다고 말해, 폭발 속에 사라졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

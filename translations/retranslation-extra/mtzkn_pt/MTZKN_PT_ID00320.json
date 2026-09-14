@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00320",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00320/Sheet1/000002",
+      "sourceBindingSha256": "96c4795512157fc96447d59543f11fb7a1111cbbc6bfd3c68710d150a96b47b8",
+      "sourceTextSha256": "eb58396139d8697f4b6e98587c74e4d48b201cc82780840342942b06567328b4",
+      "freshTranslation": "가발 도커",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00320/Sheet1/000003",
+      "sourceBindingSha256": "7de45da6e66705743f2a2f8e1883b7217f5146dfa283b2c583dfe99d94656ec2",
+      "sourceTextSha256": "ea015c8f744a369fbf60cfd11b03739edcd8caf68bd0d5065566d274b7f73f71",
+      "freshTranslation": "가발",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00320/Sheet1/000004",
+      "sourceBindingSha256": "5e98a10debb9a75e66dbd589d044c10753916860a61fd0b89c72055ab66ec365",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00320/Sheet1/000005",
+      "sourceBindingSha256": "4bd743ed94ee660e957bf58034924875db3297726d2f687f449f98181f216777",
+      "sourceTextSha256": "2e460d9e98de6b472a7eef81e9217e36d90df11aa00e77ffe883ddf81f0b753d",
+      "freshTranslation": "신정부의 과학 국원. ㊥ 어떤 곤경에 대해서도 끝까지 열심히 빠지는 인내의 남자로, 이전에는 다이글렌의 조타수㊥로서 활약했다. ㊥ 큰 글렌단의 멤버가 우주로 떠나자 다시 아크 글렌의 방향타를 잡았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00320/Sheet1/000006",
+      "sourceBindingSha256": "de629b3c72b271d2686879b3fa97df0130cc95b0f8fcc5dab4dcc86ad2e20750",
+      "sourceTextSha256": "2ac4fecb67a3c586be90bc8ac5e27f12e56786869c51ae58c62a0e26593b4081",
+      "freshTranslation": "신정부의 과학 국원. ㊥ 어떤 곤경에 대해서도 끝까지 열심히 빠지는 인내의 남자로, 이전에는 다이글렌의 조타수㊥로서 활약했다. ㊥ 큰 글렌단의 멤버가 우주로 여행을 떠났을 때, 다시 아크 글렌의, 그리고 초은하 다이 ㊥ 글렌의 방향타를 취했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

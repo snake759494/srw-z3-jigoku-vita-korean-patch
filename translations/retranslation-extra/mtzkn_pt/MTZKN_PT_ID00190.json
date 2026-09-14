@@ -1,0 +1,269 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00190",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000002",
+      "sourceBindingSha256": "676d4e0883118ebe76f1acc9e69ffc635dc30e61f2043c057989295ba56cb8d7",
+      "sourceTextSha256": "dc5f28b1097281c4d4c312090a741d95cb5d345e16390a57ca5af940554c6332",
+      "freshTranslation": "가미 하야토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000003",
+      "sourceBindingSha256": "12678076adbc3b023955ad4466a69cc79db7b0ca2d4451eca3968f9dfe9520ec",
+      "sourceTextSha256": "ce2a3c67ca706a7e6124035dbe0270fb6100e4baa19793b369bc905b17ba913d",
+      "freshTranslation": "하야토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000004",
+      "sourceBindingSha256": "459371d1f70ba15475d62e49c544bf071cc107c51fb41adfe6da9070f8d13bba",
+      "sourceTextSha256": "2e50e921e3c7b75fbcf433d1563a8398e58c77dd78a57ca4d82d5572435bab13",
+      "freshTranslation": "(체인지!)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000005",
+      "sourceBindingSha256": "e6f0b84f6ac4341fd0b316b7f986b51b755263353fa8b08efd34abd4f03a9716",
+      "sourceTextSha256": "7c3cb5cb2ef14de63eec14acd214053a7f20637efe0ffd4631309ea46fb1a51d",
+      "freshTranslation": "- 로보 세계 마지막 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000006",
+      "sourceBindingSha256": "f5d67c79afa0d24b625967c86debac5bdb5f045bb421b3af22411b6c3d9a3daf",
+      "sourceTextSha256": "e724e217d31c4e452648038df61f3e66a4b0a5e5388ae001ad6ac96a26eb39a1",
+      "freshTranslation": "우치다 나오야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000007",
+      "sourceBindingSha256": "d137f3af1240fd8a3116b74c4e3fb5b3973e5a18cfa9a9ca751a15b690b0b3af",
+      "sourceTextSha256": "79579eb36b655c27a7d1840299af614270c79d0b60c6a140828f32c7357556f9",
+      "freshTranslation": "한때 겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000008",
+      "sourceBindingSha256": "1b7374fd0ed1ddf4f9a8984a9970c1326e0d5c8dd2d140897a15a397ee783c8f",
+      "sourceTextSha256": "191bdaa5004bf13357dcbd4b5476a11bc19dd7b38388a9ac21025e5af0b2c11b",
+      "freshTranslation": "- 팀 구성원. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000009",
+      "sourceBindingSha256": "988db2aae6b588f7b978db2d6ab75e4282015c8c9df23d106b1e64816b6ffcdd",
+      "sourceTextSha256": "a0f399b2fa15d850d43399afa7459b461b065c04f12dce9111f5497952b059d7",
+      "freshTranslation": "워의 사령관이 되어 세계 마지막 날이 오는 것을 막기 위해",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000010",
+      "sourceBindingSha256": "8faf2952882e4cc1fb026b3ea7e973d1a5e90f9c4dc12b4797a70be325ac970d",
+      "sourceTextSha256": "c3a070240fbbe9111bdbeff9207f916287dfaa0b0614a897b19906f62bd880b0",
+      "freshTranslation": "드래곤을 수색하고 ㊥ 그 노심 해체를 위해 싸운다. ㊥ 냉정 침착한 성격에 더해, 사명을 수행할 때에는 비정하게 철저히 할 수 있는 힘을 가진 ㊥가, 그것은 확고한 의지의 표현이었다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000011",
+      "sourceBindingSha256": "d1fb1c01c8a0fe4386695b4789226ad07e0c1a25546f8986ef844bd0b8f1e08c",
+      "sourceTextSha256": "d91749c66020b950bae791a8fae21ceae766e8434e27e544cd445db1f8bb43d6",
+      "freshTranslation": "드래곤의 각성을 멈추기 위해",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000012",
+      "sourceBindingSha256": "58a0f33a921ceff2bb004c241626e43e62744f4fec62d51df9a8027133063999",
+      "sourceTextSha256": "472b4037a4127404488d203af025563c7d4a0897c6529d561cc09891067d6c11",
+      "freshTranslation": "워에서 특공을 치고 나서는, 용마, 벤케이와 ㊥ 함께",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000013",
+      "sourceBindingSha256": "bc5f457559afea714d0baa00613e1faf4a33c48dbf2aa3c9b7a27fb9112ddead",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000014",
+      "sourceBindingSha256": "3da28ce74f8093f4253a9dcdc72bed9a0f7145c65011bb3904309a71ab0f2fea",
+      "sourceTextSha256": "2223ccd88aecbe99b7db8e8a7033f3fc1f79a0f8e7013aaf310b4aa92b332a84",
+      "freshTranslation": "-에 탑승. 오랜만의 겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000015",
+      "sourceBindingSha256": "e53af68b6ebac4c4c91b3f7684368bce377f7336adb3f081a2b04f0c6a5b3209",
+      "sourceTextSha256": "41f120f135fabd7e1f99af0d0debaebd0e4cc3c4d52612aae59b9743363ace3c",
+      "freshTranslation": "-에서의 싸움에도 불구하고 이전과 변함없는 ㊥ 발군의 팀워크를 발휘했다. ㊥사오토메 박사와의 결착을 붙인 뒤는 우주로 올라가 은하계 전체를 손에 넣으려는 ㊥하는 인베이더와의 사투를 펼쳤다. ㊥마지막은 미래 영복에 이을 때의 틈에서의 싸움에 몸을 던져, 다른 차원으로 여행하는 것이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000016",
+      "sourceBindingSha256": "099d928aa27ae72a3ecba0469a38b3527e2a0195fce9a8fa85028dcd2083f9a1",
+      "sourceTextSha256": "79579eb36b655c27a7d1840299af614270c79d0b60c6a140828f32c7357556f9",
+      "freshTranslation": "한때 겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000017",
+      "sourceBindingSha256": "062f09570a79c9ce802decbb0bb3a9f4d31215744b9b0a319822d18a57e65fd6",
+      "sourceTextSha256": "191bdaa5004bf13357dcbd4b5476a11bc19dd7b38388a9ac21025e5af0b2c11b",
+      "freshTranslation": "- 팀 구성원. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000018",
+      "sourceBindingSha256": "813a39200ecb2d40510f2381693b8519fb7c901e9b492cc29c60b53686f4597f",
+      "sourceTextSha256": "a0f399b2fa15d850d43399afa7459b461b065c04f12dce9111f5497952b059d7",
+      "freshTranslation": "워의 사령관이 되어 세계 마지막 날이 오는 것을 막기 위해",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000019",
+      "sourceBindingSha256": "f88fe32fef177ceeb737c8484abf785610eb0a2d471ae0953b004420b4ccbe26",
+      "sourceTextSha256": "c3a070240fbbe9111bdbeff9207f916287dfaa0b0614a897b19906f62bd880b0",
+      "freshTranslation": "드래곤을 수색하고 ㊥ 그 노심 해체를 위해 싸운다. ㊥ 냉정 침착한 성격에 더해, 사명을 수행할 때에는 비정하게 철저히 할 수 있는 힘을 가진 ㊥가, 그것은 확고한 의지의 표현이었다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000020",
+      "sourceBindingSha256": "e3445807ba1e39659cd0d1b1fbc18380f73b6505da7bff886c611e9f8ebc669c",
+      "sourceTextSha256": "d91749c66020b950bae791a8fae21ceae766e8434e27e544cd445db1f8bb43d6",
+      "freshTranslation": "드래곤의 각성을 멈추기 위해",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000021",
+      "sourceBindingSha256": "fb0619c21f333655f05bf6aec9b961a782a5c8bdf0faa57977c0732b6a530d2b",
+      "sourceTextSha256": "472b4037a4127404488d203af025563c7d4a0897c6529d561cc09891067d6c11",
+      "freshTranslation": "워에서 특공을 치고 나서는, 용마, 벤케이와 ㊥ 함께",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000022",
+      "sourceBindingSha256": "95e9cdff42867a98bb715d72594eca0faa03cab62225c8fe7e6c02ed773d07a1",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000023",
+      "sourceBindingSha256": "25fe86e870048486506383dd817a62f267396d39954d7e379019586a78aa52c8",
+      "sourceTextSha256": "2223ccd88aecbe99b7db8e8a7033f3fc1f79a0f8e7013aaf310b4aa92b332a84",
+      "freshTranslation": "-에 탑승. 오랜만의 겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00190/Sheet1/000024",
+      "sourceBindingSha256": "3d44fab97bf0e54417b0983a076b3dfc7921e5e6af475739bd406e6bacdd5b1c",
+      "sourceTextSha256": "41f120f135fabd7e1f99af0d0debaebd0e4cc3c4d52612aae59b9743363ace3c",
+      "freshTranslation": "-에서의 싸움에도 불구하고 이전과 변함없는 ㊥ 발군의 팀워크를 발휘했다. ㊥사오토메 박사와의 결착을 붙인 뒤는 우주로 올라가 은하계 전체를 손에 넣으려는 ㊥하는 인베이더와의 사투를 펼쳤다. ㊥마지막은 미래 영복에 이을 때의 틈에서의 싸움에 몸을 던져, 다른 차원으로 여행하는 것이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

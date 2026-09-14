@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00389",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00389/Sheet1/000002",
+      "sourceBindingSha256": "1f0ce637a21293591234b7156ade6b12ae1f129e1765e79ed516785984b0c375",
+      "sourceTextSha256": "2017a7022fbe55de300eb4f7a2b01930305db03098904a6d5c5368bb0fff358c",
+      "freshTranslation": "아폴론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00389/Sheet1/000003",
+      "sourceBindingSha256": "fb40acf8228d24143391869ccc2945152a006ed6dc5757510c96baabdcb39258",
+      "sourceTextSha256": "2017a7022fbe55de300eb4f7a2b01930305db03098904a6d5c5368bb0fff358c",
+      "freshTranslation": "아폴론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00389/Sheet1/000004",
+      "sourceBindingSha256": "0e3ad03632a6b4502a23f93c43392df7952256224ad89eea4eb4cc468fbc3552",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00389/Sheet1/000005",
+      "sourceBindingSha256": "764319327f1cb7b5c9f3bd979eb02ecbfcb29dd7d0e49579b23a90749c998413",
+      "sourceTextSha256": "eb55fc430f0e45968d22c96b1f68cd440eb3ba04213ed5ce5045330fad01ad57",
+      "freshTranslation": "1만 2000년 전 타천과 인류의 싸움을 그린 영화 '수족관이 춤추는 하늘'에 등㊥장하는, 세계를 구했다고 하는 전설의 인물. ㊥ 빨간 긴 머리카락으로 오른쪽 뺨에 십자가의 상처, 등에 흰 깃털이 있습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00389/Sheet1/000006",
+      "sourceBindingSha256": "434139ffba3b629ff013bafb386342d91755d62d123c14e45d3a35891de23023",
+      "sourceTextSha256": "eb55fc430f0e45968d22c96b1f68cd440eb3ba04213ed5ce5045330fad01ad57",
+      "freshTranslation": "1만 2000년 전 타천과 인류의 싸움을 그린 영화 '수족관이 춤추는 하늘'에 등㊥장하는, 세계를 구했다고 하는 전설의 인물. ㊥ 빨간 긴 머리카락으로 오른쪽 뺨에 십자가의 상처, 등에 흰 깃털이 있습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

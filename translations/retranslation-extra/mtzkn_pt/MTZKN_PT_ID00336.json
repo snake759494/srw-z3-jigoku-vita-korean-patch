@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00336",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00336/Sheet1/000002",
+      "sourceBindingSha256": "1693ccfb4e2fc125a3f27c802a47353be5bb94c3ff93b7e745c29e28a538cda0",
+      "sourceTextSha256": "2fb25553654a380caf76fbe28800d2cde228d7ad46b5440a4bad627ec51eda2b",
+      "freshTranslation": "카츠라기 미사토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00336/Sheet1/000003",
+      "sourceBindingSha256": "111e764d5e147eebdc47d1c684d8da659060952672f861137b9fe910e65a2347",
+      "sourceTextSha256": "5db51a02486129307029aad803bebac5700f142bccd1abd4aea470c15d8c194a",
+      "freshTranslation": "미사토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00336/Sheet1/000004",
+      "sourceBindingSha256": "424c126191d5794d0c36029919bf544d9bf294ecf24d046b8f5a399544e0c190",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00336/Sheet1/000005",
+      "sourceBindingSha256": "a22cb04e7704f5e52422954d623fba3e2a9dcddb90ccee64a2c97b42943dada0",
+      "sourceTextSha256": "d690d1d175d66017a1500f69c571cb80319219d04b186e6f6b8ffdafdbb7a28b",
+      "freshTranslation": "미시시 코토노",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00336/Sheet1/000006",
+      "sourceBindingSha256": "c188b2b2baba157a01916e339ef1cd931ef57de0981e9c9310efa502ef69b91f",
+      "sourceTextSha256": "4f60f3e5f28495438b148f25c4d45b35e6070fd30e850da36635ab6567554155",
+      "freshTranslation": "특무기관 NERV 전술 작전부 작전국 제1과의 과장. 계급은 두사. 29세. ㊥ 사도와의 싸움에 있어서의 현장의 책임자로, 겐도우와 후유츠키가 부재할 때는 그 대행으로 해 ㊥하여 작전의 지휘를 한다. 사도 섬멸에 대해 강한 집념을 불태우고 있지만, 자세한 것은 불명 ㊥이다. ㊥ 임무중은 강한 책임감으로부터 자타하게 엄격하게, 때로는 무모라고도 생각되는 작전을 결행하는 대담함㊥을 보여준다. 하지만, 기본적으로는 밝고 귀찮은 좋은 성격. 사생활은 즈보라로, 요리나 청소㊥등은 거의 하지 않는다. ㊥ 신지의 보호자 역할을 하며, 온천펭귄의 펜펜과 사는 자신의 맨쇼㊥인에 그를 살게 해, 이해자로서, 때로는 엄격하고, 때로 상냥하게 접하면서, 그 성장을 ㊥ 지켜본다. ㊥ 리츠코는 학생 시절부터의 교제이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00336/Sheet1/000007",
+      "sourceBindingSha256": "f000d708e11bdd90fe6c418830dee4307e2aab1d06d76c43f0027fa13b6baa5f",
+      "sourceTextSha256": "e18f5f6c26cf051cd74e9db994b4ceb4471720c640bc39988b15d04d4680b882",
+      "freshTranslation": "특무기관 NERV 전술 작전부 작전국 제1과의 과장. 계급은 두사였지만, 나중에 일령㊥로 승진한다. 29세. ㊥ 사도와의 전투에서 현장의 책임자로, 겐도우와 후유츠키가 부재할 때는 그 대행으로 ㊥하여 작전의 지휘를 한다. 사도 섬멸에 대해 강한 집념을 불태우고 있지만, 자세한 것은 불명 ㊥이다. ㊥ 임무중은 강한 책임감으로부터 자타적으로 엄격하고, 때로는 무모라고도 생각되는 작전을 결행하는 대담함㊥을 보여준다. 하지만, 기본적으로는 밝고 귀찮은 좋은 성격. 사생활은 즈보라로, 요리나 청소㊥등은 거의 하지 않는다. ㊥ 신지의 보호자 역할을 하며, 온천펭귄의 펜펜과 사는 자신의 맨쇼㊥에 그를 살게 해, 이해자로서, 때로는 엄격하고, 때로 상냥하게 접하면서, 그 성장을 ㊥ 지켜본다. 덧붙여 나중에 이 생활에 아스카가 더해진다. ㊥ 리츠코나 카지와는 학생 시절부터의 교제였고, 한때는 카지의 연인이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00327",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00327/Sheet1/000002",
+      "sourceBindingSha256": "6645616652ae71c1aeb42e634b9725ecd90d98758e2131f5dd084434187663c1",
+      "sourceTextSha256": "4d9c10d301ee0c52e2bc534c042f2b5159e5d865ef312bd5d333193b73bffe39",
+      "freshTranslation": "퀴논 바티카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00327/Sheet1/000003",
+      "sourceBindingSha256": "66bba00863635f978b5362a1976db21d0babb14c6db57d6769db6dad6a19f652",
+      "sourceTextSha256": "f753c2d0695cb7022fc38c04fb109ff60a7412e69e9a1fef3764eda63ee9d919",
+      "freshTranslation": "퀴논",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00327/Sheet1/000004",
+      "sourceBindingSha256": "2e788df10f6eab4f90c523e631ff0a714406c8594310c3840f147288c55580c4",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00327/Sheet1/000005",
+      "sourceBindingSha256": "96464068a3e6f4954c5a605bfaa2207b578bfb94123e3ba26b986b4bf799b2c6",
+      "sourceTextSha256": "2a637d9222a0b66506204787d26fb6aa0804b9fb179a14dc1a955a4b2770b3ec",
+      "freshTranslation": "'검은 형제'의 차녀로 수인 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00327/Sheet1/000006",
+      "sourceBindingSha256": "cfccbd9eaeee2c9df0b5854a9f5872bbe20b86a89a7eafebcd0d459f48f3482b",
+      "sourceTextSha256": "22776db70a6bc24501bf20731eb01961bdff1bcff1026321dd938145a60d6fd8",
+      "freshTranslation": "ー로서 행동하고 있을 때, 카미나들과 만난다.㊥한심하고 수줍어하고 겸손하게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00327/Sheet1/000007",
+      "sourceBindingSha256": "dcf257c80a5d8cb00c00f98cb5f2276b9216ec2a9b23b1315ab6d013f64994d0",
+      "sourceTextSha256": "bd56644256322a06ca2bf3fb5e5f622f1e169e2264858a7285a0caec9b2d9cf1",
+      "freshTranslation": "흥미로운 성격은 형제 중에서도 큰 글렌단 중에서도 드물지만㊥했지만, 기합으로 싸움에 임하는 자세는 다른 멤버와 같았다. ㊥ 신정부 출범 후 총사령 보좌관인 로시우의 비서관이 된다. 성격도 냉철이라고 부를 수 있습니다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00327/Sheet1/000008",
+      "sourceBindingSha256": "14461f326268329cad17b364447d5abccaee98ccc336d38628eb4aefcab9560b",
+      "sourceTextSha256": "451fe3d13d8958e7bb791ce348879abc988e9527e41b16b48abab8b7bb42c8ea",
+      "freshTranslation": "에도 그 변화를 놀랐다. ㊥ 로시우의 고통을 이해하고 그것을 지지하기 위해 모든 것을 던져 자신의 직무를 수행㊥ 하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00327/Sheet1/000009",
+      "sourceBindingSha256": "87dff41d6fea30d9ad5a5e843e60bd026ea662eb853ebda938fc8edab7a9b360",
+      "sourceTextSha256": "2a637d9222a0b66506204787d26fb6aa0804b9fb179a14dc1a955a4b2770b3ec",
+      "freshTranslation": "'검은 형제'의 차녀로 수인 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00327/Sheet1/000010",
+      "sourceBindingSha256": "ccf3a66838e7de2156ae676ba20cab3d7036240c4e318cefbeb939f1baa3fc99",
+      "sourceTextSha256": "22776db70a6bc24501bf20731eb01961bdff1bcff1026321dd938145a60d6fd8",
+      "freshTranslation": "ー로서 행동하고 있을 때, 카미나들과 만난다.㊥한심하고 수줍어하고 겸손하게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00327/Sheet1/000011",
+      "sourceBindingSha256": "e6857c09a52b6de80cc222cfe7df914892035d8b89a6cbd3effb103062049b7d",
+      "sourceTextSha256": "bd56644256322a06ca2bf3fb5e5f622f1e169e2264858a7285a0caec9b2d9cf1",
+      "freshTranslation": "흥미로운 성격은 형제 중에서도 큰 글렌단 중에서도 드물지만㊥했지만, 기합으로 싸움에 임하는 자세는 다른 멤버와 같았다. ㊥ 신정부 출범 후 총사령 보좌관인 로시우의 비서관이 된다. 성격도 냉철이라고 부를 수 있습니다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00327/Sheet1/000012",
+      "sourceBindingSha256": "7fc7bdb9377ff30b91f51511dd5d5fc61e19156389ed72b7ad716b11aaa97e89",
+      "sourceTextSha256": "451fe3d13d8958e7bb791ce348879abc988e9527e41b16b48abab8b7bb42c8ea",
+      "freshTranslation": "에도 그 변화를 놀랐다. ㊥ 로시우의 고통을 이해하고 그것을 지지하기 위해 모든 것을 던져 자신의 직무를 수행㊥ 하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00065",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00065/Sheet1/000002",
+      "sourceBindingSha256": "645c61989608f1fa89576e871d9534fcd70070c3d37b7c495e273e820cda9705",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00065/Sheet1/000003",
+      "sourceBindingSha256": "78e1b72d5063e1b497f6ffaab64582feafbac7ea43946672a706cda553ff8dc7",
+      "sourceTextSha256": "e000d144afe56acc2721713b3ecdc1116e8bfaddfb79ab8c92552c1e80fe1ac7",
+      "freshTranslation": "리오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00065/Sheet1/000004",
+      "sourceBindingSha256": "b6b21b873599571cd8a129ddf5979da22ec13d72bfa9870fb54ab9350c1e89dc",
+      "sourceTextSha256": "e000d144afe56acc2721713b3ecdc1116e8bfaddfb79ab8c92552c1e80fe1ac7",
+      "freshTranslation": "리오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00065/Sheet1/000005",
+      "sourceBindingSha256": "6e2f2ed0aee71154927592f2a014a314e0f8e216d26fc0ce294efabc25fafb22",
+      "sourceTextSha256": "bf9590e6b7c7f745f340b3fec69561335a610730157f75c8fd53e3ba1ad4f4a4",
+      "freshTranslation": "지구권 통일연합에서 개발된 모빌슈트. ㊥ 황도 12 별자리의 '시시자'가 이름의 모티프가 되고 있다. ㊥ 양산성과 범용성 우선으로 개발이 진행되어 지구권 통일연합과 ZO에서 가장 많이 양산되어 ㊥했다. ㊥ 고정 무장은 없고, 심플하고 버릇이 없는 기체. ㊥ 지상용으로 설계된 모빌 슈트이지만, 배낭을 교환하는 것으로 우주에서의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00065/Sheet1/000006",
+      "sourceBindingSha256": "c8b5e8e2848c777a21f23c18413a7633dceacfc7896449c779f72b230e968991",
+      "sourceTextSha256": "2a66089fc0d37f64817b058eac1e8beceb7a78ad9ae050d37bdbe60bc2b9d55f",
+      "freshTranslation": "㊥도 가능합니다. ㊥개발로부터 20년 이상, 제1선에서 사용되어 온 기체이기 때문에, 많은 변형 ㊥이 존재한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00065/Sheet1/000007",
+      "sourceBindingSha256": "f528cf66260597791ef61869da76a6e7599a5f0795a30e23896b3edaffa46887",
+      "sourceTextSha256": "bf9590e6b7c7f745f340b3fec69561335a610730157f75c8fd53e3ba1ad4f4a4",
+      "freshTranslation": "지구권 통일연합에서 개발된 모빌슈트. ㊥ 황도 12 별자리의 '시시자'가 이름의 모티프가 되고 있다. ㊥ 양산성과 범용성 우선으로 개발이 진행되어 지구권 통일연합과 ZO에서 가장 많이 양산되어 ㊥했다. ㊥ 고정 무장은 없고, 심플하고 버릇이 없는 기체. ㊥ 지상용으로 설계된 모빌 슈트이지만, 배낭을 교환하는 것으로 우주에서의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00065/Sheet1/000008",
+      "sourceBindingSha256": "63d41f5c09c85b503d108e6ba9d1a5a0d952f2c5a0492ff21d5ad291ff3a50f0",
+      "sourceTextSha256": "2a66089fc0d37f64817b058eac1e8beceb7a78ad9ae050d37bdbe60bc2b9d55f",
+      "freshTranslation": "㊥도 가능합니다. ㊥개발로부터 20년 이상, 제1선에서 사용되어 온 기체이기 때문에, 많은 변형 ㊥이 존재한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

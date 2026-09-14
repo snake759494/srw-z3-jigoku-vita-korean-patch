@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00032",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00032/Sheet1/000002",
+      "sourceBindingSha256": "daff075e7b16ca3260dfbd8240fe211e35961dbd8a4df40a778ed7bbb2f4492d",
+      "sourceTextSha256": "e91cce594226ec481b8490c61c70bd8ee036e9274a3cb7cd6db2c573daf2c897",
+      "freshTranslation": "키리코 큐비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00032/Sheet1/000003",
+      "sourceBindingSha256": "f81bc1066ce08ac1050c22b406e2dbb5b163a0847ff869d8bcbd3c1636da0de8",
+      "sourceTextSha256": "c8fcffe4982175603e8ce1014be2e8a057c5451d79dff8196c199dd358a3f211",
+      "freshTranslation": "키리코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00032/Sheet1/000004",
+      "sourceBindingSha256": "4dc92995d0f39ae107725b4ef49668c5694408d427f36e807604e1f9625bdbc9",
+      "sourceTextSha256": "095aa56eab1e8a38be44b7470675dbd3bb01e8bb6134a3c94d5e531e65a3923a",
+      "freshTranslation": "장갑 기병 하의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00032/Sheet1/000005",
+      "sourceBindingSha256": "efff28c8be23b36dda3940406ee534bb9fab1905d95637ef4730059480ba6a58",
+      "sourceTextSha256": "4a5f92af7ca713723833d98f058305ba77ac1cc74d83b5b4a02546b6d2db9352",
+      "freshTranslation": "고고다 호즈미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00032/Sheet1/000006",
+      "sourceBindingSha256": "92b8a5e374a1c452c1144adfcd5c4c7d0cefd0a3fd36fae28b2f7bf2a86669fb",
+      "sourceTextSha256": "2b4f6407d6e02260d476ab6c69d975ba48c3408340e82ac04736d9839b68c91e",
+      "freshTranslation": "길가메스 진영의 메르키아군에 소속되어 있던 AT 파일럿. 계급은 조장. ㊥ 어린 날보다 항상 전화에 몸을 노출해 자라, 죽음과 이웃의 나날을 보내 왔기 때문에 ㊥인가, 매우 무구하고 무애상이지만, AT의 조종 기술은 탁월하다. 또한 상황 판단력에 ㊥ 뛰어나 신체 능력도 발군. 스크랩에서 파트를 모아 AT를 수리하는, 하룻밤 전투㊥용 프로그램을 짜 버리는 등, 싸움에 관한 일에 대해서는 만능이라고도 할 수 있는 능력㊥력을 보인다. ㊥ 이능생존체라고 불리는 자질을 가지고, 사지에 임했을 때의 이상한 때까지의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00032/Sheet1/000007",
+      "sourceBindingSha256": "de0dc66fc949f2c8eb4cf9897173730ad7b118e61ed053af79973cc2e580a8ee",
+      "sourceTextSha256": "3eb4d53bdd86d46a69ca3272d2c119e990c5b1f40458141e34b4286f47163ac1",
+      "freshTranslation": "의 힘이나, 정상㊥명의 약 3배의 회복 능력을 가진다. 그 힘을 예상되어 레드 숄더에 선발 ㊥, 이후는 요란 페르젠의 감시하에 둔다. 그러나, 그 이상한 힘에 공포해 ㊥한 페르젠에 의해 최종적으로는 생명을 노리는 것이 된다. ㊥ 다양한 싸움을 거쳐 백년 전쟁 말기에 소행성 리도의 강습 작전에 참가. 작전 중에 보는 ㊥ 한 캡슐 안에 있던 '소체'와의 만남에 의해, 그 어느 때보다 파란이 가득한 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00032/Sheet1/000008",
+      "sourceBindingSha256": "5103739d20a93e374bad5fc0a4e258aa65c975b4519a209655caf20458286fee",
+      "sourceTextSha256": "c699c5a2dacc4468418e7dfcc4ef15b75e3bb5e82d74309560c77e2504842f1a",
+      "freshTranslation": "생명에 휘말려 가게 되었다. ㊥ 우도의 거리에서 소체(피아나)와 재회하고, 싸우는 것밖에 알지 못했던 마음은 서서히 변화해㊥해 간다. ㊥ 우드 붕괴 후에는 쿠멘 왕국, 행성 산사로 흘러가지만, 그 날들은 항상 싸움과 ㊥ 함께 있었다. 그리고, 비밀 결사에 빼앗긴 피아나를 되찾아, 그녀를 지키기 위한 전 ㊥이는, 서서히 자신의 비밀을 찾는 것에 바뀌어 간다. ㊥ 그 모든 싸움은 아스트라기우스의 그림자의 지배자 와이즈맨에 의해 만들어진 것 ㊥이며, 키리코는 이능 생존체의 자질에 의해 그의 후계자로 선정되어 시험되고 ㊥이었다. ㊥ 지배받는 것을 거부하는 키리코는 후계자의 자리를 받는 연극을 하고, 퀸트의 유적의 ㊥ 안쪽에 숨어 있는 그의 품에 육박해, 와이즈맨의 모든 기능을 정지시킨다. ㊥ 그 후, 전쟁이 없는 세계를 꿈꾸며, 피아나와 함께 긴 잠에 붙어도, 회수업자와 ㊥라고 불리는 소생가에 의해 냉동 수면을 풀어 버린다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00032/Sheet1/000009",
+      "sourceBindingSha256": "7a2558512954b1cf9f37e704dedf28bc2283143f35e26fca811964a0c4361c48",
+      "sourceTextSha256": "2b4f6407d6e02260d476ab6c69d975ba48c3408340e82ac04736d9839b68c91e",
+      "freshTranslation": "길가메스 진영의 메르키아군에 소속되어 있던 AT 파일럿. 계급은 조장. ㊥ 어린 날보다 항상 전화에 몸을 노출해 자라, 죽음과 이웃의 나날을 보내 왔기 때문에 ㊥인가, 매우 무구하고 무애상이지만, AT의 조종 기술은 탁월하다. 또한 상황 판단력에 ㊥ 뛰어나 신체 능력도 발군. 스크랩에서 파트를 모아 AT를 수리하는, 하룻밤 전투㊥용 프로그램을 짜 버리는 등, 싸움에 관한 일에 대해서는 만능이라고도 할 수 있는 능력㊥력을 보인다. ㊥ 이능생존체라고 불리는 자질을 가지고, 사지에 임했을 때의 이상한 때까지의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00032/Sheet1/000010",
+      "sourceBindingSha256": "71c397e26f52409e8aaa1194d18b311daa79397e8708b071c2b2852970dd7340",
+      "sourceTextSha256": "3eb4d53bdd86d46a69ca3272d2c119e990c5b1f40458141e34b4286f47163ac1",
+      "freshTranslation": "의 힘이나, 정상㊥명의 약 3배의 회복 능력을 가진다. 그 힘을 예상되어 레드 숄더에 선발 ㊥, 이후는 요란 페르젠의 감시하에 둔다. 그러나, 그 이상한 힘에 공포해 ㊥한 페르젠에 의해 최종적으로는 생명을 노리는 것이 된다. ㊥ 다양한 싸움을 거쳐 백년 전쟁 말기에 소행성 리도의 강습 작전에 참가. 작전 중에 보는 ㊥ 한 캡슐 안에 있던 '소체'와의 만남에 의해, 그 어느 때보다 파란이 가득한 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00032/Sheet1/000011",
+      "sourceBindingSha256": "9b01f77e5526e5c850d5585ad0c9c52c3ab7df802947696818c48a991a1551fb",
+      "sourceTextSha256": "aa4531b76f7cf121d47ef658c6647bd5f08cb5590b1a411cfd1dd4c4a184d0f7",
+      "freshTranslation": "생명에 휘말려 가게 되었다. ㊥ 우도의 거리에서 소체(피아나)와 재회하고, 싸우는 것밖에 알지 못했던 마음은 서서히 변화해㊥해 간다. ㊥ 우드 붕괴 후에는 쿠멘 왕국, 행성 산사로 흘러가지만, 그 날들은 항상 싸움과 ㊥ 함께 있었다. 그리고, 비밀 결사에 빼앗긴 피아나를 되찾아, 그녀를 지키기 위한 전 ㊥이는, 서서히 자신의 비밀을 찾는 것에 바뀌어 간다. ㊥ 그 모든 싸움은 아스트라기우스의 그림자의 지배자 와이즈맨에 의해 만들어진 것 ㊥이며, 키리코는 이능 생존체의 자질에 의해 그의 후계자로 선정되어 시험되고 ㊥이었다. ㊥ 지배받는 것을 거부하는 키리코는 후계자의 자리를 받는 연극을 하고, 퀸트의 유적의 ㊥ 안쪽에 숨어 있는 그의 품에 육박해, 와이즈맨의 모든 기능을 정지시킨다. ㊥ 그 후, 전쟁이 없는 세계를 꿈꾸며, 피아나와 함께 긴 잠에 붙어도, 회수업자와 ㊥라고 불리는 소생가에 의해 냉동 수면을 풀어 버린다. ㊥ 피아나를 되찾기 위해서만 범은하 결사 마티알을 상대하고, 그 성지 알레 ㊥기움에 단신 돌입. 넥스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00032/Sheet1/000012",
+      "sourceBindingSha256": "19526b4e8386afa6a7ccd71cba3b3fea224a50cffe376255f837176640afcc7d",
+      "sourceTextSha256": "2b4f37c87670769adbed98585018826d79c1261b1fafc7069535b3e4d60b0abf",
+      "freshTranslation": "뉴트의 테이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00032/Sheet1/000013",
+      "sourceBindingSha256": "c3e6150cdb94e642589b45abacf6a1798f878d87dbffcc89f39d3a6b182ddd6a",
+      "sourceTextSha256": "74666c69b3ca956a9e17530e8039c97c1046b06588ce27694c2fa498dd03c468",
+      "freshTranslation": "니어와의 격전을 억제하고, 드디어 피아나와 ㊥ 재회를 완수했지만, 그녀는 팔 속에서 숨을 끌었다. ㊥ 그 후에는 누구에게도 목적지를 알리지 않고 혼자 여행을 떠났다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

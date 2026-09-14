@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00167",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00167/Sheet1/000002",
+      "sourceBindingSha256": "7e2fca2199826aae092d26a9bcb094a5694d9009f795f8bfc3a95e569a144d46",
+      "sourceTextSha256": "935969eb5865c1d113eeff2aa6c7bfdf596419455293e8e1fc56fa175f97a20c",
+      "freshTranslation": "밀렌 F. 지너스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00167/Sheet1/000003",
+      "sourceBindingSha256": "7c8f4521e45041acd8f04d226b194220c20ddfab83b0de899d63f4146dfe3e28",
+      "sourceTextSha256": "9764385c8610bd80eff9298dea2e858ab53c54dd49fdf4ee74b8c9cd877da60e",
+      "freshTranslation": "밀레느",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00167/Sheet1/000004",
+      "sourceBindingSha256": "2bac2b64f3d115a91b138940c67bf5c1ac62e085abf2cb06eee587b305d48218",
+      "sourceTextSha256": "6d44622aa9064e71c34e42e7ff6f24f624bb0c6ebacd9fea4e30a2357bb5d0b6",
+      "freshTranslation": "마크로스 7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00167/Sheet1/000005",
+      "sourceBindingSha256": "741b74257adea5f139d17ad7fe33700f9ec2a7e5658c6487d02a3951652b868f",
+      "sourceTextSha256": "e94c758068736a67c99b5073088c4de79f805502e571d886613f24c12be8385a",
+      "freshTranslation": "사쿠라이 토모",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00167/Sheet1/000006",
+      "sourceBindingSha256": "c4da9b85be00d146f72912578ec679458e75a7e6a0bcfca2be829bba39d1f525",
+      "sourceTextSha256": "329bb6b18f078b93a1259c1d34e9c53e137039b44b6bc09a173045527dada09d",
+      "freshTranslation": "FireBomber의 보컬 겸 베이스 담당. ㊥ 성격은 솔직하고 밝고 호기심 왕성. 등을 늘리고 싶은 연령답게, 아이 취급을 싫어하는 것㊥의, 생각은 연상응으로, 감정이나 기세에 맡기고의 언동도 보였다. ㊥ 천재 맥스와 에이스의 밀리아를 부모님께 들고, 조종의 팔도 흉흉도 좀처럼. ㊥ 자유분방한 바사라에게는 언제나 좌절할 수 있지만, 노래에 대해서는 솔직하게 인정㊥ 있다. 또 이성으로서도 신경이 쓰이고 있지만, 한 걸음 밟기에는 이르지 않았다. 동시㊥에, 만남으로 알고, 프로토데빌른과의 결전전에는 프로포즈된 껌리㊥엔에도 호의를 보이지만, 어느 쪽과의 사이도 발전하지 않은 모양. ㊥ 목적지도 말하지 않고 여행에 나선 바사라의 일을 생각하고 마음 여기에 없는 상태가 계속되었지만, ㊥ 레이의 뒷받침을 받아 행성 졸라로 향했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00167/Sheet1/000007",
+      "sourceBindingSha256": "7d0319c4c1280fd1f4b1fd602024c8eb54c60acb96a1880b4bc4b3d77217aff4",
+      "sourceTextSha256": "329bb6b18f078b93a1259c1d34e9c53e137039b44b6bc09a173045527dada09d",
+      "freshTranslation": "FireBomber의 보컬 겸 베이스 담당. ㊥ 성격은 솔직하고 밝고 호기심 왕성. 등을 늘리고 싶은 연령답게, 아이 취급을 싫어하는 것㊥의, 생각은 연상응으로, 감정이나 기세에 맡기고의 언동도 보였다. ㊥ 천재 맥스와 에이스의 밀리아를 부모님께 들고, 조종의 팔도 흉흉도 좀처럼. ㊥ 자유분방한 바사라에게는 언제나 좌절할 수 있지만, 노래에 대해서는 솔직하게 인정㊥ 있다. 또 이성으로서도 신경이 쓰이고 있지만, 한 걸음 밟기에는 이르지 않았다. 동시㊥에, 만남으로 알고, 프로토데빌른과의 결전전에는 프로포즈된 껌리㊥엔에도 호의를 보이지만, 어느 쪽과의 사이도 발전하지 않은 모양. ㊥ 목적지도 말하지 않고 여행에 나선 바사라의 일을 생각하고 마음 여기에 없는 상태가 계속되었지만, ㊥ 레이의 뒷받침을 받아 행성 졸라로 향했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

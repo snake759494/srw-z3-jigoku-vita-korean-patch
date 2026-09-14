@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00136",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00136/Sheet1/000002",
+      "sourceBindingSha256": "70462a6c131c436f259e83bb36cac5e15b93f48a238f098a7281e9e445529922",
+      "sourceTextSha256": "393dc9a5735c877b350541bf7729d5621152ee50d3865a5722055d012e9e3003",
+      "freshTranslation": "미히로 오이와켄",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00136/Sheet1/000003",
+      "sourceBindingSha256": "be8bbbe6d77ce1f5fb3a38eab54e705b2692f9c02d3026d583cb90e4d113f240",
+      "sourceTextSha256": "6beeda60dcc4e8f54ba0c8227e3e51d05ca3c4e005c78cb08da53ea4783d6584",
+      "freshTranslation": "미히로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00136/Sheet1/000004",
+      "sourceBindingSha256": "07d13e532ace6513862ad1ac5a4539c5b899dc0d503460fd0a20e8249cbfbfbc",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00136/Sheet1/000005",
+      "sourceBindingSha256": "7c5da2ca9f10f373013d471793cf1ca5dc840c77424a9999f82a0867732c74f8",
+      "sourceTextSha256": "1472bb18f4f7fb9b388e9edeba97cedeb6c15a16f5a77e51d70fa0bde4fb26a1",
+      "freshTranslation": "토요구치 메구미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00136/Sheet1/000006",
+      "sourceBindingSha256": "6914d2113053e5ee8468e6c91f8c953a8585b147862b893f18529a91e3bce215",
+      "sourceTextSha256": "ef1d0ef25fe6cdf279d0ae873ab29a892e47b89b821f3b003b7ae209fa82fd08",
+      "freshTranslation": "네엘 아가마의 통신사. 22세. 계급은 소위. ㊥ 몸집이 작고 동얼이지만, 그것을 스프링으로 해 분전하는 영리하고 쾌활한 여성. ㊥ 리디에게 호의를 보이고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00136/Sheet1/000007",
+      "sourceBindingSha256": "5a1321862437c40481ba9b5bed71119afe3de9c1fe63fa56c9c5c3187e255f0e",
+      "sourceTextSha256": "79d0c4d54686cb99c4c1ebf5e500ab7089dfd3c4682bb9af2980cd0536f6cb06",
+      "freshTranslation": "네엘 아가마의 통신사. 22세. 계급은 소위. ㊥ 몸집이 작고 동얼이지만, 그것을 스프링으로 해 분전하는 영리하고 쾌활한 여성. ㊥ 리디에게 호의를 보이고 있어, 팔라우 공략전에서 그가 귀환하지 않고 전몰 인정을 받았을 때는, ㊥ 괴로움으로부터 포로가 된 마리다에 해당해 버리는 등, 침체하는 장면도 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

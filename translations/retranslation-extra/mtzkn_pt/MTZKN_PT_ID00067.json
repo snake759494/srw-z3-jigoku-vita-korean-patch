@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00067",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00067/Sheet1/000002",
+      "sourceBindingSha256": "434fd94749be2c11c366b45f949fcb93e35c79d472b821f999071fc754fb43d3",
+      "sourceTextSha256": "9a1dbf99ddd62c99a2647c45e3dda956fd3130c59a4260d96be16a7e898c2c72",
+      "freshTranslation": "규네이 가스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00067/Sheet1/000003",
+      "sourceBindingSha256": "233c4a81360bab1ccf6731f8c9652729c5ef100ecb8344ad79f85b19b2422eb6",
+      "sourceTextSha256": "63aaf4a0dc38d220c70a48bb1336fa48ef3b2af22fc2f002ab7e1292dadaf516",
+      "freshTranslation": "규네이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00067/Sheet1/000004",
+      "sourceBindingSha256": "f5e47b9f9a1f014c4151c3668b6a21bb358d73bc3003126ed73e9ff70c50f24d",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00067/Sheet1/000005",
+      "sourceBindingSha256": "ac6148909b7e8d3b8c05ee6c7c5a3f1655a1d627045b2e72e46ae9b2d57b72ba",
+      "sourceTextSha256": "7ea8776274c14f14f9d3a9de000343ab76ed42695178e1625469e0be6f42dfee",
+      "freshTranslation": "야마데라 히로이치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00067/Sheet1/000006",
+      "sourceBindingSha256": "78339a31f7cb942d10fcbfd7af485d6b7a90be9f4c1af0c5df9777d6ab380e6a",
+      "sourceTextSha256": "532f989daebfd195a3930d8be847092f71c732cfd26f696701faa8575db0b29d",
+      "freshTranslation": "네오지온군의 조종사. ㊥승기는 새",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00067/Sheet1/000007",
+      "sourceBindingSha256": "6f8d5349e6a15823a66ddac0bc971d20e7c3024bbf0a3c1a45739a21b4fe9c03",
+      "sourceTextSha256": "d54c6bf070fc18ea0c2cffe591a1886eb132bd09025ef69b9406e85375f3a2cf",
+      "freshTranslation": "입용 모빌 슈트의 야쿠토 도가. ㊥ 나나이 미구엘이 소장을 맡는 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00067/Sheet1/000008",
+      "sourceBindingSha256": "031956240dca9ff18817608759ba952c7694019cc9fb2b05abf5d12d986f2b42",
+      "sourceTextSha256": "e1edc475b1ccee54cd3d9ab533705680af2c369fc9f474f4db344514ba776ce9",
+      "freshTranslation": "입 연구소 출신의 강화 인간이다. ㊥ 성격은 야심적. 탐욕스럽게 자신의 능력을 향상시키려고 생각하고 있어, 출세의 기회㊥를 보고 있다. 사실 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00067/Sheet1/000009",
+      "sourceBindingSha256": "2d24fcb693977bdf71a51319cd0702d40f2eab27e6a8bd35f7807a3f2d07ff5a",
+      "sourceTextSha256": "b9ef60d5f0b5ca16c28439fefd0c7d17a045d8e0f27fdc72a6fd9d7c40907f4a",
+      "freshTranslation": "입적인 능력은 높고, 연구소에서 강화를 받은 남자 ㊥ 바 안에서 혼자만 사이코뮤 무기의 깔때기를 사용할 수 있었다. ㊥ 샤아에게 온 퀘스를 진짜 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00067/Sheet1/000010",
+      "sourceBindingSha256": "c2fe5bc37b7b21ac2a2e75cb2e12937f5f9558298088f9d7c48a0dea815f7eae",
+      "sourceTextSha256": "0f357aa341834130346805d6267ec12b3ac1f09ce3a5245ade7ff8affb9b8dce",
+      "freshTranslation": "입으로 인정하고 끌려 간다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00067/Sheet1/000011",
+      "sourceBindingSha256": "c40043739f626bc1ac10d89830ac0413f73958291891249f8590cb83dc20f55c",
+      "sourceTextSha256": "532f989daebfd195a3930d8be847092f71c732cfd26f696701faa8575db0b29d",
+      "freshTranslation": "네오지온군의 조종사. ㊥승기는 새",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00067/Sheet1/000012",
+      "sourceBindingSha256": "d8b99b65dc4884246e953d635548719f8c1feb239da05b31eccb05d801c90a79",
+      "sourceTextSha256": "d54c6bf070fc18ea0c2cffe591a1886eb132bd09025ef69b9406e85375f3a2cf",
+      "freshTranslation": "입용 모빌 슈트의 야쿠토 도가. ㊥ 나나이 미구엘이 소장을 맡는 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00067/Sheet1/000013",
+      "sourceBindingSha256": "dab421ae580f5dfa8f63b0f1d52a5a959129a9412703c954581e0076433f0734",
+      "sourceTextSha256": "e1edc475b1ccee54cd3d9ab533705680af2c369fc9f474f4db344514ba776ce9",
+      "freshTranslation": "입 연구소 출신의 강화 인간이다. ㊥ 성격은 야심적. 탐욕스럽게 자신의 능력을 향상시키려고 생각하고 있어, 출세의 기회㊥를 보고 있다. 사실 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00067/Sheet1/000014",
+      "sourceBindingSha256": "076db51002a4a0644c7dd5e78c6995ca0694980b7e1eec757da8e0b52a742242",
+      "sourceTextSha256": "b9ef60d5f0b5ca16c28439fefd0c7d17a045d8e0f27fdc72a6fd9d7c40907f4a",
+      "freshTranslation": "입적인 능력은 높고, 연구소에서 강화를 받은 남자 ㊥ 바 안에서 혼자만 사이코뮤 무기의 깔때기를 사용할 수 있었다. ㊥ 샤아에게 온 퀘스를 진짜 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00067/Sheet1/000015",
+      "sourceBindingSha256": "587d0419030577b6a078c3a3ce23caaf79d2d7339a5d0dfff216afc4c73897c9",
+      "sourceTextSha256": "1086900565f8cb60c80448d316266d369cd05dc6c95ad4610554a5e8591e9bae",
+      "freshTranslation": "입으로 인정하고 끌려 간다. ㊥ 액시즈 공방전에서는 론도벨이 발한 핵미사일을 모두 쏘아 떨어뜨리는 등 활약㊥을 보였지만, ν건담을 탄 아무로와 싸워 격추된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

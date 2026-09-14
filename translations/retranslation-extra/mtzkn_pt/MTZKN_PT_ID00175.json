@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00175",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00175/Sheet1/000002",
+      "sourceBindingSha256": "456621057501beada0c100d7bd90e73928b2d257e5ffdad521def826b28e5233",
+      "sourceTextSha256": "a0a6f848adb9777a7860df7730db5f153caf7ba81f4eecec7604dd164bd64f5f",
+      "freshTranslation": "클랜 클랜",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00175/Sheet1/000003",
+      "sourceBindingSha256": "c4301aae4a372a787fa00a9a50e22ca001e7fb64977d1e90e7d6e2240cedc68c",
+      "sourceTextSha256": "4ca7d5fcb141f325c7ad4b6dc879f7e78ae593d6cc9adf9625fee50a8b28eb2f",
+      "freshTranslation": "클랜",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00175/Sheet1/000004",
+      "sourceBindingSha256": "d2880200515fdf82871f142f8683364ae861474e76d386fec86f6500880852df",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00175/Sheet1/000005",
+      "sourceBindingSha256": "e31bfe33c048fe4432476d8646da29e1c85b7b88a966bf872b842d0858f4e2c7",
+      "sourceTextSha256": "1472bb18f4f7fb9b388e9edeba97cedeb6c15a16f5a77e51d70fa0bde4fb26a1",
+      "freshTranslation": "토요구치 메구미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00175/Sheet1/000006",
+      "sourceBindingSha256": "0547fc94ed8acf2f37e46d8fd088dedb3c1ecd30120a7d630a6d8545b533adc2",
+      "sourceTextSha256": "e073e90a746af2b01147e9fd340a91ce8fd8ec75fd81a99d62e520cad96adac0",
+      "freshTranslation": "S. M. S 픽시 소대의 대장. 계급은 대위. 18세. ㊥ 젠틀라디의 자부심을 계승하는 조종사. S. M. S에서는 젠틀라디의 ㊥여성만으로 조직된 픽시 소대의 대장을 맡고, 심홍의 쿼드란 레어를 승기와 ㊥해, 용맹한 싸움을 보인다. ㊥ 거인 때는 나이에 따라 뛰어난",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00175/Sheet1/000007",
+      "sourceBindingSha256": "0c696cd7994976f9df5121c00397492f072c58c957427a392f2288571c54d68f",
+      "sourceTextSha256": "d9438d5f6e41d45b5061daa15743190c9348bc99e2c74d8ca27e4d6685902bc7",
+      "freshTranslation": "일이지만 마이크론화하면 어린 소녀 몸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00175/Sheet1/000008",
+      "sourceBindingSha256": "e983cac8c14afec0a6b7d28dffca328948273c7a8ae47839323db14b7933980f",
+      "sourceTextSha256": "59c9a9d469734944889bf7589844b807127b03878fdd12e8233f77aedb8a2646",
+      "freshTranslation": "에 ㊥ 되는 체질이다. ㊥미셸과는 친숙하고, 미성학원에서는 일년 선배. 전장에서도 개인적인 장소에서도 그 ㊥의 일을 항상 신경쓰고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00175/Sheet1/000009",
+      "sourceBindingSha256": "75f37543c9f5e958dd60c2f69c719ec1c2e57901091e58bfe565027cc33be66f",
+      "sourceTextSha256": "e073e90a746af2b01147e9fd340a91ce8fd8ec75fd81a99d62e520cad96adac0",
+      "freshTranslation": "S. M. S 픽시 소대의 대장. 계급은 대위. 18세. ㊥ 젠틀라디의 자부심을 계승하는 조종사. S. M. S에서는 젠틀라디의 ㊥여성만으로 조직된 픽시 소대의 대장을 맡고, 심홍의 쿼드란 레어를 승기와 ㊥해, 용맹한 싸움을 보인다. ㊥ 거인 때는 나이에 따라 뛰어난",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00175/Sheet1/000010",
+      "sourceBindingSha256": "848ee29ec79a604d26819daa922f4683e1a33ebaacf998821f1066089ec5c77f",
+      "sourceTextSha256": "d9438d5f6e41d45b5061daa15743190c9348bc99e2c74d8ca27e4d6685902bc7",
+      "freshTranslation": "일이지만 마이크론화하면 어린 소녀 몸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00175/Sheet1/000011",
+      "sourceBindingSha256": "f4fe49ee29beaf81c8a9ab3d8a989d7d05823fbeb784af71b2e77b146892c2fb",
+      "sourceTextSha256": "59c9a9d469734944889bf7589844b807127b03878fdd12e8233f77aedb8a2646",
+      "freshTranslation": "에 ㊥ 되는 체질이다. ㊥미셸과는 친숙하고, 미성학원에서는 일년 선배. 전장에서도 개인적인 장소에서도 그 ㊥의 일을 항상 신경쓰고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

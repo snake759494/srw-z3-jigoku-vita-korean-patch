@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00160",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00160/Sheet1/000002",
+      "sourceBindingSha256": "143a044c301c9841699285837bac7c4fcc154a2fb3f41f5f78b31bb7243c8310",
+      "sourceTextSha256": "5672984ebd5df0ded02de5c19fffd6e3968dfd77b1b92a3ae3859ff77697965f",
+      "freshTranslation": "알베르토 비스트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00160/Sheet1/000003",
+      "sourceBindingSha256": "3e673f58dad53d9549db97d91351596a8691ca059e4be9839337017094ff8a84",
+      "sourceTextSha256": "66b2196069c5ecd0bd7da09e2e6d55a948dfee892cff2454ea15478f58979e25",
+      "freshTranslation": "알베르토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00160/Sheet1/000004",
+      "sourceBindingSha256": "9329845910af4047838acc89200063992824a44fed96db46ee2770754519c858",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00160/Sheet1/000005",
+      "sourceBindingSha256": "8716580f04d7b154dfa803d851f609567230d2e5d7652d03ca6882d0b55ac0d2",
+      "sourceTextSha256": "941cf013beea00588c61e04f94950ad51b49091cfadb0a4aecc09d2dc733005c",
+      "freshTranslation": "달의 대기업 애너하임 일렉트로닉스 사의 임원. 33세. ㊥ 아버지는 비스트 재단 당주의 카디아스 비스트이며, 배너지의 이모형에 해당한다. ㊥ 기분이 좋고, 숨막히는 면이 있어, 자신을 고민하지 않았던 아버지에 대해서, 컴플렉스를 ㊥ 안고 있다. 그 마음의 틈을 넣어 마사의 개 개로 이용되고 있다. ㊥ \"라플라스의 상자\"의 공개를 막고 싶은 마사의 의향으로 네엘 아가마에 승선. ㊥ 에코스와 함께 인더스트리얼 7에 잠입하고, 한번은 카디아스를 구속하더라도 ㊥ 성행에서 그에게 발포해 버린다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00160/Sheet1/000006",
+      "sourceBindingSha256": "89266ddd6871c3316fa9a4faf30087d2823d17b4370245b03683d612ca1dc790",
+      "sourceTextSha256": "397dbb403a4033c3ef2b81a88417374cd563212e8e562641a234c7cfc30423a9",
+      "freshTranslation": "달의 대기업 애너하임 일렉트로닉스 사의 임원. 33세. ㊥ 아버지는 비스트 재단 당주의 카디아스 비스트이며, 배너지의 이모형에 해당한다. ㊥ 기분이 좋고, 숨막히는 면이 있어, 자신을 고민하지 않았던 아버지에 대해서, 컴플렉스를 ㊥ 안고 있다. 그 마음의 틈을 넣어 마사의 개 개로 이용되고 있다. ㊥ \"라플라스의 상자\"의 공개를 막고 싶은 마사의 의향으로 네엘 아가마에 승선. ㊥ 에코스와 함께 인더스트리얼 7에 잠입하고, 한번은 카디아스를 구속하더라도 ㊥ 성행에서 그에게 발포해 버린다. ㊥ 이후에도 네엘 아가마에 승선하여 유니콘 건담을 관리하려고 한다. 동시㊥에 아버지 카디아스에 유니콘을 맡긴 배너지를 적시하게 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

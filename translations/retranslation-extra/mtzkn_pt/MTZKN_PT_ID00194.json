@@ -1,0 +1,269 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00194",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000002",
+      "sourceBindingSha256": "9644e30268cba37073134d62da3acb91d3908bbcd79ef1966e37750495cb8f35",
+      "sourceTextSha256": "2e50e921e3c7b75fbcf433d1563a8398e58c77dd78a57ca4d82d5572435bab13",
+      "freshTranslation": "(체인지!)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000003",
+      "sourceBindingSha256": "8ad1da3da7e0c800960a6247ebea7a61d674d0cfd975b807304640a09afe5d09",
+      "sourceTextSha256": "7c3cb5cb2ef14de63eec14acd214053a7f20637efe0ffd4631309ea46fb1a51d",
+      "freshTranslation": "- 로보 세계 마지막 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000004",
+      "sourceBindingSha256": "2a0c997395413b23cc891b4d4967a42424d528a19a026e3de4dc9f5c16d10d87",
+      "sourceTextSha256": "e63f9f38f86d7a76bb27a2a589934fa74f3fda40caa06b07996d936462188186",
+      "freshTranslation": "마츠모토 보전",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000005",
+      "sourceBindingSha256": "2b467ed6e1c75fa1e361514e744464ae99150f4b5385b4d0f25c5b168a0f4ef9",
+      "sourceTextSha256": "3c6c894e818a933415e48549b191c6a4d4475c9e32c6920c7c033bf55a6075a0",
+      "freshTranslation": "벤케이와 계곡과 함께,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000006",
+      "sourceBindingSha256": "a72406a19a2913f36a2d53ba178278c6eda3242b3c6a6e0147137fe15c60b64c",
+      "sourceTextSha256": "881c57e9c149d64af11afdd29bae7aad55437a2226f0009881b4a21bcd38f3ed",
+      "freshTranslation": "―선에 의해 오염된 지상 탐색을 하고 있는 청년. ㊥ 한때",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000007",
+      "sourceBindingSha256": "355ae0e5dcdbf750516080a8ada3c22a7e56f044cc0af5676fabe6d53ff1020d",
+      "sourceTextSha256": "7c460b0b728d114fe8528ab1f69e73861bee972f36ead72c7efc66e6da995c96",
+      "freshTranslation": "- 로보의 이름 메카닉맨이었던 아버지의 팔을 계승해, 메카에 강하다. ㊥ 싸움을 좋아하지 않는 상냥한 성격을 하고 있지만, 한 번 깨지면 손을 잡을 수 없게 된다고 ㊥ 하는 측면도 가진다. ㊥ 지상을 탐험했던 곳에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000008",
+      "sourceBindingSha256": "c99bb7c85d14b8e3ef12ad7fdbd67cb878a41892d5eac5c9d48b04e93af5fd5d",
+      "sourceTextSha256": "55ab74461ea304eaf459ec6c031d52898dea50d25591290c748d24eb765629b0",
+      "freshTranslation": "워와 인베이더의 전투에 조우. 부상당한 벤케이의 ㊥ 대신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000009",
+      "sourceBindingSha256": "c29f9dc196210a06b91442008e33b7dfca48b5d248e80681826493df8bdf2547",
+      "sourceTextSha256": "d68ea32c67ae0ae97900a23d62eb7dcc93fe3144714f08e57ab3f887f6415f05",
+      "freshTranslation": "베어호의 파일럿으로서 호로부터 지명을 받는다. ㊥ 익숙하면서도 분전하고 점차 팀워크를 높여 갔지만, 호가 전투 불능㊥에 빠졌기 때문에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000010",
+      "sourceBindingSha256": "ca654d34b220f69719d857016939e7d27fff7a5a8c71a5acd531dcb3be2676d6",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000011",
+      "sourceBindingSha256": "64c9833fab218ec053dcbd712c32fe2f2d6e3459764a5ecaa1e8f65ec34dbc9e",
+      "sourceTextSha256": "ffca8042c1be5539206acd6448dd1036c2d7df09e46619a2e94ef7e10f9a8c0f",
+      "freshTranslation": "를 용마들에게 양보한다. ㊥ 싸움이 우주로 이행하고 나서는 지구에 남아 있었지만, 일본 정부의 협력을 얻고 계곡과 함께 ㊥ 우주로 올랐다. 거기서 부활한 호의 타기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000012",
+      "sourceBindingSha256": "c81bc4695d5127f6360201dfab73d3c0d46aa89f4e872b95df4d6384434d9335",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000013",
+      "sourceBindingSha256": "e92a6f897c0c20d073bf87ad4de29e8052a5fdc6bee2d3a776a280d499045c38",
+      "sourceTextSha256": "d9cd52a86bd26f33fa1a374263ae47970b6b0d6aa857bc1754e8c1562287020a",
+      "freshTranslation": "드래곤에 구원받아 이에 탑㊥승승한다. ㊥ 류마 등",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000014",
+      "sourceBindingSha256": "3da558136edbbfa6fd2cf22a862c92722ebff8c173fe141398ae1223c4176700",
+      "sourceTextSha256": "f7b0799fcac314fbf7cdafa26fb3a145d80917a9dd27832117fd80c9903d516d",
+      "freshTranslation": "- 팀과 싸우고 마침내 미래의 영원한 싸움으로 여행하는 료마㊥보냈다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000015",
+      "sourceBindingSha256": "b5a29bee54f25fcfaeb7948c2268bc658c7746060b1be7c0c9b00c5a25166174",
+      "sourceTextSha256": "3c6c894e818a933415e48549b191c6a4d4475c9e32c6920c7c033bf55a6075a0",
+      "freshTranslation": "벤케이와 계곡과 함께,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000016",
+      "sourceBindingSha256": "bf2097521ec983a03cc89be806731e515b8e5549dd227846744df590a14d4e8d",
+      "sourceTextSha256": "881c57e9c149d64af11afdd29bae7aad55437a2226f0009881b4a21bcd38f3ed",
+      "freshTranslation": "―선에 의해 오염된 지상 탐색을 하고 있는 청년. ㊥ 한때",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000017",
+      "sourceBindingSha256": "c5fa08ba3f270f72a4bde0257c942abd622a05aa32e115c69427723c79c732d3",
+      "sourceTextSha256": "7c460b0b728d114fe8528ab1f69e73861bee972f36ead72c7efc66e6da995c96",
+      "freshTranslation": "- 로보의 이름 메카닉맨이었던 아버지의 팔을 계승해, 메카에 강하다. ㊥ 싸움을 좋아하지 않는 상냥한 성격을 하고 있지만, 한 번 깨지면 손을 잡을 수 없게 된다고 ㊥ 하는 측면도 가진다. ㊥ 지상을 탐험했던 곳에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000018",
+      "sourceBindingSha256": "c1a1ba5032bc476825df19f5a78b8e23e4cb2e7daeafe0cde509a75a0772d29c",
+      "sourceTextSha256": "55ab74461ea304eaf459ec6c031d52898dea50d25591290c748d24eb765629b0",
+      "freshTranslation": "워와 인베이더의 전투에 조우. 부상당한 벤케이의 ㊥ 대신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000019",
+      "sourceBindingSha256": "3cc89a35b1dcd1d626c1922e2acb05d9c10d6a4e551d3e801dd0fa1d4124da94",
+      "sourceTextSha256": "d68ea32c67ae0ae97900a23d62eb7dcc93fe3144714f08e57ab3f887f6415f05",
+      "freshTranslation": "베어호의 파일럿으로서 호로부터 지명을 받는다. ㊥ 익숙하면서도 분전하고 점차 팀워크를 높여 갔지만, 호가 전투 불능㊥에 빠졌기 때문에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000020",
+      "sourceBindingSha256": "68ee4ac41d57f0c29b7e8aa25fff6dafb7ce7cf456d10620937dcdd687bf0139",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000021",
+      "sourceBindingSha256": "2271c0d739263ee36a98591bd2027b7e460fc99bd3768c7abdd79c407db4d71b",
+      "sourceTextSha256": "ffca8042c1be5539206acd6448dd1036c2d7df09e46619a2e94ef7e10f9a8c0f",
+      "freshTranslation": "를 용마들에게 양보한다. ㊥ 싸움이 우주로 이행하고 나서는 지구에 남아 있었지만, 일본 정부의 협력을 얻고 계곡과 함께 ㊥ 우주로 올랐다. 거기서 부활한 호의 타기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000022",
+      "sourceBindingSha256": "c57b33f7b7faa1028a79a7fe065a5a395429ca1f5054825977974c02bfb13c83",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000023",
+      "sourceBindingSha256": "51ee214b92fd57ab0d4bdf7077438fd64977ba7bc8650117d45ab698c1980fc2",
+      "sourceTextSha256": "d9cd52a86bd26f33fa1a374263ae47970b6b0d6aa857bc1754e8c1562287020a",
+      "freshTranslation": "드래곤에 구원받아 이에 탑㊥승승한다. ㊥ 류마 등",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00194/Sheet1/000024",
+      "sourceBindingSha256": "8393902ce3fb996a2a97fdafcdd7e617d5e9369a56732699507ca84513216453",
+      "sourceTextSha256": "f7b0799fcac314fbf7cdafa26fb3a145d80917a9dd27832117fd80c9903d516d",
+      "freshTranslation": "- 팀과 싸우고 마침내 미래의 영원한 싸움으로 여행하는 료마㊥보냈다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

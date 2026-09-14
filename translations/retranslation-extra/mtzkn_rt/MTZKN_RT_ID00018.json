@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00018",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00018/Sheet1/000002",
+      "sourceBindingSha256": "5381486c61d8a7d6354348478f4afc92985e711bb3d4ce2af3acc380c498db9d",
+      "sourceTextSha256": "2821f723e708a26125b2215f86a494a31e2eb1a3f45f2c6e857b2cc6d0a13f93",
+      "freshTranslation": "롯신 합체 갓 마즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00018/Sheet1/000003",
+      "sourceBindingSha256": "5158cd4f4d5dd60ffda7b93c2e453418e88b9577909cc1314c70514cf4a8c4aa",
+      "sourceTextSha256": "ede3b6c6a86c4f9629fce5e4651471327cf0ba149a021bd699569eb6648e65de",
+      "freshTranslation": "제드 파이너",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00018/Sheet1/000004",
+      "sourceBindingSha256": "d1aa8ea0f4ddb1a2265b6cbcf54fafd5401fc70b056e910f69ad3a4f2f4d0113",
+      "sourceTextSha256": "ede3b6c6a86c4f9629fce5e4651471327cf0ba149a021bd699569eb6648e65de",
+      "freshTranslation": "제드 파이너",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00018/Sheet1/000005",
+      "sourceBindingSha256": "e893d69f1c3fad2031120df2c7e3e959803a6f845599ba4436e1f087e554f450",
+      "sourceTextSha256": "6b5365b668851975b9c72afa16eca85a11ca4899d02cb63a42d0f0e996573fc4",
+      "freshTranslation": "게슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00018/Sheet1/000006",
+      "sourceBindingSha256": "918415acd034652a733d06b111122c09c782c71360dbf3e74b82f6dad94388b1",
+      "sourceTextSha256": "1b3e7034bfe0a7b49d071809d7a8f3e01e2ff14722842e10dd5cc3f592b8afdb",
+      "freshTranslation": "루트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00018/Sheet1/000007",
+      "sourceBindingSha256": "a309c94bc413989c12ad8788732bd6c804931e6e9516bc35981f723899b8eabe",
+      "sourceTextSha256": "a1b5a1ce9143f215b14a64395a0f62f9dcc7ff42e7e490ab5a14dcaf4ff61999",
+      "freshTranslation": "최종화 『은하에 처음의 미소를』에 등장한 전투 메카. ㊥ 하와이 제도 앞바다의 조사를 향한 크러셔대 앞에 나타났다. ㊥6명의 게슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00018/Sheet1/000008",
+      "sourceBindingSha256": "baf8616602b98e0eec23c6c88c4e202f3ddb864335a1d8d210aecddeae255040",
+      "sourceTextSha256": "b2dde5ec5a0816b321133ddc7a4c9004f59eca14a8c0807b550d9ba3451eed18",
+      "freshTranslation": "루트 전원이 탑승하고 있으며, 바닥에서 대구경의 빔이 방출된다. ㊥ 가이어와의 사이에 나누어 들어간 코스모 크러셔를 물리쳤지만, 갓 마즈의 전 ㊥에 패퇴. 직후 내부에서 튀어 나온 게슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00018/Sheet1/000009",
+      "sourceBindingSha256": "2068c02dfaa4bb4165d8d4a085803e076a49c634a34f69804393779a7061111c",
+      "sourceTextSha256": "07a6da4aa80c050bb8980cb26d58e7568b3640df55926b14be3f679de78a30ef",
+      "freshTranslation": "루트들이 모여, 줄은 완전히 부활하고 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00018/Sheet1/000010",
+      "sourceBindingSha256": "99b44598045f84a5ec4af89c6634df4582922e44ee0225d0e2143b02b6e11a82",
+      "sourceTextSha256": "a1b5a1ce9143f215b14a64395a0f62f9dcc7ff42e7e490ab5a14dcaf4ff61999",
+      "freshTranslation": "최종화 『은하에 처음의 미소를』에 등장한 전투 메카. ㊥ 하와이 제도 앞바다의 조사를 향한 크러셔대 앞에 나타났다. ㊥6명의 게슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00018/Sheet1/000011",
+      "sourceBindingSha256": "94b4b6c7cab0dd0a99790ea2072f2326dc7dab7e5660ef2478251764657e12da",
+      "sourceTextSha256": "b2dde5ec5a0816b321133ddc7a4c9004f59eca14a8c0807b550d9ba3451eed18",
+      "freshTranslation": "루트 전원이 탑승하고 있으며, 바닥에서 대구경의 빔이 방출된다. ㊥ 가이어와의 사이에 나누어 들어간 코스모 크러셔를 물리쳤지만, 갓 마즈의 전 ㊥에 패퇴. 직후 내부에서 튀어 나온 게슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00018/Sheet1/000012",
+      "sourceBindingSha256": "f1b06707b22a101665577ad8522998b0172927079ae58a707510948109ec5ddb",
+      "sourceTextSha256": "07a6da4aa80c050bb8980cb26d58e7568b3640df55926b14be3f679de78a30ef",
+      "freshTranslation": "루트들이 모여, 줄은 완전히 부활하고 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

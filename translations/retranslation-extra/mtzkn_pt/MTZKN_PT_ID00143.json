@@ -1,0 +1,192 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00143",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00143/Sheet1/000002",
+      "sourceBindingSha256": "28978e6b40c2694bc60084d665109b9458363189a6589282ffbdde2d46591749",
+      "sourceTextSha256": "25f883a493ef27cd5e9be7bdae70e2b4f187854fcc35d4a460c9779aeb2bc42d",
+      "freshTranslation": "안젤로 자우퍼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00143/Sheet1/000003",
+      "sourceBindingSha256": "4db346171b0ad77340dfbcaba57a114c32384fe0b3f3a9c325ef1576bb1a418a",
+      "sourceTextSha256": "29331924ad26348f2477ead0c36b3563b72d45aff6a6812c1683de0a25efa79d",
+      "freshTranslation": "안젤로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00143/Sheet1/000004",
+      "sourceBindingSha256": "56f42cd27ff2be1df6a3c0b6ec6ebb3debcd7a315b5601169db122c14cfe6a7d",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00143/Sheet1/000005",
+      "sourceBindingSha256": "33837eb64a8b551b2b92773ad739164a292c4027e39befd43127a1294b9c41d3",
+      "sourceTextSha256": "a42cebb0a84d3ca38e169087deff1b40bc6b6566fec564812971c409e22ee2e6",
+      "freshTranslation": "카키하라 테츠야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00143/Sheet1/000006",
+      "sourceBindingSha256": "9ad769b779778fcf7acfa6d6a1a7df2431561ea674e98e25709d6a3542197f4b",
+      "sourceTextSha256": "8b16dec299ebd97a1553760d773c3267e8db649af2f14f952ecd1eb96bb2e97a",
+      "freshTranslation": "「소매 첨부」의 풀・프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00143/Sheet1/000007",
+      "sourceBindingSha256": "0b2562c64f28624ca5a95627840c0c169ff6d960e7246f6b109a9a277f6577ae",
+      "sourceTextSha256": "8a8d98751762010d025cfdf5de965d65e968ce80d2dfdb329d6bbabc5bc8ae0c",
+      "freshTranslation": "르 친위대 대장. 계급은 대위. 19세. ㊥ 자존심이 높고 자신의 실력에 자신을 가지고 다른 사람에 대해서는 냉철하게 내려다 본 태 ㊥도를 취한다. ㊥ 또한 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00143/Sheet1/000008",
+      "sourceBindingSha256": "f1100e0bde1a7d8de8a5a494cc51bf8bef50ead43011ebd0a6ca939daa6fd8e3",
+      "sourceTextSha256": "90f9f094dbb4615cea378481e63464fe98aac1349fc159aa445630a3b0467ea3",
+      "freshTranslation": "르에게 비정상적인 때까지 심취해 그의 적이나 그에게 무례를 일하는 인간에 대해서는 ㊥ 분노의 감정을 드러낸다. ㊥ 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00143/Sheet1/000009",
+      "sourceBindingSha256": "128c485743d6e45f6f2ac0fc207834fbc4d41a5b271467fa91c98d9e03131dae",
+      "sourceTextSha256": "07120300d53944a033e6804b86cf04f5ed1112bcbbd8c7671cbd3ea04d741b14",
+      "freshTranslation": "르에 정면에서 마주보려고 했던 배너지에는 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00143/Sheet1/000010",
+      "sourceBindingSha256": "6a2cc03c37a8baaa3415846a3b192ac9a9fca97903e1c6700e00db56be53270b",
+      "sourceTextSha256": "dcc51113ebf90445eef82c36dff5540a7fd10d99d8984f686d3d7c8f99674d7e",
+      "freshTranslation": "르의 제지마저 듣거나 ㊥ 없이 잡는 등했다. ㊥ 승기는 전용 컬러의 길라 줄로 전장에서도 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00143/Sheet1/000011",
+      "sourceBindingSha256": "b163f092f826b9ed460b714d9249432760e09b683cde6a92a4283fee4f995b01",
+      "sourceTextSha256": "6f5503c4887434cbdabd00bae5afef8b6a0a56d71553d50278850b3e47acac25",
+      "freshTranslation": "르의 호위를 맡지만, 그의 ㊥ 전투를 방해하지 않는 일을 먼저 생각하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00143/Sheet1/000012",
+      "sourceBindingSha256": "0fe59efc8bd1f7b4d18c09fc4cf4a04eb857a9573dea7a3982bf5f401505205b",
+      "sourceTextSha256": "8b16dec299ebd97a1553760d773c3267e8db649af2f14f952ecd1eb96bb2e97a",
+      "freshTranslation": "「소매 첨부」의 풀・프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00143/Sheet1/000013",
+      "sourceBindingSha256": "0dddeb56ef710a0005e622eae79300bab1ef3b66ec62ff64c7cdaa77ec609994",
+      "sourceTextSha256": "8a8d98751762010d025cfdf5de965d65e968ce80d2dfdb329d6bbabc5bc8ae0c",
+      "freshTranslation": "르 친위대 대장. 계급은 대위. 19세. ㊥ 자존심이 높고 자신의 실력에 자신을 가지고 다른 사람에 대해서는 냉철하게 내려다 본 태 ㊥도를 취한다. ㊥ 또한 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00143/Sheet1/000014",
+      "sourceBindingSha256": "f90ffa4ab28c801d77483a08ed4bbd61d46467d7334a5dc005873378114a8a6f",
+      "sourceTextSha256": "90f9f094dbb4615cea378481e63464fe98aac1349fc159aa445630a3b0467ea3",
+      "freshTranslation": "르에게 비정상적인 때까지 심취해 그의 적이나 그에게 무례를 일하는 인간에 대해서는 ㊥ 분노의 감정을 드러낸다. ㊥ 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00143/Sheet1/000015",
+      "sourceBindingSha256": "48fb61c1cba93d55236769a3941534929f19640d74810c70de4acc238dba1068",
+      "sourceTextSha256": "07120300d53944a033e6804b86cf04f5ed1112bcbbd8c7671cbd3ea04d741b14",
+      "freshTranslation": "르에 정면에서 마주보려고 했던 배너지에는 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00143/Sheet1/000016",
+      "sourceBindingSha256": "3211084dd5cfcd6bf4ea51be3b106215e9ad77b292f1592b379a9b8c36b5b262",
+      "sourceTextSha256": "dcc51113ebf90445eef82c36dff5540a7fd10d99d8984f686d3d7c8f99674d7e",
+      "freshTranslation": "르의 제지마저 듣거나 ㊥ 없이 잡는 등했다. ㊥ 승기는 전용 컬러의 길라 줄로 전장에서도 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00143/Sheet1/000017",
+      "sourceBindingSha256": "2a4518b056cd178eab3e847f3e5795042b99d282bae98c729cfb5f2b38b05898",
+      "sourceTextSha256": "6f5503c4887434cbdabd00bae5afef8b6a0a56d71553d50278850b3e47acac25",
+      "freshTranslation": "르의 호위를 맡지만, 그의 ㊥ 전투를 방해하지 않는 일을 먼저 생각하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

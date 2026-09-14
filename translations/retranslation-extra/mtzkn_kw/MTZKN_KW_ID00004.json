@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00004",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00004/Sheet1/000002",
+      "sourceBindingSha256": "a957e94a0efd0d5643c73ba14d4124bc56cbb0eece081cce7052258be9a34212",
+      "sourceTextSha256": "dd38174d7151a8cad1aa966b901447d183105bb64deb4b43f560a5453dc28407",
+      "freshTranslation": "아임",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00004/Sheet1/000003",
+      "sourceBindingSha256": "9b624c2233af5c1f9902f8c3a067ac98b6fa5190c601afbcb066b54dfcd098b9",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00004/Sheet1/000004",
+      "sourceBindingSha256": "1b10bd3fb5b1ee1b44a72e3bc062c10a21306151ebd58800277590116e577a8e",
+      "sourceTextSha256": "1ff6f5304018956e9fd63b5f8eb432d9d843ddc92f401b77d34c41491a8b1451",
+      "freshTranslation": "풀네임은 아임 라이아드. ㊥ '거짓의 검은 양'의 스피어 소지자로 기동 무기 아리에티스를 달리는 남자. ㊥파계 사변에서는 세계에 혼란을 일으키기 위해 파계의 왕 가이오를 불러 ㊥신제국 임페륨의 참모로 암약한다. ㊥파계사변의 말기 남극의 전투에서 전사했다고 생각되었지만, 그 죽음은 스피㊥아의 힘에 의한 의태였다. ㊥ 자신의 목적을 위해, 인사라움의 앰블론 지우스에게 차원 과학을 제공㊥했다. 그 의도의 대부분은 불명하지만, 재세 전쟁의 종반에 어비스에서 두 개의 ㊥세계를 맺은 뒤에는, 다른 스피어 소유자를 사냥하는 것 이상의 뭔가가 존재하고 ㊥인 것 같다. ㊥ 거짓 흑양의 스피어는 인간의 거짓말을 맡고, 그 소유자인 그의 언동도 거짓말에 ㊥ 가득 찼고, 본심을 잡는 것은 어렵다. 덧붙여 스피어에 중반 받아들여지고 있어, ㊥ 감정이 높아지면 올바른 일, 즉 의미가 있는 것이 말할 수 없게 된다. ㊥ 덧붙여 아임 라이아드는 가명이며, 본명은 하말 아르고. 원래는 ㊥ 거짓 흑양의 스피어의 연구자이며, 그 자질에 의해 스피어에 받아들여져 ㊥하는 것이 되었다. ㊥ 재세전쟁의 종반, 거짓 흑양의 천적이 되는 스피어 '알고 싶어하는 염소'의 힘㊥을 사용한 아사킴 드 -윈에 의해 무력화되어 스스로가 이용해 온 성이㊥인살라움 왕국의 통치자, 유서 인사라움에게 토벌되어 최후를 맞이했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00004/Sheet1/000005",
+      "sourceBindingSha256": "439120e0f9dbdd085264b172e80af7d3b53c210f09a5bbab420e158bb876c211",
+      "sourceTextSha256": "1ff6f5304018956e9fd63b5f8eb432d9d843ddc92f401b77d34c41491a8b1451",
+      "freshTranslation": "풀네임은 아임 라이아드. ㊥ '거짓의 검은 양'의 스피어 소지자로 기동 무기 아리에티스를 달리는 남자. ㊥파계 사변에서는 세계에 혼란을 일으키기 위해 파계의 왕 가이오를 불러 ㊥신제국 임페륨의 참모로 암약한다. ㊥파계사변의 말기 남극의 전투에서 전사했다고 생각되었지만, 그 죽음은 스피㊥아의 힘에 의한 의태였다. ㊥ 자신의 목적을 위해, 인사라움의 앰블론 지우스에게 차원 과학을 제공㊥했다. 그 의도의 대부분은 불명하지만, 재세 전쟁의 종반에 어비스에서 두 개의 ㊥세계를 맺은 뒤에는, 다른 스피어 소유자를 사냥하는 것 이상의 뭔가가 존재하고 ㊥인 것 같다. ㊥ 거짓 흑양의 스피어는 인간의 거짓말을 맡고, 그 소유자인 그의 언동도 거짓말에 ㊥ 가득 찼고, 본심을 잡는 것은 어렵다. 덧붙여 스피어에 중반 받아들여지고 있어, ㊥ 감정이 높아지면 올바른 일, 즉 의미가 있는 것이 말할 수 없게 된다. ㊥ 덧붙여 아임 라이아드는 가명이며, 본명은 하말 아르고. 원래는 ㊥ 거짓 흑양의 스피어의 연구자이며, 그 자질에 의해 스피어에 받아들여져 ㊥하는 것이 되었다. ㊥ 재세전쟁의 종반, 거짓 흑양의 천적이 되는 스피어 '알고 싶어하는 염소'의 힘㊥을 사용한 아사킴 드 -윈에 의해 무력화되어 스스로가 이용해 온 성이㊥인살라움 왕국의 통치자, 유서 인사라움에게 토벌되어 최후를 맞이했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

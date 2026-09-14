@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00219",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00219/Sheet1/000002",
+      "sourceBindingSha256": "2c2a143e1d633542000c32fe60284f5b131d97936753b1e91fd3b656be466ce5",
+      "sourceTextSha256": "02c5447666a17d306ba16811799a87ad1db709bbf326e134549a0c681611f7fe",
+      "freshTranslation": "아카기 슌스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00219/Sheet1/000003",
+      "sourceBindingSha256": "57b8811a98483851b7237cf7dd6ad8f19309b00a7194ab8b77381a11280659db",
+      "sourceTextSha256": "39df5d55bcea256e3bfc54caab3e090088ec4d1ce06e842c18c5a88ece8981ed",
+      "freshTranslation": "아카기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00219/Sheet1/000004",
+      "sourceBindingSha256": "b6142a9cf4c05fd22702788d06b6ae6310f37f2479e828f5d550fad27008f3a5",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00219/Sheet1/000005",
+      "sourceBindingSha256": "81d24b80dff165d51763f00adaed9887f8760d046cfe075a1b647065314ad602",
+      "sourceTextSha256": "08b9adda4e5b5c998547c0a39977a84733bf99731df3cb07bc033b3f5e32ad2a",
+      "freshTranslation": "이토 켄타로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00219/Sheet1/000006",
+      "sourceBindingSha256": "56699317477d43de00fb00000e354298d39efb3e2ec848baf882a79c2f05bed2",
+      "sourceTextSha256": "c8ee0a99e64ff7edc43e387c8df8fe9024cef73a17670005ec44fe965cfd5cb0",
+      "freshTranslation": "다이 가드의 메인 파일럿. 25세. ㊥ 주식회사 21세기 경비보장 기획개발부 홍보 2과에 소속되어 평소에는 책상과 ㊥ 이벤트에서 홍보활동을 하고 있다. 하지만, 일단 헤테로다인이 나타나면, 다이·㊥가드에 탑승해, 평화로운 미래를 구축하기 위해, 모두의 행복 지키기 위해서 싸움에 임한다. ㊥ 좋아하는 것은? 라고 물으면 거대한 로봇! 라고 대답할 정도의 큰 로봇 좋아. ㊥ 어린 시절에는 텔레비전에서 영웅물을 보고 절대 조종사가 된다고 하고 있어 그 소 ㊥년의 마음을 계속 유지한 채 성장했다. ㊥ 이윽고 유엔 안보군 극동 사령부 부속 국제 방위대(국방대)에 입학하면 직립",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00219/Sheet1/000007",
+      "sourceBindingSha256": "3505cf82297755dea478cdbd4151c8d6365a5206cc04de42d88986eaa28d449e",
+      "sourceTextSha256": "0eb14621944f702fcfac00446ddc9ee8d55e4fce6fcf97d4aad976658a648e03",
+      "freshTranslation": "重㊥기면허 갑종을 취득. 종여동생으로 해 21세기 경비 보장 사장 비서의 카미무라의 추천도 있어,㊥다이가드를 타기 위해 현재 회사에 취직하고 있다.㊥성격은 명랑쾌활하고 감정이 풍부하다. 어디까지나 밝은 과내의 고조 역. 더 약한 도움㊥힘차게 좌절하는 정의감에 넘치는 점이 장점이며, 그 열기에 감화된 인간은 많다.㊥하지만 필요 이상으로 뜨거워지기 쉽고, 때때로 무차를 먹으면 주위에서 꾸짖을 수 있습니다.㊥많은 것도 사실이다.㊥싫어하는 것은 피망과 셀러리와 다양한 부분에서 아이 같음을 남기고 있다. 취미는㊥신체를 단련하기 위한 조깅과, 로봇 좋아하는 것처럼 프라 모델과의 일. 그 밖에도 큰㊥양의 장난감을 사고 있는 것이 이부키의 입에서 말해지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00219/Sheet1/000008",
+      "sourceBindingSha256": "f3d11a8abebb82cf3062738e74b01f0c2ffd1af9d530445b302fb9f37528c2fb",
+      "sourceTextSha256": "c8ee0a99e64ff7edc43e387c8df8fe9024cef73a17670005ec44fe965cfd5cb0",
+      "freshTranslation": "다이 가드의 메인 파일럿. 25세. ㊥ 주식회사 21세기 경비보장 기획개발부 홍보 2과에 소속되어 평소에는 책상과 ㊥ 이벤트에서 홍보활동을 하고 있다. 하지만, 일단 헤테로다인이 나타나면, 다이·㊥가드에 탑승해, 평화로운 미래를 구축하기 위해, 모두의 행복 지키기 위해서 싸움에 임한다. ㊥ 좋아하는 것은? 라고 물으면 거대한 로봇! 라고 대답할 정도의 큰 로봇 좋아. ㊥ 어린 시절에는 텔레비전에서 영웅물을 보고 절대 조종사가 된다고 하고 있어 그 소 ㊥년의 마음을 계속 유지한 채 성장했다. ㊥ 이윽고 유엔 안보군 극동 사령부 부속 국제 방위대(국방대)에 입학하면 직립",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00219/Sheet1/000009",
+      "sourceBindingSha256": "2ce099038166893ceabfe0e25de25d0078338e068c9680e75018721a9d595f1c",
+      "sourceTextSha256": "0eb14621944f702fcfac00446ddc9ee8d55e4fce6fcf97d4aad976658a648e03",
+      "freshTranslation": "重㊥기면허 갑종을 취득. 종여동생으로 해 21세기 경비 보장 사장 비서의 카미무라의 추천도 있어,㊥다이가드를 타기 위해 현재 회사에 취직하고 있다.㊥성격은 명랑쾌활하고 감정이 풍부하다. 어디까지나 밝은 과내의 고조 역. 더 약한 도움㊥힘차게 좌절하는 정의감에 넘치는 점이 장점이며, 그 열기에 감화된 인간은 많다.㊥하지만 필요 이상으로 뜨거워지기 쉽고, 때때로 무차를 먹으면 주위에서 꾸짖을 수 있습니다.㊥많은 것도 사실이다.㊥싫어하는 것은 피망과 셀러리와 다양한 부분에서 아이 같음을 남기고 있다. 취미는㊥신체를 단련하기 위한 조깅과, 로봇 좋아하는 것처럼 프라 모델과의 일. 그 밖에도 큰㊥양의 장난감을 사고 있는 것이 이부키의 입에서 말해지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

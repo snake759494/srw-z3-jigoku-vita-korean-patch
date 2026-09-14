@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00111",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00111/Sheet1/000002",
+      "sourceBindingSha256": "05d2499e14c4189cd3007841e34dda2ce21d064786be19ea1fc6c8fd33b786c2",
+      "sourceTextSha256": "5628ea43f483e66f6750deb59fa3d273e8e24482653a85f426ac44e25d5b53f9",
+      "freshTranslation": "라세 아이온",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00111/Sheet1/000003",
+      "sourceBindingSha256": "7003546e9546480e75b4460256ef2765fe7705dafbbb5264d5229d0ae4e57869",
+      "sourceTextSha256": "6f9de60e0271f746ba5100c472cce5070e1f95d4e93ec30d00355b0b5ea71717",
+      "freshTranslation": "라세",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00111/Sheet1/000004",
+      "sourceBindingSha256": "e536ca563d591d73f5f3c71ac98b5e98fbc7a342d7505b8a091b116978d3a633",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00111/Sheet1/000005",
+      "sourceBindingSha256": "0dd5c260227fbe53984b7b03f86fc1e4790e148dad6f03b0c5b6c45a2d1aef7d",
+      "sourceTextSha256": "ef931eb21f6b9c045095ee87e270bdbe104de32272b32235975b4508c4cb8ed0",
+      "freshTranslation": "히가시지 히로키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00111/Sheet1/000006",
+      "sourceBindingSha256": "2f0cbd2d9669985da1b4dcb2346e73346739b96d2af7b3081edc2faf8f9d3635",
+      "sourceTextSha256": "04bfb962b3054ae1c1451010bd4bbbc24b9ba9755f59f9a953edd52bf236d496",
+      "freshTranslation": "프톨레마이오스 2개의 조타사 겸 포격사. ㊥원래는 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00111/Sheet1/000007",
+      "sourceBindingSha256": "1fa7b364b306254422e5af3b46ff02eaf72602ca1c0be0ea13d0055b60ead6c8",
+      "sourceTextSha256": "3fb5cec82a9e501e80e6a232e3509dd10ca1eb5badc1b4fc362b21da6e14647e",
+      "freshTranslation": "- 후보이며 건담을 비롯한 기체로 출격하는 경우도 있다. ㊥ 강한 독성을 가진 GN 입자의 영향을 받아 세포 장애로 고통 받았지만, 트란잠바 ㊥ 스트에 의해 확산 된 고농도의 GN 입자에 의해 세포 내의 독소가 제거되어 생명 ㊥을 제거했다. ㊥ 브릿지 크루 유일한 남성으로서 프톨레마이오스 2개의 정신적인 기둥이 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00111/Sheet1/000008",
+      "sourceBindingSha256": "2cb6b46b7e3e6fccd41373584bcbc696fdf2158ca90fc3f26cbaf634edd427d9",
+      "sourceTextSha256": "04bfb962b3054ae1c1451010bd4bbbc24b9ba9755f59f9a953edd52bf236d496",
+      "freshTranslation": "프톨레마이오스 2개의 조타사 겸 포격사. ㊥원래는 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00111/Sheet1/000009",
+      "sourceBindingSha256": "450eeceb3d1a770aeb3ed62c2082cc5af2ce7f913bdc504db318f6718076599a",
+      "sourceTextSha256": "3fb5cec82a9e501e80e6a232e3509dd10ca1eb5badc1b4fc362b21da6e14647e",
+      "freshTranslation": "- 후보이며 건담을 비롯한 기체로 출격하는 경우도 있다. ㊥ 강한 독성을 가진 GN 입자의 영향을 받아 세포 장애로 고통 받았지만, 트란잠바 ㊥ 스트에 의해 확산 된 고농도의 GN 입자에 의해 세포 내의 독소가 제거되어 생명 ㊥을 제거했다. ㊥ 브릿지 크루 유일한 남성으로서 프톨레마이오스 2개의 정신적인 기둥이 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

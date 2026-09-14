@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00043",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00043/Sheet1/000002",
+      "sourceBindingSha256": "480be93ec011ec7e2c454742d9309c6d318e48c9d15a91dce8be269bf15af129",
+      "sourceTextSha256": "f6537b81744a5f1d8f57407b1096f66bb92509ee1d78f322d338e370383ff4ab",
+      "freshTranslation": "젤 보슨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00043/Sheet1/000003",
+      "sourceBindingSha256": "afa72e210b337f3125782db070b3eb5f7afe01e9cd47406afe9c01ff392f76e0",
+      "sourceTextSha256": "b48d2ffa91ead62c1047689b864fd25cf87abcab69ab46b3622990b18e027572",
+      "freshTranslation": "보슨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00043/Sheet1/000004",
+      "sourceBindingSha256": "a24e314f1868db62c8651967ecbdf54e9d2aa014ca6f8dcc1af4cfc49c839353",
+      "sourceTextSha256": "d6da0d732e53cf9ec71ba1b1163d4c980ff617b1f4caa65741721bae9928ed9a",
+      "freshTranslation": "장갑 기병 보텀스 빅 배틀",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00043/Sheet1/000005",
+      "sourceBindingSha256": "661d0c54c1564a941719ae26b25a2dfc3f39613cf25c9ef68287cd44c3cd56e3",
+      "sourceTextSha256": "ea0d8fa7a0e6c2ba68f77eb209c04ba1a3e6c599a40b840cae2f7462f4672d39",
+      "freshTranslation": "발라란트의 군인. ㊥ 로치나의 생명을 받아 PS인 니바의 조정 지휘를 받았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00043/Sheet1/000006",
+      "sourceBindingSha256": "8cc8b92d6623d9421eb14a48ab6213e1ebec4a3af030364e722c425a1850b93f",
+      "sourceTextSha256": "8d15c209bf23d3150990419ed89f6a461807f0f230134907e2e66f4140ae26b1",
+      "freshTranslation": "발라란트의 군인. ㊥ 로치나의 생명을 받아 PS인 니바의 조정 지휘를 받았다. ㊥명령에 따르지 않는 니바를 갖고 남아 있었고, 그를 구속하고, 복종을 맹세하게 하려고 했지만, ㊥ 힘으로 계명을 풀었던 니바에게 목의 뼈를 꺾고 절명했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

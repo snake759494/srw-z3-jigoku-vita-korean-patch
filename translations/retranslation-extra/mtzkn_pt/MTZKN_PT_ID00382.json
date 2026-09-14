@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00382",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00382/Sheet1/000002",
+      "sourceBindingSha256": "4469ef0e97eabb5ca7abecb9a628fa77f5757e5ca875fa86415299c4cced6834",
+      "sourceTextSha256": "1133b73ec7db49984a015a85ede1915aa2694a74c3128d2ea912ea952b4671fd",
+      "freshTranslation": "부동 ZEN",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00382/Sheet1/000003",
+      "sourceBindingSha256": "8c69dd2bf91d362cfe650ae85654247c09029c47f0f4a17f6fe7c416cc09223e",
+      "sourceTextSha256": "545cd45a0ba7d589607a321ac4e7dc9e28d015e458797c86071494939a8efe92",
+      "freshTranslation": "부동",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00382/Sheet1/000004",
+      "sourceBindingSha256": "7a9c68f2b8440e765c4159fda04a6fadaaee982fb0668265ff8aeaece1b4ee91",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00382/Sheet1/000005",
+      "sourceBindingSha256": "b7f42aa405dc6fc1d05852bbe75add2506743f667e50317917a669fce5b37a79",
+      "sourceTextSha256": "4822c3b31881ff84cfc86ba6373894ea4e20cf66c303e262e83f3b2ad2ab6b6d",
+      "freshTranslation": "후지와라 케이지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00382/Sheet1/000006",
+      "sourceBindingSha256": "683e1511af590b60064222b0814b2e380bbfcc91df48dec131d7609c88d3fbde",
+      "sourceTextSha256": "e14ebbc3fa06f10501967ab40556a291bc0af0cb4214946ba1c3c89c2afbcfed",
+      "freshTranslation": "네오디바의 총 사령. ㊥ 당초는 학원의 용무원 등으로 변장하고 있었지만, 아쿠아리온 EVOL의 부활과 함께 귀㊥환했다. ㊥ 항상 모든 것을 바라보는 태도로, 선문답과 같은 수수께끼의 조언을 클레어나 ㊥ 엘리먼트 후보생에게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00382/Sheet1/000007",
+      "sourceBindingSha256": "c8ace4dfdddd0056179bb414cc817453a49fd91f8566820af66abf0d53419494",
+      "sourceTextSha256": "c2a9478aed38644a908dac1e9a0e9bd6231c75cde2eb69c1f9f325772f4a543e",
+      "freshTranslation": "그래, 그들을 당황하게 만들었다. 하지만 그것은 반드시 깊은 의도를 포함 ㊥ 이며, 의미를 풀 수 있다면 궁지를 벗을 수 있다. ㊥ 비유 이야기를 할 때는 도넛을 사용하는 경우가 많다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00382/Sheet1/000008",
+      "sourceBindingSha256": "379771ec2e42f84cadf5c5454b846d70b5805414313dfba95568b6137bb18192",
+      "sourceTextSha256": "e14ebbc3fa06f10501967ab40556a291bc0af0cb4214946ba1c3c89c2afbcfed",
+      "freshTranslation": "네오디바의 총사령. ㊥ 당초는 학원의 용무원 등으로 변장하고 있었지만, 아쿠아리온 EVOL의 부활과 함께 귀㊥환했다. ㊥ 항상 모든 것을 바라보는 태도로, 선문답과 같은 수수께끼의 조언을 클레어나 ㊥ 엘리먼트 후보생에게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00382/Sheet1/000009",
+      "sourceBindingSha256": "fb2146582df51d923f6baa11f43c72bb98623112f648ced0b3d22d9e6526433b",
+      "sourceTextSha256": "cdc7b1f2c3c7cf66a8ae9d4e2513e663d5a0846ec5319830f2e4f43c8454263e",
+      "freshTranslation": "그래, 그들을 당황하게 만들었다. 하지만 그것은 반드시 깊은 의도를 포함 ㊥ 이며, 의미를 풀 수 있다면 궁지를 벗을 수 있다. ㊥ 비유 이야기를 할 때는 도넛을 사용하는 경우가 많다. ㊥1만2000년 전에 싸운 엘리먼트들의 환생인 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00382/Sheet1/000010",
+      "sourceBindingSha256": "960882caee1845658ab1e56c9f36c24d1f4dd1a2ee43461f22d58138f1b5a090",
+      "sourceTextSha256": "3046c98b80b655235eea1eebe4ea8b1a583877d042375cb021d77c0036ac5692",
+      "freshTranslation": "와 미코노를 인도 ㊥ 하고, 싸움의 결착이 붙은 후는, 원념으로 갈 곳이 없어진 미카게의 영혼을, 자신의 ㊥ 마음속에 받아들여 봉인했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

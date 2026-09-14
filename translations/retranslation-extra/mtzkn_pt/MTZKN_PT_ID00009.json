@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00009",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00009/Sheet1/000002",
+      "sourceBindingSha256": "4e9e17eb3bde59894f5d052768a86feff6800f170ead88bdf1e3e5d277c8ab1c",
+      "sourceTextSha256": "8c25be9c08d86944f6a2f7217a602e9eb14f3a45f2d6301aef84ec5af5066ce4",
+      "freshTranslation": "다케오 사치코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00009/Sheet1/000003",
+      "sourceBindingSha256": "3549a6a01d8ed9e97d04842793ace47bb3e8e5e7e76c60e78d00fc2e76fb17b8",
+      "sourceTextSha256": "a0bf7bbeb64aa9159644816f3911e2fb63382f32092f5fdd8938645fd746ba31",
+      "freshTranslation": "사치코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00009/Sheet1/000004",
+      "sourceBindingSha256": "00e0bde98c8a4a3c0acb33a3f4ec6644c3e134bcea9b192efa02154304857bcf",
+      "sourceTextSha256": "77c406ff1c1b9634902fdd15ec771c2a07e20db9f0a6b53196dbf872ebd5aa4c",
+      "freshTranslation": "무적 로보 트라이더 G7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00009/Sheet1/000005",
+      "sourceBindingSha256": "340027e7f5425bb01747ce85739ccc69d61463851d6d1a2f2a38add63fdcd936",
+      "sourceTextSha256": "380e1d3fbd12d28b68a3af6c5f282ed410a57ba912a9314334c3fe5e17aa6e93",
+      "freshTranslation": "와타의 여동생. 8세. ㊥ 활발하고 전파하지만 밝고 솔직한 소녀. ㊥ 때로는 파티에 나가는 와타에게 테이블 매너를 가르치고, 때로는 잠을 자고 지각㊥하는 와타를 일으키는 등, 타케오가에서는 가대에 이어 확실한 자이다. ㊥ 전투까지는 하지 않았지만, 트라이더를 조종한 적도 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00009/Sheet1/000006",
+      "sourceBindingSha256": "590b52d7060188ff3d3bfe60e2da2f89e9126b5218276027dedfea078d076433",
+      "sourceTextSha256": "380e1d3fbd12d28b68a3af6c5f282ed410a57ba912a9314334c3fe5e17aa6e93",
+      "freshTranslation": "와타의 여동생. 8세. ㊥ 활발하고 전파하지만 밝고 솔직한 소녀. ㊥ 때로는 파티에 나가는 와타에게 테이블 매너를 가르치고, 때로는 잠을 자고 지각㊥하는 와타를 일으키는 등, 타케오가에서는 가대에 이어 확실한 자이다. ㊥ 전투까지는 하지 않았지만, 트라이더를 조종한 적도 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

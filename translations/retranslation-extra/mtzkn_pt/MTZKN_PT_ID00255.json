@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00255",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00255/Sheet1/000002",
+      "sourceBindingSha256": "4aa1e575c1ab9939742e892021593388bae6b8c0dd8aae0e0d1c53ae7d36763b",
+      "sourceTextSha256": "f16840d85f720448bd449fae9a81fac361bb92689cacd12c2df8acf2865ce12b",
+      "freshTranslation": "다나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00255/Sheet1/000003",
+      "sourceBindingSha256": "9cab9941b1b7e904d1b37a46693f78e0357902eb91c7b1b013958b924dda55db",
+      "sourceTextSha256": "f16840d85f720448bd449fae9a81fac361bb92689cacd12c2df8acf2865ce12b",
+      "freshTranslation": "다나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00255/Sheet1/000004",
+      "sourceBindingSha256": "7a209deeea044332cd0ff1f2fdb6d76f82df4da0951186cb61a5e3242fd67282",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00255/Sheet1/000005",
+      "sourceBindingSha256": "f2ca985d58bb8bf339bdad951c2e50181f6098e27f9e54bd466deab9e9fb916e",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00255/Sheet1/000006",
+      "sourceBindingSha256": "7c42a9878aaa5a7790ca07fed4af6b4696ada305bc88ad44ff6e10d6bc329451",
+      "sourceTextSha256": "7f8fabed90ad75beec4fa1fc4d5c80ce7fb7e93e600984a6502b2f6082987d55",
+      "freshTranslation": "투아하 데 다낭 (TDD-1)의 중앙 컴퓨팅",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00255/Sheet1/000007",
+      "sourceBindingSha256": "b71c00a6905d2346a97312a4675958f5b242bf83b91df44b126b9ddca0ef71c4",
+      "sourceTextSha256": "91a8d9b604486547c37e8d308c5ebe2614851dbd72e4100ec3145dd8f02032fd",
+      "freshTranslation": "· 어머니 AI. ㊥ 데 다낭의 모든 장비와 장비를 제어한다. ㊥ 다나의 서포트를 받는 「완전자동 모드」에서는, 한정적이면서, 혼자라도 조함㊥이 가능해진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00255/Sheet1/000008",
+      "sourceBindingSha256": "3408b71b76e29fe3dce26d0da0b949687aded7da93bef5e26b8423c6e46dd1b8",
+      "sourceTextSha256": "7f8fabed90ad75beec4fa1fc4d5c80ce7fb7e93e600984a6502b2f6082987d55",
+      "freshTranslation": "투아하 데 다낭 (TDD-1)의 중앙 컴퓨팅",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00255/Sheet1/000009",
+      "sourceBindingSha256": "9ca2b10790be70772668abbdb0e3f1c7a44de3df8d55ff64c690d217aacbcaf0",
+      "sourceTextSha256": "fea0ddd60869c585352297d29bfc1d49b50303b52ba06c7ccf43f25f13e9a053",
+      "freshTranslation": "· 어머니 AI. ㊥ 데 다낭의 모든 장비와 장비를 제어한다. ㊥ 다나의 서포트를 받는 「완전자동 모드」에서는, 한정적이면서, 혼자라도 조함㊥이 가능해진다. ㊥ 베릴다 오브 섬에서의 싸움 후, 포로를 입고 데 다낭에 들어간 가울른에 발령 ㊥소를 점거되어 프로그램을 다시 쓸 수 있다. 그에 따라 가우룬을 함장으로 인식하는 ㊥ 하지만, 카나메나 테사의 분전에 의해 정상 상태로 복구했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

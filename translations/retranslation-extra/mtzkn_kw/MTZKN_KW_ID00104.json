@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00104",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00104/Sheet1/000002",
+      "sourceBindingSha256": "a82ef7ac12e1543666184e4637ea71caadd545e56e06872a17fd37487faa31c5",
+      "sourceTextSha256": "ca66a000b8336ce72290dbceba9378f295f59d5596e7388f264bb37c41657170",
+      "freshTranslation": "스피어",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00104/Sheet1/000003",
+      "sourceBindingSha256": "8308ca1b8ad8933f5b8d7e1b92ca5f956073e11114981db5ed9bf77fb49294be",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00104/Sheet1/000004",
+      "sourceBindingSha256": "025338827da2db072ff3d588c3a938cfe95d99c483a060e3ca9e4f8c1b3e30dc",
+      "sourceTextSha256": "a39d28e0bd1ad609ed09324681785f922118ee88709c34aed0587b09a5dec927",
+      "freshTranslation": "차원 힘을 통제하는 수수께끼의 기관. ㊥ 황도 12 별자리에 대응하고 있으며, 각각 인간의 정신적인 움직임에 반응하여 힘㊥을 발휘한다. ㊥ 기본적으로는 기동병기의 동력원으로서 탑재되지만, 스피어의 가동단계가 진행㊥면 초기기로 사용할 수도 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00104/Sheet1/000005",
+      "sourceBindingSha256": "d16bdd7610d19b61154a7f75d974067bdda1e47dd8c381b82375999ddfb78e4a",
+      "sourceTextSha256": "28fb72536f757fa218aaa0007b2b3cdbd1cab4908ddd7253fca6da957c532f40",
+      "freshTranslation": "차원 힘을 통제하는 수수께끼의 기관. ㊥ 황도 12 별자리에 대응하고 있으며, 각각 인간의 정신적인 움직임에 반응하여 힘㊥을 발휘한다. ㊥ 기본적으로는 기동병기의 동력원으로서 탑재되지만, 스피어의 가동단계가 진행㊥면 초기기로 사용할 수도 있다. ㊥현시점에서는 12의 스피어 중, 「거짓의 흑양」 「이잡는 쌍둥이」 「침묵㊥의 거게」 「 상처 투성이의 사자, '슬픔의 처녀', '흔들리는 천칭', '알고 싶어하는 산㊥양', '무한 물병'의 8가지 존재가 확인되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

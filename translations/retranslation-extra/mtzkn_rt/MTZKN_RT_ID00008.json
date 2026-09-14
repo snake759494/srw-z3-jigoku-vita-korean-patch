@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00008",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00008/Sheet1/000002",
+      "sourceBindingSha256": "63b2e39f00735dc87c84a54da6cc9806e8d95793ad26aa3380a16bebd8fc3a52",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00008/Sheet1/000003",
+      "sourceBindingSha256": "78d08c0a11d1faaacbc19d7c1fb430c38be1f53d638cdcd221bd01fe1b77a4de",
+      "sourceTextSha256": "5445bf2b5b2dc9bf9f02d66fa412966943bbd04455b8aee316083380bf305bb1",
+      "freshTranslation": "스페이스 로보 5호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00008/Sheet1/000004",
+      "sourceBindingSha256": "9b24e962eb8448cc14749632925ded70278b274a54aff5e68c08079cf0cb8541",
+      "sourceTextSha256": "5445bf2b5b2dc9bf9f02d66fa412966943bbd04455b8aee316083380bf305bb1",
+      "freshTranslation": "스페이스 로보 5호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00008/Sheet1/000005",
+      "sourceBindingSha256": "81d0dac15303dd063ab7a77bd37650172b9ea903ff05a013794f5bb8f1f6f06e",
+      "sourceTextSha256": "16100e54405964aa6e96e6f0625b215b601620ba0932ebf45a95c4c86034b6c7",
+      "freshTranslation": "구라 킹 Jr.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00008/Sheet1/000006",
+      "sourceBindingSha256": "99b4b96a463f6b48db41bd94a43d5e7d8690fb12f7c30c5b9ea5d4488189fd3e",
+      "sourceTextSha256": "7944b318463b10dd6f6e4783d1c0103f59939e89595906b959aa002056941cd6",
+      "freshTranslation": "제48화 “지구 최대의 핀치! 』에 등장한 로봇. ㊥ 구라가 스스로 조종하는 스페이스 로봇의 제5호로, 라이온과 비슷한 외관을 가진다. ㊥ 지금까지의 공간 로보를 능가하는 성능을 가지고 있으며, 특히 입에서 발하는 검",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00008/Sheet1/000007",
+      "sourceBindingSha256": "050f759df8c5cdca09575a81cc97fd07a518eae5d5f5dc20b261016bd7a2e547",
+      "sourceTextSha256": "390cceec4d5f9dc6b0d170d69211963b3fe14e8f546caf20233bb34343ca3667",
+      "freshTranslation": "의 광선은 강㊥힘 무비. 초합금제 철인 장갑도 쉽고 관통했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00008/Sheet1/000008",
+      "sourceBindingSha256": "13fe144f00b7446e25168065f0931b77c1f24dd612e678e19e7f2226d28ee0c8",
+      "sourceTextSha256": "7944b318463b10dd6f6e4783d1c0103f59939e89595906b959aa002056941cd6",
+      "freshTranslation": "제48화 “지구 최대의 핀치! 』에 등장한 로봇. ㊥ 구라가 스스로 조종하는 스페이스 로봇의 제5호로, 라이온과 비슷한 외관을 가진다. ㊥ 지금까지의 공간 로보를 능가하는 성능을 가지고 있으며, 특히 입에서 발하는 검",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00008/Sheet1/000009",
+      "sourceBindingSha256": "a69c3da67067a77f5c198082d0b28238c7af1bb05c6fd35dc6f20fd77f132dd1",
+      "sourceTextSha256": "e2b10939da2e0f3297ec251c22730ba027aae7b41cf2a5108fc5ae347df3f8c8",
+      "freshTranslation": "의 광선은 강㊥힘 무비. 초합금제 철인 장갑도 쉽고 관통했다. ㊥ 그리고 한 걸음이라는 곳까지 철인을 몰아냈지만, 달려온 블랙옥스㊥에 막혀 그대로 철인과의 제휴 공격을 받아 패배했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

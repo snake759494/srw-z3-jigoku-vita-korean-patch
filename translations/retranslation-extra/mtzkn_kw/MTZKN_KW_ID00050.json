@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00050",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00050/Sheet1/000002",
+      "sourceBindingSha256": "5271cc696c1fcfa1ab44ec6b9ade877c05794d456031273d2f2668e00bcffb58",
+      "sourceTextSha256": "4ede50ad3601063429fd0e7e522cb00573c483079b8562923be7cfcf6a0f749a",
+      "freshTranslation": "신세계대륙",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00050/Sheet1/000003",
+      "sourceBindingSha256": "6f1eb698ef59446a17d4fa4aeec1004236068ce26f52bc3b68c450eb83476a14",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00050/Sheet1/000004",
+      "sourceBindingSha256": "b04235703a61c5ac0055f5354135f1a9eba37e1621f9eef6ca7b8c807ccab33f",
+      "sourceTextSha256": "97cee395b45435c87178d82df82c2ca699f6c573e42ce9b429bf5b7205e5302c",
+      "freshTranslation": "암흑 대륙의 현재 이름. ㊥ 암흑 대륙이라고 불리는 방법에 반발 한 주민들의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00050/Sheet1/000005",
+      "sourceBindingSha256": "bb5a9f762cae3d46f6ae497e44cf81effeac06e14fdb15ed5b78c00bdaccb973",
+      "sourceTextSha256": "6f7d87280184510a40129b8d1abee3fb181893eb36cce96a7aca037303f45b67",
+      "freshTranslation": "움직임에 의해, 미래의 희망을 느끼게 ㊥시키는, 이 이름이 선택되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00050/Sheet1/000006",
+      "sourceBindingSha256": "1acba44dc66be65f237fa063c5ce83705024db75130bfe60283dd3bd5edecd5e",
+      "sourceTextSha256": "97cee395b45435c87178d82df82c2ca699f6c573e42ce9b429bf5b7205e5302c",
+      "freshTranslation": "암흑 대륙의 현재 이름. ㊥ 암흑 대륙이라고 불리는 방법에 반발 한 주민들의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00050/Sheet1/000007",
+      "sourceBindingSha256": "2f629f93e0a7a3b27fefca6dd6647f6318b777d295ee124cb9b9ccc14da1903e",
+      "sourceTextSha256": "6f7d87280184510a40129b8d1abee3fb181893eb36cce96a7aca037303f45b67",
+      "freshTranslation": "움직임에 의해, 미래의 희망을 느끼게 ㊥시키는, 이 이름이 선택되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

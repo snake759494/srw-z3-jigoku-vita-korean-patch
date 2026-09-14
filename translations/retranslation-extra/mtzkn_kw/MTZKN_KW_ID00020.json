@@ -1,0 +1,49 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00020",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00020/Sheet1/000002",
+      "sourceBindingSha256": "6146d4eda30c53e54365c701f023429012969a2ad80e3d60318c976bf890ed75",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00020/Sheet1/000003",
+      "sourceBindingSha256": "1c0176c4a67fbd2379e67ece7b918222fb723f0b26caa73e627bed5642b8febc",
+      "sourceTextSha256": "ef262fec25de36d45139c5cd2c691166f8e26b5ff68834e7aebd10647ae52fda",
+      "freshTranslation": "파이어 버그의 대장이었던 마릴린 캣의 별명. ㊥ 마릴린을 신봉하는 파이어버그 대원들은 그녀를 이 이름으로 불렀다. 라고 ㊥ 말하기보다, 그녀가 자신을 이렇게 부르고 있었다. ㊥ 마릴린 캣은 재세 전쟁에서 끝까지 성 인사라움 왕국과 함께 싸웠고, ㊥ 화성에서의 결전에서 전사했다. ㊥ 남겨진 대원들은 용병 가동을 계속하면서 자신들의 충성과 생명을 바치는 시㊥ 엠볼에 걸맞는 새로운 '공주'를 찾고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00020/Sheet1/000004",
+      "sourceBindingSha256": "88b7c144704d72c7b42948d5ad39d1208ec73e28763f860dbb1ef621c4d20d92",
+      "sourceTextSha256": "ef262fec25de36d45139c5cd2c691166f8e26b5ff68834e7aebd10647ae52fda",
+      "freshTranslation": "파이어 버그의 대장이었던 마릴린 캣의 별명. ㊥ 마릴린을 신봉하는 파이어버그 대원들은 그녀를 이 이름으로 불렀다. 라고 ㊥ 말하기보다, 그녀가 자신을 이렇게 부르고 있었다. ㊥ 마릴린 캣은 재세 전쟁에서 끝까지 성 인사라움 왕국과 함께 싸웠고, ㊥ 화성에서의 결전에서 전사했다. ㊥ 남겨진 대원들은 용병 가동을 계속하면서 자신들의 충성과 생명을 바치는 시㊥ 엠볼에 걸맞는 새로운 '공주'를 찾고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

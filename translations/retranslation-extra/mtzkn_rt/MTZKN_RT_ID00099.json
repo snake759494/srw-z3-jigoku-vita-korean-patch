@@ -1,0 +1,181 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00099",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00099/Sheet1/000002",
+      "sourceBindingSha256": "bb3fdbd1a9447205415bf44fe5a237ea41ed26bab07141e0558c97f111ba489c",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00099/Sheet1/000003",
+      "sourceBindingSha256": "13e57450fabde23c066a1eae9a1712022527da262a06ade65a1fab6a392fc4c0",
+      "sourceTextSha256": "40739e775b29b38797e8295c8cb7a2e0257b5c8c2862cb79cdcd5349ead9c781",
+      "freshTranslation": "바이알란 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00099/Sheet1/000004",
+      "sourceBindingSha256": "47044a931ec8244b12672e708c0edf285fdcd2f8db691974a2242b67255d7603",
+      "sourceTextSha256": "40739e775b29b38797e8295c8cb7a2e0257b5c8c2862cb79cdcd5349ead9c781",
+      "freshTranslation": "바이알란 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00099/Sheet1/000005",
+      "sourceBindingSha256": "7999ccd97990a12d30899f6c115b6bd06bf02da52bb6f627753eb901df458cb3",
+      "sourceTextSha256": "181ddeaec5615ef44707d04018ec2eabea48c5106037c78ddfbdf50413c99c8c",
+      "freshTranslation": "그립스 전역시 티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00099/Sheet1/000006",
+      "sourceBindingSha256": "e6d6fb72029ee7f9c9bab49289cc7a7da24f380b10e7c6241ef6144f2330281e",
+      "sourceTextSha256": "b0d27ac630cbcc00299fd8e0862c2332386bafde1c7e0cd80dbe65ffc19e14be",
+      "freshTranslation": "네즈가 소유하고 있던 모빌슈트・바이알란을 개량해 ㊥한 기술 시험기. ㊥ 대기권 내에서 비행 시간의 연장을 주안으로 한 개조가 실시되어 있어 각부 스러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00099/Sheet1/000007",
+      "sourceBindingSha256": "ffa426fb750be0dd3a65db3137d33683528544f8b80d38d7128344f756996ffe",
+      "sourceTextSha256": "46b1946bf9882912f71a63a76efb4f3f32585446f182dc4fe80b92fc5d935849",
+      "freshTranslation": "- ㊥ 강화 및 프로펠런트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00099/Sheet1/000008",
+      "sourceBindingSha256": "6b5e9af26bdfab20c745e8dc5d528686308e8378500aa93f1a6f6a6e63b2abe6",
+      "sourceTextSha256": "f29f43f8cac206f4b273dfa24f72ac84d0bb238d14372be60bf493f2c2e9b68d",
+      "freshTranslation": "랭크의 증설이 행해지고 있다. ㊥ 또한 팔 부분의 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00099/Sheet1/000009",
+      "sourceBindingSha256": "e52a42b1bbed26e435b33998b40eb1013e8b9b6a1cdcb8ff3a07ceba7ccef2fa",
+      "sourceTextSha256": "3f2b4edf735c9c2586718f0e9bd43af5c44f1a99e3685f51a98037326bec2c53",
+      "freshTranslation": "클로는 가브 슬레이의 클로 아암으로 바꾸는 것입니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00099/Sheet1/000010",
+      "sourceBindingSha256": "ee27c2f6e335100f5a93402b604fc33c89ff54c208878be8c6bb69b8181705a6",
+      "sourceTextSha256": "48390a1490c8145dc62dad1c2e982f850f14ead8c4a39761e875e238c498eb33",
+      "freshTranslation": "화되어 ㊥ 격투면에서의 강화도 도모되고 있다. ㊥ 그 전투력은 높고, 트링턴 기지에서의 전투 때에는 지온 잔당군의 모빌스 ㊥투를 잇달아 격파했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00099/Sheet1/000011",
+      "sourceBindingSha256": "effe12a5dd62a48dca75450fc3b228481dd5e30ac6cb6e8ee52a198253f10e41",
+      "sourceTextSha256": "181ddeaec5615ef44707d04018ec2eabea48c5106037c78ddfbdf50413c99c8c",
+      "freshTranslation": "그립스 전역시 티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00099/Sheet1/000012",
+      "sourceBindingSha256": "4bc67dd7e318d246ce92e042653c4bc4d5562528f231decbc83ade2e7f85c1b0",
+      "sourceTextSha256": "b0d27ac630cbcc00299fd8e0862c2332386bafde1c7e0cd80dbe65ffc19e14be",
+      "freshTranslation": "네즈가 소유하고 있던 모빌슈트・바이알란을 개량해 ㊥한 기술 시험기. ㊥ 대기권 내에서 비행 시간의 연장을 주안으로 한 개조가 실시되어 있어 각부 스러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00099/Sheet1/000013",
+      "sourceBindingSha256": "4ebf29536a3c6cbfad6487bdfde64b9592b0a56ab54ddaa41fad152eeb2c6e71",
+      "sourceTextSha256": "46b1946bf9882912f71a63a76efb4f3f32585446f182dc4fe80b92fc5d935849",
+      "freshTranslation": "- ㊥ 강화 및 프로펠런트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00099/Sheet1/000014",
+      "sourceBindingSha256": "28a2d546f3b7a44964c27266eb5c1f9ef0bd1bf1a6cd58d3c35bad02b05522a8",
+      "sourceTextSha256": "f29f43f8cac206f4b273dfa24f72ac84d0bb238d14372be60bf493f2c2e9b68d",
+      "freshTranslation": "랭크의 증설이 행해지고 있다. ㊥ 또한 팔 부분의 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00099/Sheet1/000015",
+      "sourceBindingSha256": "7b51a2a99ce3c86d23dfb2d2883f4ddd8a9d26456701fee6843bae1b89725fb5",
+      "sourceTextSha256": "3f2b4edf735c9c2586718f0e9bd43af5c44f1a99e3685f51a98037326bec2c53",
+      "freshTranslation": "클로는 가브 슬레이의 클로 아암으로 바꾸는 것입니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00099/Sheet1/000016",
+      "sourceBindingSha256": "2c5fd48e7fb3b00bca5769cec3054a0193dc785d0d408e6792f78d9e0cd73e73",
+      "sourceTextSha256": "48390a1490c8145dc62dad1c2e982f850f14ead8c4a39761e875e238c498eb33",
+      "freshTranslation": "화되어 ㊥ 격투면에서의 강화도 도모되고 있다. ㊥ 그 전투력은 높고, 트링턴 기지에서의 전투 때에는 지온 잔당군의 모빌스 ㊥투를 잇달아 격파했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

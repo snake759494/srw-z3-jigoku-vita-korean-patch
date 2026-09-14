@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00404",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00404/Sheet1/000002",
+      "sourceBindingSha256": "990de8d3f551fecc8be0df2441468223eb407e3ec4bbbcba9109ba50bdfa32ba",
+      "sourceTextSha256": "ef831f310b3c4feb059f28e5df96c1cdbc2d8aee41e08a19106e74bea0c1e68d",
+      "freshTranslation": "카시와바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00404/Sheet1/000003",
+      "sourceBindingSha256": "87b2e704c377395c7a072c8ed97d7f79dba67a753b3ef0f64e0c4f35ca01eb11",
+      "sourceTextSha256": "5243e2ae9943f927f478140dcb7a10a9c287486aceff128f92fcc9adcf8dcccf",
+      "freshTranslation": "마키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00404/Sheet1/000004",
+      "sourceBindingSha256": "c22435b65e5f7f582a87d42ba6913d3b856118738d8fc2fa96d0ce7a037a94ba",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00404/Sheet1/000005",
+      "sourceBindingSha256": "64ab94fa2db887a72e0ede8079a77dec771b6eb562a0f47e24ffe9775195a56d",
+      "sourceTextSha256": "7d7017a3532d11ac293c6f57548a05ae0296c7cd50d635ed796b54b887980c2d",
+      "freshTranslation": "제2신도쿄시립 종합병원에 근무하는 간호사. 22세. ㊥ 특별실에 입원하고 있는 '혈색된 눈' 환자를 담당하고 있다. ㊥ 밝고 번거로움이 좋고, 더욱 세심한 걱정을 할 수 있는 여성이며, 거의 감정을 ㊥ 보이지 않는 환자들에게도 헌신적인 간호를 계속하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00404/Sheet1/000006",
+      "sourceBindingSha256": "6853000a8a923d55566b8bcb5126926ed13c7d632cdb1e6f3db9880f9d2e61a9",
+      "sourceTextSha256": "2a435082c0a17ffef65f1d89750085a66a90a559ce93dfe352d3bf10a5d99a13",
+      "freshTranslation": "제2신도쿄시립 종합병원에 근무하는 간호사. 22세. ㊥ 특별실에 입원하고 있는 '혈색된 눈' 환자를 담당하고 있다. ㊥ 밝고 번거로움이 좋고, 더욱 세심한 걱정을 할 수 있는 여성이며, 거의 감정을 ㊥ 보이지 않는 환자들에게도 헌신적인 간호를 계속하고 있다. ㊥ 시공 수복 후 발작이 들어간 환자들의 회복을 기대하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

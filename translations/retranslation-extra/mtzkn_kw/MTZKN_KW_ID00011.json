@@ -1,0 +1,49 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00011",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00011/Sheet1/000002",
+      "sourceBindingSha256": "96f64d6b7d19967ceaa9843ae278887b6ac61464240be46079f1b8dde2856aae",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00011/Sheet1/000003",
+      "sourceBindingSha256": "589ead309e887a48af49a867fd1f651905a3ce94e4277ac85363cc96721d5d17",
+      "sourceTextSha256": "f9b179afb1a966cba429ac8bf010e4e0391d058f27f9a967529a74ae4e8657f8",
+      "freshTranslation": "병행 세계의 하나(=『슈퍼로봇대전 Z』의 세계). ㊥ 그 이름은 \"우주 세기 세계\"의 약자. ㊥대시공진동 직후 혼란 속 다원전쟁이 일어났다. ㊥ 특징으로는 시공진동에 의한 토지의 전이가 심해 일본 열도 등을 제외하고 ㊥ 구 지구와는 대폭 대륙의 형태가 변화했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00011/Sheet1/000004",
+      "sourceBindingSha256": "d37cb1dfac6d5eda3109e703e975eef62a38713960981727a3f98d41de490f58",
+      "sourceTextSha256": "f9b179afb1a966cba429ac8bf010e4e0391d058f27f9a967529a74ae4e8657f8",
+      "freshTranslation": "병행 세계의 하나(=『슈퍼로봇대전 Z』의 세계). ㊥ 그 이름은 \"우주 세기 세계\"의 약자. ㊥대시공진동 직후 혼란 속 다원전쟁이 일어났다. ㊥ 특징으로는 시공진동에 의한 토지의 전이가 심해 일본 열도 등을 제외하고 ㊥ 구 지구와는 대폭 대륙의 형태가 변화했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

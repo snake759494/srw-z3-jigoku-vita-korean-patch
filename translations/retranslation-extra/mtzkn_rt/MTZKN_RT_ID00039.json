@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00039",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00039/Sheet1/000002",
+      "sourceBindingSha256": "0aab68e5d3024a1b1dea3faad463e43b3bae76e5f513898b6dbb8aff0c7ed4ce",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00039/Sheet1/000003",
+      "sourceBindingSha256": "d91257497f6aa7c140dcc4f3c51b3f1153189b96910a08a22c7dd5daf0a8bc80",
+      "sourceTextSha256": "b4e4679bd33149602845ceb1eff0117f6cb1ab5e789f3cfa79d8cc654d33efc3",
+      "freshTranslation": "가자 C",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00039/Sheet1/000004",
+      "sourceBindingSha256": "1475a5fe4a2811fa08fbaf2a28c82f11da79358589b0ecc900f1c4e7f263b3ce",
+      "sourceTextSha256": "b4e4679bd33149602845ceb1eff0117f6cb1ab5e789f3cfa79d8cc654d33efc3",
+      "freshTranslation": "가자 C",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00039/Sheet1/000005",
+      "sourceBindingSha256": "cc3e4f2242b55851fd434d17b2a23ff12bc391826e7cab024f3063fff22566c9",
+      "sourceTextSha256": "f578feba1aa6a7e3da113a2a508f4167e4862958d8a434ce72483008a7daa1e4",
+      "freshTranslation": "액시즈가 개발한 양산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00039/Sheet1/000006",
+      "sourceBindingSha256": "b65c3696269bf4b97e4cc063f09fe37a3bcc3aa7ae36b3f55800fe6164f43102",
+      "sourceTextSha256": "6e35bc4ff944029da91a87a44ab4485f750e3eef097d991c26f3a632c0e69536",
+      "freshTranslation": "가변 모바일 슈트. ㊥ 원래는 개발·건조 작업용의 가자 A·가자 B를 베이스로, 공격 능력을 가지는 가변 모빌 ㊥ 슈트로 개발된 기체이다. 모빌 아머 형태에서는 너클 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00039/Sheet1/000007",
+      "sourceBindingSha256": "ae244a74ee616cc9b7935c40e59ad582338ea299de712ebeca1875acdb6a8e56",
+      "sourceTextSha256": "ced3d23fc2388e67b62be08c49f53b1fc6db1572b47d019a607989c1561f1e00",
+      "freshTranslation": "-㊥에 의한 포격이나 다리 클로를 사용한 대함 공격을 행한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00039/Sheet1/000008",
+      "sourceBindingSha256": "7b399fe7eb70269e41ff2aea676747e6124e4e555860d36fb830de25621f5733",
+      "sourceTextSha256": "6e69714e4cfc744602573981a4e7fba85420a72152f164e73963aec44d395f50",
+      "freshTranslation": "동성이나 근접 격투 능력은 낮고, ㊥ 원거리로부터의 집단 포격 등이 기본 전술이 되고 있다. 한편, 생산성은 높고, 액시즈㊥의 공창에서 대량 생산된다. ㊥ 액시즈와 지구연방군이 일시적으로 손을 잡은 시기가 있었기 때문에 액시즈(AMX-0㊥03)와 연방(MMT-1) 양군의 인식번호를 가진다. ㊥ 상기 이외의 주요 무장으로서 빔 건, 빔 세이버가 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00039/Sheet1/000009",
+      "sourceBindingSha256": "5e0967bc76e0d56d577e291b2ac2426006dc8e861b0a4e58e268448ff4b0beb2",
+      "sourceTextSha256": "f578feba1aa6a7e3da113a2a508f4167e4862958d8a434ce72483008a7daa1e4",
+      "freshTranslation": "액시즈가 개발한 양산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00039/Sheet1/000010",
+      "sourceBindingSha256": "85a02f8a1a121cab685537852baa66347019d9bfc7471af6d99dab4c6b202001",
+      "sourceTextSha256": "6e35bc4ff944029da91a87a44ab4485f750e3eef097d991c26f3a632c0e69536",
+      "freshTranslation": "가변 모바일 슈트. ㊥ 원래는 개발·건조 작업용의 가자 A·가자 B를 베이스로, 공격 능력을 가지는 가변 모빌 ㊥ 슈트로 개발된 기체이다. 모빌 아머 형태에서는 너클 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00039/Sheet1/000011",
+      "sourceBindingSha256": "2e479584c07807839e74f133f69f8cf5d9612688d66182a7b6b288f01fec323c",
+      "sourceTextSha256": "ced3d23fc2388e67b62be08c49f53b1fc6db1572b47d019a607989c1561f1e00",
+      "freshTranslation": "-㊥에 의한 포격이나 다리 클로를 사용한 대함 공격을 행한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00039/Sheet1/000012",
+      "sourceBindingSha256": "9428b7d25a6e7d0c5510bb24a6ca8b6bac3e9d0354e5cafe28fe6d7bfe2df825",
+      "sourceTextSha256": "6e69714e4cfc744602573981a4e7fba85420a72152f164e73963aec44d395f50",
+      "freshTranslation": "동성이나 근접 격투 능력은 낮고, ㊥ 원거리로부터의 집단 포격 등이 기본 전술이 되고 있다. 한편, 생산성은 높고, 액시즈㊥의 공창에서 대량 생산된다. ㊥ 액시즈와 지구연방군이 일시적으로 손을 잡은 시기가 있었기 때문에 액시즈(AMX-0㊥03)와 연방(MMT-1) 양군의 인식번호를 가진다. ㊥ 상기 이외의 주요 무장으로서 빔 건, 빔 세이버가 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

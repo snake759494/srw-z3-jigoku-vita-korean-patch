@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00179",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00179/Sheet1/000002",
+      "sourceBindingSha256": "2b8f07ea93b16f51f831578a46403d9698e88c5be5c067e22ef02df9d276d2b0",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00179/Sheet1/000003",
+      "sourceBindingSha256": "d5f77ad797ddc09679e619edccf79ca2673610c1f92959b3e69ba16d080a4004",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00179/Sheet1/000004",
+      "sourceBindingSha256": "dfc9b63cadfccef91d6ca4ed4dcbfff2eae7ab36dfe5d9a3048e9f03bab5ac7e",
+      "sourceTextSha256": "45eee61948ac08fa6c9c482f4275aa755746beab9a0163a0b054128a17ca0a3d",
+      "freshTranslation": "M6 부시넬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00179/Sheet1/000005",
+      "sourceBindingSha256": "5558be2bb457a4f22a585d9b88e0f7444d583af75baecd88acd3705ed44a1671",
+      "sourceTextSha256": "45eee61948ac08fa6c9c482f4275aa755746beab9a0163a0b054128a17ca0a3d",
+      "freshTranslation": "M6 부시넬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00179/Sheet1/000006",
+      "sourceBindingSha256": "bb37c94f8b922f78991b5df6819e7c63b1e6e83cf27aae59b32ad5081d740b19",
+      "sourceTextSha256": "81795ee21d1761ade73057a159f4b5e1a0336916c44191322f2ef6cf29589fac",
+      "freshTranslation": "서쪽 국가의 주력 AS. ㊥ 제2세대로 분류된 최초의 AS로 기존의 무기를 압도하는 성능과 범용성을 ㊥ 갖추고 있다. 이 기체의 완성에 의해 전장에서의 AS의 유용성이 증명되고, 선진제 ㊥국가는 AS부대의 편성을 진행하게 된다. 일본의 자위대에 배치되어 있는 구육식도, 본 ㊥기를 베이스로 개발된 것이다. ㊥ 동력원은 가스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00179/Sheet1/000007",
+      "sourceBindingSha256": "23e45eef282b0f52c0d8631a8189a6d9d8d845048bf30f2dec3db877d82f003b",
+      "sourceTextSha256": "f533da08f4c1e9e8a83c79467a0617d19c232d37644f009826d10f2f1a7a8374",
+      "freshTranslation": "-빈 엔진. 장갑은 알루미늄을 주로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00179/Sheet1/000008",
+      "sourceBindingSha256": "bbbba1aa55f049219f993f54dcd1335e9fa5c86ecfdee4a40a19a535942b752e",
+      "sourceTextSha256": "a314e38a812db60d1cf0bc57bdbab6a9b9992f5199c6f9fbb61650247337abf8",
+      "freshTranslation": "텅스텐과 세라믹 ㊥ 쿠재의 복합 장갑.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00179/Sheet1/000009",
+      "sourceBindingSha256": "7a8c93715c4d7ada2cecdf6fd684a55fc2c88da02fdc39ac695f5b855c70ca7a",
+      "sourceTextSha256": "81795ee21d1761ade73057a159f4b5e1a0336916c44191322f2ef6cf29589fac",
+      "freshTranslation": "서쪽 국가의 주력 AS. ㊥ 제2세대로 분류된 최초의 AS로 기존의 무기를 압도하는 성능과 범용성을 ㊥ 갖추고 있다. 이 기체의 완성에 의해 전장에서의 AS의 유용성이 증명되고, 선진제 ㊥국가는 AS부대의 편성을 진행하게 된다. 일본의 자위대에 배치되어 있는 구육식도, 본 ㊥기를 베이스로 개발된 것이다. ㊥ 동력원은 가스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00179/Sheet1/000010",
+      "sourceBindingSha256": "073dfb4e6f3d4fc53c8a0d9609919919de4764e6a969c09a018df3fba08ba40c",
+      "sourceTextSha256": "f533da08f4c1e9e8a83c79467a0617d19c232d37644f009826d10f2f1a7a8374",
+      "freshTranslation": "-빈 엔진. 장갑은 알루미늄을 주로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00179/Sheet1/000011",
+      "sourceBindingSha256": "2b90c8c9e89af5aec3947a8d4b7d4e09ab8ff08635bc7b31d1e893f1c9ba3ffe",
+      "sourceTextSha256": "a314e38a812db60d1cf0bc57bdbab6a9b9992f5199c6f9fbb61650247337abf8",
+      "freshTranslation": "텅스텐과 세라믹 ㊥ 쿠재의 복합 장갑.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

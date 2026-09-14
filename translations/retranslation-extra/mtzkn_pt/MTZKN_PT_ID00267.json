@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00267",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00267/Sheet1/000002",
+      "sourceBindingSha256": "a0a724d5d617bbd81024b66fd0d3b19a4d8e86f7d1e2c683df948dfd4276f728",
+      "sourceTextSha256": "ee0cb892868a38a1725f26a6eca2b6ff26f6055691b60325f1f15e7b46510e47",
+      "freshTranslation": "카자마 신지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00267/Sheet1/000003",
+      "sourceBindingSha256": "a8545bf7f48841737e3eb2ca21cf6e5324ed2e894f078087456786650006325e",
+      "sourceTextSha256": "6b402f74ba06569c04ef7e05ae2e4748754e7e44f71e22cf7ea89fb7612de612",
+      "freshTranslation": "카자마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00267/Sheet1/000004",
+      "sourceBindingSha256": "ee1303b3469e82cb58500fad43157fd32872df198b80e8118c78cd5e7061af75",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00267/Sheet1/000005",
+      "sourceBindingSha256": "167be54ea28cbfc4411ed98bd5e8bd788bc662a0b3f52518d7e8130c891b63fc",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00267/Sheet1/000006",
+      "sourceBindingSha256": "9b92768e6ce94566dc2657279a73e0c50e5ae581e4adee3e19607fd0e4bf984c",
+      "sourceTextSha256": "86f87571bf4258a2217503c27351ec37f94a07ee27be49ed3c5f0bdb42236332",
+      "freshTranslation": "진대고교 2년 4조의 학생. ㊥AS 등 무기 사진",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00267/Sheet1/000007",
+      "sourceBindingSha256": "b07f5259ec070b6d186a062790fb3f79ff57cfe9ccc14e3dd0c679acb5604cb2",
+      "sourceTextSha256": "f1975e047282ea924c40893dc84ab9564ec01081b4ba686ea26bc67578d6317b",
+      "freshTranslation": "촬영이 취미의 군사 매니아로 학교에서는 사진",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00267/Sheet1/000008",
+      "sourceBindingSha256": "71f330f0484e5c4132b5e010f4dac30eb76ea90b3b75ef9ec8bd0e40bc5b3e29",
+      "sourceTextSha256": "fcfb0ae0bd76d0de26a31e8b77a2291c02be70a0e4c54bf3de4a6943f3cab70c",
+      "freshTranslation": "부에 소속한다. 그 ㊥ 군사 지식은 소스케도 혀를 감을 정도의 것이다. ㊥ 무네스케의 정체는 모르지만, 군사에 익숙한 것을 동호의 사라고 생각하고 있어 사이가 좋고, ㊥무언가와 행동을 함께 한다. ㊥ 아버지 신타로는 자위대 나라시노 주둔지의 사무관을 맡는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00267/Sheet1/000009",
+      "sourceBindingSha256": "7afca30dcba91ec7c387c0d8c5ca190a47566b3f9ce6aa7e996fe38de336176d",
+      "sourceTextSha256": "86f87571bf4258a2217503c27351ec37f94a07ee27be49ed3c5f0bdb42236332",
+      "freshTranslation": "진대고교 2년 4조의 학생. ㊥AS 등 무기 사진",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00267/Sheet1/000010",
+      "sourceBindingSha256": "bbf3ee032381d212aeb17156dc81289b9e3c9a4af61d93b49842853a13e4408d",
+      "sourceTextSha256": "f1975e047282ea924c40893dc84ab9564ec01081b4ba686ea26bc67578d6317b",
+      "freshTranslation": "촬영이 취미의 군사 매니아로 학교에서는 사진",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00267/Sheet1/000011",
+      "sourceBindingSha256": "a2c85835cf73e6a2ce7cdead0fc698233403007d8823e18ce96f8989511e762b",
+      "sourceTextSha256": "fcfb0ae0bd76d0de26a31e8b77a2291c02be70a0e4c54bf3de4a6943f3cab70c",
+      "freshTranslation": "부에 소속한다. 그 ㊥ 군사 지식은 소스케도 혀를 감을 정도의 것이다. ㊥ 무네스케의 정체는 모르지만, 군사에 익숙한 것을 동호의 사라고 생각하고 있어 사이가 좋고, ㊥무언가와 행동을 함께 한다. ㊥ 아버지 신타로는 자위대 나라시노 주둔지의 사무관을 맡는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

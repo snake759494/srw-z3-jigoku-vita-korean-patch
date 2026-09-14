@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00315",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00315/Sheet1/000002",
+      "sourceBindingSha256": "65912f58404ee792284f48ce6a7ac8d4887c0299618f2d5813e3cac16bcb1681",
+      "sourceTextSha256": "8952fca57f74f5f0ef8fe83b2d2082c0ee95ab9e1cc9d7acff109e29e93c70f7",
+      "freshTranslation": "n 바티카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00315/Sheet1/000003",
+      "sourceBindingSha256": "ea4f62ead8bdb3470c9785b40967c8476fd299caafb14ce8a4dbca2cc069f668",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00315/Sheet1/000004",
+      "sourceBindingSha256": "5c82a375a8948c88af7f16d077710c05382d6f49fd3cbf3cad3768df81f5f93f",
+      "sourceTextSha256": "67267a40b016b91b101aa463905ff4ecbea0d83b9f3eb70a4c414166c5d38e52",
+      "freshTranslation": "타니야마 기장",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00315/Sheet1/000005",
+      "sourceBindingSha256": "0cab42bcb4038715ff9db134facc111fbfb98636f1796abce2b45cae33d2f4ef",
+      "sourceTextSha256": "b8d1d5b37bc8fff228217126612db0e404294e6e41e0cefc379e72d2ce1c719d",
+      "freshTranslation": "바티카 마을 출신의 「흑의 형제」의 장형. ㊥여동생들과 짐승 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00315/Sheet1/000006",
+      "sourceBindingSha256": "889b42c293998613658f9da43ba3294dd5235937fd5b8801b26a13e14d714f08",
+      "sourceTextSha256": "b0cfc35469151e625806c0fd34a5103b1046014046aab502b0b1b2f72ca2ef9a",
+      "freshTranslation": "ー로서 행동하고 있을 때, 카미나들과 만난다. 그 자신은 부인하고㊥하지만 나중에 카미나의 영향을 받아 감정을 입수. 큰 글렌단에 참가한 후,㊥항상 특공대장으로 활약했다.㊥매우 단기로 싸움 빨리, 입도 태도도 눈빛도 나쁜 거친 사람. 무차와 무철포는 때때로㊥종이와 함께, 수인과의 싸움에 승리하고 나서도 그것은 변하지 않았다.㊥신정부 설립 후 법무국장으로 취임했지만 익숙하지 않은 직무에 악전 고투하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00315/Sheet1/000007",
+      "sourceBindingSha256": "20ba7600268a3a4c189d0650e230ff5d3a988cd3cfc69f5d4a11631a04a31ac2",
+      "sourceTextSha256": "b8d1d5b37bc8fff228217126612db0e404294e6e41e0cefc379e72d2ce1c719d",
+      "freshTranslation": "바티카 마을 출신의 「흑의 형제」의 장형. ㊥여동생들과 짐승 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00315/Sheet1/000008",
+      "sourceBindingSha256": "1893e1546545d554ea95e0c08ccd46a24311e2288ae78f92e250941962902fb6",
+      "sourceTextSha256": "f24f910c8f066ef04e35edc41d4432523ac8cc515e455f49433ec350ae88db17",
+      "freshTranslation": "ー로서 행동하고 있을 때, 카미나들과 만난다. 그 자신은 부인하고㊥하지만 나중에 카미나의 영향을 받아 감정을 입수. 큰 글렌단에 참가한 후,㊥항상 특공대장으로 활약했다.㊥매우 단기로 싸움 빨리, 입도 태도도 눈빛도 나쁜 거친 사람. 무차와 무철포는 때때로㊥종이와 함께, 수인과의 싸움에 승리하고 나서도 그것은 변하지 않았다.㊥신정부 설립 후 법무국장으로 취임했지만 익숙하지 않은 직무에 악전 고투하고 있었다.㊥인류 섬멸 시스템이 발동하면, 사랑하는 여동생들, 그리고 새로 태어난 조카의 안네를㊥지키기 위해 솔선하고 싸움에 임하고, 원래는 대 무간 용 무기였다는 감멘의 힘을㊥마음껏 보여주었다.㊥안티 스파이럴 함대와 싸우는 동안 초은하 다이글렌이 고밀도 우주의 바다에㊥들어가면 그 원흉인 데스 스파이럴 머신 파괴를 위해 자칭을 올린다.㊥계속 생각하고 있던 요코에게 마음을 말하고 출격해, 역할을 완수하더라도, 그 생명을 불타㊥끝내버렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

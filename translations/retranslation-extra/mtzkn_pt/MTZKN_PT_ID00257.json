@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00257",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00257/Sheet1/000002",
+      "sourceBindingSha256": "b7aedfc8db69eaa1268170992c9d34b5a31c954d0347c653ae9f66ec835f9456",
+      "sourceTextSha256": "70e48c2a84b386a8930ebbbfc1e3b28f994faf46efd9b0d7eb20b59645c64f41",
+      "freshTranslation": "게일 맥카란",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00257/Sheet1/000003",
+      "sourceBindingSha256": "e689fb949a0f9e9154d106ca4d4b5ebfecd66f0b9b5fd9e66e5ba05e3a0a920b",
+      "sourceTextSha256": "4ca1c2306ec9191bd8893fc0d73f56c0c02527a25c289f48354ea8e754726414",
+      "freshTranslation": "맥카란",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00257/Sheet1/000004",
+      "sourceBindingSha256": "053f50698c2d63fa647455e2df2a755c0b9f561649fdee1f232aec073187bd48",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00257/Sheet1/000005",
+      "sourceBindingSha256": "7ed9e1741f6ecc4fef64a6b143575cebb53a3b9523c0786d7ff10a9133c0d287",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00257/Sheet1/000006",
+      "sourceBindingSha256": "4f4e6066186d956c3b538feb9e6cfcd0195c8aab2e5aab06e6875eba47965f6a",
+      "sourceTextSha256": "da4732bd080a5b19ffab0842725cb58119af4808b03b845ea22352698a9b74bb",
+      "freshTranslation": "대테러 조직 미스릴에 소속된 용병. 계급은 대위. 콜사인은 울즈 1. ㊥ 투아하 데 다낭의 SRT(특별 대응반) 요원의 톱이며, 부하나 동료㊥로부터의 신뢰도 두껍다. 결단력도 갖추고 마오를 울즈2로 발탁한 것도 그이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00257/Sheet1/000007",
+      "sourceBindingSha256": "19d89cc251dc1b732084dbdcdaa5bb2692f6a67167b16811118ef70c6fc85f67",
+      "sourceTextSha256": "8dffc7161553b71b1437cac6cb4c4ceac573bddf46202c26644fc34741e1d935",
+      "freshTranslation": "대테러 조직 미스릴에 소속된 용병. 계급은 대위. 콜사인은 울즈 1. ㊥ 투아하 데 다낭의 SRT(특별 대응반) 요원의 톱이며, 부하나 동료㊥로부터의 신뢰도 두껍다. 결단력도 갖추고 마오를 울즈2로 발탁한 것도 그이다. ㊥함내에서 개최된 빙고대회에서 테사의 키스를 이겼을 때에는 만면의 미소로 기쁨㊥을 드러냈지만, 그 후 내통자와 가울룬에 의해 목숨을 잃었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

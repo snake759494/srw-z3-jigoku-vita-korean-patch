@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00138",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00138/Sheet1/000002",
+      "sourceBindingSha256": "1dc9930e90806ad4da1bfc20605865578181cda7223b3f0e32841e4855ae7993",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00138/Sheet1/000003",
+      "sourceBindingSha256": "9d070f6bb722e7f48902db79aa58c3aea3347dddc9d2e59cba7b8aab4a79a87e",
+      "sourceTextSha256": "1a05910faad3f7792e108c9598f547f02504c95aaba2d1e8c35d4909d0188c8e",
+      "freshTranslation": "다른 차원에서 에너지를 추출하는 데 사용되는 크리스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00138/Sheet1/000004",
+      "sourceBindingSha256": "781c056592ad7ada995f84d8151802fdf7ad1a5af845b9fa0dc8f5209cadc213",
+      "sourceTextSha256": "38fd40f3670650153374c646d2006ec0e84ae359b4644d8500bec9f0c2fcb081",
+      "freshTranslation": "루 모양의 결정체. ㊥ 그 이름은 \"Dimension EnergyCrystal\"의 약어 ㊥로 차원 결정이라고도합니다. ㊥ 초시공 물리학 연구에 필수 불가결한 물질로, 지구상에서는 한정된 지역에서 하고 ㊥인가 채굴되지 않고, 고가로 거래되고 있다. ㊥ 한때 리모네시아 공화국은 가장 큰 산출국이었고 DEC 수출로 인해 작은 ㊥ 국가이면서 강한 국제 발언력을 가지고 있었다. ㊥ 덧붙여 병행 세계의 지구에도 존재해, 성 인사라움 왕국의 차원력 추출 시스테㊥무 「ZONE」의 크리스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00138/Sheet1/000005",
+      "sourceBindingSha256": "bd7c6be120ec066045c4be916e61433a02a77810615e8baaa1f4f85052adc301",
+      "sourceTextSha256": "5f394b6293cb5a751af10652e152c45f989de9fbffa16ad81567a9b410fea65d",
+      "freshTranslation": "르 부분은 거대한 DEC의 덩어리이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00138/Sheet1/000006",
+      "sourceBindingSha256": "f7f3589dc264240c3acbac7154b010d5ebd71582734e06b86792c2cbde7c4511",
+      "sourceTextSha256": "1a05910faad3f7792e108c9598f547f02504c95aaba2d1e8c35d4909d0188c8e",
+      "freshTranslation": "다른 차원에서 에너지를 추출하는 데 사용되는 크리스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00138/Sheet1/000007",
+      "sourceBindingSha256": "248084d030c2a4ab74fabc18d3c3d4615da96b402837253b2a7527f22df8f08e",
+      "sourceTextSha256": "38fd40f3670650153374c646d2006ec0e84ae359b4644d8500bec9f0c2fcb081",
+      "freshTranslation": "루 모양의 결정체. ㊥ 그 이름은 \"Dimension EnergyCrystal\"의 약어 ㊥로 차원 결정이라고도합니다. ㊥ 초시공 물리학 연구에 필수 불가결한 물질로, 지구상에서는 한정된 지역에서 하고 ㊥인가 채굴되지 않고, 고가로 거래되고 있다. ㊥ 한때 리모네시아 공화국은 가장 큰 산출국이었고 DEC 수출로 인해 작은 ㊥ 국가이면서 강한 국제 발언력을 가지고 있었다. ㊥ 덧붙여 병행 세계의 지구에도 존재해, 성 인사라움 왕국의 차원력 추출 시스테㊥무 「ZONE」의 크리스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00138/Sheet1/000008",
+      "sourceBindingSha256": "6a83dc84b6bbce527f5c9927138939859faa2b5d1a595cbd428dc8fecb122fa0",
+      "sourceTextSha256": "5f394b6293cb5a751af10652e152c45f989de9fbffa16ad81567a9b410fea65d",
+      "freshTranslation": "르 부분은 거대한 DEC의 덩어리이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

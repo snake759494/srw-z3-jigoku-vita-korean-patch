@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00068",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00068/Sheet1/000002",
+      "sourceBindingSha256": "42e382da18bd05126f2749b87940e44ec263cf410fddeb4979979e9cbb9f771e",
+      "sourceTextSha256": "21f64de98cb9b14b23082202b57ffbb342b54ffa83b63196abba6cf2c1765e27",
+      "freshTranslation": "진짜 전투",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00068/Sheet1/000003",
+      "sourceBindingSha256": "881a55581a815dfa1c0b857359c4988bdda0d939ec60c2177a640abdc77a49c5",
+      "sourceTextSha256": "00c3cbf4c1fa840433f934400fe630426ff59429734dff11e4e9b153142371e1",
+      "freshTranslation": "「장갑 기병 보텀스」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00068/Sheet1/000004",
+      "sourceBindingSha256": "e67373d3dd29768705e0f6ab35676a0ac8d3c2677368468b6929e2b01639a8da",
+      "sourceTextSha256": "e6fb16e3a5103550a4ad0cccd6549057c14cbf8d0eac2627437fc40a86ae5068",
+      "freshTranslation": "AT끼리가 싸우는 베팅 경기 「배틀링」 중, 총기와 실탄을 사용하는 카테㊥골리. ㊥ 출전 선수는 명심하고 그만큼 갤러도 높다. 또한,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00068/Sheet1/000005",
+      "sourceBindingSha256": "be528b0957dd299fc488e1702813df14c1fc0f112c7c74a2392d92f527799c93",
+      "sourceTextSha256": "4ad0dda85903bf05b909ca7b2ffd5fdefbd69a583f2b6f6153765cf5fddd6eee",
+      "freshTranslation": "검승부와 관객석 ㊥에 유탄이 뛰어들어가는 스릴에 대한 관객의 텐션도 엄청나고 큰 도박㊥부채가 움직인다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00068/Sheet1/000006",
+      "sourceBindingSha256": "89a698c1f886762ccdca080eb24a8237f6d7184e1cc6d40718da5b578b58ecdd",
+      "sourceTextSha256": "e6fb16e3a5103550a4ad0cccd6549057c14cbf8d0eac2627437fc40a86ae5068",
+      "freshTranslation": "AT끼리가 싸우는 베팅 경기 「배틀링」 중, 총기와 실탄을 사용하는 카테㊥골리. ㊥ 출전 선수는 명심하고 그만큼 갤러도 높다. 또한,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00068/Sheet1/000007",
+      "sourceBindingSha256": "9f2dbd21dfbc41e5a93d5702ed973e4056bb4bd82ea4e066253b3b8601761d07",
+      "sourceTextSha256": "4ad0dda85903bf05b909ca7b2ffd5fdefbd69a583f2b6f6153765cf5fddd6eee",
+      "freshTranslation": "검승부와 관객석 ㊥에 유탄이 뛰어들어가는 스릴에 대한 관객의 텐션도 엄청나고 큰 도박㊥부채가 움직인다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

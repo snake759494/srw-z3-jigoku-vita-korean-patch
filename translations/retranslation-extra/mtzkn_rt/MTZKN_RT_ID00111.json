@@ -1,0 +1,181 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00111",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00111/Sheet1/000002",
+      "sourceBindingSha256": "0144f918497f9cbcc2c9ce3fac99ab245fe4731e7287b366810470d33d90cfe1",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00111/Sheet1/000003",
+      "sourceBindingSha256": "0188b492896d7632e019748866ea1393ad8c262c8acbe236acbc082343db32d4",
+      "sourceTextSha256": "988ff6cb2da98d78e57cdc4229937f89b6e0859b9bd541e9f675a7d5aa5c6d4e",
+      "freshTranslation": "VF-25F 메사이어 F·TP",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00111/Sheet1/000004",
+      "sourceBindingSha256": "4a7440ff3ea77248cbc0c92035faa00c17b571c9f8ca340ef0145f4bfee23b9a",
+      "sourceTextSha256": "1dee48cb51e64134eba58729b22f8f5722d83750b641262f11efe6cb0108c5ca",
+      "freshTranslation": "VF-25F 메사이파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00111/Sheet1/000005",
+      "sourceBindingSha256": "2af56099da66cb6d3c9c67a4177034fd35a673f74910bb324ffd7bf5aaf970e0",
+      "sourceTextSha256": "693ac00ba214b28d57b83446246858711ea7dadc4fc85966ee97df147f1fcb08",
+      "freshTranslation": "ー모드・토르네이드 팩 장비(대기권 외 사양)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00111/Sheet1/000006",
+      "sourceBindingSha256": "eb25a491e815836e68ea923bd9ed06b5654cad23c75c82decc4abba25f166abf",
+      "sourceTextSha256": "c2c2e5756441c5c52c02341c5f7598cd240cfbd22261da490b01b6ba7f0caf88",
+      "freshTranslation": "사오토메 알토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00111/Sheet1/000007",
+      "sourceBindingSha256": "fb5a8ca9092e5e153ab7adcc14142033dbdad86c0050322658087fdf557241e7",
+      "sourceTextSha256": "1860dfce69d127df4b2537589aded2c9a5daccdd83fd01305e807e852e8aee59",
+      "freshTranslation": "VF-25 메사이어 시리즈의 전위용 기체. 그 파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00111/Sheet1/000008",
+      "sourceBindingSha256": "885434d70beae9509d062e4f83b4791c514d52f9d018a3a2301a0a9fe219a1fe",
+      "sourceTextSha256": "967de3bd8ad068c41afeda74035d26a1ea0b7df569db614527d687f391865e66",
+      "freshTranslation": "- 모드로 토네㊥드 팩을 장비한 대기권 외 사양.㊥S. M. S에서는 알토가 본 기기에 탑승하고 있다.㊥VF-25 메사이아는 최신예의 멀티롤 가변 전투기로 신통합군이 개발한 시험㊥작기 YF-24를 베이스로, 민간 기업의 L. A. I사와 신성인더스트리사가 공동㊥개발한 기체이다. 군에서의 정식 배치 전의 평가 시험의 형태로 S. M. S에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00111/Sheet1/000009",
+      "sourceBindingSha256": "a24fa50c12a6df7a9d117843671ca8dd76b5c6be4565bdfbe615d395ca335816",
+      "sourceTextSha256": "9b5a723227d4823c434987b153ee2db019b1ab0640610632f690579276b352d3",
+      "freshTranslation": "사용 ㊥있다. ㊥토네이도팩은 VF-25에 선회식 연장 빔포나 회전식 엔진 포드인 ㊥등을 추가 장비하는 최신예의 강화팩. 이 팩의 장비에 의해 공격력의 증강과 동㊥시에, 기동력,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00111/Sheet1/000010",
+      "sourceBindingSha256": "488757e2fbf415253ca8340058a78fbbadd214baea214fe137b63806eff9b304",
+      "sourceTextSha256": "6a616e13d89846954b13eb4fa0056419304a3bc264171b5e684ec6e4b70ef02a",
+      "freshTranslation": "동성능도 대폭 향상된다. ㊥ 대기권 외부에서는 엔진 포드의 팁에 추진제 보조",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00111/Sheet1/000011",
+      "sourceBindingSha256": "9fc7d03c3fa3883b2fc71c2ce08195149b5fc151b6cacba75c612910d6e57af2",
+      "sourceTextSha256": "df7e026b1a9c2ab9cacab77e29ce3cd1dc2bf34c3d477a28fc470d837277abdf",
+      "freshTranslation": "은쿠 겸 대기권 돌입용 페어리㊥구를 장착한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00111/Sheet1/000012",
+      "sourceBindingSha256": "cfb318e3f1201c147afb9da2628f22e471f818771f44c9c112392b0c99e89895",
+      "sourceTextSha256": "1860dfce69d127df4b2537589aded2c9a5daccdd83fd01305e807e852e8aee59",
+      "freshTranslation": "VF-25 메사이어 시리즈의 전위용 기체. 그 파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00111/Sheet1/000013",
+      "sourceBindingSha256": "a46a5753087a1b3f527ee27867d2aac13afb993873777ba74388262a4baff2e0",
+      "sourceTextSha256": "967de3bd8ad068c41afeda74035d26a1ea0b7df569db614527d687f391865e66",
+      "freshTranslation": "- 모드로 토네㊥드 팩을 장비한 대기권 외 사양.㊥S. M. S에서는 알토가 본 기기에 탑승하고 있다.㊥VF-25 메사이아는 최신예의 멀티롤 가변 전투기로 신통합군이 개발한 시험㊥작기 YF-24를 베이스로, 민간 기업의 L. A. I사와 신성인더스트리사가 공동㊥개발한 기체이다. 군에서의 정식 배치 전의 평가 시험의 형태로 S. M. S에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00111/Sheet1/000014",
+      "sourceBindingSha256": "ffad84b9f7e92848782a7ff2c67d528103f8f4a28cd1f3205dcea7c51756bdee",
+      "sourceTextSha256": "9b5a723227d4823c434987b153ee2db019b1ab0640610632f690579276b352d3",
+      "freshTranslation": "사용 ㊥있다. ㊥토네이도팩은 VF-25에 선회식 연장 빔포나 회전식 엔진 포드인 ㊥등을 추가 장비하는 최신예의 강화팩. 이 팩의 장비에 의해 공격력의 증강과 동㊥시에, 기동력,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00111/Sheet1/000015",
+      "sourceBindingSha256": "fbd2b334e01ea89e5c84fede32ceb89cad39516d03748263a776573111a46bad",
+      "sourceTextSha256": "6a616e13d89846954b13eb4fa0056419304a3bc264171b5e684ec6e4b70ef02a",
+      "freshTranslation": "동성능도 대폭 향상된다. ㊥ 대기권 외부에서는 엔진 포드의 팁에 추진제 보조",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00111/Sheet1/000016",
+      "sourceBindingSha256": "3aee703797a0211a83eefd86360a7501ad141b1989ad5d57aab079f945c45f0e",
+      "sourceTextSha256": "df7e026b1a9c2ab9cacab77e29ce3cd1dc2bf34c3d477a28fc470d837277abdf",
+      "freshTranslation": "은쿠 겸 대기권 돌입용 페어리㊥구를 장착한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

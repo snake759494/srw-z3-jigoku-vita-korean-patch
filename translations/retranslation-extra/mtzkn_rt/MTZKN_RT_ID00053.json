@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00053",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00053/Sheet1/000002",
+      "sourceBindingSha256": "b10397c20b61289a82392ddbb32b837ad99dbe539dcc85353f28d8e62bbac4c1",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00053/Sheet1/000003",
+      "sourceBindingSha256": "b4ac942b62eb76c2bb3be2b24bba79c67d6133053ba3619edc6100d00dcff0e4",
+      "sourceTextSha256": "a97f84196dda173586cf4ae0474423c25e32b7edeb02e306d218ce096513d7c6",
+      "freshTranslation": "레울룰라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00053/Sheet1/000004",
+      "sourceBindingSha256": "fc39cb7ca379485241156627c1982380fa3b613e163c0e64d61893fc7e95e445",
+      "sourceTextSha256": "a97f84196dda173586cf4ae0474423c25e32b7edeb02e306d218ce096513d7c6",
+      "freshTranslation": "레울룰라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00053/Sheet1/000005",
+      "sourceBindingSha256": "b5f7744bd67d9e4bc96d093edfa09c069f77e2e82bc5ae7b7b0021e5e1b8122f",
+      "sourceTextSha256": "1fb663ef4c9b0bc7cb1c6c541f93ab538c7e1f71a3c9f5cda07355a5b13d2eb4",
+      "freshTranslation": "네오지온군의 기함. ㊥ 구 지온 공국군의 기함이었던 구와진급 전함의 발전",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00053/Sheet1/000006",
+      "sourceBindingSha256": "502a9d0d6b72723d961703c39db280ac582637aa799c7dc5f9a6e2e99e757285",
+      "sourceTextSha256": "76a5383d2ec09a0d31a29c7c7c428787b8df398c96ac48a82efe38897e135f4c",
+      "freshTranslation": "추진 장치 및 냉각제",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00053/Sheet1/000007",
+      "sourceBindingSha256": "6933fab0d0d4d2d2ac112323f941602b37cb1294c78acd9f8d354b75e981040a",
+      "sourceTextSha256": "407c93272a71d5fd5193a7a855bd4d8f484018694c5a1aafd6355fbaf9861515",
+      "freshTranslation": "nc㊥ 등을 계승하고 있다. ㊥ 본함의 화력과 모빌슈트의 탑재량은 네오지온과 지구연방군 양군 중에서도 최㊥대를 자랑하며, 제2차 네오지온 항쟁에서는 함대의 주력으로 싸웠다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00053/Sheet1/000008",
+      "sourceBindingSha256": "5ac9703a40734a906b5de2ef4530f81add4a81ff5efb99ffa38024a29d02f7e4",
+      "sourceTextSha256": "1fb663ef4c9b0bc7cb1c6c541f93ab538c7e1f71a3c9f5cda07355a5b13d2eb4",
+      "freshTranslation": "네오지온군의 기함. ㊥ 구 지온 공국군의 기함이었던 구와진급 전함의 발전",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00053/Sheet1/000009",
+      "sourceBindingSha256": "90dc5edf01d21e7cb33eb77dd328f25eba91b2a4fd5cf8fe83ec2f9be4ee76d8",
+      "sourceTextSha256": "76a5383d2ec09a0d31a29c7c7c428787b8df398c96ac48a82efe38897e135f4c",
+      "freshTranslation": "추진 장치 및 냉각제",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00053/Sheet1/000010",
+      "sourceBindingSha256": "ae39fab715e29f325725100914b93cc92bef229afe532a05a2ee6031adfd7c04",
+      "sourceTextSha256": "407c93272a71d5fd5193a7a855bd4d8f484018694c5a1aafd6355fbaf9861515",
+      "freshTranslation": "nc㊥ 등을 계승하고 있다. ㊥ 본함의 화력과 모빌슈트의 탑재량은 네오지온과 지구연방군 양군 중에서도 최㊥대를 자랑하며, 제2차 네오지온 항쟁에서는 함대의 주력으로 싸웠다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

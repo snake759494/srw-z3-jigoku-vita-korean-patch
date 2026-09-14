@@ -1,0 +1,236 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00131",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000002",
+      "sourceBindingSha256": "109fd52dcabd21f4dbae015a7fd8737695ba85a01b6a406924bfdcfb480e73d0",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000003",
+      "sourceBindingSha256": "c4c9433729f7819742686c92b71ddd57a724d72e70969c5fb998fa91a47399f7",
+      "sourceTextSha256": "c0d3a63f2fec78158d842fcc9a7a1204a1f896ed8e48e569596715eb59975d55",
+      "freshTranslation": "마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000004",
+      "sourceBindingSha256": "034a208f2d1e61372c0b7eff321d450ea331c582bc8718a7118651d08a073300",
+      "sourceTextSha256": "28ddac14ebd5c55b860ae45cf59faede3a860bb315f64207629ce8112825e93a",
+      "freshTranslation": "- 요새함",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000005",
+      "sourceBindingSha256": "0f879f49ffd3a5725c64f337057651a7ef74a037101e340257148745b78010ae",
+      "sourceTextSha256": "c0d3a63f2fec78158d842fcc9a7a1204a1f896ed8e48e569596715eb59975d55",
+      "freshTranslation": "마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000006",
+      "sourceBindingSha256": "4debedd832b5464c3f961ea4ad1b7a02ffd38abb7dd941d7c39c8682aa0332b1",
+      "sourceTextSha256": "05780af9fac01ece0ffda962c99266f97ea78204fb38fe4c7eaa310de31da6d4",
+      "freshTranslation": "ー(요새함",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000007",
+      "sourceBindingSha256": "9cde045c76af3a0821e8856bc19618666bc06a0b9de6411fb2e61a96053ba657",
+      "sourceTextSha256": "17678b5f0c786c5d4f595c79241f5b3dace84368d807342c05ca7623a1d110cd",
+      "freshTranslation": "제프리 와일더",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000008",
+      "sourceBindingSha256": "fe4e2445e2ce5265e7dda64b0c953470eede5b0bd690116a1aa0b775fdb180c3",
+      "sourceTextSha256": "b5d7ccb6a62abe2566662c250810615bace69df1fe3972eafe66fbdcea492567",
+      "freshTranslation": "S. M. S의 기함인 만능",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000009",
+      "sourceBindingSha256": "2260846be8a356c2820356053952075a29f94d742a04a1213607c744f1c6a043",
+      "sourceTextSha256": "4bb2c4165a1832d6eb530586eebf6f1d307691f6389fe5369d15841ce895bcb2",
+      "freshTranslation": "우주 전투 항공 모함. ㊥ 민간 기업 S. M. S가 보유를 허가된 전투함 중에서 가장 큰 것이며, 함장㊥은 제프리 와일더 대령이 맡는다. ㊥ 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000010",
+      "sourceBindingSha256": "075f9f28f4cba1332ce0d2c6fdaeda30b0e2c60e053cbeab7923d34139ac5937",
+      "sourceTextSha256": "6c46ad31f0cc0e85ca670317ff041dd39b04443714546c80f4f7cbadffea9b0d",
+      "freshTranslation": "-이름대로, 크기는 마크로스급의 1/4 정도이며, 동급과 비교해 ㊥로 높은 기동력을 갖추고 있다. 만능",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000011",
+      "sourceBindingSha256": "a897034a29f515a030e1534f58361a9d824ef0447acaa199ab7b2a342a05c594",
+      "sourceTextSha256": "d842efe4977848da3c8da00627eeadaf02eca82d46c91ce3a269dfa7f1626a9f",
+      "freshTranslation": "의 이름에서 알 수 있듯이 폴드 항행을 시작하고 단독 ㊥에서 행성으로의 강하와 대기권 내 항행, 수상 수중 항행도 가능하다. ㊥건쉽(속사 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000012",
+      "sourceBindingSha256": "5bccb24adccc4cce1001dd2f8043271dba425e50f63d3c329f76710ef15a791d",
+      "sourceTextSha256": "569c018624c6f127a7bb704965095b2eb9685ca3e3b4a173ba7cc0fb340ae519",
+      "freshTranslation": "- 캐논), 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000013",
+      "sourceBindingSha256": "161312b9688f14822479366cf0c07f45eb5d2d08732324346b467cddd9729cc7",
+      "sourceTextSha256": "ef51c52d90b8dd3576f8624141d427a93b1a591d6ef313cdf926fd17d37e1182",
+      "freshTranslation": "- 캐논 8문, 대함미사일, 대㊥하늘미사일런처 등 다수의 무장을 장비하고 있다. ㊥ 또한 마크로스급 최대의 특징인 강공",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000014",
+      "sourceBindingSha256": "7d31c7284c249b015b4a0c721db785eea6c5211850c2d85806b2c8900e4f8a9f",
+      "sourceTextSha256": "65c567c53aeed5fb62400f3b8e50752f72adbf1bf58be6dc6427b7240e385cbe",
+      "freshTranslation": "형태로의 변환도 가능 ㊥능이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000015",
+      "sourceBindingSha256": "242663959d1f09912bb7f20311a72d64672ae4fd256f112d94b1b6884c082ed1",
+      "sourceTextSha256": "b5d7ccb6a62abe2566662c250810615bace69df1fe3972eafe66fbdcea492567",
+      "freshTranslation": "S. M. S의 기함인 만능",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000016",
+      "sourceBindingSha256": "eb9512d802aefa5135457b59fe16bf255e2232288e915c76efebec923eb391f4",
+      "sourceTextSha256": "4bb2c4165a1832d6eb530586eebf6f1d307691f6389fe5369d15841ce895bcb2",
+      "freshTranslation": "우주 전투 항공 모함. ㊥ 민간 기업 S. M. S가 보유를 허가된 전투함 중에서 가장 큰 것이며, 함장㊥은 제프리 와일더 대령이 맡는다. ㊥ 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000017",
+      "sourceBindingSha256": "fc2929446343a1d18b891670ac35f0110a71180bd9d36acf301d40cd868f770c",
+      "sourceTextSha256": "6c46ad31f0cc0e85ca670317ff041dd39b04443714546c80f4f7cbadffea9b0d",
+      "freshTranslation": "-이름대로, 크기는 마크로스급의 1/4 정도이며, 동급과 비교해 ㊥로 높은 기동력을 갖추고 있다. 만능",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000018",
+      "sourceBindingSha256": "bbf007342db6cc772d6fb0f32bf4ad2b8f4a241beb9d949623a44b9d50295c1a",
+      "sourceTextSha256": "d842efe4977848da3c8da00627eeadaf02eca82d46c91ce3a269dfa7f1626a9f",
+      "freshTranslation": "의 이름에서 알 수 있듯이 폴드 항행을 시작하고 단독 ㊥에서 행성으로의 강하와 대기권 내 항행, 수상 수중 항행도 가능하다. ㊥건쉽(속사 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000019",
+      "sourceBindingSha256": "3e205cf662e6f3bea20828b0d0260e2739390c86ae61fee5126a44de6926dec1",
+      "sourceTextSha256": "569c018624c6f127a7bb704965095b2eb9685ca3e3b4a173ba7cc0fb340ae519",
+      "freshTranslation": "- 캐논), 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000020",
+      "sourceBindingSha256": "4b22485304974948e9c2668ce1f5b784908c492b6a05f28f8f90409d206792ad",
+      "sourceTextSha256": "ef51c52d90b8dd3576f8624141d427a93b1a591d6ef313cdf926fd17d37e1182",
+      "freshTranslation": "- 캐논 8문, 대함미사일, 대㊥하늘미사일런처 등 다수의 무장을 장비하고 있다. ㊥ 또한 마크로스급 최대의 특징인 강공",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00131/Sheet1/000021",
+      "sourceBindingSha256": "755b04389c6158e9573f92e13e9833497019ef5a41b2649cb4a959c46fd8f97f",
+      "sourceTextSha256": "65c567c53aeed5fb62400f3b8e50752f72adbf1bf58be6dc6427b7240e385cbe",
+      "freshTranslation": "형태로의 변환도 가능 ㊥능이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

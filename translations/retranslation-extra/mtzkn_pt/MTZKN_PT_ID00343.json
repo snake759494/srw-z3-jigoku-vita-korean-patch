@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00343",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00343/Sheet1/000002",
+      "sourceBindingSha256": "d761ba6ec4471f1b12f18498b00b081225a2402c06aaa0cf7c6eb8f96933e8f7",
+      "sourceTextSha256": "965ae33ceb3180bd0c9bee77ca3b873e8d1bdfb29ade3dc33f6b660b1d6aab51",
+      "freshTranslation": "카지 료지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00343/Sheet1/000003",
+      "sourceBindingSha256": "07315716e08fbb0ab4dc1a883ca0e7a10a4c972c1af10984e857310905604332",
+      "sourceTextSha256": "4a65183d4241533bc3d1cc9daf316c51cd0bba6ea722b7d6a1e7add986f3af45",
+      "freshTranslation": "카지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00343/Sheet1/000004",
+      "sourceBindingSha256": "721548bc54c17790859b8a0fdeb994768a68a88dc2e96d3808a97e66054909c8",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00343/Sheet1/000005",
+      "sourceBindingSha256": "0035207be1459ef8ce906c267b2458d8f7297cb248141efca5155bdc57284176",
+      "sourceTextSha256": "7ea8776274c14f14f9d3a9de000343ab76ed42695178e1625469e0be6f42dfee",
+      "freshTranslation": "야마데라 히로이치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00343/Sheet1/000006",
+      "sourceBindingSha256": "d4afa0fc832aa0146496772b4a4ef1f40d7c7a921613159429a227601dcc6b87",
+      "sourceTextSha256": "dc6b9c9cc1439c40065a8faa711b12890e82ad2f843ee2500c416ac6029a5098",
+      "freshTranslation": "특무기관 NERV의 수석감찰관. ㊥유로 지부에서 본부부로 제3신도쿄시에 온다. 특명으로 행동하며 다양한 ㊥ 뒷정보에도 통하고 있다. ㊥ 굉장한 성격으로 신지와 함께 농사를 하는 등 장식하지 않는 면도 있다. ㊥ 미사토나 리츠코와는 학생 시절부터의 교제.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00343/Sheet1/000007",
+      "sourceBindingSha256": "bbb881bde70e472196cfb05adedc9aa6a20ef331b7f3d4a869dc6d6653e491fd",
+      "sourceTextSha256": "2ece6c9c54b0023dc1e1dc619984834f303024989a17478d047dfdf938fa17f7",
+      "freshTranslation": "특무기관 NERV의 수석감찰관. ㊥유로 지부에서 본부부로 제3신도쿄시에 온다. 특명으로 행동하며 다양한 ㊥ 뒷정보에도 통하고 있다. ㊥ 굉장한 성격으로 신지와 함께 농사를 하는 등 장식하지 않는 면도 있다. ㊥ 미사토나 리츠코와는 학생 시절부터의 교제로, 한때는 미사토의 연인이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

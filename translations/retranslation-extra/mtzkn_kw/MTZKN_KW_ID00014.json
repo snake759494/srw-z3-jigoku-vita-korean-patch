@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00014",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00014/Sheet1/000002",
+      "sourceBindingSha256": "23667ed4cc0a073cd58ccb7159e21f1479d2091b08daac6cbdd736bcb960150b",
+      "sourceTextSha256": "cfd728a7a10979bd33c55c2c077058c658341b87fdfd8e92a55cacd39f8aa860",
+      "freshTranslation": "「태양의 사자 철인 28호」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00014/Sheet1/000003",
+      "sourceBindingSha256": "d8caa0400642ea15d0c114b5f3d7033b2a2e38a36d250b7f8844f0ed2945df93",
+      "sourceTextSha256": "64528398e85ae760ec7ee1d43436412ab362bc0a80ac8c5ac7016bef895c5f1d",
+      "freshTranslation": "국제 형사 경찰기구. ㊥ \"International Criminal Police㊥Organization\"의 머리 글자를 가져 왔습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00014/Sheet1/000004",
+      "sourceBindingSha256": "6c6d6ff0ac1f0ab9568780c96a5a16b917eae0bdb01361927392109fc8f431dd",
+      "sourceTextSha256": "cd0cac81ca8a702a4bc00cddf2eed67a8d38e70419b9de8fd29f9bce732b3889",
+      "freshTranslation": "- 폴이라고도 부릅니다.㊥흔들리고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00014/Sheet1/000005",
+      "sourceBindingSha256": "c824a8d76c556491b88bd90af4817eba4cd429c3bf3596f7edb988163abe35b7",
+      "sourceTextSha256": "64528398e85ae760ec7ee1d43436412ab362bc0a80ac8c5ac7016bef895c5f1d",
+      "freshTranslation": "국제 형사 경찰기구. ㊥ \"International Criminal Police㊥Organization\"의 머리 글자를 가져 왔습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00014/Sheet1/000006",
+      "sourceBindingSha256": "d04163726401f1eeb4f493262b6932cd5674b9548a49906000d34d42fa5f5dcc",
+      "sourceTextSha256": "cd0cac81ca8a702a4bc00cddf2eed67a8d38e70419b9de8fd29f9bce732b3889",
+      "freshTranslation": "- 폴이라고도 부릅니다.㊥흔들리고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

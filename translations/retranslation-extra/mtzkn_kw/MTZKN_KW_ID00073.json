@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00073",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00073/Sheet1/000002",
+      "sourceBindingSha256": "cc4a661dc19a1955f9c43068e5d8b7def0d0beea3e06a6b2fcbcf1b7d78a97ee",
+      "sourceTextSha256": "55eda1eb4d5264172188ad893de14fa3b87fce28199015d8bf99aee8c9542bc9",
+      "freshTranslation": "레드 숄더",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00073/Sheet1/000003",
+      "sourceBindingSha256": "14a79c9ae3b80a1b3fe003cecde3567fd704f5c14e605edad342f7246120071c",
+      "sourceTextSha256": "00c3cbf4c1fa840433f934400fe630426ff59429734dff11e4e9b153142371e1",
+      "freshTranslation": "「장갑 기병 보텀스」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00073/Sheet1/000004",
+      "sourceBindingSha256": "5734b7fb2b004d11bde4ecb423d0904078ef01c7f70e3696627a26a4539fd101",
+      "sourceTextSha256": "0c7ef79f9725130dc681499948d0430e6cb9625e26490885bd2e66cf06636678",
+      "freshTranslation": "멜키아 전략 기갑병단 특수 임무반 X-1. ㊥ 요란 페르젠이 창설한 전투 집단으로, 대원 한사람 한사람이 일기당천의 전투 ㊥ 능력을 가진다. ㊥ 임무에 대해 충실하고, 행성 산사의 섬멸 작전 등의 비인간적이라고도 말할 수 있는 ㊥ 철저한 싸움에 의해, 적은 어쩌면 아군으로부터도 「흡혈 부대」라고 불려, 공포㊥ 되고 있었다. ㊥ 전후 살아남은 멤버는 창시자 페르젠의 사병이 되지만, 페르젠㊥에 복수를 맹세하는 전 대원들의 공격에 의해 괴멸했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00073/Sheet1/000005",
+      "sourceBindingSha256": "aeb4e7124a46cf93d36f723ef8e2fbed9fb5361cccb3d11e993cca9d1f8a1c53",
+      "sourceTextSha256": "0c7ef79f9725130dc681499948d0430e6cb9625e26490885bd2e66cf06636678",
+      "freshTranslation": "멜키아 전략 기갑병단 특수 임무반 X-1. ㊥ 요란 페르젠이 창설한 전투 집단으로, 대원 한사람 한사람이 일기당천의 전투 ㊥ 능력을 가진다. ㊥ 임무에 대해 충실하고, 행성 산사의 섬멸 작전 등의 비인간적이라고도 말할 수 있는 ㊥ 철저한 싸움에 의해, 적은 어쩌면 아군으로부터도 「흡혈 부대」라고 불려, 공포㊥ 되고 있었다. ㊥ 전후 살아남은 멤버는 창시자 페르젠의 사병이 되지만, 페르젠㊥에 복수를 맹세하는 전 대원들의 공격에 의해 괴멸했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

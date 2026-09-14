@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00113",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00113/Sheet1/000002",
+      "sourceBindingSha256": "da26e15647476a5bd1eb90b3db4dd1ea0915932781461ff46f7d4727389c422f",
+      "sourceTextSha256": "a6d888c32ffc2af01d6d481ad4521afd1d48259f5fcd4bbea04ef5b94bcecaa4",
+      "freshTranslation": "「톱을 봐라!」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00113/Sheet1/000003",
+      "sourceBindingSha256": "38cf7a2baa6501040dd98e6546946af94791466b79d1bcffc2debd97b17b211e",
+      "sourceTextSha256": "938e48791b3f2397bf260248a1fc7b3e7083c3b607cd38f23ffa48b8d79328ca",
+      "freshTranslation": "「SpaceTerrible MonsterCrowd」의 약어로 ㊥ 인류의 천적이라고 할 수 있는 존재. 우주괴수라고도 불린다. ㊥ 워프시의 파동(버니싱 드라이브 파)을 감지하고, 그 방향을 목표로 하여 ㊥조차 파괴를 수반하는 직진을 행한다. 그 행동은 명확한 의지하에 행해지고 있는 ㊥가 아니라 단순한 본능 행동·선천적 행동에 지나지 않는다. ㊥ 위협적인 전투력과 생명력도 물론,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00113/Sheet1/000004",
+      "sourceBindingSha256": "34c6ef4191d117d802cc8046dcfabb060b29aa48c8153793c68d2d419c2b8a8e",
+      "sourceTextSha256": "2410d7986739d1831030d4991137734d011ff0bbe922a4b1f00bddd09f8361f7",
+      "freshTranslation": "에 두려워하는 것은 번식력이며, ㊥ 그 총수는 천문학적 숫자에 이르고 있다. ㊥ '군대'라는 총 길이 약 10m의 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00113/Sheet1/000005",
+      "sourceBindingSha256": "c4fd477d164b4c322c90800e1399ad3d1babbeb328756591223e11516943190e",
+      "sourceTextSha256": "a3d5da2108abb982ae8deb734c7448de82b698c5db65362a356e6d4ec48cb9e6",
+      "freshTranslation": "격투용 생물로부터, 전장 수십 킬로메㊥토르에 이르는 「모함」까지 다종다양한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00113/Sheet1/000006",
+      "sourceBindingSha256": "78f446af0215b66ff4c9daf5f7b37699206163fd392700da7149dccd2229f23c",
+      "sourceTextSha256": "c95dd149fd245a0758fec7ea72de978d3fca1c0e851acc958d90c1e89b4eda97",
+      "freshTranslation": "입이 존재한다. ㊥ 은하 중심부에 둥지를 갖고 거기에서 각 항성계에 습격한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00113/Sheet1/000007",
+      "sourceBindingSha256": "2f177c02e37ac564b7baf9e7700fcdbcd7a2e31d6e093492e6a4939815876189",
+      "sourceTextSha256": "938e48791b3f2397bf260248a1fc7b3e7083c3b607cd38f23ffa48b8d79328ca",
+      "freshTranslation": "「SpaceTerrible MonsterCrowd」의 약어로 ㊥ 인류의 천적이라고 할 수 있는 존재. 우주괴수라고도 불린다. ㊥ 워프시의 파동(버니싱 드라이브 파)을 감지하고, 그 방향을 목표로 하여 ㊥조차 파괴를 수반하는 직진을 행한다. 그 행동은 명확한 의지하에 행해지고 있는 ㊥가 아니라 단순한 본능 행동·선천적 행동에 지나지 않는다. ㊥ 위협적인 전투력과 생명력도 물론,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00113/Sheet1/000008",
+      "sourceBindingSha256": "43fcc158b49403f69e4b58bf3219a8410cb60bf5909535f6bd4e721d11e632fa",
+      "sourceTextSha256": "2410d7986739d1831030d4991137734d011ff0bbe922a4b1f00bddd09f8361f7",
+      "freshTranslation": "에 두려워하는 것은 번식력이며, ㊥ 그 총수는 천문학적 숫자에 이르고 있다. ㊥ '군대'라는 총 길이 약 10m의 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00113/Sheet1/000009",
+      "sourceBindingSha256": "509c48821fa6df6aee6e36e86ab1945c334b63c84f43a9259e9a0042f9990c83",
+      "sourceTextSha256": "a3d5da2108abb982ae8deb734c7448de82b698c5db65362a356e6d4ec48cb9e6",
+      "freshTranslation": "격투용 생물로부터, 전장 수십 킬로메㊥토르에 이르는 「모함」까지 다종다양한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00113/Sheet1/000010",
+      "sourceBindingSha256": "95510f92c8cdb2979f38878cd80d92c9f4fac0e3131eece878b786dc901bd61c",
+      "sourceTextSha256": "c95dd149fd245a0758fec7ea72de978d3fca1c0e851acc958d90c1e89b4eda97",
+      "freshTranslation": "입이 존재한다. ㊥ 은하 중심부에 둥지를 갖고 거기에서 각 항성계에 습격한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

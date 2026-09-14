@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00000",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00000/Sheet1/000002",
+      "sourceBindingSha256": "97b7e7e2ff8b00ad316de032e508aae138be81f0e8392bc3ae403a2b1dda1f24",
+      "sourceTextSha256": "77c406ff1c1b9634902fdd15ec771c2a07e20db9f0a6b53196dbf872ebd5aa4c",
+      "freshTranslation": "무적 로보 트라이더 G7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00000/Sheet1/000003",
+      "sourceBindingSha256": "25d776a29a29eaf8e2a9fe9e71810881b2e241357c0f55e740ec4635dd3f6b64",
+      "sourceTextSha256": "e9b401db933dc49ea73afcd5d1178ee17e3c00254bb3e07f939b1e14d399cdcd",
+      "freshTranslation": "트라이더 G7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00000/Sheet1/000004",
+      "sourceBindingSha256": "d6c23cf5c80da7613786e94adcfe8ff01e32f9fa32644720aed6c92b818eec29",
+      "sourceTextSha256": "e9b401db933dc49ea73afcd5d1178ee17e3c00254bb3e07f939b1e14d399cdcd",
+      "freshTranslation": "트라이더 G7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00000/Sheet1/000005",
+      "sourceBindingSha256": "a8f5829a9b86bd294344fe7bdb4853fef8511c583d08db596c75cb29706bcb3a",
+      "sourceTextSha256": "e1abb099ed973c900227eb85f5535d51d3e3b47ce4196c1df580bc32e0f38831",
+      "freshTranslation": "타케오 와타",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00000/Sheet1/000006",
+      "sourceBindingSha256": "0e6e956b16357ecf263cf5b8492be8d700274d2bdfcd6014bd485640065439ea",
+      "sourceTextSha256": "7ae13dc9c746bf65102ae7592cbcdc9473539fc48b4e068796076c322f5dfb71",
+      "freshTranslation": "우주의 뭐든지 가게, 다케오 제너럴 컴퍼니가 자랑하는 슈퍼 로봇.㊥평소에는 머리의 상반부만을 노출시킨 상태에서 공원에 대기하고 있다. 일이 들어오면㊥임원의 그림에 의한 「매번 시끄럽게해서 죄송합니다」로 시작되는 발표와,㊥와타의 「안전, 확인!」의 걸음에 의한 이중 주위의 안전 체크 후에 발진한다㊥라는 지역 밀착",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00000/Sheet1/000007",
+      "sourceBindingSha256": "2bb41b3753ed7d9e1d145517e44c5ac629e6c4b83f8d4ddf61f343da116a6aa9",
+      "sourceTextSha256": "f0e53f0a1984fdd5dd44afafdd307ba638ace5b03d9f650401cd40572e0ca7dd",
+      "freshTranslation": "로봇이다. ㊥ 원래는 일의 폭을 넓히기 위해서 와타의 아버지 도로 타로가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00000/Sheet1/000008",
+      "sourceBindingSha256": "5622bf0759427b2d0ed000546a75b921fed0a57479eb40e6d66af5ffd6a0e10e",
+      "sourceTextSha256": "39e4a2f53d2cd3378ced4613083de9295a22e84c4b0fc9e95d4b84ab08eb639e",
+      "freshTranslation": "용을 시작했지만 그는㊥일중의 사고에 의해 생명을 떨어뜨린다. 이윽고 아버지 뒤를 이어 사장이 된 와타㊥하지만, 파일럿의 자리도 이어 승차하게 되었다고 하는 인사가 있다.㊥기본 형태의 트라이더 G7이 그대로 변형하는 순항 형태 「트라이더 코스믹」㊥, 중전차 형태 「트라이더 비글」, 전투기 형태 「트라이더 이글」외,㊥트라이더의 머리가 몸통과 분리되어 변형되는 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00000/Sheet1/000009",
+      "sourceBindingSha256": "767746f1bc253d16638e1b93e57dd11c44ecd6f737c9184283d44e141e325430",
+      "sourceTextSha256": "c7b959e23e252cd97b405e100b1fbd5885007791556a9fcf347557236909f153",
+      "freshTranslation": "정찰기 형태 '트라이더 호크'㊥, 수상 및 수중 형태 '트라이더 마린', 차량 형태 '트라이더 모빌'과 ㊥7개의 형태로 변형 가능한 것이 가장 큰 특징. ㊥ 언뜻 보면 도수 공권으로 보이지만, 손가락 끝에서 발사되는 '발칸 미사일'인 ㊥ 어느 다수의 무기를 체내에 수납하고 ​​있다. 각 무장은 와타의 목소리와 함께 즉시 사출 ㊥되어 트라이더의 큰 힘이 된다. 최강의 필살기 인 \"트라이더 버드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00000/Sheet1/000010",
+      "sourceBindingSha256": "8f422f59191bd55c14664a32745d406b4776e31a369932d7b8cfebc7d5ec98aa",
+      "sourceTextSha256": "97b0761d3bb32a16a89dfda61250473ab17a81e3e1cc1de26da745ded48d48fb",
+      "freshTranslation": "\"크\"는 가슴에있는 새의 각인에서 퍼지는 버드 빔으로 트라이더를 감싸고 고속으로 ㊥ 적에게 몸에 닿아 찢는다는 것. 에너지 소비는 격렬하지만 위력은 절대적이며 ㊥ 있다. ㊥ 지구를 노리는 로봇 제국이 내놓아 온 메카 로봇들을 모두 물리칠 정도의 성㊥능을 가지지만, 제작자도 또한 전 로봇 제국의 과학자 나발론이다. 그는 도타로에게 생㊥생명을 구원받은 은의에 보답하기 위해, 또 자신의 소망이었던 「마음을 가진 로봇」을㊥ 건설하기 위해 트라이더를 개발해, 훌륭하게 그 본회를 이루었다. 하지만 왓타들은 나바로㊥을 지구인의 우메모토로 인식하고 있어 로봇제국의 존재처럼 끝까지 그 정체를 아는㊥할 일은 없었다. ㊥ 덧붙여 트라이더를 조종하기 위해서는 「로봇 면허」가 필요하고, 누구에게나 조종으로 ㊥ 온다고 하는 것은 아니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00000/Sheet1/000011",
+      "sourceBindingSha256": "c43845f0e4ad3304e249864bb232f08135862bb2361e8a558f143aaed6a6b4df",
+      "sourceTextSha256": "7ae13dc9c746bf65102ae7592cbcdc9473539fc48b4e068796076c322f5dfb71",
+      "freshTranslation": "우주의 뭐든지 가게, 다케오 제너럴 컴퍼니가 자랑하는 슈퍼 로봇.㊥평소에는 머리의 상반부만을 노출시킨 상태에서 공원에 대기하고 있다. 일이 들어오면㊥임원의 그림에 의한 「매번 시끄럽게해서 죄송합니다」로 시작되는 발표와,㊥와타의 「안전, 확인!」의 걸음에 의한 이중 주위의 안전 체크 후에 발진한다㊥라는 지역 밀착",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00000/Sheet1/000012",
+      "sourceBindingSha256": "74f7fbea2e67dc02ac6a5028db31852bc9bbe06ebaa716b037ab4d431020eec9",
+      "sourceTextSha256": "f0e53f0a1984fdd5dd44afafdd307ba638ace5b03d9f650401cd40572e0ca7dd",
+      "freshTranslation": "로봇이다. ㊥ 원래는 일의 폭을 넓히기 위해서 와타의 아버지 도로 타로가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00000/Sheet1/000013",
+      "sourceBindingSha256": "0c2a3b236303d7581d272c9cb6aa5d08c0f8ff1fce7650a52777271587eeb007",
+      "sourceTextSha256": "39e4a2f53d2cd3378ced4613083de9295a22e84c4b0fc9e95d4b84ab08eb639e",
+      "freshTranslation": "용을 시작했지만 그는㊥일중의 사고에 의해 생명을 떨어뜨린다. 이윽고 아버지 뒤를 이어 사장이 된 와타㊥하지만, 파일럿의 자리도 이어 승차하게 되었다고 하는 인사가 있다.㊥기본 형태의 트라이더 G7이 그대로 변형하는 순항 형태 「트라이더 코스믹」㊥, 중전차 형태 「트라이더 비글」, 전투기 형태 「트라이더 이글」외,㊥트라이더의 머리가 몸통과 분리되어 변형되는 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00000/Sheet1/000014",
+      "sourceBindingSha256": "a1c685e69b35613b5ca9fbc1349696240f147db9f040d4829e18fc1dccbfe1b2",
+      "sourceTextSha256": "c7b959e23e252cd97b405e100b1fbd5885007791556a9fcf347557236909f153",
+      "freshTranslation": "정찰기 형태 '트라이더 호크'㊥, 수상 및 수중 형태 '트라이더 마린', 차량 형태 '트라이더 모빌'과 ㊥7개의 형태로 변형 가능한 것이 가장 큰 특징. ㊥ 언뜻 보면 도수 공권으로 보이지만, 손가락 끝에서 발사되는 '발칸 미사일'인 ㊥ 어느 다수의 무기를 체내에 수납하고 ​​있다. 각 무장은 와타의 목소리와 함께 즉시 사출 ㊥되어 트라이더의 큰 힘이 된다. 최강의 필살기 인 \"트라이더 버드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00000/Sheet1/000015",
+      "sourceBindingSha256": "b4c81e49dec7665bd283bde8058dbab4d01096c05d21854b199b75d8516c599c",
+      "sourceTextSha256": "97b0761d3bb32a16a89dfda61250473ab17a81e3e1cc1de26da745ded48d48fb",
+      "freshTranslation": "\"크\"는 가슴에있는 새의 각인에서 퍼지는 버드 빔으로 트라이더를 감싸고 고속으로 ㊥ 적에게 몸에 닿아 찢는다는 것. 에너지 소비는 격렬하지만 위력은 절대적이며 ㊥ 있다. ㊥ 지구를 노리는 로봇 제국이 내놓아 온 메카 로봇들을 모두 물리칠 정도의 성㊥능을 가지지만, 제작자도 또한 전 로봇 제국의 과학자 나발론이다. 그는 도타로에게 생㊥생명을 구원받은 은의에 보답하기 위해, 또 자신의 소망이었던 「마음을 가진 로봇」을㊥ 건설하기 위해 트라이더를 개발해, 훌륭하게 그 본회를 이루었다. 하지만 왓타들은 나바로㊥을 지구인의 우메모토로 인식하고 있어 로봇제국의 존재처럼 끝까지 그 정체를 아는㊥할 일은 없었다. ㊥ 덧붙여 트라이더를 조종하기 위해서는 「로봇 면허」가 필요하고, 누구에게나 조종으로 ㊥ 온다고 하는 것은 아니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

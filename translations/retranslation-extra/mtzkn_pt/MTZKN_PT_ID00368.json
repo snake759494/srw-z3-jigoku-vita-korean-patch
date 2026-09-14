@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00368",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00368/Sheet1/000002",
+      "sourceBindingSha256": "e28f88a23aa46b0802e0ac4d857c34dca8343dd07ff9f275a8f2a4a3b8c548d1",
+      "sourceTextSha256": "a115e00663b1778d77738b2f9223041a27402aeb532adf56ab208ae1bb3a5162",
+      "freshTranslation": "제시카 원",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00368/Sheet1/000003",
+      "sourceBindingSha256": "a1dae7c243db0e19d0b1e5e770a71ff258b45994275b8dbf2796d93a606fa6f2",
+      "sourceTextSha256": "4dca59d06c57f6ab986a99b0f5aae02dd85f63429f3c7e292c5f44c575a76ee3",
+      "freshTranslation": "제시카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00368/Sheet1/000004",
+      "sourceBindingSha256": "998eac7e5c78bb82db0fc0c05099f2b001f9746aafd5573426fc5d85e566aeb2",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00368/Sheet1/000005",
+      "sourceBindingSha256": "18ee3d423ae349debc8dae9dca576f934d5c5da26298b491818e6ca53b89a8cd",
+      "sourceTextSha256": "f8c2dc0c60d2452653908f3c0a39d36e825011f4f79eca99754e7b9064c34492",
+      "freshTranslation": "하나자와 카나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00368/Sheet1/000006",
+      "sourceBindingSha256": "963a8d46de187277361b51c850d192d1651c1884c5bfb7940533770176209378",
+      "sourceTextSha256": "980902fe5a72df03c640dfae725ea19f2656d9b5d2560ce3c1bb3614f6133a00",
+      "freshTranslation": "네오디바의 요소 후보생. ㊥ 활발한 소녀로 이성에 대해서도 대담하고 노출도가 높은 옷을 즐겨 입고 있다. ㊥ 여자 넘버 1의 전투력을 자랑하며, 아쿠에리온에 탑승할 기회도 많다. 육탄전이 얻어㊥의로, 전투에서는 의지가 되는 존재이지만, 유령을 두려워하는 등 소녀다운 측면도 가진다. ㊥ 요소 능력은 \"충격력\". 약간의 힘을 증폭하여 큰 힘으로 바꿀 수 있다. ㊥ 서로 깊은 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00368/Sheet1/000007",
+      "sourceBindingSha256": "68dfe144faff262940cba63a3026bd61211f2e029474915195a8507f7bd206b8",
+      "sourceTextSha256": "5db37b104940952ce629193b36836f7448abfcbd068848a66e868a64dc5786c4",
+      "freshTranslation": "와 미코노의 관계를 잘 놀리고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00368/Sheet1/000008",
+      "sourceBindingSha256": "7e9ad3b0dd63f9dc4c761b756babbf7810ca8659ac9240286bc6783320ee3fe7",
+      "sourceTextSha256": "980902fe5a72df03c640dfae725ea19f2656d9b5d2560ce3c1bb3614f6133a00",
+      "freshTranslation": "네오디바의 요소 후보생. ㊥ 활발한 소녀로 이성에 대해서도 대담하고 노출도가 높은 옷을 즐겨 입고 있다. ㊥ 여자 넘버 1의 전투력을 자랑하며, 아쿠에리온에 탑승할 기회도 많다. 육탄전이 얻어㊥의로, 전투에서는 의지가 되는 존재이지만, 유령을 두려워하는 등 소녀다운 측면도 가진다. ㊥ 요소 능력은 \"충격력\". 약간의 힘을 증폭하여 큰 힘으로 바꿀 수 있다. ㊥ 서로 깊은 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00368/Sheet1/000009",
+      "sourceBindingSha256": "dd6f91413f449cf8e27df1c671a9da3d7ec76bfb5a6b5296e88eeb11fb8b567f",
+      "sourceTextSha256": "263ec74acaebda5da93290d9bac685bb244d0aa1aead39d698627d2e53243588",
+      "freshTranslation": "미코노의 관계를 잘 괴롭히고 있지만, 점차 자신도 아㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00368/Sheet1/000010",
+      "sourceBindingSha256": "4f0fd7507b5d2a00b05b814a6aa5cee67f7a7db9a65313a686ef15a0311dcf27",
+      "sourceTextSha256": "3ae7c7546e8df591be9a028860edbe13cfd76bd0731aef6914eb8c89d444726c",
+      "freshTranslation": "일을 이성으로 의식하기 시작한다. ㊥ 하지만 미코노에 대한 엄청난 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00368/Sheet1/000011",
+      "sourceBindingSha256": "0e6f235cd2de81855761625567192e502ce61484bb5c187f677c0da73abe8dbe",
+      "sourceTextSha256": "1c60fc20009547241d1e9528166f35f6d36670803fb4b84a0d09f167ce03846e",
+      "freshTranslation": "의 기분에 나누어 넣지 않고 접근할 수 없는 ㊥ 일에 자기 혐오를 기억하게 된다. 그 고민으로부터, 물체를 비틀어 변형시키는 ㊥ 새로운 엘리먼트 능력 「비틀림 힘」을 개화시켰다. ㊥ 아쿠에리온게파르트와의 모의전에서 기세로 고백. 연애 감정에 의해 아쿠아리오㊥을 폭주시켜 버린다. ㊥ 이후에도 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00368/Sheet1/000012",
+      "sourceBindingSha256": "956a45c8e36d3d4c279de106c87bffcc28e7d675b235f87eb5e159c82694c7d9",
+      "sourceTextSha256": "56d56a301735170c330f21accd947b3c00ab6a4352e479f4d5ba3c553b7ca316",
+      "freshTranslation": "에 기분을 받아들일 수 없는 괴로움에 고민, 이윽고, 그 마음의 틈을 ㊥미카게에 이용되어 육체를 빼앗겨 버린다. ㊥ 그러나 카구라와 함께 미카게의 지배를 벗은 후에는 모든 것을 날려버리고 미코노를 구하기 위해 ㊥을 위해 싸우는 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00368/Sheet1/000013",
+      "sourceBindingSha256": "17af973d88456c4b2da8f6ef13bd97ba28ceeaa63178b61296720c49dc27d825",
+      "sourceTextSha256": "2d541ed4fe646a2dbd82d6b31d14e073d2ca6a6b28bd44aaf6517f68323f387e",
+      "freshTranslation": "의 밀어주었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

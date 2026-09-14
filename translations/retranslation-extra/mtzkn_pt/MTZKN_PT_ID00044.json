@@ -1,0 +1,181 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00044",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00044/Sheet1/000002",
+      "sourceBindingSha256": "e965ec24b5d7a9366207306085fd3d59c52298112de32d60fbb803c9774d507d",
+      "sourceTextSha256": "1ae84ec3727d20b09156518e3322df090ba671c151a7f7c4e639b58b09d7d4cb",
+      "freshTranslation": "테이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00044/Sheet1/000003",
+      "sourceBindingSha256": "dbcb2e9e1708f3370a8ec1ac1692ce5ffee262383c755efb9fd5aaca4a9808cd",
+      "sourceTextSha256": "9f32678af8711b5ba5f65fb254bdcff2896a15a82adcbb2dc951089b88de5e5d",
+      "freshTranslation": "니어 다 몬테 웰스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00044/Sheet1/000004",
+      "sourceBindingSha256": "49c7d9af4442dfc7eee2a22505cb97fc9cffd471e13634a8f5d5648af84b7761",
+      "sourceTextSha256": "1ae84ec3727d20b09156518e3322df090ba671c151a7f7c4e639b58b09d7d4cb",
+      "freshTranslation": "테이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00044/Sheet1/000005",
+      "sourceBindingSha256": "eaa8de07c773f7f9a31c4d23cdf9728bfc554ea6c4d89015897405485f85461b",
+      "sourceTextSha256": "9a979196e68c3549b7216e56e834bf45c2d28340607b9c8dddf0aedc44140955",
+      "freshTranslation": "니어",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00044/Sheet1/000006",
+      "sourceBindingSha256": "24c7c97dbd0efb1ef603d38f21cfc137ac06efc751c6f6e11634219afe41b7ba",
+      "sourceTextSha256": "2e72dc391938168fbc52704deca72c28f66762970743d8ea2a42ca6692f5cff8",
+      "freshTranslation": "장갑 기병 보텀스 사타구니 이단",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00044/Sheet1/000007",
+      "sourceBindingSha256": "a1cf1f21bb96d5cd1d7f25725eb06e12ae87d469f7d90e946b423973a56365a1",
+      "sourceTextSha256": "3b480c20e775dc0abe6e0f760892ece8fe164335833f32a5bfe06fb12bff5a04",
+      "freshTranslation": "마츠오카 요코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00044/Sheet1/000008",
+      "sourceBindingSha256": "3263b688c84e2fbff1e468c4246a7260d9cc258548d67aa9330fe5c419e77f31",
+      "sourceTextSha256": "a332db71a2dd03256b9bd88bf768577c52a7cd6c86172c27f99ffa4ff7ced232",
+      "freshTranslation": "범은하 결사 마티알의 제13계위 '질서의 방패'. ㊥질서 방패에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00044/Sheet1/000009",
+      "sourceBindingSha256": "3fa37242512d83f962009d73ddcde5e020baa4dbc364ad1228820aeb2baa13a1",
+      "sourceTextSha256": "4eb7bed24afe1f17f48140f94ac3521a55b6ae571502834e42802ebab08b86a9",
+      "freshTranslation": "가능한 AT, 오델 버클러를 달린다. ㊥ 한때 교통사고에 처해 빈사의 중상을 입었지만, 아버지 몬테 웰스 경의 생명으로 넥스㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00044/Sheet1/000010",
+      "sourceBindingSha256": "597a15638d6067cc799e1ce064b3b2a8cba5afa5d09aa7f5afee887cf227d6c5",
+      "sourceTextSha256": "00d71cb29911ecf76350461d0539e8f3382f68e17ac083e23c4d05fd03a9d872",
+      "freshTranslation": "로 개조되어 일명을 잡은 과거를 가진다. ㊥넥스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00044/Sheet1/000011",
+      "sourceBindingSha256": "059711451a21dfb066c5ec729aef289b8fc261eef42375651c069360ed9b776d",
+      "sourceTextSha256": "4e9c03dec99c8ac2772325801101474851b94e4cc48c01af6c65954545508a0b",
+      "freshTranslation": "NT는 PS계획의 실패를 받아 만들어진 생체무기이며, 신체의 대부분 ㊥이 기계로 구성되어 있다. 초인적인 신체능력과 반사속도에 더해 전투용 인공뇌에서 ㊥ 있는 '보조뇌' 기능으로 감정이 없는 무기로 싸울 수 있어 정신적으로 불㊥ 안정된 PS를 웃도는 전투력을 발휘한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00044/Sheet1/000012",
+      "sourceBindingSha256": "2be21a7170bcb74c992a8825f43f8741c3ef6d3881bc6adfa64f82be139344e5",
+      "sourceTextSha256": "a332db71a2dd03256b9bd88bf768577c52a7cd6c86172c27f99ffa4ff7ced232",
+      "freshTranslation": "범은하 결사 마티알의 제13계위 '질서의 방패'. ㊥질서 방패에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00044/Sheet1/000013",
+      "sourceBindingSha256": "4f94bfbe5b882e93253b26bbc07c6f63662b0a182622bb7d29fba450068ea213",
+      "sourceTextSha256": "4eb7bed24afe1f17f48140f94ac3521a55b6ae571502834e42802ebab08b86a9",
+      "freshTranslation": "가능한 AT, 오델 버클러를 달린다. ㊥ 한때 교통사고에 처해 빈사의 중상을 입었지만, 아버지 몬테 웰스 경의 생명으로 넥스㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00044/Sheet1/000014",
+      "sourceBindingSha256": "03689775ba8e7deeb5bfabb91a224caf2c52898f722fe56fc634a69288357012",
+      "sourceTextSha256": "00d71cb29911ecf76350461d0539e8f3382f68e17ac083e23c4d05fd03a9d872",
+      "freshTranslation": "로 개조되어 일명을 잡은 과거를 가진다. ㊥넥스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00044/Sheet1/000015",
+      "sourceBindingSha256": "de0c9c0eb4c589341e5e9215d0f93910c5762f4a735dbeeadc7736c1ac131a66",
+      "sourceTextSha256": "c2a2c75c030cb3f36983753bc6a1131b53949c78daa9479abbd3762dfc2e90b3",
+      "freshTranslation": "NT는 PS계획의 실패를 받아 만들어진 생체무기이며, 신체의 대부분 ㊥이 기계로 구성되어 있다. 초인적인 신체능력과 반사속도에 더해 전투용 인공뇌에서 ㊥ 있는 '보조뇌' 기능으로 감정이 없는 무기로 싸울 수 있어 정신적으로 불㊥ 안정된 PS를 웃도는 전투력을 발휘한다. ㊥ 키리코와의 결전에 이르렀을 때에는 보조뇌의 힘에 의해 압도하지만, 그 보조뇌를 우발적 ㊥인 상황에서 쏘아져 전투 능력을 잃는다. ㊥ 동시에 자신을 사고에 휘말려 넥스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00044/Sheet1/000016",
+      "sourceBindingSha256": "324db0a90331b08df4eb981bd1e5552f3014c4c9e16c02834b5dbb7905ee4e64",
+      "sourceTextSha256": "438bce8db922e17d27e3faabab4c62e76ca2f45502543e3eb4251cdec198a4f0",
+      "freshTranslation": "에 완성한 것이 모두 아버지의 계획으로 아㊥한 것을 알고, 그 아래를 떠나는 것을 결정한다. ㊥ 싸움 끝에 키리코에게 특별한 감정을 품고, 피아나를 잃고 혼자 여행을 떠난 그의 뒤를 ㊥ 쫓았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00208",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00208/Sheet1/000002",
+      "sourceBindingSha256": "54499406f9d1277a649116414f1027d47148ca43a9791b25ee29ea1c549d49c1",
+      "sourceTextSha256": "cd98e43da31bb1b90dc152851c85c7d266d47ba97bc5ff7bd137c5920429d467",
+      "freshTranslation": "선생님",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00208/Sheet1/000003",
+      "sourceBindingSha256": "e5d8cb70c2b643725731c2c4975a45c08da9ebdd527bc07146da04aa0cae2671",
+      "sourceTextSha256": "cd98e43da31bb1b90dc152851c85c7d266d47ba97bc5ff7bd137c5920429d467",
+      "freshTranslation": "선생님",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00208/Sheet1/000004",
+      "sourceBindingSha256": "609f4bf10680ea4b42fa693a44e5a78e21c9c1f37c927992d4271f57cd9d446b",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00208/Sheet1/000005",
+      "sourceBindingSha256": "953b2cc5afae68b4e4ccee7c9aac08d9b339da5e154074892afdae794c2a6371",
+      "sourceTextSha256": "087e70df8d3c04eaf73debae0f4a7ba6dd5a0ab70a1b9a99d00b335d55e4fade",
+      "freshTranslation": "구로가네 오인중의 한 명. ㊥ 본명 불명의 검술의 달인으로, 초합금 Z제의 일본도로 모든 것을 양단한다. ㊥칼날 전반에 통하고 있는 것 같고, 부엌칼 사바키도 천하 일품. 평소에는 구로가네야의 판 앞과 ㊥하고 팔을 흔들고 있다. ㊥판 앞의 일에 자부심을 갖고 요리를 가미아 Q들에게 망치게 되었을 때에는 분노를 드러내는 ㊥하는 한막도 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00208/Sheet1/000006",
+      "sourceBindingSha256": "e9e5b0ce7d26e46e7c44e0179d957bf9707922d8d6cdd5a556a9d4339a79af11",
+      "sourceTextSha256": "087e70df8d3c04eaf73debae0f4a7ba6dd5a0ab70a1b9a99d00b335d55e4fade",
+      "freshTranslation": "구로가네 오인중의 한 명. ㊥ 본명 불명의 검술의 달인으로, 초합금 Z제의 일본도로 모든 것을 양단한다. ㊥칼날 전반에 통하고 있는 것 같고, 부엌칼 사바키도 천하 일품. 평소에는 구로가네야의 판 앞과 ㊥하고 팔을 흔들고 있다. ㊥판 앞의 일에 자부심을 갖고 요리를 가미아 Q들에게 망치게 되었을 때에는 분노를 드러내는 ㊥하는 한막도 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

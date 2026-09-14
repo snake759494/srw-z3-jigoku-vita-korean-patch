@@ -1,0 +1,308 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "format": "srwz-siok-translation-reference-rules",
+  "formatVersion": 1,
+  "checkedAt": "2026-08-14",
+  "project": {
+    "titleKo": "제3차 슈퍼로봇대전 Z 시옥편",
+    "titleJa": "第3次スーパーロボット大戦Z 時獄篇",
+    "productCode": "PCSG00264",
+    "platform": "PlayStation Vita",
+    "scope": "대사·인물 사전·기체 사전·용어 사전·공용 문자열"
+  },
+  "sourceRoot": "D:\\Z\\psvita\\시옥번역엑셀",
+  "sourcePolicy": {
+    "authoritative": "일본어 원문, 필드 의미, 원본 오프셋과 바이트 용량",
+    "editable": "각 파일에서 지정한 한국어 수정/번역 열만",
+    "referenceOnly": "기존 게임 적용문, 과거 번역, raw hex, 오프셋 계산값",
+    "copyright": "본인 소유 게임에서 추출한 작업 자료만 사용한다. 게임 원본·CPK·EBOOT 및 애니메이션 대본은 저장소에 넣지 않는다.",
+    "externalResearch": "공식 사이트와 신뢰할 수 있는 작품 소개를 설정·말투 참고로 요약하며, 대사 원문을 복제하지 않는다."
+  },
+  "sourceFiles": [
+    {
+      "file": "시옥편_KDataVITA_최종파일_원문번역.xlsx",
+      "sha256": "e4416de03a6a525a449d75cb5b5c39ceeaf2f4293d8ddd6a0c2c1bd70907ea50",
+      "role": "scenario_summary",
+      "sheets": [
+        "안내",
+        "본편_시나리오",
+        "DLC_시나리오"
+      ],
+      "authoritativeFields": [
+        "레코드 ID",
+        "일본어 원문",
+        "한국어 번역",
+        "내부 파일",
+        "원본 start offset",
+        "원본 byte 수",
+        "원본 줄 수"
+      ],
+      "referenceOnlyFields": [
+        "작업 상태",
+        "번역/검수 메모",
+        "현재 적용값"
+      ],
+      "constraints": [
+        "원문 기준 최대 26자/줄",
+        "표시 최대 8줄",
+        "DLC 제목과 본문을 별도 레코드로 유지"
+      ]
+    },
+    {
+      "file": "시옥편_MtV_all_keyword_def_최종파일_원문번역.xlsx",
+      "sha256": "14b9f8eefc1dd9e25c06b551271d9bb6d85227670b0ba7934b497661d0ee2818",
+      "role": "keyword_definition",
+      "sheets": [
+        "안내",
+        "번역_데이터",
+        "재삽입_메타",
+        "필드_규칙"
+      ],
+      "authoritativeFields": [
+        "External_ID",
+        "필드태그",
+        "일본어_원문",
+        "한국어_수정",
+        "원본 offsets",
+        "원본 bytes",
+        "종료코드"
+      ],
+      "referenceOnlyFields": [
+        "현재게임적용문",
+        "검수메모"
+      ],
+      "constraints": [
+        "WORD/SRCE/DSCR/DSC2 태그의 필드 순서를 보존",
+        "용어 자체와 설명을 분리해 수정"
+      ]
+    },
+    {
+      "file": "시옥편_MtZkn_KW_최종파일_원문번역.xlsx",
+      "sha256": "0c4ec2bb37da54c6c98c42655761030b27cda07dc37f7b8dfd6de1aeb07497da",
+      "role": "keyword_dictionary",
+      "sheets": [
+        "안내",
+        "번역_데이터",
+        "재삽입_메타",
+        "코드_설명"
+      ],
+      "authoritativeFields": [
+        "Entry_ID",
+        "필드태그",
+        "용어명_일본어",
+        "용어명_한국어",
+        "출전_일본어",
+        "출전_한국어",
+        "설명(현재)_한국어",
+        "설명(전체)_한국어"
+      ],
+      "referenceOnlyFields": [
+        "번역상태",
+        "검수메모"
+      ],
+      "constraints": [
+        "용어명·출전·현재 설명·전체 설명을 각각 검토",
+        "CP932/XOR 0x5E 재삽입 메타를 변경하지 않음"
+      ]
+    },
+    {
+      "file": "시옥편_MtZkn_Pt_최종파일_원문번역.xlsx",
+      "sha256": "81753115371a65b89aa7deddb1ddcd0be648c4b2034bf904d96ea340f3ece3fe",
+      "role": "character_dictionary",
+      "sheets": [
+        "안내",
+        "번역_데이터",
+        "재삽입_메타",
+        "필드_규칙"
+      ],
+      "authoritativeFields": [
+        "Entry_ID",
+        "필드태그",
+        "일본어_원문",
+        "한국어_수정",
+        "원본 bytes",
+        "payload offset"
+      ],
+      "referenceOnlyFields": [
+        "현재게임적용문",
+        "상태",
+        "검수메모"
+      ],
+      "constraints": [
+        "CHFN/CHNN/PRDC/ACTR/DSCR/DSC2만 번역",
+        "VOIC/LOOK는 보존",
+        "인물명은 series_reference.json의 표기와 대조"
+      ]
+    },
+    {
+      "file": "시옥편_MtZkn_Rt_최종파일_원문번역.xlsx",
+      "sha256": "6e0a4b74371ca52bb4a8276a92f825cb2368eca5ad877547431e3bee7dd8f050",
+      "role": "robot_dictionary",
+      "sheets": [
+        "안내",
+        "번역_데이터",
+        "재삽입_메타",
+        "필드_규칙"
+      ],
+      "authoritativeFields": [
+        "Entry_ID",
+        "필드태그",
+        "일본어_원문",
+        "한국어_수정",
+        "원본 bytes",
+        "payload offset"
+      ],
+      "referenceOnlyFields": [
+        "현재게임적용문",
+        "상태",
+        "검수메모"
+      ],
+      "constraints": [
+        "PRDC/RBTN/RBN2/PLTN/HEIT/WEIT/DSCR/DSC2만 번역",
+        "L/R 및 기체 구조 필드는 보존",
+        "기체명·무기명은 고유명사 표기표와 대조"
+      ]
+    },
+    {
+      "file": "시옥편_rpw_data_최종파일_한글데이터.xlsx",
+      "sha256": "a7ed2d03f50211bc673220066ccfd1408c41f51f87a92ac4fe47a43c8d0fddcd",
+      "role": "shared_string_pool",
+      "sheets": [
+        "안내",
+        "원문_번역_전체",
+        "미참조_잔여데이터",
+        "청크_구조",
+        "재삽입_규칙"
+      ],
+      "authoritativeFields": [
+        "Mapping_ID",
+        "일본어 원문",
+        "상대/절대 offset",
+        "JP bytes",
+        "대응참조필드"
+      ],
+      "editableFields": [
+        "한국어 번역문"
+      ],
+      "referenceOnlyFields": [
+        "기존 번역",
+        "한글참조요약",
+        "raw hex",
+        "미참조_잔여데이터"
+      ],
+      "constraints": [
+        "재삽입 시 원문_번역_전체의 한국어 번역문만 편집",
+        "공유 문자열 ID와 참조 횟수를 유지",
+        "미참조 잔여 데이터는 패치 대상이 아님"
+      ]
+    },
+    {
+      "file": "시옥편_SRVC_최종파일_원문번역.xlsx",
+      "sha256": "194797700617ca04e3dc9e4a6b8181c06c568df4ec75dd4d01a88887afe30c6c",
+      "role": "battle_dialogue",
+      "sheets": [
+        "작업안내",
+        "전체 전투대사",
+        "물리 슬롯 매핑"
+      ],
+      "authoritativeFields": [
+        "마스터 ID",
+        "변형 번호",
+        "일본어 원문",
+        "최종 한국어",
+        "원본 offset",
+        "safe capacity",
+        "물리 슬롯"
+      ],
+      "referenceOnlyFields": [
+        "대표 적용 슬롯",
+        "raw SHA",
+        "기존 적용문"
+      ],
+      "constraints": [
+        "동일 마스터의 변형 슬롯을 함께 확인",
+        "줄 수·표시 바이트·문자열 바이트가 safe capacity를 넘지 않음",
+        "전투 대사의 괄호·제어기호·슬롯 순서를 보존"
+      ]
+    }
+  ],
+  "canonicalization": {
+    "space": "번역 문장의 일반 공백은 반각 U+0020으로 입력하고, 게임 삽입 직전에 전체 반각 공백을 0xFEFE로 치환한다.",
+    "fullwidth": "사전의 고정폭 표기는 원문 필드 규칙을 따르되, HTML 미리보기와 작업 JSON에서는 일반 공백으로 비교한다.",
+    "names": "인물·파일럿·기체·무기명은 같은 일본어 원문에 대해 하나의 preferredKo만 사용한다. 별칭은 검색용으로만 둔다.",
+    "terms": "《용어》 표기는 용어 사전 항목과 일치시킨다. 꺾쇠는 표시하되 글자 수 계산에서는 제외한다.",
+    "narration": "화자 ID가 없는 나레이션과 지역 표시는 화자명으로 합치지 않고 별도 레코드로 유지한다."
+  },
+  "controlCodes": {
+    "preserveExact": [
+      "$n",
+      "$l",
+      "$c",
+      "$F",
+      "⑲",
+      "⑳",
+      "㊥",
+      "㊦",
+      "㊧",
+      "㊨"
+    ],
+    "rule": "종류·개수·순서·대사 시작/끝의 괄호를 번역 과정에서 바꾸지 않는다.",
+    "lineBreak": "원문 행 경계와 게임 표시 줄 수를 먼저 맞춘 뒤 한국어를 압축하거나 재배치한다."
+  },
+  "dialogueLimits": {
+    "scenario": {
+      "maxCharsPerLine": 26,
+      "maxLines": 8,
+      "source": "KDataVITA 안내 및 본편/DLC 시트"
+    },
+    "battle": {
+      "maxLines": 3,
+      "source": "SRVC 전체 전투대사 safe capacity",
+      "check": "display bytes와 string bytes를 모두 검사"
+    },
+    "dictionary": {
+      "check": "각 필드의 원본 payload capacity와 종료코드를 보존"
+    },
+    "overflowPolicy": [
+      "불필요한 주어·수식어를 먼저 줄인다",
+      "세 줄 안에서 의미 단위를 균등하게 재배치한다",
+      "고유명사·제어문자·괄호를 삭제해 길이를 맞추지 않는다"
+    ]
+  },
+  "relationshipPolicy": {
+    "priority": [
+      "장면의 화자·청자",
+      "원작의 공식 관계",
+      "계급·소속",
+      "작품별 말투",
+      "한국어 자연스러움"
+    ],
+    "honorifics": "존칭은 인물 관계가 바뀌는 장면에서만 바꾸며, 한 장면 안에서 임의로 오르내리지 않는다.",
+    "crossovers": "서로 다른 작품의 인물이 처음 만날 때는 각 작품의 기본 존칭을 유지하고, 동료가 된 뒤에도 갑자기 이름만 부르지 않는다.",
+    "style": "작품별 어조는 series_reference.json의 speechGuidance와 local glossary의 speechProfiles를 함께 확인한다."
+  },
+  "qaChecklist": [
+    "7개 XLSX 파일의 SHA-256과 시트명이 변경되지 않았는지 확인",
+    "일본어 원문·내부 ID·파일명·오프셋·바이트 용량을 번역문과 함께 대조",
+    "인물명·기체명·용어명의 preferredKo 충돌을 검색",
+    "화자 없는 나레이션/지역 표시가 특정 인물에게 합쳐지지 않았는지 확인",
+    "제어문자와 괄호의 종류·개수·순서를 비교",
+    "시나리오 26자/줄·8줄, 전투대사 3줄 및 safe capacity를 검사",
+    "반각 공백 U+0020 입력과 최종 0xFEFE 치환을 각각 확인",
+    "JSON 문법·스키마·테스트·CPK 재추출 결과를 기록"
+  ],
+  "updateProcedure": [
+    "원본 XLSX를 수정하기 전에 SHA-256을 기록한다.",
+    "번역자는 지정된 한국어 수정/번역 열만 편집한다.",
+    "scripts/build_translation_glossary.py로 scenario_glossary_v2.json을 재생성한다.",
+    "series_reference.json에서 새 표기·관계·말투 변경을 검수하고 출처 URL을 남긴다.",
+    "JSON 검사와 전체 테스트를 통과한 뒤 패치 빌드와 재추출 검증을 실행한다."
+  ],
+  "relatedFiles": [
+    "translations/retranslation/scenario_glossary_v2.json",
+    "translations/retranslation/series_reference.json",
+    "translations/retranslation/scenario_glossary_v2.schema.json",
+    "scripts/build_translation_glossary.py",
+    "docs/참전작_설정_관계_말투_참고.md"
+  ]
+}

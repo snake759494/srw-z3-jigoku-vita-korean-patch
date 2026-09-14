@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00169",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00169/Sheet1/000002",
+      "sourceBindingSha256": "b6a46838d5b773aee0cb236b122d3e576749537202747000776409018d68eb4a",
+      "sourceTextSha256": "81029ffcb7562e3eefccf54c11746680322f9cbc2c59d34f78bec0b81dc90f93",
+      "freshTranslation": "비히다 피즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00169/Sheet1/000003",
+      "sourceBindingSha256": "d1304ba7457a3a1c2febd98ef1f0a9e5ada04ba14e07cf2a3b7f5902e39fdefd",
+      "sourceTextSha256": "4186d73e931307725800d2bac41d312d3161cb62464281a870e5beef3ac0ed9d",
+      "freshTranslation": "비히다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00169/Sheet1/000004",
+      "sourceBindingSha256": "a29102d874b403a62a68140f7f960060b6d44d1a620b18331777a0d964acfe1b",
+      "sourceTextSha256": "6d44622aa9064e71c34e42e7ff6f24f624bb0c6ebacd9fea4e30a2357bb5d0b6",
+      "freshTranslation": "마크로스 7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00169/Sheet1/000005",
+      "sourceBindingSha256": "1557310bfc959e33f2c8d44e2c5bea26b8140ec7a463b14c3876db96f634c850",
+      "sourceTextSha256": "1c4220124c0eb85161bec812ed5229cca57675e197150c6424e984d9e0b3d0d0",
+      "freshTranslation": "순수한 젠트라디인의 여성으로, FireBomber의 드럼스 담당. ㊥ 젠트라디인다운 괴력과 7.2라는 경이적인 시력을 자랑한다. ㊥ 극단적으로 무구하고 항상 드럼 스틱으로 무언가를 두드리고 있습니다. ㊥ 안에는 뜨거운 열정을 지니고 있으며, 프로토데비른과의 결전에서는 드러밍에 의해 노래 ㊥ 에너지를 낳았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00169/Sheet1/000006",
+      "sourceBindingSha256": "192cc56ca1303d3e8b33669e53cfd250e9b71e94556212aa42c9b5138db07a48",
+      "sourceTextSha256": "1c4220124c0eb85161bec812ed5229cca57675e197150c6424e984d9e0b3d0d0",
+      "freshTranslation": "순수한 젠트라디인의 여성으로, FireBomber의 드럼스 담당. ㊥ 젠트라디인다운 괴력과 7.2라는 경이적인 시력을 자랑한다. ㊥ 극단적으로 무구하고 항상 드럼 스틱으로 무언가를 두드리고 있습니다. ㊥ 안에는 뜨거운 열정을 지니고 있으며, 프로토데비른과의 결전에서는 드러밍에 의해 노래 ㊥ 에너지를 낳았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

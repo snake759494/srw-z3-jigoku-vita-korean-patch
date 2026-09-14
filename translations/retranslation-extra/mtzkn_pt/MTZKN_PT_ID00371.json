@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00371",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00371/Sheet1/000002",
+      "sourceBindingSha256": "897e3cadbdfe1927ec62aee548995bcd872025e44a694c3049521e507d1ffe03",
+      "sourceTextSha256": "f0381b2f5165840a5a463370ffd50cccd2daf9c879a1c740fb46a1804b251059",
+      "freshTranslation": "앤디 W 홀",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00371/Sheet1/000003",
+      "sourceBindingSha256": "cc45b24880fe7bb2bbf9a196a1fba998bbeb9c4de0b3716d06a2f32b6dae2e21",
+      "sourceTextSha256": "3ed138b3fe035348c6f93ce9c8f7ee4cfca2ba2f5abb4f26059a55e03eebb2e9",
+      "freshTranslation": "앤디",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00371/Sheet1/000004",
+      "sourceBindingSha256": "ad592c62f358d8d0d5dc6a77b56f0aa884367a014b3eafcc07af977af3a96746",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00371/Sheet1/000005",
+      "sourceBindingSha256": "27bc6835e928b048413dd2b01d7a4b10e5b5a8721ae24bb283d54d4c196d577c",
+      "sourceTextSha256": "c72ab6ab82b9395dd7afa1132b00d174c8694cb9c87117a443083bf5987adec5",
+      "freshTranslation": "토리우미 코스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00371/Sheet1/000006",
+      "sourceBindingSha256": "ad2d411b0d3e0d3ce50533f74fac6e9521c93e8a886d67c09dea778104efc286",
+      "sourceTextSha256": "af219cbd51a7c15a4e8774868fc229186592fdc94f89831288e9dda7fb44103b",
+      "freshTranslation": "네오디바의 요소 후보생. ㊥ 낙천적이고 네오디바의 분위기 메이커.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00371/Sheet1/000007",
+      "sourceBindingSha256": "8e92ef3fed7820bfd4814292029a4438abbe6205be95e7ed87234f2cde18a9d9",
+      "sourceTextSha256": "5b5b361d365ac2037546a6632701ce0e38bf8fa745aab1229b093a52f29c7a01",
+      "freshTranslation": "생명의 여성과 합체하는 것을 목적으로 에㊥레멘트 후보생이 되었기 때문에, 여성에게의 어필에 적극적. ㊥ 물질의 결합이 약한 부분을 발견하고 그것을 찌그러뜨리고 구멍을 파는 능력 '홀굴력'을 가진다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00371/Sheet1/000008",
+      "sourceBindingSha256": "456b5a239ea9fdae0cb963c326ad3081b7cdf96e769e4a0ef6f1729ef1c38216",
+      "sourceTextSha256": "1e70275433a38481c9458c0f8e553cf22fdd7115b0dde12eff69c763308ba923",
+      "freshTranslation": "생명의 여성을 찾기 위해 성천사학원의 남자부와 여자부를 분리하는 '베를린의 벽'㊥을 넘으려고 오로지 구멍을 파고 있다. 그 집착은 깊고 전입해 온 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00371/Sheet1/000009",
+      "sourceBindingSha256": "eef534f2483d4daadc916c3e41bf89cfe9aa2125522b9b9d150a4fa91a8d4ee2",
+      "sourceTextSha256": "0bd503f2936c4fd5b997c6a1b05ca25a298208c771f4e22e4674aa1c8f406797",
+      "freshTranslation": "에도 구멍 파기의 장점을 알게 하기 위해 '홀보리 형제'를 결성한다. ㊥남 싫어서 결버증, 한층 더 구멍의 존재를 싫어하는 MIX와는 개 원숭이의 사이.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00371/Sheet1/000010",
+      "sourceBindingSha256": "4d237fd49d69cd9c619deb2d80adecb9f165b05841fde18049d7805927eafa33",
+      "sourceTextSha256": "af219cbd51a7c15a4e8774868fc229186592fdc94f89831288e9dda7fb44103b",
+      "freshTranslation": "네오디바의 요소 후보생. ㊥ 낙천적이고 네오디바의 분위기 메이커.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00371/Sheet1/000011",
+      "sourceBindingSha256": "e167238d1d45e73a77980c603d7394d5baf7a664e07f7fcfcf856659e47288a9",
+      "sourceTextSha256": "5b5b361d365ac2037546a6632701ce0e38bf8fa745aab1229b093a52f29c7a01",
+      "freshTranslation": "생명의 여성과 합체하는 것을 목적으로 에㊥레멘트 후보생이 되었기 때문에, 여성에게의 어필에 적극적. ㊥ 물질의 결합이 약한 부분을 발견하고 그것을 찌그러뜨리고 구멍을 파는 능력 '홀굴력'을 가진다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00371/Sheet1/000012",
+      "sourceBindingSha256": "69ef03b4f5c05a6a94a5582784ba6074403071e5eeb7fbad59b483db04b90191",
+      "sourceTextSha256": "1e70275433a38481c9458c0f8e553cf22fdd7115b0dde12eff69c763308ba923",
+      "freshTranslation": "생명의 여성을 찾기 위해 성천사학원의 남자부와 여자부를 분리하는 '베를린의 벽'㊥을 넘으려고 오로지 구멍을 파고 있다. 그 집착은 깊고 전입해 온 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00371/Sheet1/000013",
+      "sourceBindingSha256": "2227f097653f61408dc743d37a3db94fd39cf0f8fb6dddf293f9aa9a5b2cc6c1",
+      "sourceTextSha256": "493f80542c28931f72b7d7ad004174ec02c713b857b592cf2d01826074861eb3",
+      "freshTranslation": "에도 구멍 파기의 장점을 알게 하기 위해 '홀보리 형제'를 결성한다. ㊥남 싫어서 결버증, 한층 더 구멍의 존재를 싫어하는 MIX와는 개 원숭이의 사이였지만, 싸움 속에서㊥ 서로의 능력을 보전해 나가는 사이에 서로 소중한 존재가 되어 간다. ㊥ MIX가 알테아에 붙잡혀 신체가 남성화되면 그것을 받아들이지 못하고 고뇌한다. ㊥이지만, 성별에 관계없이 그녀(그?)를 받아들일 수 있는 결의를 하고, 자신의 생각을 말해, 무사히㊥구출하는 것에 성공했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

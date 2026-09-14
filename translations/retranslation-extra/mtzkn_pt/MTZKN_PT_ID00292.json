@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00292",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00292/Sheet1/000002",
+      "sourceBindingSha256": "91b6c0a175d819d3838e3946edde9f1412ce31386659eac34cdb0c2b88b9572f",
+      "sourceTextSha256": "5a3dd07249392ca13a81b5bf55d8fa7abc87952f3b08bb228fbd8d4bc51ad4f9",
+      "freshTranslation": "알래스톨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00292/Sheet1/000003",
+      "sourceBindingSha256": "a7a4f664cd01d2db2121ceb996ed78aafa439baec4285a0361550ec9c9870fb0",
+      "sourceTextSha256": "5a3dd07249392ca13a81b5bf55d8fa7abc87952f3b08bb228fbd8d4bc51ad4f9",
+      "freshTranslation": "알래스톨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00292/Sheet1/000004",
+      "sourceBindingSha256": "1a554ca898826acafd9691bc9123487fa03e050b0b66ea56da6dc161e0073eca",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00292/Sheet1/000005",
+      "sourceBindingSha256": "fa4580a67a8f3a9cd65ad0c01a2137a414d3710cf50a65b119b0dd38cd834ef2",
+      "sourceTextSha256": "6cbead29f5f3666f5882c4fd6c0d7e56e8208850dd34efe1c72cd7834907e4e2",
+      "freshTranslation": "르 패닉! TheSecondRaid",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00292/Sheet1/000006",
+      "sourceBindingSha256": "8d214edd252c448aa797bd9bd7c632562ddb3d70e83327b83ad4786aba4237a0",
+      "sourceTextSha256": "7033275dc4f40776e0910001262c86dfe91b671bcd6458cc5e56058d72b22d4a",
+      "freshTranslation": "레너드 테스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00292/Sheet1/000007",
+      "sourceBindingSha256": "a11f6e745386e9c653b722c58a635034ff7d4b5dc950be8938258e2ab837878e",
+      "sourceTextSha256": "bcdcf1a8e190ee82bfdac1b09ec98139375d2b0e71b5f9181c2ab9ef8a84e526",
+      "freshTranslation": "로사가 개발한 세계 최소 자율",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00292/Sheet1/000008",
+      "sourceBindingSha256": "85abb8c010337005cb798217527768ea1000d3254a8dd5b121cdaf2a5025af99",
+      "sourceTextSha256": "bf6701d053d18ad88baee394173d1e4ec5d1e4aaa9108e7f2e94b7758d05cef6",
+      "freshTranslation": "AS. ㊥ 레나드에 수반하여 행동해, 보디 가드 역을 맡는다. ㊥ 그 구조와 메커니즘은 3세대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00292/Sheet1/000009",
+      "sourceBindingSha256": "6ffb043910bc68ff1366ff031bacfc166711e382ae493db72f0e2f051c9483ad",
+      "sourceTextSha256": "7e71c79e84cc91339e081c5f2ba5490eefcd9d11d8267dcf9b93275b64f0b8b2",
+      "freshTranslation": "AS에 매우 가까워 다운사이징에는 고급 브라㊥크 기술이 사용되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00292/Sheet1/000010",
+      "sourceBindingSha256": "ca1fc8aea8df722da82079c2d9d3fc7718d6f29404087e3be35efa393af184f0",
+      "sourceTextSha256": "7033275dc4f40776e0910001262c86dfe91b671bcd6458cc5e56058d72b22d4a",
+      "freshTranslation": "레너드 테스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00292/Sheet1/000011",
+      "sourceBindingSha256": "f41870cb5be997a179e1eca085662c6640ff9dc4382112bb12b93ebff95ed0e5",
+      "sourceTextSha256": "bcdcf1a8e190ee82bfdac1b09ec98139375d2b0e71b5f9181c2ab9ef8a84e526",
+      "freshTranslation": "로사가 개발한 세계 최소 자율",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00292/Sheet1/000012",
+      "sourceBindingSha256": "9aa3f7e11908378fa8741e4117a26707adde81eba2b540e7341b13aeadfae591",
+      "sourceTextSha256": "bf6701d053d18ad88baee394173d1e4ec5d1e4aaa9108e7f2e94b7758d05cef6",
+      "freshTranslation": "AS. ㊥ 레나드에 수반하여 행동해, 보디 가드 역을 맡는다. ㊥ 그 구조와 메커니즘은 3세대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00292/Sheet1/000013",
+      "sourceBindingSha256": "86496296809584087542488c04d570da72795b45338ea37fe3cdc5a719148a9d",
+      "sourceTextSha256": "6cbd88e6986948e6ab38f126379e0bdaee461dd9a2ecb9840b9fe1ea0dea731c",
+      "freshTranslation": "AS에 매우 가까워 다운사이징에는 고급 브라㊥크 기술이 사용되고 있다. ㊥ 인간과는 비교가 되지 않는 스피드나 파워, 견고한 바디를 가져, 암살자로서 자리수㊥ 특이한 힘을 가지는 타마란을 순식간에 제압했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

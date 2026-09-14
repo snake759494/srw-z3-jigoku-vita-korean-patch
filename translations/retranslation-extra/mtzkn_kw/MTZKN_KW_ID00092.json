@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00092",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00092/Sheet1/000002",
+      "sourceBindingSha256": "7d113f8dc14566263a850c32ac4cab07055fe7bd16437b19f1d3de9206f93e18",
+      "sourceTextSha256": "6e7a7374a3359ba5cd9e63ad3ed5cad9ad071fdfdec1157648b7433b5a2116cd",
+      "freshTranslation": "카를로스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00092/Sheet1/000003",
+      "sourceBindingSha256": "9dcad6766075b83fa7c7ce862ac461cd1dbfedfc2d41efe7573bfde827e4fe57",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00092/Sheet1/000004",
+      "sourceBindingSha256": "bb58988b04a5f3cc634f62fa6defada47a1bd1e0f0b894b720d5041dbc0f5127",
+      "sourceTextSha256": "810a3addd4c187fda07d4d7bec295c1aa97b1b5ed96e7763d993d370c1f3a8b7",
+      "freshTranslation": "전체 이름은 카를로스 액시온 Jr. . ㊥원은 세계 최대의 기업 그룹이었던 액시온 재단의 총재였지만, 파㊥계 사변에서는 신제국 임페륨의 스폰서로서 세계를 혼란시켰다. 파계사 ㊥ 변종 종결 후에는 아는 한 정보를 제공한다는 사법거래에 의해 자유가 보장된다 ㊥되어 스코트랩의 경영 고문에 들어갔다. ㊥ 잡는 곳이 없는 성격으로, 재단 총재시에는 온갖 모든 것을 금으로 해결하자㊥로 하고 있었지만, 자금력을 자신이 가지는 힘으로서 사용하고 있었던 것에 지나지 않고, 헛소리나 낫㊥만움을 보이는 일은 없었다. ㊥세계가 변혁하는 것을 마음의 밑에서 바라보고, 재세전쟁에서는 부활한 가이오에 협력㊥하지만, 결코 세계가 멸망하는 것을 바라던 것은 아니었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00092/Sheet1/000005",
+      "sourceBindingSha256": "14e5ae4814eefcf2a347c8bf85af17f4652262aa682682ffcb7b50ffb792c342",
+      "sourceTextSha256": "810a3addd4c187fda07d4d7bec295c1aa97b1b5ed96e7763d993d370c1f3a8b7",
+      "freshTranslation": "전체 이름은 카를로스 액시온 Jr. . ㊥원은 세계 최대의 기업 그룹이었던 액시온 재단의 총재였지만, 파㊥계 사변에서는 신제국 임페륨의 스폰서로서 세계를 혼란시켰다. 파계사 ㊥ 변종 종결 후에는 아는 한 정보를 제공한다는 사법거래에 의해 자유가 보장된다 ㊥되어 스코트랩의 경영 고문에 들어갔다. ㊥ 잡는 곳이 없는 성격으로, 재단 총재시에는 온갖 모든 것을 금으로 해결하자㊥로 하고 있었지만, 자금력을 자신이 가지는 힘으로서 사용하고 있었던 것에 지나지 않고, 헛소리나 낫㊥만움을 보이는 일은 없었다. ㊥세계가 변혁하는 것을 마음의 밑에서 바라보고, 재세전쟁에서는 부활한 가이오에 협력㊥하지만, 결코 세계가 멸망하는 것을 바라던 것은 아니었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00015",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00015/Sheet1/000002",
+      "sourceBindingSha256": "224e891630b2c0615860a1e6cdd47c10fd4421577ed507fa953f0ab9d2995d9b",
+      "sourceTextSha256": "181b0229c79b72a61daf2e89d7617d495e9eee031e6e78db00114c5b3769901a",
+      "freshTranslation": "키시마 마키코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00015/Sheet1/000003",
+      "sourceBindingSha256": "475fa2901eab7b2c6e15b3ad0b3bbd46c26318483062e1fb63c4689feb899f73",
+      "sourceTextSha256": "97ce3f75e2f5a683ba78d2a3e6ca7e9e05b8741ac7c3c6f0f56280eddd4554a9",
+      "freshTranslation": "맥키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00015/Sheet1/000004",
+      "sourceBindingSha256": "0badf78991b147ffbe2c58eca2fdcccd96c055e71165280a0948086a45a786a3",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00015/Sheet1/000005",
+      "sourceBindingSha256": "8d9752027a956dc0d041641ece56ff45a8dfafc310b18d346029b8b076bdba2c",
+      "sourceTextSha256": "77e5c9f125acec64ced8dfa2b728d551378cbad92312b7a170bc48d697095935",
+      "freshTranslation": "키시마 박사의 혼자 딸. 11세. ㊥ 같은 해에 친숙한 쇼타로의 여자 친구. ㊥ 밝게 돌보는 것을 좋아하고, 정신 나이는 마사타로 쪽이 위이지만, 언니 흔들리는 일이 많다. ㊥ 취미는 테니스이며 매우 쾌활하고 행동력이 있습니다. 다만, 그것이 재앙으로 위험을 고민하지 않고㊥에 행동해, 사로잡힌 몸이 되어 버린 일도 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00015/Sheet1/000006",
+      "sourceBindingSha256": "ac1d203c322a0c5551b7ad764d2e94d0b5b405094ed5ada8d8b1a6a0746dc890",
+      "sourceTextSha256": "8c1f0039789b733696205d55eca5fc33dbc4170a2af965394179f3827c5b7f6f",
+      "freshTranslation": "키시마 박사의 혼자 딸. 11세. ㊥ 같은 해에 친숙한 쇼타로의 여자 친구. ㊥ 밝게 돌보는 것을 좋아하고, 정신 나이는 마사타로 쪽이 위이지만, 언니 흔들리는 일이 많다. ㊥ 취미는 테니스이며 매우 쾌활하고 행동력이 있습니다. 다만, 그것이 재앙으로 위험을 고민하지 않고㊥에 행동해, 사로잡힌 몸이 되어 버린 일도 있었다. ㊥ 어렸을 때, 구라가 키시마가에 살았을 때에는 상당히 열을 올리고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

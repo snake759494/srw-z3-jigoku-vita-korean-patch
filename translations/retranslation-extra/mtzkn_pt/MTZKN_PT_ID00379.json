@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00379",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00379/Sheet1/000002",
+      "sourceBindingSha256": "735cdf6ac7e93253f3e673efde81bb4c03ca7824dca159d7ce035e85a5d508cd",
+      "sourceTextSha256": "c54f92fc3ad2062fe34c8c5d28def2d103e08c83bfb2c10a0e7db15a5c01bf0c",
+      "freshTranslation": "카그라 덴리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00379/Sheet1/000003",
+      "sourceBindingSha256": "20364599dba0c2d393c9bbc9a3156dbf8c757dc5e1bdaa5a468a8d4ac3873188",
+      "sourceTextSha256": "eef42e86dad533ab1f2bc87e20f162b7ebb7e9780fab90d7a8804772782e1ecc",
+      "freshTranslation": "카그라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00379/Sheet1/000004",
+      "sourceBindingSha256": "43730bd881d3508797fe3cebef6376fd45562fe244ad2fcd58ccc517be428221",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00379/Sheet1/000005",
+      "sourceBindingSha256": "c981b908289c9e9ee7aac81c6da306394287611bb10cd9ac04db278e5bede6eb",
+      "sourceTextSha256": "e7db0d3435bf31de55eedb42e5525a8db8eac346030f641bff70021af61b10f8",
+      "freshTranslation": "우치야마 가키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00379/Sheet1/000006",
+      "sourceBindingSha256": "37786f9ec4613cf30f4942c833dc5b25d0ea3606b1fb51d97c05080c976f2906",
+      "sourceTextSha256": "654b11b0bd2453d2e86809571563280d7b9cf82433e316b89ae9b3a53ff1748d",
+      "freshTranslation": "아부닥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00379/Sheet1/000007",
+      "sourceBindingSha256": "978f2c43197d50c1d6a8dbe25cb8bdef5b7bd0b0232eb87eb11b632270784adb",
+      "sourceTextSha256": "360167678a222e539360ae637abccd92a0b1bbe488e63756733bcee08675d588",
+      "freshTranslation": "의 조종사. ㊥ 호전적인 성격으로 미슬라 구니스를 달려 그 성격 그대로 거친 싸움을 보여준다. ㊥ 또한 예민한 후각을 가지며 모든 행동이 야성적입니다. 그 말은 어떤 규칙상 ㊥에서 거꾸로 의미를 갖고 듣는 인간을 혼란시킨다. ㊥ 미코노를 \"나만의 빌어 먹을 여자\"라고 부르며 여러 번 붙이려고, 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00379/Sheet1/000008",
+      "sourceBindingSha256": "1e96c7170362ec9919dbccb2e4b7d82a3f3db7aa37e51c7fe9fe03c0a5fb1348",
+      "sourceTextSha256": "1b8015b5e60d4d809f4db31a535956e01d654e1a78b3638e86d764d567058ae9",
+      "freshTranslation": "그리고 그 때마다 격렬하게 ㊥ 싸움을 펼쳤다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00379/Sheet1/000009",
+      "sourceBindingSha256": "25ea71cd1111977fb96e62a348d99ffb3d28b0acb305bbb88a553022bcc5fc0c",
+      "sourceTextSha256": "f59bdf76cfb9b822992869c77ce1c6a5af1170dc62a2297cd4043e276d9f0ac8",
+      "freshTranslation": "알테아 조종사. ㊥ 호전적인 성격으로 미슬라 구니스를 달려 그 성격 그대로 거친 싸움을 보여준다. ㊥ 또한 예민한 후각을 가지며 모든 행동이 야성적입니다. ㊥ 미코노를 \"나만의 빌어 먹을 여자\"라고 부르며 여러 번 붙이려고, 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00379/Sheet1/000010",
+      "sourceBindingSha256": "f2f1997930cc3a7bb47fd1e007a07f55059eaac5e55840e993d4e0bbe1f7035a",
+      "sourceTextSha256": "cb81bedc3bdaeb45641d00d5225c5c8b3b1b42ba3510e6274a2263255a53472a",
+      "freshTranslation": "그리고 그 때마다 격렬하게 ㊥ 싸움을 펼쳤다. ㊥ 그 정체는 또 다른 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00379/Sheet1/000011",
+      "sourceBindingSha256": "d51f883b1d8ecfe97e5b5c41d4660dc5a4cf619b242bef7bac27653385796eff",
+      "sourceTextSha256": "83f4788c8e1aff8280c7ed45052af170875c60e707f357be897bd2c2028d673a",
+      "freshTranslation": "그리고 어머니 알리시아가 알테아로 떠나는 것을 계기㊥에, 그것을 보낼 뿐의 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00379/Sheet1/000012",
+      "sourceBindingSha256": "306e1cbd768f96c158c92aa1ca0d77740895289b5289dbfe16f7d22360c690ca",
+      "sourceTextSha256": "91173de62aa4cffbbb8cf8d7fb674029216abebbc2b3a59018c32b70f0f326c8",
+      "freshTranslation": "그리고 그것을 쫓는 카구라에게 그 몸과 마음은 나뉘어진 것이다. ㊥ 알테아로 건너간 후에는 기억을 잃고, 미카게에게 보호되고, 왜곡된 사랑을 쏟아져, 자신의 힘㊥만을 믿게 되었다. ㊥ 싸움 속 미카게의 인도로 모든 사건과 힘을 반전시키는 엘리먼트 능력 ㊥ \"거꾸로 힘\"에 눈을 뜬다. 일정 규칙상에서 말하고 싶은 일과 말이 반대가 되는 것도, 이 능㊥력에 기인한 것이다. ㊥아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00379/Sheet1/000013",
+      "sourceBindingSha256": "1aeebd12d2a3954f03e4ccc12aa532031a895b13307b2bd8e33567f12896cdfd",
+      "sourceTextSha256": "f8b8208149f18022dd27ad0652d2b6a6595c54c43f52beb8cccef29baf4894d8",
+      "freshTranslation": "와 마찬가지로 카구라도 아폴로의 환생이며, 그 때문에 실비아의 ㊥ 환생인 미코노에 강하게 끌리고 있었다. ㊥ 최종 결전에서는 전세의 기억에 관계없이 미코노를 사랑하는 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00379/Sheet1/000014",
+      "sourceBindingSha256": "1588c2d53d0099babdde841831dff5d37a179116aee1db47d52153cabee9dbd0",
+      "sourceTextSha256": "14ace18a7709e1439305823553e3b31914226327f2c52e0a6bae2779298d0ce2",
+      "freshTranslation": "을 인정하고 모든 전 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00379/Sheet1/000015",
+      "sourceBindingSha256": "9acaf74f1c33f61ffb28cabb77c85d1a2783582b82874e772dac4fdc5a882135",
+      "sourceTextSha256": "2d541ed4fe646a2dbd82d6b31d14e073d2ca6a6b28bd44aaf6517f68323f387e",
+      "freshTranslation": "의 밀어주었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

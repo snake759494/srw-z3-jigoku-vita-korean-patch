@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00055",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00055/Sheet1/000002",
+      "sourceBindingSha256": "a129cc592e20d79715b8ef64dc42605831524a1b963898ad7fd4f44d5d35b2d5",
+      "sourceTextSha256": "4a1e2b3838e1a5a9a4f6e4f89df809d8db35431ca0699b746e652581573ea64c",
+      "freshTranslation": "1년 전쟁",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00055/Sheet1/000003",
+      "sourceBindingSha256": "cce0fc3bfac4cdf1dc52b351b2306f4ca1dcca837b86820d0a719950a73484ab",
+      "sourceTextSha256": "9e5464f47a8aff72df3528348b8488c8409eb8196a31c3e3aba2be43794445ef",
+      "freshTranslation": "「기동전사 Z건담」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00055/Sheet1/000004",
+      "sourceBindingSha256": "1b844b2e152eb4fe4614c9cb6fce5b5f71eff2f681282a988aa423b1e6070c03",
+      "sourceTextSha256": "21c28c4c8ca0af2e23e0ea1960306bceb1bd6eb6c7ef979789d21650bd786147",
+      "freshTranslation": "독립을 내건 지온 공국과 지구 연방과의 전쟁. ㊥ 개전부터 종전까지가 약 1년간이었기 때문에 이 이름으로 불린다. ㊥ 1년 전쟁은 사상 최초의 모빌 슈트가 투입된 전쟁이며, 지금까지의 전략 ㊥ 전술이 일변했다. ㊥지온 공국은 패했지만, 이후에도 지온의 이름은 여러가지 형태를 바꾸어 살아가며 ㊥ 스페이스노이드와 어스노이드의 확집 속에서 큰 의미를 가지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00055/Sheet1/000005",
+      "sourceBindingSha256": "6888e210b23648d8e8fca5e82ffead458fecea03bf361a719aef0e978d5efdac",
+      "sourceTextSha256": "21c28c4c8ca0af2e23e0ea1960306bceb1bd6eb6c7ef979789d21650bd786147",
+      "freshTranslation": "독립을 내건 지온 공국과 지구 연방과의 전쟁. ㊥ 개전부터 종전까지가 약 1년간이었기 때문에 이 이름으로 불린다. ㊥ 1년 전쟁은 사상 최초의 모빌 슈트가 투입된 전쟁이며, 지금까지의 전략 ㊥ 전술이 일변했다. ㊥지온 공국은 패했지만, 이후에도 지온의 이름은 여러가지 형태를 바꾸어 살아가며 ㊥ 스페이스노이드와 어스노이드의 확집 속에서 큰 의미를 가지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

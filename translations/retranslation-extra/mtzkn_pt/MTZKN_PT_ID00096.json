@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00096",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00096/Sheet1/000002",
+      "sourceBindingSha256": "2220bbc5ede2819e268c31f13e40d6cd39856e0e30999f021498959515090d29",
+      "sourceTextSha256": "76181f79e19939937373e66b86a7e8e5653623fe031f3d781dbe150262f0f565",
+      "freshTranslation": "메이린 호크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00096/Sheet1/000003",
+      "sourceBindingSha256": "f01d6cf8089d4b2ba7b38426798883ac8264e329c652a772ccc92174f62c2b07",
+      "sourceTextSha256": "346f43dc50d516ebe2a580c091294fd27a57cf87d64f0c201ed092113dabd94e",
+      "freshTranslation": "메이린",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00096/Sheet1/000004",
+      "sourceBindingSha256": "5da53c8d606908a500245844cbdd69ca0a26d739d249e67ebf7517b37bdde51d",
+      "sourceTextSha256": "15a2e664e80fef55f49873f69b656b86b230b630d2bdafde619513e324977069",
+      "freshTranslation": "기동전사 건담 SEEDDESTINY",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00096/Sheet1/000005",
+      "sourceBindingSha256": "1d0996273908373088e4a6c6900845764d8685534fbbed8306e6c924e542718b",
+      "sourceTextSha256": "7346f20aa744062ae6994cc0d4488303fdc5bf6f86be47084948630dcf6d47c6",
+      "freshTranslation": "고속 전투함",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00096/Sheet1/000006",
+      "sourceBindingSha256": "78eefa109343a3dff3c2a849d76848add59cea32e8efb6ab74aa1f7a2227f8e7",
+      "sourceTextSha256": "4afb4607571f097ccc908a83bb63d5343dc8322114e88b8941a5ca166e6974c0",
+      "freshTranslation": "날의 오퍼레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00096/Sheet1/000007",
+      "sourceBindingSha256": "ccbbb70fa3c3361d80ec15f3e8b722c7f2a2257fcf8fd6be2ebc59673c0bb741",
+      "sourceTextSha256": "50aa8a4114c1781dba3b59e85e5a05beee77c11ab975b182b57ea230045abe27",
+      "freshTranslation": "ー. 16세.㊥원래는 자프트에 소속되어 미네르바의 승무원이었지만 아스란의 자프트 탈주를 도와줍니다.㊥케시, 그대로 오브군에 소속했다.㊥루나 마리아의 여동생이자 라이벌 의식을 보이는 일도 있었지만, 자매 사이는 좋다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00096/Sheet1/000008",
+      "sourceBindingSha256": "141700b64e1bb6b5c3bfd1c31a0e6d153c4cbd5e96a78ad05c069e729c6e5971",
+      "sourceTextSha256": "7346f20aa744062ae6994cc0d4488303fdc5bf6f86be47084948630dcf6d47c6",
+      "freshTranslation": "고속 전투함",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00096/Sheet1/000009",
+      "sourceBindingSha256": "e8e29f05c270bd79a92c9e8eda94cdf8eb18614008a7a26f2745f7cde3ac9b64",
+      "sourceTextSha256": "4afb4607571f097ccc908a83bb63d5343dc8322114e88b8941a5ca166e6974c0",
+      "freshTranslation": "날의 오퍼레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00096/Sheet1/000010",
+      "sourceBindingSha256": "f71eaf31d634d39b31da84d2459336b96025905b315f1aab2633a3a73fd617ac",
+      "sourceTextSha256": "50aa8a4114c1781dba3b59e85e5a05beee77c11ab975b182b57ea230045abe27",
+      "freshTranslation": "ー. 16세.㊥원래는 자프트에 소속되어 미네르바의 승무원이었지만 아스란의 자프트 탈주를 도와줍니다.㊥케시, 그대로 오브군에 소속했다.㊥루나 마리아의 여동생이자 라이벌 의식을 보이는 일도 있었지만, 자매 사이는 좋다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

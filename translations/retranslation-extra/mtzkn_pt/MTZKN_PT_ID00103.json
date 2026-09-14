@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00103",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00103/Sheet1/000002",
+      "sourceBindingSha256": "04a5d68e1f7ba2641a069d4e9706c98df3e11bb1862a521a0c46212205b1f200",
+      "sourceTextSha256": "1977866dde16cca01ec08313b9d9438c1a349c39d89117cfe8a5bcd8f560d9e2",
+      "freshTranslation": "할로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00103/Sheet1/000003",
+      "sourceBindingSha256": "d759be938f116219e6849aa0a4087190bd46b6ec3218104dd44279a55cdbc2b0",
+      "sourceTextSha256": "1977866dde16cca01ec08313b9d9438c1a349c39d89117cfe8a5bcd8f560d9e2",
+      "freshTranslation": "할로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00103/Sheet1/000004",
+      "sourceBindingSha256": "39efc32f1544dacabb626dd39166c5235d084793970eb84418743ffc243d0be9",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00103/Sheet1/000005",
+      "sourceBindingSha256": "ee24772b0f6316e05c05ace7b3a22ebf14054b534163457268a3d0034058c4f4",
+      "sourceTextSha256": "2ebd409f405b0ee3ae875c3c4cbcfe01bd3e16afcf65e07462bb6ac28fa693cd",
+      "freshTranslation": "오가사와라 아리사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00103/Sheet1/000006",
+      "sourceBindingSha256": "bafc4cd01e5370769d83f17482485ebc136a759beb3be942c9c11cb4ae3765c5",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00103/Sheet1/000007",
+      "sourceBindingSha256": "bb241936507b5eed977720becdbee11f5ace250a88baf5cf907da2baaed31a2c",
+      "sourceTextSha256": "c224fec07bbdb81d39dd4f7dc1a7bf4bbdde542882074ba1ada154d07741bce0",
+      "freshTranslation": "루비잉이 소유하는 독립 AI를 탑재한 소",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00103/Sheet1/000008",
+      "sourceBindingSha256": "0bf0c3ad887c36ad0b2d48f75db2803860084c72c6623f8b252bb9511dbb9b11",
+      "sourceTextSha256": "ae523e190d6bd701a458a8f0a5c6bc09acd6b06f907ee8d57172cdb4f7f78060",
+      "freshTranslation": "로봇. ㊥ 과거에는 선대 록온(닐)의 파트너로서, 그리고 지금은 2대째 록온 ㊥(라일)의 파트너로서, 모두 건담에 탑승하여 다양한 서포트를 실시한다. ㊥모빌슈트의 컨트롤에 관해서는 평범한 파일럿 이상으로, 양 락 온으로부터 ㊥는 전폭의 신뢰를 받고 있었다. ㊥ 또한, 프톨레마이오스에는 복수의 할로가 존재하고, AI마다 개성이 있다. 그 중 ㊥ 장형의 입장에 있다. ㊥ 록온 이외에서는 펠트와 특히 사이가 좋다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00103/Sheet1/000009",
+      "sourceBindingSha256": "d7d9a4d057eb9383d9cfcbf00636ab45cc2e9a0fc77ddb86c6ace689e42c9f35",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00103/Sheet1/000010",
+      "sourceBindingSha256": "af1b7fa9edc6772f35ded3bbcb04952be7b09b98a091b4a77643a272e257b2d1",
+      "sourceTextSha256": "c224fec07bbdb81d39dd4f7dc1a7bf4bbdde542882074ba1ada154d07741bce0",
+      "freshTranslation": "루비잉이 소유하는 독립 AI를 탑재한 소",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00103/Sheet1/000011",
+      "sourceBindingSha256": "734dde7dfbd7b61108e4ee10cf56cecaa91a0117514f4f29acda5e888921716f",
+      "sourceTextSha256": "ae523e190d6bd701a458a8f0a5c6bc09acd6b06f907ee8d57172cdb4f7f78060",
+      "freshTranslation": "로봇. ㊥ 과거에는 선대 록온(닐)의 파트너로서, 그리고 지금은 2대째 록온 ㊥(라일)의 파트너로서, 모두 건담에 탑승하여 다양한 서포트를 실시한다. ㊥모빌슈트의 컨트롤에 관해서는 평범한 파일럿 이상으로, 양 락 온으로부터 ㊥는 전폭의 신뢰를 받고 있었다. ㊥ 또한, 프톨레마이오스에는 복수의 할로가 존재하고, AI마다 개성이 있다. 그 중 ㊥ 장형의 입장에 있다. ㊥ 록온 이외에서는 펠트와 특히 사이가 좋다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

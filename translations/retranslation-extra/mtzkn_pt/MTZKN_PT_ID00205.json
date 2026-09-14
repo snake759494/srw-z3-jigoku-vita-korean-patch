@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00205",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00205/Sheet1/000002",
+      "sourceBindingSha256": "80a7d10572971da37aa010d71be765accfee171ac450bb7eb560e70b9ed197e0",
+      "sourceTextSha256": "1ef19c8f9fdabde6f8d8a6e7473a4eff953fbadf0b75d59f85640063a15c26db",
+      "freshTranslation": "니시키오리 츠바사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00205/Sheet1/000003",
+      "sourceBindingSha256": "72a3f2dd82c6e6acc99ecb6db31cf0f8e629a749a30c1f7eaee0f623a3ba12bd",
+      "sourceTextSha256": "465eb3a571f289ffa84a577f4c37c6ffae014b03864f3bd49dedb4c02a1774e1",
+      "freshTranslation": "츠바사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00205/Sheet1/000004",
+      "sourceBindingSha256": "6db1cb9f3bb8844433413b1c682648a31634e3acf87c7ba0ae9c3ec9fc90141f",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00205/Sheet1/000005",
+      "sourceBindingSha256": "4339b7bd71915eed9d17883d69c8f5f6cba5b62d844a3dc6bebc463d66fff843",
+      "sourceTextSha256": "599ddb1de62ebc9df2884a7624946fec7e957a2937b9c3285b827738808713ab",
+      "freshTranslation": "아타미에 있는 온천 여관 「쿠로가네야」의 여장. ㊥ 곡자 갖추어진 구로가네 5인중을 따르고, 구로가네 가게를 나누고 있는 수수께끼 많은 인물. ㊥ 한때 생물 과학자로서 Dr. 헬의 조수를 맡고 있어, 바도스섬의 조사에 동행. ㊥ 그 때에 兜剣造과 만나고 나중에 결혼. 갑아와 시로를 벌고 있다. 또한 검조와 결혼하기 ㊥ 전에는 검조와 마찬가지로 로봇 공학의 권위였던 슈트로하임 하인리히의 결혼㊥ 약자였다는 과거도 가진다. ㊥ 버도스 섬을 조사하는 동안 Dr. 헬의 기획을 깨달았고, 도쿠조 등과 함께 ㊥ 이를 저지하려고 하지만, 케도라에게 몸을 빼앗긴 검조의 배신을 당해 ㊥ 실패로 끝났다. 그러나 어떻게든 탈출에는 성공해 역습의 기회를 엿보고 있었다. ㊥ 타도 Dr. 헬의 문패인 마징가 Z가 갑아의 손에 건너고 나서는, 다양한 형태㊥로 서포트를 실시해, 갑아의 성장을 촉구했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00205/Sheet1/000006",
+      "sourceBindingSha256": "436ebafb60e5a5a3246472d96e91d017ca62b8075d14db67da32f23c074bb8ef",
+      "sourceTextSha256": "b4980054f677563c831a8477b1d83dea2784d554835a444b4cd8607f8e73fbce",
+      "freshTranslation": "아타미에 있는 온천 여관 「쿠로가네야」의 여장. ㊥ 곡자 갖추어진 구로가네 5인중을 따르고, 구로가네 가게를 나누고 있는 수수께끼 많은 인물. ㊥ 한때 생물 과학자로서 Dr. 헬의 조수를 맡고 있어, 바도스섬의 조사에 동행. ㊥ 그 때에 兜剣造과 만나고 나중에 결혼. 갑아와 시로를 벌고 있다. 또한 검조와 결혼하기 ㊥ 전에는 검조와 마찬가지로 로봇 공학의 권위였던 슈트로하임 하인리히의 결혼㊥ 약자였다는 과거도 가진다. ㊥ 버도스 섬을 조사하는 동안 Dr. 헬의 기획을 깨달았고, 도쿠조 등과 함께 ㊥ 이를 저지하려고 하지만, 케도라에게 몸을 빼앗긴 검조의 배신을 당해 ㊥ 실패로 끝났다. 그러나 어떻게든 탈출에는 성공해 역습의 기회를 엿보고 있었다. ㊥ 타도 Dr. 헬의 문패인 마징가 Z가 갑아의 손에 건너고 나서는, 다양한 형태㊥로 서포트를 실시해, 갑아의 성장을 촉구했다. ㊥ 최종 결전에서는 자신이 한때 죽었다고 생각했던 남편 검조가 살아있는 것을 알고 빛 ㊥ 자력 폭탄을 손에 적지에 잠입. 이번이야말로 검조의 숨 뿌리를 멈추려고했지만, 正㊥ 마음을 되찾고 있던 검조에서 일",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00205/Sheet1/000007",
+      "sourceBindingSha256": "dabb2b446fff303f66422cfb8e581e5a9ab4e942dab505e4b128c8d6fb661b44",
+      "sourceTextSha256": "11c5f41063b7697b9782658840f4550702a2bcf01260185c70d6d3418c84b775",
+      "freshTranslation": "상을 듣고 자신의 치명적인 실수를 알았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

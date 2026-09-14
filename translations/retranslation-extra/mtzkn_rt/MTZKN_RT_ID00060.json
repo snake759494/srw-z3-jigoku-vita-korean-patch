@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00060",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00060/Sheet1/000002",
+      "sourceBindingSha256": "d8c90d248d1c72a4892439b7f80042d5ad2d20e41542a267d167d5b7edfd1316",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00060/Sheet1/000003",
+      "sourceBindingSha256": "aa92c6b40a5557bbe384aa9f8e988f90eac210793698c3cc5d2b327a2118218a",
+      "sourceTextSha256": "c15934fbba79da1a0dc7c981288e6060fe814f88e699ad4b417caaf945e548c8",
+      "freshTranslation": "토러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00060/Sheet1/000004",
+      "sourceBindingSha256": "2d75ffeeb537de0a18c6895e2e9c97146e3d7b1f965afdfaf3072921721093f0",
+      "sourceTextSha256": "c15934fbba79da1a0dc7c981288e6060fe814f88e699ad4b417caaf945e548c8",
+      "freshTranslation": "토러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00060/Sheet1/000005",
+      "sourceBindingSha256": "9f51170db9dd6164f4d181ce5feeafbd77957d9b4de3471759e3d815d6f52b9e",
+      "sourceTextSha256": "0aaff96c8255d69f7492d32b675bcb852b211d378ff6e0b20d43223254e99521",
+      "freshTranslation": "리오에 이어 주력기로 개발된 가변 모빌 슈트. ㊥ 황도 12 별자리의 '황소자리'가 이름의 모티브로 되어 있다. ㊥우주용으로 개발된 모빌 슈트였지만, 가변 기능을 구분하여 대기권 내에서 ㊥도 높은 기동성을 유지한 채",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00060/Sheet1/000006",
+      "sourceBindingSha256": "d8354125d103994a03ce20806dd79e778386d2cb9784cdfa98808361b64d6ce7",
+      "sourceTextSha256": "fe9237b8526aa9a22995b622fce27ac79edd479aefdceacdeda6fa7397bd99f8",
+      "freshTranslation": "용이 가능. ㊥ 건다뉴움 합금조차 파괴할 수 있는 빔 캐논도 휴대할 수 있어 모든 면에서 ㊥ 리오, 에어리즈를 웃도는 성능을 가진다. ㊥화이트 컬러는 생크 킹덤 방어용으로 배치된 것으로, 주로 노인이 ㊥ 사용하고, 마리 메이어군의 반란에서도 건담과 함께 싸웠다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00060/Sheet1/000007",
+      "sourceBindingSha256": "db01092bdc96f2c25e7e48b16f5b903a6e41be5cdc889be66a65b6a4a5281fb0",
+      "sourceTextSha256": "0aaff96c8255d69f7492d32b675bcb852b211d378ff6e0b20d43223254e99521",
+      "freshTranslation": "리오에 이어 주력기로 개발된 가변 모빌 슈트. ㊥ 황도 12 별자리의 '황소자리'가 이름의 모티브로 되어 있다. ㊥우주용으로 개발된 모빌 슈트였지만, 가변 기능을 구분하여 대기권 내에서 ㊥도 높은 기동성을 유지한 채",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00060/Sheet1/000008",
+      "sourceBindingSha256": "ec54f85627b22f082703f0820c537dc2ce63a9a496bb4b839b1aa260ea6a2de4",
+      "sourceTextSha256": "fe9237b8526aa9a22995b622fce27ac79edd479aefdceacdeda6fa7397bd99f8",
+      "freshTranslation": "용이 가능. ㊥ 건다뉴움 합금조차 파괴할 수 있는 빔 캐논도 휴대할 수 있어 모든 면에서 ㊥ 리오, 에어리즈를 웃도는 성능을 가진다. ㊥화이트 컬러는 생크 킹덤 방어용으로 배치된 것으로, 주로 노인이 ㊥ 사용하고, 마리 메이어군의 반란에서도 건담과 함께 싸웠다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

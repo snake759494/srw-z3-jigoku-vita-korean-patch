@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00075",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00075/Sheet1/000002",
+      "sourceBindingSha256": "5ce6ba91c7c42f07717775a100e370a8fbe8bc9266e5941d217e3af97c65623a",
+      "sourceTextSha256": "17facfddcf47e9d1518af95b30bc703e37c6fa839457ffab6e5b45a34511f7f6",
+      "freshTranslation": "카이사스 엠 바이어",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00075/Sheet1/000003",
+      "sourceBindingSha256": "b2150d6979a53e564881385cca20f6ba2c6bb697ff90899b8fb7c1f83b610c0d",
+      "sourceTextSha256": "0c9eb5fed2411ef9759c1c61b5bdf10498b88a6674844626223ebd59da6deb3d",
+      "freshTranslation": "카이사스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00075/Sheet1/000004",
+      "sourceBindingSha256": "ff731ccedc092175e2354b3417e73bea76eacb9becc6ddefa4fca579dbe964f8",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00075/Sheet1/000005",
+      "sourceBindingSha256": "2daa30eeab5a4a286db6f5f77ee5334a8b1af4e5c9ed817b0472f8fce64bbd1d",
+      "sourceTextSha256": "553c74782ef7e264a2c9346f5891ae32487034f06b9974fb75e6e9447130f57d",
+      "freshTranslation": "샤아의 측근. ㊥ 총수인 샤아에게 참모적인 입장에서 조언을 한다. 샤아의 카리스마를 정치적으로 활용 ㊥ 사용하여 네오 지온의 세력 확대에 기여",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00075/Sheet1/000006",
+      "sourceBindingSha256": "efc8aecec38b73806b1ecefdf4c3f86871cdc14698297f414604ec424f66cd52",
+      "sourceTextSha256": "ef42af9d43b17bccf578ddb8b463a081385c5873aed8f3cba3746fc5a694e9c1",
+      "freshTranslation": "한다. ㊥ 론데니온 평화협상 때도 동석했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00075/Sheet1/000007",
+      "sourceBindingSha256": "02dab7f1ebc8a359bb32afd5b29d30c30c968e793f0d4f7d8d6ce75e398d4216",
+      "sourceTextSha256": "553c74782ef7e264a2c9346f5891ae32487034f06b9974fb75e6e9447130f57d",
+      "freshTranslation": "샤아의 측근. ㊥ 총수인 샤아에게 참모적인 입장에서 조언을 한다. 샤아의 카리스마를 정치적으로 활용 ㊥ 사용하여 네오 지온의 세력 확대에 기여",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00075/Sheet1/000008",
+      "sourceBindingSha256": "9cc8ca04054e09b75216634e766e5bf2d5afd27e520b28c329c04de95f633334",
+      "sourceTextSha256": "ef42af9d43b17bccf578ddb8b463a081385c5873aed8f3cba3746fc5a694e9c1",
+      "freshTranslation": "한다. ㊥ 론데니온 평화협상 때도 동석했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

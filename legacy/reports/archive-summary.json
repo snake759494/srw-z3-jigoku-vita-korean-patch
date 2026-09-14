@@ -1,0 +1,496 @@
+{
+    "schemaVersion":  2,
+    "gameId":  "PCSG00264",
+    "generatedAtUtc":  "2026-07-22T05:29:27.8840966Z",
+    "generatorScript":  {
+                            "path":  "scripts/Get-ArchiveInventory.ps1",
+                            "sha256":  "49e8eff5c83d744040dbfe0e7b8a6ff3b782d7a92130565e4fdbabf7e33302ea"
+                        },
+    "inputBaselineManifest":  {
+                                  "path":  "manifests/next-release-plan.json",
+                                  "sha256":  "18b16d9c5dbefef80a8d3ec891879a6fcbde284a731349cf10ee16e62cff54dc"
+                              },
+    "totals":  {
+                   "files":  14425,
+                   "directories":  1320,
+                   "sizeBytes":  8590752679
+               },
+    "topDirectories":  [
+                           {
+                               "name":  "!배포",
+                               "files":  1066,
+                               "sizeBytes":  2597089443
+                           },
+                           {
+                               "name":  "!배포-실기",
+                               "files":  1171,
+                               "sizeBytes":  2357702061
+                           },
+                           {
+                               "name":  "폰트",
+                               "files":  134,
+                               "sizeBytes":  1242375260
+                           },
+                           {
+                               "name":  "텍스처",
+                               "files":  480,
+                               "sizeBytes":  1020473112
+                           },
+                           {
+                               "name":  "B_테스트",
+                               "files":  1021,
+                               "sizeBytes":  536903589
+                           },
+                           {
+                               "name":  "0_STAGE",
+                               "files":  5306,
+                               "sizeBytes":  343239187
+                           },
+                           {
+                               "name":  "E_TPACKVITA_cpk",
+                               "files":  402,
+                               "sizeBytes":  155326094
+                           },
+                           {
+                               "name":  "01_스테이지 xlsx 모음",
+                               "files":  270,
+                               "sizeBytes":  146831051
+                           },
+                           {
+                               "name":  "1_eboot_bin (4025)",
+                               "files":  79,
+                               "sizeBytes":  56402111
+                           },
+                           {
+                               "name":  "!DLC",
+                               "files":  1230,
+                               "sizeBytes":  31945531
+                           },
+                           {
+                               "name":  "2_AIDDataPack_cpk (8858)",
+                               "files":  215,
+                               "sizeBytes":  24736767
+                           },
+                           {
+                               "name":  "4_SRVC_BIN (36836)",
+                               "files":  29,
+                               "sizeBytes":  22711738
+                           },
+                           {
+                               "name":  "ALL",
+                               "files":  50,
+                               "sizeBytes":  15543860
+                           },
+                           {
+                               "name":  "!배포-DLC",
+                               "files":  95,
+                               "sizeBytes":  9866527
+                           },
+                           {
+                               "name":  "3_rpw_data_cpk (4465)",
+                               "files":  24,
+                               "sizeBytes":  8020127
+                           },
+                           {
+                               "name":  "8_MtZkn_Pt_cpk (408개)",
+                               "files":  1238,
+                               "sizeBytes":  4533928
+                           },
+                           {
+                               "name":  "9_MtZkn_Rt_cpk (253개)",
+                               "files":  773,
+                               "sizeBytes":  3202867
+                           },
+                           {
+                               "name":  "D_KDataVITA_cpk",
+                               "files":  29,
+                               "sizeBytes":  2850105
+                           },
+                           {
+                               "name":  "7_MtZkn_KW_cpk (141개)",
+                               "files":  438,
+                               "sizeBytes":  2148286
+                           },
+                           {
+                               "name":  "A_mapetc",
+                               "files":  266,
+                               "sizeBytes":  1240085
+                           },
+                           {
+                               "name":  "6_MtV_all_keyword_def_cpk",
+                               "files":  16,
+                               "sizeBytes":  1209656
+                           },
+                           {
+                               "name":  "5_AND_BIN (116)",
+                               "files":  18,
+                               "sizeBytes":  1113835
+                           },
+                           {
+                               "name":  "C_DLC",
+                               "files":  42,
+                               "sizeBytes":  1068471
+                           },
+                           {
+                               "name":  "0_추출",
+                               "files":  13,
+                               "sizeBytes":  1064790
+                           }
+                       ],
+    "extensions":  [
+                       {
+                           "extension":  "\u003cnone\u003e",
+                           "files":  5478,
+                           "sizeBytes":  837125707
+                       },
+                       {
+                           "extension":  ".xlsx",
+                           "files":  1963,
+                           "sizeBytes":  270527111
+                       },
+                       {
+                           "extension":  ".txt",
+                           "files":  1741,
+                           "sizeBytes":  30424090
+                       },
+                       {
+                           "extension":  ".cpk",
+                           "files":  936,
+                           "sizeBytes":  3228001593
+                       },
+                       {
+                           "extension":  ".py",
+                           "files":  885,
+                           "sizeBytes":  6505035
+                       },
+                       {
+                           "extension":  ".out",
+                           "files":  803,
+                           "sizeBytes":  1005722
+                       },
+                       {
+                           "extension":  ".png",
+                           "files":  762,
+                           "sizeBytes":  415505884
+                       },
+                       {
+                           "extension":  ".zld",
+                           "files":  384,
+                           "sizeBytes":  449172
+                       },
+                       {
+                           "extension":  ".gxt",
+                           "files":  380,
+                           "sizeBytes":  813864704
+                       },
+                       {
+                           "extension":  ".xdelta",
+                           "files":  254,
+                           "sizeBytes":  60405616
+                       },
+                       {
+                           "extension":  ".bin",
+                           "files":  250,
+                           "sizeBytes":  170585190
+                       },
+                       {
+                           "extension":  ".tbl",
+                           "files":  237,
+                           "sizeBytes":  22589062
+                       },
+                       {
+                           "extension":  ".db",
+                           "files":  62,
+                           "sizeBytes":  3581952
+                       },
+                       {
+                           "extension":  ".sfo",
+                           "files":  62,
+                           "sizeBytes":  58260
+                       },
+                       {
+                           "extension":  ".ttf",
+                           "files":  61,
+                           "sizeBytes":  235256388
+                       },
+                       {
+                           "extension":  ".otf",
+                           "files":  45,
+                           "sizeBytes":  112424728
+                       },
+                       {
+                           "extension":  ".exe",
+                           "files":  22,
+                           "sizeBytes":  32969862
+                       },
+                       {
+                           "extension":  ".zip",
+                           "files":  21,
+                           "sizeBytes":  959075618
+                       },
+                       {
+                           "extension":  ".wreplace",
+                           "files":  17,
+                           "sizeBytes":  504684
+                       },
+                       {
+                           "extension":  ".suprx",
+                           "files":  13,
+                           "sizeBytes":  4029952
+                       },
+                       {
+                           "extension":  ".psd",
+                           "files":  9,
+                           "sizeBytes":  648093085
+                       },
+                       {
+                           "extension":  ".bat",
+                           "files":  7,
+                           "sizeBytes":  93485
+                       },
+                       {
+                           "extension":  ".elf",
+                           "files":  5,
+                           "sizeBytes":  21457168
+                       },
+                       {
+                           "extension":  ".usm",
+                           "files":  4,
+                           "sizeBytes":  241487040
+                       },
+                       {
+                           "extension":  ".xml",
+                           "files":  4,
+                           "sizeBytes":  920
+                       },
+                       {
+                           "extension":  ".acf",
+                           "files":  2,
+                           "sizeBytes":  5952
+                       },
+                       {
+                           "extension":  ".awb",
+                           "files":  2,
+                           "sizeBytes":  336344912
+                       },
+                       {
+                           "extension":  ".bn",
+                           "files":  2,
+                           "sizeBytes":  24832
+                       },
+                       {
+                           "extension":  ".dds",
+                           "files":  2,
+                           "sizeBytes":  4587776
+                       },
+                       {
+                           "extension":  ".pdb",
+                           "files":  2,
+                           "sizeBytes":  191488
+                       },
+                       {
+                           "extension":  ".trp",
+                           "files":  2,
+                           "sizeBytes":  5193856
+                       },
+                       {
+                           "extension":  ".ttc",
+                           "files":  2,
+                           "sizeBytes":  16903048
+                       },
+                       {
+                           "extension":  ".cue",
+                           "files":  1,
+                           "sizeBytes":  137
+                       },
+                       {
+                           "extension":  ".json",
+                           "files":  1,
+                           "sizeBytes":  2386
+                       },
+                       {
+                           "extension":  ".rar",
+                           "files":  1,
+                           "sizeBytes":  50036264
+                       },
+                       {
+                           "extension":  ".z01",
+                           "files":  1,
+                           "sizeBytes":  20480000
+                       },
+                       {
+                           "extension":  ".z02",
+                           "files":  1,
+                           "sizeBytes":  20480000
+                       },
+                       {
+                           "extension":  ".z03",
+                           "files":  1,
+                           "sizeBytes":  20480000
+                       }
+                   ],
+    "sensitiveCandidates":  [
+                                {
+                                    "directory":  "",
+                                    "fileNamePattern":  "gen-lang-client-\u003credacted\u003e.json",
+                                    "sizeBytes":  2386,
+                                    "reason":  "파일명/확장자 기준 자격 증명 후보(내용 미검사)"
+                                }
+                            ],
+    "executables":  [
+                        {
+                            "path":  "!배포/gxt_exp2.exe",
+                            "sizeBytes":  14848,
+                            "fileVersion":  "1.0.0.0",
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "1718fb0a8aa5dfcd917c66697d4a32ce021690bb5694f638876339551a787e2e"
+                        },
+                        {
+                            "path":  "!배포/Patch/xdelta.exe",
+                            "sizeBytes":  624463,
+                            "fileVersion":  null,
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "6855c01cf4a1662ba421e6f95370cf9afa2b3ab6c148473c63efe60d634dfb9a"
+                        },
+                        {
+                            "path":  "!배포/xdelta.exe",
+                            "sizeBytes":  624463,
+                            "fileVersion":  null,
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "6855c01cf4a1662ba421e6f95370cf9afa2b3ab6c148473c63efe60d634dfb9a"
+                        },
+                        {
+                            "path":  "!배포/xdeltaUI.exe",
+                            "sizeBytes":  80896,
+                            "fileVersion":  "1.0.0.0",
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "6632e97a3b9edb6374608706a32ec67ae02d4e491f4bc8e66220f52dddcfbe2e"
+                        },
+                        {
+                            "path":  "!배포/xdeltaUI/PS2_SLPM-62563_Korean_Patch_Fix/xdelta3.exe",
+                            "sizeBytes":  617182,
+                            "fileVersion":  null,
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "d81f59b2fe5e8589c0ee9782e231c805084f4d23dfade413903a4cad63b4e342"
+                        },
+                        {
+                            "path":  "!배포/xdeltaUI/toir_patch-DecryptedWithComputer-jun.23.2024/Decrypt_If_Not_Already_Done/_decrypt.exe",
+                            "sizeBytes":  21995005,
+                            "fileVersion":  null,
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "f6d33d3ae6d3f45559ce64c5224065231f9ff6c93bd546ed6cb5731bb4fe0807"
+                        },
+                        {
+                            "path":  "!배포/xdeltaUI/toir_patch-DecryptedWithComputer-jun.23.2024/Decrypt_If_Not_Already_Done/psvpfsparser-win64.exe",
+                            "sizeBytes":  4353614,
+                            "fileVersion":  null,
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "b438b51bb31de7416fc8e16af8aab62f084283823a50c01d74913fc8193e6dd7"
+                        },
+                        {
+                            "path":  "!배포/xdeltaUI/toir_patch-DecryptedWithComputer-jun.23.2024/xdelta.exe",
+                            "sizeBytes":  227840,
+                            "fileVersion":  null,
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "847f811f51bbbf31f25962169e552a09cb0751678c62c198bd9da8db86474361"
+                        },
+                        {
+                            "path":  "!배포/xdeltaUI/toir_patch-DecryptedWithComputer-jun.23.2024/xdeltaUI.exe",
+                            "sizeBytes":  80896,
+                            "fileVersion":  "1.0.0.0",
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "6632e97a3b9edb6374608706a32ec67ae02d4e491f4bc8e66220f52dddcfbe2e"
+                        },
+                        {
+                            "path":  "!배포/xdeltaUI/xdelta.exe",
+                            "sizeBytes":  624463,
+                            "fileVersion":  null,
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "6855c01cf4a1662ba421e6f95370cf9afa2b3ab6c148473c63efe60d634dfb9a"
+                        },
+                        {
+                            "path":  "!배포/xdeltaUI/xdeltaUI.exe",
+                            "sizeBytes":  80896,
+                            "fileVersion":  "1.0.0.0",
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "6632e97a3b9edb6374608706a32ec67ae02d4e491f4bc8e66220f52dddcfbe2e"
+                        },
+                        {
+                            "path":  "!배포-DLC/Korean/PCSG00264/Patch/xdelta.exe",
+                            "sizeBytes":  624463,
+                            "fileVersion":  null,
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "6855c01cf4a1662ba421e6f95370cf9afa2b3ab6c148473c63efe60d634dfb9a"
+                        },
+                        {
+                            "path":  "!배포-DLC/Korean/PCSG00264/xdelta.exe",
+                            "sizeBytes":  624463,
+                            "fileVersion":  null,
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "6855c01cf4a1662ba421e6f95370cf9afa2b3ab6c148473c63efe60d634dfb9a"
+                        },
+                        {
+                            "path":  "1_eboot_bin (4025)/실기/FAGDec/app/PCSG00264/vita-unmake-fself.exe",
+                            "sizeBytes":  428700,
+                            "fileVersion":  null,
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "44eaf2337d8f1c62b6f55f14316b4b55165faee5232341bcdfd6d59af693bbd9"
+                        },
+                        {
+                            "path":  "1_eboot_bin (4025)/실기/FAGDec/patch/PCSG00264/vita-unmake-fself.exe",
+                            "sizeBytes":  428700,
+                            "fileVersion":  null,
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "44eaf2337d8f1c62b6f55f14316b4b55165faee5232341bcdfd6d59af693bbd9"
+                        },
+                        {
+                            "path":  "1_eboot_bin (4025)/실기/vita-elf-inject.exe",
+                            "sizeBytes":  442110,
+                            "fileVersion":  null,
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "29324a8b9195ff0f5c13ef7c07d7eee168ef1a501a0f88f7d3be23e5016528db"
+                        },
+                        {
+                            "path":  "1_eboot_bin (4025)/실기/vita-unmake-fself.exe",
+                            "sizeBytes":  428700,
+                            "fileVersion":  null,
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "44eaf2337d8f1c62b6f55f14316b4b55165faee5232341bcdfd6d59af693bbd9"
+                        },
+                        {
+                            "path":  "D_KDataVITA_cpk/GXTConvert.exe",
+                            "sizeBytes":  55808,
+                            "fileVersion":  "0.8.0.0",
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "4fa222436ec432eafe3cfe3fbf6223964ab99f650012a9c2986443615a4ff850"
+                        },
+                        {
+                            "path":  "E_TPACKVITA_cpk/gxt_exp2.exe",
+                            "sizeBytes":  14848,
+                            "fileVersion":  "1.0.0.0",
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "1718fb0a8aa5dfcd917c66697d4a32ce021690bb5694f638876339551a787e2e"
+                        },
+                        {
+                            "path":  "E_TPACKVITA_cpk/psp2gxt.exe",
+                            "sizeBytes":  270848,
+                            "fileVersion":  "2,1,0,7519",
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "f17d5df8b9adf34a32005ba249a9eba7026d335849513589d5d09f37433ae71a"
+                        },
+                        {
+                            "path":  "E_TPACKVITA_cpk/원본/GXTConvert.exe",
+                            "sizeBytes":  55808,
+                            "fileVersion":  "0.8.0.0",
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "4fa222436ec432eafe3cfe3fbf6223964ab99f650012a9c2986443615a4ff850"
+                        },
+                        {
+                            "path":  "폰트/psp2gxt.exe",
+                            "sizeBytes":  270848,
+                            "fileVersion":  "2,1,0,7519",
+                            "signatureStatus":  "NotSigned",
+                            "sha256":  "f17d5df8b9adf34a32005ba249a9eba7026d335849513589d5d09f37433ae71a"
+                        }
+                    ]
+}

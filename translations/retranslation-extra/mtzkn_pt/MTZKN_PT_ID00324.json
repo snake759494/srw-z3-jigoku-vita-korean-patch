@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00324",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00324/Sheet1/000002",
+      "sourceBindingSha256": "bfd1fe76f10245241f1148a1f4adb2e6ab80471bf900899f4ff6d427aad83072",
+      "sourceTextSha256": "a5a53c02c4e4b774195aaa24761046d9fc789092a2f73b0a349421a851336cee",
+      "freshTranslation": "시베라 쿠토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00324/Sheet1/000003",
+      "sourceBindingSha256": "ad81e5eef0cee266b9a4bc8299cb8de7ff40075815d82f274e23592c46d18391",
+      "sourceTextSha256": "b7d6970b163536930e6d789a9b24ec74e9bf371c7e4541745d82daa3b3974371",
+      "freshTranslation": "시베라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00324/Sheet1/000004",
+      "sourceBindingSha256": "fa3b782a6f7ea0696b789d17e7fe5c90b42626f6402f69640a41252384b65f1d",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00324/Sheet1/000005",
+      "sourceBindingSha256": "53f8c79375adf379482171c6f8dc47d8049a2683278640c53f447e3ff5816b30",
+      "sourceTextSha256": "1c733460b220981dd6772f35e7dc3dfd901fcb7b825b296891d9d1188d740959",
+      "freshTranslation": "신정부의 방위작전실 오퍼레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00324/Sheet1/000006",
+      "sourceBindingSha256": "c1b616e59669932ce15915adfb7839d0fb128d9859ce30c58d42dd5627708ff5",
+      "sourceTextSha256": "93c1fdd33e1dc949fe85a54ad9b005a6848ee24d24f4c65f3db51881f04c8a42",
+      "freshTranslation": "ー.㊥긴브레이 등과 같이 나선왕과의 싸움에 참가한 큰 글렌단의 멤버보다 아래㊥세대.㊥카미나 시티에 나타난 무간의 행동을 정확하게 오퍼레이트했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00324/Sheet1/000007",
+      "sourceBindingSha256": "18e54a6e742dae1b024e7b06f389da4d7f98c9db78a38b860244738471f3c6a5",
+      "sourceTextSha256": "1c733460b220981dd6772f35e7dc3dfd901fcb7b825b296891d9d1188d740959",
+      "freshTranslation": "신정부의 방위작전실 오퍼레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00324/Sheet1/000008",
+      "sourceBindingSha256": "ac34000057d3e91d4c8bbd510b56cf993ff413f824c12c380de902c511ddf733",
+      "sourceTextSha256": "9e0f939b706d7bd34b88f82dc66fa07d7387dbb8aa0c914b1a0647d3e427b2e3",
+      "freshTranslation": "ー.㊥긴브레이 등과 같이 나선왕과의 싸움에 참가한 큰 글렌단의 멤버보다 아래㊥세대.㊥카미나 시티에 나타난 무건의 행동을 정확하게 조작 한 수완을 인정받고,㊥쿠그렌과 초은하 다이글렌에서도 오페레",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00324/Sheet1/000009",
+      "sourceBindingSha256": "1f74741b541fe3bacc7acffe1eeac4570062f8f6fdd6e2bef0a73b6f594b972c",
+      "sourceTextSha256": "238351c2eab94ca73575173874fbd1c4fc6966f9f69739b0d6736a7fc1d8b622",
+      "freshTranslation": "-를 맡겼다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

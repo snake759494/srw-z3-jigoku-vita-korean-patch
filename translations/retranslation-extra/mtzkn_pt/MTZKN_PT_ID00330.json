@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00330",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00330/Sheet1/000002",
+      "sourceBindingSha256": "78599fc2059801b6e3008005e42e4c9988bdd48289b01c412924011c47dc8f01",
+      "sourceTextSha256": "9f5d13d17a7aef72dc82a6e58770bc5fb2d3c45017543a53a79ef74516761ba7",
+      "freshTranslation": "부",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00330/Sheet1/000003",
+      "sourceBindingSha256": "ce1035f29b622feea2e3b7c5007df387879c7ad81f3be96aff58fbffa8902447",
+      "sourceTextSha256": "9f5d13d17a7aef72dc82a6e58770bc5fb2d3c45017543a53a79ef74516761ba7",
+      "freshTranslation": "부",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00330/Sheet1/000004",
+      "sourceBindingSha256": "9881ec295b80489b90eec41940073d08eb967e2693a9d7513d7a62811f235208",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00330/Sheet1/000005",
+      "sourceBindingSha256": "fa060011db9a008a89a8e81d37a0e4e9177efca2fa4ddb35d92e6c579e6c50cd",
+      "sourceTextSha256": "c79c6af7914c759ae79dd5ef0f28c6b02a533b275fb49a184e766e15d6fd47c5",
+      "freshTranslation": "시몬 애완 동물이자 가장 친한 친구입니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00330/Sheet1/000006",
+      "sourceBindingSha256": "aaaaf084aa600e06888e7a56b9f6d5e9e91aadaf168981327d7e44e7af7579c7",
+      "sourceTextSha256": "01f015cf74582ebce563070110351d79c3a2f268ee0ad4e3f2855b77299c6a1f",
+      "freshTranslation": "두더지. ㊥ 신체는 작지만 행동력이 있고, 평소에는 시몬의 어깨 위에 타고 있지만 요코의 가슴 골짜기 ㊥ 사이에 잠입하는 모습도 보였다. ㊥ 꼬리는 끊어져도 다시 나오기 때문에 비상식으로도 의지할 수 있는 존재. 덧붙여서 상당한 미 ㊥ 맛으로 영양가도 매우 높고, 배고프고 만족스럽게 싸울 수 없었던 시몬과 카미나를 단번에 회복시킨 ㊥ 일도 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00330/Sheet1/000007",
+      "sourceBindingSha256": "32f8610ed6090f8c978a4945838ac59b20d24bdabc89b4c91cbbfc70bdc2cdf2",
+      "sourceTextSha256": "c79c6af7914c759ae79dd5ef0f28c6b02a533b275fb49a184e766e15d6fd47c5",
+      "freshTranslation": "시몬 애완 동물이자 가장 친한 친구입니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00330/Sheet1/000008",
+      "sourceBindingSha256": "d692986ef7eace08c03af02c3e15dc04a1e067a7e9a5b589ed50cc32d342d9fb",
+      "sourceTextSha256": "5b5edefa4e10ffaa47233d80fe2959a6906f7e6659a42f535949f93236e218a2",
+      "freshTranslation": "두더지. ㊥ 신체는 작지만 행동력이 있고, 평소에는 시몬의 어깨 위에 타고 있지만 요코의 가슴 골짜기 ㊥ 사이에 잠입하는 모습도 보였다. ㊥ 꼬리는 끊어져도 다시 나오기 때문에 비상식으로도 의지할 수 있는 존재. 덧붙여서 상당한 미 ㊥ 맛으로 영양가도 매우 높고, 배고프고 만족스럽게 싸울 수 없었던 시몬과 카미나를 단번에 회복시킨 ㊥ 일도 있었다. ㊥ 그 신체는 나선력의 덩어리이기도 하고, 쌓인 나선력을 나선 에너지로 방출하여 대㊥ 글렌단의 멤버임을 보여주었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

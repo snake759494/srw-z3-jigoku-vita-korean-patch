@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00332",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00332/Sheet1/000002",
+      "sourceBindingSha256": "8c22a2f9f463d311ff6fcca18276b0c5499e58bbff2ed76757002c2108837ffa",
+      "sourceTextSha256": "c75e6b3d4a8437f222c11861a9da7bd3c00d2b75c940e80f2569e4a3d6339f5a",
+      "freshTranslation": "이카리 신지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00332/Sheet1/000003",
+      "sourceBindingSha256": "12bd6e2f82f6cdb6a7f1ccba1383f46a984ecd8b8038324e3d2b58deb692e99a",
+      "sourceTextSha256": "eec9e9abf1a23ce26381a647741177ff47348ee93fedc5fd0432740af0649705",
+      "freshTranslation": "신지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00332/Sheet1/000004",
+      "sourceBindingSha256": "8cbb3c634dec05e7d428296542f424eebeff0a37f8056ca6e2febfbb7dd93b20",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00332/Sheet1/000005",
+      "sourceBindingSha256": "9b76719bb700559963a200fb0bb6d90e457cdd97c238f43eca22ab1ada43db10",
+      "sourceTextSha256": "402b92dadda56b413aee41c21d77e831bc944378ccdffc1c1e202beac0c9c25d",
+      "freshTranslation": "오가타 에미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00332/Sheet1/000006",
+      "sourceBindingSha256": "c6c07024b8645851531c51e5b95766c44b7cb541969b1136de7fb78e3e05b6c1",
+      "sourceTextSha256": "ea2fcc16ced3e3c44906d15435f85b1a1331b8e9103a704b0b69539981ae800d",
+      "freshTranslation": "EVA 초호기에 탑승하는 '제3소년'. 14세. ㊥ 아버지의 겐도우가 최고 사령관을 맡는 특무기관 ＮＥＲＶ에 불려 범용 인간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00332/Sheet1/000007",
+      "sourceBindingSha256": "cb82b7df0b0566ed81ce8d80c848458de3c4c777ca1a2021d3c29821f03dd5bc",
+      "sourceTextSha256": "191050eee2831822bf3836ee4d3c423804eed240b369d8ba8107240fd4644456",
+      "freshTranslation": "결전병 ㊥ 그릇·인조 인간 에반게리온에 탑승해 세계의 존망을 걸어 사도와 싸우게 된다. ㊥ 이후는 미사토의 맨션에 동거해, 제3 신도쿄 시립 제일 중학교에 다닌다. ㊥전교초는 그 내향적인 성격이나 낮은 자기평가, EVA의 파일럿이라는 입장이나 ㊥ 등 고립되어 클래스메이트 토우지들과 충돌했다. 그러나 사도와의 싸움을 통해 그 ㊥ 등과 마음을 다니며 친구 관계를 구축해 나간다. 또, 보호자적인 역할의 미사토로부터도 조언㊥이나 격려를 받으면서, 조금씩 성장해 간다. ㊥ 당초에는 EVA를 타는 것을 싫어하고, 겐도우와도 충돌하고 있었지만, 인간적으로 성장해 ㊥ 가는 것에 따라, 그 심경도 변화해 간다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00332/Sheet1/000008",
+      "sourceBindingSha256": "f3a3dff8c10a76210cb2452ee61361c27d1e9939fb5147ea620a300282ae0a57",
+      "sourceTextSha256": "ea2fcc16ced3e3c44906d15435f85b1a1331b8e9103a704b0b69539981ae800d",
+      "freshTranslation": "EVA 초호기에 탑승하는 '제3소년'. 14세. ㊥ 아버지의 겐도우가 최고 사령관을 맡는 특무기관 ＮＥＲＶ에 불려 범용 인간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00332/Sheet1/000009",
+      "sourceBindingSha256": "6d5acd482ca85a87b85b234c7319b109a086d944ab2a812ec98c396a9d094d5a",
+      "sourceTextSha256": "5afaa0503fa88ccc53189a138e6dd695b5a46eec54acd4dd90f1aa46d11579c8",
+      "freshTranslation": "결전병 ㊥ 그릇·인조 인간 에반게리온에 탑승해 세계의 존망을 걸어 사도와 싸우게 된다. ㊥ 이후는 미사토의 맨션에 동거해, 제3 신도쿄 시립 제일 중학교에 다닌다. ㊥전교초는 그 내향적인 성격이나 낮은 자기평가, EVA의 파일럿이라는 입장이나 ㊥ 등 고립되어 클래스메이트 토우지들과 충돌했다. 그러나 사도와의 싸움을 통해 그 ㊥ 등과 마음을 다니며 친구 관계를 구축해 나간다. 또, 보호자적인 역할의 미사토로부터 조언이나 ㊥ 격려를 받아, 제1 소녀 레이나 제2 소녀 아스카와의 교류 속에서, 조금씩 성장㊥해 나간다. ㊥ 당초에는 EVA를 타는 것을 싫어하고, 겐도우와도 충돌하고 있었지만, 인간적으로 성장해 ㊥ 가는 것에 따라, 그 심경도 변화해 간다. 그러나 제 9 사도의 출현을 계기로 두 사람 ㊥의 관계는 복구 불가능한 정도로 악화되어 버린다. ㊥ 그리고 더욱 어려운 상황에 직면하지만, 신지는 자신의 소중한 것을 위해 ㊥ 싸울 것을 결의한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

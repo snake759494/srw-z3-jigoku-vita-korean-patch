@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00021",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00021/Sheet1/000002",
+      "sourceBindingSha256": "494a4920488cba4a0b07fdc33b87ca186c12330b917837574b135af9f5dae2fe",
+      "sourceTextSha256": "095aa56eab1e8a38be44b7470675dbd3bb01e8bb6134a3c94d5e531e65a3923a",
+      "freshTranslation": "장갑 기병 하의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00021/Sheet1/000003",
+      "sourceBindingSha256": "7638b869ee34882af5910a8e074709ea72654eafa5baac032d693b061a8ca31a",
+      "sourceTextSha256": "df1ffa491a212427f7282c2cdea92065eabda1bc5b4308b966bbb6fe78ce577f",
+      "freshTranslation": "스코프 개",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00021/Sheet1/000004",
+      "sourceBindingSha256": "12e4a2c9e3adc71a1501f26b0798eb47f23648a30d77f3617831288506f48c5e",
+      "sourceTextSha256": "df1ffa491a212427f7282c2cdea92065eabda1bc5b4308b966bbb6fe78ce577f",
+      "freshTranslation": "스코프 개",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00021/Sheet1/000005",
+      "sourceBindingSha256": "fc51d88429d1ded59b53a3ebb6c680bace1cb86e59976dcfb2541b77ecaef2e4",
+      "sourceTextSha256": "3678607053319863982731f6cc7ce511f3d0bb415d6b6db447fb96203f839008",
+      "freshTranslation": "스코프독의 멜키아 방면군의 칼라 바리에이션. ㊥ 범용성이 뛰어난 스코프독은 기체 컬러뿐만 아니라 수상 및 습지전용 ㊥ '머시독', 황무지전용 '버그라리독' 등 다양한 기체 변형 ㊥션이 존재한다. ㊥ 덧붙여 멜키아는 길가메스 성역 연합의 핵심을 이루는 행성 국가이며, 제3차 은하대 ㊥전(백년 전쟁) 말기에 AT를 개발한 공적에서 목성의 지위에 올랐다. 그 멜㊥키아 독자적인 행성군이 멜키아 방면군이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00021/Sheet1/000006",
+      "sourceBindingSha256": "88cc3b2f41555f56151b487c765e8bfb11e473b66327c0301cb765c4875e127c",
+      "sourceTextSha256": "3678607053319863982731f6cc7ce511f3d0bb415d6b6db447fb96203f839008",
+      "freshTranslation": "스코프독의 멜키아 방면군의 칼라 바리에이션. ㊥ 범용성이 뛰어난 스코프독은 기체 컬러뿐만 아니라 수상 및 습지전용 ㊥ '머시독', 황무지전용 '버그라리독' 등 다양한 기체 변형 ㊥션이 존재한다. ㊥ 덧붙여 멜키아는 길가메스 성역 연합의 핵심을 이루는 행성 국가이며, 제3차 은하대 ㊥전(백년 전쟁) 말기에 AT를 개발한 공적에서 목성의 지위에 올랐다. 그 멜㊥키아 독자적인 행성군이 멜키아 방면군이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

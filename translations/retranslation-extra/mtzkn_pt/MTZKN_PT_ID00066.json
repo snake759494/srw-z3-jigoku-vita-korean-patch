@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00066",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00066/Sheet1/000002",
+      "sourceBindingSha256": "30a067e41e6b4f52b1ea5b8ed3ab04e95b7680e5a206b56ffd84890faed80b5f",
+      "sourceTextSha256": "55c3a40f50d08f982e972a57e23b03d39dda0bd8de5f95926edfc66e15c42ebc",
+      "freshTranslation": "퀘스 파라야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00066/Sheet1/000003",
+      "sourceBindingSha256": "f59ec7eceec16fc28286ca40f6aa8d6181f974c04561c18715f3e7c3106814c5",
+      "sourceTextSha256": "2dd6c8177d77c7fe025737b5d6981f38d618e0dc800be04e1e452f976d20a43b",
+      "freshTranslation": "퀘스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00066/Sheet1/000004",
+      "sourceBindingSha256": "7ff583730174bb7fd70c32f39ced2ab1d68a014c9ce031149934b9c0e9b10efd",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00066/Sheet1/000005",
+      "sourceBindingSha256": "a92b68377f20c584ac724f22ef6206b0bd59f6e1ee098842db1f9afaeda48b6b",
+      "sourceTextSha256": "0860def5596cf56000c79f259ce201ad2eb311aa5a052c2c61a2df5cb1d86c83",
+      "freshTranslation": "카와무라 만리아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00066/Sheet1/000006",
+      "sourceBindingSha256": "0939d709a6dbfded600d07b0b5f8bc1b6516e435ed2b11d2a598170fec76fe34",
+      "sourceTextSha256": "5870caa037a3ad7a80c76e812c77c2bada4330290442d4024bda56d26787c654",
+      "freshTranslation": "지구 연방군의 참모 차관인 아데나우어의 한 딸. ㊥분방한 성격으로 감정의 기복이 심해 인간에게 날카로운 견해를 한다. ㊥뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00066/Sheet1/000007",
+      "sourceBindingSha256": "bb393e6911d019d3b9db871d29db4250a71f8472d1261aa54b859903dddc5dc6",
+      "sourceTextSha256": "e67d449d297415dc0405a5f6adbcbd55e7c6700d4282d687fd3709d5253683ef",
+      "freshTranslation": "입에 흥미가 있어, 인도에서 수행을 하고 있던 적도 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00066/Sheet1/000008",
+      "sourceBindingSha256": "1957dd75243e053669a169abc06160ac0efba1fa22517a6eec117dc283263b7a",
+      "sourceTextSha256": "5870caa037a3ad7a80c76e812c77c2bada4330290442d4024bda56d26787c654",
+      "freshTranslation": "지구 연방군의 참모 차관인 아데나우어의 한 딸. ㊥분방한 성격으로 감정의 기복이 심해 인간에게 날카로운 견해를 한다. ㊥뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00066/Sheet1/000009",
+      "sourceBindingSha256": "2a45db3a943cc41622e5b11a1953257e5097206f9fee889d13538c6fec2321ea",
+      "sourceTextSha256": "8b2b88ac0472b62a502c69b578596b6c1fce24cedbaf41d86a2c72072f4a886d",
+      "freshTranslation": "입에 흥미가 있어, 인도에서 수행을 하고 있던 적도 있다. ㊥ 론데니온에서 만난 샤아에 매료되어 네오지온으로 달린다. 그래서 그녀는 ㊥뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00066/Sheet1/000010",
+      "sourceBindingSha256": "62400a158f7bfcc7b0a90826b25d55c427bdf8489826a0d50283af218401c431",
+      "sourceTextSha256": "aae5448c7b2f5dacb520e3fff522d179aa05bcbda265297fdabfce475222f2d3",
+      "freshTranslation": "입으로의 능력을 각성시켜 가서 야크트 도가에 탑승해 샤아의 역㊥에 서기 위해 싸워 간다. ㊥ 싸움 속 아버지 아데나우어를 그 손에 들지만, 본인에게는 분명한 자각은 ㊥이었다. ㊥ 액시즈 공방전에서는 거대 모빌 아머, α·아지르를 달려 싸우지만, 재회한 ㊥ 해서웨이를 가방 형태로 체인의 공격을 받고, 목숨을 잃는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

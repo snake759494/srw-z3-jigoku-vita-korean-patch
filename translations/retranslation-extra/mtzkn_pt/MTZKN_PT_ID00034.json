@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00034",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00034/Sheet1/000002",
+      "sourceBindingSha256": "61596efb42d1e322f448a67ef72be0802ebe6bd3f1d2372daa0183751e45aa41",
+      "sourceTextSha256": "e8c7e38eac3595f3e6da928e515020942cbe088629a7b5ff34a809a4836954c1",
+      "freshTranslation": "르 샤코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00034/Sheet1/000003",
+      "sourceBindingSha256": "45796c199666a9f6df5b36453b80d939114fb4f418ccbc6f95b045cd7e20ce11",
+      "sourceTextSha256": "c43b9fce92581a37a2ddaa47dfe0f68186a29b30b5f4afdddadde04c7f8e70fe",
+      "freshTranslation": "샤코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00034/Sheet1/000004",
+      "sourceBindingSha256": "1828037d32ae8c2539b61111097e83091d54dd25406bec597331a683efcfb646",
+      "sourceTextSha256": "095aa56eab1e8a38be44b7470675dbd3bb01e8bb6134a3c94d5e531e65a3923a",
+      "freshTranslation": "장갑 기병 하의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00034/Sheet1/000005",
+      "sourceBindingSha256": "c6701a8d926b02a62bf6aa719d0e0c88e124bf8900fce378dc5de40ce02a8ddf",
+      "sourceTextSha256": "e448f7d6f291e2b05edd2f32101e8d8fcea566a08391ee77eaf08d92472f44ff",
+      "freshTranslation": "마사무네 일성",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00034/Sheet1/000006",
+      "sourceBindingSha256": "2cc52755aa0c64548c4b705a07aa370e6add61f171f122836c4787defe11a627",
+      "sourceTextSha256": "9da0ea21d64a039664d84d56ccc08d1927a2876c87a1d72a5f52317e00ccd54e",
+      "freshTranslation": "행성 퀸트 출신의 용병. ㊥ 퀸트는 우수한 용병을 파견하는 것으로 유명한 행성이며, 그 출자에게 부끄러워하지 않는 높은 ㊥ 능력을 가지고 있다. ㊥ 침착 냉정하고, 필요 이상으로 입을 열지 않는 분, 그 발언에는 무게가 있어, 주위로부터도 1㊥눈 놓여 있다. 또한 용병으로서 계약에 충실하고 어셈블 EX-10에서는 ㊥ 최저의 상관인 강유의 무단한 명령에도 따랐다. ㊥이지만 부하를 버리고 말로만 생각하는 강유의 무서운 무인함에 점차 혐오감을 ㊥ 모집해 나가고, 리아나를 억지로 자신의 보신을 꾀하는 그를 '인간의 쓰레기'라는 말과 ㊥ 함께 이궁의 최하층에 두드리는 격렬함을 보인 적도 있었다. ㊥ 쿠멘 왕국 붕괴 후 퀸트로 돌아왔지만, 키리코가 동성을 방문했을 때 재회. 생㊥ 드물게 고향 마을에 안내하는 등 적극적으로 지원했다. ㊥ 키리코가 와이즈맨과의 결착을 붙인 뒤에도, 니바와의 싸움 등에서는 아끼지 않고 협력㊥을 계속했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00034/Sheet1/000007",
+      "sourceBindingSha256": "ff01a4b0e3fc4fb59b3d72fb57520aeeb192097f29824d55a4a54b58d2d8af37",
+      "sourceTextSha256": "3155cc35f2697675b62a150e82157601265c2f1c25ce6fef1bc9118c685d5964",
+      "freshTranslation": "행성 퀸트 출신의 용병. ㊥ 퀸트는 우수한 용병을 파견하는 것으로 유명한 행성이며, 그 출자에게 부끄러워하지 않는 높은 ㊥ 능력을 가지고 있다. ㊥ 침착 냉정하고, 필요 이상으로 입을 열지 않는 분, 그 발언에는 무게가 있어, 주위로부터도 1㊥눈 놓여 있다. 또한 용병으로서 계약에 충실하고 어셈블 EX-10에서는 ㊥ 최저의 상관인 강유의 무단한 명령에도 따랐다. ㊥이지만 부하를 버리고 말로만 생각하는 강유의 무서운 무인함에 점차 혐오감을 ㊥ 모집해 나가고, 리아나를 억지로 자신의 보신을 꾀하는 그를 '인간의 쓰레기'라는 말과 ㊥ 함께 이궁의 최하층에 두드리는 격렬함을 보인 적도 있었다. ㊥ 쿠멘 왕국 붕괴 후 퀸트로 돌아왔지만, 키리코가 동성을 방문했을 때 재회. 생㊥ 드물게 고향 마을에 안내하는 등 적극적으로 지원했다. ㊥ 키리코가 와이즈맨과의 결착을 붙인 뒤에도, 니바와의 싸움 등에서는 아끼지 않고 협력㊥을 계속해, 냉동 수면 캡슐에 들어간 키리코와 피아나를 보냈다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00342",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00342/Sheet1/000002",
+      "sourceBindingSha256": "1ad59ec81599378417236b05e2cfa83c154ac2da06289dca7f4f6c777d7c8db0",
+      "sourceTextSha256": "9be898c4dd022288b3f853a1969f9ed185adce4c8d19c263404205663a03d704",
+      "freshTranslation": "아오바 시겔",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00342/Sheet1/000003",
+      "sourceBindingSha256": "8c787f727c0c184ff0648690d9b192cfb967bcb91ab483e5b1a8b9213fbb39c6",
+      "sourceTextSha256": "fe5902d3b9d21745a9b34955dbc18ba062c7e41ca05ece675f059ffcc7a4c535",
+      "freshTranslation": "시겔",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00342/Sheet1/000004",
+      "sourceBindingSha256": "f01da3f3e03a292745cc05f62164126d57c490c6146c56256f3d9fc03299d546",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00342/Sheet1/000005",
+      "sourceBindingSha256": "244e98e012bde7fca412a2c791ac4b384d74c7a803649bd4ed3928bfb6290a80",
+      "sourceTextSha256": "08eaffc6fe2dc795c67bce01303258f5b5b727d59c21e025c0aaf2791c41af30",
+      "freshTranslation": "특무기관 NERV의 조사부 정보국 제1과에 소속. 계급은 2위. ㊥ 통신 및 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00342/Sheet1/000006",
+      "sourceBindingSha256": "56a32011cb659147b2a3b716e2aab055a539dd651b1f21a4b60787b3d7e90072",
+      "sourceTextSha256": "7b4667dc891743744f782f2fd207d3a0c9817eafb357bafcceb7a487baf910cc",
+      "freshTranslation": "분석을 담당한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00342/Sheet1/000007",
+      "sourceBindingSha256": "04ac0ab49ffa4ab1d8434568455afe672c948a50cc13bc74203f5859cd33ae87",
+      "sourceTextSha256": "08eaffc6fe2dc795c67bce01303258f5b5b727d59c21e025c0aaf2791c41af30",
+      "freshTranslation": "특무기관 NERV의 조사부 정보국 제1과에 소속. 계급은 2위. ㊥ 통신 및 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00342/Sheet1/000008",
+      "sourceBindingSha256": "0dd99c87610bbcfcc737d65e0334a3bc1d2b0eb919350b40ea4aa108fb601c38",
+      "sourceTextSha256": "7b4667dc891743744f782f2fd207d3a0c9817eafb357bafcceb7a487baf910cc",
+      "freshTranslation": "분석을 담당한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

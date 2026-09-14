@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00215",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00215/Sheet1/000002",
+      "sourceBindingSha256": "267ea1ff125fb40c2465450c8b651f62b3f2bcb6f7cf9f241230b52b5dc05a86",
+      "sourceTextSha256": "5404e386d8704da64994426cb7b27a2a3d21ee1ba1955100390ff752424018a3",
+      "freshTranslation": "브로켄 백작",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00215/Sheet1/000003",
+      "sourceBindingSha256": "ef5288aae8c765aa0ce48cfbf31db8e825793c2599c2d9312852a464aa20a39b",
+      "sourceTextSha256": "0276148bc655f894fd7a013de12e384be769da77b1c1193718621ab277c67ff5",
+      "freshTranslation": "브로켄",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00215/Sheet1/000004",
+      "sourceBindingSha256": "8a0edf93611c70a1783bf9bc36d8e0b7a21b87b2b06482fc84527d8089f4ea2f",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00215/Sheet1/000005",
+      "sourceBindingSha256": "77c0223f9a004a90e529ebf12ce9f6ef76231e5bb787edc260a3fe9f9c861b75",
+      "sourceTextSha256": "ca009825a59a225a69b06b430dedf3be8b30b1d6f1314c712a7f76e3dadf802c",
+      "freshTranslation": "이나바미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00215/Sheet1/000006",
+      "sourceBindingSha256": "99cb45f55504bebfa7a2eb3fc729737af9df7ec85eebd7f008848ec4c504fc1e",
+      "sourceTextSha256": "85fc5c144933beb86e0f9db4a062260d203f2a753d6698d5abb8b3bc2e08f7f2",
+      "freshTranslation": "Dr. 헬의 부하의 개조 인간으로, 오대 군단의 하나 「철십자 군단」의 지휘관. ㊥ 원래는 \"비정한 책략에 길다\"고 두려워한 전설의 군인으로, Dr. 헬의 바이오 소 ㊥ 생기술에 의해 부활했다. 목은 분리가 가능하고, 벗어난 상태에서도 동체를 움직이는 일㊥이 가능하다. ㊥ 힘 밀기에 의존하는 경향이 있는 아슈라 남작과는 대조적이며, 책을 둘러싼 전략을 선호한다. ㊥ 또한 비행 요새 구울을 달리고 군단에 수많은 비행",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00215/Sheet1/000007",
+      "sourceBindingSha256": "1e9f6c226ba4e959c9494cfbade5dca92ae4bf2fb614c5beb6625a85a7bce37e",
+      "sourceTextSha256": "2fcdc9618cf9d6266cc61a98f046ab2246437abb814d3a8a587b2ab32185c9bb",
+      "freshTranslation": "입의 기계 짐승을 따르고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00215/Sheet1/000008",
+      "sourceBindingSha256": "4d07ec1f72588fe02208c9cefdcc1d0c8dfd597b9b8ead3a479e4a85587b1f82",
+      "sourceTextSha256": "85fc5c144933beb86e0f9db4a062260d203f2a753d6698d5abb8b3bc2e08f7f2",
+      "freshTranslation": "Dr. 헬의 부하의 개조 인간으로, 오대 군단의 하나 「철십자 군단」의 지휘관. ㊥ 원래는 \"비정한 책략에 길다\"고 두려워한 전설의 군인으로, Dr. 헬의 바이오 소 ㊥ 생기술에 의해 부활했다. 목은 분리가 가능하고, 벗어난 상태에서도 동체를 움직이는 일㊥이 가능하다. ㊥ 힘 밀기에 의존하는 경향이 있는 아슈라 남작과는 대조적이며, 책을 둘러싼 전략을 선호한다. ㊥ 또한 비행 요새 구울을 달리고 군단에 수많은 비행",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00215/Sheet1/000009",
+      "sourceBindingSha256": "c0e18ea996ec2f8ed083b5f18d50122028c1ddeb6d4fc9a029cb504aaa58a42c",
+      "sourceTextSha256": "93940af00e0269de4b6aa592c519d2b81bc4463107462aa39684764c308a2b68",
+      "freshTranslation": "입의 기계 짐승을 따르고 있다. ㊥ 최종 결전에서는 기계 짐승 브로켄 V2 슈나이더에게 목만을 탑승시켜 스스로 출격. ㊥ 뷰너스 A를 몰아내는 것도 해렌치한 행위에 미치려고 했기 때문에 활의 분노를 사서 ㊥과학요새연구소의 광자력포를 받아 소멸했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

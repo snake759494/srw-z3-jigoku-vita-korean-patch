@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00220",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00220/Sheet1/000002",
+      "sourceBindingSha256": "df410e359547115a4bc22bf92c7b5c4c1c7ee6821d6cf8946438d121cf863184",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00220/Sheet1/000003",
+      "sourceBindingSha256": "b5ca29ce5385a3d50125766f7de3fed35c6a790a889c9090960523816c312ff7",
+      "sourceTextSha256": "9f1aca489bc035e5ff83f7459000a29dd50f0aed61a75ade6ccaa44836f4b827",
+      "freshTranslation": "에반게리온 초호기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00220/Sheet1/000004",
+      "sourceBindingSha256": "990f5c354c89bd6feec6a49d18984eb1b716eed9e45377e9dedb3fbe6f853569",
+      "sourceTextSha256": "a8d1650a451a96d19ca8d59585b3e080bc9ab9f0dd3154eabd7d9e9654ff5d81",
+      "freshTranslation": "범용 인간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00220/Sheet1/000005",
+      "sourceBindingSha256": "d7b41c27bdd52a43d6137b2b1c620b896468457b9bb63caa8053e96c7530895f",
+      "sourceTextSha256": "152bef1319107e076d50aff5ef1513732a9658ec53d5aa44a1cfa302425f2318",
+      "freshTranslation": "결전 무기 인조 인간 에반게리온 시험 초호기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00220/Sheet1/000006",
+      "sourceBindingSha256": "3ac44fd96000c09fb14bc3827432613ad58bc88a06f8be4e77e0158bb3b80a8a",
+      "sourceTextSha256": "9335c863275748e39f731fa1d48400194a82cef60478287788f63a610a95e070",
+      "freshTranslation": "더미 플러그",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00220/Sheet1/000007",
+      "sourceBindingSha256": "e9d4856af8b50df6ac4531b6581ce46b1c0bc43d51ca0070f0a777115169ec8a",
+      "sourceTextSha256": "341c0edf9513280e4add5a83e34122c71c70a2fa5badb5e08ef08bd22ac9ec95",
+      "freshTranslation": "EVA 초호기가 폭주한 상태. ㊥ 폭주란 초호기에 보이는 수수께끼의 행동을 가리킨다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00220/Sheet1/000008",
+      "sourceBindingSha256": "8a6be72ddddb275988f39033083c99a8305ba144344b18775bdaaecfe1b2fd14",
+      "sourceTextSha256": "3d50905fa093b3dab6ed185e381cbf841d9d3cd97d171959e1b5a2602e6b52d1",
+      "freshTranslation": "EVA 초호기가 폭주한 상태. ㊥ 폭주란 초호기에 보이는 수수께끼의 행동을 가리킨다. ㊥ 더미 플러그로 전환되었을 때에도 폭주 상태와 마찬가지로 흉포한 모습을 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

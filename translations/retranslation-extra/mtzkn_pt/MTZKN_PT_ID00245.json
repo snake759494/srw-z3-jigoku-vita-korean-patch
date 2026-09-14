@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00245",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00245/Sheet1/000002",
+      "sourceBindingSha256": "5c0c57afb3fbc75279ae81865896e40abd71ddf4b7783031b5afcd73f545fb30",
+      "sourceTextSha256": "24780061e990ebe6077f85b62500d05135c058b08e73969332563998e4027ad8",
+      "freshTranslation": "고든 로즈워",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00245/Sheet1/000003",
+      "sourceBindingSha256": "ab59d5fb52d675c9e32eeb651f780aa7ae358f7ae013b5e2989813a8c0a2a41f",
+      "sourceTextSha256": "6ff4be5ed69db3ad785e5169091139581d372bc14f9409e72144569e6952127d",
+      "freshTranslation": "고든",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00245/Sheet1/000004",
+      "sourceBindingSha256": "684b1276dbb72aa097ae9e8d0607abe4df011c5b75464d52c41457acdc699832",
+      "sourceTextSha256": "fe82c905a6215168a90a9b27d7eb05a7c47166cb9ec609a131f0bd7583092bde",
+      "freshTranslation": "THE 빅오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00245/Sheet1/000005",
+      "sourceBindingSha256": "4e0972ee9487e6184ece6415d792dca9a0df9643b31abe878b4c41922586d777",
+      "sourceTextSha256": "1cbeea4aa7431b8376a2ac11c95c3b8c66dc095cb473ea26f5ce64eb4a70fefe",
+      "freshTranslation": "패러다임 그룹의 초대 총수. ㊥ 현재는 회사를 아들 알렉스에게 맡기고 교외 농원에서 인공 토마토의 재배에 정을 ㊥ 내고 있다. 그러나 그 절대적인 영향력은 여전히 ​​건재하다. ㊥ 메모리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00245/Sheet1/000006",
+      "sourceBindingSha256": "ce079259b10ec16bbd8d632545ec801802390920f80ba296f275bcf2f48ef23d",
+      "sourceTextSha256": "7b19d701b91fc71f2e464222a3d1a38419d51b0563d460725f6dcc061f1b2e36",
+      "freshTranslation": "열매를 알 가능성이 있는 인물이며, 그의 밑을 방문한 로저에게 ㊥ 자신과 로저 사이에 뭔가 있었음을 시사하는 말을 던졌다. ㊥ 미완의 자저 '메트로폴리스'에 40년 전에 일어났다고 생각되는 사건을 적고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00245/Sheet1/000007",
+      "sourceBindingSha256": "ef7b87f6fe1587a6620ec2cf667aa8c4a57e0ace64f79f7a8166882baedd7bdf",
+      "sourceTextSha256": "1cbeea4aa7431b8376a2ac11c95c3b8c66dc095cb473ea26f5ce64eb4a70fefe",
+      "freshTranslation": "패러다임 그룹의 초대 총수. ㊥ 현재는 회사를 아들 알렉스에게 맡기고 교외 농원에서 인공 토마토의 재배에 정을 ㊥ 내고 있다. 그러나 그 절대적인 영향력은 여전히 ​​건재하다. ㊥ 메모리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00245/Sheet1/000008",
+      "sourceBindingSha256": "7d853b3c3774297359e498d6fcb5c94b01ed74627fef67828d50e0e5593a1c89",
+      "sourceTextSha256": "962722e132ed5003a9e514cd265408a2033310e2000e8fcc8cd146068d0ff9a5",
+      "freshTranslation": "열매를 알 가능성이 있는 인물이며, 그의 밑을 방문한 로저에게 ㊥ 자신과 로저 사이에 뭔가 있었음을 시사하는 말을 던졌다. 또한 그의 ㊥ 젊은 날의 사진",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00245/Sheet1/000009",
+      "sourceBindingSha256": "2bb5288b24af30489a20a91c2ede4531ccf75ae8508e7304a2c1e36bff52930f",
+      "sourceTextSha256": "4f07c86fff6b42331552b31302fc4f672ba2462dbcd361738e5442056743226a",
+      "freshTranslation": "로저와 두 사람과 악수하는 모습이 나오기 때문에,㊥항아리와 어떤 인연이 있는 것처럼 보인다.㊥미완의 자저 '메트로폴리스'에 40년 전에 일어났다고 생각되는 사건을 적고 있다.㊥패러다임 시티의 깊은 곳에있는 수수께끼 공간에서 천사를 보류 한 후 메트로폴리㊥수",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00245/Sheet1/000010",
+      "sourceBindingSha256": "9c93e86a2ab219c8a90e25a18fb2e07d8db33be227212f5b484f21784974d580",
+      "sourceTextSha256": "0cdfbb2651f2226027f24a65073baab156f959bb66833f2cdc733e9bf0baf425",
+      "freshTranslation": "의 작자에게 메모리를 쓰는 것을 바라며 사라져 갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00174",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00174/Sheet1/000002",
+      "sourceBindingSha256": "1f0a7f9d3091fb8b02ef8bb081d8821131ca08589f3fae9ec3144927a3db56b9",
+      "sourceTextSha256": "5c6c3ba8fd3c18524d1ed4e7f3a6b7751bbcb94c763b59aa386ad8f95e46af0f",
+      "freshTranslation": "오즈마 리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00174/Sheet1/000003",
+      "sourceBindingSha256": "c563ee488bebb15d1e1ec895b44254d0298e014ceddc0dc902af5d63ab41aa77",
+      "sourceTextSha256": "5c5285e5bf5832d410d3ca25c68cbeeb7c034db1910f907c84cd15278637700d",
+      "freshTranslation": "오즈마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00174/Sheet1/000004",
+      "sourceBindingSha256": "be0dff5833d0db3f25ef2296dbac77c5d2345cbeb0da83822f854e6be91db21e",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00174/Sheet1/000005",
+      "sourceBindingSha256": "e5df400c2631492b7040f60d3d5a19d8aaf2fa55b7827ee08a368584bfc232af",
+      "sourceTextSha256": "a48f3c3c4cffe6ee7dcf1b133cf27a1baa5dbe5d9ebec6f2c9b37240ec5c1d77",
+      "freshTranslation": "코니시 카츠유키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00174/Sheet1/000006",
+      "sourceBindingSha256": "e0b9b3456215865bedea64de2a44bea2002ff97e7c50c71760ba1582f09b03b1",
+      "sourceTextSha256": "1bc5e9164724e17b346f0dde1ad2b15458353b910c115488ce91851aceccb48f",
+      "freshTranslation": "S. M. S스컬 소대의 대장. 계급은 소령. 27세. ㊥ 무조작에 묶은 머리카락에 무정히 수염이라고 하는 남자 쑥 외모에 상응하는 성격. 통찰력이나 판단력과 ㊥ 한 면에도 뛰어난 지휘관이며 동시에 인정의 기미에도 통하고 있다. ㊥S. M. S에 입대하기 전에는 신통합군의 에이스 파일럿이며, 그 탁월한 조종㊥ 테크닉으로 최신예기 VF-25를 달린다. 기술적으로도 정신적으로도 두개골 소대의 지주㊥가 되는 리더이다. ㊥ 11년 전, 바쥬라의 습격으로 랑카의 가족을 구할 수 없었기 때문에, 혼자 남겨져 ㊥한 랑카를 꺼내, 형으로 그녀를 기른다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00174/Sheet1/000007",
+      "sourceBindingSha256": "312694d2ffc91d8415c944a8969d436d0642764d341d3c657e084379f00962a4",
+      "sourceTextSha256": "1bc5e9164724e17b346f0dde1ad2b15458353b910c115488ce91851aceccb48f",
+      "freshTranslation": "S. M. S스컬 소대의 대장. 계급은 소령. 27세. ㊥ 무조작에 묶은 머리카락에 무정히 수염이라고 하는 남자 쑥 외모에 상응하는 성격. 통찰력이나 판단력과 ㊥ 한 면에도 뛰어난 지휘관이며 동시에 인정의 기미에도 통하고 있다. ㊥S. M. S에 입대하기 전에는 신통합군의 에이스 파일럿이며, 그 탁월한 조종㊥ 테크닉으로 최신예기 VF-25를 달린다. 기술적으로도 정신적으로도 두개골 소대의 지주㊥가 되는 리더이다. ㊥ 11년 전, 바쥬라의 습격으로 랑카의 가족을 구할 수 없었기 때문에, 혼자 남겨져 ㊥한 랑카를 꺼내, 형으로 그녀를 기른다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

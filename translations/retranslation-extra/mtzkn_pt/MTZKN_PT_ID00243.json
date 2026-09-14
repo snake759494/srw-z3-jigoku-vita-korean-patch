@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00243",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00243/Sheet1/000002",
+      "sourceBindingSha256": "612fcf8fd1872793a512175d8480e54433f06b71946fe24e4b444b103b9ecccd",
+      "sourceTextSha256": "18df4e5f92f5713a900322f8edc84b421f2c163b797ad1e770f004f4f0329b32",
+      "freshTranslation": "천사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00243/Sheet1/000003",
+      "sourceBindingSha256": "17fa36d1acb9e4855c02d541474f9a85fe089c3f480e8c09ef7a844c45005c21",
+      "sourceTextSha256": "18df4e5f92f5713a900322f8edc84b421f2c163b797ad1e770f004f4f0329b32",
+      "freshTranslation": "천사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00243/Sheet1/000004",
+      "sourceBindingSha256": "a7005f65a742c1f4b15e6d0e30e6fc879dc0a0dd316677347d2d07808f704f8d",
+      "sourceTextSha256": "fe82c905a6215168a90a9b27d7eb05a7c47166cb9ec609a131f0bd7583092bde",
+      "freshTranslation": "THE 빅오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00243/Sheet1/000005",
+      "sourceBindingSha256": "df67f8d3c7e88cd8d856d54c1f979eca55259b04abcdb692ce18217488e751b4",
+      "sourceTextSha256": "a0d3966d75292b9c6c80cc9edaadf09a7badba3a1c1589aa2be999c594242dad",
+      "freshTranslation": "시노하라 에미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00243/Sheet1/000006",
+      "sourceBindingSha256": "c963434e0a4965e806519ec42fe9b0c36834fd8da19e834b2b203fe3266b96ff",
+      "sourceTextSha256": "a9c06e7fabd017de641cced53ad57cd16362fa9acbe5ef0f60343e98ef8cc6e2",
+      "freshTranslation": "국적, 연령 등, 그 거의 모두가 수수께끼에 싸여 있는 정체 불명의 여성. ㊥ 등에 날개가 자라고 있던 것 같은 상흔이 있기 때문인지, 엔젤이라고 자칭하고 있다. ㊥ 동기는 확실하지 않지만, 메모리의 입수가 목적인것 같고, 사건마다 로저㊥ 앞에 나타난다. ㊥ 상대가 누구이든 기분이 들지 않는 강렬한 성격과, 메모리를 위해서라면, 비록 거기 ㊥가 위험한 바다의 밑일 것이라고 부르는 행동력을 가지고 있다. ㊥ 패러다임사에 국적을 두고 있지만, 그 행동은 회사의 이익을 우선하는 것이 아니라 ㊥ 그냥 자신의 메모리를 원하기 때문이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00243/Sheet1/000007",
+      "sourceBindingSha256": "57eadaca0ebb0f69c03100f709fb9b16c092e9b20da9351669ca2f405bbca8fc",
+      "sourceTextSha256": "58b19efaa18089980dc46ed9ef847155aeb3802a4174a92312829fdc88289f70",
+      "freshTranslation": "국적, 연령 등, 그 거의 모두가 수수께끼에 싸여 있는 정체 불명의 여성. ㊥ 등에 날개가 자라고 있던 것 같은 상흔이 있기 때문인지, 엔젤이라고 자칭하고 있다. ㊥ 동기는 확실하지 않지만, 메모리의 입수가 목적인것 같고, 사건마다 로저㊥ 앞에 나타난다. ㊥ 상대가 누구이든 기분이 들지 않는 강렬한 성격과, 메모리를 위해서라면, 비록 거기 ㊥가 위험한 바다의 밑일 것이라고 부르는 행동력을 가지고 있다. ㊥ 패러다임사에 국적을 두고 있지만, 그 행동은 회사의 이익을 우선하는 것이 아니라 ㊥ 그냥 자신의 메모리를 원하기 때문이다. ㊥ 그 뒤에는 이국의 조직 유니온 소속의 조사원의 얼굴을 갖고, 코드명 340호와 ㊥라고 불리고 있었다. ㊥ 하지만 마지막 시간에 그녀의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00243/Sheet1/000008",
+      "sourceBindingSha256": "fc8e412814ea2b94745f1d43e7dbccfd99b2710f2ef8234ee19230cac64fda1e",
+      "sourceTextSha256": "8815d789f9e9af147b4af7088be28a6d7dd8ccc360f95a3632cc1171848dca93",
+      "freshTranslation": "의 정체가 메모리 그 자체인 것이 판명된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00010",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00010/Sheet1/000002",
+      "sourceBindingSha256": "b4a2ff5ad29c8ec97dd21e9765bf7dff6388d5bbe12279c52b9a7a52d6eb3155",
+      "sourceTextSha256": "03d2c2abecb277754db4ac731299506cba1fc7afa869c1af06cde2f48e5d93af",
+      "freshTranslation": "신세시 공진동",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00010/Sheet1/000003",
+      "sourceBindingSha256": "8ca4339f4b000b54cb609601a37b0107883259dbbf5f04bba78e89d3b2e8ecff",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00010/Sheet1/000004",
+      "sourceBindingSha256": "75ed889b6fb269097cd73dafb317cd624f790f24f70f27637baad135215d5fcf",
+      "sourceTextSha256": "cf25908e3f24edbebf1a067db41ca172a96a5131bc7b07c4a4bf6856cc8b4d5e",
+      "freshTranslation": "UCW와 ADW, 그 외의 세계가 하나가 된 거대한 시공진동. ㊥ 규모는 거대했지만, 물리적인 피해는 비교적 적었고, 문화적으로 닮아 ㊥했던 UCW와 ADW는 일찍 사태를 파악하고 서로 협력체세를 취할 수 있었다. ㊥ 그 결과 불과 3개월 만에 스페이스 콜로니를 포함한 거대 정치조직 지구연방이 ㊥ 탄생하여 사람들의 삶도 단시간에 평온을 되찾았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00010/Sheet1/000005",
+      "sourceBindingSha256": "867d9f74382af270ca0d2179a858067e68e54ae2b7f44ad38cf8ed5cb20e2dc9",
+      "sourceTextSha256": "0f28ba674e69c5789ae0a8e8226f5cb4947222fe221eb7286e792b13c5b58634",
+      "freshTranslation": "UCW와 ADW, 그 외의 세계가 하나가 된 거대한 시공진동. ㊥ 규모는 거대했지만, 물리적인 피해는 비교적 적었고, 문화적으로 닮아 ㊥했던 UCW와 ADW는 일찍 사태를 파악하고 서로 협력체세를 취할 수 있었다. ㊥ 그 결과 불과 3개월 만에 스페이스 콜로니를 포함한 거대 정치조직 지구연방이 ㊥ 탄생하여 사람들의 삶도 단시간에 평온을 되찾았다. ㊥ 그러나 이로 인해 때의 감옥이 완성된 것이 판명된 후 신세시 공진동 자체 ㊥가 누군가의 의도에 의해 일어난 것이 추측되어 그것의 해명이 기다려 ㊥ 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00252",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00252/Sheet1/000002",
+      "sourceBindingSha256": "170a5816c57ce1644302156b4daf33a85d1d501e2a82b6a9f8825c6ffce6f89a",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00252/Sheet1/000003",
+      "sourceBindingSha256": "3485b026a525609c5f3fdb1d8304469360275927c0a4f0f8363e1f3a1349daa0",
+      "sourceTextSha256": "b1163ef7b13f15cce6e83638b57f79dcd0dc1b3819e807289e5eafe07653c18e",
+      "freshTranslation": "악시오 버글러",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00252/Sheet1/000004",
+      "sourceBindingSha256": "8e59426a04420102b85ebad1b94420f07f54534b4f78988554873b1327203c2f",
+      "sourceTextSha256": "b1163ef7b13f15cce6e83638b57f79dcd0dc1b3819e807289e5eafe07653c18e",
+      "freshTranslation": "악시오 버글러",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00252/Sheet1/000005",
+      "sourceBindingSha256": "367e4e2cb5209f6a0b5c6e9f87003a95c12b7f49a5fc6c4fa5aaa290968f0969",
+      "sourceTextSha256": "50f5d65d57290f7542201743eb314ab3440188a934e8ee36a4b4b41933c840f0",
+      "freshTranslation": "사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00252/Sheet1/000006",
+      "sourceBindingSha256": "62df92d4dd7947a9871a25211872e1af8912888fda4bd8d10b63b628a517785b",
+      "sourceTextSha256": "037228ba8c42d5de6621e6a5bfa6463793400716baa0a388435a68f54fdbeadc",
+      "freshTranslation": "기동 무기 베스트셀러, 악시오 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00252/Sheet1/000007",
+      "sourceBindingSha256": "f98e727310550ed7d7c824f9563992e36b173312c2b2de6c5fcf9719e1757d04",
+      "sourceTextSha256": "4cd18752c95e31a800267ced063ed59d75d6c090e59ce476f387b50f80ab6830",
+      "freshTranslation": "입. ㊥ 철저한 경량화와 스텔스성과 통신 성능의 강화를 도모한 특무 사양 버전으로 ㊥ 매우 비싼 모델. ㊥특수부대 파이어버그의 군속 시대부터 애기로 전자격투병장 'EM대거'를 착용㊥ 갖추고 있다. ㊥ 베이스 기체의 액시오는 양호한 조종성이 특징이었지만, 파이어 버그는 본 기기를 ㊥ 등에 튠하여 사용하고 있어, 피키한 조종성을 가진다. 반대로 말하면, 본기기를 사지 ㊥와 같이 조종하는 동대대원은, 모든 기동 무기를 타고 갈 수가 있다. ㊥ 또한 '버글러'는 강도를 의미했고, 액시온 재단이 판매했을 때의 이름 ㊥은 '나이트 버드'였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00252/Sheet1/000008",
+      "sourceBindingSha256": "b92f71c30b546fa9313c2548c1be013dba3923f4aa2e8291c14005ff846677dd",
+      "sourceTextSha256": "50f5d65d57290f7542201743eb314ab3440188a934e8ee36a4b4b41933c840f0",
+      "freshTranslation": "사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00252/Sheet1/000009",
+      "sourceBindingSha256": "d8e5e7097e4ac5abe78a0efae7de0f9c5ec5bd946ecf98300435f20688a4cda9",
+      "sourceTextSha256": "037228ba8c42d5de6621e6a5bfa6463793400716baa0a388435a68f54fdbeadc",
+      "freshTranslation": "기동 무기 베스트셀러, 악시오 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00252/Sheet1/000010",
+      "sourceBindingSha256": "f24b4ccc293470e1d055253eaf521c25fe070167a0c3ecfb6b371accfad42499",
+      "sourceTextSha256": "4cd18752c95e31a800267ced063ed59d75d6c090e59ce476f387b50f80ab6830",
+      "freshTranslation": "입. ㊥ 철저한 경량화와 스텔스성과 통신 성능의 강화를 도모한 특무 사양 버전으로 ㊥ 매우 비싼 모델. ㊥특수부대 파이어버그의 군속 시대부터 애기로 전자격투병장 'EM대거'를 착용㊥ 갖추고 있다. ㊥ 베이스 기체의 액시오는 양호한 조종성이 특징이었지만, 파이어 버그는 본 기기를 ㊥ 등에 튠하여 사용하고 있어, 피키한 조종성을 가진다. 반대로 말하면, 본기기를 사지 ㊥와 같이 조종하는 동대대원은, 모든 기동 무기를 타고 갈 수가 있다. ㊥ 또한 '버글러'는 강도를 의미했고, 액시온 재단이 판매했을 때의 이름 ㊥은 '나이트 버드'였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

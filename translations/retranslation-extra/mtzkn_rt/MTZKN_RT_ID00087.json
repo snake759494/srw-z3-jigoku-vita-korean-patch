@@ -1,0 +1,192 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00087",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00087/Sheet1/000002",
+      "sourceBindingSha256": "ef07c82070e3486a1f8e9d46854a0f2d953bbdefc963f53ea60bf7679bfd60c9",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00087/Sheet1/000003",
+      "sourceBindingSha256": "043e59affec695cf37897c60fe30278fe638637fda6463b623fc98fd6ee887e4",
+      "sourceTextSha256": "67b70568dbec447cef061e30229fcc9b30420671e47ae2d2a16a4ff8b85b3696",
+      "freshTranslation": "시난주",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00087/Sheet1/000004",
+      "sourceBindingSha256": "71514fcbab6e43c82a3c4a9e1eecd434700b4cc1c41a307dd8203d359fbd917f",
+      "sourceTextSha256": "67b70568dbec447cef061e30229fcc9b30420671e47ae2d2a16a4ff8b85b3696",
+      "freshTranslation": "시난주",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00087/Sheet1/000005",
+      "sourceBindingSha256": "5cdfc365cbd6c1934ef4b7dbcaf8c8137c430bbbd13407ef12acfa8119332b0c",
+      "sourceTextSha256": "8ceea6803e4dfa87c2ca53b713da6b3d2807b0bd38cfa8be06eb41d84599a17a",
+      "freshTranslation": "풀 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00087/Sheet1/000006",
+      "sourceBindingSha256": "c6de3681ccbd1ca351560844a7446ae801cf8702658d2891c3933854f5f18b4c",
+      "sourceTextSha256": "8ceea6803e4dfa87c2ca53b713da6b3d2807b0bd38cfa8be06eb41d84599a17a",
+      "freshTranslation": "풀 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00087/Sheet1/000007",
+      "sourceBindingSha256": "35c1962f5aea20f18fd0a07e4e3303c2e1b01a0552b7b6438e7e76c77ba4ecfa",
+      "sourceTextSha256": "4838bd7af32dacedac3a29e7f73c01fa29156d5d668adc6b7fe4c2cd181d90f5",
+      "freshTranslation": "르 전용의 모빌 슈트. ㊥ 애너하임 일렉트로닉스사에서 개발되고 있던 프로토타입 모빌 슈트를 소매 첨부가 강㊥ 빼앗아, 독자적인 개수와 장식을 베풀어",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00087/Sheet1/000008",
+      "sourceBindingSha256": "a4cdbcb575ae89211ac88c2daee7d3d930e922c6518cc59544e35adf171d820b",
+      "sourceTextSha256": "9c53ac38df4cc84e7589e8c0f53d58e972960447008cb6da54c4f81249bae86f",
+      "freshTranslation": "사용하고 있습니다. ㊥ 이동식 프레임에 사이코 프레임을 사용하는 실험기로 본 기기에서 얻은 ㊥ 데이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00087/Sheet1/000009",
+      "sourceBindingSha256": "674d8ffa7556da26fff51eac7e6997768500cfda02c4efef836bea2212cd7e3e",
+      "sourceTextSha256": "d3fd36abc977b312ba2abb94b658bfba56f8b1266b26f2b9f27ca055581e3b5e",
+      "freshTranslation": "는 유니콘 건담의 개발에도 도움이 되고 있다. ㊥ 한계 성능을 테스트하기 위해 인간이 탑승하는 것조차도 상정하지 않았다고 해도 ㊥ 있어, 사이코 프레임이 가져오는 추종성과 날개를 생각하게 하는 2쌍의 플렉시블 스 ㊥ 라스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00087/Sheet1/000010",
+      "sourceBindingSha256": "83b40a256c6170391e11c4d4754b3bae2dc21713a6512331880315df6abd4cfb",
+      "sourceTextSha256": "79c51449b347c51ef2eb87512fa9449e6ca98ce7a11dfd336fd7dbf2bd807d5f",
+      "freshTranslation": "-로부터 얻을 수 있는 기동성에 의해, 압도적인 전투력을 자랑한다. ㊥ 그 속도와",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00087/Sheet1/000011",
+      "sourceBindingSha256": "ca2469c397ad7f3527cf6f039a146321890e555c6dadb8f3c060a2f1c8e48ec5",
+      "sourceTextSha256": "27755a2e514c19acc79434679b9c232ef90edfc048ce093d13fb9d08cdcfc014",
+      "freshTranslation": "홍의 기체색에서 보는 사람에게 「붉은 혜성」을 상기시킨다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00087/Sheet1/000012",
+      "sourceBindingSha256": "23a346577d46868e9c0980ef3624cd07fd54ceb77faa15bd77d76a01ae0e8c92",
+      "sourceTextSha256": "8ceea6803e4dfa87c2ca53b713da6b3d2807b0bd38cfa8be06eb41d84599a17a",
+      "freshTranslation": "풀 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00087/Sheet1/000013",
+      "sourceBindingSha256": "0a5b68457f373b77f54b77605a000c4d2c22b13e7a6234d55b45eeb47bcda2ad",
+      "sourceTextSha256": "4838bd7af32dacedac3a29e7f73c01fa29156d5d668adc6b7fe4c2cd181d90f5",
+      "freshTranslation": "르 전용의 모빌 슈트. ㊥ 애너하임 일렉트로닉스사에서 개발되고 있던 프로토타입 모빌 슈트를 소매 첨부가 강㊥ 빼앗아, 독자적인 개수와 장식을 베풀어",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00087/Sheet1/000014",
+      "sourceBindingSha256": "36a2298f82fc8f2ae05d6b0e37b38fd4ddc5dcee8bf00b2777e09673bec1c110",
+      "sourceTextSha256": "9c53ac38df4cc84e7589e8c0f53d58e972960447008cb6da54c4f81249bae86f",
+      "freshTranslation": "사용하고 있습니다. ㊥ 이동식 프레임에 사이코 프레임을 사용하는 실험기로 본 기기에서 얻은 ㊥ 데이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00087/Sheet1/000015",
+      "sourceBindingSha256": "d11695dd5fe384c5960483d7ac6ddd18971c343bf4919376851f4373ca35c488",
+      "sourceTextSha256": "d3fd36abc977b312ba2abb94b658bfba56f8b1266b26f2b9f27ca055581e3b5e",
+      "freshTranslation": "는 유니콘 건담의 개발에도 도움이 되고 있다. ㊥ 한계 성능을 테스트하기 위해 인간이 탑승하는 것조차도 상정하지 않았다고 해도 ㊥ 있어, 사이코 프레임이 가져오는 추종성과 날개를 생각하게 하는 2쌍의 플렉시블 스 ㊥ 라스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00087/Sheet1/000016",
+      "sourceBindingSha256": "3c91e73e81d63ae72c073405da33a92078d2dc3a4bf40b85fa6eac6f410aa80f",
+      "sourceTextSha256": "79c51449b347c51ef2eb87512fa9449e6ca98ce7a11dfd336fd7dbf2bd807d5f",
+      "freshTranslation": "-로부터 얻을 수 있는 기동성에 의해, 압도적인 전투력을 자랑한다. ㊥ 그 속도와",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00087/Sheet1/000017",
+      "sourceBindingSha256": "854f1d41dd25a4513acdecffdbb003e6c12bd462a87149c082abfb42d1f2c37b",
+      "sourceTextSha256": "27755a2e514c19acc79434679b9c232ef90edfc048ce093d13fb9d08cdcfc014",
+      "freshTranslation": "홍의 기체색에서 보는 사람에게 「붉은 혜성」을 상기시킨다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00265",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00265/Sheet1/000002",
+      "sourceBindingSha256": "6ec642563a6c6c28d9fda6191055a60f35885c442e9a8ed6bd3a0f79de0c9299",
+      "sourceTextSha256": "4e41b30d86288b7ad8423c067d48c8f84918fc8d71cb45ee827203940b508815",
+      "freshTranslation": "치도리 카나메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00265/Sheet1/000003",
+      "sourceBindingSha256": "fc3d45a6a5bca80529f2af9ffe0388193b753149c03114b396cbdebcb027fe58",
+      "sourceTextSha256": "5522eea27f7d2d12d5887c99d046be62e139b7e41d8a08fdd04c47ebb78d7856",
+      "freshTranslation": "카나메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00265/Sheet1/000004",
+      "sourceBindingSha256": "18be1cd0279be69f48e33e3c2bda6b26ff6342b37cd392238f4fc75ad725ab9c",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00265/Sheet1/000005",
+      "sourceBindingSha256": "f7ba6a5bd6057d6168e1d3e687faa35e4aade35e31eb2164ad69fe5e280e3416",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00265/Sheet1/000006",
+      "sourceBindingSha256": "1f00217b7f18da791123613f23ee7eb2e8e5d226d171909d945ecb80d2399734",
+      "sourceTextSha256": "ef99cec8235db1236def352fb5f2881e5829231134899521dea01d17fdedfffc",
+      "freshTranslation": "유키노 5월",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00265/Sheet1/000007",
+      "sourceBindingSha256": "1727af2b0afb5bfa3400f09844434375f8798cfe772dc56154aa35b75d445dcd",
+      "sourceTextSha256": "b7402bb8b5db3d2d4ccd08783cc990b83a2ec318bc5294dc949d5df1d9357e1e",
+      "freshTranslation": "진대 고등학교에 다니는 여고생. 16세. ㊥2년 4조의 학급 위원이며, 학생회 부회장도 맡는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00265/Sheet1/000008",
+      "sourceBindingSha256": "fb7626d795a530f140bd5127df633102ed2f316dc2ec313389fb023f50d79f6a",
+      "sourceTextSha256": "8dc84f22b17bdb480322a4071453312a4fd38bc83fbe8fb67e9d27453a6b0e57",
+      "freshTranslation": "동신경 뛰어난 각",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00265/Sheet1/000009",
+      "sourceBindingSha256": "1199efb0a473a0fcd3e3fed19cc0117bbd146d192a58944a8c2af55965792e92",
+      "sourceTextSha256": "4357cdf8ee1719927121d36a9dcb1bec9976d2575b57ac87497d83f1b40dfeb6",
+      "freshTranslation": "동부의 ㊥ 경기가 가까워지면 도움을 받을 수 있을 정도다. ㊥성격은 뒤표가 없고, 돌보는 좋아하고 활발. '연인으로 하고 싶지 않은 아이돌 넘버 1'과 ㊥라는 고마운 칭호를 갖지만 남자 여자를 불문하고 신뢰받고 있는 인기자이다. ㊥ 전입생인 소스케의 이상한 언동에 휘두르지만, 이 만남은 그녀의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00265/Sheet1/000010",
+      "sourceBindingSha256": "9ec8f48a079fe100415d4196bbab4c139811d97a862f761351b5a20ff875f797",
+      "sourceTextSha256": "45452d759e0e0d8947f0b9ac99890d3113f88931b320133985399cbd4e2e83fb",
+      "freshTranslation": "생명을 크고 ㊥로 바꾸게 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00265/Sheet1/000011",
+      "sourceBindingSha256": "60d09cca728434a56fd280fbfd8e1cb54271754e716165d67daff4da6bfebec4",
+      "sourceTextSha256": "b7402bb8b5db3d2d4ccd08783cc990b83a2ec318bc5294dc949d5df1d9357e1e",
+      "freshTranslation": "진대 고등학교에 다니는 여고생. 16세. ㊥2년 4조의 학급 위원이며, 학생회 부회장도 맡는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00265/Sheet1/000012",
+      "sourceBindingSha256": "2e96340bb8418a76528280c0b91c4131e240669ed6b8aa7f27c6fa26bcb66696",
+      "sourceTextSha256": "8dc84f22b17bdb480322a4071453312a4fd38bc83fbe8fb67e9d27453a6b0e57",
+      "freshTranslation": "동신경 뛰어난 각",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00265/Sheet1/000013",
+      "sourceBindingSha256": "ff7980d1662156f2b14e32eb7a92de7c9145490611b3b51311f1c92b4e4618f7",
+      "sourceTextSha256": "4357cdf8ee1719927121d36a9dcb1bec9976d2575b57ac87497d83f1b40dfeb6",
+      "freshTranslation": "동부의 ㊥ 경기가 가까워지면 도움을 받을 수 있을 정도다. ㊥성격은 뒤표가 없고, 돌보는 좋아하고 활발. '연인으로 하고 싶지 않은 아이돌 넘버 1'과 ㊥라는 고마운 칭호를 갖지만 남자 여자를 불문하고 신뢰받고 있는 인기자이다. ㊥ 전입생인 소스케의 이상한 언동에 휘두르지만, 이 만남은 그녀의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00265/Sheet1/000014",
+      "sourceBindingSha256": "e64b50a68b1b591b39901d0a23061ae80c2c144e722b526e27b059c74aa67504",
+      "sourceTextSha256": "b0096abaffbf1906b8b728a608a4ff34fd44af97d727c52914f44e87f6f978a7",
+      "freshTranslation": "생명을 크고 ㊥로 바꾸게 된다. ㊥ 본인에게 자각은 없었지만, 존재하지 않을 과학 기술 '블랙 테크놀로지'를 ㊥ 아는 '위스퍼드'라고 불리는 자였고, 소스케는 그 힘을 노리는 조직으로부터 그녀를 호위㊥하기 위해 파견된 에이전트였다. ㊥ 이후 그녀와 소스케는 가울룬을 비롯한 다양한 적과 싸워가게 되고, 그 ㊥중에서 서로 마음을 다니게 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

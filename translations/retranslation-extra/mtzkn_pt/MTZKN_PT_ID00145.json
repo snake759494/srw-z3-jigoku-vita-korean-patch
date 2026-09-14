@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00145",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00145/Sheet1/000002",
+      "sourceBindingSha256": "0d19b787623def53ee0358a046dfe606a8e20ae2f8e0060a8a815a558d17c8da",
+      "sourceTextSha256": "724bec17a5cc35b434d73e7da561053dc73469c55589dd197951dd83acd255c6",
+      "freshTranslation": "수베로아 진네만",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00145/Sheet1/000003",
+      "sourceBindingSha256": "cbd7d4543b167483b9d1597cc0d8108389d8e65a010cd21a4e3c1cb36cc58106",
+      "sourceTextSha256": "8944b01b1fca445c7c63ebbd810f2125c1c284915cd32dda4ffb7b022b275f55",
+      "freshTranslation": "진네만",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00145/Sheet1/000004",
+      "sourceBindingSha256": "9232003b10b9d1959f25352ea1ae0b822a3970332455211a75c60bfad2bcf829",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00145/Sheet1/000005",
+      "sourceBindingSha256": "d8f086fb407d26f3af7059f09d2c1e654da8eb9c358faea6208f52458d9cf169",
+      "sourceTextSha256": "fcae71bb2bb231ef8d2d773a6fafdce36dfe5a61858a560a95e364d284e32338",
+      "freshTranslation": "데즈카 히데아키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00145/Sheet1/000006",
+      "sourceBindingSha256": "a42149a710f5b1fc4a4efdef122b9c62249be0409f6d6da88e72ca3ffe5c64b4",
+      "sourceTextSha256": "1581aada4b78c05d83bd7fbf67799c6537cdfe87d96a95b79dfb8a3fd2afdff2",
+      "freshTranslation": "네오지온 소유의 위장화물선 갈란셰르의 선장이며 갈란셰르대대 ㊥장. 52세. ㊥ 1년 전쟁에서 지온군에 소속된 베테랑의 군인. 황사에도 익숙한 역전의 병사로 ㊥ 하지만, 그 경험과 회의 깊이에 의해 부하로부터는 「캡틴」이라고 불려 몹시 ㊥ 있다. ㊥ 특히 마리다는 과거에 구해진 이래로 그를 \"매스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00145/Sheet1/000007",
+      "sourceBindingSha256": "0f6a745ddb9f47de4656b97ee27bfdc28b5f1ebfe1158df46f8271ccaeec3d85",
+      "sourceTextSha256": "1b1af4815d6bc66ddc42b56eb99510587732e4da560c8fa2c31ea892e9abcaf0",
+      "freshTranslation": "- \"라고 불렀다.㊥있습니다.㊥인더스트리얼 7에 \"라플라스의 상자\"수령의 목숨을 받아 잠입했지만 전투에 감기㊥담긴 일로 협상은 결렬. 이후 \"라플라스의 상자\"를 따라 네엘 아가마를 따라㊥자취한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00145/Sheet1/000008",
+      "sourceBindingSha256": "21cefb78a8fa1b5975f7c96e4cb5654e93cfc5121d5312913f230d7c68fd33b3",
+      "sourceTextSha256": "cc0aee6e1fcf963c6b287b96d15882582a8c037371194d2d6e231f5e550c2866",
+      "freshTranslation": "네오지온 소유의 위장화물선 갈란셰르의 선장이며 갈란셰르대대 ㊥장. 52세. ㊥ 1년 전쟁에서 지온군에 소속된 베테랑의 군인. 황사에도 익숙한 역전의 병사로 ㊥ 하지만, 그 경험과 회의 깊이에 의해 부하로부터는 「캡틴」이라고 불려 몹시 ㊥ 있다. ㊥ 1년 전쟁 후 연방군에게 고향의 거리 장갑을 유린되어 아내와 딸을 죽이고 있어 연방㊥에 강한 증오를 안고 있다. ㊥ 특히 마리다는 과거에 구해진 이래로 그를 \"매스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00145/Sheet1/000009",
+      "sourceBindingSha256": "8b54730d8e58026c52e2c17916d549403b4cca2fd3733def5daec497ebdcb4ad",
+      "sourceTextSha256": "d8cc4b441c1a12bb9bc79c5ea60462432ec95657c4b5003eac08776aa7ecb71b",
+      "freshTranslation": "- \"라고 불렀다.㊥있습니다. 또 진네만도 내심에서는 마리다를 열매의 딸처럼 느끼고 있다.㊥인더스트리얼 7에 \"라플라스의 상자\"수령의 목숨을 받아 잠입했지만 전투에 감기㊥담긴 일로 협상은 결렬. 이후 \"라플라스의 상자\"를 따라 네엘 아가마를 따라㊥자취한다.㊥라플라스의 잔해 전투에서 지구에 떨어지는 유니콘을 회수하는 것도 갤런 셰이㊥르는 지상에 낙하해, 중파해 버린다. 구호를 부르기 위해 사막을 배너지로 여행하는 동안㊥그와 마음을 통하게 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

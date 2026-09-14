@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00400",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00400/Sheet1/000002",
+      "sourceBindingSha256": "9eea731da15199d46b9e108a101487d1c4c2e9df1606df9dc415ee5df6943a69",
+      "sourceTextSha256": "af441cd351d1b34015435c39155813c44a7720e762b1cc4f65d035551f78a79a",
+      "freshTranslation": "왕",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00400/Sheet1/000003",
+      "sourceBindingSha256": "9c9a4cfba2ef07f7add44e7b044388057f7654ef57c08b8007ee90d221456b1f",
+      "sourceTextSha256": "af441cd351d1b34015435c39155813c44a7720e762b1cc4f65d035551f78a79a",
+      "freshTranslation": "왕",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00400/Sheet1/000004",
+      "sourceBindingSha256": "f316d04764d0a6a9d3440f9cad6b596be49db2d4416ad3d787f6449f82bedbde",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00400/Sheet1/000005",
+      "sourceBindingSha256": "a0efadd0487d73e4a5f36efa6c71079cc97ab16b3d8d0178a11c51717ff85e6f",
+      "sourceTextSha256": "d7d2e28fcb7b729e662d7c4be78641975a230cad6c39fe9723750537ec445a04",
+      "freshTranslation": "「인류의 진화를 감시하는 사람」을 자칭하는 수수께끼의 조직, 크로노의 구성원. 크로노 최고 ㊥ 의사결정기관인 13명 평의회 의장을 맡는다. ㊥ 크로노 구성원은 한자리를 만날 때조차 모습을 드러내지 않고 코드네임을 본뜬 ㊥ 아이콘을 자신의 대신으로 참석시켜 본인들은 별실에 앞두고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00400/Sheet1/000006",
+      "sourceBindingSha256": "1dfbfe418e4ec9741784e3062829bcdd0c9e0326efe86f0fc21f1230d88fd595",
+      "sourceTextSha256": "340408c49c169b2ee2de818af21a10534057ac58e85dc1b846dd40eb82e5552b",
+      "freshTranslation": "「인류의 진화를 감시하는 자」를 자칭하는 수수께끼의 조직, 크로노 보수파의 구성원. 크로노㊥의 최고 의지 결정 기관인 13명 평의회의 의장을 맡는다. ㊥ 크로노 구성원은 한자리를 만날 때조차 모습을 드러내지 않고 코드네임을 본뜬 ㊥ 아이콘을 자신의 대신으로 참석시켜 본인들은 별실에 앞두고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

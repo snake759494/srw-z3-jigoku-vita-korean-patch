@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00287",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00287/Sheet1/000002",
+      "sourceBindingSha256": "97d9175c8a8141ab9867c4639bb1a151592f6074efe8030c65cec434a40c9e7e",
+      "sourceTextSha256": "f5a058f429a3e1344eebd29706dbf2c2370d77d43e8fafa9d61c66a420d0d6f3",
+      "freshTranslation": "레이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00287/Sheet1/000003",
+      "sourceBindingSha256": "0282d34d836423fe3587aa8937d55fa24275cbf70901c335b23d5dd0a34072d1",
+      "sourceTextSha256": "f5a058f429a3e1344eebd29706dbf2c2370d77d43e8fafa9d61c66a420d0d6f3",
+      "freshTranslation": "레이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00287/Sheet1/000004",
+      "sourceBindingSha256": "dfcc7f22fa0e6cb0db9b11618fb7b06a73db89184f1514457b90b5b6e2305ad2",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00287/Sheet1/000005",
+      "sourceBindingSha256": "6299588cd17fc4aa9432b916d11866736836c0172517f85778a4a8144b5a3c38",
+      "sourceTextSha256": "6cbead29f5f3666f5882c4fd6c0d7e56e8208850dd34efe1c72cd7834907e4e2",
+      "freshTranslation": "르 패닉! TheSecondRaid",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00287/Sheet1/000006",
+      "sourceBindingSha256": "0666e5f03770197fbe18e3e71b1fe315f5b66f85d8d7999f5cf3cd16137df9bb",
+      "sourceTextSha256": "35823ce43efe39621e5f60f8a5f17abe198db11a8e141f36ded38cac27f7694a",
+      "freshTranslation": "미스릴 정보부의 부원. 레이스는 코드 네임. ㊥ 위스퍼드인 치도리 카나메가 다른 기관에 건너는 것을 저지하는 작전 「가디언・㊥엔젤」에 종사. 소스케와 병행하여 비밀리에 그녀의 호위를 하고 있었다. ㊥ 변장의 명수로 다양한 얼굴과 목소리를 가진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00287/Sheet1/000007",
+      "sourceBindingSha256": "a9254ec00f34aa62bffa79d3e84950dd8df1b0a68876c8ad4ad9e583e1901523",
+      "sourceTextSha256": "12ffcdc726864849287a7207f92b4f74209507415cecff7605a9b859ed39003f",
+      "freshTranslation": "미스릴 정보부의 부원. 레이스는 코드 네임. ㊥ 위스퍼드인 치도리 카나메가 다른 기관에 건너는 것을 저지하는 작전 「가디언・㊥엔젤」에 종사. 소스케와 병행하여, 비밀리에 그녀의 호위를 하고 있었지만, 양자의 사이에㊥에 제휴는 없고, 소스케는 그 존재를 알려지지 않았다. ㊥ 변장의 명수로, 다양한 얼굴과 목소리를 갖고, 카나메가 접촉했을 때에는 눈에 띄지 않는 중년 남성㊥에 분장하고 있었다. ㊥타마란이 카나메를 습격할 때에는 총격을 받고 부상을 당하고 사실상 임무에 실패한다. ㊥ 가나메가 자력으로 위기를 뚫었을 때에는 스스로의 불갑당한 슬픔이었지만, 참으로 ㊥ 질타당해 그녀를 홍콩까지 데려갔다. ㊥ 덧붙여 그 정체는 여성이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

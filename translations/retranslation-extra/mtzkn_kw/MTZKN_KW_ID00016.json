@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00016",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00016/Sheet1/000002",
+      "sourceBindingSha256": "f0b54d2f499381cfad6bfbe23f859c55db2ee0c5d03ed3ad5565a7f1febb2175",
+      "sourceTextSha256": "914af5dcbc8c0b6cb94015d0f98c70513418c5ec15557e2cb76c03973f5ce3bb",
+      "freshTranslation": "\"풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00016/Sheet1/000003",
+      "sourceBindingSha256": "89fbf0737c273b4ddd217e27a3a40b0615b0380b015c526fa099d4af6bb8c83d",
+      "sourceTextSha256": "983aba52bd5705db667e47e82a5457e818e6c23cd7092b5947890b663276695d",
+      "freshTranslation": "르 패닉! \"",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00016/Sheet1/000004",
+      "sourceBindingSha256": "547d6618bcf1ff6e7c0e15591f8c5003a1686bc0b135e1ac3a2464e349d05bed",
+      "sourceTextSha256": "758af2bf35b8e885e7ec33e28e334beb2103a30cfd21046c28d4da5479827c8a",
+      "freshTranslation": "미스릴의 육전 유닛. ㊥ 그 이름은 \"SpecialResponseTeam(특별 대응반)\"㊥의 약어. ㊥ 일반 대원이라고도 할 수 있는 초기 대응반 'PRT'로 대응할 수 없는 작전만 SRT㊥이 담당하게 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00016/Sheet1/000005",
+      "sourceBindingSha256": "ebb02b4f7a7e713f291e4d3a3b5446012f1fa70b9cd6c94268e9124a3f3d5b3e",
+      "sourceTextSha256": "758af2bf35b8e885e7ec33e28e334beb2103a30cfd21046c28d4da5479827c8a",
+      "freshTranslation": "미스릴의 육전 유닛. ㊥ 그 이름은 \"SpecialResponseTeam(특별 대응반)\"㊥의 약어. ㊥ 일반 대원이라고도 할 수 있는 초기 대응반 'PRT'로 대응할 수 없는 작전만 SRT㊥이 담당하게 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

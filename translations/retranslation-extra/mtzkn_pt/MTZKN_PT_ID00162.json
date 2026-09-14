@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00162",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00162/Sheet1/000002",
+      "sourceBindingSha256": "1e3ab0d4e4b76da8cf2fb3b4cd198d82bbb8d18f29f8b2eb5be3ad72293e6673",
+      "sourceTextSha256": "482394795017d8dad1eff3846476368c015097bcf8f3cdd1b3dc96faba235544",
+      "freshTranslation": "개엘 장",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00162/Sheet1/000003",
+      "sourceBindingSha256": "ff91e125a5a1cb43961bb9fd6c7b76edb95afca1647bccedcff24db0f141c4d6",
+      "sourceTextSha256": "f319fb80f3641857c115f2c7418fd3d2c46f1a749690b723b4a12849d9108fdb",
+      "freshTranslation": "개구리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00162/Sheet1/000004",
+      "sourceBindingSha256": "a07b3f9a1e2848ed040d326de9e4ce23658696a9ddf60d556466c7064b7a8878",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00162/Sheet1/000005",
+      "sourceBindingSha256": "b135c4c32ba8c6021eccc1f2f3456155e7a90504a0d1018522f9bcb3e00dc3b1",
+      "sourceTextSha256": "e8b657e901616262eb1e8b8d544e963db890a852b169ed9e715b91e19249cad9",
+      "freshTranslation": "카디아스 비스트의 비서. 연령 불상. ㊥ 전 연방의 군인이기도 하고 보디 가드도 겸하고 있다. ㊥카디아스의 신뢰는 두껍고, 'UC계획'의 기밀관리도 하고 있었다. 그의 사후에는 비㊥스트 재단의 초대 당주 시암 비스트 아래에서 일의 성취를 지켜보고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00162/Sheet1/000006",
+      "sourceBindingSha256": "d6973397a2ed848aad2435a21f4ecb1749f1d6e9cbd61e28ca0f58c4459b6e0e",
+      "sourceTextSha256": "e8b657e901616262eb1e8b8d544e963db890a852b169ed9e715b91e19249cad9",
+      "freshTranslation": "카디아스 비스트의 비서. 연령 불상. ㊥ 전 연방의 군인이기도 하고 보디 가드도 겸하고 있다. ㊥카디아스의 신뢰는 두껍고, 'UC계획'의 기밀관리도 하고 있었다. 그의 사후에는 비㊥스트 재단의 초대 당주 시암 비스트 아래에서 일의 성취를 지켜보고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00226",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00226/Sheet1/000002",
+      "sourceBindingSha256": "d1e52462bf04ef40132e1b2bfe53fd52a598cd989b950066cbee634d9d61b16d",
+      "sourceTextSha256": "c51e726a923e38bad508a7f7eff88d5eae088d7e88a3edaed50d2e119c6d7c99",
+      "freshTranslation": "나카하라 치아키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00226/Sheet1/000003",
+      "sourceBindingSha256": "89be511d5b8c750ed9ac138a22c0a1dcbaee93418f13f81f18b0a9e23e0e4956",
+      "sourceTextSha256": "1d9ea4e04ea95536526844b3dfd3de4d793230afd989345200d66cf90a97b8cb",
+      "freshTranslation": "나카하라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00226/Sheet1/000004",
+      "sourceBindingSha256": "f68a5ff10b102eab87dbc48b04a31c837e4ba0209476ef169faa5e8daa335df4",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00226/Sheet1/000005",
+      "sourceBindingSha256": "3a97599e3ed110df809157fabf4dc716d81be6b0c34423abe673af02e161eafa",
+      "sourceTextSha256": "7bc1230deaf4c0804553af4299b7fdc2611250172227d719d518363be4fdea9c",
+      "freshTranslation": "홍보 2과의 여자 과원. 25세. ㊥ 어린 외모 대로의 아이 같은 곳이 있지만, 머리의 회전은 빠르고, 과내에서는 경리를 담당㊥ 하고 있다. ㊥ 사물을 믿기 쉬운 성격으로, 이리에는 잘 속아 놀리고 있다. ㊥ 연애에 관해서는 깊은 것 같아, 아오야마의 일을 의식하면서도 좀처럼 적극적인 행동에 나와㊥ 할 수 없었지만, 행동을 함께 하는 안에 서서히는 하지만 그 거리를 줄여 간다. ㊥ 후에 캥갸르의 전형을 하는 아오야마에서 파일을 다루겠다는 질투심을 드러내 ㊥한 행동을 취해 주위를 놀라게 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00226/Sheet1/000006",
+      "sourceBindingSha256": "593f8c842ca7cbeb3fdd7b6b716e5643d8b24924fb9f92a418f267c70d82073b",
+      "sourceTextSha256": "7bc1230deaf4c0804553af4299b7fdc2611250172227d719d518363be4fdea9c",
+      "freshTranslation": "홍보 2과의 여자 과원. 25세. ㊥ 어린 외모 대로의 아이 같은 곳이 있지만, 머리의 회전은 빠르고, 과내에서는 경리를 담당㊥ 하고 있다. ㊥ 사물을 믿기 쉬운 성격으로, 이리에는 잘 속아 놀리고 있다. ㊥ 연애에 관해서는 깊은 것 같아, 아오야마의 일을 의식하면서도 좀처럼 적극적인 행동에 나와㊥ 할 수 없었지만, 행동을 함께 하는 안에 서서히는 하지만 그 거리를 줄여 간다. ㊥ 후에 캥갸르의 전형을 하는 아오야마에서 파일을 다루겠다는 질투심을 드러내 ㊥한 행동을 취해 주위를 놀라게 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

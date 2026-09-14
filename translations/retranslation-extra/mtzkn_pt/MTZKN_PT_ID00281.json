@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00281",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00281/Sheet1/000002",
+      "sourceBindingSha256": "e715afb3f91650a3d59a8bc9db844440a129a98fdf24e250524ee35fd470c0b5",
+      "sourceTextSha256": "ecc2ee061a2f3b998083b2b46ef6a3bb9f466d413c167689cdd460e65063ff3d",
+      "freshTranslation": "대관선치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00281/Sheet1/000003",
+      "sourceBindingSha256": "15364ee2cdb0d78bf3d063acf5807c7258d2cfe8ffd79854cb7f7f6644b64033",
+      "sourceTextSha256": "9ecf2aa9ec1eeb205a33bb02e75f74d8b023aae4b9618957ba3b4f4355847aa0",
+      "freshTranslation": "오오츠키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00281/Sheet1/000004",
+      "sourceBindingSha256": "5397665a16b556a97c21ad0bf0e4b5a4f4112c5fb094c7967efd4c8b19351967",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00281/Sheet1/000005",
+      "sourceBindingSha256": "552a60c2e7cd9302bd20d791ac772052b7c43a35933c4ce682bbca29aa951f50",
+      "sourceTextSha256": "9e9b34d92f4bc3a617bf9dfd80231d1ec66843cd2c627f4c27236be52d8cde21",
+      "freshTranslation": "르 패닉? 후모후",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00281/Sheet1/000006",
+      "sourceBindingSha256": "f36c618c5038e9cf6834eb38a2e6c5f150979569f919e0d9a34e409a9ead39df",
+      "sourceTextSha256": "d6973a8c542f46255b7e461969126f47f46d7bccd6d6ab47ed34f4087fbec209",
+      "freshTranslation": "진대 고등학교의 임원. ㊥ 온화한 성격이지만, 최근의 젊은이에 대해서 실망하고 있는 절이 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00281/Sheet1/000007",
+      "sourceBindingSha256": "eed93a3755fcea09913ce31e277bc0d8d5d29a912472c98b51caa1e2f732396b",
+      "sourceTextSha256": "5ad23bb0484c44bd11eac034d3ed152b7e95a0ae9bb4fa9103ed68c8889a506e",
+      "freshTranslation": "진대 고등학교의 임원. ㊥ 온화한 성격이지만, 최근의 젊은이에 대해서 실망하고 있는 절이 있다. ㊥ 소스케와 일성의 싸움에 휘말려 부상을 입거나 손자동연히 키웠던 잉어를 두 사람 ㊥에 요리 받은 결과, 평소 노인연한 모습에서 텐션이 높은 살인귀(의요㊥ 우나 분위기). 전기톱을 휘두르며 밤새 종자와 일성을 쫓아 ㊥하고 두 사람을 마음 밑에서 공포시켰다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

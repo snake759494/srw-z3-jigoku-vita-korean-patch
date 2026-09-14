@@ -1,0 +1,139 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0043",
+    "fileName": "STG0043.cpk",
+    "target": "DATA/STAGE/STG0043.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "c2068e323b11de2648a806f53e950e89622eecfc77025982beb3fb5b37395611"
+  },
+  "entries": [
+    {
+      "entryId": "STG0043/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "4턴 이내에 넬·아가마를 앞쪽(우측) 포인트에\n다구자와 카미유를 팔라우(좌측) 포인트에 도달시킨다",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0043/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0043/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "다구자 또는 카미유의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0043/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "5턴째를 맞이한다",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0043/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "???",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0043/ID00001/OPERATE_TBL/str_tbl/005",
+      "sourceId": 5,
+      "translation": "적의 전멸",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0043/ID00001/OPERATE_TBL/str_tbl/006",
+      "sourceId": 6,
+      "translation": "버나지 또는 카미유의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0043/ID00001/OPERATE_TBL/str_tbl/007",
+      "sourceId": 7,
+      "translation": "등장에서 2턴 이내에 크샤트리아, 야쿠트·도가(규네이),\n야쿠트·도가(퀘스) 중 어느 쪽이든 2기를 격추시킨다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0043/ID00001/OPERATE_TBL/str_tbl/008",
+      "sourceId": 8,
+      "translation": "적(유니콘 건담을 포함)의 전멸",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0043/ID00001/OPERATE_TBL/str_tbl/009",
+      "sourceId": 9,
+      "translation": "카미유의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0043/ID00001/OPERATE_TBL/str_tbl/010",
+      "sourceId": 10,
+      "translation": "카미유 또는 버나지의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00063",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00063/Sheet1/000002",
+      "sourceBindingSha256": "72521c3c95b25f6db61746ad01b117de7ea2ef8ec5309f4b76cd1921e7d1e156",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00063/Sheet1/000003",
+      "sourceBindingSha256": "d8fe760595c82eccc0e3ddb88daa0dc44d7f935665ae5758e9c36617c40893ec",
+      "sourceTextSha256": "78fbadc5a747974166eb368883a4b0083bbfb2280c6e2159a80e14adb0c1ef50",
+      "freshTranslation": "서펜트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00063/Sheet1/000004",
+      "sourceBindingSha256": "5b1eadf9364ced25059ae820ea699b2715cc33f7b99a728e3c16082c3e9697a9",
+      "sourceTextSha256": "78fbadc5a747974166eb368883a4b0083bbfb2280c6e2159a80e14adb0c1ef50",
+      "freshTranslation": "서펜트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00063/Sheet1/000005",
+      "sourceBindingSha256": "736d3ddbfe158b456da4d11dc1c548d270ed63fdc0b63fb13c31c9c401c195ed",
+      "sourceTextSha256": "9187590675398f241bb86e67f0216319f4768125e73d6b9113ff3f6f34a81a10",
+      "freshTranslation": "마리 메이어 군의 주력이 되는 양산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00063/Sheet1/000006",
+      "sourceBindingSha256": "f87c3e2049eacb7447b13537abd2e62e843ec015b919111759fbef987fb4b07d",
+      "sourceTextSha256": "46b3852958152eda22caf24e3c3838cd67fe26ce7ae8312f5db39561e9815fae",
+      "freshTranslation": "무거운 모빌 슈트. ㊥ 건담 헤비 암즈의 개발과 관련된 바튼 재단의 손에 의해 개발되었다. ㊥ 포격전을 자랑하는 기체로, 건담 헤비 암즈 카이와 동",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00063/Sheet1/000007",
+      "sourceBindingSha256": "46d2f7cec3ac3b50be3808a9f4a0668bad2f3b87959ea08f7073fc49ae025314",
+      "sourceTextSha256": "01e28231c2f2a077af95ffef78f75c80c3ef7f363f7f4d47e1a62312511a94c0",
+      "freshTranslation": "의 더블 개틀링㊥건이나 빔 캐논 등 강력한 사격 무기를 휴대할 수 있다. ㊥ 또한 장갑 재질도 건다뉴움 합금과 같은 정도의 경도를 가진 것으로 여겨지는 신소재, 네오 · ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00063/Sheet1/000008",
+      "sourceBindingSha256": "2ac2a6a9d0d6414f04fb33b9408e10897d72caa40ac4e0401069ef097991d314",
+      "sourceTextSha256": "199a23f928ca66ecd41d4d96ff0fd6cb54784d868192da689bf545378c42a3bc",
+      "freshTranslation": "넴 합금이 채용되고 있어 높은 방어력을 가진다. ㊥ 마리 메이어 군의 반란시에는 약 400대 가까이 브뤼셀로 내려 건담 ㊥과 전투했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00063/Sheet1/000009",
+      "sourceBindingSha256": "507eb71ed85699336354448b81c7493997387f8ea0a41cd4d8c9296685537ed2",
+      "sourceTextSha256": "9187590675398f241bb86e67f0216319f4768125e73d6b9113ff3f6f34a81a10",
+      "freshTranslation": "마리 메이어 군의 주력이 되는 양산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00063/Sheet1/000010",
+      "sourceBindingSha256": "9c39bc63b4e1493231ecd1ea3b96995350aaa40a01937d52666ebe036e6ea4cf",
+      "sourceTextSha256": "46b3852958152eda22caf24e3c3838cd67fe26ce7ae8312f5db39561e9815fae",
+      "freshTranslation": "무거운 모빌 슈트. ㊥ 건담 헤비 암즈의 개발과 관련된 바튼 재단의 손에 의해 개발되었다. ㊥ 포격전을 자랑하는 기체로, 건담 헤비 암즈 카이와 동",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00063/Sheet1/000011",
+      "sourceBindingSha256": "5198850e07a4f7b2ab0d32e952df538bbf6bd016abb6254c88c7cf543e85b355",
+      "sourceTextSha256": "01e28231c2f2a077af95ffef78f75c80c3ef7f363f7f4d47e1a62312511a94c0",
+      "freshTranslation": "의 더블 개틀링㊥건이나 빔 캐논 등 강력한 사격 무기를 휴대할 수 있다. ㊥ 또한 장갑 재질도 건다뉴움 합금과 같은 정도의 경도를 가진 것으로 여겨지는 신소재, 네오 · ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00063/Sheet1/000012",
+      "sourceBindingSha256": "f5ae3a28193d844f5274002db3886831bd3616d9335b88c30d275414813945d1",
+      "sourceTextSha256": "199a23f928ca66ecd41d4d96ff0fd6cb54784d868192da689bf545378c42a3bc",
+      "freshTranslation": "넴 합금이 채용되고 있어 높은 방어력을 가진다. ㊥ 마리 메이어 군의 반란시에는 약 400대 가까이 브뤼셀로 내려 건담 ㊥과 전투했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

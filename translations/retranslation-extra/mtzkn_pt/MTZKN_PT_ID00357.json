@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00357",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00357/Sheet1/000002",
+      "sourceBindingSha256": "fa929b0ffcdc7e60550c06250f2d4edb7dd59b1fc26be939a27d2bf2f0ab927a",
+      "sourceTextSha256": "b40f8de117e644be3d8ab8c76b9b5779575051515b39a54c7b5cfa1a85297d19",
+      "freshTranslation": "코드기어스 반역의 루루슈 R2",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00357/Sheet1/000003",
+      "sourceBindingSha256": "9907e226c8a9534e973156b068275736a1b499944b50743f0ad6d65994b6b01a",
+      "sourceTextSha256": "51c4bf06baeae8ecf3714fc359a04382ad6f37beeeaddeea5103c4c49a861e79",
+      "freshTranslation": "유카나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00357/Sheet1/000004",
+      "sourceBindingSha256": "89802b9c7ebb221233daf9529627b174bfcfdaf78831eef173d72de0ce9cee63",
+      "sourceTextSha256": "9f65d1179d2b5fbc778aa8d2dc2e3bae0ee4c55acbf52fab0925859e7c49f0cd",
+      "freshTranslation": "불로불사의 육체와 기어스를 주는 힘 \"코드\"를 가진 소녀. ㊥명은 「씨투」라고 읽는다. ㊥ 자신의 소망을 실현한다는 계약 하에, 그 대가로서 루루슈에 절대 준수의 기어㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00357/Sheet1/000005",
+      "sourceBindingSha256": "5a3960186c2891df052206d6eec0e95b850f6d3eea6843f31d3e948a1fbb5816",
+      "sourceTextSha256": "44f19fcb96c20a326f8b736e45db63911357747f7f07513a859032e2157881c2",
+      "freshTranslation": "네. ㊥ 블랙 리베리온에서 제레미아가 타는 지크 플리트를 치고 각오로 해중㊥에 가라앉아 탈출한다. 그 후, 추격을 피하기 위해 잠복하고 있었지만, 1년의 시간을 거쳐 제㊥로를 탈환하기 위해 카렌 등과 비연 4호 작전을 결행. 봉인된 루루쉬의 기억을 불러 ㊥ 일으키고 0을 부활시켰다. ㊥계약 내용인 단 하나의 소원이란, 스스로가 죽기 위해서 불로 불사의 코드를 그 외 ㊥자에게 계승시키는 일. 루루슈에게 손을 빌려주는 것은 그 지역에 도달할 때까지 기어스의 힘을 ㊥ 성장시키기를 기다리기 위한 것이었다. ㊥ 루루슈가 자격을 얻는 것보다 빨리, 샤를루의 소원을 이루면 들고 ㊥ 루도, C.I. C. 이 거부. 루루슈를 지키기 위해, 그리고 스스로의 진정한 소원을 실현㊥하기 위해서, 불로불사의 코드를 기억과 함께 봉인해 버린다. ㊥ 기억을 잃은 것으로 기어스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00357/Sheet1/000006",
+      "sourceBindingSha256": "371619bef117f4f750550b786b5c123939e62689bd4bf68c71f22f8c9d987bf3",
+      "sourceTextSha256": "eb3ac9e1db98dc61fed6b910cf5eff6e9245b10834388fd0f90307384d387c8c",
+      "freshTranslation": "예전의 상태로 돌아왔지만, 아냐㊥ 안에 숨어 있던 마리안느의 설득을 받아 부활해, 그녀와 함께 카네네지마로 향했다. ㊥C. C. 는 여기서 샤를과 루루슈의 싸움의 일부 시종을 지켜보고, 결국 샤르㊥르 등을 거절하는 것이었다. ㊥ 그 후는 황제가 된 루루슈의 방패로서 옆에 있어 계속 최종 결전에도 참가. ㊥ 제로 레퀴엠을 지켜본 후, 공범자 루루슈의 추억과 함께 어딘가로 여행 ㊥ 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00357/Sheet1/000007",
+      "sourceBindingSha256": "14f3544f99034f699632191746c212815fd7d36a5b7d4c6f04bb099480491eee",
+      "sourceTextSha256": "9f65d1179d2b5fbc778aa8d2dc2e3bae0ee4c55acbf52fab0925859e7c49f0cd",
+      "freshTranslation": "불로불사의 육체와 기어스를 주는 힘 \"코드\"를 가진 소녀. ㊥명은 「씨투」라고 읽는다. ㊥ 자신의 소망을 실현한다는 계약 하에, 그 대가로서 루루슈에 절대 준수의 기어㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00357/Sheet1/000008",
+      "sourceBindingSha256": "755b013f59d2d2113273e89799ec1f70d43127d9f510d3acb0c746901655a5f1",
+      "sourceTextSha256": "44f19fcb96c20a326f8b736e45db63911357747f7f07513a859032e2157881c2",
+      "freshTranslation": "네. ㊥ 블랙 리베리온에서 제레미아가 타는 지크 플리트를 치고 각오로 해중㊥에 가라앉아 탈출한다. 그 후, 추격을 피하기 위해 잠복하고 있었지만, 1년의 시간을 거쳐 제㊥로를 탈환하기 위해 카렌 등과 비연 4호 작전을 결행. 봉인된 루루쉬의 기억을 불러 ㊥ 일으키고 0을 부활시켰다. ㊥계약 내용인 단 하나의 소원이란, 스스로가 죽기 위해서 불로 불사의 코드를 그 외 ㊥자에게 계승시키는 일. 루루슈에게 손을 빌려주는 것은 그 지역에 도달할 때까지 기어스의 힘을 ㊥ 성장시키기를 기다리기 위한 것이었다. ㊥ 루루슈가 자격을 얻는 것보다 빨리, 샤를루의 소원을 이루면 들고 ㊥ 루도, C.I. C. 이 거부. 루루슈를 지키기 위해, 그리고 스스로의 진정한 소원을 실현㊥하기 위해서, 불로불사의 코드를 기억과 함께 봉인해 버린다. ㊥ 기억을 잃은 것으로 기어스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00357/Sheet1/000009",
+      "sourceBindingSha256": "755da3ed378bceb6f5ea9c6f49088ae57593fda369c1447e5eb1340a3f28660a",
+      "sourceTextSha256": "eb3ac9e1db98dc61fed6b910cf5eff6e9245b10834388fd0f90307384d387c8c",
+      "freshTranslation": "예전의 상태로 돌아왔지만, 아냐㊥ 안에 숨어 있던 마리안느의 설득을 받아 부활해, 그녀와 함께 카네네지마로 향했다. ㊥C. C. 는 여기서 샤를과 루루슈의 싸움의 일부 시종을 지켜보고, 결국 샤르㊥르 등을 거절하는 것이었다. ㊥ 그 후는 황제가 된 루루슈의 방패로서 옆에 있어 계속 최종 결전에도 참가. ㊥ 제로 레퀴엠을 지켜본 후, 공범자 루루슈의 추억과 함께 어딘가로 여행 ㊥ 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00165",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00165/Sheet1/000002",
+      "sourceBindingSha256": "066479db0583dc38a35b7316dfece52e3d61923b968fc85838c433b8fd7dcf81",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00165/Sheet1/000003",
+      "sourceBindingSha256": "52141ae03ca850bc8df3c38d2ae27d10dcf2355714678d8105c6056b29f350bb",
+      "sourceTextSha256": "3eed6958604d09f6b4b2cfb6552d2a91916a5e0c9677af4972d979ff87aa848f",
+      "freshTranslation": "미케네 신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00165/Sheet1/000004",
+      "sourceBindingSha256": "dc94dc3206983f81a51f58b4d6a8c93156f52c2d3cceb451279d927434d146bd",
+      "sourceTextSha256": "3eed6958604d09f6b4b2cfb6552d2a91916a5e0c9677af4972d979ff87aa848f",
+      "freshTranslation": "미케네 신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00165/Sheet1/000005",
+      "sourceBindingSha256": "6369c8fc514ca8358d2d0ef897d1db101a886e134fce1bc2b6def07093fbe5d1",
+      "sourceTextSha256": "4d3697d3d78e7da05f33413a50d0deca3c164d1893bd223fb9496072e8369163",
+      "freshTranslation": "미케네의 이형의 신들의 한 기둥. ㊥ 배신자 제우스를 숙정하기 위해 다른 신들과 결탁하여 습격했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00165/Sheet1/000006",
+      "sourceBindingSha256": "aaddf4e2f3f793bebecd12cd0e2436bf3d19ed8bde3520063fbf49527d256fe2",
+      "sourceTextSha256": "4d3697d3d78e7da05f33413a50d0deca3c164d1893bd223fb9496072e8369163",
+      "freshTranslation": "미케네의 이형의 신들의 한 기둥. ㊥ 배신자 제우스를 숙정하기 위해 다른 신들과 결탁하여 습격했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

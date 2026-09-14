@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00034",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00034/Sheet1/000002",
+      "sourceBindingSha256": "ed1d30ee7561610d12eb7ff559cc465a31377dd4aae77a263463d4b1636d73b2",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00034/Sheet1/000003",
+      "sourceBindingSha256": "d9f0fd61f122e70439653191647c0d59e3a93a8e4fa5f2800cee2b4c1980cc99",
+      "sourceTextSha256": "cae8a8ad7e1c2b5d698fdafa98b0b222f1f5616a58fff0b79ff8b51d4c625d5b",
+      "freshTranslation": "웨이브 라이더",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00034/Sheet1/000004",
+      "sourceBindingSha256": "d00087d66b38b23f4dfa0f974611b9193ec17e2756f75492350a227e2ec62083",
+      "sourceTextSha256": "cae8a8ad7e1c2b5d698fdafa98b0b222f1f5616a58fff0b79ff8b51d4c625d5b",
+      "freshTranslation": "웨이브 라이더",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00034/Sheet1/000005",
+      "sourceBindingSha256": "3c8e7ba903a2834b4d75f6d8dda4789521cf1a1a1ff88c84bd802c365a786a08",
+      "sourceTextSha256": "d72595ce57e8679feb314e6426c2571d6ee1c1cc313ef81ff2ee35269ca9bc64",
+      "freshTranslation": "카미유 비단",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00034/Sheet1/000006",
+      "sourceBindingSha256": "82aacce206a32c2ad22678da3999759b1be4294768e81313175d8d1561ec9210",
+      "sourceTextSha256": "13f021b8a5c8a1d5c87f5b365194e78efea0708498f2f8272bce6f51e669f703",
+      "freshTranslation": "Z 건담의 순항 형태. ㊥항공·항주 전투기로 사용되어 뒷면에 동료를 태우고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00034/Sheet1/000007",
+      "sourceBindingSha256": "4d7b15ddeaa064553f22bd2c5b034056442fd075cc776dfb650a840e3e6a4b3c",
+      "sourceTextSha256": "93231ce0bb2d3843ca95877021700202bef2264ebbc245eab86ed022afabc843",
+      "freshTranslation": "반송할 수도 있지만, 본㊥기의 최대의 특징은 단독으로 대기권에의 돌입이 가능하게 되는 것에 있다. ㊥ 기체의 하면에 형성된 쇼크 웨이브의 압축된 충격파로부터 양력을 얻는 것으로부터 ㊥ 웨이브 라이더라고 불리고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00034/Sheet1/000008",
+      "sourceBindingSha256": "d4e8e1cff50adf4893037efc17cbd55ef10f3592f767dae54df167ed3b1733d1",
+      "sourceTextSha256": "13f021b8a5c8a1d5c87f5b365194e78efea0708498f2f8272bce6f51e669f703",
+      "freshTranslation": "Z 건담의 순항 형태. ㊥항공·항주 전투기로 사용되어 뒷면에 동료를 태우고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00034/Sheet1/000009",
+      "sourceBindingSha256": "3f1ae7b526a7358750f3d09ce14fde13b0951ea6ce5c1f43c5180c4028af4eaa",
+      "sourceTextSha256": "93231ce0bb2d3843ca95877021700202bef2264ebbc245eab86ed022afabc843",
+      "freshTranslation": "반송할 수도 있지만, 본㊥기의 최대의 특징은 단독으로 대기권에의 돌입이 가능하게 되는 것에 있다. ㊥ 기체의 하면에 형성된 쇼크 웨이브의 압축된 충격파로부터 양력을 얻는 것으로부터 ㊥ 웨이브 라이더라고 불리고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

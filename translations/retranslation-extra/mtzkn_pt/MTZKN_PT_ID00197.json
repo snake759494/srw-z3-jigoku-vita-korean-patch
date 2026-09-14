@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00197",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00197/Sheet1/000002",
+      "sourceBindingSha256": "2dd1479258787d01d19b196cd4264ff6f115110b9e2fa27e096307ca1b43ffc9",
+      "sourceTextSha256": "ad9d3832188b8a00b3324e7c463e448c8a82663db911a622da8ae5ffcb8d1e14",
+      "freshTranslation": "보스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00197/Sheet1/000003",
+      "sourceBindingSha256": "45feab1e93c063807fdee1876bf7d5666b67cb77f6f1463484280cb836952bc6",
+      "sourceTextSha256": "ad9d3832188b8a00b3324e7c463e448c8a82663db911a622da8ae5ffcb8d1e14",
+      "freshTranslation": "보스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00197/Sheet1/000004",
+      "sourceBindingSha256": "90062a27bb5e63d3bf364d41c9c3e44a563146ce652fc13059d1032fb974495a",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00197/Sheet1/000005",
+      "sourceBindingSha256": "8e747cc0c4162bbe5d319b4d5c6ad92c585acf11b0acadd36aa505a17870076f",
+      "sourceTextSha256": "3692db073d07dcfa6465d961b9f2a55b4651f5b10d4af7d80db70c4b8d403943",
+      "freshTranslation": "마츠다 켄이치로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00197/Sheet1/000006",
+      "sourceBindingSha256": "3a817d3a28814c0286941418a352ed43a224243fb4c91120199966280e3c1610",
+      "sourceTextSha256": "873c0e40304cf8427df1d58b04cf31552d6a56656cc92d0518820119d671979b",
+      "freshTranslation": "학생 일본 정복을 목표로 일본 번장 연합을 묶는 번장. ㊥ 일본 전국의 번장들을 따랐고, 마지막에 남은 아타미에 탑승한다. 그림자로 여겨지는 갑아에게 ㊥ 도전하는 것도 되돌아 처치를 당하고, 한층 더 그 도중에 아슈라 군단의 습격에 조우한다. ㊥ 그 후, 구로가네야에 숙박하지만, 숙대가 부족한 것을 방패에 잡히고, 무너지고㊥적으로 Dr. 헬과의 싸움에 참가하게 되었다. ㊥ 최종 결전에서는 고민하는 갑아를 꾸짖거나 작업용 로봇을 개조한 보스 볼럿으로 ㊥ 기계 짐승과 교차하거나 대활약한다. ㊥ 또한, 본명은 작자도 모른다는 것이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00197/Sheet1/000007",
+      "sourceBindingSha256": "944b3e7606f0af34a046ddcbc28abb576978a21a81fc5589c83cc5cd99b428e8",
+      "sourceTextSha256": "873c0e40304cf8427df1d58b04cf31552d6a56656cc92d0518820119d671979b",
+      "freshTranslation": "학생 일본 정복을 목표로 일본 번장 연합을 묶는 번장. ㊥ 일본 전국의 번장들을 따랐고, 마지막에 남은 아타미에 탑승한다. 그림자로 여겨지는 갑아에게 ㊥ 도전하는 것도 되돌아 처치를 당하고, 한층 더 그 도중에 아슈라 군단의 습격에 조우한다. ㊥ 그 후, 구로가네야에 숙박하지만, 숙대가 부족한 것을 방패에 잡히고, 무너지고㊥적으로 Dr. 헬과의 싸움에 참가하게 되었다. ㊥ 최종 결전에서는 고민하는 갑아를 꾸짖거나 작업용 로봇을 개조한 보스 볼럿으로 ㊥ 기계 짐승과 교차하거나 대활약한다. ㊥ 또한, 본명은 작자도 모른다는 것이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

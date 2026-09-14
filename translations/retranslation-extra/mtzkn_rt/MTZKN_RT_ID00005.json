@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00005",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00005/Sheet1/000002",
+      "sourceBindingSha256": "2ef931c5b496a08d5b37ebf09f9bdfd6ec6ab09bee24123deee8073caef23def",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00005/Sheet1/000003",
+      "sourceBindingSha256": "e9e671c71597ed6130d5757110ae704628749a7ee5ddc35e841de854791e2afa",
+      "sourceTextSha256": "e102435db45ab2a3d735fb52fa558e4d8b76f5001bff3e1aa13dd262a8340fb9",
+      "freshTranslation": "스페이스 로보 1호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00005/Sheet1/000004",
+      "sourceBindingSha256": "67cea5d04a8b6256736798cd6434ad6b5cac3e40e213fcf8a00bec3a6fe99d06",
+      "sourceTextSha256": "e102435db45ab2a3d735fb52fa558e4d8b76f5001bff3e1aa13dd262a8340fb9",
+      "freshTranslation": "스페이스 로보 1호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00005/Sheet1/000005",
+      "sourceBindingSha256": "4c4167103c520cd76adb543517531ba02f71430cba1a6d6f02be25ceddc747d0",
+      "sourceTextSha256": "bca5b7e63aa285f3d77d7714e2cfe1cf1b3c2535baf0132dcbdac57b20994e9a",
+      "freshTranslation": "제25화 “우주 마왕 나타난다! 』에 등장한 로봇. ㊥ 지구가 확인한 스페이스 로보의 제1호로, 괴수와 같은 외관을 가진다. ㊥촉각을 교차시켜 발하는 붉은 괴광선은 강력. 한층 더 구상이 되는 것으로 장갑을 강고하게 하는 방어㊥형태가 될 수 있어 철인의 공격을 완전하게 막았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00005/Sheet1/000006",
+      "sourceBindingSha256": "2cd6a16d13a7366bf12d3e02dfc7d2eb7474127809d1e783a460e683621b1f72",
+      "sourceTextSha256": "1d49bff6c2e63f29660f01b2546e46bae1da5d583164446c297dddb165f5463a",
+      "freshTranslation": "제25화 “우주 마왕 나타난다! 』에 등장한 로봇. ㊥ 지구가 확인한 스페이스 로보의 제1호로, 괴수와 같은 외관을 가진다. ㊥촉각을 교차시켜 발하는 붉은 괴광선은 강력. 한층 더 구상이 되는 것으로 장갑을 강고하게 하는 방어㊥형태가 될 수 있어 철인의 공격을 완전하게 막았다. 하지만 마사타로는 그것을 거꾸로 잡아서 ㊥ 페이스 로봇을 거대한 원반에 두드린다. 방어가 풀린 뒤 정면에서 돌격했지만 플라잉㊥킥으로 격파됐다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

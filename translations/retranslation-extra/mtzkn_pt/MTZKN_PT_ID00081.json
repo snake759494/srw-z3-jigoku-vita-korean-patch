@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00081",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00081/Sheet1/000002",
+      "sourceBindingSha256": "36ec62a48c2f0901c8af8aa600b6f5e7e5f191e9eb6657ea5f8050e4c1334ef3",
+      "sourceTextSha256": "6a1ab94e8b79077dce751fdcc5215ffc17182e23996e305df2c3cba3d9e3d5c1",
+      "freshTranslation": "젝스 마키스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00081/Sheet1/000003",
+      "sourceBindingSha256": "355c593570b6e9323c8c15f61c64bb08e2238f17485deb31ece6f561dbd83d8f",
+      "sourceTextSha256": "e8422b5be01fe1f926366ba0cb50d2eb2d8a00f2be8f7fa032c20f2f7d92cc83",
+      "freshTranslation": "젝스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00081/Sheet1/000004",
+      "sourceBindingSha256": "5f14211694963da625253fa85ff63d6b70a2add16c738fe7bb8bde9f5e593437",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00081/Sheet1/000005",
+      "sourceBindingSha256": "f994e83e1a013d305bc71abf36840fa4f43fc8481ad7e01b97a1e980952c56a1",
+      "sourceTextSha256": "af328c6cf6d91894b90cc23f56b302bfb6605c039bab4d9e89961531eaed4f1f",
+      "freshTranslation": "시안 무인",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00081/Sheet1/000006",
+      "sourceBindingSha256": "4ffadf91a1584d77f913e048e4fb12c4f598c34f7f74056a306b126133259d5c",
+      "sourceTextSha256": "416a9d1d3dbd3a4ca3033152a2a21a528631406701e52b6b6bbc7d13b40d454f",
+      "freshTranslation": "프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00081/Sheet1/000007",
+      "sourceBindingSha256": "a15ea95a4bf2748efbb9517a4e6d85dde740cb3d4484128b6bd2ee9e4fdc8875",
+      "sourceTextSha256": "06e2eb409e7ae5cf4af585165294d39b627dda14d0e528127bc73b16fbd8cb2e",
+      "freshTranslation": "- 소속의 파일럿. 코드명은 윈도우. 20세. ㊥ 본명은 밀리알드 피스크래프트. 한때 완전 평화주의를 주창하고 지구권 통일연합 ㊥에 멸망된 생크 킹덤의 왕자. ㊥ 전 대전에서는, 화이트 팡의 지도자로서, 지구에 선전 포고를 실시했다. ㊥ 릴리나와 마찬가지로 아버지의 유지를 이어 평화를 바라는 인간이었지만 릴리나의 재흥한 ㊥ 신생 샹크 킹덤이 붕괴한 것을 계기 에 완전 평화를 위해서는 전쟁을 일으키는 바보㊥ 가려움을 인류에게 보여주어야 한다고 생각하고 '리브라 떨어뜨림'을 감행하자㊥로 했다. ㊥ 최종 결전에서는, 건담 파일럿의 활약에 의해 계획은 저지, 자신도 히이로와의 한 ㊥기타 끝에 패배. 리브라의 동력부 파괴 폭발에 휘말려 소식 불명이 된 ㊥이 마리 메이어 군의 반란에 대항하기 때문에 \"프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00081/Sheet1/000008",
+      "sourceBindingSha256": "a937317d72241ad480904ee8ce4197353c3d25d2f8d560a8e33f52ae7a6b8619",
+      "sourceTextSha256": "a5847575fd7269325e58de02fe8c20a1d29bee5b74ebb957ec5491f043558d77",
+      "freshTranslation": "「윈드」의 이름과 함께㊥토르기스Ⅲ를 달려 전장으로 돌아왔다. ㊥ 조국의 복수를 위해 OZ의 파일럿을 하고 있던 과거가 있는 것으로부터, 자신의 손은 ㊥ 더럽다고 생각하고 있어 완전 평화를 위해서 릴리나의 배면으로서 힘을 다하려고 생각㊥하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00081/Sheet1/000009",
+      "sourceBindingSha256": "fe7b2fd628a5bddd982eb51809375d29feee4cb1ba3ecc1459387ca06fcbcc28",
+      "sourceTextSha256": "416a9d1d3dbd3a4ca3033152a2a21a528631406701e52b6b6bbc7d13b40d454f",
+      "freshTranslation": "프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00081/Sheet1/000010",
+      "sourceBindingSha256": "d05e22a52c022ff3f8e2d750b50dd5c597fcac4fe3922f2f35801151911dc524",
+      "sourceTextSha256": "06e2eb409e7ae5cf4af585165294d39b627dda14d0e528127bc73b16fbd8cb2e",
+      "freshTranslation": "- 소속의 파일럿. 코드명은 윈도우. 20세. ㊥ 본명은 밀리알드 피스크래프트. 한때 완전 평화주의를 주창하고 지구권 통일연합 ㊥에 멸망된 생크 킹덤의 왕자. ㊥ 전 대전에서는, 화이트 팡의 지도자로서, 지구에 선전 포고를 실시했다. ㊥ 릴리나와 마찬가지로 아버지의 유지를 이어 평화를 바라는 인간이었지만 릴리나의 재흥한 ㊥ 신생 샹크 킹덤이 붕괴한 것을 계기 에 완전 평화를 위해서는 전쟁을 일으키는 바보㊥ 가려움을 인류에게 보여주어야 한다고 생각하고 '리브라 떨어뜨림'을 감행하자㊥로 했다. ㊥ 최종 결전에서는, 건담 파일럿의 활약에 의해 계획은 저지, 자신도 히이로와의 한 ㊥기타 끝에 패배. 리브라의 동력부 파괴 폭발에 휘말려 소식 불명이 된 ㊥이 마리 메이어 군의 반란에 대항하기 때문에 \"프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00081/Sheet1/000011",
+      "sourceBindingSha256": "2d36f97586cacfba3d8962343c977f3aff1d6b6450701299d543a5fcf96c6782",
+      "sourceTextSha256": "c227defd36b4448fb172c279d213a47bb680544284954b00b1405b91d7f9f9b1",
+      "freshTranslation": "「윈드」의 이름과 함께㊥토르기스Ⅲ를 달려 전장으로 돌아왔다. ㊥ 조국의 복수를 위해 OZ의 파일럿을 하고 있던 과거가 있는 것으로부터, 자신의 손은 ㊥ 더럽다고 생각하고 있어 완전 평화를 위해서 릴리나의 배면으로서 힘을 다하려고 생각㊥하고 있다. ㊥ 마리 메이어의 반란 종결 후, 릴리나가 고안하는 테라포밍 계획을 실행에 ㊥ 옮기기 위해 노인과 둘이서 여행을 떠났다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

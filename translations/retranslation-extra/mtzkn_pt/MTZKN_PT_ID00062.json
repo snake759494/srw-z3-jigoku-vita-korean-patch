@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00062",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00062/Sheet1/000002",
+      "sourceBindingSha256": "bfcfffc24916f09a65d2ddc39e584f2488da12c5a0652100dbcede773232f35c",
+      "sourceTextSha256": "8d5e6cf62223807c4d6da3b1d97e9c610f04215a9b3a3e71adf9e72eacc6227c",
+      "freshTranslation": "파푸테마스 시로코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00062/Sheet1/000003",
+      "sourceBindingSha256": "b405c07e2da69a86f2a19c6b2fb9897ffb5c29073156d9a58ffe09d311d1d620",
+      "sourceTextSha256": "71fbb7dba7d345b0dc5296ee31ea13a08d10505a35ae624317469a75b1427c6b",
+      "freshTranslation": "시로코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00062/Sheet1/000004",
+      "sourceBindingSha256": "ae7fd44531a8384f82623e66cbefeba7b65da780365f02a3977e5a91e41b5cb3",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00062/Sheet1/000005",
+      "sourceBindingSha256": "9008fa6f4e71ad1715703b8205137d35de87054583729c8f894305ae8f678738",
+      "sourceTextSha256": "1ec4e1b7b11e0fc964ab862dee34a9d23b7e9521096ed8ddeb860721dbaf2916",
+      "freshTranslation": "지구 연방 정부의 목성 선단을 이끄는 주피트리스의 함장. 계급은 대위. 26세. ㊥ 높은 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00062/Sheet1/000006",
+      "sourceBindingSha256": "e0383f53700484923a8ae8c68c381f6020c053f6a58dbd6601526bea43d1609a",
+      "sourceTextSha256": "96774494476d2a8e16378303d6afc6e118e68fb1efb0fd240ea58b79bdda5328",
+      "freshTranslation": "입 능력과 카리스마성을 가지고 있다. 한층 더 모빌 슈트의 설계와 조 ㊥ 세로, 작전의 입안과 지휘, 여성의 취급까지, 모든 것을 완벽하게 해내는 다재다능한 인물. 그 ㊥의 힘은 사라를 매료해, 레코아를 에우고로부터 되돌려 보내, 취급이 어려운 야잔조차도 ㊥아군에게 끌어들였다. ㊥ \"전후에는 여성이 세계를 지배한다\"고 명언하고 자신의 이상과 야심을 위해 행동한다. ㊥ 지구권 귀환 후 티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00062/Sheet1/000007",
+      "sourceBindingSha256": "2282c3baf0af7cbd7ba31a70d1f619400f1d390c32cf8ad883601aa5472ff10a",
+      "sourceTextSha256": "73cd1c655bee2c7e7bd73413bc69583403730621d2404d224008671b09bd414a",
+      "freshTranslation": "네즈에 소속되어 있지만, 그 재능에서 오는 야심은 군대라는 틀 ㊥에 맞을 것도없고, 혼란에 타고 자미토프를 암살하고 티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00062/Sheet1/000008",
+      "sourceBindingSha256": "237ac3df39da33cef8f94faadb741f8bc69b552413b829945bc0dc85ce3fe93a",
+      "sourceTextSha256": "004eaecbeecff4d1c3829417ff8912a89c853dad13ddb88d5291eb70822fb5a9",
+      "freshTranslation": "네즈를 장악했다. ㊥ 최후는 스스로가 다룬 지·오에 탑승해 카미유와 격투를 펼쳐 수많은 영혼㊥에 지켜진 그에게 패배했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00062/Sheet1/000009",
+      "sourceBindingSha256": "57a1768efb2f622b382c73ca7a7afc5b5fe228fba6822e297152eaf90d634df7",
+      "sourceTextSha256": "1ec4e1b7b11e0fc964ab862dee34a9d23b7e9521096ed8ddeb860721dbaf2916",
+      "freshTranslation": "지구 연방 정부의 목성 선단을 이끄는 주피트리스의 함장. 계급은 대위. 26세. ㊥ 높은 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00062/Sheet1/000010",
+      "sourceBindingSha256": "b78718b7297c85e6285a80f05ea709b61c7a5b6d59edc913303ca76ecc4706d0",
+      "sourceTextSha256": "96774494476d2a8e16378303d6afc6e118e68fb1efb0fd240ea58b79bdda5328",
+      "freshTranslation": "입 능력과 카리스마성을 가지고 있다. 한층 더 모빌 슈트의 설계와 조 ㊥ 세로, 작전의 입안과 지휘, 여성의 취급까지, 모든 것을 완벽하게 해내는 다재다능한 인물. 그 ㊥의 힘은 사라를 매료해, 레코아를 에우고로부터 되돌려 보내, 취급이 어려운 야잔조차도 ㊥아군에게 끌어들였다. ㊥ \"전후에는 여성이 세계를 지배한다\"고 명언하고 자신의 이상과 야심을 위해 행동한다. ㊥ 지구권 귀환 후 티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00062/Sheet1/000011",
+      "sourceBindingSha256": "33537930a46997b22d61841a6336b4c1a5691a5b6c4308bcb6378ea9c0044c1f",
+      "sourceTextSha256": "73cd1c655bee2c7e7bd73413bc69583403730621d2404d224008671b09bd414a",
+      "freshTranslation": "네즈에 소속되어 있지만, 그 재능에서 오는 야심은 군대라는 틀 ㊥에 맞을 것도없고, 혼란에 타고 자미토프를 암살하고 티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00062/Sheet1/000012",
+      "sourceBindingSha256": "d8de80317b114c597acd57235eb79dd5d0a5f97f5a94d52c7f760ca52b6b8d40",
+      "sourceTextSha256": "004eaecbeecff4d1c3829417ff8912a89c853dad13ddb88d5291eb70822fb5a9",
+      "freshTranslation": "네즈를 장악했다. ㊥ 최후는 스스로가 다룬 지·오에 탑승해 카미유와 격투를 펼쳐 수많은 영혼㊥에 지켜진 그에게 패배했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

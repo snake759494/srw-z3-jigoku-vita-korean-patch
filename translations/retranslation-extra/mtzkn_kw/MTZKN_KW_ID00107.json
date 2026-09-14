@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00107",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00107/Sheet1/000002",
+      "sourceBindingSha256": "f5af62a9db962c7aa2d36dece717b258f807da243ebf5fd5e6c6980784e50bb1",
+      "sourceTextSha256": "e547903f387947397b41e08c864e666e407d7db8f1be1e44f0c9680e3cc31933",
+      "freshTranslation": "메일",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00107/Sheet1/000003",
+      "sourceBindingSha256": "32b9d65c7cb74a584f360c71cdd125872b898e74051a6681aa1fecd6fb3e4292",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00107/Sheet1/000004",
+      "sourceBindingSha256": "9b8d0e3770d1e5b131a98eaa625032fe9ecf7133f53b44c623fcae7d7f2df559",
+      "sourceTextSha256": "0cb1131f41bef607be4563d5fa3478a81983c320db18be7f0096347757c27daf",
+      "freshTranslation": "전체 이름은 메일 비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00107/Sheet1/000005",
+      "sourceBindingSha256": "1e376fe409eeb6878913b0473bafadd2e34ec1cf44efda8a71eb680bd33326d8",
+      "sourceTextSha256": "7361617c2c83b750185450469d16b3bbac30081d267d8f53c52aba132e92afab",
+      "freshTranslation": "ー.㊥랜드 트래비스의 스승인 시에로 비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00107/Sheet1/000006",
+      "sourceBindingSha256": "6fbd3e41defcd8f0df9546c4e0f58bc97bb63bcfe0d85658d0cdd737070da713",
+      "sourceTextSha256": "1330e0671f9e9aec73929a91ce86500f7c1a9e7ad26fa53ecaa8059126a3b6d8",
+      "freshTranslation": "의 딸. ㊥ 아이 같은 외모를 하고 있지만, 나이는 17세. ㊥ 멋지고 짙은 성격으로 취미는 일기를 쓰는 것. ㊥ 랜드가 시에로에 제자 들어갔을 때부터의 교제이며, 그의 약혼자를 자칭 ㊥ 하고, 달링이라고 부른다. ㊥비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00107/Sheet1/000007",
+      "sourceBindingSha256": "b6392e7c57641fcb615b0ca8380243e3b189c6729a07e64ba830374766bdbc15",
+      "sourceTextSha256": "e0f7684508447393364509f6a5bc08f53405a3bcddfd611b988e8d269f602122",
+      "freshTranslation": "・서비스에서는 영업과 경리, 업무 일지 기입을 해, 건레온의 ㊥ 서브 파일럿도 맡는다. ㊥ 한때는 스피어와 일체화하고 있어, 몸이 성장하지 않는 것은 시간이 정지하고 있는 ㊥라고 생각되고 있었다. 그러나, 스피어로부터 해방된 현재의 상황을 보는 한㊥, 무론 스피어의 영향도 있지만, 그러한 체질이었던 것이 최대의 원인이었던㊥ 같다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00107/Sheet1/000008",
+      "sourceBindingSha256": "87cf3ca2305c7cfc4d800d794bcd48122340c5b788eff0b3af4c6c4cfcbf2ebd",
+      "sourceTextSha256": "0cb1131f41bef607be4563d5fa3478a81983c320db18be7f0096347757c27daf",
+      "freshTranslation": "전체 이름은 메일 비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00107/Sheet1/000009",
+      "sourceBindingSha256": "db3ba8efd70986d4999b57786845f0d91b8dabea97622b23bf6e68eda4bf6177",
+      "sourceTextSha256": "7361617c2c83b750185450469d16b3bbac30081d267d8f53c52aba132e92afab",
+      "freshTranslation": "ー.㊥랜드 트래비스의 스승인 시에로 비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00107/Sheet1/000010",
+      "sourceBindingSha256": "d33148aa6f1624617690edb26c6edbc9d850d26115642abb63c68310a3da9a66",
+      "sourceTextSha256": "1330e0671f9e9aec73929a91ce86500f7c1a9e7ad26fa53ecaa8059126a3b6d8",
+      "freshTranslation": "의 딸. ㊥ 아이 같은 외모를 하고 있지만, 나이는 17세. ㊥ 멋지고 짙은 성격으로 취미는 일기를 쓰는 것. ㊥ 랜드가 시에로에 제자 들어갔을 때부터의 교제이며, 그의 약혼자를 자칭 ㊥ 하고, 달링이라고 부른다. ㊥비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00107/Sheet1/000011",
+      "sourceBindingSha256": "fffeb4bf3b0281e2115ce2f8813eecdcc75cadd22e8175aeaec18a38002a030b",
+      "sourceTextSha256": "e0f7684508447393364509f6a5bc08f53405a3bcddfd611b988e8d269f602122",
+      "freshTranslation": "・서비스에서는 영업과 경리, 업무 일지 기입을 해, 건레온의 ㊥ 서브 파일럿도 맡는다. ㊥ 한때는 스피어와 일체화하고 있어, 몸이 성장하지 않는 것은 시간이 정지하고 있는 ㊥라고 생각되고 있었다. 그러나, 스피어로부터 해방된 현재의 상황을 보는 한㊥, 무론 스피어의 영향도 있지만, 그러한 체질이었던 것이 최대의 원인이었던㊥ 같다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

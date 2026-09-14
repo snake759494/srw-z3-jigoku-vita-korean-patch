@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00405",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00405/Sheet1/000002",
+      "sourceBindingSha256": "3d5fc2801435052939c7410658b05d18ccd5c45490ec9d3ab2fb8fdb618b2e8d",
+      "sourceTextSha256": "001574effa3119b0792677cc050ae06f4471abea82aea0690ca9098d60083746",
+      "freshTranslation": "시에로 비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00405/Sheet1/000003",
+      "sourceBindingSha256": "ddba7d8da5a214aaab2b153f399076188a8758ea6b5afe6df9e530abcad80ba3",
+      "sourceTextSha256": "55154e52cde9a7603f15c26e9befeaf4d3841c31bb8530a02ab6c8006dd16962",
+      "freshTranslation": "시에로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00405/Sheet1/000004",
+      "sourceBindingSha256": "a0dea82c19afe8065e4ff29ec6f867390e2d9f4c3b5665b3a1c9aa09684b7148",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00405/Sheet1/000005",
+      "sourceBindingSha256": "01384ae9f10101191e6b7f6ea00c06b5f5493621acba811762d583cf24b17578",
+      "sourceTextSha256": "a89e1c6c00d067456cb104d3917b47f824492018433594cf8c7dde52893b09f0",
+      "freshTranslation": "시공진동에 농락되는 남자. ㊥대시 공진동 전부터 여러 번 전이에 휘말려 다양한 세계를 여행하고 있다. ㊥ 하지만, 현지의 쾌활하고 호쾌한 성격과 수리점으로서의 확실한 솜씨에 의해, 어디의 세 ㊥계에서도 잘 살아남고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00405/Sheet1/000006",
+      "sourceBindingSha256": "3137c4cb8685b82cc301c0c7e97f72df5b9f322ed53e99a40d25644eaa541d31",
+      "sourceTextSha256": "9330f0e022f8bff87d4223af402afc608df6fbca3715829731853f244621b46c",
+      "freshTranslation": "시공진동에 농락되는 남자. ㊥대시 공진동 전부터 여러 번 전이에 휘말려 다양한 세계를 여행하고 있다. ㊥ 하지만, 현지의 쾌활하고 호쾌한 성격과 수리점으로서의 확실한 솜씨에 의해, 어디의 세 ㊥계에서도 잘 살아남고 있다. ㊥원래의 세계에 사랑딸과 제자를 남기고 있어, 그들과 재회하는 날을 꿈꾸고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

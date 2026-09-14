@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00319",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00319/Sheet1/000002",
+      "sourceBindingSha256": "923d90e3d16594e37801c72248608f447f4570c261d5d4723c1d14dec1aa0da5",
+      "sourceTextSha256": "e37502c78d1c70f33da11fe063058284e399713d31bf61edf01cf4e842d7439e",
+      "freshTranslation": "아텐버러 코어 치치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00319/Sheet1/000003",
+      "sourceBindingSha256": "4894de2e81556312f4c2cec49ba2c7d4bd7e711d4263e3ab0c7cc2ab176ce3d1",
+      "sourceTextSha256": "66b86923d4ccc4d838800f865d5fdb7aa581393f54f248287373101a4075f807",
+      "freshTranslation": "아텐버러",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00319/Sheet1/000004",
+      "sourceBindingSha256": "b61f9200b65d215f58195dc6425620dcb7029ba69d029aeecaf93276632f1cb3",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00319/Sheet1/000005",
+      "sourceBindingSha256": "2e9d21a12b8c63dffadcf203fa1f4d9e2afd64ad11aa0964a9fa377ee113ddd9",
+      "sourceTextSha256": "4794427c247e27d371157cbc1ca6119251fd1b7f85e5becac4e7b8c2cc5eae79",
+      "freshTranslation": "키리이 다이스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00319/Sheet1/000006",
+      "sourceBindingSha256": "989fc630c13d62e08ad90616611cf439de4a5c2e3d9dfd352695efa10b79ca95",
+      "sourceTextSha256": "607b8fcd82298262401e6284399bf77657926be2b9c43269b598addc8a3c30ad",
+      "freshTranslation": "큰 글렌단의 일원으로 신정부의 과학국원. ㊥ 당황하고 침착하지 않은 트리거 해피로, 이전에는 다이글렌의 포수를 맡고 있었다 ㊥했다. ㊥ 전투에서도 일상에서도 언동에 변화가 없고, 월일이 흘러도 외형도 내용도 전혀 변화㊥ 하고 있지 않다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00319/Sheet1/000007",
+      "sourceBindingSha256": "f43723831938830eae4dd998a92b7360f5660230d10956425982c39cbbb5e015",
+      "sourceTextSha256": "e04df3749dd5fee1a1f9d5f36b0d8d60292ce2854a807df1bf2940f050e7da18",
+      "freshTranslation": "큰 글렌단의 일원으로 신정부의 과학국원. ㊥ 당황하고 침착하지 않은 트리거 해피로, 이전에는 다이글렌의 포수를 맡고 있었다 ㊥했다. ㊥ 전투에서도 일상에서도 언동에 변화가 없고, 월일이 흘러도 외형도 내용도 전혀 변화㊥ 하고 있지 않다. 하지만, 안티 스파이럴과의 최종 결전 때에는, 「핀 흐려, 시간차인 ㊥등 손의 물건」이라고 발언해, 방어의 확률을 무효화할 확률 변동탄을 발사했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00081",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00081/Sheet1/000002",
+      "sourceBindingSha256": "65c24f7708e2978c4855567b00248697d39020d2401f6a498b4c246925371376",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00081/Sheet1/000003",
+      "sourceBindingSha256": "08a3117c1e2bad34a739c4123367ff892bea5d482fb2c4bf635e81ba32fa2ba2",
+      "sourceTextSha256": "5e7ec00095571fc644114331d80599d2013ee2b62c7435e13198b69f417777a6",
+      "freshTranslation": "리젤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00081/Sheet1/000004",
+      "sourceBindingSha256": "fe05170716eb55fddc1ca7a109ebd7baa0647e4c8436ead9d944a69e8eec74f1",
+      "sourceTextSha256": "5e7ec00095571fc644114331d80599d2013ee2b62c7435e13198b69f417777a6",
+      "freshTranslation": "리젤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00081/Sheet1/000005",
+      "sourceBindingSha256": "c64a13d74100d64b641b42504a8e883a819833d097d36c136c8a31a772d13e29",
+      "sourceTextSha256": "55fe7ca2db5259f79ae026fb127f1111d9d0ffbeadbc3607a637223fe5855628",
+      "freshTranslation": "Z건담의 양산을 목적으로 개발된 모빌슈트. ㊥ 가변 메카니즘을 BWS (백 무기 시스템)로 대체 한 리 가지에 대해 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00081/Sheet1/000006",
+      "sourceBindingSha256": "a6fc95a520ea6bb4fbf57a94f12326e974c426f32c5e9c1a895d05c2a7753cb1",
+      "sourceTextSha256": "7ed04a44725b7e76ca73ee8253a633c418705da7760891f40a7462dfd5bab0cc",
+      "freshTranslation": "스의 방식을 채용하는 것으로 간략화하고 있다. ㊥ 추가 액추에이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00081/Sheet1/000007",
+      "sourceBindingSha256": "4ce9b2a465d69075ee53025215c4561a24e9123f8cb0c0251dc84b42b3f26375",
+      "sourceTextSha256": "57fde1b086038b84931b28c350fc3f3311bc3a531eb1db8c1508b3f1b6b52af5",
+      "freshTranslation": "-나 내장 전자 기기 등을 가능한 한 공유화시키는 것으로 비용㊥다운을 도모해, 최초의 체육관, 제간계 가변",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00081/Sheet1/000008",
+      "sourceBindingSha256": "651dddc97624f5e001b5741c7abbfb9d29c2db09a8d27aba5ba4ac9b8ee7de2e",
+      "sourceTextSha256": "bc017a44e0496eecfdc940a73509ddc24a995dfc08b9d0255da7b3d7c87bd745",
+      "freshTranslation": "모빌 슈트로 완성했다. ㊥ 무장과 배낭은 작전 내용에 따라 교환 할 수 있으며, 빔 라이플과 ㊥ 빔 세이버와 같은 일반 무장 외에도 메가 빔 런처와 같은 큰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00081/Sheet1/000009",
+      "sourceBindingSha256": "220aa142c892514242ffdf6da0bb4cca1187c6bf76688446e90ac230e4265b03",
+      "sourceTextSha256": "f5add9c9f18289206ae66ff934340ef00ea680e271c8f5105a6fcd7bca6d7f47",
+      "freshTranslation": "화기도 휴대 가능. ㊥ 대장기와 일반기의 외관상의 차이는 색뿐이며, 센서류가 녹색이고 가슴과 다리가 다㊥ 쿠그레이가 되어 있는 것이 대장기이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00081/Sheet1/000010",
+      "sourceBindingSha256": "3a1797d3a7208cc1c9ba84ee193d53e0150f7b758808755125003af13ae7b082",
+      "sourceTextSha256": "55fe7ca2db5259f79ae026fb127f1111d9d0ffbeadbc3607a637223fe5855628",
+      "freshTranslation": "Z건담의 양산을 목적으로 개발된 모빌슈트. ㊥ 가변 메카니즘을 BWS (백 무기 시스템)로 대체 한 리 가지에 대해 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00081/Sheet1/000011",
+      "sourceBindingSha256": "0430927b8cf796849609bdf18f14d07d182941e600ec6a00fc5e2c65fb725c74",
+      "sourceTextSha256": "7ed04a44725b7e76ca73ee8253a633c418705da7760891f40a7462dfd5bab0cc",
+      "freshTranslation": "스의 방식을 채용하는 것으로 간략화하고 있다. ㊥ 추가 액추에이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00081/Sheet1/000012",
+      "sourceBindingSha256": "2d19e587483d962a1edb3540e43be48288221904a0e8eb07a3ce4de17387a474",
+      "sourceTextSha256": "57fde1b086038b84931b28c350fc3f3311bc3a531eb1db8c1508b3f1b6b52af5",
+      "freshTranslation": "-나 내장 전자 기기 등을 가능한 한 공유화시키는 것으로 비용㊥다운을 도모해, 최초의 체육관, 제간계 가변",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00081/Sheet1/000013",
+      "sourceBindingSha256": "65e90ec8e6431a4bbb839a895d636f473fd3e963c1f6b590b6ccb37a398f5022",
+      "sourceTextSha256": "bc017a44e0496eecfdc940a73509ddc24a995dfc08b9d0255da7b3d7c87bd745",
+      "freshTranslation": "모빌 슈트로 완성했다. ㊥ 무장과 배낭은 작전 내용에 따라 교환 할 수 있으며, 빔 라이플과 ㊥ 빔 세이버와 같은 일반 무장 외에도 메가 빔 런처와 같은 큰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00081/Sheet1/000014",
+      "sourceBindingSha256": "d80fd9fa7ac67190b66977414e6741c39c50f7dfbcbf3fbd45ef6a7e3d5b51f9",
+      "sourceTextSha256": "f5add9c9f18289206ae66ff934340ef00ea680e271c8f5105a6fcd7bca6d7f47",
+      "freshTranslation": "화기도 휴대 가능. ㊥ 대장기와 일반기의 외관상의 차이는 색뿐이며, 센서류가 녹색이고 가슴과 다리가 다㊥ 쿠그레이가 되어 있는 것이 대장기이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

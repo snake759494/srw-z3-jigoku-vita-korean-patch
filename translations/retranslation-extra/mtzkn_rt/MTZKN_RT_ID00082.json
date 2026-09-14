@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00082",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00082/Sheet1/000002",
+      "sourceBindingSha256": "0d6bf67083ee33fabebeb2f4c362ab4e9a9f790fd3e950e7f9c3db9fab88397c",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00082/Sheet1/000003",
+      "sourceBindingSha256": "e43e05ec2ef79ff0a17b3cd46a2f9c0748db81868a0e2164e4d80a8ee8a6d5a4",
+      "sourceTextSha256": "92c8003f25623a5dba933c62046bd9077355db03a7ac15d6c268ddfcea7a7d38",
+      "freshTranslation": "리젤(MA)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00082/Sheet1/000004",
+      "sourceBindingSha256": "e85e2aee9110b9abee5a64eae86663359509e3ffb9d79f86627e0efeae6aacaa",
+      "sourceTextSha256": "92c8003f25623a5dba933c62046bd9077355db03a7ac15d6c268ddfcea7a7d38",
+      "freshTranslation": "리젤(MA)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00082/Sheet1/000005",
+      "sourceBindingSha256": "e4e640e2dd3c58e65c0418ae4327cab3448c9b02c05fe25db4abdf0a369da9bc",
+      "sourceTextSha256": "e2491b338d2a04f8286e7a1f5aef07626d6b09767aeccafdca79aeb355d99e42",
+      "freshTranslation": "리젤 순항 형태. ㊥ 기체 각부의 스러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00082/Sheet1/000006",
+      "sourceBindingSha256": "d25961baa1133473840d04ff5744f63ac871ac046888cf008cd7bcf9c73c2e82",
+      "sourceTextSha256": "2746940ab9e1135bbd433684971025a474ba100d7c012e2065679962b450b186",
+      "freshTranslation": "를 후방으로 향해 수렴하는 것으로, 높은 기동력을 발휘한다. 화기㊥류는 전면을 향해 설치되기 때문에, 이 상태에서도 사용 가능. ㊥ 뒤쪽의 랜드셀에는 모빌 슈트를 잡기 위한 그립이 설치되어 있어 잉여㊥ 추력을 살려, 서브 플라이트 시스템으로서도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00082/Sheet1/000007",
+      "sourceBindingSha256": "ccb29316760399e6feabee2ba27a6efc2b311027adde31c12e43295bf2774ae4",
+      "sourceTextSha256": "aaa8ed755be8733588694f21e59e97552442abdd6a5be15ea0d5e21301ac41e6",
+      "freshTranslation": "사용할 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00082/Sheet1/000008",
+      "sourceBindingSha256": "ecd8b319d1c98b80592c6afa6053beb398f6bed2ce8863faf1b4789f92119387",
+      "sourceTextSha256": "e2491b338d2a04f8286e7a1f5aef07626d6b09767aeccafdca79aeb355d99e42",
+      "freshTranslation": "리젤 순항 형태. ㊥ 기체 각부의 스러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00082/Sheet1/000009",
+      "sourceBindingSha256": "06e97adf987b8ad79695ef43ac2f25ed864eb925e3d7747134fd56f2f224a885",
+      "sourceTextSha256": "2746940ab9e1135bbd433684971025a474ba100d7c012e2065679962b450b186",
+      "freshTranslation": "를 후방으로 향해 수렴하는 것으로, 높은 기동력을 발휘한다. 화기㊥류는 전면을 향해 설치되기 때문에, 이 상태에서도 사용 가능. ㊥ 뒤쪽의 랜드셀에는 모빌 슈트를 잡기 위한 그립이 설치되어 있어 잉여㊥ 추력을 살려, 서브 플라이트 시스템으로서도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00082/Sheet1/000010",
+      "sourceBindingSha256": "4d918ce23392d9ccfad03765043b276d3b6b01a3b762919e7df980dfae80c093",
+      "sourceTextSha256": "aaa8ed755be8733588694f21e59e97552442abdd6a5be15ea0d5e21301ac41e6",
+      "freshTranslation": "사용할 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

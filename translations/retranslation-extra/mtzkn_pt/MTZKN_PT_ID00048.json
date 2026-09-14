@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00048",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00048/Sheet1/000002",
+      "sourceBindingSha256": "d46a7d4e1eebabe7b5341a5ae369fc16a054fad8d8830751483572ea6f8805e8",
+      "sourceTextSha256": "e56f20d6fa9fed66c4d721f8087aad6d4b0e86315d19899293e9d9b78f90f376",
+      "freshTranslation": "일린 노스코비츠",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00048/Sheet1/000003",
+      "sourceBindingSha256": "631b601ecc48ecbf4fc3ce52cab4a46f8a0877aca8a70a84aa87b238952306fa",
+      "sourceTextSha256": "ac9cb0e3bbfc14cfb92b11373e2af6d0e009fd4c25c85520263e72f8b83f21fc",
+      "freshTranslation": "노스코비츠",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00048/Sheet1/000004",
+      "sourceBindingSha256": "a66ace0e3f454dd38eef7e3862506349b7a6fdb453765b518c984b663572fccd",
+      "sourceTextSha256": "2e72dc391938168fbc52704deca72c28f66762970743d8ea2a42ca6692f5cff8",
+      "freshTranslation": "장갑 기병 보텀스 사타구니 이단",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00048/Sheet1/000005",
+      "sourceBindingSha256": "24bdcd48276ec33b60d5ad3ab4b581b22fcd0eddbc3cbf2939e1cede369cdde2",
+      "sourceTextSha256": "a57d578c6961be06308911e0bdd7cbca02b3bc6ffbe9b3e96c34c71f14780521",
+      "freshTranslation": "범 은하 결사 마티알의 스님. ㊥ 그노 추기경의 복심으로서 그가 법황의 자리에 앉을 수 있도록 암약했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00048/Sheet1/000006",
+      "sourceBindingSha256": "9ecd6a36812366c0bd06769c2c70ca2de3b83f6c23ce6f194c3c6352fe6c0f29",
+      "sourceTextSha256": "7735f40287a198c6b8a43e4f08070ecae433c805d84ed4f34b534d7ccb99c66c",
+      "freshTranslation": "범 은하 결사 마티알의 스님. ㊥ 그노 추기경의 복심으로서 그가 법황의 자리에 앉을 수 있도록 암약했다. ㊥이지만, 그노는 책략에 빠져 실각하고, 그 모두 법황으로 선정된 몬테 웰스㊥에 의해 사살되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

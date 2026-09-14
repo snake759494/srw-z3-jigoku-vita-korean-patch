@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00340",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00340/Sheet1/000002",
+      "sourceBindingSha256": "11a65ed054d6aedc612692b182efb9623cc091736f94f763b5f663385a2805e6",
+      "sourceTextSha256": "14324258cb3492addd8b1676b812f811dd1f45e68dfcaeacdabbe41b782d066c",
+      "freshTranslation": "이부키 마야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00340/Sheet1/000003",
+      "sourceBindingSha256": "dd8f703cb0e65d2f7435132534c58b80a8d1a7108081f2542de1564c25946779",
+      "sourceTextSha256": "b166649dcdc6cc8359f4092f88872f41b27f0d95dfbd4e2f159677b9e8e3a992",
+      "freshTranslation": "마야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00340/Sheet1/000004",
+      "sourceBindingSha256": "9e70d5ee94c7711330826c7b99dfd77e869437889260b1f9b61592c8d701ae2d",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00340/Sheet1/000005",
+      "sourceBindingSha256": "1cefdc02850faf07a5896e44ec8bae5c50825e2b58357506ec8ebfa82eb535be",
+      "sourceTextSha256": "b84fb893d6a4a04b8139726aa48a83a9d9298c663bd1980149e5c3199337d201",
+      "freshTranslation": "특무기관 NERV의 기술국 제1과에 소속. 계급은 2위. ㊥ 리츠코의 보좌역으로서 EVA의 개발이 목적인 「E계획」에 종사한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00340/Sheet1/000006",
+      "sourceBindingSha256": "576a41f9767d73613aa7a0ed7acb6fc4b35c1d7ba78f4ae2d9e9be9f2a107348",
+      "sourceTextSha256": "b84fb893d6a4a04b8139726aa48a83a9d9298c663bd1980149e5c3199337d201",
+      "freshTranslation": "특무기관 NERV의 기술국 제1과에 소속. 계급은 2위. ㊥ 리츠코의 보좌역으로서 EVA의 개발이 목적인 「E계획」에 종사한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

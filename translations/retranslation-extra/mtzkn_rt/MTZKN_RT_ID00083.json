@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00083",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00083/Sheet1/000002",
+      "sourceBindingSha256": "ec929408e5a3deebaabc6d5a3f74227ee6d7f792791deb189d375deec8d7ff1e",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00083/Sheet1/000003",
+      "sourceBindingSha256": "f36e8938a0c00636206631b40a79659b4f2a1230694f53aac36f62011564ab84",
+      "sourceTextSha256": "40d60fc09c99da52bd7eaefc5efd075f7299c5302060276b13553c1a5c3afcf2",
+      "freshTranslation": "델",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00083/Sheet1/000004",
+      "sourceBindingSha256": "8443717dfb4c55a94e0007cfbe475452e9f90aeda8eb73932ab6a59dbd26eede",
+      "sourceTextSha256": "569d838b460650b706bd9badc643783336f09d2691a1b52953755d5d29253798",
+      "freshTranslation": "플러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00083/Sheet1/000005",
+      "sourceBindingSha256": "f274487470505654f5ed6c22f00aa7d57bdcb8efd7cf5b2bac846409c1550458",
+      "sourceTextSha256": "40d60fc09c99da52bd7eaefc5efd075f7299c5302060276b13553c1a5c3afcf2",
+      "freshTranslation": "델",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00083/Sheet1/000006",
+      "sourceBindingSha256": "b07c866df7a82aa7f016091bd71090bd3f3211156aa39af7f13bc8768f4e0a13",
+      "sourceTextSha256": "569d838b460650b706bd9badc643783336f09d2691a1b52953755d5d29253798",
+      "freshTranslation": "플러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00083/Sheet1/000007",
+      "sourceBindingSha256": "bf466145933cf0ae42ff30899e344fed1cdf8035d54cd74ebaed4b731577b13e",
+      "sourceTextSha256": "69332d056eb1d600706336d2bede202d7558151670e899fc0dd3bc6a122bd21d",
+      "freshTranslation": "리디 마세나스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00083/Sheet1/000008",
+      "sourceBindingSha256": "668cdecd91eee32f124047ede1f62d979c2c6d8d7b92295990efa0d060e9003e",
+      "sourceTextSha256": "a59ad4d10c67d4d2d277388c13072e6e67af1080c9013eed6fac8b1daf089c7f",
+      "freshTranslation": "애너하임 일렉트로닉스사가 개발한 가변",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00083/Sheet1/000009",
+      "sourceBindingSha256": "9cfb82cd9d5284ed4eab4a479344448c77893a95d431d981a0548d3bb63e454c",
+      "sourceTextSha256": "8cace6bf480cf50c3a41a491181913d0f869949cbbc9cae23f36a13d46dc260d",
+      "freshTranslation": "모바일 슈트. ㊥ 당초, 가변기로서 설계되면서도 프레임 강도의 문제에 의해 비가변기로서 ㊥ 완성된 백식의 문제점을 다시 씻어, 바이오 센서 등, Z건담의 기술적 장점을 ㊥ 포함하면서, 재설계된 기체. ㊥ 그 결과 웨이브 라이더 형태로의 변형이 가능해져 중력하에서의 비행 능력과 ㊥ 대기권 돌입 능력을 갖춘 전 영역에서 활동 가능한 만능 공격기로 완성되었다. ㊥이지만, 가변기에 공통되는 비용의 문제나, 규격외의 부품도 많이 사용된 것이 원인으로 ㊥이 되어, 양산화에는 이르지 않고, 소수가 생산될 뿐이 되었다. ㊥ 그 특징으로부터, 부대 편성에는 짜넣기 어렵기 때문에, 마찬가지로 규격외에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00083/Sheet1/000010",
+      "sourceBindingSha256": "6e496347cd1960ebfbc922093d5aa86e8108919720578dc5d1f21d9224f9d08a",
+      "sourceTextSha256": "c7bcde46fe44886d46e1834f852fb7c91b16a420a58d088fe33428c2970dc543",
+      "freshTranslation": "사용되는 네 ㊥ 르 아가마에 배치되어 리디 마세나스가 탑승했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00083/Sheet1/000011",
+      "sourceBindingSha256": "f08f32b96fba000e6d26510a6e9094ac58a18689ae49e6113ec5069b5bf37a82",
+      "sourceTextSha256": "a59ad4d10c67d4d2d277388c13072e6e67af1080c9013eed6fac8b1daf089c7f",
+      "freshTranslation": "애너하임 일렉트로닉스사가 개발한 가변",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00083/Sheet1/000012",
+      "sourceBindingSha256": "707c797e29c29c2685fa783a072adc96929b591169ea0580c6642243a909c18b",
+      "sourceTextSha256": "8cace6bf480cf50c3a41a491181913d0f869949cbbc9cae23f36a13d46dc260d",
+      "freshTranslation": "모바일 슈트. ㊥ 당초, 가변기로서 설계되면서도 프레임 강도의 문제에 의해 비가변기로서 ㊥ 완성된 백식의 문제점을 다시 씻어, 바이오 센서 등, Z건담의 기술적 장점을 ㊥ 포함하면서, 재설계된 기체. ㊥ 그 결과 웨이브 라이더 형태로의 변형이 가능해져 중력하에서의 비행 능력과 ㊥ 대기권 돌입 능력을 갖춘 전 영역에서 활동 가능한 만능 공격기로 완성되었다. ㊥이지만, 가변기에 공통되는 비용의 문제나, 규격외의 부품도 많이 사용된 것이 원인으로 ㊥이 되어, 양산화에는 이르지 않고, 소수가 생산될 뿐이 되었다. ㊥ 그 특징으로부터, 부대 편성에는 짜넣기 어렵기 때문에, 마찬가지로 규격외에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00083/Sheet1/000013",
+      "sourceBindingSha256": "be8b530ded6ac02c91d18b58d02c4b421a6a49ace6f4c90e5e5b95e15763628f",
+      "sourceTextSha256": "c7bcde46fe44886d46e1834f852fb7c91b16a420a58d088fe33428c2970dc543",
+      "freshTranslation": "사용되는 네 ㊥ 르 아가마에 배치되어 리디 마세나스가 탑승했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

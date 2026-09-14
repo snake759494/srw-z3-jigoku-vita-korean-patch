@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00051",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00051/Sheet1/000002",
+      "sourceBindingSha256": "3505023215ebfbead486078e3f4dcea6e09e91edea3ebff24eb7f23ffcbe354c",
+      "sourceTextSha256": "431100102afcb4c3e4e506820d52121f2e40ec34cd8b13d59f7e222c5f53de57",
+      "freshTranslation": "Mom",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00051/Sheet1/000003",
+      "sourceBindingSha256": "eb40a38493c042eaef648716ff238feaedcbeed52b06c8e4f92bfa172ad56f40",
+      "sourceTextSha256": "431100102afcb4c3e4e506820d52121f2e40ec34cd8b13d59f7e222c5f53de57",
+      "freshTranslation": "Mom",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00051/Sheet1/000004",
+      "sourceBindingSha256": "09b9f3daabc4889c0571cdc910af77bb664f86ee7d2fe2d766e17f10594dcf9a",
+      "sourceTextSha256": "55d4cef583236d8712832b2fc554334775bc8e806e1a513982cf659d564d844f",
+      "freshTranslation": "초시공세기 오거스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00051/Sheet1/000005",
+      "sourceBindingSha256": "e5ec1b79f57509934f3d7b68e0fe095971b0db18a28e6917188e2bb0d8e28b8e",
+      "sourceTextSha256": "a71b83d995ec8d07864c43da1dbfdcac98c5f23c3c6cc4eef2dd3333ca0fdee4",
+      "freshTranslation": "심설 사나에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00051/Sheet1/000006",
+      "sourceBindingSha256": "70d032cdefa4cb796b52bad5bf093fcce6587493cb22097001ea74d38f5b507d",
+      "sourceTextSha256": "2e193a4fe5a10ac957ea7dc078b91498a88837e3adf84b91300c38b585bfd25b",
+      "freshTranslation": "무우로 만든 휴머노이드. ㊥ 외모는 인간 소녀와 변함없이 시공 전이에 휘말려",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00051/Sheet1/000007",
+      "sourceBindingSha256": "db7166229e0f7ec5b397fe40d4368eb19aa5d601b6437d6dc80b6c957bc509a3",
+      "sourceTextSha256": "def58f04bd0e9d98dbb3f61bdc515062e0262be820e222cc3b16baa53e325570",
+      "freshTranslation": "아틀란티스에서 ㊥은 판매로 나란히있었습니다. 거기를 카츠라에게 매입되어 글로마의 일원이 되었다. ㊥ 인간과는 친구가 되도록 설계되어 있기 때문에 인간과 동등한 감정 회로를 가지고 ㊥ 한다. 그 때문에, 자신의 은인이기도 한 가쓰라에게 언제밖에 연심을 안게 되어 갔다. ㊥ 간호·수리용으로 만들어진 만큼 있고, 일상생활의 잡용으로부터 메카의 정비까지 폭넓게 ㊥ 하고 있었다. ㊥ 무우와의 결전 도중, 뮌지를 돕기 위해 자신의 에너지를 디모라의 주 ㊥포로 돌리는 것으로 적을 격퇴한다. 하지만 가쓰라가 달려들었을 때에는 이미 전체 에너지를 사용해 ㊥ 과연 하고 있어 그 팔 안에서 눈뚜껑을 닫는다. 그 후, 카츠라의 눈물에 배웅되면서, 우주㊥의 심연으로 사라져 갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00051/Sheet1/000008",
+      "sourceBindingSha256": "fe08930637564bf367aae797550bd2490d66141f3e775ed7ceedd95191250a21",
+      "sourceTextSha256": "2e193a4fe5a10ac957ea7dc078b91498a88837e3adf84b91300c38b585bfd25b",
+      "freshTranslation": "무우로 만든 휴머노이드. ㊥ 외모는 인간 소녀와 변함없이 시공 전이에 휘말려",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00051/Sheet1/000009",
+      "sourceBindingSha256": "c0803ff1a12ec11a8da2aeac2c8a3ad5584fac046052d42e6030c790104481a9",
+      "sourceTextSha256": "def58f04bd0e9d98dbb3f61bdc515062e0262be820e222cc3b16baa53e325570",
+      "freshTranslation": "아틀란티스에서 ㊥은 판매로 나란히있었습니다. 거기를 카츠라에게 매입되어 글로마의 일원이 되었다. ㊥ 인간과는 친구가 되도록 설계되어 있기 때문에 인간과 동등한 감정 회로를 가지고 ㊥ 한다. 그 때문에, 자신의 은인이기도 한 가쓰라에게 언제밖에 연심을 안게 되어 갔다. ㊥ 간호·수리용으로 만들어진 만큼 있고, 일상생활의 잡용으로부터 메카의 정비까지 폭넓게 ㊥ 하고 있었다. ㊥ 무우와의 결전 도중, 뮌지를 돕기 위해 자신의 에너지를 디모라의 주 ㊥포로 돌리는 것으로 적을 격퇴한다. 하지만 가쓰라가 달려들었을 때에는 이미 전체 에너지를 사용해 ㊥ 과연 하고 있어 그 팔 안에서 눈뚜껑을 닫는다. 그 후, 카츠라의 눈물에 배웅되면서, 우주㊥의 심연으로 사라져 갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

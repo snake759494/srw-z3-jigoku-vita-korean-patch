@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00011",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00011/Sheet1/000002",
+      "sourceBindingSha256": "a904fa79837ece9d022f10f0ff800bc07532523ebb45b8d5b6e09cd9aa0d951d",
+      "sourceTextSha256": "660cb2bd3e3666cf82c24015e4677190650cc624e7c59e4d8f521462556c97c4",
+      "freshTranslation": "조나단",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00011/Sheet1/000003",
+      "sourceBindingSha256": "7b1b6db4ef2d458fec6b222fe1910bbc279cf65faddef4a32d58617c166c3c14",
+      "sourceTextSha256": "660cb2bd3e3666cf82c24015e4677190650cc624e7c59e4d8f521462556c97c4",
+      "freshTranslation": "조나단",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00011/Sheet1/000004",
+      "sourceBindingSha256": "eb83a847b7b84c1ad725a68f2c22c26c665e6e53a7a89e2b0f0ae43ae0a6ec72",
+      "sourceTextSha256": "77c406ff1c1b9634902fdd15ec771c2a07e20db9f0a6b53196dbf872ebd5aa4c",
+      "freshTranslation": "무적 로보 트라이더 G7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00011/Sheet1/000005",
+      "sourceBindingSha256": "7be5f0831f6a0da30d650250de6191345c8a33c7caa49998023f73f2e5104a9a",
+      "sourceTextSha256": "3805e151dfef6a6c4776cb590d08df7675d73b6e66f97a0bc3806c1d2ca8a0f8",
+      "freshTranslation": "다케오 일반 회사 애완 동물 불독. ㊥ 감코지의 자전거와 병주하는 모습이 여러 번 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00011/Sheet1/000006",
+      "sourceBindingSha256": "0f0ab2695ee0c0de0dbe9861f413c818a199347fcdfbca81dd47544fb573e6b2",
+      "sourceTextSha256": "3805e151dfef6a6c4776cb590d08df7675d73b6e66f97a0bc3806c1d2ca8a0f8",
+      "freshTranslation": "다케오 일반 회사 애완 동물 불독. ㊥ 감코지의 자전거와 병주하는 모습이 여러 번 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

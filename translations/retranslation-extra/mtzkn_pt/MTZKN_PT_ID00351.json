@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00351",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00351/Sheet1/000002",
+      "sourceBindingSha256": "bd20b19a37dcfeee9fe227704fb69599d21bf607dc097cf246c11a5433dd5005",
+      "sourceTextSha256": "faed743884afd19058ab710fb47582969420b7c5880093ac83efb68858d7dd00",
+      "freshTranslation": "펜펜",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00351/Sheet1/000003",
+      "sourceBindingSha256": "d6b0f274a9dfc95f07e1fda8d84abcecc5fb6b26e71a185c434e8330d7e45b51",
+      "sourceTextSha256": "faed743884afd19058ab710fb47582969420b7c5880093ac83efb68858d7dd00",
+      "freshTranslation": "펜펜",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00351/Sheet1/000004",
+      "sourceBindingSha256": "501cb6bf1dc0692819f46b666bb0747793bac0afb8288c6b259b089e7eb0e957",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00351/Sheet1/000005",
+      "sourceBindingSha256": "fd96e38255937527375fc858a53c9e96862cbd5d5622d4290c3f1c25a4fe3fa2",
+      "sourceTextSha256": "c5e634a91f9a65e77384f840d43c739fb9df9e7f087901f50efa8a1d0d08f8e0",
+      "freshTranslation": "미사토가 기르고 있는 온천 펭귄. ㊥ 냉장고의 개인실에서 살고 있으며, 목욕을 위해 맥주를 마신다. ㊥ 온천펭귄은 현재는 멸종위기종이지만, 두번째 임팩트 이전에는 수많은 서식㊥하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00351/Sheet1/000006",
+      "sourceBindingSha256": "f393491cbbefdaa3a52f00978daba3405dfb1907f2c865003f246c9d0340d36b",
+      "sourceTextSha256": "c5e634a91f9a65e77384f840d43c739fb9df9e7f087901f50efa8a1d0d08f8e0",
+      "freshTranslation": "미사토가 기르고 있는 온천 펭귄. ㊥ 냉장고의 개인실에서 살고 있으며, 목욕을 위해 맥주를 마신다. ㊥ 온천펭귄은 현재는 멸종위기종이지만, 두번째 임팩트 이전에는 수많은 서식㊥하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

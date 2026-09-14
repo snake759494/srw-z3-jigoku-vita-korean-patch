@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00097",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00097/Sheet1/000002",
+      "sourceBindingSha256": "bf2c388cb8608a6c21ab6e1284e8dd85ebc41c94a566747f18dfd352dd2f90e4",
+      "sourceTextSha256": "1f81d993c5a5c94e05d757acf973a9f8e0387be7574dc9f0b4b9ff8ed0d6f650",
+      "freshTranslation": "위스퍼드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00097/Sheet1/000003",
+      "sourceBindingSha256": "620b17287c8d11a225a2d1e0a9a70a1674db8c2b197b594c331e0708e93346e0",
+      "sourceTextSha256": "914af5dcbc8c0b6cb94015d0f98c70513418c5ec15557e2cb76c03973f5ce3bb",
+      "freshTranslation": "\"풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00097/Sheet1/000004",
+      "sourceBindingSha256": "77a722ed8ec7e548c8651c4cecb438a9742b8ad56c54b58283189dbe4c97fc44",
+      "sourceTextSha256": "983aba52bd5705db667e47e82a5457e818e6c23cd7092b5947890b663276695d",
+      "freshTranslation": "르 패닉! \"",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00097/Sheet1/000005",
+      "sourceBindingSha256": "b99f1726742156f930cc734ccef8161e553c8b2880da1215b30d5fe9a6551bc7",
+      "sourceTextSha256": "c0f06dec21eaef894315b6a31b03f639c12db0c61fa581808e85b3eb46d19bba",
+      "freshTranslation": "현재의 기술 체계에서는 개발되지 않은 기술을 아는 특수한 인간. ㊥ 그 존재하지 않는 기술은 블랙 테크놀로지라고 불리며, 사용법에 ㊥에 의하면 현재의 군사 밸런스를 일변시키는 일도 가능해진다. 따라서 다양한 세트 ㊥ 짠은 위스퍼드의 탈취를 획책하고 미스릴은 그들을 지키기 위해 행동하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00097/Sheet1/000006",
+      "sourceBindingSha256": "020c07e8ecb8d327f2f51565332bd23cab3003550a7cde51a6737514db747512",
+      "sourceTextSha256": "671e2c813704dda874f873711fcc291e78635841c41ddc7f987d06bd9e96aac4",
+      "freshTranslation": "현재의 기술 체계에서는 개발되지 않은 기술을 아는 특수한 인간. ㊥ 그 존재하지 않는 기술은 블랙 테크놀로지라고 불리며, 사용법에 ㊥에 의하면 현재의 군사 밸런스를 일변시키는 일도 가능해진다. 따라서 다양한 세트 ㊥ 짠은 위스퍼드의 탈취를 획책하고 미스릴은 그들을 지키기 위해 행동하고 있다. ㊥블랙 테크놀로지는 어색한 계기로 위스퍼드의 뇌리에, 마치 ㊥ 누군가가 속삭이도록 표현하지만, 그 시스템이나 원인에 대해서는 해㊥ 밝혀지지 않았다. ㊥ 람다 드라이버도 위스퍼드가 이끄는 블랙 테크놀로지의 제품으로 ㊥ 있다. ㊥ 현재 확인 된 위스퍼드로 테레사 테스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00097/Sheet1/000007",
+      "sourceBindingSha256": "05cbd13cc9a2ebcb2607a7ffa04fbbf6c761eb64101b935616e062f740574b86",
+      "sourceTextSha256": "70ebfce599b09a658f5bb3a297fe6b7e536170d042066380b01795b29336a537",
+      "freshTranslation": "로사와 치토리 카나 ㊥ 안이 있지만, 아말감 측에도 위스퍼드가 존재하는 것이 확실시되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

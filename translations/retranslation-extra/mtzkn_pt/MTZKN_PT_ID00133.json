@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00133",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00133/Sheet1/000002",
+      "sourceBindingSha256": "027a7cd25bd4fd8bbc4cc27336a1ece06ff827abcd2baf8d818b9068d8a404de",
+      "sourceTextSha256": "69332d056eb1d600706336d2bede202d7558151670e899fc0dd3bc6a122bd21d",
+      "freshTranslation": "리디 마세나스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00133/Sheet1/000003",
+      "sourceBindingSha256": "ed4ab894cb6930480ce6e67f7a7c6759f99355faa5f1f2ff7ce231190151f25f",
+      "sourceTextSha256": "8f97154540e5549f38768c706329ae1d14cf275cd2c0b8b77a34f1e73612996a",
+      "freshTranslation": "리디",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00133/Sheet1/000004",
+      "sourceBindingSha256": "b49581fa91d88405013c1166b4177a1a2e444599773ea2ffdf73d040e5359149",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00133/Sheet1/000005",
+      "sourceBindingSha256": "f642659045a453da17e18bb613f4af7656f0f790c79dff7ab70be4fcce34cfad",
+      "sourceTextSha256": "eb2dc0794fe6bc89c552b52c3e81cd210d27e59dbc84105c6b87987948951f92",
+      "freshTranslation": "나미가와 다이스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00133/Sheet1/000006",
+      "sourceBindingSha256": "159b9925fddc47ef6f5da6e0f215f6fce95dcd07c7dc02f87e0c967e5713ef70",
+      "sourceTextSha256": "931c56e9149673eadec1de07ac9993c57d070b3b64e507fa7ad8af7ac38917a4",
+      "freshTranslation": "론도 벨 소속의 젊은 조종사. 계급은 소위. 23세. ㊥ 정치인 일족인 마르세나스 가문의 남편이지만 집의 속박을 싫어하고 군대에 몸을 두고 있다. ㊥가문과는 상관없이 자신의 힘으로 몸을 세우고 싶지만, 아무래도 붙어서 ㊥하는 집의 영향에 내심으로는 용이하다. ㊥ 모바일 슈트보다 전투기에 더 관심이 많고 작은 복엽 기계의 모습",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00133/Sheet1/000007",
+      "sourceBindingSha256": "c7878c53bb7abdd7c6492a4a739747c9458b952a2010ee728e2fa8a78b3b0838",
+      "sourceTextSha256": "ca6b0128e91d789b77dcee1b936806a3f035970a91a207aab53d50406ef668dd",
+      "freshTranslation": "가 들어간 펜던트 ㊥를 부적으로 언제나 가지고 다니고 있다. ㊥ 좋은 청년으로 오드리에게 끌린다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00133/Sheet1/000008",
+      "sourceBindingSha256": "9809b12a16260cfb4124e4b5922641f273b77f3fd3d21a887025b241886d91d2",
+      "sourceTextSha256": "931c56e9149673eadec1de07ac9993c57d070b3b64e507fa7ad8af7ac38917a4",
+      "freshTranslation": "론도 벨 소속의 젊은 조종사. 계급은 소위. 23세. ㊥ 정치인 일족인 마르세나스 가문의 남편이지만 집의 속박을 싫어하고 군대에 몸을 두고 있다. ㊥가문과는 상관없이 자신의 힘으로 몸을 세우고 싶지만, 아무래도 붙어서 ㊥하는 집의 영향에 내심으로는 용이하다. ㊥ 모바일 슈트보다 전투기에 더 관심이 많고 작은 복엽 기계의 모습",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00133/Sheet1/000009",
+      "sourceBindingSha256": "07c99aea5dcd4855bf2953b3769b92dfb7186c59f9a12296fab7f93f285f827a",
+      "sourceTextSha256": "90f5cdd6be204f51a7f192e595278906ebf486b6e6b764a41bf4f1b3e052b030",
+      "freshTranslation": "가 들어간 펜던트 ㊥를 부적으로 언제나 가지고 다니고 있다. ㊥ 처음에는 리젤에 탑승했지만 시난주와의 싸움 이후 델",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00133/Sheet1/000010",
+      "sourceBindingSha256": "4abe86a6324fc87d15fbbf870b9eea792116760c2d84ef0c11be256a6a330273",
+      "sourceTextSha256": "276542093c58da98c4232b6e22f850bba2b2d6ce24cbe4765a7f487fc380480a",
+      "freshTranslation": "플러스로 환승㊥할 수 있다. ㊥ 좋은 청년으로 오드리에게 끌린다. ㊥ 오드리의 정체를 알고 나면 다시 그녀의 고귀함에 매료되어 싫어했던 집의 힘을 ㊥ 사용하여 그 소원을 이루려고 델",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00133/Sheet1/000011",
+      "sourceBindingSha256": "192e62d8a9494a1f2202c4b1a3d59aa483d5ed3f51d15733faf8ff7a86008a40",
+      "sourceTextSha256": "a6f33cd50c6fa7981637a31a972eb994882016c57f61f81cdbb116af1bf13a2e",
+      "freshTranslation": "플러스로 그녀와 함께 지구로 강하. ㊥ 하지만 지구에서 아버지 로난보다 상자와 마세나스 가문의 인연을 전해져 자신의 혈근에 절㊥ 바란다. 미네바에게 거기에서 구원을 구하는 것도 반대로 그 일로 그녀를 실망시켜 버린다. ㊥ 그 후, 로난의 의향에 의해 라 카이람에게 파견된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

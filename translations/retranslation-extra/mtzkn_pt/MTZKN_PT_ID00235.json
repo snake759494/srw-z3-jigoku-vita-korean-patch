@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00235",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00235/Sheet1/000002",
+      "sourceBindingSha256": "5229115efda3c4afab1bb76459ce8805421fc0c3e6116a488d423dc9892a5971",
+      "sourceTextSha256": "bb8e3cbb11fcdb3569e90775116bf1f2b9397aebb2b44fe0044ec16a1df70580",
+      "freshTranslation": "카미무라 메구미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00235/Sheet1/000003",
+      "sourceBindingSha256": "5fb162fe02ca32e4c610d5a6bbf9cdb2fac8df81b555dc2c1e605b3e813b4e88",
+      "sourceTextSha256": "bc454f09b7cc3d2cc14478babbfbcf529af43e9c241e94a94425bfef10378727",
+      "freshTranslation": "카미무라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00235/Sheet1/000004",
+      "sourceBindingSha256": "a23df4c855d1af1646532b0ed3676c913c8ee6e6f5dd4ae679469ba219e25ec9",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00235/Sheet1/000005",
+      "sourceBindingSha256": "35cd42ebbc69c7d9a9366272aabf975304cf7aaf8b35362e3616c3da50a82de9",
+      "sourceTextSha256": "af3df5ec773d498fdc0ff9b151240efdc7396ed96e6286d2d2be77dc8d0add5f",
+      "freshTranslation": "21세기 경비 보장의 사장 비서. ㊥ 유능한 여성으로 사장인 대하내를 옆에서 지지하고 있다. ㊥아카기와는 종자제끼리, 어린 시절보다 친해지고 있었던 것 같고, 아카기가 동사에 입사㊥하는 계기를 만든 것도 그녀이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00235/Sheet1/000006",
+      "sourceBindingSha256": "235f1545c517384c2a27da0ec3ec034dcd6f27da072707493ee859e85a10bbec",
+      "sourceTextSha256": "af3df5ec773d498fdc0ff9b151240efdc7396ed96e6286d2d2be77dc8d0add5f",
+      "freshTranslation": "21세기 경비 보장의 사장 비서. ㊥ 유능한 여성으로 사장인 대하내를 옆에서 지지하고 있다. ㊥아카기와는 종자제끼리, 어린 시절보다 친해지고 있었던 것 같고, 아카기가 동사에 입사㊥하는 계기를 만든 것도 그녀이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

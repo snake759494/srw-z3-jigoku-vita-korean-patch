@@ -1,0 +1,236 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00102",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000002",
+      "sourceBindingSha256": "6336a2fc524f3dd7af2b11b0004af0f0db83f072c224408ff9fcdd0c0726f873",
+      "sourceTextSha256": "346be9047966ce2da8c52b558233dbf3fc8838c851061d93c5185346bf6c4020",
+      "freshTranslation": "록온 스트라토스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000003",
+      "sourceBindingSha256": "67c215113cdab237e83bb6d3e2976fa3b9a2d94b89d42e7259fc26acb437b6d6",
+      "sourceTextSha256": "686b14af094fa4ec56ac965e68e20b754f3d83e4ee3c485ed5f16eb35f78d65e",
+      "freshTranslation": "록온",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000004",
+      "sourceBindingSha256": "8c60e3980c9fbff43bd2d1cb2bb2605b7f2e38c105f3f2709b455ca24cc53909",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000005",
+      "sourceBindingSha256": "b5320b75606fa7de5dfc3c55853c9a8c6e1bc60c1a87e5f9ea2401dba6ad6621",
+      "sourceTextSha256": "75dca42e2887bafa582038e8c1f643b2356b88095b37dbb5cd0ea0345fd688b8",
+      "freshTranslation": "미키 마이치로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000006",
+      "sourceBindingSha256": "94381d7e47da4e70c55b2d27c32c9a2b574311d767db93288efae5ca408802ff",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000007",
+      "sourceBindingSha256": "4f4fa11c50193b32b58e4bcfc1bf68638b2ec1ab6d16a4d3f98d71add0110e8d",
+      "sourceTextSha256": "755ecc36694b5ed68119f2ca58d53bbb0a8693cfccd4b44bfc156c81a91a5c68",
+      "freshTranslation": "루비잉의 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000008",
+      "sourceBindingSha256": "14463711739f68d4bc47c1dafd37ff159ddf9130300eadbe2bd152e76aa7b1b8",
+      "sourceTextSha256": "8b0081c2989ee4c0123a208431cb5452ee1cd750af1c89b4b5854e9bfd690dd8",
+      "freshTranslation": "ー.㊥유엔 군대와의 전투에서 전사 한 전 록온, 닐 딜란디의 쌍둥이 동생, 책㊥이름은 라일 디란디. 31세.㊥건담 사바냐에 탑승한다.㊥형을 이기면 뒤떨어지지 않는 대상 포착 능력을 가지고 록온의 이름을 이어받기에 적합한 스나㊥이핑을 보여준다.㊥반 지구 연방 조직",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000009",
+      "sourceBindingSha256": "4b8c71aad854d76866579b08f0d0702e0c4479665a768026e6ace0d4d689c045",
+      "sourceTextSha256": "2743da64f283c91e44f4e856ea1099ee2817950bd30bdc9ea483f180ed2d95ac",
+      "freshTranslation": "론의 구성원이며 처음에는 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000010",
+      "sourceBindingSha256": "7e6344b28e4dc6690e9026e1bfa5925ecb023cc8b7c00fac728fcd4bc8abd71d",
+      "sourceTextSha256": "33654cc603b680f0e40e5852c95e95f0701712f1bbe1b85c1b711b7784612a3f",
+      "freshTranslation": "루비잉의 동향을 찾아 ㊥하는 것도 참가의 목적이었다. ㊥ 부모와 여동생을 빼앗은 테러리스트에 대해서는 오빠만큼의 분노는 안고 있지 않다. 이것은 ㊥ 과거보다 미래를 향해 살아야 한다는 생각에 의한 것으로, 본인의 성격도 ㊥ 긍정적이며, 표면적으로는 사물에 대한 집착도 얇은 것처럼 행동한다. ㊥이지만, 이노베이드와의 결전에서 형을 포함한 가족의 원수인 서셰스와 대치했을 때에 ㊥는, 놀이 절반에 싸우는 그에게 분노를 태워, 결과적으로 모두의 원을 토벌하게 된다. ㊥ 같은 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000011",
+      "sourceBindingSha256": "ac8db44d90484bf365441b90422ee1db8083197c99df262d653b08750ef1aedb",
+      "sourceTextSha256": "478b30eed72e3095b3623615414a8d9c1a0b89596399ce89a693d9a7c34f21e5",
+      "freshTranslation": "루비잉에 도중 참가한 아뉴와 마음을 다니지만, 이노베㊥이드였던 그녀를 싸움 속에서 잃는다. ㊥이지만, 이 만남에 의해, 사람과 사람이 서로 이해할 수 있는 것을 믿을 수 있게 되었다. ㊥ 이노베이드 전투가 끝난 후에도 가족과 아뉴의 무덤을 향해 건담 마이스 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000012",
+      "sourceBindingSha256": "47bc1293298c95395f4184a2b2ffd575e6c05a42de135b6f9898cc531e549bcd",
+      "sourceTextSha256": "483192a012ca1fc5fe82a2b666eb91d74d7e4367099c977f5099ecd69b256b1d",
+      "freshTranslation": "- 계속 싸우는 것을 맹세하고 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000013",
+      "sourceBindingSha256": "dabbaecc711e0f57f64362c54cfe6f0010fe63f9b2058017ceabdc58d24fde7b",
+      "sourceTextSha256": "e1b1e3d7f2794bcc10bdd5e776dd15b70f621c16a94307e5038a9cc111a62367",
+      "freshTranslation": "루비잉으로 활동을 계속했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000014",
+      "sourceBindingSha256": "1ebe0b0bffe49ab7f9081b7293880f714e420c860689c43257e3030a19e110f3",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000015",
+      "sourceBindingSha256": "d81c0d6386c46935428b5bb51fc81ecb512300e1ac756e2ee0bff724514c8fd4",
+      "sourceTextSha256": "755ecc36694b5ed68119f2ca58d53bbb0a8693cfccd4b44bfc156c81a91a5c68",
+      "freshTranslation": "루비잉의 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000016",
+      "sourceBindingSha256": "b3d8b648d81d3aad46d871da483bbf65bab67fa17c4906269cfb3942013dd805",
+      "sourceTextSha256": "8b0081c2989ee4c0123a208431cb5452ee1cd750af1c89b4b5854e9bfd690dd8",
+      "freshTranslation": "ー.㊥유엔 군대와의 전투에서 전사 한 전 록온, 닐 딜란디의 쌍둥이 동생, 책㊥이름은 라일 디란디. 31세.㊥건담 사바냐에 탑승한다.㊥형을 이기면 뒤떨어지지 않는 대상 포착 능력을 가지고 록온의 이름을 이어받기에 적합한 스나㊥이핑을 보여준다.㊥반 지구 연방 조직",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000017",
+      "sourceBindingSha256": "cbba2f21e9dd44a37b7b4160bfef6eb679617a88f25e47ee0ef7e43c8495ad7e",
+      "sourceTextSha256": "2743da64f283c91e44f4e856ea1099ee2817950bd30bdc9ea483f180ed2d95ac",
+      "freshTranslation": "론의 구성원이며 처음에는 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000018",
+      "sourceBindingSha256": "7132167716fd843eb86ada24693fd121aa3864194e8df07a41f5a4be465eba27",
+      "sourceTextSha256": "33654cc603b680f0e40e5852c95e95f0701712f1bbe1b85c1b711b7784612a3f",
+      "freshTranslation": "루비잉의 동향을 찾아 ㊥하는 것도 참가의 목적이었다. ㊥ 부모와 여동생을 빼앗은 테러리스트에 대해서는 오빠만큼의 분노는 안고 있지 않다. 이것은 ㊥ 과거보다 미래를 향해 살아야 한다는 생각에 의한 것으로, 본인의 성격도 ㊥ 긍정적이며, 표면적으로는 사물에 대한 집착도 얇은 것처럼 행동한다. ㊥이지만, 이노베이드와의 결전에서 형을 포함한 가족의 원수인 서셰스와 대치했을 때에 ㊥는, 놀이 절반에 싸우는 그에게 분노를 태워, 결과적으로 모두의 원을 토벌하게 된다. ㊥ 같은 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000019",
+      "sourceBindingSha256": "eace06fad82f5441cd8ebb4a719ff1f7610064f085bee21530fa34203a40693b",
+      "sourceTextSha256": "478b30eed72e3095b3623615414a8d9c1a0b89596399ce89a693d9a7c34f21e5",
+      "freshTranslation": "루비잉에 도중 참가한 아뉴와 마음을 다니지만, 이노베㊥이드였던 그녀를 싸움 속에서 잃는다. ㊥이지만, 이 만남에 의해, 사람과 사람이 서로 이해할 수 있는 것을 믿을 수 있게 되었다. ㊥ 이노베이드 전투가 끝난 후에도 가족과 아뉴의 무덤을 향해 건담 마이스 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000020",
+      "sourceBindingSha256": "ce47d93baa299bdcb9f5f64b0afe848ab1982cc239412a458cbe7a491eb62da0",
+      "sourceTextSha256": "483192a012ca1fc5fe82a2b666eb91d74d7e4367099c977f5099ecd69b256b1d",
+      "freshTranslation": "- 계속 싸우는 것을 맹세하고 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00102/Sheet1/000021",
+      "sourceBindingSha256": "87f12c8fe0bf9346bb977b1adc5a5c025fc6d502f8d88ab182a501e68f529174",
+      "sourceTextSha256": "e1b1e3d7f2794bcc10bdd5e776dd15b70f621c16a94307e5038a9cc111a62367",
+      "freshTranslation": "루비잉으로 활동을 계속했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

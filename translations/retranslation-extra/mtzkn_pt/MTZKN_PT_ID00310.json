@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00310",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00310/Sheet1/000002",
+      "sourceBindingSha256": "19d06739083c1a515d6f3f6601ae5a49c95abd79a72ea6333f5ed957fc55db28",
+      "sourceTextSha256": "ca4ad66aacc1de6d7a0a41f1fdd2af362c70d3c1d06360dacfbdc8c13e99f70a",
+      "freshTranslation": "빌랄",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00310/Sheet1/000003",
+      "sourceBindingSha256": "a25346a6444d3c7971bf9af247ab0f2001b3cc3ffc7695cba5b8ee4efd062e98",
+      "sourceTextSha256": "ca4ad66aacc1de6d7a0a41f1fdd2af362c70d3c1d06360dacfbdc8c13e99f70a",
+      "freshTranslation": "빌랄",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00310/Sheet1/000004",
+      "sourceBindingSha256": "2400f3136901a16299c7ff5be8dc9df7787c3880c776e3d745235a9f22b76084",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00310/Sheet1/000005",
+      "sourceBindingSha256": "2ae67e91cce9d374e04a17b7fb7fe3711e43a5560f9e58ed64d627863f443d12",
+      "sourceTextSha256": "c6163262dc2678404e4e8528ce80ee92222a307b3b985db7149f9af688eb1afb",
+      "freshTranslation": "히야마 슈노",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00310/Sheet1/000006",
+      "sourceBindingSha256": "fcbb0a39556ee86acfdb71c5b792f8e49ae7048199694bcdffbf7e446c237f9b",
+      "sourceTextSha256": "792dd5a8a5c0281dcd89ca24eefa1535b33c6bd3ef49620e8c4b165a54f7f3ba",
+      "freshTranslation": "수인으로 전 나선왕 사천왕의 티밀프 부하의 수인 부대 인간 소토군 극동 방면 부대장. ㊥ 높은 전투 능력과 격렬한 기성을 가진 반면, 예절을 중시하는 일면도 있다. 죽은 나선왕 로㊥-제놈이나 상관이었던 티밀프나 다른 사천왕에게도 충의를 다하고, 지금도 경의를 지불㊥ 계속하고 있다. ㊥ 과거 전투에서 카미나와의 접촉, 그리고 패배를 경계로 사냥의 대상일 뿐 ㊥ 한 인간에 대한 인식을 크게 바꾼다. 이윽고, 자신이 모르는 안에 카미나가 죽었던 것을 ㊥ 알고, 한층 더 시몬에게까지 패배를 거듭한다. ㊥ \"사람이란 무엇인가?\"",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00310/Sheet1/000007",
+      "sourceBindingSha256": "d4a62d2cc5f0352eae256c1912475557c1ea87c0cda5aa3a4b2a368ad477d7f7",
+      "sourceTextSha256": "c2f6abad651221f82bf6ad11a3b974f94ff7cc74ddb561957d7b97ebd9f16633",
+      "freshTranslation": "질문을 받은 결과, 그 짐승 같지 않은 사고㊥에 관심을 가진 로제놈에 의해 불사의 몸을",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00310/Sheet1/000008",
+      "sourceBindingSha256": "425475a3999b92d9d4c37f27513f1033f72b3495a1fca9a4dd894a843aa6b7e5",
+      "sourceTextSha256": "3fc52d5f8b17f2fc88cf64e04f3f5f548de174a1ddc9451222b396661755369b",
+      "freshTranslation": "예. ㊥ 테펠린 함락 후에는 신정부에 대한 반정부 게릴라 활동에 몸을 던진다. ㊥ 게릴라로서의 전투에 패한 후 투옥되었지만 의외의 형태로 시몬과 재회. 자 ㊥ 등에 인류 섬멸 시스템이 발동한 것으로, 그것을 깨기 위해 과거의 숙적과 손을 잡는 ㊥ 일이 되었다. ㊥ 수인이기 때문에 나선력이야말로 가지지 않지만, 그 뛰어난 감정 조종 기술을 전망 ㊥ 글렌의 시트에 앉는다. 자신의 괴상한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00310/Sheet1/000009",
+      "sourceBindingSha256": "b1e331c316f20754a3f1101f82fcc663181e8cee42d8c9114109aa2a2efbde10",
+      "sourceTextSha256": "9c3f3d4435bd92847cccfedcfe0e530e6b0ff6497a1cdfe829fcfc1041545aec",
+      "freshTranslation": "생명을 자조기로 웃으면서도 시몬과의 '숙박㊥명합체'를 성공시켰다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00310/Sheet1/000010",
+      "sourceBindingSha256": "631d0e62747aacd8dfaab12e6cf1df4173c89b17f3151416333859fc6e267f21",
+      "sourceTextSha256": "792dd5a8a5c0281dcd89ca24eefa1535b33c6bd3ef49620e8c4b165a54f7f3ba",
+      "freshTranslation": "수인으로 전 나선왕 사천왕의 티밀프 부하의 수인 부대 인간 소토군 극동 방면 부대장. ㊥ 높은 전투 능력과 격렬한 기성을 가진 반면, 예절을 중시하는 일면도 있다. 죽은 나선왕 로㊥-제놈이나 상관이었던 티밀프나 다른 사천왕에게도 충의를 다하고, 지금도 경의를 지불㊥ 계속하고 있다. ㊥ 과거 전투에서 카미나와의 접촉, 그리고 패배를 경계로 사냥의 대상일 뿐 ㊥ 한 인간에 대한 인식을 크게 바꾼다. 이윽고, 자신이 모르는 안에 카미나가 죽었던 것을 ㊥ 알고, 한층 더 시몬에게까지 패배를 거듭한다. ㊥ \"사람이란 무엇인가?\"",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00310/Sheet1/000011",
+      "sourceBindingSha256": "9cfcdad6e272e67956f28d2b46c8211e81f3d6de41537398efe40fd0fb01aaa3",
+      "sourceTextSha256": "c2f6abad651221f82bf6ad11a3b974f94ff7cc74ddb561957d7b97ebd9f16633",
+      "freshTranslation": "질문을 받은 결과, 그 짐승 같지 않은 사고㊥에 관심을 가진 로제놈에 의해 불사의 몸을",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00310/Sheet1/000012",
+      "sourceBindingSha256": "2bfdbd1b95c122c6ed21e817082b2c12f00860bc4507d04d91a96e1fc45dbb49",
+      "sourceTextSha256": "3fc52d5f8b17f2fc88cf64e04f3f5f548de174a1ddc9451222b396661755369b",
+      "freshTranslation": "예. ㊥ 테펠린 함락 후에는 신정부에 대한 반정부 게릴라 활동에 몸을 던진다. ㊥ 게릴라로서의 전투에 패한 후 투옥되었지만 의외의 형태로 시몬과 재회. 자 ㊥ 등에 인류 섬멸 시스템이 발동한 것으로, 그것을 깨기 위해 과거의 숙적과 손을 잡는 ㊥ 일이 되었다. ㊥ 수인이기 때문에 나선력이야말로 가지지 않지만, 그 뛰어난 감정 조종 기술을 전망 ㊥ 글렌의 시트에 앉는다. 자신의 괴상한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00310/Sheet1/000013",
+      "sourceBindingSha256": "31c61edc7336958058bbd4ddc3849bf5ceb897c8b21a24b96df7c9bca39dbeea",
+      "sourceTextSha256": "157f59543c1446a1309652cb6112aed8882960a13ab791a8756bbbaf9afff449",
+      "freshTranslation": "생명을 자조로 웃으면서도 시몬과의 '숙박㊥명합체'를 성공시켜 안티 스파이럴과 싸웠다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

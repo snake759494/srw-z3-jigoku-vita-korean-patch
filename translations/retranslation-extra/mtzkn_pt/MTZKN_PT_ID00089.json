@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00089",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00089/Sheet1/000002",
+      "sourceBindingSha256": "e2bc7d5291d13b02f80200af3009a8ca694f3fd1fc9d30727db3976688d1e0b5",
+      "sourceTextSha256": "f38897c23c9d967883992d1a9ed77a5be0c11d45d92e42af96e2ff10d5eb4271",
+      "freshTranslation": "사리 포오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00089/Sheet1/000003",
+      "sourceBindingSha256": "4f13ffc3ca32eac3f3bfe042df59e9bdeaf3392a40cd3390d97d7c7a15b5b529",
+      "sourceTextSha256": "f8f34391a09bbf0629f31b47ec9a32688883efdc9fca46c89f0986b4dc28fc5a",
+      "freshTranslation": "사리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00089/Sheet1/000004",
+      "sourceBindingSha256": "35c4ff47541e4ce816dbe0df2517bfd8693e7c0c51b6024e82ae60e2c11ec9fe",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00089/Sheet1/000005",
+      "sourceBindingSha256": "98d4dfb21704b24322672c7f3f3716e31557770576e98b66091007be0794b905",
+      "sourceTextSha256": "416a9d1d3dbd3a4ca3033152a2a21a528631406701e52b6b6bbc7d13b40d454f",
+      "freshTranslation": "프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00089/Sheet1/000006",
+      "sourceBindingSha256": "359d33af30b9bed62a56fe86e4dad97a1cf783b679834cf7b630791d6cd60a61",
+      "sourceTextSha256": "decdc78b71a9a38830980340172dc552599ce442e4182e013a60bf6422693285",
+      "freshTranslation": "ー의 멤버. 코드명은 워",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00089/Sheet1/000007",
+      "sourceBindingSha256": "2763291024c3735a0a312fbcc39f7362622b9e326d4af10884617ab3f6f9b503",
+      "sourceTextSha256": "31133dd16fa36261a71ae14a66d00607b870e638754241aa0b2ff171555fab90",
+      "freshTranslation": "ー.㊥이전에는 연합군의 군사를 역임했으며, 히이로와의 만남을 통해 건담의 파이㊥로트에 관심을 가지고 OZ의 지구권 지배를 계기로 레지스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00089/Sheet1/000008",
+      "sourceBindingSha256": "df29c7801f17aec6bf0ed50be07803bb6d956df44b6e08006dc3544c8e34b949",
+      "sourceTextSha256": "ae57bc972e7af422041515e2d90a4af4b064821198c32d9973bbb6ef0694bc4e",
+      "freshTranslation": "언스가 된 후는 그 등㊥의 서포트를 실시하고 있었다. ㊥포용력이 있는 여성이며 프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00089/Sheet1/000009",
+      "sourceBindingSha256": "e564cc1109ffd9868e2e77cdcb07db7bc0d052578488774315dacb2c07be2b90",
+      "sourceTextSha256": "8e1b0c71e1c1677512226b8fd2d402fb2c5f8ae6e3ebf92dddc8306cc0797eaa",
+      "freshTranslation": "-나 건담 파일럿들의 완충재와 같은 ㊥ 역할을 담당하고 있다. ㊥ 그 친절은 고향 구 중국 지구에서 게릴라 부대에 참가했을 때에는 트레이즈에 ㊥ 패배하여 전의를 상실한 상태에 있던 오비의 마음의 상처를 치유하고 재기시킨 적도 있었다. ㊥ 행동적인 일면도 겸비하고 있어, 대전중은 반 OZ의 반란 분자 일파로서 각종 공작활 ㊥동을 지원, 지휘해 헤비 암즈, 샌드록을 회수해, 파일럿에게 전달했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00089/Sheet1/000010",
+      "sourceBindingSha256": "7f1ed0457c985979f22a50c46800495769c3ce129fc66079870128eb343dbbbe",
+      "sourceTextSha256": "416a9d1d3dbd3a4ca3033152a2a21a528631406701e52b6b6bbc7d13b40d454f",
+      "freshTranslation": "프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00089/Sheet1/000011",
+      "sourceBindingSha256": "3ee166e3a3ec44f4e495ebff4069b3f5aad7e6e9ff162b750ee96f830cc655f5",
+      "sourceTextSha256": "decdc78b71a9a38830980340172dc552599ce442e4182e013a60bf6422693285",
+      "freshTranslation": "ー의 멤버. 코드명은 워",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00089/Sheet1/000012",
+      "sourceBindingSha256": "6479a40cc1033d96df47161c5f3cadb3161bd35834965f804b31cc45a0e6538b",
+      "sourceTextSha256": "31133dd16fa36261a71ae14a66d00607b870e638754241aa0b2ff171555fab90",
+      "freshTranslation": "ー.㊥이전에는 연합군의 군사를 역임했으며, 히이로와의 만남을 통해 건담의 파이㊥로트에 관심을 가지고 OZ의 지구권 지배를 계기로 레지스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00089/Sheet1/000013",
+      "sourceBindingSha256": "d355aba8f10d458b1cf4783d19b981839f4e29048eb22dc21abcc7d8b75e19c9",
+      "sourceTextSha256": "ae57bc972e7af422041515e2d90a4af4b064821198c32d9973bbb6ef0694bc4e",
+      "freshTranslation": "언스가 된 후는 그 등㊥의 서포트를 실시하고 있었다. ㊥포용력이 있는 여성이며 프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00089/Sheet1/000014",
+      "sourceBindingSha256": "a271b7c2b774dfba311a76d7ef1d9bc2bf360e72ee5cbbe31d49efceb97389ee",
+      "sourceTextSha256": "990f0c26f02c201cff1e2f8a4d7f5fc9e6b67725983791c7e57f9921264dca10",
+      "freshTranslation": "-나 건담 파일럿들의 완충재와 같은 ㊥ 역할을 담당하고 있다. ㊥ 그 친절은 고향 구 중국 지구에서 게릴라 부대에 참가했을 때에는 트레이즈에 ㊥ 패배하여 전의를 상실한 상태에 있던 오비의 마음의 상처를 치유하고 재기시킨 적도 있었다. ㊥ 행동적인 일면도 겸비하고 있어, 대전중은 반 OZ의 반란 분자 일파로서 각종 공작활 ㊥동을 지원, 지휘해 헤비 암즈, 샌드록을 회수해, 파일럿에게 전달했다. ㊥ 마리 메이어 군대의 반란이 끝나면 오비를 프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00089/Sheet1/000015",
+      "sourceBindingSha256": "9f5958a2bd9c308e063afa3ebebe3f71dd2d0d64b5ba0117adc347629e746efd",
+      "sourceTextSha256": "1d404b5a10bf3c0991f527417ad388463d2a2c0f40ae2441a705bbf236c100a0",
+      "freshTranslation": "에 권유해 활동을 계속하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

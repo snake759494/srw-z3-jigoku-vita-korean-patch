@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00035",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00035/Sheet1/000002",
+      "sourceBindingSha256": "cf5885d7e34b56782bc227708ed4a1fb4f499ada2ff666389ec19ab799d241a5",
+      "sourceTextSha256": "7dc0fc7452e405f5c315cadf6ad6e892e3f7bd9c65fb9cb7f1f9ef058c909315",
+      "freshTranslation": "티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00035/Sheet1/000003",
+      "sourceBindingSha256": "3b9f62151710dd1135c59eb5935b4d362712d215d5aa3023ac0c365e99a2fabf",
+      "sourceTextSha256": "500ad10b9a48eb8eb5c836e42829eae9ba829e2daf61c4e559636e2150f8e47a",
+      "freshTranslation": "네즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00035/Sheet1/000004",
+      "sourceBindingSha256": "fd28034edb09730515b37d31e0f9d1278bc26e5bb61cf3d01e0f71378ce145c7",
+      "sourceTextSha256": "9e5464f47a8aff72df3528348b8488c8409eb8196a31c3e3aba2be43794445ef",
+      "freshTranslation": "「기동전사 Z건담」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00035/Sheet1/000005",
+      "sourceBindingSha256": "d2c7a19ff9de435e1cb904efc525d490ddd038a52def48caa5a72fff371c5c88",
+      "sourceTextSha256": "34a95360d1b22007731b7f496b51d226c2c5786a5118e2c473e54e62feb72d8f",
+      "freshTranslation": "지구 출신의 엘리트로 구성된 지구 연방군의 특수 부대. ㊥자미토프 하이먼에 의해 창설되었고, 나중에 펩테마스 시로코가 지도 ㊥자의 자리를 이어받았다. ㊥ 스페이스 노이드 모니터링을 위해 U. C. 0083년에 설립되었다. 하지만 ㊥실태는 스페이스 노이드를 탄압하기 위해 만들어진 조직이며, 필요하다면 독㊥가스에 의한 콜로니 주민의 대량 학살을 그만두지 않는다. ㊥ 소속하는 대원도 선민의식을 가지고 일반 장병이나 시민에 대해 오만한 태도를 취하는 ㊥자도 있다. ㊥ 그 대항세력으로 결성된 에우고와의 싸움 가운데 최고 지도자 시로코 ㊥의 전사와 콜로니 레이저 공방전에 패배한 것으로 사실상의 해산이 되었다. ㊥이 U. C. 0087 년에 일어난 에우고와 티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00035/Sheet1/000006",
+      "sourceBindingSha256": "0b2ef50f0af8fe94c834cdcfae29174464724e090ec28fa4fc6522cc409d1c35",
+      "sourceTextSha256": "6a524ee53a82981396fd6bcfa1c0ff32bb142a3532fe6167c3eb498a9777de63",
+      "freshTranslation": "네즈의 전란은 \"구㊥립스 전역\"이라고 불렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00035/Sheet1/000007",
+      "sourceBindingSha256": "4c5505b62d803fb5292cacc515175453dfb88c0e4dc6ce674d3d6b12e0ca6fb9",
+      "sourceTextSha256": "34a95360d1b22007731b7f496b51d226c2c5786a5118e2c473e54e62feb72d8f",
+      "freshTranslation": "지구 출신의 엘리트로 구성된 지구 연방군의 특수 부대. ㊥자미토프 하이먼에 의해 창설되었고, 나중에 펩테마스 시로코가 지도 ㊥자의 자리를 이어받았다. ㊥ 스페이스 노이드 모니터링을 위해 U. C. 0083년에 설립되었다. 하지만 ㊥실태는 스페이스 노이드를 탄압하기 위해 만들어진 조직이며, 필요하다면 독㊥가스에 의한 콜로니 주민의 대량 학살을 그만두지 않는다. ㊥ 소속하는 대원도 선민의식을 가지고 일반 장병이나 시민에 대해 오만한 태도를 취하는 ㊥자도 있다. ㊥ 그 대항세력으로 결성된 에우고와의 싸움 가운데 최고 지도자 시로코 ㊥의 전사와 콜로니 레이저 공방전에 패배한 것으로 사실상의 해산이 되었다. ㊥이 U. C. 0087 년에 일어난 에우고와 티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00035/Sheet1/000008",
+      "sourceBindingSha256": "bd9909b0953e1f8d3bb58aed8f138c75221e34422befb348fc0ca6ce051decc5",
+      "sourceTextSha256": "6a524ee53a82981396fd6bcfa1c0ff32bb142a3532fe6167c3eb498a9777de63",
+      "freshTranslation": "네즈의 전란은 \"구㊥립스 전역\"이라고 불렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00140",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00140/Sheet1/000002",
+      "sourceBindingSha256": "1be420d0288fc66b42277a8ad5505bf968320540b4c6b1e9e20d80f51958ea74",
+      "sourceTextSha256": "2e50e921e3c7b75fbcf433d1563a8398e58c77dd78a57ca4d82d5572435bab13",
+      "freshTranslation": "(체인지!)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00140/Sheet1/000003",
+      "sourceBindingSha256": "e049e9059bc4fb893d92de7ad97c0dc6f73f14d65e6a6abe81b8f411bc928619",
+      "sourceTextSha256": "7c3cb5cb2ef14de63eec14acd214053a7f20637efe0ffd4631309ea46fb1a51d",
+      "freshTranslation": "- 로보 세계 마지막 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00140/Sheet1/000004",
+      "sourceBindingSha256": "a51f27134143a9645163127dea53998e01c0caa56663cb123deea529274a38c6",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00140/Sheet1/000005",
+      "sourceBindingSha256": "97249ce689205db42c9ec0f3fc43f698f79bb271faeb173e19719efefa1607e2",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00140/Sheet1/000006",
+      "sourceBindingSha256": "b45b9de4f9a7ed2424d40881eab125830e23096c3c0b4cc5f361aceea97ca599",
+      "sourceTextSha256": "dc5f28b1097281c4d4c312090a741d95cb5d345e16390a57ca5af940554c6332",
+      "freshTranslation": "가미 하야토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00140/Sheet1/000007",
+      "sourceBindingSha256": "aa37eb5ff9b328349761ed464c80e7fc2f2eec47ade757c1ef124712a4cf29e0",
+      "sourceTextSha256": "a90b0c57770e8833ff24b3cb69fc28e11dc66ea4a7301ecd53210d3258108c70",
+      "freshTranslation": "지상·지중 전투용으로 개발된 마지막 게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00140/Sheet1/000008",
+      "sourceBindingSha256": "f0f43008f7efde967bd5ea3ee9dca03c2dd346ab716b03ec19d94838f904da52",
+      "sourceTextSha256": "889d48299853ddb0808e8cfc8119717e55f2d2eec555227d224bfbc461f1419c",
+      "freshTranslation": "- 로보. ㊥ 초절적인 속도를 자랑하고 오른팔에 대비한 거대한 드릴을 이용한 돌격전법을 자랑으로 ㊥한다. ㊥ 드릴 미사일, 드릴 허리케인, 플라즈마 드릴 허리케인 등 거의 모든 ㊥ 기술이 드릴을 이용한 것도 특징.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00140/Sheet1/000009",
+      "sourceBindingSha256": "6de1e4adc4978c6b62626c96066851fd21bd56b7b56b8eee2b20bdd5a0e38cf3",
+      "sourceTextSha256": "a90b0c57770e8833ff24b3cb69fc28e11dc66ea4a7301ecd53210d3258108c70",
+      "freshTranslation": "지상·지중 전투용으로 개발된 마지막 게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00140/Sheet1/000010",
+      "sourceBindingSha256": "5ba749f632ef0a28eb5a26638bfd12393b1929158429f4a8a7db267b54be818c",
+      "sourceTextSha256": "889d48299853ddb0808e8cfc8119717e55f2d2eec555227d224bfbc461f1419c",
+      "freshTranslation": "- 로보. ㊥ 초절적인 속도를 자랑하고 오른팔에 대비한 거대한 드릴을 이용한 돌격전법을 자랑으로 ㊥한다. ㊥ 드릴 미사일, 드릴 허리케인, 플라즈마 드릴 허리케인 등 거의 모든 ㊥ 기술이 드릴을 이용한 것도 특징.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

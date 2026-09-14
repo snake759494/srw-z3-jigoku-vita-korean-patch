@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00149",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00149/Sheet1/000002",
+      "sourceBindingSha256": "c6836a873f21fae5aa0a567d3503e6941f33735011bc0f272b4981f0d2c48d00",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00149/Sheet1/000003",
+      "sourceBindingSha256": "bd9e2a98062edc8c5292aab8c2103c4728abf3fae3d9fe929afc8dab2b551084",
+      "sourceTextSha256": "846780d42c3d76107a511df8911757a95f2a44559f30bd6e90073cb037e151b9",
+      "freshTranslation": "뷰너스 A",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00149/Sheet1/000004",
+      "sourceBindingSha256": "811f0d7309f4abe33044743ad0a36c3b32654bb66fdd118ddb41ec2a17ae6cfd",
+      "sourceTextSha256": "846780d42c3d76107a511df8911757a95f2a44559f30bd6e90073cb037e151b9",
+      "freshTranslation": "뷰너스 A",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00149/Sheet1/000005",
+      "sourceBindingSha256": "d1fbe365b0c1e6ebc03645d512d56d39b3cd235b571c20464976ef0b6c43f08e",
+      "sourceTextSha256": "7a0d9e3fa47edd01b39401b26016e8fc43eaca6c9c1fcc699158e37fef5e33c0",
+      "freshTranslation": "활 사야카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00149/Sheet1/000006",
+      "sourceBindingSha256": "80c2fd7b5aa8b465e0d759651ce806b2bcc1a83c3b4b86d01db67d7ce3be08fd",
+      "sourceTextSha256": "d957daf7fc5710a5d201301b683b0f8b9c92b9673202626ee1e66860244b16e7",
+      "freshTranslation": "아프로다이 A의 후계기. ㊥ 당초부터 전투용으로 만들어졌기 때문에 아프로다이 A와 비교하면 현격히 전투력이 ㊥ 증가하고 있다. ㊥ 그 외모는 조종사 인 사야카 자신을 모델로하여 제작되었습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00149/Sheet1/000007",
+      "sourceBindingSha256": "4fc8a5bb3740b5a26110c1a9a6242b041fe4d3075bca6d8632fed0df6f6037e3",
+      "sourceTextSha256": "95e928eda3997dafeac9d18148dc6a0fceda77f5ce45d16f32d852fa44536e3e",
+      "freshTranslation": "일㊥도 꽤 좋아지고 있다. ㊥ 비행도 가능하며, 광자력 빔 외에 양팔에 초합금 Z로 만든 컷",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00149/Sheet1/000008",
+      "sourceBindingSha256": "64f7c0d26d1a7fd6c4af165074ee2619888f139ba28c2283fff3c6359e9b5e5c",
+      "sourceTextSha256": "0e875cb049b9ba53b0e52fa4f4de8419e57421e97f20959128bd11a8ca755bf8",
+      "freshTranslation": "를 장비하고 있다. ㊥ 최종 결전에서는 분전하는 것도 브로켄 백작이 조종하는 기계 짐승 브로켄 V2 슈나이더㊥에 잡혀 버린다. 절체절명의 핀치에 빠지기도 과학요새연구소의 원호를 받아 ㊥ 위기를 벗었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00149/Sheet1/000009",
+      "sourceBindingSha256": "c9906fe0be7132c3b151f31b974606115913569b113f2534ff162c0cad129410",
+      "sourceTextSha256": "d957daf7fc5710a5d201301b683b0f8b9c92b9673202626ee1e66860244b16e7",
+      "freshTranslation": "아프로다이 A의 후계기. ㊥ 당초부터 전투용으로 만들어졌기 때문에 아프로다이 A와 비교하면 현격히 전투력이 ㊥ 증가하고 있다. ㊥ 그 외모는 조종사 인 사야카 자신을 모델로하여 제작되었습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00149/Sheet1/000010",
+      "sourceBindingSha256": "cd0cc5f4c5b9000077ce9077e20ec31273f179ede65e70cbb7c653c6486731a8",
+      "sourceTextSha256": "95e928eda3997dafeac9d18148dc6a0fceda77f5ce45d16f32d852fa44536e3e",
+      "freshTranslation": "일㊥도 꽤 좋아지고 있다. ㊥ 비행도 가능하며, 광자력 빔 외에 양팔에 초합금 Z로 만든 컷",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00149/Sheet1/000011",
+      "sourceBindingSha256": "5f0d4ce85bb00c39e59b5cbf53974b2f3c44f61a326ac62476a283e3b82fd490",
+      "sourceTextSha256": "0e875cb049b9ba53b0e52fa4f4de8419e57421e97f20959128bd11a8ca755bf8",
+      "freshTranslation": "를 장비하고 있다. ㊥ 최종 결전에서는 분전하는 것도 브로켄 백작이 조종하는 기계 짐승 브로켄 V2 슈나이더㊥에 잡혀 버린다. 절체절명의 핀치에 빠지기도 과학요새연구소의 원호를 받아 ㊥ 위기를 벗었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

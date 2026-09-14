@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00182",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00182/Sheet1/000002",
+      "sourceBindingSha256": "e3b34d3af9cba0072cc91ef6e001e3c83ccf0aeae5ee9f9bf2741eddaf6b806a",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00182/Sheet1/000003",
+      "sourceBindingSha256": "35895c142bc9c88269f43279eebc6446ae19ec79a5abb7960a68bbe7a875745a",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00182/Sheet1/000004",
+      "sourceBindingSha256": "e03b1180d7ccb47e7e53cb2a9903c015ab1fa8a5d4e71a5d9095cb54e91079b1",
+      "sourceTextSha256": "2254d1c3c05b4f447516556a085bf7f560fe8a2e6af5baeecc0e06cdf9cdc558",
+      "freshTranslation": "Zy-98 그림자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00182/Sheet1/000005",
+      "sourceBindingSha256": "522a777af96656e2e7aac08267e78482bd0315da94d6301ebaeb4795e44bed70",
+      "sourceTextSha256": "2254d1c3c05b4f447516556a085bf7f560fe8a2e6af5baeecc0e06cdf9cdc558",
+      "freshTranslation": "Zy-98 그림자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00182/Sheet1/000006",
+      "sourceBindingSha256": "cf9b45cdbe96d503bc352ba9a082478ae12b2ce98cb07d5a50f0d8ee69b20aab",
+      "sourceTextSha256": "83fe77256b3052d218e23aa5c6824ee618817453089b7a52840e0e3a7b3ff353",
+      "freshTranslation": "동쪽이 시험중인 3세대 AS. ㊥ 서쪽 차기 주력 AS, M9와 같은 팔라듐 리악",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00182/Sheet1/000007",
+      "sourceBindingSha256": "61a26bbd604a96f082ba6dbd05c23857b0cc16e71d415b6cfad3519d2ee99491",
+      "sourceTextSha256": "3ef56e8e733e178305d2045f17deb712ee924455750da4539d5f3610349fc987",
+      "freshTranslation": "-를 탑재해, 기본 성능은 M㊥9에 필적하지만, 전자 무장은 지연을 취하고 있다. ㊥ 주요 무장은 돌격 소총과 단분자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00182/Sheet1/000008",
+      "sourceBindingSha256": "9934200aeb80a688dd800fc730c67cac43137b379ae7fe973a45e4244ee33ccd",
+      "sourceTextSha256": "b2a07f95fbf15f289ba737e99c0847171fbd9387b9d2bf571d0d0267513191a1",
+      "freshTranslation": "- 등으로 고정 무기로서 와이어가㊥이 있다. ㊥ 미스릴에 적대하는 조직도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00182/Sheet1/000009",
+      "sourceBindingSha256": "c07fcd99b4567878877c5760731d4c7ed39b6149243bac26a0cbb1a5a5ea8381",
+      "sourceTextSha256": "9ef8c669a728db19c15527f615352ea0c58874a0beeff4b5e75a3f2099206c16",
+      "freshTranslation": "사용하고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00182/Sheet1/000010",
+      "sourceBindingSha256": "d9125d19af7ef2829ef423beeab37aae3fa9bc990b071b37b3dce1cf674cb760",
+      "sourceTextSha256": "73023c2b683602e0a1991acd14c5a475253f5886a964dcc48bbfb439030b9ecf",
+      "freshTranslation": "무기도 존재한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00182/Sheet1/000011",
+      "sourceBindingSha256": "fe212fd80e2dbc96960d7526e17b47f7807034599d242206121f8240a31b563c",
+      "sourceTextSha256": "83fe77256b3052d218e23aa5c6824ee618817453089b7a52840e0e3a7b3ff353",
+      "freshTranslation": "동쪽이 시험중인 3세대 AS. ㊥ 서쪽 차기 주력 AS, M9와 같은 팔라듐 리악",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00182/Sheet1/000012",
+      "sourceBindingSha256": "fb5e39907b4a29cd9399b4d2f43113581bc16c68cf054feec7e052824c5bd9fd",
+      "sourceTextSha256": "3ef56e8e733e178305d2045f17deb712ee924455750da4539d5f3610349fc987",
+      "freshTranslation": "-를 탑재해, 기본 성능은 M㊥9에 필적하지만, 전자 무장은 지연을 취하고 있다. ㊥ 주요 무장은 돌격 소총과 단분자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00182/Sheet1/000013",
+      "sourceBindingSha256": "7dd3cb3ccf823697126652643d5f04b9b092ad772767cbce954e05d19211419c",
+      "sourceTextSha256": "07f4df5a8aa6a603d9cdf94285e1287f944cd3a3233ed1a6d276e8b232abd892",
+      "freshTranslation": "- 등으로 고정 무기로서 와이어가㊥이 있다. ㊥ 비밀 조직 아말감도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00182/Sheet1/000014",
+      "sourceBindingSha256": "64dc2d4b7905dad03b4d381cd9eff28cbc0e56455314167efe6e5b8fa7a5edd9",
+      "sourceTextSha256": "9ef8c669a728db19c15527f615352ea0c58874a0beeff4b5e75a3f2099206c16",
+      "freshTranslation": "사용하고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00182/Sheet1/000015",
+      "sourceBindingSha256": "d8d890b318f26587b569297eb5b86d9cd528b8c8a961343d4605c53fd428e51d",
+      "sourceTextSha256": "73023c2b683602e0a1991acd14c5a475253f5886a964dcc48bbfb439030b9ecf",
+      "freshTranslation": "무기도 존재한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

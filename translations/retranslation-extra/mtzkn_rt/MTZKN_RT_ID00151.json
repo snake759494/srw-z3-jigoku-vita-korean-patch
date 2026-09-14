@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00151",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00151/Sheet1/000002",
+      "sourceBindingSha256": "eebca16476d738869f7ff778f8578eeb53a441acde58322327cf08d4fb875c89",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00151/Sheet1/000003",
+      "sourceBindingSha256": "94cde6edd072a70e5c1765058e8b6c01c1d1e78cf607c342b232e98819533f91",
+      "sourceTextSha256": "3a9b55dede4292d34c4221dd513327d5d8ddea0a70c8baf3840f969c8f5d130e",
+      "freshTranslation": "갈라다 K7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00151/Sheet1/000004",
+      "sourceBindingSha256": "962fc28e56f715b275dee4ffde7e698172c8c1d59ec792ed69c350b58418882a",
+      "sourceTextSha256": "3a9b55dede4292d34c4221dd513327d5d8ddea0a70c8baf3840f969c8f5d130e",
+      "freshTranslation": "갈라다 K7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00151/Sheet1/000005",
+      "sourceBindingSha256": "8d94a40e750a0d9761e08c565a0e5cc04d375085593ccf8cc5cbf298470d1a3e",
+      "sourceTextSha256": "45104ba73bc86cb97ea1a7f0f38c997278042fe9fe35acb77708aebc3661ab38",
+      "freshTranslation": "제3화 『출격! 아슈라 군단에 등장한 기계 짐승. ㊥ 아슈라 남작이 조종하는 기계 짐승으로 행동 불능이 되었다고 생각되었다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00151/Sheet1/000006",
+      "sourceBindingSha256": "3486ff91926c49b6343662c18ceb5e687c28cadf5fff0c763aee1093c2a55dad",
+      "sourceTextSha256": "695ba3e67f4aee679130a0c2174616488999fb6425f05730c8a752a1994cb9f2",
+      "freshTranslation": "로스상 속에서 모습을 ㊥ 했다. ㊥ 머리의 거대한 컷",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00151/Sheet1/000007",
+      "sourceBindingSha256": "b2f059ae0e4e557e653b779faeeba3cd8fa1161103a087d3b78693f27258ceae",
+      "sourceTextSha256": "5a29670e1562629e68bf936bf63f556c20a8a7d623fbb8191c18effa61f3b889",
+      "freshTranslation": "를 투척, 그리고 소지 무기로 취급해, 마징가 Z의 조종㊥에 익숙하지 않은 갑아를 괴롭혔다. ㊥ 마지막은 로켓 펀치에 관통 한 후, 루스트 허리케인에 의해 산화. 그만의 한 ㊥ 격을 받고 먼지가 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00151/Sheet1/000008",
+      "sourceBindingSha256": "4a90d96cda11fb5bb007bc83ecdd06ad604c4f1c189e93f06041b1afceb86a59",
+      "sourceTextSha256": "45104ba73bc86cb97ea1a7f0f38c997278042fe9fe35acb77708aebc3661ab38",
+      "freshTranslation": "제3화 『출격! 아슈라 군단에 등장한 기계 짐승. ㊥ 아슈라 남작이 조종하는 기계 짐승으로 행동 불능이 되었다고 생각되었다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00151/Sheet1/000009",
+      "sourceBindingSha256": "b93d8aaf3e52bcf3bb2a81330cbe464ddb1d8bce619cb37ff4336b6ac81ee839",
+      "sourceTextSha256": "695ba3e67f4aee679130a0c2174616488999fb6425f05730c8a752a1994cb9f2",
+      "freshTranslation": "로스상 속에서 모습을 ㊥ 했다. ㊥ 머리의 거대한 컷",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00151/Sheet1/000010",
+      "sourceBindingSha256": "7a9be114ff2a82ff0dd98752ddc27f3a4e03fd1a1d1a87a78d56ad95715c3ba6",
+      "sourceTextSha256": "5a29670e1562629e68bf936bf63f556c20a8a7d623fbb8191c18effa61f3b889",
+      "freshTranslation": "를 투척, 그리고 소지 무기로 취급해, 마징가 Z의 조종㊥에 익숙하지 않은 갑아를 괴롭혔다. ㊥ 마지막은 로켓 펀치에 관통 한 후, 루스트 허리케인에 의해 산화. 그만의 한 ㊥ 격을 받고 먼지가 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

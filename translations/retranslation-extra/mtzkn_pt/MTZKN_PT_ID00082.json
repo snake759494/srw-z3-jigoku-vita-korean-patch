@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00082",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00082/Sheet1/000002",
+      "sourceBindingSha256": "e8070788dae6a95a125fb8e794a7dd909be1e7b1def7b426a64e4873b671b605",
+      "sourceTextSha256": "cdff3fa5a5a755aebd8b150838174ca3872590af974227b62c2e613c84622416",
+      "freshTranslation": "루크레지아 노인",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00082/Sheet1/000003",
+      "sourceBindingSha256": "ac674137eec484e9c1abfae6ef613d7312252c24a6f5575a554309909d145458",
+      "sourceTextSha256": "72052388059104b00e261c1679aab929d99685272240e75df0d217f7215d645c",
+      "freshTranslation": "노인",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00082/Sheet1/000004",
+      "sourceBindingSha256": "506c9f670a9c0ee5fc96f94bd230c540288ed7592ab2f9ce53dbc45d1a48bc2f",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00082/Sheet1/000005",
+      "sourceBindingSha256": "8c8a3f7a36811f79e9dc755d66fe98c06e22950a7c0c5bc10d4630251871246a",
+      "sourceTextSha256": "7bd5da4415714af18e5951911ea053a9b607303acb299456733faeb482e2a2d2",
+      "freshTranslation": "요코야마 토모사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00082/Sheet1/000006",
+      "sourceBindingSha256": "cf9fa80c83023eca8acef6ee39a64612e975706bbde4ced29727bf025f0701a7",
+      "sourceTextSha256": "416a9d1d3dbd3a4ca3033152a2a21a528631406701e52b6b6bbc7d13b40d454f",
+      "freshTranslation": "프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00082/Sheet1/000007",
+      "sourceBindingSha256": "d1d292debb5106f7f5fd42479a82632f6eddee58dd6211ade73f285f50534414",
+      "sourceTextSha256": "00698acde424d07c5eef0c59fb47c178ed2091194c81cb6eb350cf2d4801e875",
+      "freshTranslation": "ー의 일원. 코드 네임은 파이어.㊥한때는 OZ의 신병 양성 교관이었다.㊥사관학교를 톱의 젝스에 이은 성적으로 졸업하고 있으며, 지휘관으로서도 모빌스㊥츠의 파일럿으로서도 우수.㊥사관학교 시절부터 젝스를 깊이 사랑했고, 떠난 시간을 정확하게 기억합니다.㊥너무.㊥양성하고 있던 신병들을 고비의 습격으로 잃으면, 처벌을 맹세하고 젝스의 부하가 되지만,㊥젝스가 OZ를 탈퇴하면, 그것을 쫓도록 탈퇴. 그의 여동생 인 릴리나의 경호㊥맡게 된다.㊥신생 생크 킹덤을 릴리나가 흥행했을 때는, 그 보좌를 맡고, 비밀리에 군비㊥를 정돈하는 등 실무를 담당하고 있었다.㊥전후에는 프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00082/Sheet1/000008",
+      "sourceBindingSha256": "165be166e76553b482d44a9a98a76f58a28d851709a5f36b60dc8d4b942c6420",
+      "sourceTextSha256": "54959ba04a14dfd432d18b70b7feff8a33d551e126b0113a79d58ae7c4e557db",
+      "freshTranslation": "-에 소속되어 평화의 유지에 맡는다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00082/Sheet1/000009",
+      "sourceBindingSha256": "5ed0b111999e785566b72c065c699b46212f461f068a7aef4f4661233da7926b",
+      "sourceTextSha256": "416a9d1d3dbd3a4ca3033152a2a21a528631406701e52b6b6bbc7d13b40d454f",
+      "freshTranslation": "프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00082/Sheet1/000010",
+      "sourceBindingSha256": "f4adf13f83278b475392bb1399d2b377e0c3628ed103829c3fdee30e13eecc27",
+      "sourceTextSha256": "00698acde424d07c5eef0c59fb47c178ed2091194c81cb6eb350cf2d4801e875",
+      "freshTranslation": "ー의 일원. 코드 네임은 파이어.㊥한때는 OZ의 신병 양성 교관이었다.㊥사관학교를 톱의 젝스에 이은 성적으로 졸업하고 있으며, 지휘관으로서도 모빌스㊥츠의 파일럿으로서도 우수.㊥사관학교 시절부터 젝스를 깊이 사랑했고, 떠난 시간을 정확하게 기억합니다.㊥너무.㊥양성하고 있던 신병들을 고비의 습격으로 잃으면, 처벌을 맹세하고 젝스의 부하가 되지만,㊥젝스가 OZ를 탈퇴하면, 그것을 쫓도록 탈퇴. 그의 여동생 인 릴리나의 경호㊥맡게 된다.㊥신생 생크 킹덤을 릴리나가 흥행했을 때는, 그 보좌를 맡고, 비밀리에 군비㊥를 정돈하는 등 실무를 담당하고 있었다.㊥전후에는 프리벤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00082/Sheet1/000011",
+      "sourceBindingSha256": "a05f693c12d42a0885e47ee368522c54a9d50f501946cf2bdfb6ca896f9f8e29",
+      "sourceTextSha256": "3a7bfba3e177eed935ccefada8270b61e0027d1ad72f1c11383f379028d1299d",
+      "freshTranslation": "-에 소속되어 평화의 유지에 봉사, 브뤼셀에서 마리 메이어㊥군과의 싸움에서는 토러스를 달려 건담 파일럿에 못지않은 활약을 보였다. ㊥ 마리 메이어의 반란 후에는 재회한 젝스와 함께 테라포밍 계획에 종사할 때마다 ㊥ 우주로 여행을 떠났다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

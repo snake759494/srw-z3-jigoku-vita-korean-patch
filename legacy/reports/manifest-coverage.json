@@ -1,0 +1,99 @@
+{
+    "schemaVersion":  2,
+    "reports":  [
+                    {
+                        "manifest":  "legacy-main",
+                        "comparableFiles":  223,
+                        "changedFiles":  219,
+                        "manifestEntries":  222,
+                        "changedNotManifested":  [
+                                                     "DATA/kurodata/KDataVITA.cpk"
+                                                 ],
+                        "manifestedButUnchanged":  [
+                                                       "DATA/STAGE/STG0400.cpk",
+                                                       "DATA/STAGE/STG0401.cpk",
+                                                       "DATA/STAGE/STG0904.cpk",
+                                                       "DATA/STAGE/STG0905.cpk"
+                                                   ],
+                        "localizedOnlyGameCandidates":  [
+
+                                                        ],
+                        "localizedOnlyAncillary":  [
+
+                                                   ],
+                        "orphanDeltaFiles":  [
+
+                                             ],
+                        "missingInputs":  [
+
+                                          ]
+                    },
+                    {
+                        "manifest":  "legacy-dlc",
+                        "comparableFiles":  29,
+                        "changedFiles":  29,
+                        "manifestEntries":  29,
+                        "changedNotManifested":  [
+
+                                                 ],
+                        "manifestedButUnchanged":  [
+
+                                                   ],
+                        "localizedOnlyGameCandidates":  [
+
+                                                        ],
+                        "localizedOnlyAncillary":  [
+                                                       "DLC_패치생성명령어.xlsx",
+                                                       "DLC_패치적용명령어.xlsx",
+                                                       "Patch/1_README_DLC.txt",
+                                                       "Patch/2_PCSG00264_DLC_Korean_Apply.bat",
+                                                       "Patch/DLC0301_cpk.xdelta",
+                                                       "Patch/DLC0302_cpk.xdelta",
+                                                       "Patch/DLC0303_cpk.xdelta",
+                                                       "Patch/DLC0304_cpk.xdelta",
+                                                       "Patch/DLC0305_cpk.xdelta",
+                                                       "Patch/DLC0306_cpk.xdelta",
+                                                       "Patch/DLC0307_cpk.xdelta",
+                                                       "Patch/DLC0308_cpk.xdelta",
+                                                       "Patch/DLC0309_cpk.xdelta",
+                                                       "Patch/DLC0310_cpk.xdelta",
+                                                       "Patch/DLC0311_cpk.xdelta",
+                                                       "Patch/DLC0312_cpk.xdelta",
+                                                       "Patch/DLC0313_cpk.xdelta",
+                                                       "Patch/DLC0314_cpk.xdelta",
+                                                       "Patch/DLC0315_cpk.xdelta",
+                                                       "Patch/DLC0316_cpk.xdelta",
+                                                       "Patch/DLC0317_cpk.xdelta",
+                                                       "Patch/DLC0318_cpk.xdelta",
+                                                       "Patch/DLC0319_cpk.xdelta",
+                                                       "Patch/DLC0320_cpk.xdelta",
+                                                       "Patch/DLC0321_cpk.xdelta",
+                                                       "Patch/DLC0322_cpk.xdelta",
+                                                       "Patch/DLC0323_cpk.xdelta",
+                                                       "Patch/DLC0324_cpk.xdelta",
+                                                       "Patch/DLC0327_cpk.xdelta",
+                                                       "Patch/DLC0328_cpk.xdelta",
+                                                       "Patch/DLC0329_cpk.xdelta",
+                                                       "Patch/DLC0330_cpk.xdelta",
+                                                       "Patch/DLC0331_cpk.xdelta",
+                                                       "Patch/xdelta.exe",
+                                                       "PCSG00264_DLC_Korean_Create_250109.bat",
+                                                       "PCSG00264_DLC-Patch-250110.zip",
+                                                       "xdelta.exe"
+                                                   ],
+                        "orphanDeltaFiles":  [
+
+                                             ],
+                        "missingInputs":  [
+
+                                          ]
+                    }
+                ],
+    "issues":  [
+                   {
+                       "manifest":  "legacy-main",
+                       "kind":  "changedNotManifested",
+                       "path":  "DATA/kurodata/KDataVITA.cpk"
+                   }
+               ]
+}

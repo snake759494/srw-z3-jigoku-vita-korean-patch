@@ -1,0 +1,258 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00142",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000002",
+      "sourceBindingSha256": "64e2a233201f9232de956026f234048dc77210f0fac748428f4e7d744fc2c746",
+      "sourceTextSha256": "2e50e921e3c7b75fbcf433d1563a8398e58c77dd78a57ca4d82d5572435bab13",
+      "freshTranslation": "(체인지!)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000003",
+      "sourceBindingSha256": "4a437921cfda92414f803708368d014c9d8fff1f92bdbe3aa935bbc58d4ec8e0",
+      "sourceTextSha256": "7c3cb5cb2ef14de63eec14acd214053a7f20637efe0ffd4631309ea46fb1a51d",
+      "freshTranslation": "- 로보 세계 마지막 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000004",
+      "sourceBindingSha256": "21728e486b29631e8f2b3f48b4607af14218f4db5ffd38ffbc0f9b39f14a4c60",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000005",
+      "sourceBindingSha256": "fbb5afd6ff6d74bc6c9cb4b08cf1a1b62f87a5ef7cbba6d719a77f8402d4a1a0",
+      "sourceTextSha256": "98059eb96e6c9cda96d055e7bad6dd438839f4d2c221e6f5b53716451f22af61",
+      "freshTranslation": "드래곤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000006",
+      "sourceBindingSha256": "bc1fa4eb4c207927a2d39c39044ac3c5bf3b23b5816f803a3969b852b93d3340",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000007",
+      "sourceBindingSha256": "1f55c75c3e1686aa781967c33b23a9d131ef9d733fa0c1901ca09e0c0ca6be50",
+      "sourceTextSha256": "98059eb96e6c9cda96d055e7bad6dd438839f4d2c221e6f5b53716451f22af61",
+      "freshTranslation": "드래곤",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000008",
+      "sourceBindingSha256": "97edb9c821809be6767e3aa84a4edc0d22185ddb4f702526c80f868cfef24ca2",
+      "sourceTextSha256": "2d921c2181b092848e70801a9f96ea1746372768bad490c8d0687a586292edfa",
+      "freshTranslation": "드래곤의 최종 형태. ㊥ 한번 사망한 호였지만, 계의 위기를 느끼고 부활하고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000009",
+      "sourceBindingSha256": "d5ddbb21ea0952d9f10dc516272abebaaaaa1ceb2bcfd2fc478048ce5c170ab6",
+      "sourceTextSha256": "f16025341ecd0ff0492016e1057c964d5443d81ca8565f58bcb0fbaed1615dd8",
+      "freshTranslation": "드래곤을 최종 형태로 ㊥ 진화시켜 우주로 올라갔다. ㊥ 목성의 위성 가니메데조차 일격으로 파괴 할 정도의 게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000010",
+      "sourceBindingSha256": "9e337e885ab7233d213332b51504823899d5015337149c3dd5d932015957c446",
+      "sourceTextSha256": "a7f5429345af389975dd31b327a5554682adb349470d5dc24cde6e859f4c6737",
+      "freshTranslation": "- 빔을 가지고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000011",
+      "sourceBindingSha256": "22d04e5ffaa90b9d2b3bbe97c81ad0879cef1ad56649b0cf732f7bc89b762e50",
+      "sourceTextSha256": "24ed3b063dadca29b98aa68a54b8ef28f87c16c166bed4b445ada13d12fba00c",
+      "freshTranslation": "라이거, ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000012",
+      "sourceBindingSha256": "01d4888ce904821aa730437ca7ac9c0766be0c83676b36cf92198399eaddcfde",
+      "sourceTextSha256": "5ced64058d2bee7ee943595f20808319df817df9f54d52293242b995d4fb5a77",
+      "freshTranslation": "포세이돈으로의 변형도 가능. 단, 분리·합체가 아니라, 중심에 있는 통 형상의 부분㊥을 기점으로서 변형을 행한다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000013",
+      "sourceBindingSha256": "843b2525208f7216aba4aae907718aafe0e9ee6d89b3667700cb4440b47feb4a",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000014",
+      "sourceBindingSha256": "eea30a8d2580883fdeba92fd780de8f83d7823748fd399b902c6d3410dd78282",
+      "sourceTextSha256": "23794214c37851bd6c467a28b47d4377b249a4dae59332dfc436209873f7cd06",
+      "freshTranslation": "-와 힘을 합쳐 거대한 코웬 & 스팅거를 쓰러뜨리는 데 성공하는 것도 ㊥ 직후 명왕성조차 삼킬 정도의 시공간의 찢어짐이 출현. ㊥ 그것을 멈추기 위해 최종 무기 ·",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000015",
+      "sourceBindingSha256": "eea23fd94a750d3d403c9abbfe07d9a1286111429a8957cc4f396630f389ec5f",
+      "sourceTextSha256": "b036a72e2d1e4d8821ad06c945f3d629d697cfccf26676b9900b9391ffec4758",
+      "freshTranslation": "샤인스파크를 발동시켜 때의 틈으로 용마㊥들을 보냈다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000016",
+      "sourceBindingSha256": "53d3789c53164a999f668de7975415e609f8355e291dc9115bc5e75c62cd0d6b",
+      "sourceTextSha256": "2d921c2181b092848e70801a9f96ea1746372768bad490c8d0687a586292edfa",
+      "freshTranslation": "드래곤의 최종 형태. ㊥ 한번 사망한 호였지만, 계의 위기를 느끼고 부활하고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000017",
+      "sourceBindingSha256": "afebae8c895e9373ca95b4e4e0181bce83b0f92cb38401b116fb436be82a6a83",
+      "sourceTextSha256": "f16025341ecd0ff0492016e1057c964d5443d81ca8565f58bcb0fbaed1615dd8",
+      "freshTranslation": "드래곤을 최종 형태로 ㊥ 진화시켜 우주로 올라갔다. ㊥ 목성의 위성 가니메데조차 일격으로 파괴 할 정도의 게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000018",
+      "sourceBindingSha256": "38638b69bfda716f8615196bbb157df91b7a2f3215df79e4b3ff5333d79267e3",
+      "sourceTextSha256": "a7f5429345af389975dd31b327a5554682adb349470d5dc24cde6e859f4c6737",
+      "freshTranslation": "- 빔을 가지고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000019",
+      "sourceBindingSha256": "deea8c7fda8b1879536bc54410ea9c3736cc676b7f2310561c1455907f4fcf25",
+      "sourceTextSha256": "24ed3b063dadca29b98aa68a54b8ef28f87c16c166bed4b445ada13d12fba00c",
+      "freshTranslation": "라이거, ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000020",
+      "sourceBindingSha256": "2b39288a03bc260622f08c2c1ad648afc5160f79ed84c978b5771b806e7575d3",
+      "sourceTextSha256": "5ced64058d2bee7ee943595f20808319df817df9f54d52293242b995d4fb5a77",
+      "freshTranslation": "포세이돈으로의 변형도 가능. 단, 분리·합체가 아니라, 중심에 있는 통 형상의 부분㊥을 기점으로서 변형을 행한다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000021",
+      "sourceBindingSha256": "56ba43ee55c0993c8d7159a758eb62e8c0ab8623814318d1d3bd5f1ee5fbdd35",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000022",
+      "sourceBindingSha256": "15d7fedb4b631f96dc6e35bb0a69acf1c10c177d27ef1983bcd5245cb9c2e6dd",
+      "sourceTextSha256": "23794214c37851bd6c467a28b47d4377b249a4dae59332dfc436209873f7cd06",
+      "freshTranslation": "-와 힘을 합쳐 거대한 코웬 & 스팅거를 쓰러뜨리는 데 성공하는 것도 ㊥ 직후 명왕성조차 삼킬 정도의 시공간의 찢어짐이 출현. ㊥ 그것을 멈추기 위해 최종 무기 ·",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00142/Sheet1/000023",
+      "sourceBindingSha256": "ad9ebed527a6fa34c07210119ce2ca4b1e76e81a8c80ca44a2fa4108403c75b0",
+      "sourceTextSha256": "b036a72e2d1e4d8821ad06c945f3d629d697cfccf26676b9900b9391ffec4758",
+      "freshTranslation": "샤인스파크를 발동시켜 때의 틈으로 용마㊥들을 보냈다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

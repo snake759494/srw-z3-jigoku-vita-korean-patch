@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00072",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00072/Sheet1/000002",
+      "sourceBindingSha256": "76f9ea391f167f44098385fe13a732f3c744d858bc013eea586dfac5c4df0f4c",
+      "sourceTextSha256": "8c46c980180838a7bbd438a2097146c844e90f07401198e8c2461deb634b8862",
+      "freshTranslation": "아스토나지 메도소",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00072/Sheet1/000003",
+      "sourceBindingSha256": "6833a04000c333a66c905582780599515e9550672de0696e2a759b61bde5a6a0",
+      "sourceTextSha256": "d606de50ee0bf76f4241de2c5c602e733753f35f3efe8d8202640f6f9c0d4ea5",
+      "freshTranslation": "아스토나지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00072/Sheet1/000004",
+      "sourceBindingSha256": "57b406e50d63064c03f2eda83e07f34831947f66c90d9d0cebd6e2d3d1bd8817",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00072/Sheet1/000005",
+      "sourceBindingSha256": "bb91fb67addfc74c78c0b721f58cc598905695673686f8b806f07304752c71ff",
+      "sourceTextSha256": "d1449260e75d3084c2ff073c3d024494c5fc0d4524a63358b9b38d60ea6f7265",
+      "freshTranslation": "론도 벨대 라 카일람의 수석 정비공. ㊥원래는 에우고의 아가마의 메카닉이며, 확실한 팔을 갖고, 정비에 대해서는 엄격한㊥로 입 시끄럽다. 하지만 평소에는 온후하고 친절한 인물이며, 파일럿들로부터의 신임㊥도 두껍다. ㊥모빌슈트대의 케라와는 연인끼리이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00072/Sheet1/000006",
+      "sourceBindingSha256": "176edb0ab6e20dba053b5257d3892cc46374eb3eba2c54df255f8edd13937bed",
+      "sourceTextSha256": "54c46af32c3feccf821f6ef233271a061a4a386f17f79f0816514237d0b16dae",
+      "freshTranslation": "론도 벨대 라 카일람의 수석 정비공. ㊥원래는 에우고의 아가마의 메카닉이며, 확실한 팔을 갖고, 정비에 대해서는 엄격한㊥로 입 시끄럽다. 하지만 평소에는 온후하고 친절한 인물이며, 파일럿들로부터의 신임㊥도 두껍다. ㊥모빌슈트대의 케라와는 연인끼리이다. ㊥ 액시즈 공방전에서,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00072/Sheet1/000007",
+      "sourceBindingSha256": "044b372c9cc0b26a97dbd48f11b14e92e4818c611b87bfe6e06485503cb21b6f",
+      "sourceTextSha256": "f6ca4f65c7a377c58c3a62526c4cc5d51b1ae84dd3b22c46ec1bf0649bd07b51",
+      "freshTranslation": "팔트 근처가 피탄했을 때의 폭발에 휘말려 버린다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00206",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00206/Sheet1/000002",
+      "sourceBindingSha256": "6fa97cb5859ec85353e30beeb797f2fbd54b511ca77ff601fb5e5eb3a49a4feb",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00206/Sheet1/000003",
+      "sourceBindingSha256": "d9ec7149ff536d626341b8a69263d300be6f59e57ba760f4a0fffbab714da0d5",
+      "sourceTextSha256": "030291853bc351b828a72d7b2b3f05b8414f23f87c36dfb3136eb665657deae2",
+      "freshTranslation": "구로가네 오인중의 한 명. 통칭 「이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00206/Sheet1/000004",
+      "sourceBindingSha256": "89a1deb278c73dc1c785ca842cb6c161e75c50e9823fc3aab40ea4b7c051f43d",
+      "sourceTextSha256": "798eef146d2092aa84bf889ad2a317db7f2b26d9aa947981444fece87a0ad250",
+      "freshTranslation": "치의 싸구려. ㊥ 구로가네야의 유전계로서 손님의 등을 흘리지만, 실은 폭탄의 스페셜리스트. ㊥체내에는 광자력 폭탄을 묻어 언제든지 자폭상 등의 각오를 완료시키고 있는 ㊥명명 모른다. ㊥ 암흑사나 시로와는 말이 맞는 것 같고, 3명이 행동하는 장면도 많았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00206/Sheet1/000005",
+      "sourceBindingSha256": "b63a604aaa24fa24dcc617fe628d3c36aa6cf878096019c7c5ada76bcc07d44c",
+      "sourceTextSha256": "030291853bc351b828a72d7b2b3f05b8414f23f87c36dfb3136eb665657deae2",
+      "freshTranslation": "구로가네 오인중의 한 명. 통칭 「이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00206/Sheet1/000006",
+      "sourceBindingSha256": "0e4d3d36cdd5420a376dc9e0a5cb3f615a6da1824fe174f488ce0f40010f80ca",
+      "sourceTextSha256": "798eef146d2092aa84bf889ad2a317db7f2b26d9aa947981444fece87a0ad250",
+      "freshTranslation": "치의 싸구려. ㊥ 구로가네야의 유전계로서 손님의 등을 흘리지만, 실은 폭탄의 스페셜리스트. ㊥체내에는 광자력 폭탄을 묻어 언제든지 자폭상 등의 각오를 완료시키고 있는 ㊥명명 모른다. ㊥ 암흑사나 시로와는 말이 맞는 것 같고, 3명이 행동하는 장면도 많았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

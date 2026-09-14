@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00228",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00228/Sheet1/000002",
+      "sourceBindingSha256": "44ef4bcbd62bbea3c1745601ac43aa3c2d4235ff03d9d344162f3c997b954867",
+      "sourceTextSha256": "312bada6b89d95deabe1233dc6776f9c1294c5a0aade262960119adbba7589b3",
+      "freshTranslation": "요코자와 신야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00228/Sheet1/000003",
+      "sourceBindingSha256": "cff6d93f9593f5f15b9d3476d8e776254d664f3cb94d9efb0b31f970152be8f0",
+      "sourceTextSha256": "0f4c7eafed0a0a3d7ce2b1da71ca6096d2fc1726b2e272e675b8b2d588923d21",
+      "freshTranslation": "요코자와",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00228/Sheet1/000004",
+      "sourceBindingSha256": "93b00df5241af978c15119eb84d8072ee82d96fa6e5c4f314ec92d4c70987d25",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00228/Sheet1/000005",
+      "sourceBindingSha256": "8f342421f6a755c4a6671853233dccec0773e84a61a8b90084c6cbf6f3c5302d",
+      "sourceTextSha256": "0fddd7fe80b5a27983ad048d853a4cb15088be26773b2504c254374d933f1278",
+      "freshTranslation": "홍보 2과의 과장 보좌. 30세. ㊥ 본업인 홍보 기획뿐만 아니라, 다이 가드의 정비로부터, 수송기의 조종,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00228/Sheet1/000006",
+      "sourceBindingSha256": "df36e64e32788641c34e18617abb8238f3e8692ecb3a1d4501208b45a97a24c0",
+      "sourceTextSha256": "fbc385df9cae72d1f61081efb5c6635b59ca9c2c41b7d7d0766bbbfb440e192d",
+      "freshTranslation": "용의 ㊥ 진두 지휘까지 폭넓게 해내는 일자. ㊥가족 사랑은 사람 한배로, 특히 사랑 딸·마이의 일을 익사. 사진",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00228/Sheet1/000007",
+      "sourceBindingSha256": "1520f814fb7c2ee841db6ef333aab43fb0927d3ce09be2640c514bb18b62e623",
+      "sourceTextSha256": "882b181ebfeaa7cab4368dd1ac98f347ee3303abdd6886be10e06ddd916b0eca",
+      "freshTranslation": "도 항상 가지고 다니고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00228/Sheet1/000008",
+      "sourceBindingSha256": "4a41898d78ba08da51d4fc5d81dde1a33a5ac3465960637ae94cc07f65f13e03",
+      "sourceTextSha256": "0fddd7fe80b5a27983ad048d853a4cb15088be26773b2504c254374d933f1278",
+      "freshTranslation": "홍보 2과의 과장 보좌. 30세. ㊥ 본업인 홍보 기획뿐만 아니라, 다이 가드의 정비로부터, 수송기의 조종,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00228/Sheet1/000009",
+      "sourceBindingSha256": "a2d8778f89769c089f664d742a2ad26c2dd33348ecb7e71c0d2b2b2702a3185b",
+      "sourceTextSha256": "fbc385df9cae72d1f61081efb5c6635b59ca9c2c41b7d7d0766bbbfb440e192d",
+      "freshTranslation": "용의 ㊥ 진두 지휘까지 폭넓게 해내는 일자. ㊥가족 사랑은 사람 한배로, 특히 사랑 딸·마이의 일을 익사. 사진",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00228/Sheet1/000010",
+      "sourceBindingSha256": "e988029e12ba02b9c9bffb07a75e52ffcd6e0cf6194843f42f2ab25f3c0f7c66",
+      "sourceTextSha256": "882b181ebfeaa7cab4368dd1ac98f347ee3303abdd6886be10e06ddd916b0eca",
+      "freshTranslation": "도 항상 가지고 다니고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

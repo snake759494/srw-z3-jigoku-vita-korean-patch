@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00179",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00179/Sheet1/000002",
+      "sourceBindingSha256": "ae8c16ee12472a89b42d84cbd29032d9036549e219de37f0dd653058fc3255b2",
+      "sourceTextSha256": "efe91c611cb3e4bb601a3cf25373b3bb1aa00b5cf3ad30e10eb57c24d4d996f4",
+      "freshTranslation": "바비 마르고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00179/Sheet1/000003",
+      "sourceBindingSha256": "ff3b69824ce7cf789b32573a39663d5a27f0c6698b1367a36ac06357ac34e92e",
+      "sourceTextSha256": "d9ee0a28dc7b4cced170237f8a0ed4604c66f4b5b24b787e0689b90f6b88a448",
+      "freshTranslation": "바비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00179/Sheet1/000004",
+      "sourceBindingSha256": "210402b488fe5370baceffad67a68feebaeff7d9348b1cbe66bb494431aade03",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00179/Sheet1/000005",
+      "sourceBindingSha256": "fb39903e15a107f8e85bcd2be7d85b7327ef5c7528aa1cd8e0a66bc881755feb",
+      "sourceTextSha256": "c045a093c75104857191db0409549cf79796f2230817784e34fcfe4c9a9494a2",
+      "freshTranslation": "미야케 켄타",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00179/Sheet1/000006",
+      "sourceBindingSha256": "0263a6de3c66ee3ca29ecbe6387c69c3d53b58f294d29b31d934c62b0d48c028",
+      "sourceTextSha256": "c0d3a63f2fec78158d842fcc9a7a1204a1f896ed8e48e569596715eb59975d55",
+      "freshTranslation": "마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00179/Sheet1/000007",
+      "sourceBindingSha256": "913bca8fb0f333c3389ad79015ee096377fa7dbb1832c6a35d2c091d3d2a9c3b",
+      "sourceTextSha256": "e628fe874a4ce904006bb391ba5000de2591403c46630248b99c193e056560d6",
+      "freshTranslation": "의 조타 손. 계급은 대위. ㊥ 평소에는 여성 어조로 말하고, 여성 승무원과의 대화에 꽃을 피우고 있다. 하지만 전투가 되는 ㊥이라 조종간을 잡으면 일전하고 뜨거운 남성적인 성격이 나타난다. ㊥ 뛰어난 조함의 팔로 마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00179/Sheet1/000008",
+      "sourceBindingSha256": "3d1f25bfb2bbbe34ebf0b31f6b105b442def0088adf7562f86b5d966278d4136",
+      "sourceTextSha256": "bd83307340a283fe47aed441ea2c29079dbd116980e72879bd401bd0a6e351a9",
+      "freshTranslation": "를 정확하고 대담하게 조종한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00179/Sheet1/000009",
+      "sourceBindingSha256": "1e5be44c5527cd7e0654a3531d8cc26afc516c27b1097cea19a917a1bc7dd7cc",
+      "sourceTextSha256": "c0d3a63f2fec78158d842fcc9a7a1204a1f896ed8e48e569596715eb59975d55",
+      "freshTranslation": "마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00179/Sheet1/000010",
+      "sourceBindingSha256": "0618c315670b2d514a166f2cd5ba7deb124d5dbea7c549b7708a487770469c4b",
+      "sourceTextSha256": "e628fe874a4ce904006bb391ba5000de2591403c46630248b99c193e056560d6",
+      "freshTranslation": "의 조타 손. 계급은 대위. ㊥ 평소에는 여성 어조로 말하고, 여성 승무원과의 대화에 꽃을 피우고 있다. 하지만 전투가 되는 ㊥이라 조종간을 잡으면 일전하고 뜨거운 남성적인 성격이 나타난다. ㊥ 뛰어난 조함의 팔로 마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00179/Sheet1/000011",
+      "sourceBindingSha256": "4ffdbf14c508b7dc9bf8cff22aa368f8861c8d49d5af750a7e1f39a362b5e0ac",
+      "sourceTextSha256": "bd83307340a283fe47aed441ea2c29079dbd116980e72879bd401bd0a6e351a9",
+      "freshTranslation": "를 정확하고 대담하게 조종한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

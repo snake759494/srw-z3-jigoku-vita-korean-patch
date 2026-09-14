@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00180",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00180/Sheet1/000002",
+      "sourceBindingSha256": "89c3816d91238b0c1bc1d7e3a4662a10d50db191897dc684cfe9faeb12745c21",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00180/Sheet1/000003",
+      "sourceBindingSha256": "ac6a09f714eec48bba3863148a48a9bb314801adc6dfaa29e1db9e8667464b59",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00180/Sheet1/000004",
+      "sourceBindingSha256": "09103a3c8d3800eb78235e6c5b8b307ae15150ba33fe5bf169bd9ab126c17f16",
+      "sourceTextSha256": "5696e4ca5e42e93f24b691c1bcbf75d29fbf255f1283f5db24283f366375203f",
+      "freshTranslation": "C3-5 미스트랄 II",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00180/Sheet1/000005",
+      "sourceBindingSha256": "fcf019fb06cac8077b18d992418cbef1a8145282a2061b096b6a62bba6b4cbb4",
+      "sourceTextSha256": "5696e4ca5e42e93f24b691c1bcbf75d29fbf255f1283f5db24283f366375203f",
+      "freshTranslation": "C3-5 미스트랄 II",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00180/Sheet1/000006",
+      "sourceBindingSha256": "00d8f08f536be4e5c16e3a6c21410b79b46ed9a8f4a916271d2dcf2e2e2646e8",
+      "sourceTextSha256": "da2468e856b95fd923e5b0b1392b7697922e8fdf693f849c7c6358b3b892ed9e",
+      "freshTranslation": "2세대 AS. ㊥ 헤드 유닛을 가지지 않고, 경사 장갑을 조합한 독특한 디자인이 특징. 제2세대㊥로서는 기동성,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00180/Sheet1/000007",
+      "sourceBindingSha256": "42ea19240ebb92665d6d2f301b3a9cefab7e779b52181e57998383eee884de36",
+      "sourceTextSha256": "4f36b7177e71e818d584c25b5d22203ac3cf101ffa51eb0de8fbac34bfc55d0f",
+      "freshTranslation": "동성이 우수하다. ㊥ 고정 무기의 20mm 기관포 이외에, 휴대 무기로서 35mm 라이플, 단분자 컷㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00180/Sheet1/000008",
+      "sourceBindingSha256": "418b1ee351d5db8f1a6fc5c00a43dcb7c52ff85ad9083d810c9760c161fb6d50",
+      "sourceTextSha256": "1400708494658f48687178767503ba9246f91e70a30e485f5994be7a2093de49",
+      "freshTranslation": "- 대전차 미사일 등을 사용한다. ㊥ 중동과 남미 등 전세계에 수출되어 배포되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00180/Sheet1/000009",
+      "sourceBindingSha256": "a12642f2d127a2c3f4ecde47898cc4b453599ce0c23709496310e27df5419607",
+      "sourceTextSha256": "da2468e856b95fd923e5b0b1392b7697922e8fdf693f849c7c6358b3b892ed9e",
+      "freshTranslation": "2세대 AS. ㊥ 헤드 유닛을 가지지 않고, 경사 장갑을 조합한 독특한 디자인이 특징. 제2세대㊥로서는 기동성,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00180/Sheet1/000010",
+      "sourceBindingSha256": "9bb96a67acd56de655824528ba77f54124b4f3899c4f3989890935efeae54c26",
+      "sourceTextSha256": "4f36b7177e71e818d584c25b5d22203ac3cf101ffa51eb0de8fbac34bfc55d0f",
+      "freshTranslation": "동성이 우수하다. ㊥ 고정 무기의 20mm 기관포 이외에, 휴대 무기로서 35mm 라이플, 단분자 컷㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00180/Sheet1/000011",
+      "sourceBindingSha256": "82902eb9ff0d8407e6fdc4504ca7a73cf6d5dbf9375c9532c4b19b0fd55529e4",
+      "sourceTextSha256": "1400708494658f48687178767503ba9246f91e70a30e485f5994be7a2093de49",
+      "freshTranslation": "- 대전차 미사일 등을 사용한다. ㊥ 중동과 남미 등 전세계에 수출되어 배포되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

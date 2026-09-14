@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00077",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00077/Sheet1/000002",
+      "sourceBindingSha256": "ca3a8ed0b4883cd167c053a5ae3bc6896f7be67a6c9138cb5e97cb61f861c0d4",
+      "sourceTextSha256": "ee183c264ab6de87923ddaa38bda1de15c15f4197b84584af178003105c1dc6a",
+      "freshTranslation": "듀오 맥스웰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00077/Sheet1/000003",
+      "sourceBindingSha256": "553356be1b7601bd0827e256349eea2f6242a233c9075c6eb373c79590b4e85c",
+      "sourceTextSha256": "190f638ba39892254a944d2a0f9527021e515af3a2cc6a1ec9e1bbeebd4307fc",
+      "freshTranslation": "듀오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00077/Sheet1/000004",
+      "sourceBindingSha256": "c64a26fd04ac8ee2becd2d8756d84a28683823e3d564dcbb7af25c669aa57769",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00077/Sheet1/000005",
+      "sourceBindingSha256": "321fe41788b2634112f0c9db01afd7682925abf7b5b699f878783d9104b55d66",
+      "sourceTextSha256": "078b637b942902024eb1f53a7f51d6f4f94d1eddee2272c139bde343aa3ce079",
+      "freshTranslation": "세키 토시히코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00077/Sheet1/000006",
+      "sourceBindingSha256": "1ae0c6ff6fe44c28d9d85bc1e17e8261a2e044e9f5c8f8c0c4eeaa56c946a3cf",
+      "sourceTextSha256": "94799dd6072a6bdba595f9dfb9a4488e1a71b13402c338d63017a7079715aa40",
+      "freshTranslation": "오퍼레이션 메테오에서 L2 콜로니군 부근에 사는 스위퍼 그룹으로부터 보내 ㊥ 담긴 에이전트. 16세. ㊥ 건담 데스 사이즈 헬의 조종사로 일한다. ㊥ 희로애락을 분명하게 표로 내는 성격으로, 기본적으로는 명랑하게 행동한다. 때로는 강정함㊥을 보이기도 하고, 콜로니 출신의 건담 파일럿들 중에서는 가장 소년인 것 같다. ㊥ \"도망치거나 숨기기도 하지만 거짓말은 하지 않는다\"가 신조로, 일어날 때마다 사신이라고 자칭하는 것은 본인 웬㊥ \"기적은 본 적이 없지만, 사인은 가득 봤으니까.\" ㊥월면 기지 잠입시에 OZ의 지원병 힐데 슈바이커와 만나, 교류를 거듭하는 가운데㊥에 망신적으로 OZ를 믿고 있던 그녀의 일어나게 하는 것에 성공. 이후 서로 협력하는 ㊥처럼 되었다. ㊥ 최종 결전에서는 힐데의 정보를 바탕으로 리브라 내에 잠입. 잡힌 독",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00077/Sheet1/000007",
+      "sourceBindingSha256": "4403d9b7ac3bc8954905f87438e27657f188a1087e7c1301770676f66e4b9b91",
+      "sourceTextSha256": "b8345db0cd7d2d80aa9fb71d3c899b3a809b61e1e27ebd6f42dad2d275f86fd0",
+      "freshTranslation": "- 등㊥해방. 그들을 조각 밀리언으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00077/Sheet1/000008",
+      "sourceBindingSha256": "3e83d2b7e8e2e98f20dfd938683b23ec4261577cb8df4a511838207af5ef4e31",
+      "sourceTextSha256": "13616ba7031955a6ec4d4bd249e2e374c62f03d3e2990a868a0479a6e2eb1d8e",
+      "freshTranslation": "그리고, 낙하하는 리브라의 궤도를 바꾸는 것에 성공㊥하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00077/Sheet1/000009",
+      "sourceBindingSha256": "e0b11132b9b94adb454275e144a54c09ec9d3681a066b918758e792d0f5c3c73",
+      "sourceTextSha256": "94799dd6072a6bdba595f9dfb9a4488e1a71b13402c338d63017a7079715aa40",
+      "freshTranslation": "오퍼레이션 메테오에서 L2 콜로니군 부근에 사는 스위퍼 그룹으로부터 보내 ㊥ 담긴 에이전트. 16세. ㊥ 건담 데스 사이즈 헬의 조종사로 일한다. ㊥ 희로애락을 분명하게 표로 내는 성격으로, 기본적으로는 명랑하게 행동한다. 때로는 강정함㊥을 보이기도 하고, 콜로니 출신의 건담 파일럿들 중에서는 가장 소년인 것 같다. ㊥ \"도망치거나 숨기기도 하지만 거짓말은 하지 않는다\"가 신조로, 일어날 때마다 사신이라고 자칭하는 것은 본인 웬㊥ \"기적은 본 적이 없지만, 사인은 가득 봤으니까.\" ㊥월면 기지 잠입시에 OZ의 지원병 힐데 슈바이커와 만나, 교류를 거듭하는 가운데㊥에 망신적으로 OZ를 믿고 있던 그녀의 일어나게 하는 것에 성공. 이후 서로 협력하는 ㊥처럼 되었다. ㊥ 최종 결전에서는 힐데의 정보를 바탕으로 리브라 내에 잠입. 잡힌 독",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00077/Sheet1/000010",
+      "sourceBindingSha256": "bd35efbf9bac9eefcf82d1738043373d6f46f1f6522e6e96cfa31a748e38235c",
+      "sourceTextSha256": "b8345db0cd7d2d80aa9fb71d3c899b3a809b61e1e27ebd6f42dad2d275f86fd0",
+      "freshTranslation": "- 등㊥해방. 그들을 조각 밀리언으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00077/Sheet1/000011",
+      "sourceBindingSha256": "4b0c57617adee20f7aeb9b16b2fe93533041f4b22829f117cff346828b8dc6e8",
+      "sourceTextSha256": "2f90bc8e23679e028a2187bfce705d3224552b7a1bdaa457f77fe2b55e44a867",
+      "freshTranslation": "그리고, 낙하하는 리브라의 궤도를 바꾸는 것에 성공㊥하고 있다. ㊥ 히이로와 함께 마리 메이어군의 동향을 찾아 다시 건담에 탑승해 평화의 적과 ㊥ 싸웠다. ㊥ 마리 메이어의 반란 진압 후에는 식민지에서 힐데와 함께 정크 가게를 운영하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

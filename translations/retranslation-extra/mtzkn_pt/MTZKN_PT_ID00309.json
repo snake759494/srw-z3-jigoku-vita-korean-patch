@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00309",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00309/Sheet1/000002",
+      "sourceBindingSha256": "cb111b613df4b58d3eb612882a2f8953ef2f20cf0853fb7da9c9c76def91aa45",
+      "sourceTextSha256": "6d13935fae69e32c736ac42982c1026a87538a9f866f4a13b9321fd0af88842d",
+      "freshTranslation": "시몬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00309/Sheet1/000003",
+      "sourceBindingSha256": "7c9e1925a402be3af6c83674ab1fb3520551995af4de6d7d8303f9c8b4941e68",
+      "sourceTextSha256": "6d13935fae69e32c736ac42982c1026a87538a9f866f4a13b9321fd0af88842d",
+      "freshTranslation": "시몬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00309/Sheet1/000004",
+      "sourceBindingSha256": "e6e3015fb50392160a1b15cb767321b08e9a7055ff34960c150f9214301c6fd0",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00309/Sheet1/000005",
+      "sourceBindingSha256": "244b381dfe14b5da1702f742b1b75fe2b1583e6927c36656f7de4fc8e2b2a763",
+      "sourceTextSha256": "60ade30391244743f19d852684772f6c06d5c2d6e3616626b1211196f992e154",
+      "freshTranslation": "지하 마을에서 \"구멍 시몬\"이라고 불렀던 소년. ㊥ 고민으로 고민을 안고 버린다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00309/Sheet1/000006",
+      "sourceBindingSha256": "231ec441ec125671899e808ac9f76fe0b0f88bd9bfa22931c1f3dc84e67755cc",
+      "sourceTextSha256": "402e4ece0066540444ab51956c690459e087643859d8d21d11f1cb70ed5e36df",
+      "freshTranslation": "입지만, 구멍을 파는 것만은 오른쪽에 나오는 사람 네 ㊥ 없다. ㊥ 어느 날 우연히도 코어 드릴과 라간을 발견한 것으로 대신 빛나지 않는 일상 변화 ㊥이 방문한다. 마을에 나타난 감멘을 라간으로 격퇴하면 그 기세로 지상으로 뛰쳐나온다. ㊥ 그리고, 형귀분과 당황하는 카미나, 수인과 싸우는 요코와 함께, 수인들의 본거지를 목표로 ㊥여행하게 되었다. ㊥ 당초는 싸움에 겁을 먹었고, 뒤로 향한 모습도 많이 보였다. 하지만, 힘차게 견인해 주는 카㊥미나, 은은한 동경을 안는 요코 등과 함께 싸움을 계속하는 가운데, 서서히는지만 성㊥장을 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00309/Sheet1/000007",
+      "sourceBindingSha256": "c3c334094b2f0050e4f6ec32fa94f4127206b52d1de49a1f4711e55178b2f876",
+      "sourceTextSha256": "60ade30391244743f19d852684772f6c06d5c2d6e3616626b1211196f992e154",
+      "freshTranslation": "지하 마을에서 \"구멍 시몬\"이라고 불렀던 소년. ㊥ 고민으로 고민을 안고 버린다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00309/Sheet1/000008",
+      "sourceBindingSha256": "8f01809e58de6d1cc536b5db2c231d232a837094b670912de62f8a7e0bdb6d8f",
+      "sourceTextSha256": "402e4ece0066540444ab51956c690459e087643859d8d21d11f1cb70ed5e36df",
+      "freshTranslation": "입지만, 구멍을 파는 것만은 오른쪽에 나오는 사람 네 ㊥ 없다. ㊥ 어느 날 우연히도 코어 드릴과 라간을 발견한 것으로 대신 빛나지 않는 일상 변화 ㊥이 방문한다. 마을에 나타난 감멘을 라간으로 격퇴하면 그 기세로 지상으로 뛰쳐나온다. ㊥ 그리고, 형귀분과 당황하는 카미나, 수인과 싸우는 요코와 함께, 수인들의 본거지를 목표로 ㊥여행하게 되었다. ㊥ 당초는 싸움에 겁을 먹었고, 뒤로 향한 모습도 많이 보였다. 하지만, 힘차게 견인해 주는 카㊥미나, 은은한 동경을 안는 요코 등과 함께 싸움을 계속하는 가운데, 서서히는지만 성㊥장을 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

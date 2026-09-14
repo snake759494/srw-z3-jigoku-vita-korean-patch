@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00135",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00135/Sheet1/000002",
+      "sourceBindingSha256": "5bacb135e6f6d471397b0abf83c8ee811d738077ac6770c568375170abf7353a",
+      "sourceTextSha256": "d4e425fd69f01dcaf5fcb92f7dad117336ce5bc5e42cbe05448a77a952c2ae5d",
+      "freshTranslation": "레이암 볼린네어",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00135/Sheet1/000003",
+      "sourceBindingSha256": "b9274948e1b9891a78e55683c1d3f91185cf9a8dd3dabd811f1522e6db8bb282",
+      "sourceTextSha256": "80d1fc1e28247b252bd07d4e2ab01eebc887d6ecb1bf63100571bd0316698d67",
+      "freshTranslation": "레이암",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00135/Sheet1/000004",
+      "sourceBindingSha256": "67111739650d14fdf9fc291e2461aa8ed26cd242855480a802018d0fbfd46daa",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00135/Sheet1/000005",
+      "sourceBindingSha256": "ae056899e6621868413f3edc012d0033d3beecd4a122c4c28ba6cd481c5f8367",
+      "sourceTextSha256": "569285033e12e3c4b5c3d16db3742c265537e1e08894042a3b2e919d01c34973",
+      "freshTranslation": "와타나베 미사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00135/Sheet1/000006",
+      "sourceBindingSha256": "8d5b675b0120cfb5bfb6f54f69bb1d993a1eb670e41021302604acb12f4b9695",
+      "sourceTextSha256": "be548f094f34278bf054e78c2d6df43a7df99452e259676c9b69918742721805",
+      "freshTranslation": "네엘 아가마 부장. 계급은 중령. 40세. ㊥ 무구하고 냉정 침착한 여성. 경우에 따라서는 함장의 오토보다 판단력, 결단력을 ㊥ 보여주기 때문에 승무원으로부터의 신뢰는 두껍다. ㊥명령은 충실히 따르는 정직한 군인이며, 의지하지 않는 오토의 지휘에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00135/Sheet1/000007",
+      "sourceBindingSha256": "12e647960459433bd027f44032a2053dacf696190f470798e47ece44c58f3878",
+      "sourceTextSha256": "b20fbc13a4882bf92d75644ded72dfcb532cb3eb6861171660a451692bee75ac",
+      "freshTranslation": "질문을 가지는 것이 ㊥ 있으면서도, 감정을 표에는 내놓지 않고 담담하게 실행한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00135/Sheet1/000008",
+      "sourceBindingSha256": "f97d55ac07f0d28d35ac32eaef49bd58e9fc36bd41ac17e45e7621e28dc98c70",
+      "sourceTextSha256": "be548f094f34278bf054e78c2d6df43a7df99452e259676c9b69918742721805",
+      "freshTranslation": "네엘 아가마 부장. 계급은 중령. 40세. ㊥ 무구하고 냉정 침착한 여성. 경우에 따라서는 함장의 오토보다 판단력, 결단력을 ㊥ 보여주기 때문에 승무원으로부터의 신뢰는 두껍다. ㊥명령은 충실히 따르는 정직한 군인이며, 의지하지 않는 오토의 지휘에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00135/Sheet1/000009",
+      "sourceBindingSha256": "aefcf387a766454088b87ba6b07ba5d235d6f86f16ae380eb16f8bde6c2e831f",
+      "sourceTextSha256": "b20fbc13a4882bf92d75644ded72dfcb532cb3eb6861171660a451692bee75ac",
+      "freshTranslation": "질문을 가지는 것이 ㊥ 있으면서도, 감정을 표에는 내놓지 않고 담담하게 실행한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

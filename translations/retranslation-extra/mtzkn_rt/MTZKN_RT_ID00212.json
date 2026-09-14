@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00212",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00212/Sheet1/000002",
+      "sourceBindingSha256": "2f3bea840d595550c5dab6cdc8ebf7e3e72f205379d3a3558eb6e84d09af0680",
+      "sourceTextSha256": "04e0d2c766e3b46051c4f48019d26a285dd0b59cbf31cca297d47e2bd40b733a",
+      "freshTranslation": "에반게리온 신극장판 : 서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00212/Sheet1/000003",
+      "sourceBindingSha256": "9a9fc6feac35d9a32d9679c5e41d52d7c85efbd573a41fcc3f95afa607b93663",
+      "sourceTextSha256": "9f1aca489bc035e5ff83f7459000a29dd50f0aed61a75ade6ccaa44836f4b827",
+      "freshTranslation": "에반게리온 초호기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00212/Sheet1/000004",
+      "sourceBindingSha256": "a03fa8ca12c2c8f303b556f65f151200185f8a40ddfe4107798f33622bd6331f",
+      "sourceTextSha256": "a8d1650a451a96d19ca8d59585b3e080bc9ab9f0dd3154eabd7d9e9654ff5d81",
+      "freshTranslation": "범용 인간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00212/Sheet1/000005",
+      "sourceBindingSha256": "521c3923f5efb42449c800a848a0500474cb81f1a8dbfeac52a93958d3f491f5",
+      "sourceTextSha256": "152bef1319107e076d50aff5ef1513732a9658ec53d5aa44a1cfa302425f2318",
+      "freshTranslation": "결전 무기 인조 인간 에반게리온 시험 초호기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00212/Sheet1/000006",
+      "sourceBindingSha256": "35089818d4c173d874ebfe50dbbbf9ac4309e3677aaa501da1da06838fe5dcf9",
+      "sourceTextSha256": "c75e6b3d4a8437f222c11861a9da7bd3c00d2b75c940e80f2569e4a3d6339f5a",
+      "freshTranslation": "이카리 신지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00212/Sheet1/000007",
+      "sourceBindingSha256": "1d2d8e13bf1ff3b92886ad585a8899af5b6a8a8df129e2ab128a3bb39eff7ca7",
+      "sourceTextSha256": "78a809146f5ecb21eb64bfd92e367d9fe096a006f392ff0dd84f0999ac19258c",
+      "freshTranslation": "EVA 초호기가 폭주한 상태. ㊥ 폭주란 초호기에 보이는 수수께끼의 행동을 가리킨다. ㊥ 네 번째 사도와의 싸움에서 초호기는 엄청난 피해를 입고 통제 불능에 빠진다. 하지만, ㊥ 신지의 의지와는 상관없이 재기동하면, 울음소리를 내어 사도에게 반격. 부상당한 왼팔 ㊥을 복원하고 A. T. 필드를 침식하여 사도를 몰아넣는다. 그리고 마지막은 사도의 자기 ㊥ 폭격을 당하면서도 무사한 모습을 보이고, NERV 본부의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00212/Sheet1/000008",
+      "sourceBindingSha256": "9d20d8e1d7de59ec300ee5a175c9db4e616c4959f6766a32185acabff1efb7fc",
+      "sourceTextSha256": "943bcaee5e138256a0cf57ab2e7141707b2f3df0632ec20937bb389cc5710e50",
+      "freshTranslation": "떡을 떨었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00212/Sheet1/000009",
+      "sourceBindingSha256": "c70524e79118d33dbf9ad4f90421e03c3c1b178dffd9a4c0a45e49e25ae4a5a5",
+      "sourceTextSha256": "78a809146f5ecb21eb64bfd92e367d9fe096a006f392ff0dd84f0999ac19258c",
+      "freshTranslation": "EVA 초호기가 폭주한 상태. ㊥ 폭주란 초호기에 보이는 수수께끼의 행동을 가리킨다. ㊥ 네 번째 사도와의 싸움에서 초호기는 엄청난 피해를 입고 통제 불능에 빠진다. 하지만, ㊥ 신지의 의지와는 상관없이 재기동하면, 울음소리를 내어 사도에게 반격. 부상당한 왼팔 ㊥을 복원하고 A. T. 필드를 침식하여 사도를 몰아넣는다. 그리고 마지막은 사도의 자기 ㊥ 폭격을 당하면서도 무사한 모습을 보이고, NERV 본부의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00212/Sheet1/000010",
+      "sourceBindingSha256": "eb52b2183416cb592ca11f8ee4d6e94e51a656c6aabea5c3a18c114f5d87d8fa",
+      "sourceTextSha256": "943bcaee5e138256a0cf57ab2e7141707b2f3df0632ec20937bb389cc5710e50",
+      "freshTranslation": "떡을 떨었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00156",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00156/Sheet1/000002",
+      "sourceBindingSha256": "0a38c2740a8b25f9d27814e208ef7c03025954be30411955b933ba8be99cde69",
+      "sourceTextSha256": "1977866dde16cca01ec08313b9d9438c1a349c39d89117cfe8a5bcd8f560d9e2",
+      "freshTranslation": "할로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00156/Sheet1/000003",
+      "sourceBindingSha256": "53edef053a05a68637fe8ba7765250d0cbcb2e72b97e9bf3dfa3db7aacc23c05",
+      "sourceTextSha256": "1977866dde16cca01ec08313b9d9438c1a349c39d89117cfe8a5bcd8f560d9e2",
+      "freshTranslation": "할로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00156/Sheet1/000004",
+      "sourceBindingSha256": "2b21ef984f159f872b528db74b3ce04585d35c5a8f97853af2341ecf1b0d7a98",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00156/Sheet1/000005",
+      "sourceBindingSha256": "83a4afd338216e2606301e3b68a39815b8f333c92f28679a2ee023df4d916061",
+      "sourceTextSha256": "e58f38074d42f0b94bb323e6d34085aeb99f832b86d7e3046d52f303180e9090",
+      "freshTranslation": "배너지가 소유한 마스코트 로보. ㊥ 1년 전쟁 시에 아무로 레이가 제작한 것의 복제품으로, 배너지는 어린 시절에 얼굴도 ㊥ 기억하지 못한 아버지로부터 선물되었다. 붐도 지나고 있기 때문에, 지금은 가지고 있는 ㊥자도 적지만, 배너지는 독자적으로 개량을 더해, 데리고 걷고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00156/Sheet1/000006",
+      "sourceBindingSha256": "d59218d54be0878db6c4414625052ea9b55519517cb395c92308331d7a043541",
+      "sourceTextSha256": "e58f38074d42f0b94bb323e6d34085aeb99f832b86d7e3046d52f303180e9090",
+      "freshTranslation": "배너지가 소유한 마스코트 로보. ㊥ 1년 전쟁 시에 아무로 레이가 제작한 것의 복제품으로, 배너지는 어린 시절에 얼굴도 ㊥ 기억하지 못한 아버지로부터 선물되었다. 붐도 지나고 있기 때문에, 지금은 가지고 있는 ㊥자도 적지만, 배너지는 독자적으로 개량을 더해, 데리고 걷고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

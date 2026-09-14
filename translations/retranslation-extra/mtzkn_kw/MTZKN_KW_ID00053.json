@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00053",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00053/Sheet1/000002",
+      "sourceBindingSha256": "7e875f8c215a2e90b93aa0050708851e683d81186ae9e20bf07643887db29748",
+      "sourceTextSha256": "800f123b2a69289218a0b2404170a4c26d7717d99b29474131db69098f7528ec",
+      "freshTranslation": "츠무리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00053/Sheet1/000003",
+      "sourceBindingSha256": "1bff77b5c0929e91dd33c4fe190ae035fa6da80e83c6db1af0de4cabe9269350",
+      "sourceTextSha256": "5673d206dec7b1c89a192bd4c2df145af3faa5bfe5a66f65c798ff4a8a7aadf4",
+      "freshTranslation": "「기동전사 건담 UC」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00053/Sheet1/000004",
+      "sourceBindingSha256": "a578138f1978735ec9e12a827798abb61f15f61f7023569982ad4070c07a4aa6",
+      "sourceTextSha256": "2ddc6bb8193b6d7af3f9b22706b366e7934943ce436b1ee5257062b61bd2e0f5",
+      "freshTranslation": "인더스트리얼 7의 콜로니 빌더 「메가라니카」의 애칭. ㊥ 여기에 카디아스 비스트의 저택이 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00053/Sheet1/000005",
+      "sourceBindingSha256": "270d55192be3a8d825c57ca9b03697efe683623f9bdb63088c2e86b42c4310dd",
+      "sourceTextSha256": "2ddc6bb8193b6d7af3f9b22706b366e7934943ce436b1ee5257062b61bd2e0f5",
+      "freshTranslation": "인더스트리얼 7의 콜로니 빌더 「메가라니카」의 애칭. ㊥ 여기에 카디아스 비스트의 저택이 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

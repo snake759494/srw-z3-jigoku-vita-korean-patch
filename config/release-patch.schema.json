@@ -1,0 +1,186 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/snake759494/srw-z3-jigoku-vita-korean-patch/releases/schema/release-patch.schema.json",
+  "title": "시옥편 Vita3K 통합 패치 계획",
+  "description": "자기 소유 원본에만 적용하는 델타 패치와 SRVC JSON 패치의 공개 계약입니다.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "format",
+    "formatVersion",
+    "project",
+    "release",
+    "policy",
+    "profiles",
+    "tool",
+    "coverage",
+    "entries"
+  ],
+  "properties": {
+    "$schema": { "type": "string" },
+    "format": { "const": "siok-release-patch-plan" },
+    "formatVersion": { "const": 1 },
+    "project": { "const": "PCSG00264" },
+    "release": { "type": "string", "minLength": 1 },
+    "policy": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "requiresUserOwnedGame",
+        "gameBinaryIncluded",
+        "completedGameIncluded",
+        "deltaOnly",
+        "originalJapaneseTextIncluded",
+        "notice"
+      ],
+      "properties": {
+        "requiresUserOwnedGame": { "const": true },
+        "gameBinaryIncluded": { "const": false },
+        "completedGameIncluded": { "const": false },
+        "deltaOnly": { "const": true },
+        "originalJapaneseTextIncluded": { "type": "boolean" },
+        "notice": { "type": "string", "minLength": 1 }
+      }
+    },
+    "profiles": {
+      "type": "object",
+      "required": ["vita3k", "vita"],
+      "properties": {
+        "vita3k": {
+          "type": "object",
+          "required": ["enabled", "appOutputDirectory", "dlcOutputDirectory"],
+          "properties": {
+            "enabled": { "const": true },
+            "appOutputDirectory": { "const": "app" },
+            "dlcOutputDirectory": { "const": "addcont" },
+            "note": { "type": "string" }
+          },
+          "additionalProperties": false
+        },
+        "vita": {
+          "type": "object",
+          "required": ["enabled"],
+          "properties": {
+            "enabled": { "const": false },
+            "note": { "type": "string" }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "tool": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "version", "assetSha256", "executableSha256", "downloadUrl"],
+      "properties": {
+        "name": { "const": "xdelta3" },
+        "version": { "const": "3.2.0" },
+        "assetSha256": { "$ref": "#/$defs/sha256" },
+        "executableSha256": { "$ref": "#/$defs/sha256" },
+        "downloadUrl": { "type": "string", "format": "uri" }
+      }
+    },
+    "coverage": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["entryCount", "groupCounts", "mainXdeltaCount", "dlcXdeltaCount", "battleJsonCount", "dictionaryJsonCount"],
+      "properties": {
+        "entryCount": { "type": "integer", "minimum": 1 },
+        "groupCounts": {
+          "type": "object",
+          "additionalProperties": { "type": "integer", "minimum": 0 }
+        },
+        "mainXdeltaCount": { "type": "integer", "minimum": 0 },
+        "dlcXdeltaCount": { "type": "integer", "minimum": 0 },
+        "battleJsonCount": { "type": "integer", "minimum": 0 },
+        "dictionaryJsonCount": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "entries": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/entry" }
+    }
+  },
+  "$defs": {
+    "sha256": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "fileRecord": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["bytes", "sha256"],
+      "properties": {
+        "bytes": { "type": "integer", "minimum": 1 },
+        "sha256": { "$ref": "#/$defs/sha256" }
+      }
+    },
+    "entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind", "profile", "root", "group", "target", "patch", "source", "localized", "delta"],
+      "properties": {
+        "kind": { "enum": ["xdelta", "battle-json", "dictionary-json"] },
+        "profile": { "const": "vita3k" },
+        "root": { "enum": ["app", "dlc"] },
+        "group": {
+          "enum": ["scenario-dialogue", "battle-dialogue", "dictionary-dialogue", "menu-unit", "eboot-menu", "map-data", "system"]
+        },
+        "target": {
+          "type": "string",
+          "pattern": "^[^\\\\:*?\"<>|][^\\\\:*?\"<>|]*$"
+        },
+        "patch": {
+          "type": "string",
+          "pattern": "^(patches/.*\\.xdelta|translations/dialogue/battle_SRVC\\.json|translations/dialogue/dictionary_MtZkn_KW\\.json)$"
+        },
+        "source": { "$ref": "#/$defs/fileRecord" },
+        "localized": { "$ref": "#/$defs/fileRecord" },
+        "delta": {
+          "anyOf": [
+            { "$ref": "#/$defs/fileRecord" },
+            { "type": "null" }
+          ]
+        },
+        "counts": { "type": "object" }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "kind": { "const": "battle-json" } } },
+          "then": {
+            "properties": {
+              "root": { "const": "app" },
+              "group": { "const": "battle-dialogue" },
+              "target": { "const": "DATA/BTLC/SRVC.BIN" },
+              "patch": { "const": "translations/dialogue/battle_SRVC.json" },
+              "delta": { "type": "null" }
+            }
+          }
+        },
+        {
+          "if": { "properties": { "kind": { "const": "xdelta" } } },
+          "then": {
+            "properties": {
+              "delta": { "$ref": "#/$defs/fileRecord" }
+            }
+          }
+        },
+        {
+          "if": { "properties": { "kind": { "const": "dictionary-json" } } },
+          "then": {
+            "properties": {
+              "root": { "const": "app" },
+              "group": { "const": "dictionary-dialogue" },
+              "target": { "const": "CommonData/MtData/MtZkn_KW.cpk" },
+              "patch": { "const": "translations/dialogue/dictionary_MtZkn_KW.json" },
+              "delta": { "type": "null" }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

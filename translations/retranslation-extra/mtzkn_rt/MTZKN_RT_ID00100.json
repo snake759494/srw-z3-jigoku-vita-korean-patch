@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00100",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00100/Sheet1/000002",
+      "sourceBindingSha256": "8d4916a5f2db59f44d9abf53dbaf56c30dcb07bc9f8327449c508016533e621e",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00100/Sheet1/000003",
+      "sourceBindingSha256": "1419ea5031fc7dccabe58a3725260e6da3078bd28d3163b8da4f21a5e4557169",
+      "sourceTextSha256": "8dd0155f40002b3914f7978548ab648728e78ff622f2323c3a3190273a45d1fb",
+      "freshTranslation": "샴브로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00100/Sheet1/000004",
+      "sourceBindingSha256": "1d2ec4b58a51cbbaa84b105ab99bf090513b45c906af7b2e87bce45ae32628e5",
+      "sourceTextSha256": "8dd0155f40002b3914f7978548ab648728e78ff622f2323c3a3190273a45d1fb",
+      "freshTranslation": "샴브로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00100/Sheet1/000005",
+      "sourceBindingSha256": "7b6b5aca03151c88d83a4af6e696cb5486753ee8aff2e1f57118f445e0d926c1",
+      "sourceTextSha256": "73b311745e47e86141221fb2bfaf5ef62e195266a65dd3a111fb6df396f033f9",
+      "freshTranslation": "로니 가베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00100/Sheet1/000006",
+      "sourceBindingSha256": "33a83cbd5b8a20a23213153573618a119dba9232a4855854af352390024b5b5a",
+      "sourceTextSha256": "a501f02b30cd6ec3493635cb822e8829eeb5bb7aeb2876698d9745025a919c58",
+      "freshTranslation": "제1차 네오지온 항쟁 때 남겨진 설계데이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00100/Sheet1/000007",
+      "sourceBindingSha256": "f68b943911f5597c52bde826de34b660e22569e7ca7c645be49928ace17e726b",
+      "sourceTextSha256": "3a8ce1875bbf16b748ef33e1eb3b607745ff1a597168ef8c2066d0c6a7e84c92",
+      "freshTranslation": "를 바탕으로 지온잔당군이 6년의 ㊥ 세월을 걸쳐 완성시킨 수륙 양용 모빌 아머. ㊥ 주무장에 큰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00100/Sheet1/000008",
+      "sourceBindingSha256": "d00d3d1b5d974ade8146e78b1a372178c0aaf17af654c22786723410f9dd6445",
+      "sourceTextSha256": "7fd0756e2e789ddcf44370961f76c77052399ffb3dc090b5000fd1e5bcc0c7f2",
+      "freshTranslation": "메가 입자포, 부병장으로 확산 메가 입자포와 반사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00100/Sheet1/000009",
+      "sourceBindingSha256": "b5d0c26987b9de6ee226ecfa4d4079c69c8a853c24e2e53a4e12455157a00db0",
+      "sourceTextSha256": "55d44306bd865a2c6b2705b15dbf1b68b6a01f4d2d710d66657a6775a3ae14ab",
+      "freshTranslation": "- 비트를 ㊥ 탑재함으로써 사각이없는 공격이 가능. 또한, 거대한 다중 관절 구조의 팔부는 절대㊥인 파워를 자랑해, 항공모함의 함저로부터 덱을 관통하는 일조차 할 수 있다. ㊥개발에는 소매 첨부의 자금 원조와 기술 제공을 받고 있어 콕핏 주위에 사이코・㊥프레임을 탑재. 이로 인해 복잡한 조작과 화기관제를 혼자서 할 수 있는 ㊥이었다. ㊥ 수중 잠항시 어깨에 설치된 전자기 유도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00100/Sheet1/000010",
+      "sourceBindingSha256": "13fe2ab40daf2027549c6648a69ae30139a2f705f69a8c61f666cc012d070d46",
+      "sourceTextSha256": "c9f5653cae8cf9cdb4ab0de29fa925928af40fb4b3b629222bf2178f8ef865db",
+      "freshTranslation": "직유체역학추진기와 미노프스키·㊥크래프트를 조합하여 높은 기동성과 정숙성을 양립시키고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00100/Sheet1/000011",
+      "sourceBindingSha256": "19e3c57f4319788d9a4e738b2cfc141c0e127f5c6ce21ff263ffcaf582737ff1",
+      "sourceTextSha256": "a501f02b30cd6ec3493635cb822e8829eeb5bb7aeb2876698d9745025a919c58",
+      "freshTranslation": "제1차 네오지온 항쟁 때 남겨진 설계데이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00100/Sheet1/000012",
+      "sourceBindingSha256": "514662e11869f90d56c6a3099d5dc4c118a9fafa00c30d09e3591ac2e4cad837",
+      "sourceTextSha256": "3a8ce1875bbf16b748ef33e1eb3b607745ff1a597168ef8c2066d0c6a7e84c92",
+      "freshTranslation": "를 바탕으로 지온잔당군이 6년의 ㊥ 세월을 걸쳐 완성시킨 수륙 양용 모빌 아머. ㊥ 주무장에 큰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00100/Sheet1/000013",
+      "sourceBindingSha256": "432d75922fff2dbb7576720cbeb8fdfd912ba288bc6b574925f7a8fbd5ee9875",
+      "sourceTextSha256": "7fd0756e2e789ddcf44370961f76c77052399ffb3dc090b5000fd1e5bcc0c7f2",
+      "freshTranslation": "메가 입자포, 부병장으로 확산 메가 입자포와 반사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00100/Sheet1/000014",
+      "sourceBindingSha256": "538662622cfaf716f1386995a83dc8cccbb83a43f64e1e9c5f2c20f390e72cde",
+      "sourceTextSha256": "55d44306bd865a2c6b2705b15dbf1b68b6a01f4d2d710d66657a6775a3ae14ab",
+      "freshTranslation": "- 비트를 ㊥ 탑재함으로써 사각이없는 공격이 가능. 또한, 거대한 다중 관절 구조의 팔부는 절대㊥인 파워를 자랑해, 항공모함의 함저로부터 덱을 관통하는 일조차 할 수 있다. ㊥개발에는 소매 첨부의 자금 원조와 기술 제공을 받고 있어 콕핏 주위에 사이코・㊥프레임을 탑재. 이로 인해 복잡한 조작과 화기관제를 혼자서 할 수 있는 ㊥이었다. ㊥ 수중 잠항시 어깨에 설치된 전자기 유도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00100/Sheet1/000015",
+      "sourceBindingSha256": "9770cabbc58341f2da2557db38e22bd72278554b7353124602cbe229ac15f49a",
+      "sourceTextSha256": "eb940d69c98d5c62bdd1b23248c3e3e3f43822472ba9be646c33c2dc68e94452",
+      "freshTranslation": "직유체역학추진기와 미노프스키·㊥크래프트를 조합하여 높은 기동성과 정숙성을 양립시키고 있다. ㊥이지만, 사이코뮤의 제어는 파일럿에 대한 부하가 크고, 트링턴 기지에서의 전투 ㊥에서는 탑승자의 로니의 의지를 삼켜 폭주를 일으켰다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00157",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00157/Sheet1/000002",
+      "sourceBindingSha256": "976064a264b756634acecf807932d16942a705bc8704ed9b5b9d7435a6619df5",
+      "sourceTextSha256": "5832997cfa2f8ffe3dedd7b3aec60bb1e4a89579778ed30ad2f7776b8ecb7c7f",
+      "freshTranslation": "쿠야 일레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00157/Sheet1/000003",
+      "sourceBindingSha256": "da6e440f5ec4f4fbbf83ac0a39c8746b58782b1f25b7b21a4e69129a734fc7ae",
+      "sourceTextSha256": "06c496f84fd377be7af4bf75309bfe12ef53d56f6258b77fb7c860854ce83b34",
+      "freshTranslation": "쿠야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00157/Sheet1/000004",
+      "sourceBindingSha256": "2ec92c5068660e83744e354f262cdbc3e7630d33d2d1e0707ac6b5d5e67f9f8b",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00157/Sheet1/000005",
+      "sourceBindingSha256": "d15425e60619cd107a36aff3f8b734c5e1378861f855be3aa632aacc31f05284",
+      "sourceTextSha256": "666e86577047a4d980b8423af5370380c7bb73848673a4ba240d79dcce232fb7",
+      "freshTranslation": "애너하임 일렉트로닉스 공업 전문 학교 학생. 16세. ㊥ 배너지 동급생. ㊥ 조금 어색한 곳이 있고, 큰 모빌 슈트 매니아이기도 하다. 그 지식은 풍부하고 ㊥ 자쿠에서 연방의 새로운",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00157/Sheet1/000006",
+      "sourceBindingSha256": "6e5335bea7a3a06486c6e3decf02816c31344967c9c1e876c8e81bb02901e010",
+      "sourceTextSha256": "76112827d4e9c0925fa25f5a749b05dc8c7468679a245c967cc89cf8e327c6b7",
+      "freshTranslation": "기계인 리젤까지도 망라하고 있다. ㊥ 장래는 애너하임의 테스트 파일럿이나 메카닉이 되는 것을 목표로 하고 있고, 네㊥ 엘 아가마에 수용된 후에도, 메카닉의 도움을 하는 등, 긍정적인 자세를 ㊥ 잃지 않았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00157/Sheet1/000007",
+      "sourceBindingSha256": "be8e6d5c08906f9aa83dbef244629ce04a3a94f96380f6b0ce41afa90cf0ad71",
+      "sourceTextSha256": "666e86577047a4d980b8423af5370380c7bb73848673a4ba240d79dcce232fb7",
+      "freshTranslation": "애너하임 일렉트로닉스 공업 전문 학교 학생. 16세. ㊥ 배너지 동급생. ㊥ 조금 어색한 곳이 있고, 큰 모빌 슈트 매니아이기도 하다. 그 지식은 풍부하고 ㊥ 자쿠에서 연방의 새로운",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00157/Sheet1/000008",
+      "sourceBindingSha256": "1f9d0e26a25fe201bd26194102bef7187306614c4ab6115c790fd55d768d5d1a",
+      "sourceTextSha256": "76112827d4e9c0925fa25f5a749b05dc8c7468679a245c967cc89cf8e327c6b7",
+      "freshTranslation": "기계인 리젤까지도 망라하고 있다. ㊥ 장래는 애너하임의 테스트 파일럿이나 메카닉이 되는 것을 목표로 하고 있고, 네㊥ 엘 아가마에 수용된 후에도, 메카닉의 도움을 하는 등, 긍정적인 자세를 ㊥ 잃지 않았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

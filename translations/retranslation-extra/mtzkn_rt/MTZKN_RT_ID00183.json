@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00183",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00183/Sheet1/000002",
+      "sourceBindingSha256": "1d745272521f4188f3dd826db789cfb842e183f7fb4049dd80a2d2521d77434c",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00183/Sheet1/000003",
+      "sourceBindingSha256": "8509cbd7eecfb1630679d98bd68c342f5163ea589ee3cc690a022bef24f1b69a",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00183/Sheet1/000004",
+      "sourceBindingSha256": "adaa83814c0d6330175f1a7409a700d18994e6d529baec790ec4b59a264a11bf",
+      "sourceTextSha256": "2254d1c3c05b4f447516556a085bf7f560fe8a2e6af5baeecc0e06cdf9cdc558",
+      "freshTranslation": "Zy-98 그림자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00183/Sheet1/000005",
+      "sourceBindingSha256": "82267dfb0cbdd4638938114f0ffca7552a4d5c73ff592e02a255b0e995f364d8",
+      "sourceTextSha256": "2254d1c3c05b4f447516556a085bf7f560fe8a2e6af5baeecc0e06cdf9cdc558",
+      "freshTranslation": "Zy-98 그림자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00183/Sheet1/000006",
+      "sourceBindingSha256": "a5f23f69e43dc4008e62b0b7d761560aa0509268c49c887c68969e17c8a8bce8",
+      "sourceTextSha256": "3a8870a6c82b59e37cdb998e6965f2ac2db14e9d709626795d7ab832b12f7f07",
+      "freshTranslation": "자이드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00183/Sheet1/000007",
+      "sourceBindingSha256": "caff8b0a3f79940b01bf3fae902e431de7dce7e650b70a903646463330f523e2",
+      "sourceTextSha256": "a95ceb5cfc5f1338c7594284bedc33a3dc71ad79f91ad948cc4f6d1f3c55d17b",
+      "freshTranslation": "동쪽이 시험중인 3세대 AS. ㊥ 본 기기에는 자이드가 탑승했다. ㊥오른팔 부분의 개틀링 캐논과 빨강의 퍼스널 컬러가 특징. 각부도 튠나㊥프 되고 있어 가우룬이 탑승하는 코다르에 필적한다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00183/Sheet1/000008",
+      "sourceBindingSha256": "5e43d9f208d7cb41616e2b6b4efc414b1136ed6b73d134cfab77e6da05112e07",
+      "sourceTextSha256": "9fb48a01fa1de2d523846dccc347ac7422710d075be326c50f37cd409a359f32",
+      "freshTranslation": "동성을 갖추고 있다. ㊥ 헬마지스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00183/Sheet1/000009",
+      "sourceBindingSha256": "205c02cae22c6864cdb5ee97a2cd0054fdd7fab0b8cfa728a60edd58e04ec610",
+      "sourceTextSha256": "a41f69e733cc21cbff11abb4912ed60ffdc72982e8c10fd70bcf2f8ffa473ad7",
+      "freshTranslation": "에서의 전투에서는, 땅의 이익을 살려, 미스릴의 M9를 격파해 갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00183/Sheet1/000010",
+      "sourceBindingSha256": "3b76b1c3757a11c651d9b90f7d167a814ab70079907d9a02857951ed85b180f2",
+      "sourceTextSha256": "a95ceb5cfc5f1338c7594284bedc33a3dc71ad79f91ad948cc4f6d1f3c55d17b",
+      "freshTranslation": "동쪽이 시험중인 3세대 AS. ㊥ 본 기기에는 자이드가 탑승했다. ㊥오른팔 부분의 개틀링 캐논과 빨강의 퍼스널 컬러가 특징. 각부도 튠나㊥프 되고 있어 가우룬이 탑승하는 코다르에 필적한다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00183/Sheet1/000011",
+      "sourceBindingSha256": "d3254fe0dd87117ca4ca44c8ecf32dd439e3d532466c9628496ada3f3a41a69e",
+      "sourceTextSha256": "9fb48a01fa1de2d523846dccc347ac7422710d075be326c50f37cd409a359f32",
+      "freshTranslation": "동성을 갖추고 있다. ㊥ 헬마지스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00183/Sheet1/000012",
+      "sourceBindingSha256": "68c840656c7e2d69a439d4835907eb187ab1dd46521fdf5902f7f95ba5b8cba4",
+      "sourceTextSha256": "f126eba9ec254232815865954661a8fed36fb323b55d3bc3d937bd40ea34b413",
+      "freshTranslation": "에서의 전투에서는, 땅의 이익을 살려, 미스릴의 M9를 격파해 갔다. ㊥ 그러나 소스케 아바레스트의 필사적인 일격을 받고 격파되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

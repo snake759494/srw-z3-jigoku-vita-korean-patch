@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00054",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00054/Sheet1/000002",
+      "sourceBindingSha256": "21b8e1be19079c83754c8af880c8d0a23ac378e7de74dd007d0aa859d28091e0",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00054/Sheet1/000003",
+      "sourceBindingSha256": "6133ae42e75b7a6515a8c8c248d11d1edb2faad1da2425e4811f5a446d6f45a8",
+      "sourceTextSha256": "5fa32480fb592dbd4e66c94aa5c24cc583c543e377a1e83916945f6f494293e3",
+      "freshTranslation": "무사카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00054/Sheet1/000004",
+      "sourceBindingSha256": "2ef3152d98f1efeacbd6eee4b5314991c076d53b22d03481fa53b9ec0130009d",
+      "sourceTextSha256": "5fa32480fb592dbd4e66c94aa5c24cc583c543e377a1e83916945f6f494293e3",
+      "freshTranslation": "무사카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00054/Sheet1/000005",
+      "sourceBindingSha256": "2e77370c6adb5cbd35ea7c48cabaaa83c2a0f76f843dc878ca7455de25e0abed",
+      "sourceTextSha256": "52d4c7749cfc84b0138e298386eaa42b17c663d0661d595fba25a858b5c0212f",
+      "freshTranslation": "네오지온군의 주력 경순양함. ㊥ 지온의 대표적인 함인 무사이급 발전",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00054/Sheet1/000006",
+      "sourceBindingSha256": "e5c7482cc889202116899979d924785f93a2819fb1b74c96dc561b0aaddf160d",
+      "sourceTextSha256": "fab54a588d9f81575c659cabe162262d0e24eab36ef5d6141188889548bce061",
+      "freshTranslation": ". ㊥ 접이식 방열 핀을 장비하여 높은 순항 성능을 가진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00054/Sheet1/000007",
+      "sourceBindingSha256": "c524e9c2d29f4cc3e866dea0583dae9ac71e64f5df7d77e4c85db86e1eafb87c",
+      "sourceTextSha256": "52d4c7749cfc84b0138e298386eaa42b17c663d0661d595fba25a858b5c0212f",
+      "freshTranslation": "네오지온군의 주력 경순양함. ㊥ 지온의 대표적인 함인 무사이급 발전",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00054/Sheet1/000008",
+      "sourceBindingSha256": "11fbd71fc0af27fda62e0514b5898013aed60067ce3101d48db16a7a09f176b9",
+      "sourceTextSha256": "eeafa8d0a99d26c592f3568f4bb78389c6296c9dfa8e53a2e34bb496934923a2",
+      "freshTranslation": ". ㊥ 접이식 방열 핀을 장비하여 높은 순항 성능을 가진다. ㊥ 루나투 기습작전에서는 본함의 더미를 다수 사용해 함대의 수를 위장했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

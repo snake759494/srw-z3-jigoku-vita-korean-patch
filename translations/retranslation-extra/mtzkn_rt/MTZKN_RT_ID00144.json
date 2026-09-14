@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00144",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00144/Sheet1/000002",
+      "sourceBindingSha256": "d3e45d5dcef3ade503b1ac4491a685348eb93164eb1ee4fece34d714cd1b0444",
+      "sourceTextSha256": "2e50e921e3c7b75fbcf433d1563a8398e58c77dd78a57ca4d82d5572435bab13",
+      "freshTranslation": "(체인지!)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00144/Sheet1/000003",
+      "sourceBindingSha256": "ec30ed2edf9bb11715db43459ba78e75035c92178ab5b9f3ae90721215bf48e1",
+      "sourceTextSha256": "7c3cb5cb2ef14de63eec14acd214053a7f20637efe0ffd4631309ea46fb1a51d",
+      "freshTranslation": "- 로보 세계 마지막 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00144/Sheet1/000004",
+      "sourceBindingSha256": "2ff71c41b67d8841e84e17fc4ea23b1593ed6faa229ab13c32a0f68f3575bd47",
+      "sourceTextSha256": "bc02b05063a9dc959ecd3c37db4f2ea499ccdf743139ecc8874d48c037581888",
+      "freshTranslation": "인베이더",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00144/Sheet1/000005",
+      "sourceBindingSha256": "ef60fa665df026edeeab5a09148a7887cad9c9bda021fb8cb5a199f2f7726618",
+      "sourceTextSha256": "bc02b05063a9dc959ecd3c37db4f2ea499ccdf743139ecc8874d48c037581888",
+      "freshTranslation": "인베이더",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00144/Sheet1/000006",
+      "sourceBindingSha256": "c1f95414a564fdf5dc9b3d287679a5e31c120acedb6ffa4c3da475573cf4de82",
+      "sourceTextSha256": "1ac5f66d0b3139383f3a3a64b8f568d3490a6becbb5235156c826c5ef015a9bc",
+      "freshTranslation": "우주에서 활동하는 하급 인베이더. ㊥ 그 행동 원리, 목적, 발생은 불명하고 커뮤니케이션의 수단도 없기 때문에 ㊥ 인류에게는 생존을 건 적이다. ㊥ 지능은 낮지만 공격성은 높고, 먹이를 찾아 포식하고 번식을 반복한다. ㊥ 인베이더의 전신인 박테리아는 분열 세균이라고도 불리는 단세포 미생물. ㊥2 분열 혹은 내생 포자 형성만으로 증식하고, 그 밖에 기생하여 발효나 부패를 영위하는 점 등은 ㊥정말로 인베이더의 특성 그 자체이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00144/Sheet1/000007",
+      "sourceBindingSha256": "dda3f0fa74e78b887436fa5b437975fb893fea3fdd0173e8403c9898933e46a7",
+      "sourceTextSha256": "1ac5f66d0b3139383f3a3a64b8f568d3490a6becbb5235156c826c5ef015a9bc",
+      "freshTranslation": "우주에서 활동하는 하급 인베이더. ㊥ 그 행동 원리, 목적, 발생은 불명하고 커뮤니케이션의 수단도 없기 때문에 ㊥ 인류에게는 생존을 건 적이다. ㊥ 지능은 낮지만 공격성은 높고, 먹이를 찾아 포식하고 번식을 반복한다. ㊥ 인베이더의 전신인 박테리아는 분열 세균이라고도 불리는 단세포 미생물. ㊥2 분열 혹은 내생 포자 형성만으로 증식하고, 그 밖에 기생하여 발효나 부패를 영위하는 점 등은 ㊥정말로 인베이더의 특성 그 자체이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

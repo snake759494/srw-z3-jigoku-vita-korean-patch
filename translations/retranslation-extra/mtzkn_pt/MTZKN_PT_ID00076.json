@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00076",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00076/Sheet1/000002",
+      "sourceBindingSha256": "a3ade0f44af0358bea1c3d44b32f8c753f0415c8af52f63b4c49b6ac390e07f4",
+      "sourceTextSha256": "183021387ba79f8a553790374e411bef154fef2b89b176395e32ccbae756ce66",
+      "freshTranslation": "히이로 유이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00076/Sheet1/000003",
+      "sourceBindingSha256": "6d824823098e8f1523523ab4ebf31b9d76c365e73b71625a37eefdc72a6a247a",
+      "sourceTextSha256": "7a03d8b917cd4eb72df60734e6a993fcc7d22977e4b93342f637fc125fc8ab8e",
+      "freshTranslation": "히이로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00076/Sheet1/000004",
+      "sourceBindingSha256": "b114eec2a7c79c77d168bc828100491e5040612586f71cc2cd03c17506aadd5c",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00076/Sheet1/000005",
+      "sourceBindingSha256": "8eb65b770ec7215db02e19e05cc682d922cf5f8a7e42dc360d4c37b98098c984",
+      "sourceTextSha256": "52b72950c57c36d60c34f5f6d1f2011f746512eb93e5192a89f981efcf7da430",
+      "freshTranslation": "미도리카와 빛",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00076/Sheet1/000006",
+      "sourceBindingSha256": "1bde61af3ee5ae5f125e8fcb011fe54795a459d32516f6f6436f91a88696a24d",
+      "sourceTextSha256": "83ba5202a605e587f7b165bfd6b1714b499370f661d86c516449a8f46e0d4cbf",
+      "freshTranslation": "오퍼레이션 메테오에서 L1 콜로니 군으로부터 보내진 에이전트. 16세. ㊥ 어렸을 때부터 어려운 전투 훈련을 받고 자라서 탁월한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00076/Sheet1/000007",
+      "sourceBindingSha256": "a666291fa1e0bdb63514eb7ee8e9937c33bf2a07d030a25bbfeec615e9f968bc",
+      "sourceTextSha256": "90cfde9056cbe984a9d5eed84bb2a6941aca797f650dce96702ae6492701eba2",
+      "freshTranslation": "동능력을 가진다. 50층㊥건물의 건물에서 낙하해도 죽지 않는, 골절을 자력으로 치료하는 등, 육체의 강인함도 상인 떨어져㊥한 것이 있다. ㊥ 또한 전투 능력뿐만 아니라 파괴 공작이나 모빌 슈트 수리 등의 기술도 비상 ㊥에 뛰어나다. ㊥ 무구하고 타인과의 관계를 극단적으로 피하는 경향이 있었지만, 본래는 상냥한 소년으로 ㊥ 있어, 릴리나나 다른 건담 파일럿들과의 만남을 통해서, 점차 인간다운 ㊥ 감정을 되찾았다. ㊥ 윙 건담 제로에 탑승해 제로 시스템을 다루고 거기서 본 미래와 자신 ㊥분의 감정을 믿고 젝스가 이끄는 화이트팡과 싸웠다. ㊥ 최종 결전에서는 리브라 안에 사로잡혀 있던 릴리나를 구해, 젝스와 결착을 붙인다. ㊥ 또한 지구로 떨어지는 리브라를 파괴하고 지구를 핵의 겨울에서 구했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00076/Sheet1/000008",
+      "sourceBindingSha256": "da72eb0fdf7118b5c32c6ec04a7fd434dd80c5ed3650d7390e19b662d40d50a3",
+      "sourceTextSha256": "83ba5202a605e587f7b165bfd6b1714b499370f661d86c516449a8f46e0d4cbf",
+      "freshTranslation": "오퍼레이션 메테오에서 L1 콜로니 군으로부터 보내진 에이전트. 16세. ㊥ 어렸을 때부터 어려운 전투 훈련을 받고 자라서 탁월한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00076/Sheet1/000009",
+      "sourceBindingSha256": "fe5cb6ea2058f163a3162462ccd610c3bf11a680e1c5b8872c586b4e846b5922",
+      "sourceTextSha256": "57b8ddcd3bc7a5f6d5751c1384796a02edb2ef29b740a6813748ee28dfc292a9",
+      "freshTranslation": "동능력을 가진다. 50층㊥건물의 건물에서 낙하해도 죽지 않는, 골절을 자력으로 치료하는 등, 육체의 강인함도 상인 떨어져㊥한 것이 있다. ㊥ 또한 전투 능력뿐만 아니라 파괴 공작이나 모빌 슈트 수리 등의 기술도 비상 ㊥에 뛰어나다. ㊥ 무구하고 타인과의 관계를 극단적으로 피하는 경향이 있었지만, 본래는 상냥한 소년으로 ㊥ 있어, 릴리나나 다른 건담 파일럿들과의 만남을 통해서, 점차 인간다운 ㊥ 감정을 되찾았다. ㊥ 윙 건담 제로에 탑승해 제로 시스템을 다루고 거기서 본 미래와 자신 ㊥분의 감정을 믿고 젝스가 이끄는 화이트팡과 싸웠다. ㊥ 최종 결전에서는 리브라 안에 사로잡혀 있던 릴리나를 구해, 젝스와 결착을 붙인다. ㊥ 또한 지구로 떨어지는 리브라를 파괴하고 지구를 핵의 겨울에서 구했다. ㊥ 마리 메이어 군의 반란 시에는 재빨리 행동을 개시. 태양에 폐기가 된 윈㊥ 구간담 제로를 회수해 세계의 적이 된 오비와 장절한 전투를 펼쳤다. ㊥ 그 내 몸을 돌보지 않는 싸움은 릴리나의 용기를 불러 일으키고 싸움을 종결시키는 힘과 ㊥ 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

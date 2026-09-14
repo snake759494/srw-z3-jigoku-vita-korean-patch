@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00223",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00223/Sheet1/000002",
+      "sourceBindingSha256": "ec7b1604ceec7db592627f7fd6f0e4b983aa838581bca118c8666edd09b2cec7",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00223/Sheet1/000003",
+      "sourceBindingSha256": "da73990a071b245d6a1f617e71bddf350954aa29b8051f0ddac648b0bafe981a",
+      "sourceTextSha256": "1cfc94e0bc3eecfbc141a9e5efaa3566e704e3af84d3fc847945ca0a38117f2a",
+      "freshTranslation": "에반게리온 영호기(개)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00223/Sheet1/000004",
+      "sourceBindingSha256": "72e67f5a6fb1bd821d95e868dc83144b76f825c1e8cc0bdffdfc2d9ebcd82476",
+      "sourceTextSha256": "a8d1650a451a96d19ca8d59585b3e080bc9ab9f0dd3154eabd7d9e9654ff5d81",
+      "freshTranslation": "범용 인간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00223/Sheet1/000005",
+      "sourceBindingSha256": "fec11953bc70b7663e232e51a2ebab643a74bc6c5b47f0a1f51e85447fa03068",
+      "sourceTextSha256": "24810a4886d19dfc141c8c3ab971a3464c49c734ab230b19fc2426fbd32bf10c",
+      "freshTranslation": "결전 무기 인조 인간 에반게리온 프로토 타입 영호기 (개)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00223/Sheet1/000006",
+      "sourceBindingSha256": "cabdd538d10b90c94a2a0b3c89cb0fcc100b60787f4979d6549c3b9c4e4a9cf4",
+      "sourceTextSha256": "934b85b44ac35e08f64842d0a090e55e2d322cf356e06ae265b30a2f8bf82ab2",
+      "freshTranslation": "아야나미 레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00223/Sheet1/000007",
+      "sourceBindingSha256": "7eade8a16fd2ad59f9288cf579714e23992db7b16522f6dd1fa7519781096ad4",
+      "sourceTextSha256": "a8d1650a451a96d19ca8d59585b3e080bc9ab9f0dd3154eabd7d9e9654ff5d81",
+      "freshTranslation": "범용 인간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00223/Sheet1/000008",
+      "sourceBindingSha256": "1a37b452d20e05fc2c8ff7b9df652b633f6563a0d8d0690465a6e72a710417c9",
+      "sourceTextSha256": "9c4caff61881f317f9fa55502c4d1ea8116ed3fad65a3ee4b512919c73f012e9",
+      "freshTranslation": "결전 병기·인조 인간 에반게리온의 프로토타입 영호기의 개장한 것. ㊥ 담당 파일럿은 아야나미 레이. 메인 컬러는 오렌지와 화이트. ㊥NERV 본부에서의 실험 중에 제어 불능에 빠지는 등 미지의 부분이 많다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00223/Sheet1/000009",
+      "sourceBindingSha256": "2cddce3970ca08ca114ff63695f1de7a7ee1d741ae20420c3869c0c1e5102d9f",
+      "sourceTextSha256": "a8d1650a451a96d19ca8d59585b3e080bc9ab9f0dd3154eabd7d9e9654ff5d81",
+      "freshTranslation": "범용 인간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00223/Sheet1/000010",
+      "sourceBindingSha256": "763cd165e867a1de697e03e87aa233dab8ecaf8c8d47c98b5f3d528badb02d2b",
+      "sourceTextSha256": "c417aad2cbe90b1468b43057ef17a9ec85d88a1290398b322e659c07ba188e37",
+      "freshTranslation": "결전 병기·인조 인간 에반게리온의 프로토타입 영호기를 개장한 것. ㊥ 담당 파일럿은 아야나미 레이. 메인 컬러는 오렌지와 화이트. ㊥NERV 본부에서의 실험 중에 제어 불능에 빠지는 등 미지의 부분이 많다. ㊥ 제8의 사도와의 싸움에서는, 고속으로 위치를 바꾸는 사도의 코어를 직접 잡는 등, 그 ㊥의 격파에 공헌했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00229",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00229/Sheet1/000002",
+      "sourceBindingSha256": "0f994f26f48677a3b0ee7d687c4285cc0dedd7de90ce22d0b66708c73fb5e52f",
+      "sourceTextSha256": "bcbeaa2ef22c123a5035c435df5c34d648c192bec8c6b3f964991183fa096a72",
+      "freshTranslation": "이시즈카 토모미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00229/Sheet1/000003",
+      "sourceBindingSha256": "9dd28886e38b43868facfff16480e759ba1845b78b33a4436b886754b61822c0",
+      "sourceTextSha256": "9898c1aa63ab9a1d360fec0f8ce0745b2fc26c3192048f48d5941def7e080853",
+      "freshTranslation": "이시즈카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00229/Sheet1/000004",
+      "sourceBindingSha256": "9fa3f6846b668d3c61a8d745fe62585a338b585fd1e64af0aeeea13547749f65",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00229/Sheet1/000005",
+      "sourceBindingSha256": "e18ae83deddc3c06d9da4a897e496273f0ccd766b8129a45c5da97cf77205c6b",
+      "sourceTextSha256": "03b19c849db65fc699ef1e2cbef124485f70ba7b3b63c41fa6875cd476b50502",
+      "freshTranslation": "홍보 2과의 사무 담당. 27세. ㊥ 다이 가드 전투 때는 본사에 남아 백업으로 돌리는 인연 아래의 힘. ㊥ 동기 입사의 이슈인과 다구치를 정리하는 리더격이기도 하다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00229/Sheet1/000006",
+      "sourceBindingSha256": "be2a0ad773f04d744eb865e8a29251aaa36f8a061c3899998ff69bb1812a810e",
+      "sourceTextSha256": "03b19c849db65fc699ef1e2cbef124485f70ba7b3b63c41fa6875cd476b50502",
+      "freshTranslation": "홍보 2과의 사무 담당. 27세. ㊥ 다이 가드 전투 때는 본사에 남아 백업으로 돌리는 인연 아래의 힘. ㊥ 동기 입사의 이슈인과 다구치를 정리하는 리더격이기도 하다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

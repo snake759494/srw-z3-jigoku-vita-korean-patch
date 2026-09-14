@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00107",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00107/Sheet1/000002",
+      "sourceBindingSha256": "d25f0d07bc89ab1f89db44a13288fa3aba1f6a2f3a256eddfa7c2383f359e099",
+      "sourceTextSha256": "cea4782bf610e885efca001ea9c95a88e9e262b335b33fbb8136266df439ce90",
+      "freshTranslation": "마리 파퍼시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00107/Sheet1/000003",
+      "sourceBindingSha256": "9ab7ec4a2bc6a474783554a008a6bad2ac76b07d6cae241712704edc8ff61eb7",
+      "sourceTextSha256": "dd837533f860878cdf00e041275d06c578a7f70ca96499d0f19ea8f01625b265",
+      "freshTranslation": "마리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00107/Sheet1/000004",
+      "sourceBindingSha256": "55c3a8e355654ee9e4465a392ff2c49de2fe4c2093bafe30c2983151701fef58",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00107/Sheet1/000005",
+      "sourceBindingSha256": "6f527a9f2d647e7c76f7f95d197bbec1b35f6e33ec16562c3799354a5b8168f9",
+      "sourceTextSha256": "2588c37891da3a7199da91172d25507ab681757cabb7513920264f279efe9e27",
+      "freshTranslation": "소마 필리스 속에 자고 있던 주인격. ㊥ 어린 시절, 초인기관 기술개발연구소에서 알레르야를 만나고 있어 서로 마음을 지지하고 ㊥ 맞는 중요한 존재였다. ㊥ 알레르야와 생신으로 대치했을 때에 부활하고, 알레르야와 함께 사는 길을 선택했다. ㊥ 친절한 성격이면서 심은 강했고, 자신의 힘을 알레르야를 위해 조금이라도 도움을 주려고 ㊥하고 있었다. ㊥ 필리스의 아버지 대신이었던 세르게이를 앤드레이에게 죽인 슬픔에서 다시 ㊥ 잠들어도 더블 오라이저가 일으킨 트랜잠 버스트에 의해 앤 ㊥ 레이와 화해. 이후는 마리로서 살 것이다. ㊥ 대전 후 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00107/Sheet1/000006",
+      "sourceBindingSha256": "94e04b6d8c3db092231b8668e3839f9936ab791108f9621636be20c1e996ab90",
+      "sourceTextSha256": "4ec58381652285d6deaf34d571dd1e0d91364c0769591dba43fa78a21bd73346",
+      "freshTranslation": "루비잉을 떠나 알레르야와 함께 순례 여행을 계속하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00107/Sheet1/000007",
+      "sourceBindingSha256": "5c15a68333d9782210bf0a2384de4bd411a9a84af091be89857bd0321a434e4b",
+      "sourceTextSha256": "2588c37891da3a7199da91172d25507ab681757cabb7513920264f279efe9e27",
+      "freshTranslation": "소마 필리스 속에 자고 있던 주인격. ㊥ 어린 시절, 초인기관 기술개발연구소에서 알레르야를 만나고 있어 서로 마음을 지지하고 ㊥ 맞는 중요한 존재였다. ㊥ 알레르야와 생신으로 대치했을 때에 부활하고, 알레르야와 함께 사는 길을 선택했다. ㊥ 친절한 성격이면서 심은 강했고, 자신의 힘을 알레르야를 위해 조금이라도 도움을 주려고 ㊥하고 있었다. ㊥ 필리스의 아버지 대신이었던 세르게이를 앤드레이에게 죽인 슬픔에서 다시 ㊥ 잠들어도 더블 오라이저가 일으킨 트랜잠 버스트에 의해 앤 ㊥ 레이와 화해. 이후는 마리로서 살 것이다. ㊥ 대전 후 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00107/Sheet1/000008",
+      "sourceBindingSha256": "fd98af7b04b3142f31e0eb8e2ed12b54cde32e85094fb7fd525c1f1d23cca8a6",
+      "sourceTextSha256": "4ec58381652285d6deaf34d571dd1e0d91364c0769591dba43fa78a21bd73346",
+      "freshTranslation": "루비잉을 떠나 알레르야와 함께 순례 여행을 계속하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

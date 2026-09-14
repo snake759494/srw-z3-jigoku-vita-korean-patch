@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00000",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00000/Sheet1/000002",
+      "sourceBindingSha256": "7dd6e2cf832d19d93a437b1a5b01fcbe74143c6efd9e6fdfea777b7319a0ca5b",
+      "sourceTextSha256": "630e8426d067f5f27d02056299e1c4acf48ad03838b62e0e0bd495f4722007d6",
+      "freshTranslation": "파계 사변",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00000/Sheet1/000003",
+      "sourceBindingSha256": "1c2b05694b093c301fe86bad85701b6d3f113141099608623468cc608caafc01",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00000/Sheet1/000004",
+      "sourceBindingSha256": "78707aa85b64f900101cd726f95e085b6aeb2b675fe6c9ee4146976e6f17c7d3",
+      "sourceTextSha256": "fa9f1b9e74f9106edb902c41f63071acf3086248dbc70df54b3bfbea84cae73f",
+      "freshTranslation": "ADW에서의 차원간 전쟁(=『제2차 슈퍼로봇대전 Z파계편』). ㊥차원 짐승을 전력으로 하는 신제국 임페리움의 거병을 축으로, 지구상의 3대국가의 ㊥ 사상이 흐트러지는 가운데, 이성으로부터의 지적 생명체를 포함한 적대 외래종과의 싸움이 벌어지고 ㊥ 펼쳐졌다. ㊥ 이 싸움 중, UCW로부터 ZEUTH의 멤버가 전이해 왔다. ㊥ 최종적으로는 특별국제구조대 ZEXIS의 활약에 의해, 신제국 임페륨㊥의 지배자인 파계의 왕 가이오가 토벌되어 전란은 종결했다. ㊥ 이 일련의 싸움에 의해, 각 국가의 위기의식이 높아지고, 지구 연방이 탄생한 ㊥가, 그것은 새로운 싸움의 시작이기도 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00000/Sheet1/000005",
+      "sourceBindingSha256": "3f82d21bbd4abf1eecd68d3f785dcfa11426206ea909eb58eb20573204a64862",
+      "sourceTextSha256": "fa9f1b9e74f9106edb902c41f63071acf3086248dbc70df54b3bfbea84cae73f",
+      "freshTranslation": "ADW에서의 차원간 전쟁(=『제2차 슈퍼로봇대전 Z파계편』). ㊥차원 짐승을 전력으로 하는 신제국 임페리움의 거병을 축으로, 지구상의 3대국가의 ㊥ 사상이 흐트러지는 가운데, 이성으로부터의 지적 생명체를 포함한 적대 외래종과의 싸움이 벌어지고 ㊥ 펼쳐졌다. ㊥ 이 싸움 중, UCW로부터 ZEUTH의 멤버가 전이해 왔다. ㊥ 최종적으로는 특별국제구조대 ZEXIS의 활약에 의해, 신제국 임페륨㊥의 지배자인 파계의 왕 가이오가 토벌되어 전란은 종결했다. ㊥ 이 일련의 싸움에 의해, 각 국가의 위기의식이 높아지고, 지구 연방이 탄생한 ㊥가, 그것은 새로운 싸움의 시작이기도 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

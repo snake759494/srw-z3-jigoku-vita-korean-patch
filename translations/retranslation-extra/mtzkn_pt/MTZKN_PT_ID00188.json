@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00188",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00188/Sheet1/000002",
+      "sourceBindingSha256": "e69eab5a7e56e035edc115fcf5e1b74e5df8ae30bf0c09503014b538fe7f7535",
+      "sourceTextSha256": "d78a8231248b6f7674ce382264f3c45c9e09bcdda4d5edadf3ccab9fa92a2c11",
+      "freshTranslation": "사오토메 야사부로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00188/Sheet1/000003",
+      "sourceBindingSha256": "63b1377f65cf9c075dd90e6ddb7e4df7675099c813638385bd1a75d5dc85a2b8",
+      "sourceTextSha256": "c82611ef38e9e5827f048e5216416a403e164f477bd1b73e230a506a8cd2ef0f",
+      "freshTranslation": "야사부로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00188/Sheet1/000004",
+      "sourceBindingSha256": "78e50febf5e33df92b97d9438cd7c87d64807e71cf1bb8d58001b516ef48e17e",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00188/Sheet1/000005",
+      "sourceBindingSha256": "6d411bbe13ad28b5d291c51bfb747f6b1d8c78d7d631cfff521721bcc78b35fb",
+      "sourceTextSha256": "2324292254e803094ebad97e7b498107b568049fbfe5bb952ac02861c747171d",
+      "freshTranslation": "사오토메 일문의 가부키 배우. 알토의 형제자. ㊥ 얇은 눈이 특징적이고 항상 온화한 미소를 짓고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00188/Sheet1/000006",
+      "sourceBindingSha256": "d4fecf3c7b3dc4e85e93e079055c604ec2d6e300e2ff83a399aec60c0f9f0726",
+      "sourceTextSha256": "2324292254e803094ebad97e7b498107b568049fbfe5bb952ac02861c747171d",
+      "freshTranslation": "사오토메 일문의 가부키 배우. 알토의 형제자. ㊥ 얇은 눈이 특징적이고 항상 온화한 미소를 짓고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

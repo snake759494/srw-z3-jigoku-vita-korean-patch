@@ -1,0 +1,148 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:pcsg00264:schema:retranslation-progress:v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "format",
+    "formatVersion",
+    "baseline",
+    "policy",
+    "counts",
+    "assets"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "format": {
+      "const": "siok-retranslation-progress"
+    },
+    "formatVersion": {
+      "const": 1
+    },
+    "baseline": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fileName",
+        "sha256",
+        "rowCount",
+        "assetCount"
+      ],
+      "properties": {
+        "fileName": {
+          "type": "string"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "rowCount": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "assetCount": {
+          "type": "integer",
+          "minimum": 1
+        }
+      }
+    },
+    "policy": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "method",
+        "existingTranslations",
+        "automaticLegacyFallback",
+        "mergeOutput"
+      ],
+      "properties": {
+        "method": {
+          "const": "fresh-from-japanese"
+        },
+        "existingTranslations": {
+          "const": "reference-only"
+        },
+        "automaticLegacyFallback": {
+          "const": false
+        },
+        "mergeOutput": {
+          "const": "derived-file-only"
+        }
+      }
+    },
+    "counts": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "draftedAssets",
+        "reviewedAssets",
+        "draftedRows",
+        "reviewedRows",
+        "remainingRows"
+      ],
+      "properties": {
+        "draftedAssets": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "reviewedAssets": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "draftedRows": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "reviewedRows": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "remainingRows": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "assets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "scope",
+          "assetKey",
+          "overlay",
+          "rowCount",
+          "status"
+        ],
+        "properties": {
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "assetKey": {
+            "type": "string",
+            "minLength": 1
+          },
+          "overlay": {
+            "type": "string",
+            "minLength": 1
+          },
+          "rowCount": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "status": {
+            "enum": [
+              "draft",
+              "reviewed",
+              "blocked"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

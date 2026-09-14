@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00065",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00065/Sheet1/000002",
+      "sourceBindingSha256": "bf8c758f00f5320e31803199a63ca4ef25549127abd1137939db870807b6697f",
+      "sourceTextSha256": "bcb0681c3b456a1abc5aedcee5fcce27cb7fe4b436e6fc2bc7e8b13fcf08cfa0",
+      "freshTranslation": "헤테로다인",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00065/Sheet1/000003",
+      "sourceBindingSha256": "dcddf792fb1479fa14cef7951abb1f4662353a8c72c4d43b64fa7a2f388deb20",
+      "sourceTextSha256": "bbd3fa74a468161cd7cd396bb3492075b561db28851a521806005dce6b42190a",
+      "freshTranslation": "\"지구 방위 기업 다이 가드\"",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00065/Sheet1/000004",
+      "sourceBindingSha256": "bf9d779d11ea2fb43bd92a3c3d75c8cb2e9dc363db0ed7ed886f0c9ea043ed99",
+      "sourceTextSha256": "52433bc730feac8ac09764f88a974cbfd12fd60e9d09c60672744d8002d5c6ad",
+      "freshTranslation": "계진에 의해 다른 차원에서 출현한 에너지가 생물과 같은 행동을 보는 ㊥ 시키는 현상. 또는 그 에너지 자체를 가리킨다. ㊥ 에너지는 플럭",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00065/Sheet1/000005",
+      "sourceBindingSha256": "0d3a3c2d9ec8b4094c5638bcdf2d078089308bfec855255e224173f8f5015ab3",
+      "sourceTextSha256": "96854a7ab8291a17d3620e7367558d63c9e9fdc62950962bef33e4fb4ae4aaa4",
+      "freshTranslation": "르노트를 핵으로 집결해 거대한 모습이 된다. 순수㊥에 에너지이기 때문에, 사고나 의식 등은 없지만, 전자파에 끌리는 등의 학습㊥성을 가지고 있다. ㊥핵인 오리지널 프랙",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00065/Sheet1/000006",
+      "sourceBindingSha256": "69d90133efcf8fc86a2df00a008447c830a2f78ca1531edd1ffb82832b5112d1",
+      "sourceTextSha256": "571062ff0a409eb1ddbac1acf25d09e0c461c54cbcfc8e6cfb78035beaaf0490",
+      "freshTranslation": "르노트를 파괴하면 붕괴한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00065/Sheet1/000007",
+      "sourceBindingSha256": "507a9865496a260e81ededd15869d26b66ea8f01fc8c0e5ba052f7ec1b7f6923",
+      "sourceTextSha256": "52433bc730feac8ac09764f88a974cbfd12fd60e9d09c60672744d8002d5c6ad",
+      "freshTranslation": "계진에 의해 다른 차원에서 출현한 에너지가 생물과 같은 행동을 보는 ㊥ 시키는 현상. 또는 그 에너지 자체를 가리킨다. ㊥ 에너지는 플럭",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00065/Sheet1/000008",
+      "sourceBindingSha256": "9e5c1039c53ffd0c54b7bb8fc3f1de5f8aa5408352253229ee61ac28e60aae05",
+      "sourceTextSha256": "96854a7ab8291a17d3620e7367558d63c9e9fdc62950962bef33e4fb4ae4aaa4",
+      "freshTranslation": "르노트를 핵으로 집결해 거대한 모습이 된다. 순수㊥에 에너지이기 때문에, 사고나 의식 등은 없지만, 전자파에 끌리는 등의 학습㊥성을 가지고 있다. ㊥핵인 오리지널 프랙",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00065/Sheet1/000009",
+      "sourceBindingSha256": "a6811a59be2e68211d177607c8c86e7252c8a95a1d3a34d32b2c40a70ecc39cb",
+      "sourceTextSha256": "571062ff0a409eb1ddbac1acf25d09e0c461c54cbcfc8e6cfb78035beaaf0490",
+      "freshTranslation": "르노트를 파괴하면 붕괴한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

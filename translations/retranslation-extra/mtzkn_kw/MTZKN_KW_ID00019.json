@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00019",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00019/Sheet1/000002",
+      "sourceBindingSha256": "644a7833e795a7966dbb1c66f03ce9a1bfa80b959739742e061264c659a1ccb6",
+      "sourceTextSha256": "3571e556d5904bff332f7c94e4576c91d1d28d7c286403b20dfb757ea374a94f",
+      "freshTranslation": "미스릴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00019/Sheet1/000003",
+      "sourceBindingSha256": "ef35bad27d38af3f1ca31e59b11849fe0e548b70997491d2a77048f60c594fc8",
+      "sourceTextSha256": "914af5dcbc8c0b6cb94015d0f98c70513418c5ec15557e2cb76c03973f5ce3bb",
+      "freshTranslation": "\"풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00019/Sheet1/000004",
+      "sourceBindingSha256": "280183ef48e248d4efac5de34bdd0b9fc6afbd5328f196d9a17c188966ef5566",
+      "sourceTextSha256": "983aba52bd5705db667e47e82a5457e818e6c23cd7092b5947890b663276695d",
+      "freshTranslation": "르 패닉! \"",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00019/Sheet1/000005",
+      "sourceBindingSha256": "134bd60d641e15a7f37c53010f2f4e4ed4de7a0967f962bc959558fa7a731c29",
+      "sourceTextSha256": "ba1a536dd86967a99b5292ff31a03a944ca5f2358629b925e712c2d86b61ec74",
+      "freshTranslation": "군사력에 의한 평화 유지를 목적으로 한 대테러 용병 조직. ㊥ 그 이름은 팬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00019/Sheet1/000006",
+      "sourceBindingSha256": "ba9559ccf901d0af06855d6594e0ad9ab27b7a718dc498fc85cdaf27c6479de9",
+      "sourceTextSha256": "73c0b62029ea95a8f9ac2f7e864a32b37a3b7fb99cea9f89c4ff90b96162d155",
+      "freshTranslation": "지 소설에 등장하는 가상의 '은'에서 찍혀있다. ㊥ 테러리스트 그룹의 박멸이나 군사독재정권의 타도뿐만 아니라 위스퍼드㊥의 보호도 행한다. ㊥ 그 장비는 정규군의 10년 앞을 하고 있다고 하며, 각국의 군에 제식 채용 ㊥되기 전의 최신예의 장비가 배치되어 있다. ㊥ 작전부·정보부·연구부가 존재하며 투아하 데 다낭의 서태평양전대 ㊥는 작전부에 소속된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00019/Sheet1/000007",
+      "sourceBindingSha256": "f87db0d583b8d1dabdda400e470443e480df2d8ea4dfc10035c3e54845338194",
+      "sourceTextSha256": "ba1a536dd86967a99b5292ff31a03a944ca5f2358629b925e712c2d86b61ec74",
+      "freshTranslation": "군사력에 의한 평화 유지를 목적으로 한 대테러 용병 조직. ㊥ 그 이름은 팬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00019/Sheet1/000008",
+      "sourceBindingSha256": "86f3554e24d892ece0d6d7fd93ae305b1964893d4ee46eaced155c336803a334",
+      "sourceTextSha256": "73c0b62029ea95a8f9ac2f7e864a32b37a3b7fb99cea9f89c4ff90b96162d155",
+      "freshTranslation": "지 소설에 등장하는 가상의 '은'에서 찍혀있다. ㊥ 테러리스트 그룹의 박멸이나 군사독재정권의 타도뿐만 아니라 위스퍼드㊥의 보호도 행한다. ㊥ 그 장비는 정규군의 10년 앞을 하고 있다고 하며, 각국의 군에 제식 채용 ㊥되기 전의 최신예의 장비가 배치되어 있다. ㊥ 작전부·정보부·연구부가 존재하며 투아하 데 다낭의 서태평양전대 ㊥는 작전부에 소속된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

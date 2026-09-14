@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00031",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00031/Sheet1/000002",
+      "sourceBindingSha256": "8536e00d90e2233478348b4c0992b023f4169bc3490ae719b42ace4d29fb7a8a",
+      "sourceTextSha256": "dd1fef8ee563ab1dfd857cc9ff3d58cfa2109f2596443edc95414670a105973b",
+      "freshTranslation": "리골건",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00031/Sheet1/000003",
+      "sourceBindingSha256": "d392316a5754b653ece456c8a37845d5bad80312cb2f418d499c10c4ccf5625c",
+      "sourceTextSha256": "cfd728a7a10979bd33c55c2c077058c658341b87fdfd8e92a55cacd39f8aa860",
+      "freshTranslation": "「태양의 사자 철인 28호」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00031/Sheet1/000004",
+      "sourceBindingSha256": "db84b92e8dcd9c1de97c293f16a7bcdeff0178f2783511fcd8c300e3511f1593",
+      "sourceTextSha256": "491a3fb96b0392c2d7035219be0fc640e6261058b04326d438d2a3ca6a265998",
+      "freshTranslation": "ICPO의 특별 수사관, 가네다 마사타로에게 사용이 허가된 쇼크건. ㊥ 명중시키면 일시적으로 상대의 신경을 마비시킬 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00031/Sheet1/000005",
+      "sourceBindingSha256": "5924c8a2109f46444563fe926ec096b618c19f41435ff2ff3f5ce6c315ae17ab",
+      "sourceTextSha256": "491a3fb96b0392c2d7035219be0fc640e6261058b04326d438d2a3ca6a265998",
+      "freshTranslation": "ICPO의 특별 수사관, 가네다 마사타로에게 사용이 허가된 쇼크건. ㊥ 명중시키면 일시적으로 상대의 신경을 마비시킬 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

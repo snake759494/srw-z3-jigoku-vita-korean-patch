@@ -1,0 +1,192 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00052",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00052/Sheet1/000002",
+      "sourceBindingSha256": "c97393c8b34d3596a156fc88406617f862ae658ed1ef1e4c8f1568dc78284cf2",
+      "sourceTextSha256": "d72595ce57e8679feb314e6426c2571d6ee1c1cc313ef81ff2ee35269ca9bc64",
+      "freshTranslation": "카미유 비단",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00052/Sheet1/000003",
+      "sourceBindingSha256": "1cfdc488c2e60f5863aaa45a988f16e978097d49836c1ce1baf00fc05bc4d404",
+      "sourceTextSha256": "9f6eb77d0cdcada3c71fcdb67d8f4d15f15485eb3534fa9b6669026eaa997fec",
+      "freshTranslation": "카미유",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00052/Sheet1/000004",
+      "sourceBindingSha256": "f7fe74983279b9ab15abc933c6f35cf6edc8da3d644c1f5203e61f6ce7525b96",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00052/Sheet1/000005",
+      "sourceBindingSha256": "2735a51b27ae1836dd4bac538024818b8a31fe8c28675279ea5759f398453e39",
+      "sourceTextSha256": "5272b8e2a0794202247271e8fc7fbb46d12f61392187122c03157e234530e797",
+      "freshTranslation": "히다 전남",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00052/Sheet1/000006",
+      "sourceBindingSha256": "f99bc693a8e40f821483e96155dee1f7a05e69b990f13e077bae3f0ffe923765",
+      "sourceTextSha256": "a6f4d886f2f46d25d10a06c51630276982baddb5da962fbfb4b1d55ff854add0",
+      "freshTranslation": "에고에 참여하는 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00052/Sheet1/000007",
+      "sourceBindingSha256": "c9fbd6103d30cf752a02778c5506e29357185ee7baa67542e965513c54ecadd1",
+      "sourceTextSha256": "103a7e8b9a4d75de1641a63773650afd2912ec76ac5a58b45cf20bb09adc32b1",
+      "freshTranslation": "입 소년으로 Z 건담의 조종사. 17세. ㊥원래는 스페이스 콜로니 '그린 노아'로 고등학교에 다니던 약간 다감㊥이면서도 보통 소년이다. 카미유라는 여성적인 이름에 컴플렉스를 안고 ㊥ 오리 호모 어비스 (간이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00052/Sheet1/000008",
+      "sourceBindingSha256": "b0418263b0c9dffe2fed2fd57d0406de1806ed46969b44b33638a3b31b199470",
+      "sourceTextSha256": "94ce94caacbd7c83bac552e06115f9211b67a8a87c44f99ae6f793a804d1a245",
+      "freshTranslation": "글라이더)와 가라데 같은 남성적인 취미에 기울이고 ㊥했다. 부모님이 연방군의 기술 장교라고 하는 환경도 도와, 메카닉에 정통하고 있어, Jr. ㊥모빌슈트 대회에서는 우승할 정도의 솜씨였다. ㊥ 그러나 그 이름을 Jerid에게 중상당했고 그와 정작을 일으켰다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00052/Sheet1/000009",
+      "sourceBindingSha256": "21470bac5baa32c38f94fac7e7425dd941667f3816fd09a18d0f1cfde83d135c",
+      "sourceTextSha256": "8340bbe268670842005c6bd960a2a8c72c850c77d6916ae1f1ec4e630c3d270e",
+      "freshTranslation": "ー㊥즈와 반목. 나리유키에서 콰트로 등의 건담 Mk-Ⅱ 강탈 계획을 도와 그대로㊥에고에 참가한다.㊥전투에서 새로운",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00052/Sheet1/000010",
+      "sourceBindingSha256": "abd2c95429c9e2d217fcb8d7cdf46398d2404bfbcafa35ca95ecc41838e242e3",
+      "sourceTextSha256": "f9b58fab71fd12298552f47f46df461100912b810cd6aa367be63080028aa754",
+      "freshTranslation": "입으로의 능력에 눈을 뜨고 점차 에우고의 에이스 파일럿㊥으로 활약하게 되었다. ㊥ 처음에는 단순히 티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00052/Sheet1/000011",
+      "sourceBindingSha256": "2f785e951ee99752a499352e399ffa3810406cdb5fcaac8d4b68941e9dd05ed1",
+      "sourceTextSha256": "02d8336920a07853052735856c1ab65dfe0cefe43d7621de7a547f296d017084",
+      "freshTranslation": "네즈에 대한 반감에서 싸우고 있었지만, 콰트로나 아무로라고 ㊥한 어른들, 그리고 포우나 로사미아라고 하는 여성들과의 만남과 이별을 거친 것으로, ㊥인간적으로 크게 성장한다. 그리고 전쟁을 끝내는 길을 모색하면서 자신의 의식을 ㊥ 우주로 넓혀갔다. ㊥ TV판의 라스트에서는, 시로코에 정신을 길로 데려가 마음에 깊은 상처를 입었지만, ㊥극장판의 라스트에서는 그것을 뛰어넘어, 파와 서로의 무사와 신체를 확인했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00052/Sheet1/000012",
+      "sourceBindingSha256": "424b83e59f6a6eda68d87768488fcb671a97d0f3a21812762512bcc3aae21833",
+      "sourceTextSha256": "a6f4d886f2f46d25d10a06c51630276982baddb5da962fbfb4b1d55ff854add0",
+      "freshTranslation": "에고에 참여하는 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00052/Sheet1/000013",
+      "sourceBindingSha256": "9ddffe49b13379744d76e8d36ac23709b490d373f290f594dfadbeb971e60782",
+      "sourceTextSha256": "103a7e8b9a4d75de1641a63773650afd2912ec76ac5a58b45cf20bb09adc32b1",
+      "freshTranslation": "입 소년으로 Z 건담의 조종사. 17세. ㊥원래는 스페이스 콜로니 '그린 노아'로 고등학교에 다니던 약간 다감㊥이면서도 보통 소년이다. 카미유라는 여성적인 이름에 컴플렉스를 안고 ㊥ 오리 호모 어비스 (간이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00052/Sheet1/000014",
+      "sourceBindingSha256": "663d705b002e5141613a9d13811e572867098e794e0009ae491ddcdbcfec78cc",
+      "sourceTextSha256": "94ce94caacbd7c83bac552e06115f9211b67a8a87c44f99ae6f793a804d1a245",
+      "freshTranslation": "글라이더)와 가라데 같은 남성적인 취미에 기울이고 ㊥했다. 부모님이 연방군의 기술 장교라고 하는 환경도 도와, 메카닉에 정통하고 있어, Jr. ㊥모빌슈트 대회에서는 우승할 정도의 솜씨였다. ㊥ 그러나 그 이름을 Jerid에게 중상당했고 그와 정작을 일으켰다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00052/Sheet1/000015",
+      "sourceBindingSha256": "f683d98914affa1253866baaa906d4b5494105fbd0992b46fc4e7ad8748f11b1",
+      "sourceTextSha256": "8340bbe268670842005c6bd960a2a8c72c850c77d6916ae1f1ec4e630c3d270e",
+      "freshTranslation": "ー㊥즈와 반목. 나리유키에서 콰트로 등의 건담 Mk-Ⅱ 강탈 계획을 도와 그대로㊥에고에 참가한다.㊥전투에서 새로운",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00052/Sheet1/000016",
+      "sourceBindingSha256": "ac07c19fd82b960d6a5f08ea052353883ed5996be34b3875ec1c0d7d80a53066",
+      "sourceTextSha256": "f9b58fab71fd12298552f47f46df461100912b810cd6aa367be63080028aa754",
+      "freshTranslation": "입으로의 능력에 눈을 뜨고 점차 에우고의 에이스 파일럿㊥으로 활약하게 되었다. ㊥ 처음에는 단순히 티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00052/Sheet1/000017",
+      "sourceBindingSha256": "f38ecf92d53a621e5b0a004a57fd965ef4f92a3b51f74e1ed84cdd39d92577fa",
+      "sourceTextSha256": "02d8336920a07853052735856c1ab65dfe0cefe43d7621de7a547f296d017084",
+      "freshTranslation": "네즈에 대한 반감에서 싸우고 있었지만, 콰트로나 아무로라고 ㊥한 어른들, 그리고 포우나 로사미아라고 하는 여성들과의 만남과 이별을 거친 것으로, ㊥인간적으로 크게 성장한다. 그리고 전쟁을 끝내는 길을 모색하면서 자신의 의식을 ㊥ 우주로 넓혀갔다. ㊥ TV판의 라스트에서는, 시로코에 정신을 길로 데려가 마음에 깊은 상처를 입었지만, ㊥극장판의 라스트에서는 그것을 뛰어넘어, 파와 서로의 무사와 신체를 확인했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

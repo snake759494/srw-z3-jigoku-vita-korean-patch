@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00147",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00147/Sheet1/000002",
+      "sourceBindingSha256": "1f1a5c2440003d18cc43659ed4fafb6b2dfcedbf04a6272e2f5dd030017eccb3",
+      "sourceTextSha256": "553dedccfc526f09a9202aead7b87f507037ddbaee07710097c83e71964bf875",
+      "freshTranslation": "길보아 산토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00147/Sheet1/000003",
+      "sourceBindingSha256": "4c0456fa9d3a1d18a4fc9bf7f11ffa70cfbb56846c41bfb832bcb84154f090fd",
+      "sourceTextSha256": "c46366b236b64212a577e1f7c2d73896144142373ce02123249b9d65298bef50",
+      "freshTranslation": "길보아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00147/Sheet1/000004",
+      "sourceBindingSha256": "3fbfed94ca62932b2dfabd8f25407630e4fd0598ce275e0fbc19d766d4baf9ca",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00147/Sheet1/000005",
+      "sourceBindingSha256": "83f315174f1668caf84ac82e70b4aef85a8e83a07a308f5bc22ee692a78fb545",
+      "sourceTextSha256": "8d930f01af78b2dc9bf42c4d2376d815f0e162988a5a71b9685161d87e73b459",
+      "freshTranslation": "초",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00147/Sheet1/000006",
+      "sourceBindingSha256": "519d21711b2db53cfda1d08e4708c45a5cac19ef33fbec1ea3fc75e8db846442",
+      "sourceTextSha256": "af36cf36441600d6f3cca963574285d23ab72c575c9ca4f49396b8a1e07f17dd",
+      "freshTranslation": "갈란셰르의 조타수 겸 기라주르의 파일럿. 30세. ㊥ 인당이 좋고 귀찮은 성격으로 팔라우에 아내와 세 명의 자녀가 있다. ㊥ 배너지가 잡혔을 때에는 신품을 맡기고, 그 가난한 가정은 배너지에 지온의 ㊥ 현상과 우주이민의 간절함을 가르치게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00147/Sheet1/000007",
+      "sourceBindingSha256": "b97707e62f1fa80dd25c16303afe9de064ec522dc35208eee9906b14e12ef520",
+      "sourceTextSha256": "8a59dae5ebe1b19039f90282b40637d30582e70daa23f5c9df619b1d3390cfba",
+      "freshTranslation": "갈란셰르의 조타수 겸 기라주르의 파일럿. 30세. ㊥ 인당이 좋고 귀찮은 성격으로 팔라우에 아내와 세 명의 자녀가 있다. ㊥ 배너지가 잡혔을 때에는 신품을 맡기고, 그 가난한 가정은 배너지에 지온의 ㊥ 현상과 우주이민의 간절함을 가르치게 되었다. ㊥ 라플라스의 잔해 전투 때 'NT-D'를 발동시킨 배너지의 공격에 의해 ㊥ 격추되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

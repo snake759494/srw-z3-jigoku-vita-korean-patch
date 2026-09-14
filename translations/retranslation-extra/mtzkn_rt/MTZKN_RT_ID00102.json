@@ -1,0 +1,247 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00102",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000002",
+      "sourceBindingSha256": "10ee39709ce3713b42b7beb14b2be8adc93d39a368b1637e9e46788d043a1920",
+      "sourceTextSha256": "488b383f92e4f11b65e8a9c06a1cf89c6a23e90c2c7dd33cd82bdf88888ae2d7",
+      "freshTranslation": "상단을 되찾아라!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000003",
+      "sourceBindingSha256": "786d382183f0adcfbb01bbfa009508199f3695c5d34d5b85605be3bff63fce36",
+      "sourceTextSha256": "40862e56e314100c3ecbd9e56fa285c2a01de08e164e79c5328cc2ee23f68630",
+      "freshTranslation": "감바스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000004",
+      "sourceBindingSha256": "0c703ee78b0c5f3bc5d0033c8ad321a78dec6eb74b3961bf33cdba8d9e83ce91",
+      "sourceTextSha256": "40862e56e314100c3ecbd9e56fa285c2a01de08e164e79c5328cc2ee23f68630",
+      "freshTranslation": "감바스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000005",
+      "sourceBindingSha256": "afe111c877e5559b16a898bd3fdd085daf953c5cc90de590dd664ffa34eafb5a",
+      "sourceTextSha256": "db890621fc483d9ae76bec2ecae52f966dfe89b1c1d58bcdc134f96de83b0007",
+      "freshTranslation": "카야 노리코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000006",
+      "sourceBindingSha256": "d0fe77983de58d269a3db0adc3b3861b1209af2917999dc5551b878417cab0ff",
+      "sourceTextSha256": "2a0b780c7410cf0016a01474bf83391e6f90f1319f9a7dfe1b081aa376b6f3f7",
+      "freshTranslation": "제4세대 초광속대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000007",
+      "sourceBindingSha256": "0ab87261e17fdf8ef92b1c7016d2e5614d6f7aead5f69981a152689e6e63db41",
+      "sourceTextSha256": "19fc8094b4717bf19461f8d43a2e2c985afa8701c125221ccc70857abadb5d41",
+      "freshTranslation": "우주선 기술의 멋을 모으고 오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000008",
+      "sourceBindingSha256": "4628dbd6ccc73db4324cb335ff937a12c855d68bbafbd181a8e6fb208a5cf787",
+      "sourceTextSha256": "a4d5ccb33da26534457ddc26e9ffad5eb9af5f88cc460fbd5229f56f5e510e2f",
+      "freshTranslation": "・코우이치로우가 개발한, 초㊥광속 만능대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000009",
+      "sourceBindingSha256": "c80e0ad1afaf4edc2efa61d909c26ddb1a55c5aa5a88b5184dffc2478baed20c",
+      "sourceTextSha256": "d65f1fa2b38d0aa771335390ca15053c5713c6782f1bf4bb80b3e77184074edc",
+      "freshTranslation": "변형 합체 머신 무기. ㊥ 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000010",
+      "sourceBindingSha256": "596b370ae49649962b4433f800553693c78021849c186869dcbe598d8a5cecbf",
+      "sourceTextSha256": "527c003515249f235a7e3a2d9d082deae9e75ce9a839ecf96e0cccf60ea7ce28",
+      "freshTranslation": "-머신 1호와 2호가 합체함으로써 완성된다. ㊥ 우주 괴수와의 전력비를 뒤집기 위해 개발된 본 기기는 다른 머신 무기의 상식을 뒤집어 ㊥하는 거체와 2기의 축퇴로에 의해 태어나는 강대한 파워를 가지고 있다. ㊥ 그 파워를 살려 본 기기에는 영하 1 억도의 냉동 광선 \"버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000011",
+      "sourceBindingSha256": "9495c08d97a4bb286097dc4e71e78713f90dc5b1e6c3db8dbc96555a99110b4f",
+      "sourceTextSha256": "13faf6bcd3766eb93f5e9cda712baa90836a199a5f45a5b74ea5a2685bddb2d4",
+      "freshTranslation": "\"빔\"과 1㊥0 억 기가 볼트의 전류를 방출하는 \"더블 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000012",
+      "sourceBindingSha256": "cbafce43540c950b2d0d38fc89e2821ad88241d33e14f517c01b46d9dad1d7a9",
+      "sourceTextSha256": "19b8cfe837ed16da0b496f617dfa2cb0e753b4d4ac6bcb1e4c1a895f91b258a0",
+      "freshTranslation": "「코레다」등을 비롯한 규격외의 ㊥ 위력의 무기가 다수 내장되어 있다. ㊥ 뇌왕성 절대 방어 전선에서 처음으로 완성체로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000013",
+      "sourceBindingSha256": "1df98df9ff37bc2429968ae11a5e41d50b759a790c1118724726dc96fbca5f50",
+      "sourceTextSha256": "2dc4bf12655387dbef0afddc28cfa8d3a9cced68ff204a227ef92fd3bee22d42",
+      "freshTranslation": "사용되었을 때는 무수한 우주괴 ㊥ 짐승과 단기로 교전을 하면서도 이를 압도한다는 컨셉대로의 일을 보여 ㊥했다. ㊥ 단지, 그 성능을 12분에 끌어내기 위해서는, 우수한 조종 기술이 요구되기 때문에, 조종 ㊥자에게는 상응하는 「노력」과 「근성」이 필요하다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000014",
+      "sourceBindingSha256": "1ecb8f76bfa9e65dfef6edb007722cb0f048283b6f3216bb84d7155783b33e85",
+      "sourceTextSha256": "2a0b780c7410cf0016a01474bf83391e6f90f1319f9a7dfe1b081aa376b6f3f7",
+      "freshTranslation": "제4세대 초광속대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000015",
+      "sourceBindingSha256": "14e40708a3aa3a27ee6b7765d2707c2f0ec6ca5864c7b32160d60cdd9764f877",
+      "sourceTextSha256": "19fc8094b4717bf19461f8d43a2e2c985afa8701c125221ccc70857abadb5d41",
+      "freshTranslation": "우주선 기술의 멋을 모으고 오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000016",
+      "sourceBindingSha256": "34057b9e55ef557b68ed777668c1e71e261391138eb99676cb93900c1960be8f",
+      "sourceTextSha256": "a4d5ccb33da26534457ddc26e9ffad5eb9af5f88cc460fbd5229f56f5e510e2f",
+      "freshTranslation": "・코우이치로우가 개발한, 초㊥광속 만능대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000017",
+      "sourceBindingSha256": "5b4e7020a11b23c4b9dab49c26899a25ac27b26ebf1e2dcc61ff107df346d15b",
+      "sourceTextSha256": "d65f1fa2b38d0aa771335390ca15053c5713c6782f1bf4bb80b3e77184074edc",
+      "freshTranslation": "변형 합체 머신 무기. ㊥ 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000018",
+      "sourceBindingSha256": "ab3ca0a20daef1b5838bc5a56985055e974cd7142a6110b84e4e18f8daca96aa",
+      "sourceTextSha256": "527c003515249f235a7e3a2d9d082deae9e75ce9a839ecf96e0cccf60ea7ce28",
+      "freshTranslation": "-머신 1호와 2호가 합체함으로써 완성된다. ㊥ 우주 괴수와의 전력비를 뒤집기 위해 개발된 본 기기는 다른 머신 무기의 상식을 뒤집어 ㊥하는 거체와 2기의 축퇴로에 의해 태어나는 강대한 파워를 가지고 있다. ㊥ 그 파워를 살려 본 기기에는 영하 1 억도의 냉동 광선 \"버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000019",
+      "sourceBindingSha256": "a8249845cdf1abafa3d3d8b09dfe0c0d19c5fde59544e1550afc1fd2de711be1",
+      "sourceTextSha256": "13faf6bcd3766eb93f5e9cda712baa90836a199a5f45a5b74ea5a2685bddb2d4",
+      "freshTranslation": "\"빔\"과 1㊥0 억 기가 볼트의 전류를 방출하는 \"더블 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000020",
+      "sourceBindingSha256": "909d934a602c0a3b1a3c4f28c02ff322faac4a45017b0311608d891fa8eca459",
+      "sourceTextSha256": "19b8cfe837ed16da0b496f617dfa2cb0e753b4d4ac6bcb1e4c1a895f91b258a0",
+      "freshTranslation": "「코레다」등을 비롯한 규격외의 ㊥ 위력의 무기가 다수 내장되어 있다. ㊥ 뇌왕성 절대 방어 전선에서 처음으로 완성체로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000021",
+      "sourceBindingSha256": "d6be1daccb0910a7ed0174dbd47194819e1fa4390a432b2bb0e8028d1cde9c6b",
+      "sourceTextSha256": "eece5a146c2d3bb7fdd34e1a69ed9b71dce1427ded611686d13984bce7afe54f",
+      "freshTranslation": "사용되었을 때는 무수한 우주괴 ㊥ 짐승과 단기로 교전을 하면서도 이를 압도한다는 컨셉대로의 일을 보여 ㊥했다. ㊥ 단지, 그 성능을 12분에 끌어내기 위해서는, 우수한 조종 기술이 요구되기 때문에, 조종 ㊥자에게는 상응하는 「노력」과 「근성」이 필요하다. ㊥ 최종 결전에서는 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00102/Sheet1/000022",
+      "sourceBindingSha256": "bb3b272e93b4efcaa57f0d9731990d8c70186f6f735c79bf763b39a9cb5946cd",
+      "sourceTextSha256": "b7d50dfffca8fa33c5f46f717c52351faff363317d7a43f5d71f24798bb66496",
+      "freshTranslation": "머신 3호를 기폭시키기 위해서, 축퇴로의 하나를 자폭시켜, ㊥카르네아데스 계획을 성공으로 이끌지만, 자기도 블랙홀에 말려들어, 하루카 때의㊥그분에게 보내지는 것이 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00133",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00133/Sheet1/000002",
+      "sourceBindingSha256": "b821d530df7defbc1a4fdffe0664bd1b5d89c392c42769c33aa1ecf64e07e909",
+      "sourceTextSha256": "d928666f13faa97487259aaeb93c35165531ea3e8cc388536da8ff8408ccf434",
+      "freshTranslation": "오리진 로우",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00133/Sheet1/000003",
+      "sourceBindingSha256": "e4c9a60085e42e8679a20bee78a1bc1ffc2903ea13910d4bcd506e55b3324e97",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00133/Sheet1/000004",
+      "sourceBindingSha256": "7b4eb6c3fd240850158ce4ec4bb11984ffd4c92504a4cdf6b6cb710c6c674487",
+      "sourceTextSha256": "7a46c1f98d076b04fb12f5e37d989134b54b6bda91eb37dbc8c2b74c272b0e39",
+      "freshTranslation": "차원 힘의 별명. 원리의 힘이라고도 불린다. ㊥ 차원력의 해명 정도가 높은 사람이나 검은 영지에 접한 사람은 이 호칭명을 사용㊥ 사용하는 경향이 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00133/Sheet1/000005",
+      "sourceBindingSha256": "364e0fc324a988287bf2b0610aa805d4656271c5c2a752b16fa06b9c431b1d71",
+      "sourceTextSha256": "7a46c1f98d076b04fb12f5e37d989134b54b6bda91eb37dbc8c2b74c272b0e39",
+      "freshTranslation": "차원 힘의 별명. 원리의 힘이라고도 불린다. ㊥ 차원력의 해명 정도가 높은 사람이나 검은 영지에 접한 사람은 이 호칭명을 사용㊥ 사용하는 경향이 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

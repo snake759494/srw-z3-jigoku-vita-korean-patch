@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00098",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00098/Sheet1/000002",
+      "sourceBindingSha256": "7d5f4ce4a30408fe86949bc09843c1e92fcf32760505fce727532a964551abc4",
+      "sourceTextSha256": "b9e88ca034937964615902726c7bcae86511934dfcffa6078727ebb5e496287a",
+      "freshTranslation": "메리다 섬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00098/Sheet1/000003",
+      "sourceBindingSha256": "ce44517844cc7555d3e1c3d6f3a647b67dc1e2a9899da02b02b0f2c7e4a5f5da",
+      "sourceTextSha256": "914af5dcbc8c0b6cb94015d0f98c70513418c5ec15557e2cb76c03973f5ce3bb",
+      "freshTranslation": "\"풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00098/Sheet1/000004",
+      "sourceBindingSha256": "c50ae823e357581916303264fd0b87aa9c548856738ce4dddcf0354ffaf3468e",
+      "sourceTextSha256": "983aba52bd5705db667e47e82a5457e818e6c23cd7092b5947890b663276695d",
+      "freshTranslation": "르 패닉! \"",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00098/Sheet1/000005",
+      "sourceBindingSha256": "4c84e384c8a564c26a38aa9972432c5ea7006b00f600503a3167ccab7df545ed",
+      "sourceTextSha256": "116a27023bec7801dc7edd0275696cf78d1c3090314a6cd509147f52abf87729",
+      "freshTranslation": "미스릴 서태평양전대의 기지가 있는 고도. ㊥ 북위 20도 50분, 동경 140도 31분에 위치하며 열대성 기후에서 섬의 ​​대부분은 ㊥ 밀림으로 덮여 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00098/Sheet1/000006",
+      "sourceBindingSha256": "187840ec0fd05f32c8b0dd9e7c7ce13c6f9c45bb84fa6b83bbe120bf290c335a",
+      "sourceTextSha256": "116a27023bec7801dc7edd0275696cf78d1c3090314a6cd509147f52abf87729",
+      "freshTranslation": "미스릴 서태평양전대의 기지가 있는 고도. ㊥ 북위 20도 50분, 동경 140도 31분에 위치하며 열대성 기후에서 섬의 ​​대부분은 ㊥ 밀림으로 덮여 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

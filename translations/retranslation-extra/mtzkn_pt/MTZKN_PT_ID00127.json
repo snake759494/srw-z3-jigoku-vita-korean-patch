@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00127",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00127/Sheet1/000002",
+      "sourceBindingSha256": "8ebad0723eb44a78a68fefdd983b0cbfc8cb84ca41b3f403f52c8c1b98836002",
+      "sourceTextSha256": "1d33c0db5c4fec16dd3d1293407034138e439c4ed2916656e8a2e8c8a4b5ac93",
+      "freshTranslation": "마이클 장",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00127/Sheet1/000003",
+      "sourceBindingSha256": "0ac4864df42e2218d5448cf850096bf920996fb3d4579d6b6a75df06021837c8",
+      "sourceTextSha256": "80777383a11a5b11f113ad37c871577813ea2b3159e9de2635db812d7467e3da",
+      "freshTranslation": "마이클",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00127/Sheet1/000004",
+      "sourceBindingSha256": "34f1847cc0b5b44bf1f3e3b6c696fc4fbe091ba52925e40eb669be7e3ce1b32a",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00127/Sheet1/000005",
+      "sourceBindingSha256": "054649cdef1430fef6134f633b4747e1167f658590440eb6d691066c75d3a6f5",
+      "sourceTextSha256": "c782d0d1214dd3a6718b5b384b761f0bcbaa84f042136c40b4edba337657bbe2",
+      "freshTranslation": "극중 영화 '솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00127/Sheet1/000006",
+      "sourceBindingSha256": "371746d4e9e43a0c4da56a72a7ba11f6883585997a851dea639cc23e4ac04873",
+      "sourceTextSha256": "c0db26b6ce8af4d2d2ac17e13c5f62da9daab6a609e001f764fd6cfce308d2bc",
+      "freshTranslation": "루비잉에 등장하는 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00127/Sheet1/000007",
+      "sourceBindingSha256": "d6061cc09137238efbdad2b44d5afd271452ad90b04a4ac3b1076bab9a6ad604",
+      "sourceTextSha256": "8ce0b69868237002e2f086aa50345f57a03f4e2967f1812073d2906ebeddd8a3",
+      "freshTranslation": "ー.㊥왼쪽 눈에 상처가있는 동양계의 청년으로, 세츠나의 역할을 하지만, 성격 그 외는 완전히 비슷하다㊥네.㊥더블 오라이저에 탑승하고, 어로우즈와의 결전에서는, 네 명의 트랜잠의 힘을㊥하나로 모아 라이저 소드를 날렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00127/Sheet1/000008",
+      "sourceBindingSha256": "424ab4f506e5d7716117055ff9354c3152efc26ac1c134b1f9167f2022710979",
+      "sourceTextSha256": "c782d0d1214dd3a6718b5b384b761f0bcbaa84f042136c40b4edba337657bbe2",
+      "freshTranslation": "극중 영화 '솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00127/Sheet1/000009",
+      "sourceBindingSha256": "294e8191011dc0949990499205bc9c2c3a538ba481c5a76526be9926b010e826",
+      "sourceTextSha256": "c0db26b6ce8af4d2d2ac17e13c5f62da9daab6a609e001f764fd6cfce308d2bc",
+      "freshTranslation": "루비잉에 등장하는 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00127/Sheet1/000010",
+      "sourceBindingSha256": "ff3360ee5a12ccecded317f2cd859a3e9f19d91b7c751539899ed4f7413c13d2",
+      "sourceTextSha256": "8ce0b69868237002e2f086aa50345f57a03f4e2967f1812073d2906ebeddd8a3",
+      "freshTranslation": "ー.㊥왼쪽 눈에 상처가있는 동양계의 청년으로, 세츠나의 역할을 하지만, 성격 그 외는 완전히 비슷하다㊥네.㊥더블 오라이저에 탑승하고, 어로우즈와의 결전에서는, 네 명의 트랜잠의 힘을㊥하나로 모아 라이저 소드를 날렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

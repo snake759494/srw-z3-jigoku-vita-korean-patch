@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00002",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00002/Sheet1/000002",
+      "sourceBindingSha256": "6eedd6dd2c51e4874ee81b588416cef8e0777ef37359305b1ddab699799ac599",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00002/Sheet1/000003",
+      "sourceBindingSha256": "be27b31598a6989e04fb5d0b6f9473e7eddd1eaf13f6c04c4e3fce3ed60bbb19",
+      "sourceTextSha256": "efc1221f0d71fc728fd28e9c53cd232e1cfafe47208bbeaf48813f5993111d26",
+      "freshTranslation": "철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00002/Sheet1/000004",
+      "sourceBindingSha256": "b278ecc09ce4046fb73a33ad205418985071aeebc6d8d84d86fc6a58bde4af58",
+      "sourceTextSha256": "efc1221f0d71fc728fd28e9c53cd232e1cfafe47208bbeaf48813f5993111d26",
+      "freshTranslation": "철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00002/Sheet1/000005",
+      "sourceBindingSha256": "dd43b25cc3e7bc52b34dc776e7324e30d82b1354030751507a6be352e948c9a3",
+      "sourceTextSha256": "c74ae9b74ea00168f1e636d7ea97e3b9a8a9704f397f4a24abc332a6bb5cbbb8",
+      "freshTranslation": "가네다 마사타로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00002/Sheet1/000006",
+      "sourceBindingSha256": "1c567e20034423fe46e4de63919604298f5936db8b461a337d32b6ae437ddad2",
+      "sourceTextSha256": "f30a04e1835b240b4fab6291e84c7c037ec68e9af06a295c985d3c1a6fde06f2",
+      "freshTranslation": "가네다 박사가 고안·설계해, 키시마 박사가 완성시킨 로봇. ㊥ 마사타로가 가진 비전 컨트롤러, 통칭 V콘에서 발신되는 레인보우㊥ 에이브로 조작된다. ㊥ 태양광만 있으면 무한하다고 할 수 있는 활동 시간을 얻는 태양 에너지 전환 시스템, 신체 ㊥ 몸의 일부가 파괴되어도 행동을 계속할 수 있는 독립 연동 시스템을 갖추고 있다. ㊥ 한층 더 최고 속도 마하 4.02의 비행 능력, 수중을 40 노트의 스피드로 이동하는 ㊥ 항행 능력, 시속 300 km의 주행 능력을 자랑 , 레이더 장치를 내장한 센서 ㊥ 라이트로 어둠 속에서의 활동에도 대응할 수 있는 등, 우주를 포함한 모든 장소에서의 활동을 가능하게 ㊥ 하고 있다. ㊥ 평화의 사자라는 가네다 박사의 이념을 펌핑, 특정 무기는 장비하고 있지 않았지만, ㊥ 초합금제의 굴강한 바디로부터 꺼내지는 해머 펀치나 플라잉 킥등의 기술 ㊥은, 모두 필살의 일 ㊥ 높은 성능을 자랑하지만, 유일한 단점은 좋거나 나쁜 것도 리모컨에 달려있는 것. 악인에게 V코㊥을 빼앗겼을 때에는, 그 조작 그대로 파괴 활동을 해 버린 적도 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00002/Sheet1/000007",
+      "sourceBindingSha256": "e2fd49d8c3716ac5b9092b38c11da0ab0509c1a629a505e0a3bf4874133afdc0",
+      "sourceTextSha256": "443f6e475f979630facff18493ac1a4979eff4c09c7120105a72e208acf91fa4",
+      "freshTranslation": "가네다 박사가 고안·설계해, 키시마 박사가 완성시킨 로봇. ㊥ 마사타로가 가진 비전 컨트롤러, 통칭 V콘에서 발신되는 레인보우㊥ 에이브로 조작된다. ㊥ 태양광만 있으면 무한하다고 할 수 있는 활동 시간을 얻는 태양 에너지 전환 시스템, 신체 ㊥ 몸의 일부가 파괴되어도 행동을 계속할 수 있는 독립 연동 시스템을 갖추고 있다. ㊥ 한층 더 최고 속도 마하 4.02의 비행 능력, 수중을 40 노트의 스피드로 이동하는 ㊥ 항행 능력, 시속 300 km의 주행 능력을 자랑 , 레이더 장치를 내장한 센서 ㊥ 라이트로 어둠 속에서의 활동에도 대응할 수 있는 등, 우주를 포함한 모든 장소에서의 활동을 가능하게 ㊥ 하고 있다. ㊥ 평화의 사자라는 가네다 박사의 이념을 펌핑, 특정 무기는 장비하고 있지 않았지만, ㊥ 초합금제의 굴강한 바디로부터 꺼내지는 해머 펀치나 플라잉 킥등의 기술 ㊥은, 모두 필살의 일 ㊥ 높은 성능을 자랑하지만, 유일한 단점은 좋거나 나쁜 것도 리모컨에 달려있는 것. 악인에게 V코㊥을 빼앗겼을 때에는, 그 조작 그대로 파괴 활동을 해 버린 적도 있었다. ㊥ 최종 결전 시에는 태양 에너지를 전개방하는 것으로 자신의 몸과 교환하여 우주마㊥왕을 쓰러뜨린다. 슬픔에 사는 쇼타로였지만, 잠시 후 V콘에 반응이 돌아와 ㊥ 무사히 귀환했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

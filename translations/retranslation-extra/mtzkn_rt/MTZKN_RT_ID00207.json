@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00207",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00207/Sheet1/000002",
+      "sourceBindingSha256": "d4909708cb769c701ec63abf66be3fd451758f63eba62589a447ce1ae97d381c",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00207/Sheet1/000003",
+      "sourceBindingSha256": "344f4e8199e536f8ec7167fc9322d975ddba8d8f7759774f359d5eff69281068",
+      "sourceTextSha256": "5e6bb92923d36cdebaa3f8e96077508db7e99a4a49e2777f7d18ec6f04084cd2",
+      "freshTranslation": "하스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00207/Sheet1/000004",
+      "sourceBindingSha256": "a7dd09c3792954203fbcd60a72acf3b41fc32d1e95cc2149f1ee52fb2b40a7e5",
+      "sourceTextSha256": "660f0323300c0da8746776aa16572d98f860a953aa984851a2f5e280b3566bed",
+      "freshTranslation": "글라이급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00207/Sheet1/000005",
+      "sourceBindingSha256": "e4f30af5900d2710a59fb5e62dcfa85443184e577ea13d5d3c36e68950bf28dd",
+      "sourceTextSha256": "5e6bb92923d36cdebaa3f8e96077508db7e99a4a49e2777f7d18ec6f04084cd2",
+      "freshTranslation": "하스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00207/Sheet1/000006",
+      "sourceBindingSha256": "f15fe1eb91447d7e0b1495ad69cb5f5d1b541ac27b09affeecdf60865daf6653",
+      "sourceTextSha256": "660f0323300c0da8746776aa16572d98f860a953aa984851a2f5e280b3566bed",
+      "freshTranslation": "글라이급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00207/Sheet1/000007",
+      "sourceBindingSha256": "90dd86b632248437968e5cd5018a1a9475a933a8030d93a1185dc9787859209a",
+      "sourceTextSha256": "fc1a95e499d48595d25973413ef376b12d03e232e3094a5ad44b2489ab4ced8c",
+      "freshTranslation": "안티 스파이럴 함대의 초배급 우주 전함. 통칭 「불상 핸드」. ㊥ 아크 글렌과 거의 같은 사이즈로, 그 거대한 신체=손을 이용해 잡아, 잡아 ㊥ 넣어 주먹이 되어 돌격하는 심플하면서도 강력한 공격을 한다. ㊥ 또한, \"하스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00207/Sheet1/000008",
+      "sourceBindingSha256": "b35323d3d84dc2766ea9a7a498ad84c348707b37c1273d5ea004e29c927a09c0",
+      "sourceTextSha256": "26263d28c5841dd25148e032863b88afeaf0ed8b7a41e4277d56228e5494aeae",
+      "freshTranslation": "\"글라이\"는 산스크리트어로 \"장바구니\"라는 의미이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00207/Sheet1/000009",
+      "sourceBindingSha256": "f474d6e1e9d981669bc5e5c6c3224bd1023ad2becc56b3d16e54a50c753f7e97",
+      "sourceTextSha256": "fc1a95e499d48595d25973413ef376b12d03e232e3094a5ad44b2489ab4ced8c",
+      "freshTranslation": "안티 스파이럴 함대의 초배급 우주 전함. 통칭 「불상 핸드」. ㊥ 아크 글렌과 거의 같은 사이즈로, 그 거대한 신체=손을 이용해 잡아, 잡아 ㊥ 넣어 주먹이 되어 돌격하는 심플하면서도 강력한 공격을 한다. ㊥ 또한, \"하스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00207/Sheet1/000010",
+      "sourceBindingSha256": "9297c3ff7a0704861a275b05fa2e0f2d898b39992c2ccce095af8e7a39bda07b",
+      "sourceTextSha256": "26263d28c5841dd25148e032863b88afeaf0ed8b7a41e4277d56228e5494aeae",
+      "freshTranslation": "\"글라이\"는 산스크리트어로 \"장바구니\"라는 의미이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

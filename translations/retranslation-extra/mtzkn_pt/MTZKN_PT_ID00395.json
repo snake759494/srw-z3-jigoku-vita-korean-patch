@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00395",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00395/Sheet1/000002",
+      "sourceBindingSha256": "384aaf635e7eb8da17c34adc8f4898a71e14d6745308f6ef618d4c49fbe17031",
+      "sourceTextSha256": "611f79ec0f6fa7be158874cac0d1fa9f829bf93576889247503809f6335545b9",
+      "freshTranslation": "안나롯",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00395/Sheet1/000003",
+      "sourceBindingSha256": "d96e8d2c4f48f4d163f59dab51b56ff0ba06deec51235f29d80a682ecd6fc4ac",
+      "sourceTextSha256": "fba616d534b4f28bde7c1d521b215f7d55220607e1981308bac85069706555da",
+      "freshTranslation": "・스톨스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00395/Sheet1/000004",
+      "sourceBindingSha256": "3b2323cb57d2e6a10fc63eb8f0b1b5dafdcd0e2d9a23b8e8405f5288b5c8ce75",
+      "sourceTextSha256": "611f79ec0f6fa7be158874cac0d1fa9f829bf93576889247503809f6335545b9",
+      "freshTranslation": "안나롯",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00395/Sheet1/000005",
+      "sourceBindingSha256": "cd43c4d3d6ff0c734cb09ce44e0c81a472301cf38a50db615064b3989592c877",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00395/Sheet1/000006",
+      "sourceBindingSha256": "1bfc8ead7c4be88dd79db184830b9fb8ed22540dd2d6687969c69f8b39b01133",
+      "sourceTextSha256": "af27dd6b4b0482fe8feee9af593190f038230f369657cdee621fd688480ce245",
+      "freshTranslation": "樫樫 카즈미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00395/Sheet1/000007",
+      "sourceBindingSha256": "4af7ac78365307fb19a2db878a390da08b30e534edf59c4f294a93e8ab00555e",
+      "sourceTextSha256": "ffbab1106e178272ee64c32c024e274ef7aa7a70420f45a15d7d790b751f2857",
+      "freshTranslation": "제미니스의 부대장. ㊥ 냉정침착으로 유능한 지휘관인 동시에, 기동병기의 조종기술도 일류이며, 자신㊥이 가지는 염동력을 직접 조종에 반영시키는 것으로 경이적인 전투력을 자랑한다. ㊥ 임무 수행을 위해서는 비정하게 철저하고 상대가 적이라면 잔학 비도라고도 할 수 있는 행위㊥를 취할 수도 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00395/Sheet1/000008",
+      "sourceBindingSha256": "4f9fc3d7f24e6d1601f4cf61cd6882ca4e7fdee1e425da0d573b8d1d1cb7aec1",
+      "sourceTextSha256": "d0990cfd18811a586b863094cc44991388874be4ebcc2cb39d5790249963a59e",
+      "freshTranslation": "제미니스의 부대장. ㊥ 냉정침착으로 유능한 지휘관인 동시에, 기동병기의 조종기술도 일류이며, 자신㊥이 가지는 염동력을 직접 조종에 반영시키는 것으로 경이적인 전투력을 자랑한다. ㊥ 임무 수행을 위해서는 비정하게 철저하고 상대가 적이라면 잔학 비도라고도 할 수 있는 행위㊥를 취할 수도 있다. ㊥ 하지만 그 내심은 자신들의 행위에 대한 갈등이 있었고, 그것을 뿌리치기 위해 의식㊥적으로 냉혹하게 행동하고 있던 면도 있었다. ㊥ 행성 제미나이의 주민인 제미나이드의 마지막 여성. ㊥ 가드라이트의 공 나에게 건너는 파트너이며, 그 아이를 묵는다. ㊥ 제미나이드의 유전은 완전 모계 우세이며 이종족과 교배하더라도 어머니가 ㊥ 제미나이드인 한 확실히 그 유전자가 우선된다. 반대로, 제미나이㊥도는 여성이 없는 경우, 종족의 유전자를 자손에게 전달할 수 없는 것이다. ㊥ 가드라이트가 쓰러진 후 수수께끼의 남자 범공에 처형되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

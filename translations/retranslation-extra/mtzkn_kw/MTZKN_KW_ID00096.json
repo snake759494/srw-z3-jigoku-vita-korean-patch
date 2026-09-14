@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00096",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00096/Sheet1/000002",
+      "sourceBindingSha256": "4611d035dfc31a1c13367c7992c4a5fee6171286cc38e5e7ea6584c14cdaca21",
+      "sourceTextSha256": "b7446ec7d65a0d5a6c610fdfb6d60b80b5069e802980f0314fd9e14244c98915",
+      "freshTranslation": "우주 항행 모함 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00096/Sheet1/000003",
+      "sourceBindingSha256": "23c3f7d8cd69a67af5e596ff8080c94a88bbe341928b5a6e8a77bc39072a3cdb",
+      "sourceTextSha256": "0bd721d64669030ae2905a772fa4f5f9b7dc48bc6acd4cd061e0371a6f99eb61",
+      "freshTranslation": "루비잉",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00096/Sheet1/000004",
+      "sourceBindingSha256": "fe607c70bbf3af6381e2348a55870bd3acf970174443247ec7c768b37a2aa0e4",
+      "sourceTextSha256": "7669c78573db7851e69684ca226465fd07fe9556c10d361219f1dde2c7e809ab",
+      "freshTranslation": "「극장판 기동전사 건담 00-AwakeningofftheTrailblazer-」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00096/Sheet1/000005",
+      "sourceBindingSha256": "be024756211c9c782d437412b20ecf1c95b32447a1be92d75a10356358f50940",
+      "sourceTextSha256": "b5543af8a968c367978d12e50054349182683f93a85435973c04330716bc9e2a",
+      "freshTranslation": "소행성을 베이스로 건조된 전장 15킬로의 거대한 외우주 항행선. ㊥ 이노베이드의 거점이며, 양자 연산 시스템 「베다」의 본체를 탑재해 ㊥ 있다. ㊥ 지구 연방의 관리하에 놓이게 된 현재도, 그 거대함 때문에, 기능㊥이나 시설에 대해서는 완전히 파악되지 않고, 각부의 해석이 진행되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00096/Sheet1/000006",
+      "sourceBindingSha256": "640ac913a4f2ef6f375e57719697b4fca5d25ca2121d46301d04d124e1feda27",
+      "sourceTextSha256": "b5543af8a968c367978d12e50054349182683f93a85435973c04330716bc9e2a",
+      "freshTranslation": "소행성을 베이스로 건조된 전장 15킬로의 거대한 외우주 항행선. ㊥ 이노베이드의 거점이며, 양자 연산 시스템 「베다」의 본체를 탑재해 ㊥ 있다. ㊥ 지구 연방의 관리하에 놓이게 된 현재도, 그 거대함 때문에, 기능㊥이나 시설에 대해서는 완전히 파악되지 않고, 각부의 해석이 진행되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

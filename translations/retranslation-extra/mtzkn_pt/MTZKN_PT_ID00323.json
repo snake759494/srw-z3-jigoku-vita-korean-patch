@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00323",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00323/Sheet1/000002",
+      "sourceBindingSha256": "75ec2bcea2ff1775a5506eb6401fff8eaff1fa4274d927b796159fc567a340e3",
+      "sourceTextSha256": "c9870b34eecbf0b8a4eca25bdf74f199807f1cad5aa5a1732a12582b8263470d",
+      "freshTranslation": "긴브레이 카이트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00323/Sheet1/000003",
+      "sourceBindingSha256": "99a09619705f7c7e3c70ceecaa68bddeff381826c9c25968f8aad232d18d726f",
+      "sourceTextSha256": "335230d4e0b782aab1235007f3d8f30becb715a920375acc15b4b2d0fc95132a",
+      "freshTranslation": "긴브레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00323/Sheet1/000004",
+      "sourceBindingSha256": "ae9937a700024684e7b66269c53e2eeb9ccd640e3510e4ccab311438c376c167",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00323/Sheet1/000005",
+      "sourceBindingSha256": "53f8b9df9c495812b9c8f2d51a7b2e9229db223c74588112ff3850badf1e17e8",
+      "sourceTextSha256": "1f854389c84883573d49c56f35dab5c2484020f72081b4bde7d100d3e1d353ee",
+      "freshTranslation": "신정부 총사령 보좌관인 로시우의 보좌관. ㊥ 시베라 등과 같이, 나선왕과의 싸움에 참가한 대그렌단의 멤버보다 아래의 세 ㊥대에서, 시몬들의 세대의 인간(로시우를 제외한다)을 시대 지연이라고 생각하고 있는 곳이 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00323/Sheet1/000006",
+      "sourceBindingSha256": "77a232cf0fbe285ecc8b48d73779dcff777cea415e9351e1dd6b33f1f451233d",
+      "sourceTextSha256": "109da2167be18f46c1db8e83a2f5bf75030430bb6a1404b7b548f16db08216d4",
+      "freshTranslation": "신정부 총사령 보좌관인 로시우의 보좌관. ㊥ 시베라 등과 같이, 나선왕과의 싸움에 참가한 대그렌단의 멤버보다 아래의 세 ㊥대에서, 시몬들의 세대의 인간(로시우를 제외한다)을 시대 지연이라고 생각하고 있는 곳이 있다. ㊥실은 어린 시절, 괌의 손으로 전세계에 방송된 용모를 목격하고 있어 마음㊥의 바닥에서는 큰 글렌단을 동경하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

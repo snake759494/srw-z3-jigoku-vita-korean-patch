@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00230",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00230/Sheet1/000002",
+      "sourceBindingSha256": "f431999643bf06b10cdcf59f0b7244784b482dd596d7144eddbbd9c53856fe15",
+      "sourceTextSha256": "1140dcdcaf1d20cb5d3786607e89977e7cbd7ec7fda8c07b4c20a7000929986a",
+      "freshTranslation": "다구치 유로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00230/Sheet1/000003",
+      "sourceBindingSha256": "16276a0b6f2dc8d2458452fda9bf7232ca84651625be42475f5285f992e8da9a",
+      "sourceTextSha256": "8830deb20821fdd815af75288c8ff8f2c223987678407d06d3e14e85a5ff49fc",
+      "freshTranslation": "타구치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00230/Sheet1/000004",
+      "sourceBindingSha256": "f0db635fee4d9530e29a49a67b98a85211c1dc26f730377ae170f29321044302",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00230/Sheet1/000005",
+      "sourceBindingSha256": "1c6ce98bfe680e8ea06f9c2fd6fd59d125b0e819d62f8a25c4537b2d80e9cb51",
+      "sourceTextSha256": "5576921e6f7ddf06ff9b0d982210a6454543ddbc01ecf922bd31849c1c633841",
+      "freshTranslation": "홍보 2과의 기획 제작 담당. 27세. ㊥ 같은 해에 동기 입사의 이시즈카와 이슈인은 행동을 함께 하는 경우가 많다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00230/Sheet1/000006",
+      "sourceBindingSha256": "cf588d65c9ab01dea0f40bbcdef733252fddc7692d5fd857d7ec1d8a10ba03b3",
+      "sourceTextSha256": "5576921e6f7ddf06ff9b0d982210a6454543ddbc01ecf922bd31849c1c633841",
+      "freshTranslation": "홍보 2과의 기획 제작 담당. 27세. ㊥ 같은 해에 동기 입사의 이시즈카와 이슈인은 행동을 함께 하는 경우가 많다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

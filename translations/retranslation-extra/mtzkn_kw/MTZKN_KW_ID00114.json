@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00114",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00114/Sheet1/000002",
+      "sourceBindingSha256": "8ddcb053a737b2539b0849ff38e99071109800a8b0990ba40ac5695068d29321",
+      "sourceTextSha256": "f2d6abc6ae1a5d176bfc4b1c1ed59b361247a200c68de9f1f83824ff132f32b4",
+      "freshTranslation": "그레이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00114/Sheet1/000003",
+      "sourceBindingSha256": "33ac2c9718ee4d015e84b4575a5fd0c95d837b4ca78f64e66c8aa67fd8c7df9f",
+      "sourceTextSha256": "31c764623d52432620b3bb884db9aee6770918a264a5c8eb13a97b086dc7f753",
+      "freshTranslation": "「극장판 마크로스 F～이츠와리노우",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00114/Sheet1/000004",
+      "sourceBindingSha256": "eccf8e44b41df919564b6326dabe4b336e46cbbd8ca4c77120f4b61c2515456f",
+      "sourceTextSha256": "f165f3f41f42032eb0d4e573c6b87da39f21da7e3633a8815ef2298e07eb2c62",
+      "freshTranslation": "히메~」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00114/Sheet1/000005",
+      "sourceBindingSha256": "3d409a8ebbdec5e703aec66503dc78a2b82dcacf28b4399f965377576141ad06",
+      "sourceTextSha256": "9c77ad3dfe72de1f713eda6244c11b5a29519b8ee9e5f3bd88a8a2ff0881edfc",
+      "freshTranslation": "전체 이름은 그레이스 오코너. ㊥ 과거의 셰릴의 매니저이며, 항상 여유의 미소를 짓고, 스케 ㊥ 줄 조정으로부터 셰릴의 부적까지 어렵게 해내는 탁월한 수완의 소유자. ㊥ 그 신체는 프론티어 선단에서는 불법으로 여겨지는 기계화 \"임플란트\"가 실시 ㊥되어 있으며, 네트워크 회선에 침입 등의 기능을 갖는다. ㊥ 자신의 야망을 위해 프론티어 선단을 이용하려고하지만, 그것은 과연 ㊥되지 않았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00114/Sheet1/000006",
+      "sourceBindingSha256": "a87fff1ee5c28ca97eefd1cb84800855e229c0406b0d0f0c6dc8a6e7904f5ccf",
+      "sourceTextSha256": "9c77ad3dfe72de1f713eda6244c11b5a29519b8ee9e5f3bd88a8a2ff0881edfc",
+      "freshTranslation": "전체 이름은 그레이스 오코너. ㊥ 과거의 셰릴의 매니저이며, 항상 여유의 미소를 짓고, 스케 ㊥ 줄 조정으로부터 셰릴의 부적까지 어렵게 해내는 탁월한 수완의 소유자. ㊥ 그 신체는 프론티어 선단에서는 불법으로 여겨지는 기계화 \"임플란트\"가 실시 ㊥되어 있으며, 네트워크 회선에 침입 등의 기능을 갖는다. ㊥ 자신의 야망을 위해 프론티어 선단을 이용하려고하지만, 그것은 과연 ㊥되지 않았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

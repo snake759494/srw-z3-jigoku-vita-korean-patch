@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00130",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00130/Sheet1/000002",
+      "sourceBindingSha256": "e414624c0f6bacf00312bbed65313e006c2f8fd2ef185fa3f0c88206e40d8221",
+      "sourceTextSha256": "7b556e74121994c734a32f33d517ac666b5b0415aec7cbefa0032005fe5ef81e",
+      "freshTranslation": "인사라움",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00130/Sheet1/000003",
+      "sourceBindingSha256": "534c75cfd01e7abd73e7bfc46b8c8fcea64ad8e2fe7c5f7d0950a91f0b0c540a",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00130/Sheet1/000004",
+      "sourceBindingSha256": "050c81776282bdad7da8d23c8dc69d4f144131f17979e1a4615999e0494ad059",
+      "sourceTextSha256": "3c4ce14ab02eebfb20cf8e73bfa240bd7f1747659886d21b2010e79daa2caee9",
+      "freshTranslation": "정식 명칭은 성 인사라움 왕국. ㊥ 병행 세계의 지구를 통일하고 있던 절대 군주제의 왕국으로, 약 2000년의 역사를 ㊥ 가지고 있었다. ㊥ 방위조직인 아크세이버는 전수방위를 뜻하며 이종생명체나 이성인이나 ㊥ 등 인류를 지켜오고 있었지만 파계의 왕에게 패배한다. 또한 차원력 추출 시스템, ㊥ZONE의 폭주에 의해 인사라움은 멸망했다. ㊥ 그 후 차기 성왕인 유서 인사라움의 지휘하에 ADW에 침공 ㊥했지만, ZEXIS 전에 패퇴했다. 그러나 유서가 모든 전쟁책임을 ㊥ 하는 것으로 인사라움의 시민들은 받아들여져 화성의 개척민이 되었다. ㊥ 차원력의 연구에 있어서는 ADW나 UCW보다도 진행되고 있었지만, 그 중심 인물 ㊥이었던 앰블론 지우스의 사망에 의해, 많은 성과는 없어졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00130/Sheet1/000005",
+      "sourceBindingSha256": "4d45d07131fef83d855a1b9eda4d3b260ed2c5c8862c9efb274d577d7934fd14",
+      "sourceTextSha256": "3c4ce14ab02eebfb20cf8e73bfa240bd7f1747659886d21b2010e79daa2caee9",
+      "freshTranslation": "정식 명칭은 성 인사라움 왕국. ㊥ 병행 세계의 지구를 통일하고 있던 절대 군주제의 왕국으로, 약 2000년의 역사를 ㊥ 가지고 있었다. ㊥ 방위조직인 아크세이버는 전수방위를 뜻하며 이종생명체나 이성인이나 ㊥ 등 인류를 지켜오고 있었지만 파계의 왕에게 패배한다. 또한 차원력 추출 시스템, ㊥ZONE의 폭주에 의해 인사라움은 멸망했다. ㊥ 그 후 차기 성왕인 유서 인사라움의 지휘하에 ADW에 침공 ㊥했지만, ZEXIS 전에 패퇴했다. 그러나 유서가 모든 전쟁책임을 ㊥ 하는 것으로 인사라움의 시민들은 받아들여져 화성의 개척민이 되었다. ㊥ 차원력의 연구에 있어서는 ADW나 UCW보다도 진행되고 있었지만, 그 중심 인물 ㊥이었던 앰블론 지우스의 사망에 의해, 많은 성과는 없어졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

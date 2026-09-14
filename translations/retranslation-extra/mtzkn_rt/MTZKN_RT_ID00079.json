@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00079",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00079/Sheet1/000002",
+      "sourceBindingSha256": "ae562d8c921729d198d94ea9ee80016f0766f6245ad0527a79997e59bc5625ab",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00079/Sheet1/000003",
+      "sourceBindingSha256": "925a267deffa066017b48dc104536d3d289feefe3e645aa8a8b4a064967763d2",
+      "sourceTextSha256": "0449fe5863c9a44ae95bfebb4663ceb422edd352a9f839b637e0640bf889270c",
+      "freshTranslation": "유니콘 건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00079/Sheet1/000004",
+      "sourceBindingSha256": "51a7b026d5cb77e48837d3106d11593e0dd763a65438ae74ed8e26f9ac9c281e",
+      "sourceTextSha256": "2730f3776cadbd222671c72f97c206741531fd8ce740f0e85e1ae41446398de6",
+      "freshTranslation": "유니콘 건담(유니콘)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00079/Sheet1/000005",
+      "sourceBindingSha256": "f64a172720d4fe8d139da690572f9bf71ee42464ce1c44e44d9f9f987e5f0c5a",
+      "sourceTextSha256": "3be5982e00f91fe50351aa280d5ff245eaf1c76c9a62212afe4920605a986cbc",
+      "freshTranslation": "배너지 링크스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00079/Sheet1/000006",
+      "sourceBindingSha256": "86bf10f6cd006a772b0582e4e7ae57ddd87dd356ea3df66b740e4a6ab8524539",
+      "sourceTextSha256": "0ad9c250097bec9fbfe5ea18afb12ef18e26da287e4908444404f1cb85ce9096",
+      "freshTranslation": "애너하임 일렉트로닉스 사에서 극비리에 개발되고 있던, 프로토 타입 모빌 슈트. ㊥ 전신 순백의 기체로 머리에 유니콘을 연상시키는 한 모퉁이를 가지고 있다. ㊥ 전신의 이동식 프레임이 사이코 프레임으로 형성되고, 기체 추종성은 ㊥자릿수 밖에 높다. ㊥무장면도 강력하며, 주무장인 빔 매그넘은 1발로, 통상의 빔라㊥이풀 4발분의 위력을 자랑한다. 다만, 한 발마다 에너지 팩을 배벌할 필요㊥가 있기 때문에, 팩을 풀로 휴대해도 5발밖에 쏘지 않는다는 단점도 있다. 이 외 ㊥에도 하이퍼 바주카 등 전황에 따라 풍부한 옵션을 설치하는 것이 ㊥ 가능하다. ㊥ 본 기기는 「UC계획」이라고 하는 연방군의 극비계획의 핵심으로서 개발된 기체이며, ㊥ 많은 정보가 은닉화되고 있다. 그 철저한 것은 개발 관계자조차 담당 이외는 ㊥ 파악할 수 없을 정도. ㊥ 조종석에는 생체 인증 시스템이 내장되어 있으며 처음 등반",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00079/Sheet1/000007",
+      "sourceBindingSha256": "6928e209196a8596a21d7c09b123fe0f193bc0a39b8f71b5ce9e2cfdc959cbcc",
+      "sourceTextSha256": "f3408348afc57a0afecc2681b00e7264e88564a424add47f0acf79ac1c4e0b50",
+      "freshTranslation": "배너 ㊥ 디 링크스 이외는 다루지 못하고있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00079/Sheet1/000008",
+      "sourceBindingSha256": "11e7378f1691cfe7de1b58ef9f5387b18e790ba9c02b130299e4eee1e394a293",
+      "sourceTextSha256": "0ad9c250097bec9fbfe5ea18afb12ef18e26da287e4908444404f1cb85ce9096",
+      "freshTranslation": "애너하임 일렉트로닉스 사에서 극비리에 개발되고 있던, 프로토 타입 모빌 슈트. ㊥ 전신 순백의 기체로 머리에 유니콘을 연상시키는 한 모퉁이를 가지고 있다. ㊥ 전신의 이동식 프레임이 사이코 프레임으로 형성되고, 기체 추종성은 ㊥자릿수 밖에 높다. ㊥무장면도 강력하며, 주무장인 빔 매그넘은 1발로, 통상의 빔라㊥이풀 4발분의 위력을 자랑한다. 다만, 한 발마다 에너지 팩을 배벌할 필요㊥가 있기 때문에, 팩을 풀로 휴대해도 5발밖에 쏘지 않는다는 단점도 있다. 이 외 ㊥에도 하이퍼 바주카 등 전황에 따라 풍부한 옵션을 설치하는 것이 ㊥ 가능하다. ㊥ 본 기기는 「UC계획」이라고 하는 연방군의 극비계획의 핵심으로서 개발된 기체이며, ㊥ 많은 정보가 은닉화되고 있다. 그 철저한 것은 개발 관계자조차 담당 이외는 ㊥ 파악할 수 없을 정도. ㊥ 조종석에는 생체 인증 시스템이 내장되어 있으며 처음 등반",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00079/Sheet1/000009",
+      "sourceBindingSha256": "79946006bb93e0180886ec0e71365f7562995bd21d93b12b0882d02217e0d578",
+      "sourceTextSha256": "f3408348afc57a0afecc2681b00e7264e88564a424add47f0acf79ac1c4e0b50",
+      "freshTranslation": "배너 ㊥ 디 링크스 이외는 다루지 못하고있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

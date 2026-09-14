@@ -1,0 +1,258 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00101",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000002",
+      "sourceBindingSha256": "c3dbbb72b757465d794c88cf28a7fcacc3a7211bd876b0676a17200dd92991f3",
+      "sourceTextSha256": "9d9ae172fdc3acb985e0859af43788b807b9a44eda6e92500860ae00333e84b9",
+      "freshTranslation": "세츠나・F・세이에이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000003",
+      "sourceBindingSha256": "3b05aa032e5f402b7e103de8aae7be001eef8d544dd9b49aee8b873b2d8cc407",
+      "sourceTextSha256": "94e7c36184bb09c51f388e0567dbce7cf9d7352a579be7fa2453421fedc95fc8",
+      "freshTranslation": "찰나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000004",
+      "sourceBindingSha256": "7fefbf37aa5afda4526ca87ffd83876a394d0b8a82874614efcd532ebeef46e0",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000005",
+      "sourceBindingSha256": "a4feb96ea09faf2c7d7d87ccafd4cbfb33e7b75c2f108d1e73426fd6c89af94b",
+      "sourceTextSha256": "84cac0e6bf6be8dbf2e2f785ea2b6eb79a548331ebf96b77bd0b6e661a15c1d5",
+      "freshTranslation": "미야노",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000006",
+      "sourceBindingSha256": "c3d3cf2acdeffa43a67e6a006cfe528a1d0c973229aa037136e603aaf0e83416",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000007",
+      "sourceBindingSha256": "50d33b4ab3538fe4e1d65801d104954e3897f855a8da29606451242d4971b86c",
+      "sourceTextSha256": "755ecc36694b5ed68119f2ca58d53bbb0a8693cfccd4b44bfc156c81a91a5c68",
+      "freshTranslation": "루비잉의 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000008",
+      "sourceBindingSha256": "8d15309c824f91767cb7601177d806a4c330cbfef195da9d56d5c224f28591d6",
+      "sourceTextSha256": "76b5cadb1fd10610b3ee84170c974b5dc67ffd84487ed704cfb319b1aded5c7b",
+      "freshTranslation": "ー.㊥본명은 솔란 이브라힘. 23세.㊥어린 시절부터 반정부 게릴라로 활동해 싸움 속에서 자랐다. 따라서 분쟁을 미워합니다.㊥그들은 자신이 싸움에서만 살 수 있다고 자각합니다. \"무력으로 인한 분쟁의 뿌리㊥절절을 내걸는 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000009",
+      "sourceBindingSha256": "148a754c6e1d895135941c0fb6586abf1cb45eae0b0aa0a2482f476a9930f069",
+      "sourceTextSha256": "4cffa4125e98a216b7ff5c254306532fb0474d9f373df8eb269e6f37e7157642",
+      "freshTranslation": "루비잉에 들어간다. ㊥ 출생도 있어, 당초는 무구하고 별로 감정을 표에 나오지 않고, 독단 행동을 행하는 장면도 몇번 ㊥인가 보였다. 하지만 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000010",
+      "sourceBindingSha256": "7b70ceea9a23c16f14947ccb649a8f59f1ca3774495868c6d57c72fbb34fe1cb",
+      "sourceTextSha256": "25321dc546a85b0f76219966213abd0136a1f5b053eab7b533835418d16266ef",
+      "freshTranslation": "루비잉이 내거는 전쟁 근절의 이념은 누구보다 강하게 마음㊥에 안고 있어, 싸우는 동안 동료들에게의 걱정이나, 주위에의 배려도 할 수 있도록㊥이 되어 갔다. ㊥ 유엔군과의 싸움에 패배 한 것으로 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000011",
+      "sourceBindingSha256": "ddde1e4727967830ab12d2596e04439a5fa448a748132dd84e7c45dd7537b665",
+      "sourceTextSha256": "d8c52097a372e046805d1743d30749563ed76ebfad7d0924a644a20e535bba78",
+      "freshTranslation": "루비잉이 괴멸한 뒤에도 한 명, 반괴해 ㊥한 건담 엑시아에서 싸움을 계속하고 있었지만, 프톨레마이오스 2에 합류해, 트윈드라㊥ 이브를 탑재한 더블 오건담에 탑승하게 된다. ㊥ 싸움 속에서 만난 마리나의 한결같이 평화를 기원하는 자세에는 부정적이었지만, ㊥ 이윽고 마음속에 변화가 나타나고, 유엔군과의 최종 결전에 임하기 전에는, 마리나를 향해 메일 ㊥를 보냈다. ㊥국가를 잃은 마리나와도 재회하지만 연인끼리를 묻는 밀레이나에게는 즉답으로 부정하고 ㊥하는 것에서도 두 사람의 관계는 연애와는 별개였다. ㊥ 사자의 탑승하는 오라이저와의 합체 형태인 더블 오라이저로 계속 싸우고, ㊥ 트윈 라이브의 생성하는 대량의 GN 입자에 의해, 이노베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000012",
+      "sourceBindingSha256": "1f9a3da2aa35f44a3fffff92eee8ac4e65134896fc92ed010a3b4ea3115b82f0",
+      "sourceTextSha256": "ba92e7aed33b0ea2373d9f0c98f928f561f587907907471163ff66ebb5ca33e5",
+      "freshTranslation": "-로 각성한다. ㊥ 오랜 전투 경험과 기체의 성능, 그리고 뇌 양자파를 비롯한 이노베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000013",
+      "sourceBindingSha256": "7a0f1221ef018ec4ac1e600471613506c38cf86b662f5cc7a4d8ea80f0d13dbe",
+      "sourceTextSha256": "6807943000f0fe9efcfff97f7cb4aa5c0459087bfea741d147c1e2a47e5c51f8",
+      "freshTranslation": "-의 능력으로 다㊥대한 전과를 든다. ㊥모든 원흉이며, 일찌기 자신의 생명을 구해 받은 적도 있는 리본즈와는 덥㊥르오라이자, 그리고 건담 엑시아 리페어Ⅱ에서 격투를 펼쳐, 마침내 타도를㊥완료했다. ㊥ 이노베이드와의 결착이 붙은 후에도 변혁하는 세계를 위해 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000014",
+      "sourceBindingSha256": "e6810aceaa0add348ce19581fc48d2a0cb8d5af46d8db4958658b3e2c0c51399",
+      "sourceTextSha256": "963e1bdd8f9283d3a6a75ce80b5adab3a3f97fd1441caaa7ede0b05d564478e7",
+      "freshTranslation": "루비잉과 ㊥하고 계속 싸움.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000015",
+      "sourceBindingSha256": "f12e04cab199d590951d3abdd872941276f3e5d877eb5b64f8d66175200838de",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000016",
+      "sourceBindingSha256": "da942b91a598b510a9ee782ed66dfa325ae5d5a6b9328b22c12b5dd4d136e725",
+      "sourceTextSha256": "755ecc36694b5ed68119f2ca58d53bbb0a8693cfccd4b44bfc156c81a91a5c68",
+      "freshTranslation": "루비잉의 건담 마이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000017",
+      "sourceBindingSha256": "271fd40f98d4e75d26b11615493c8f00dc748b01f95433e3df3ceb0dcbcc5aed",
+      "sourceTextSha256": "76b5cadb1fd10610b3ee84170c974b5dc67ffd84487ed704cfb319b1aded5c7b",
+      "freshTranslation": "ー.㊥본명은 솔란 이브라힘. 23세.㊥어린 시절부터 반정부 게릴라로 활동해 싸움 속에서 자랐다. 따라서 분쟁을 미워합니다.㊥그들은 자신이 싸움에서만 살 수 있다고 자각합니다. \"무력으로 인한 분쟁의 뿌리㊥절절을 내걸는 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000018",
+      "sourceBindingSha256": "8dd2ee58872094b8d12a16af02471230b13371ff59f6069279ec4d1ba907e324",
+      "sourceTextSha256": "4cffa4125e98a216b7ff5c254306532fb0474d9f373df8eb269e6f37e7157642",
+      "freshTranslation": "루비잉에 들어간다. ㊥ 출생도 있어, 당초는 무구하고 별로 감정을 표에 나오지 않고, 독단 행동을 행하는 장면도 몇번 ㊥인가 보였다. 하지만 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000019",
+      "sourceBindingSha256": "f032cb3e13fef6ca1633c29ddfe23e2bcfdec7baf634d468f8e8debbd408ece5",
+      "sourceTextSha256": "25321dc546a85b0f76219966213abd0136a1f5b053eab7b533835418d16266ef",
+      "freshTranslation": "루비잉이 내거는 전쟁 근절의 이념은 누구보다 강하게 마음㊥에 안고 있어, 싸우는 동안 동료들에게의 걱정이나, 주위에의 배려도 할 수 있도록㊥이 되어 갔다. ㊥ 유엔군과의 싸움에 패배 한 것으로 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000020",
+      "sourceBindingSha256": "f2acb4c5667a5ee54564897a76cddf6e1f74c678c61d1ce49224f956ace383f8",
+      "sourceTextSha256": "d8c52097a372e046805d1743d30749563ed76ebfad7d0924a644a20e535bba78",
+      "freshTranslation": "루비잉이 괴멸한 뒤에도 한 명, 반괴해 ㊥한 건담 엑시아에서 싸움을 계속하고 있었지만, 프톨레마이오스 2에 합류해, 트윈드라㊥ 이브를 탑재한 더블 오건담에 탑승하게 된다. ㊥ 싸움 속에서 만난 마리나의 한결같이 평화를 기원하는 자세에는 부정적이었지만, ㊥ 이윽고 마음속에 변화가 나타나고, 유엔군과의 최종 결전에 임하기 전에는, 마리나를 향해 메일 ㊥를 보냈다. ㊥국가를 잃은 마리나와도 재회하지만 연인끼리를 묻는 밀레이나에게는 즉답으로 부정하고 ㊥하는 것에서도 두 사람의 관계는 연애와는 별개였다. ㊥ 사자의 탑승하는 오라이저와의 합체 형태인 더블 오라이저로 계속 싸우고, ㊥ 트윈 라이브의 생성하는 대량의 GN 입자에 의해, 이노베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000021",
+      "sourceBindingSha256": "b2158630feb19644e3bfde6202ec6996243bad4011a80f8709b6dd861e44c335",
+      "sourceTextSha256": "ba92e7aed33b0ea2373d9f0c98f928f561f587907907471163ff66ebb5ca33e5",
+      "freshTranslation": "-로 각성한다. ㊥ 오랜 전투 경험과 기체의 성능, 그리고 뇌 양자파를 비롯한 이노베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000022",
+      "sourceBindingSha256": "1eedea9ce01ce9ea22118e50db89f31dfc38166f9d0a152154bdef47b3f326e9",
+      "sourceTextSha256": "6807943000f0fe9efcfff97f7cb4aa5c0459087bfea741d147c1e2a47e5c51f8",
+      "freshTranslation": "-의 능력으로 다㊥대한 전과를 든다. ㊥모든 원흉이며, 일찌기 자신의 생명을 구해 받은 적도 있는 리본즈와는 덥㊥르오라이자, 그리고 건담 엑시아 리페어Ⅱ에서 격투를 펼쳐, 마침내 타도를㊥완료했다. ㊥ 이노베이드와의 결착이 붙은 후에도 변혁하는 세계를 위해 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00101/Sheet1/000023",
+      "sourceBindingSha256": "806ac590612abb0a0b2bd36311dbe25f4242f59e6d99cf393c472b698fcb6dd9",
+      "sourceTextSha256": "963e1bdd8f9283d3a6a75ce80b5adab3a3f97fd1441caaa7ede0b05d564478e7",
+      "freshTranslation": "루비잉과 ㊥하고 계속 싸움.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

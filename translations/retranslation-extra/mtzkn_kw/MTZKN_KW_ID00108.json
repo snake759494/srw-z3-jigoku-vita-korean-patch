@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00108",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00108/Sheet1/000002",
+      "sourceBindingSha256": "fdf024cef9e00bf86c7910ecd26aaa38daa1a6eeb03936f2a2c355d098ddf5c1",
+      "sourceTextSha256": "bc02b05063a9dc959ecd3c37db4f2ea499ccdf743139ecc8874d48c037581888",
+      "freshTranslation": "인베이더",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00108/Sheet1/000003",
+      "sourceBindingSha256": "92aabaebc98092f5b89d1a0cad5d48f66e854d9f398f0698863ba9429436ee9c",
+      "sourceTextSha256": "2e50e921e3c7b75fbcf433d1563a8398e58c77dd78a57ca4d82d5572435bab13",
+      "freshTranslation": "(체인지!)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00108/Sheet1/000004",
+      "sourceBindingSha256": "cd684c00cba5334abad7c6de133fb2379301d9986ee8656d43864fe8cff60ef3",
+      "sourceTextSha256": "5b97ca133414bc88f38576b5e2924b3ec9ed87b265985d66cc4b74210819e65f",
+      "freshTranslation": "「로보 세계 마지막 날」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00108/Sheet1/000005",
+      "sourceBindingSha256": "932ccc2fced69e3a02b477dd400a9e9d9759ce54cafc355023b6ba8ef7749666",
+      "sourceTextSha256": "e5dbb93f141d25b259c81f4a3979a1652bfcd86241dbcc0183cef2fd3b1374fc",
+      "freshTranslation": "우주를 방황하고 있던 박테리아 생명체. ㊥ 겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00108/Sheet1/000006",
+      "sourceBindingSha256": "c4818103dd90bc7dd32b59144f2a5ca863e9e7e5868e9c912f1b2692e9c2d0e8",
+      "sourceTextSha256": "6460863b6bbcfa2e15e671bb318e563f887e47d995e30139794bfd55fc50af11",
+      "freshTranslation": "-선을 주된 에너지원으로 하고 있다. ㊥ 월면에서 채취 한 Get",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00108/Sheet1/000007",
+      "sourceBindingSha256": "89b8605926dbf991fe2887a87d4a3d6bb7e1b7837df2b3d4f1f4b903ddac2958",
+      "sourceTextSha256": "8230c3aa0cbfc79a0a146e3b8e689adec552ae583bbb320b4645bf2208362743",
+      "freshTranslation": "- 선에 기생 한 개인은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00108/Sheet1/000008",
+      "sourceBindingSha256": "8f9b4ccc3d4ac80904d51d93fefacc91c6bcc15dda0ec2b9c2d37a85569cf244",
+      "sourceTextSha256": "2144ccfdd183a874620a71c7fe6ef231502826d2bab97e1d169474820c95f7ae",
+      "freshTranslation": "- 노심에서 ㊥ 고밀도로 응축되었을 때 진화하여 대본이 되는 3개의 부모 인베이더가 태어났다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00108/Sheet1/000009",
+      "sourceBindingSha256": "372851677b561bc55669e572ff686c70bc81a94a6c8c6e2f21b13060268d9c08",
+      "sourceTextSha256": "e5dbb93f141d25b259c81f4a3979a1652bfcd86241dbcc0183cef2fd3b1374fc",
+      "freshTranslation": "우주를 방황하고 있던 박테리아 생명체. ㊥ 겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00108/Sheet1/000010",
+      "sourceBindingSha256": "0c44da98d52919ab2800bff35a40577c06b8d63b37dd7e3c4d8b5800f2eb16a3",
+      "sourceTextSha256": "6460863b6bbcfa2e15e671bb318e563f887e47d995e30139794bfd55fc50af11",
+      "freshTranslation": "-선을 주된 에너지원으로 하고 있다. ㊥ 월면에서 채취 한 Get",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00108/Sheet1/000011",
+      "sourceBindingSha256": "013fc1781c042efcab90a5014ea4dcf1b7e0ee74b2533d0273ac35ab55507757",
+      "sourceTextSha256": "8230c3aa0cbfc79a0a146e3b8e689adec552ae583bbb320b4645bf2208362743",
+      "freshTranslation": "- 선에 기생 한 개인은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00108/Sheet1/000012",
+      "sourceBindingSha256": "e660e9942bc96a4dc02c310e7f5a277c0e03eea42f5408702b8d86b0896b4923",
+      "sourceTextSha256": "2144ccfdd183a874620a71c7fe6ef231502826d2bab97e1d169474820c95f7ae",
+      "freshTranslation": "- 노심에서 ㊥ 고밀도로 응축되었을 때 진화하여 대본이 되는 3개의 부모 인베이더가 태어났다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

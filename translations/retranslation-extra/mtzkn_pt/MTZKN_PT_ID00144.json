@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00144",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00144/Sheet1/000002",
+      "sourceBindingSha256": "9fb95a4ac3b41b92ef66698abdc3019b2e450bea5bb4e9893906fbfa5d1bc50a",
+      "sourceTextSha256": "5b4fa290a151bb449e5364207543208aa5307f3f31169e2c3ba497985a4af529",
+      "freshTranslation": "마리다 크루즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00144/Sheet1/000003",
+      "sourceBindingSha256": "02142d7ec1038e1f2461809b0efc705119da1adc8a144253c06a24d8bdf95d55",
+      "sourceTextSha256": "37637cbae70c5060ed9e5b3c50a2069fd47945addf7be5d66fec59bf74bf937d",
+      "freshTranslation": "마리다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00144/Sheet1/000004",
+      "sourceBindingSha256": "8a7c9cee5e86e14a10f535e31117e26bcb546df99aa78235ac8a3a4551aa6a59",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00144/Sheet1/000005",
+      "sourceBindingSha256": "4799576da19f28ee4f3f26ee7139b4e0a8fa39b4b517f6e225cc89a8e0095d78",
+      "sourceTextSha256": "ab36010cd6bb23570cfc5b621288ce20ca1e917d953629e7a0e842333ed56790",
+      "freshTranslation": "카이타 유코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00144/Sheet1/000006",
+      "sourceBindingSha256": "8594cdd9eddf4474b010a125d7ab1de05d5275958e5f4b22c296c64edcc4ac47",
+      "sourceTextSha256": "f67a2220fe2d8d2db438d1a1937ce15bf4f641c447b61de76d23245d84349db6",
+      "freshTranslation": "「소매 첨부」의 파일럿. 18세. 계급은 중위. ㊥ 쿠샤토리아의 조종사로 일하는 강화 인간. ㊥ 조종사로서의 역량은 매우 높고, 무거운 모빌 슈트인 쿠샤토리아를 사지 ㊥와 같이 취급한다. 신체 능력도 뛰어나고, 인더스트리얼 7에서는 상인을 훨씬 넘는㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00144/Sheet1/000007",
+      "sourceBindingSha256": "eb42caea9a6b197513feab6fd3d34462823a46275a3eb565365e91e18c79e476",
+      "sourceTextSha256": "82c855bcdbb615cbd8a8c017c20eda65ca0a2fab916b892cf999b1374a027ca4",
+      "freshTranslation": "동능력으로 오드리와 배너지를 쫓았다. ㊥ 진네만 '매스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00144/Sheet1/000008",
+      "sourceBindingSha256": "ed3630fe0550879931258d205a39e16f13eef25d2f95641bd54f4d8640886141",
+      "sourceTextSha256": "3c035d55707b461fc6d30e4eab3fe61bc5d44086da8fa8f68e9572d8176d85c5",
+      "freshTranslation": "ー」라고 부르며, 충실하게 따랐다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00144/Sheet1/000009",
+      "sourceBindingSha256": "cdcda60bcf1ddc42e511400d15f4b5371cf86d8d1f6bc5ad307366ca88a41318",
+      "sourceTextSha256": "f67a2220fe2d8d2db438d1a1937ce15bf4f641c447b61de76d23245d84349db6",
+      "freshTranslation": "「소매 첨부」의 파일럿. 18세. 계급은 중위. ㊥ 쿠샤토리아의 조종사로 일하는 강화 인간. ㊥ 조종사로서의 역량은 매우 높고, 무거운 모빌 슈트인 쿠샤토리아를 사지 ㊥와 같이 취급한다. 신체 능력도 뛰어나고, 인더스트리얼 7에서는 상인을 훨씬 넘는㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00144/Sheet1/000010",
+      "sourceBindingSha256": "c3b36c302fff308b97c6ec3b0f0477bd99d593349b3134e6f20e7674329e749d",
+      "sourceTextSha256": "3be44b233b1ba9dd9286a22f113c88c9b28313987590f45979f33a6e7cc199f5",
+      "freshTranslation": "동능력으로 오드리와 배너지를 쫓았다. ㊥ 제1차 네오지온 항쟁 때 만들어진 풀 시리즈의 12번째, 플루투엘 ㊥부이며, 전후에 학대를 받고 있던 곳을 진네만에게 구해진 과거를 가진다. 그 일인가 ㊥ 등, 그는 \"매스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00144/Sheet1/000011",
+      "sourceBindingSha256": "b9fd812e5fe020e688ff28714613f7cbee2cb776e8f6bb22e4ce4c0e4aff36ba",
+      "sourceTextSha256": "b3b4e0aed69f2adb394a2ca2ae7b6fdacaec4fac362282e9a111b995d115bc3f",
+      "freshTranslation": "ー」라고 부르며, 충실하게 따랐다.㊥평소에는 감정을 드러내지 않지만 팔라우에서는 배너지에 우주 이민의 역사를 가르쳐 그가㊥디스트로이 모드에 도입되었을 때에는, 머신에 삼키는 위험성을 설명하는 등,㊥부드러움을 엿볼 수 있는 모습이 여러 번 보였다.㊥쿠샤 토리야를 격추하고 네엘 아가마에 수용된 후에는 오거스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00144/Sheet1/000012",
+      "sourceBindingSha256": "3d07aa9e8ec69dbe8e99570a3a708a555166509badf19cac8b6d9581aa555296",
+      "sourceTextSha256": "33bc85e5b542485453712cd1229033083ccf2d504b1520f7a020aaf5a1b16bef",
+      "freshTranslation": "연구소 ㊥로 보내졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

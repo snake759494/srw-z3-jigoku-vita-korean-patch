@@ -1,0 +1,359 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.invalid/siok/dialogue-manifest.schema.json",
+  "title": "시옥편 대사 빌드 매니페스트",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "documentType",
+    "schemaVersion",
+    "sourceCpk",
+    "pack",
+    "scripts",
+    "outputs"
+  ],
+  "properties": {
+    "documentType": {
+      "const": "siok.dialogue-build-manifest"
+    },
+    "schemaVersion": {
+      "const": 1
+    },
+    "sourceCpk": {
+      "$ref": "#/$defs/sourceCpk"
+    },
+    "pack": {
+      "$ref": "#/$defs/pack"
+    },
+    "scripts": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/script"
+      }
+    },
+    "outputs": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/output"
+      }
+    }
+  },
+  "$defs": {
+    "sha256": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "memberId": {
+      "type": "string",
+      "pattern": "^ID[0-9]{5}$"
+    },
+    "token": {
+      "type": "string",
+      "enum": ["$n", "$l", "$c", "$F", "⑲", "⑳", "㊥", "㊦", "㊧", "㊨"]
+    },
+    "tokens": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/token"
+      }
+    },
+    "member": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "bytes", "sha256"],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/memberId"
+        },
+        "bytes": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "sha256": {
+          "$ref": "#/$defs/sha256"
+        }
+      }
+    },
+    "sourceCpk": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["fileName", "bytes", "sha256", "members"],
+      "properties": {
+        "fileName": {
+          "type": "string",
+          "pattern": "^[^/\\\\]+\\.[cC][pP][kK]$"
+        },
+        "bytes": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "sha256": {
+          "$ref": "#/$defs/sha256"
+        },
+        "members": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/member"
+          }
+        }
+      }
+    },
+    "pack": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["profile", "toolSha256", "toolVersion"],
+      "properties": {
+        "profile": {
+          "const": "cpkmakec-id-align16-uc-v1"
+        },
+        "toolSha256": {
+          "$ref": "#/$defs/sha256"
+        },
+        "toolVersion": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "workbook": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fileName",
+        "sha256",
+        "sheetName",
+        "headerRow",
+        "sourceHeader",
+        "replacementHeader",
+        "sourceColumn",
+        "replacementColumn",
+        "edgeFullwidthSpaceWarnings"
+      ],
+      "properties": {
+        "fileName": {
+          "type": "string",
+          "pattern": "^[^/\\\\]+\\.[xX][lL][sS][xX]$"
+        },
+        "sha256": {
+          "$ref": "#/$defs/sha256"
+        },
+        "sheetName": {
+          "type": "string",
+          "minLength": 1
+        },
+        "headerRow": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "sourceHeader": {
+          "type": "string",
+          "minLength": 1
+        },
+        "replacementHeader": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sourceColumn": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "replacementColumn": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "edgeFullwidthSpaceWarnings": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "approval": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "status",
+        "ordinal",
+        "workbookRow",
+        "sourceRawLineSha256",
+        "sourceTokens",
+        "replacementTokens"
+      ],
+      "properties": {
+        "status": {
+          "const": "approved-change"
+        },
+        "ordinal": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "workbookRow": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "sourceRawLineSha256": {
+          "$ref": "#/$defs/sha256"
+        },
+        "sourceTokens": {
+          "$ref": "#/$defs/tokens"
+        },
+        "replacementTokens": {
+          "$ref": "#/$defs/tokens"
+        }
+      }
+    },
+    "control": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["sourceTokens", "replacementTokens", "approval"],
+      "properties": {
+        "sourceTokens": {
+          "$ref": "#/$defs/tokens"
+        },
+        "replacementTokens": {
+          "$ref": "#/$defs/tokens"
+        },
+        "approval": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "$ref": "#/$defs/approval"
+            }
+          ]
+        }
+      }
+    },
+    "row": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "ordinal",
+        "sourceLineNumber",
+        "tag",
+        "sourceRawLineSha256",
+        "lineEnding",
+        "sourceText",
+        "workbookRow",
+        "workbookSourceText",
+        "sourceMatch",
+        "replacementText",
+        "control"
+      ],
+      "properties": {
+        "ordinal": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "sourceLineNumber": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "tag": {
+          "enum": ["SP", "SB", "SF", "SG", "S1", "S2", "S3", "SM", "SE", "ST"]
+        },
+        "sourceRawLineSha256": {
+          "$ref": "#/$defs/sha256"
+        },
+        "lineEnding": {
+          "enum": ["crlf", "lf", "none"]
+        },
+        "sourceText": {
+          "type": "string"
+        },
+        "workbookRow": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "workbookSourceText": {
+          "type": "string"
+        },
+        "sourceMatch": {
+          "enum": ["exact", "edge-fullwidth-space"]
+        },
+        "replacementText": {
+          "type": "string"
+        },
+        "control": {
+          "$ref": "#/$defs/control"
+        }
+      }
+    },
+    "script": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "scriptId",
+        "sourceMemberId",
+        "sourcePayloadBytes",
+        "sourcePayloadSha256",
+        "parserProfile",
+        "normalizationProfile",
+        "encoding",
+        "workbook",
+        "rows",
+        "expectedPayloadBytes",
+        "expectedPayloadSha256"
+      ],
+      "properties": {
+        "scriptId": {
+          "type": "string",
+          "pattern": "^script-[0-9]{3,}$"
+        },
+        "sourceMemberId": {
+          "$ref": "#/$defs/memberId"
+        },
+        "sourcePayloadBytes": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "sourcePayloadSha256": {
+          "$ref": "#/$defs/sha256"
+        },
+        "parserProfile": {
+          "const": "stage-script-cp932-v1"
+        },
+        "normalizationProfile": {
+          "const": "legacy-dialogue-insert-v1"
+        },
+        "encoding": {
+          "const": "cp932"
+        },
+        "workbook": {
+          "$ref": "#/$defs/workbook"
+        },
+        "rows": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/row"
+          }
+        },
+        "expectedPayloadBytes": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "expectedPayloadSha256": {
+          "$ref": "#/$defs/sha256"
+        }
+      }
+    },
+    "output": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["targetMemberId", "scriptId"],
+      "properties": {
+        "targetMemberId": {
+          "$ref": "#/$defs/memberId"
+        },
+        "scriptId": {
+          "type": "string",
+          "pattern": "^script-[0-9]{3,}$"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00135",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00135/Sheet1/000002",
+      "sourceBindingSha256": "686f7786cca9abb647df5812842b29a083382b2413ecb0ca394bf4da6ae824fc",
+      "sourceTextSha256": "a36d4ba87215c61759620bf1392c8a4d461f3a79a868ab67542596373746fca2",
+      "freshTranslation": "게페르니치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00135/Sheet1/000003",
+      "sourceBindingSha256": "4c81b420b448aacd6b63c519dd134da84765c85746c6aee6d689642594fa1383",
+      "sourceTextSha256": "389e7a928c20e449f96e23255ca810750b8a8ce54420bda74028bfc758d1070a",
+      "freshTranslation": "「마크로스 7」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00135/Sheet1/000004",
+      "sourceBindingSha256": "7e0d057fda7208be2e6687533f7cb247ab687dfd63f1a7a537da9695cd95714f",
+      "sourceTextSha256": "00682b4e979d0395bd9e2926f64845c27419fe80d2b20ad6ffddc13efa348c7d",
+      "freshTranslation": "프로토데비른의 총괄자. ㊥ 지구 통합군의 이바노 경",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00135/Sheet1/000005",
+      "sourceBindingSha256": "f53fa90ef5a1634f714346bcc05bb2741cda3beca678dfd7130fe641449af59a",
+      "sourceTextSha256": "66f19992e72f72080c921bb6f7766a97a6d1be8d602337b830d9486af4416696",
+      "freshTranslation": "- 참모의 육체에 빙의하고 있지만, 본래의 모습 ㊥은 프로토데버른 중에서도 최대이다 ㊥프로토데버른은 인간의 생체에너지, 스피리치아를 필요로 한다. 게펠 ㊥ 틈새는 스피리치아 고갈로 인한 활동 정지라는 과거의 실패를 반복하지 않았다 ㊥ \"스피리치아 팜 프로젝트\"를 계획. 마크로스 7 선단과 다른 이민 ㊥ 선단을 공격했다. ㊥ 본체는 스피리치아의 블랙홀이라고도 할 수 있는 흡수 능력을 가지고 있어, 마㊥ 크로스 7 선단 전체로부터 스피리치아를 계속 흡수했다. ㊥마지막은 바사라에 촉발되어 스스로 노래를 부르고, 타인으로부터의 스피리치아 흡수를 필요㊥로 하지 않는 스피리치아 자기 재생 종족으로 진화해, 별은하에 날아갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00135/Sheet1/000006",
+      "sourceBindingSha256": "2b85a89bb36408b8d315b1a4215e709a4a658b116271072fc43aa6e29661a995",
+      "sourceTextSha256": "00682b4e979d0395bd9e2926f64845c27419fe80d2b20ad6ffddc13efa348c7d",
+      "freshTranslation": "프로토데비른의 총괄자. ㊥ 지구 통합군의 이바노 경",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00135/Sheet1/000007",
+      "sourceBindingSha256": "b70ded82e3cb1a875cfb7f028276884a4c14f27b580b23fb36880097e3dc985b",
+      "sourceTextSha256": "66f19992e72f72080c921bb6f7766a97a6d1be8d602337b830d9486af4416696",
+      "freshTranslation": "- 참모의 육체에 빙의하고 있지만, 본래의 모습 ㊥은 프로토데버른 중에서도 최대이다 ㊥프로토데버른은 인간의 생체에너지, 스피리치아를 필요로 한다. 게펠 ㊥ 틈새는 스피리치아 고갈로 인한 활동 정지라는 과거의 실패를 반복하지 않았다 ㊥ \"스피리치아 팜 프로젝트\"를 계획. 마크로스 7 선단과 다른 이민 ㊥ 선단을 공격했다. ㊥ 본체는 스피리치아의 블랙홀이라고도 할 수 있는 흡수 능력을 가지고 있어, 마㊥ 크로스 7 선단 전체로부터 스피리치아를 계속 흡수했다. ㊥마지막은 바사라에 촉발되어 스스로 노래를 부르고, 타인으로부터의 스피리치아 흡수를 필요㊥로 하지 않는 스피리치아 자기 재생 종족으로 진화해, 별은하에 날아갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

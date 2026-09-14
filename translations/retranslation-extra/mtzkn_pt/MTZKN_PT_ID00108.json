@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00108",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00108/Sheet1/000002",
+      "sourceBindingSha256": "4d073f863210e6e9f53b79b4024548cb83158aa302265842a38ca45ebe3f0e6e",
+      "sourceTextSha256": "63acd29c707a9e528a659679aece9c8fcb303829146abef02c0cc80ca75a229c",
+      "freshTranslation": "소마 필리스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00108/Sheet1/000003",
+      "sourceBindingSha256": "277f5dffeb22db7d8b5267fe6a76421110f8bc3414c25fe3cbeedea8664a21ab",
+      "sourceTextSha256": "a58a7a3a2ad47bb416febaed971d82894a7ae72929cb709f3c063d17009435a2",
+      "freshTranslation": "필리스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00108/Sheet1/000004",
+      "sourceBindingSha256": "eac05ac70b8c13778df972d4034d6c0871ae25be3219f7004da508eadf0ce92f",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00108/Sheet1/000005",
+      "sourceBindingSha256": "a5a0748e9018b8a27d09c14278d3a2bbe870674643eefec3208a15daa61af530",
+      "sourceTextSha256": "2ebd409f405b0ee3ae875c3c4cbcfe01bd3e16afcf65e07462bb6ac28fa693cd",
+      "freshTranslation": "오가사와라 아리사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00108/Sheet1/000006",
+      "sourceBindingSha256": "7957daea8e27de506864678d85f07dc6f914d0f566f0b0892d6b489e072d69bb",
+      "sourceTextSha256": "4125519a9ef642f080402ee5b520bdbad4b088095490c3b9a17ddc64716e17a1",
+      "freshTranslation": "마리 퍼퍼시가 낳은 다른 인격. ㊥인혁련의 초인기관이 실전 투입한 초병 1호이며, 뇌에의 수술, 나노머신을 육체㊥에 내장하는 것으로 강화된 신체 능력 등 일반 병사를 훨씬 웃도는 전투 능력을 가진다. ㊥ 실전에 투입된 당초는 감정의 기복이 부족하고, 충실히 명령에 따라 행동할 뿐이다 ㊥ 했지만, 아버지 넘치는 세르게이 스밀노프의 부하로서 싸우는 사이에 점차 인간다운 ㊥ 감정을 갖게 되었다. ㊥ 지구 연방 탄생 후에는 알로우즈에 소속되었지만, 알레르야와 생신으로 대치했을 때, 주인격의 ㊥ 마리가 부활하고, 소마 피리스는 모습을 지운다. 그러나, 세르게이의 죽음에 쇼㊥쿠를 받고, 다시 표에 나오게 되고, 이후는 이전 이상으로 가혹한 성격이 된다. ㊥ 최종결전 속 세르게이를 토벌한 안드레이와 감정 그대로 싸우지만, GN입자 속 ㊥에서 서로를 이해한 것으로 증오를 버렸다. ㊥ 대전 후에는 마리로 살고 필리스의 인격은 표에 나오지 않았지만, 전투 때 ㊥의 마리는 필리스로 싸우고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00108/Sheet1/000007",
+      "sourceBindingSha256": "e8edd4426d66353bd4977fc64955fa461a90371baae182393f0b26cb1ede0112",
+      "sourceTextSha256": "4125519a9ef642f080402ee5b520bdbad4b088095490c3b9a17ddc64716e17a1",
+      "freshTranslation": "마리 퍼퍼시가 낳은 다른 인격. ㊥인혁련의 초인기관이 실전 투입한 초병 1호이며, 뇌에의 수술, 나노머신을 육체㊥에 내장하는 것으로 강화된 신체 능력 등 일반 병사를 훨씬 웃도는 전투 능력을 가진다. ㊥ 실전에 투입된 당초는 감정의 기복이 부족하고, 충실히 명령에 따라 행동할 뿐이다 ㊥ 했지만, 아버지 넘치는 세르게이 스밀노프의 부하로서 싸우는 사이에 점차 인간다운 ㊥ 감정을 갖게 되었다. ㊥ 지구 연방 탄생 후에는 알로우즈에 소속되었지만, 알레르야와 생신으로 대치했을 때, 주인격의 ㊥ 마리가 부활하고, 소마 피리스는 모습을 지운다. 그러나, 세르게이의 죽음에 쇼㊥쿠를 받고, 다시 표에 나오게 되고, 이후는 이전 이상으로 가혹한 성격이 된다. ㊥ 최종결전 속 세르게이를 토벌한 안드레이와 감정 그대로 싸우지만, GN입자 속 ㊥에서 서로를 이해한 것으로 증오를 버렸다. ㊥ 대전 후에는 마리로 살고 필리스의 인격은 표에 나오지 않았지만, 전투 때 ㊥의 마리는 필리스로 싸우고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

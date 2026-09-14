@@ -1,0 +1,83 @@
+{
+  "$schema": "./glossary.schema.json",
+  "format": "siok-retranslation-glossary",
+  "formatVersion": 1,
+  "characters": {
+    "shin_asuka": {
+      "displayName": "신",
+      "speechStyle": "직선적이고 감정적인 청년 반말"
+    },
+    "kira_yamato": {
+      "displayName": "키라",
+      "speechStyle": "온화하고 부드러운 청년 반말"
+    },
+    "kei_katsuragi": {
+      "displayName": "케이",
+      "speechStyle": "여유 있고 가벼운 성인 남성 반말"
+    },
+    "kamille_bidan": {
+      "displayName": "카미유",
+      "speechStyle": "동료에게 반말, 상관에게 존댓말"
+    },
+    "amuro_ray": {
+      "displayName": "아무로",
+      "speechStyle": "침착한 리더형 단정체"
+    },
+    "roger_smith": {
+      "displayName": "로저",
+      "speechStyle": "지적이고 무게감 있는 반말"
+    },
+    "r_dorothy_wayneright": {
+      "displayName": "도로시",
+      "speechStyle": "짧고 담담한 반말"
+    },
+    "mome": {
+      "displayName": "모므",
+      "speechStyle": "케이에게 존칭 사용"
+    },
+    "quattro_bajeena": {
+      "displayName": "크와트로",
+      "speechStyle": "위기 상황에서 명령형과 단정형"
+    },
+    "char_aznable": {
+      "displayName": "샤아",
+      "speechStyle": "고유명사 표기"
+    },
+    "setsuna_f_seiei": {
+      "displayName": "세츠나",
+      "speechStyle": "인명 표기"
+    },
+    "heero_yuy": {
+      "displayName": "히이로",
+      "speechStyle": "인명 표기"
+    },
+    "aim_liard": {
+      "displayName": "아임・라이어드",
+      "speechStyle": "가운데점 표기 유지"
+    }
+  },
+  "terms": {
+    "dimensional_abyss": "차원의 구멍 《어비스》",
+    "hakai_incident": "《파계사변》",
+    "saisei_war": "《재세전쟁》",
+    "stigma": "《낙인》(스티그마)",
+    "dimensional_quake": "시공진동",
+    "great_dimensional_quake": "대시공진동",
+    "parallel_world": "평행세계",
+    "multiverse": "다원세계",
+    "multiverse_war": "다원전쟁",
+    "dimensional_wall": "차원의 벽",
+    "special_force": "특수부대",
+    "ucw": "UCW",
+    "adw": "ADW",
+    "zeuth": "ZEUTH",
+    "zexis": "ZEXIS"
+  },
+  "rules": [
+    "일본어 원문을 먼저 읽고 문맥과 화자 말투를 기준으로 새로 번역한다.",
+    "기존 번역은 고유명사와 문맥 확인에만 사용하며 자동 복사하지 않는다.",
+    "여러 행에 걸친 문장은 전체 문장을 먼저 번역한 뒤 원래 entryId 경계로 나눈다.",
+    "원문에 있는 제어코드의 종류, 개수, 순서를 바꾸지 않는다.",
+    "문자표 치환과 바이트 길이를 확인하기 전에는 빌드 승인 상태로 표시하지 않는다."
+  ]
+}

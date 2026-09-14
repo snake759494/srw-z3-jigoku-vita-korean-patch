@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00378",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00378/Sheet1/000002",
+      "sourceBindingSha256": "5d89788f986c93a29989d67a8a250719dd418d452f854e27d610db112cb342d7",
+      "sourceTextSha256": "3d92aff811bc7bc1f86f77b0f2af55bad8df41cbfcd396556c4943b033c0b49d",
+      "freshTranslation": "클레어 도로 세라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00378/Sheet1/000003",
+      "sourceBindingSha256": "072bb89df2b32ada2389dccb660fc22fe3dff49119d64a78c5299e9189e0bca7",
+      "sourceTextSha256": "468e0701947f5619195cc2fdc4824ae454cabb859bc505d67b488f9662b7c3f8",
+      "freshTranslation": "클레어",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00378/Sheet1/000004",
+      "sourceBindingSha256": "63715c6a647e429418f7bb96dedc1857adaac4deab7948158d3fbc3e70003fb4",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00378/Sheet1/000005",
+      "sourceBindingSha256": "3dfa77523550350b4ab79712e9c9330237b39d72c49f0e670172a4ed754c0573",
+      "sourceTextSha256": "934c2010ca7acf18c6cdbcbdf37ba77f3638557772df1eb9b9e0a6ae02596c43",
+      "freshTranslation": "단시 벚꽃",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00378/Sheet1/000006",
+      "sourceBindingSha256": "2ab10c0216dab7b2c88558d3093a73f97acc6eb3f012d950e00926eb59817864",
+      "sourceTextSha256": "f171cb4dc6ca0575dd0639f09c50f8496343660f8868512517061bb524dd810e",
+      "freshTranslation": "네오디바 사령 겸 성천사학원의 이사장. ㊥ 부동과 항상 행동을 함께하는 수수께끼의 미소녀. ㊥ 아쿠에리온을 쫓아 전세계를 여행하고 있었지만, 아쿠에리온 부활의 정보를 듣고 ㊥ 하고, 귀환. 사령으로 복귀했다. ㊥소녀 밖에 보이지 않지만, IQ는 300을 넘는다고 하며, 연령도 미상. 엘리먼트 ㊥ 후보생들에게도 어른스러운 말로 말한다. ㊥이지만, 도넛이 좋아하는 물건으로 항상 사령실의 책상에 있다는 소녀다운 일면도 ㊥ 가지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00378/Sheet1/000007",
+      "sourceBindingSha256": "373b61150f4fbc301b828be080a8aba7412177e1eaf6858f43ab059614b1798c",
+      "sourceTextSha256": "3cc8b014543b46b0851a7cf573192893dd500ed688871d0241018205d16dd507",
+      "freshTranslation": "네오디바 사령 겸 성천사학원의 이사장. ㊥ 부동과 항상 행동을 함께하는 수수께끼의 미소녀. ㊥ 아쿠에리온을 쫓아 전세계를 여행하고 있었지만, 아쿠에리온 부활의 정보를 듣고 ㊥ 하고, 귀환. 사령으로 복귀했다. ㊥소녀 밖에 보이지 않지만, IQ는 300을 넘는다고 하며, 연령도 미상. 엘리먼트 ㊥ 후보생들에게도 어른스러운 말로 말한다. ㊥이지만, 도넛이 좋아하는 물건으로 항상 사령실의 책상에 있다는 소녀다운 일면도 ㊥ 가지고 있다. ㊥ 엘리먼트 능력 '텔레포트'를 갖고 마음을 부수고 있던 슈레이드의 사후 최종결정 ㊥전에서는 스스로 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00378/Sheet1/000008",
+      "sourceBindingSha256": "f939438c78095e3a889f6573624556530d939b6f94c8a95ff6d266594d15e31c",
+      "sourceTextSha256": "de767fa397228c9bd992c25584ddbb7cfe6cd27d81f94f5017f969a38c5780f2",
+      "freshTranslation": "머신에 탑승. 카이엔 등과 함께 아쿠에리온 게파다에 탑승㊥해 미카게와 싸웠다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

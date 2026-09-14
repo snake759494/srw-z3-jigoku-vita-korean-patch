@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00040",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00040/Sheet1/000002",
+      "sourceBindingSha256": "a6c17662eed314b621aaa89ebf23354cb37da2002e148d5fa06e20f2403cc98f",
+      "sourceTextSha256": "677e1a093301d0cf4a5a40e123e5b79a6199910581969d84783e2905c183d3c7",
+      "freshTranslation": "라다 니바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00040/Sheet1/000003",
+      "sourceBindingSha256": "672bfa32b3c669eb7c3d7be55881f50bed9a84643b4be5ab2a4059d7423fdb30",
+      "sourceTextSha256": "5cf1f063ebf77865c13517e11814ac1b4832291101ef599af717648122f13484",
+      "freshTranslation": "니바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00040/Sheet1/000004",
+      "sourceBindingSha256": "a7a32d863acf1731799d397726074d39110c52cc3f1e6c6705d17ad0b517e951",
+      "sourceTextSha256": "d6da0d732e53cf9ec71ba1b1163d4c980ff617b1f4caa65741721bae9928ed9a",
+      "freshTranslation": "장갑 기병 보텀스 빅 배틀",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00040/Sheet1/000005",
+      "sourceBindingSha256": "7f5d0a2e40ef02b33570ad0d8272c5825c3bdc723281319d92e53cc0376ac869",
+      "sourceTextSha256": "d455e7db3493e4092031d9f6c3ff455ddda51899afc93e734f0d55fa0f9f800c",
+      "freshTranslation": "히로세 마사시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00040/Sheet1/000006",
+      "sourceBindingSha256": "3c0d5827ca6a4717f15f94c230ead52093bb51855224bd64746c8fdc2ba54b2c",
+      "sourceTextSha256": "d08c65cb08530298eb829ec9864f4641fb42c910b01a853559114ba5f28cb3b5",
+      "freshTranslation": "발라란트군의 PS. ㊥ 레드 숄더에 빈사의 중상을 입은 과거를 갖고, 키리코에게는 이상이라고도 부를 수 있는 ㊥ 복수심을 불태우고 있다. ㊥ 성격은 거칠고 잔혹하며, 이기기 위해서는 수단을 선택하지 않는다. 로치나가 가져온 정보에 ㊥보다 발라란트의 PS 제1호가 되는 기회를 얻자, 자신의 인체 개조도 어쩔 수 없이 행한 ㊥했다. ㊥ 그 후, 피아나를 인질로 취하는, 자신의 조정 감독을 하고 있던 보슨을 살해하고 땅㊥상전함의 지휘권을 빼앗는 등, 스스로의 손으로 키리코를 죽은 사람으로 하기 위해서 모든 손을 사용㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00040/Sheet1/000007",
+      "sourceBindingSha256": "8253b087ddde51d391bb83bf2e618988a29a984c292a0f148832f9ac6779f13d",
+      "sourceTextSha256": "1bcbd7d48a285065605f7e8565820f07838411d43829efd46c21b5cc7609d395",
+      "freshTranslation": "발라란트군의 PS. ㊥ 레드 숄더에 빈사의 중상을 입은 과거를 갖고, 키리코에게는 이상이라고도 부를 수 있는 ㊥ 복수심을 불태우고 있다. ㊥ 성격은 거칠고 잔혹하며, 이기기 위해서는 수단을 선택하지 않는다. 로치나가 가져온 정보에 ㊥보다 발라란트의 PS 제1호가 되는 기회를 얻자, 자신의 인체 개조도 어쩔 수 없이 행한 ㊥했다. ㊥ 그 후, 피아나를 인질로 취하는, 자신의 조정 감독을 하고 있던 보슨을 살해하고 땅㊥상전함의 지휘권을 빼앗는 등, 스스로의 손으로 키리코를 죽은 사람으로 하기 위해서 모든 손을 사용㊥했다. ㊥ 지상 전함과 일체화하여 AT를 타는 키리코와 싸우는 것도 내부에 침입되어 피아나의 탈퇴 ㊥ 환을 허용한다. 지상 전함이 움직임을 멈춘 후는 전용 AT의 에크루비스에서 출격하지만, 키리코와 ㊥ 샤코의 연계로 지상 전함의 갑판에 못박혀 폭주해 아코바의 거리에 돌진하는 함㊥의 폭발 속에 사라졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

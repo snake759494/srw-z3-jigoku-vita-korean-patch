@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00069",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00069/Sheet1/000002",
+      "sourceBindingSha256": "1faa834407f5d8ab6c16ffaa69b7313aa151c6f58e06fe08ba62c46cb0a80db2",
+      "sourceTextSha256": "09647aeeba3ac75af167a28ee6c7c3c7f7ae5ce43139a6aa9973bca62ea5e47f",
+      "freshTranslation": "넥스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00069/Sheet1/000003",
+      "sourceBindingSha256": "8cc75a075f1963749295215066750c862e163953e8686eaa9398b9cd34695d2b",
+      "sourceTextSha256": "45438644b1970387ed8db773532ebcba7e1d08e42f5376403e78f479c30e8e7a",
+      "freshTranslation": "트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00069/Sheet1/000004",
+      "sourceBindingSha256": "f516ac9dff7789afa94fd44142f33e78169dec69eeb02aa87fe9e6faaaa83af5",
+      "sourceTextSha256": "daa8e2c28b371afcecc977c2a6b49ed831c79da4d8e164e6fdc4f57b539927ac",
+      "freshTranslation": "「장갑 기병 보텀스 사타루 이단」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00069/Sheet1/000005",
+      "sourceBindingSha256": "81437020c02dbe05d8de74b7a73a5ca397272e6585d57fc71b47b9ad5e879748",
+      "sourceTextSha256": "bda2bddcc30fcde651f2a971e0e82f00d02132e3e59e134910f6bf7ede800863",
+      "freshTranslation": "마티알이 개발한 개조 병사. ㊥ 전신에 사이보그 수술이 실시되고 있으며, 추가 보조뇌라고 불리는 제어 시스템 ㊥ 무가 장착되어있다. 이 보조뇌가 전투 능력을 담당하는 것으로, PS(퍼펙트㊥솔저)의 결점이기도 한 정서적인 문제를 해소하고 있다. ㊥ 몬테 = 웰스 추기경은 사고를 당한 딸 테이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00069/Sheet1/000006",
+      "sourceBindingSha256": "3f0c39a74125864cbe6a1c424f04de3e3b78b879176f6c360c252c8dc69c048b",
+      "sourceTextSha256": "afc8d2d16c6b80c974ffdf6f7239cf5dcf56bda0836a463f4677b5fd3341739a",
+      "freshTranslation": "니어를 넥스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00069/Sheet1/000007",
+      "sourceBindingSha256": "1b8b3e04da3ba0582467870ff2a0b52849824475b5d523bce2ec638c38c7d173",
+      "sourceTextSha256": "0f3af27df7411f7b41976a9352fad1ec598f430456e2da7a04cb710cecf61532",
+      "freshTranslation": "에 개㊥조성하고, 그 PS 이상의 전투력으로 '접할 수 없는 자' 키리코를 장례하려고 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00069/Sheet1/000008",
+      "sourceBindingSha256": "80aa324bf29ad95ff030e91d67bcbc7e993f220229a2f61a3cbe3a16a64bacfd",
+      "sourceTextSha256": "bda2bddcc30fcde651f2a971e0e82f00d02132e3e59e134910f6bf7ede800863",
+      "freshTranslation": "마티알이 개발한 개조 병사. ㊥ 전신에 사이보그 수술이 실시되고 있으며, 추가 보조뇌라고 불리는 제어 시스템 ㊥ 무가 장착되어있다. 이 보조뇌가 전투 능력을 담당하는 것으로, PS(퍼펙트㊥솔저)의 결점이기도 한 정서적인 문제를 해소하고 있다. ㊥ 몬테 = 웰스 추기경은 사고를 당한 딸 테이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00069/Sheet1/000009",
+      "sourceBindingSha256": "aaf5a60ffe9b4bb82151b75686b84b319a5f42d802af0d71cf3842b0c1493a5a",
+      "sourceTextSha256": "afc8d2d16c6b80c974ffdf6f7239cf5dcf56bda0836a463f4677b5fd3341739a",
+      "freshTranslation": "니어를 넥스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00069/Sheet1/000010",
+      "sourceBindingSha256": "b5a9d7ac38eb316003899126d70a7cf0c93de7ec90027d48f8190985f33a7b57",
+      "sourceTextSha256": "0f3af27df7411f7b41976a9352fad1ec598f430456e2da7a04cb710cecf61532",
+      "freshTranslation": "에 개㊥조성하고, 그 PS 이상의 전투력으로 '접할 수 없는 자' 키리코를 장례하려고 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

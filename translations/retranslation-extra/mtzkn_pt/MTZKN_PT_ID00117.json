@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00117",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00117/Sheet1/000002",
+      "sourceBindingSha256": "3c1d311b64cc6ba78775b5d6e2be69cb4333aef54b351dc3b710020a7ff3ed65",
+      "sourceTextSha256": "2695a4c3f5ad44465bad989f3f4c3d83ec031b21a565d06225602eb51f89a130",
+      "freshTranslation": "안드레이 스미르노프",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00117/Sheet1/000003",
+      "sourceBindingSha256": "7a16dcd38a4efe3b2d836f4a132cd63bb65e6203bf335919ac15dd66a657b102",
+      "sourceTextSha256": "5d8544579d702f9996ec9675d357bf2e30a44c21025e084188fe0952d0242675",
+      "freshTranslation": "안드레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00117/Sheet1/000004",
+      "sourceBindingSha256": "8c4969c38264fbb5954c804505264774c4efa2024288597d52bb641c411f4b08",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00117/Sheet1/000005",
+      "sourceBindingSha256": "10e393897058d6cd98bf1c585834f19ffdacc683d0a0b51ca00cd90fa1d844c6",
+      "sourceTextSha256": "9e4518f5c4a20b47f2b82ad5ecd907bdfd8e2680542058073a183a91b33171d1",
+      "freshTranslation": "백조 철",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00117/Sheet1/000006",
+      "sourceBindingSha256": "7fd8cf40524dd85f174d52b07bf3788a0cb93df262fbfdd7637b93f0cd83b3af",
+      "sourceTextSha256": "7d8e99e193cdbe79200aa90509511a78a8d6564f6b129d958f4f6be0a911ca67",
+      "freshTranslation": "전 어로우즈에 소속된 군인. 26세. ㊥ 현재는 지구 연방군에 소속되어 있다. ㊥ 러시아의 곰, 세르게이의 아들. 어린 시절의 어머니 홀리의 죽음은 아버지가 버렸기 때문이라고 ㊥ 떠올라 화해 할 수 없는 채 성장한다. 아버지에 대한 반발심으로부터 스스로도 군인이 되어 알로우㊥즈에 배속된다. ㊥ 성격은 세르게이와의 한 건이 나타내는 대로 완고하고 융통성이 없어서 세르게이를 ㊥ 반지구연방 테러리스트로 오해하고 그를 격추했다. ㊥ 견고하고 이상을 위해 한결같이 싸우는 한편, '처녀'라고 평한 루이스에게는 뭔가를 돌보는 ㊥구워 갑자기 참담한 일면도 있다. ㊥ 전 대전시 더블 오라이저의 GN 입자에 의해 소마 피리스와 뇌 양자파 ㊥에 의한 교감을 실시한다. 거기서 아버지의 자신에게의 생각을 알고, 과거의 속담에 결착을 붙여㊥ 했다. ㊥ 현재는 아버지와 같은 군인이 되어 평화를 지키고 싶다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00117/Sheet1/000007",
+      "sourceBindingSha256": "2f043eab4e92b21e49217e9a79df07c2829cb2c49200f93a454cd61b98511e85",
+      "sourceTextSha256": "7d8e99e193cdbe79200aa90509511a78a8d6564f6b129d958f4f6be0a911ca67",
+      "freshTranslation": "전 어로우즈에 소속된 군인. 26세. ㊥ 현재는 지구 연방군에 소속되어 있다. ㊥ 러시아의 곰, 세르게이의 아들. 어린 시절의 어머니 홀리의 죽음은 아버지가 버렸기 때문이라고 ㊥ 떠올라 화해 할 수 없는 채 성장한다. 아버지에 대한 반발심으로부터 스스로도 군인이 되어 알로우㊥즈에 배속된다. ㊥ 성격은 세르게이와의 한 건이 나타내는 대로 완고하고 융통성이 없어서 세르게이를 ㊥ 반지구연방 테러리스트로 오해하고 그를 격추했다. ㊥ 견고하고 이상을 위해 한결같이 싸우는 한편, '처녀'라고 평한 루이스에게는 뭔가를 돌보는 ㊥구워 갑자기 참담한 일면도 있다. ㊥ 전 대전시 더블 오라이저의 GN 입자에 의해 소마 피리스와 뇌 양자파 ㊥에 의한 교감을 실시한다. 거기서 아버지의 자신에게의 생각을 알고, 과거의 속담에 결착을 붙여㊥ 했다. ㊥ 현재는 아버지와 같은 군인이 되어 평화를 지키고 싶다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

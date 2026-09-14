@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00362",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00362/Sheet1/000002",
+      "sourceBindingSha256": "90cac1d8d362738b25406e7af532d49b09182f26b2ac07e61b81e8134501752a",
+      "sourceTextSha256": "51178af4b87922bb627dd8a89d3e1081c21ee8be53a9f80ae89f6c30fd305150",
+      "freshTranslation": "아냐 아르스트렘",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00362/Sheet1/000003",
+      "sourceBindingSha256": "349c2dfa3595f3a50489e5cf58f62b6b37a54e51bac0e1711984a901a7534b92",
+      "sourceTextSha256": "60574b94e41e62544c579c1693cfab7e2179dfac3da29f10452cdc4c661117aa",
+      "freshTranslation": "아냐",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00362/Sheet1/000004",
+      "sourceBindingSha256": "0f3cfcacad3c6089009bd23dbe1f4dd7d49fe2738a63713aaf25b4d25c2ed738",
+      "sourceTextSha256": "b40f8de117e644be3d8ab8c76b9b5779575051515b39a54c7b5cfa1a85297d19",
+      "freshTranslation": "코드기어스 반역의 루루슈 R2",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00362/Sheet1/000005",
+      "sourceBindingSha256": "cfa2a5a927bb25d97a3977094f2ea2712d2705206444d3637ab54a113ef0a825",
+      "sourceTextSha256": "efabae633075bffc209a4739107cbed1e4c966418520688df1c72ee626ca181b",
+      "freshTranslation": "제국 최강의 기사 나이트 오브라운즈의 한 사람, 나이트 오브 식스. 15세. ㊥최연소로 라운드의 지위까지 올라간 실력자. 감정을 그다지 겉으로 드러내지 않고, 담담하게 ㊥ 하고 있지만, 드물게 일반 상식으로는 생각할 수 없는 행동을 취하는 일이 있었다. ㊥ 휴대 전화를 항상 가지고 다니며 모든 것을 기억이라고합니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00362/Sheet1/000006",
+      "sourceBindingSha256": "b2b59b0aef890f40672faa19af0a520554ebb5049e7089fa0287d0e93f89bd6b",
+      "sourceTextSha256": "bc0afd91c2c4c5438b01ab0f6b1744accc0f66e6c9934646691150d9343c54ec",
+      "freshTranslation": "에 남겨두었지만, 그것㊥은 타인의 마음을 건너는 기어스에 의해 들어간 루루슈의 어머니 마리안느가 각성할 때마다㊥에 누락되는 기억을 보충하기 위한 행위였다. 이 잃어버린 기억은 마리안느가 소멸㊥한 후에도 돌아오지 않았다. ㊥ 최종 결전에서는 슈나이젤 군으로 제레미아와 싸워 서더랜드 지크를 쏴 ㊥ 파괴했다. 그러나 안에서 나타난 서더랜드 J의 자폭 공격을 받아 패배. 그 때의 모임 ㊥ 이야기에서 아냐에게 어떠한 기어스가 걸려 있는 것을 깨달은 제레미아의 기어스 ㊥ 캔슬러에 의해, 마리안느로부터 완전하게 해방되었다. ㊥ 최종 결전 후 오렌지 농장에서 일하는 제레미아 옆에 그 모습이 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00362/Sheet1/000007",
+      "sourceBindingSha256": "9bd6b80ae495d126bc0bdcc2f5ad9085a7d94c9b1570ff3d448032b9c30d9cd2",
+      "sourceTextSha256": "efabae633075bffc209a4739107cbed1e4c966418520688df1c72ee626ca181b",
+      "freshTranslation": "제국 최강의 기사 나이트 오브라운즈의 한 사람, 나이트 오브 식스. 15세. ㊥최연소로 라운드의 지위까지 올라간 실력자. 감정을 그다지 겉으로 드러내지 않고, 담담하게 ㊥ 하고 있지만, 드물게 일반 상식으로는 생각할 수 없는 행동을 취하는 일이 있었다. ㊥ 휴대 전화를 항상 가지고 다니며 모든 것을 기억이라고합니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00362/Sheet1/000008",
+      "sourceBindingSha256": "b0b761be2b25440d7f38594929745cec4f201f3f32a06e60d30d91d69126012b",
+      "sourceTextSha256": "bc0afd91c2c4c5438b01ab0f6b1744accc0f66e6c9934646691150d9343c54ec",
+      "freshTranslation": "에 남겨두었지만, 그것㊥은 타인의 마음을 건너는 기어스에 의해 들어간 루루슈의 어머니 마리안느가 각성할 때마다㊥에 누락되는 기억을 보충하기 위한 행위였다. 이 잃어버린 기억은 마리안느가 소멸㊥한 후에도 돌아오지 않았다. ㊥ 최종 결전에서는 슈나이젤 군으로 제레미아와 싸워 서더랜드 지크를 쏴 ㊥ 파괴했다. 그러나 안에서 나타난 서더랜드 J의 자폭 공격을 받아 패배. 그 때의 모임 ㊥ 이야기에서 아냐에게 어떠한 기어스가 걸려 있는 것을 깨달은 제레미아의 기어스 ㊥ 캔슬러에 의해, 마리안느로부터 완전하게 해방되었다. ㊥ 최종 결전 후 오렌지 농장에서 일하는 제레미아 옆에 그 모습이 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

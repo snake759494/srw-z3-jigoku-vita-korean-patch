@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00155",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00155/Sheet1/000002",
+      "sourceBindingSha256": "3b279d7f2518a190e4793251008dc73f4cb758b4e825f926a3414b926fd88ae1",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00155/Sheet1/000003",
+      "sourceBindingSha256": "942e803c484444ec301c36c840cfa24ed3428f5a4a394218d4b9e618cc749cd7",
+      "sourceTextSha256": "3b64d59d3475be5d57aa5ba8209c31eacec7ceba64e631f1a18b8a1fdf765f69",
+      "freshTranslation": "제이서 J1",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00155/Sheet1/000004",
+      "sourceBindingSha256": "e3681885f9274910b88f6bbbc5806367e39d7fcbb6b40b2ffe56b684c076c505",
+      "sourceTextSha256": "3b64d59d3475be5d57aa5ba8209c31eacec7ceba64e631f1a18b8a1fdf765f69",
+      "freshTranslation": "제이서 J1",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00155/Sheet1/000005",
+      "sourceBindingSha256": "9d10f341b632c07fcfab5a7d14cf5be387d55b49dbd5c2b8cf569ac7af189480",
+      "sourceTextSha256": "10d6e77d7c703b587a2a2247453d7d363042b4c1e41a6d7ed9192830c294979a",
+      "freshTranslation": "제23화 『접근! 기계 짐승 아슈라 남작! 』에 등장한 비행하는 기계 짐승. ㊥ 기체 중앙에 있는 거대한 팬을 회전시켜 상대를 흡입한 후 분쇄하는 공격 ㊥으로 자위대의 전투기 부대를 전멸시켰다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00155/Sheet1/000006",
+      "sourceBindingSha256": "96ab53401251674408664feade42aa040ab694eb464813eab6b38428184ae1e7",
+      "sourceTextSha256": "10d6e77d7c703b587a2a2247453d7d363042b4c1e41a6d7ed9192830c294979a",
+      "freshTranslation": "제23화 『접근! 기계 짐승 아슈라 남작! 』에 등장한 비행하는 기계 짐승. ㊥ 기체 중앙에 있는 거대한 팬을 회전시켜 상대를 흡입한 후 분쇄하는 공격 ㊥으로 자위대의 전투기 부대를 전멸시켰다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

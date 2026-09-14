@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00024",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00024/Sheet1/000002",
+      "sourceBindingSha256": "0a4dc87ba9a0c6abe40eeb3c15fe996302d32949a6059162f1fb0bfee509f46b",
+      "sourceTextSha256": "724033b846e8a1bd3dd953c4796d9bd474c37ad815bd5d19b3c1d730efde14db",
+      "freshTranslation": "브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00024/Sheet1/000003",
+      "sourceBindingSha256": "a458cfd1258c33788dd7dd28a02a40fa383fc4253b6ab063eb4959f5f2cfcf35",
+      "sourceTextSha256": "f032bf1bfa690e2aa3753919146e89b308cc215993ff9bf1b593febd3605573e",
+      "freshTranslation": "니어 유니온",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00024/Sheet1/000004",
+      "sourceBindingSha256": "ccba79bd986b9db1c45c128e4d0fe33fb9576d79697a13f1c646c75146363e56",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00024/Sheet1/000005",
+      "sourceBindingSha256": "02bd182842e420dbea154b501ea0d1b01b8fee672ef87dc2b446057c5ed96cf5",
+      "sourceTextSha256": "eb0ad28665a28e8a51c552d227dd5665f1fa2f224fc997acd021f46c3ebcb886",
+      "freshTranslation": "대시 공진동에 의해 북미 대륙에 동시에 존재하게 된 두 개의 대국, 신성㊥ 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00024/Sheet1/000006",
+      "sourceBindingSha256": "d5a1a1a6a097c25fe1e9249d2ccf094273da2ced3f9acaaa190e4d28864d03b6",
+      "sourceTextSha256": "fd974f069269d92a775719875400bd6c3fe1b7e5365328760e4477992102c74f",
+      "freshTranslation": "니어 제국과 유니온 (태양 에너지와 자유 국가의 연합 : Union㊥ofSolarEnergyandFreeNations)의 통㊥합에 의해 탄생한 강국. ㊥ ADW에서 지구 연방 탄생까지 최대의 세력을 자랑하며 연방 탄생 후에도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00024/Sheet1/000007",
+      "sourceBindingSha256": "4459669541559cbbc1996e5b5d8c729f61a2a70c11e931d6588481aba0dd1a9a",
+      "sourceTextSha256": "c28c350d2f188487de39a5d41bcdf6b2cf3ec83be6aa75f741491f55bb9ce492",
+      "freshTranslation": "니어 유니온 출신자는 강한 발언력을 가지고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00024/Sheet1/000008",
+      "sourceBindingSha256": "9cf97028b55b28fb4dfef5acf76be0dd429f63b19f75bc15b5840d1cabf71ee3",
+      "sourceTextSha256": "eb0ad28665a28e8a51c552d227dd5665f1fa2f224fc997acd021f46c3ebcb886",
+      "freshTranslation": "대시 공진동에 의해 북미 대륙에 동시에 존재하게 된 두 개의 대국, 신성㊥ 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00024/Sheet1/000009",
+      "sourceBindingSha256": "c42fe16e22cf5b4c7df8e646af6f13ac73f10c83b8c8923a4f557a8ea925dc65",
+      "sourceTextSha256": "fd974f069269d92a775719875400bd6c3fe1b7e5365328760e4477992102c74f",
+      "freshTranslation": "니어 제국과 유니온 (태양 에너지와 자유 국가의 연합 : Union㊥ofSolarEnergyandFreeNations)의 통㊥합에 의해 탄생한 강국. ㊥ ADW에서 지구 연방 탄생까지 최대의 세력을 자랑하며 연방 탄생 후에도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00024/Sheet1/000010",
+      "sourceBindingSha256": "8689753f060b2617b9fadaec55b81c1bcfe69dded4fda9cc01f670a60a1e905d",
+      "sourceTextSha256": "c28c350d2f188487de39a5d41bcdf6b2cf3ec83be6aa75f741491f55bb9ce492",
+      "freshTranslation": "니어 유니온 출신자는 강한 발언력을 가지고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

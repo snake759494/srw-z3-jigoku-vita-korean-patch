@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00331",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00331/Sheet1/000002",
+      "sourceBindingSha256": "667bc62656b8caf121af354ab42736ce066da61cd00abb71a2134edbca9dee05",
+      "sourceTextSha256": "33c93229f104e9e1fe948934165b78daf6ea3afd31339f61c669fbe339d9be99",
+      "freshTranslation": "안티 스파이럴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00331/Sheet1/000003",
+      "sourceBindingSha256": "c7e465aa7de87505017f64dca88a885f800f41d7648497ce2db651fa179baff1",
+      "sourceTextSha256": "33c93229f104e9e1fe948934165b78daf6ea3afd31339f61c669fbe339d9be99",
+      "freshTranslation": "안티 스파이럴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00331/Sheet1/000004",
+      "sourceBindingSha256": "08e83b80512bc222548813773834b16e43b239b6540ba749247e4725554efa0b",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00331/Sheet1/000005",
+      "sourceBindingSha256": "66527dc86ffbee4fbb4df21f96c76093d06b66a28e58a7fdd81224c4105c9c39",
+      "sourceTextSha256": "bae7d4a047917c3b28288c8dea9e9eacaf9dc57a64cfc193d72f74a3d69713bc",
+      "freshTranslation": "카미카와 타카야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00331/Sheet1/000006",
+      "sourceBindingSha256": "e7340697121eadfa23f107742d197eb02ce898c16457a2b25f397e58f0b58584",
+      "sourceTextSha256": "c84ca86cd70ee9dff5797f263758c01e386887603d000cd82f17ddfa7b85cfb2",
+      "freshTranslation": "나선력을 가진 모든 생물을 근절시키지 않는 신비의 존재.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00331/Sheet1/000007",
+      "sourceBindingSha256": "3437bdb5f8e00f0e9a5c5e1aa14f761bf15d99a6f41afa49a997b44c69023773",
+      "sourceTextSha256": "242c546ec0eb8d5e18a77a50b35e46b352fe6a54f7b3f173bf92733c9be02f78",
+      "freshTranslation": "나선력을 가진 모든 생물을 근절시키지 않는 존재. ㊥ 그 실태는 반나선족의 사념체이며, 나선력이 가져온다고 하는 '나선형 ㊥ 메시스'를 저지하기 위해 나선족의 근절을 눈에 띄었다. ㊥ 한때는 나선족이었지만, 나선형 네메시스에 공포해, 모성에 자신의 동포들을 ㊥ 봉인하고 있다. ㊥우주 그 자체라고도 부를 수 있을 만큼의 강대한 힘을 가지고, 실체를 가지지 않기 때문에 시인하는 일㊥을 할 수 없다. 또한 대상을 다원 우주에 갇혀 전투 의욕을 빼앗으려 하거나 상대와 ㊥ 동등한 힘으로 싸워 승리하는 것으로 절대적 절망을 심으려고 하는 등 정신공 ㊥ 격에도 뛰어나다. ㊥ 마지막은 시몬들의 나선력 앞에 패배. 이 우주를 반드시 지켜라며 남아 소멸했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

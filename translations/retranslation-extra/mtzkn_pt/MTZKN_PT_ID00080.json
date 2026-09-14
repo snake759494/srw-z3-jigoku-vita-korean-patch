@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00080",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00080/Sheet1/000002",
+      "sourceBindingSha256": "92bbe87ab598c7ce1612b33531d5df36babf6d5d0f2f6d5be6bb100ce546d410",
+      "sourceTextSha256": "641592d3c23eef291adc4fc96933beb6ec18203d51dcaa4b23f48b75ce70e747",
+      "freshTranslation": "張五飛",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00080/Sheet1/000003",
+      "sourceBindingSha256": "8c94e2be5fde2ca012cabb936ea6b89ba218ffb98763ab9e77eb1603e8e4083b",
+      "sourceTextSha256": "156ca7c5a5b7924504743afe8add456d40a03f7167e62f43c65203034968374c",
+      "freshTranslation": "고비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00080/Sheet1/000004",
+      "sourceBindingSha256": "059a0f2d65ddf5fb9c282c1e35855d58392329b175907f842c9fa9c6d36a830f",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00080/Sheet1/000005",
+      "sourceBindingSha256": "a6b2258da59f7e7a977e2078a256a9a032049611560e17bf6f95b357f9c875cd",
+      "sourceTextSha256": "d472ede9da58ca6edd991d5622b080c38f5a6db961d71525907b1b97c8aa3771",
+      "freshTranslation": "이시노 류조",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00080/Sheet1/000006",
+      "sourceBindingSha256": "bcb63bda5f65e77cbec06cfac6f2c04324c15e78eca523a4a203ba3885ff2452",
+      "sourceTextSha256": "0ed8b62c51f1df4e8e524934dce76cca29abac778cf9919aafa18e0d692a1c44",
+      "freshTranslation": "오퍼레이션 메테오에서 지구에 내린 L5 콜로니 군 출신의 에이전트. 16㊥세. ㊥ 고대 중국에 가장자리를 발하는 전사의 일족의 직계. '힘이야말로 정의'라는 신념 아래 전 ㊥사로 키워졌다. ㊥ 힘에 의해 약자를 짓밟는 OZ의 행위를 악으로 느끼고, 더 강한 힘을 가지고 쓰러뜨리는 ㊥ 일이 정의와 믿고 싸운다. ㊥ 그 때문에, 생신에서의 싸움으로 트레이즈에 패했을 때는, 자신의 약점을 생각해 전의㊥를 상실한다. 그 중에서 약점을 인정하고, 그래도 싸우려는 사리 포오의 자세를 눈의 ㊥당으로 하고, 싸움을 계속하는 자세야말로 세계를 움직인다고 생각하게 되고, 다시 싸울 의지㊥를 되찾는다. ㊥이지만, 최종 결전에서 트레이즈와의 재전에 승리하지만, 그 결과가 승리 도망도 ㊥ 잡히는 불가해한 형태로 끝나 버린다. ㊥ 종전 후에는, 독자적인 생각으로부터 마리메이아군에 참가한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00080/Sheet1/000007",
+      "sourceBindingSha256": "ae203291542efa3c39964f0a8d695e8de51cbfbc2a5d1fe808820e72ddd29a5f",
+      "sourceTextSha256": "3772205d017e7c711c98d9b47fa98cf6304efb449789327f31050dbe4f7543b3",
+      "freshTranslation": "오퍼레이션 메테오에서 지구에 내린 L5 콜로니 군 출신의 에이전트. 16㊥세. ㊥ 고대 중국에 가장자리를 발하는 전사의 일족의 직계. '힘이야말로 정의'라는 신념 아래 전 ㊥사로 키워졌다. ㊥ 힘에 의해 약자를 짓밟는 OZ의 행위를 악으로 느끼고, 더 강한 힘을 가지고 쓰러뜨리는 ㊥ 일이 정의와 믿고 싸운다. ㊥ 그 때문에, 생신에서의 싸움으로 트레이즈에 패했을 때는, 자신의 약점을 생각해 전의㊥를 상실한다. 그 중에서 약점을 인정하고, 그래도 싸우려는 사리 포오의 자세를 눈의 ㊥당으로 하고, 싸움을 계속하는 자세야말로 세계를 움직인다고 생각하게 되고, 다시 싸울 의지㊥를 되찾는다. ㊥이지만, 최종 결전에서 트레이즈와의 재전에 승리하지만, 그 결과가 승리 도망도 ㊥ 잡히는 불가해한 형태로 끝나 버린다. ㊥ 종전 후에는 평화가 방문한 것에 의해 싸우는 자세를 잊은 시민이나 가는 곳이 없어진 병 ㊥사들의 존재하는 세계에 정의가 있는가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00080/Sheet1/000008",
+      "sourceBindingSha256": "5a816855aeed094a46d34097e6a0dc14e613e5ac47aa9ff2d52c4572e64e6f54",
+      "sourceTextSha256": "5419fc92c2e4a994ce20edb6c99889f35fdb73858ddab76b20f3ec555ae4288d",
+      "freshTranslation": "질문을 갖게 된다. 그 대답으로서 굳이 ㊥악이 되어 마리메이어군에 참가한다. ㊥ 전투에서 히이로와의 대화와 마리 메이어 군대에 싸우는 시민들을 보고 자신의 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00080/Sheet1/000009",
+      "sourceBindingSha256": "09228a0c4be2838c99b2a81ba89db0307b3531027ffed5b717e38eb55ea7a82e",
+      "sourceTextSha256": "e886bf09be3d2a07cd85f0d80a0d9413a74505cc3bf71e2ba94fe05bd5c22fa7",
+      "freshTranslation": "질문에 결착을 붙여 싸움을 마쳤다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

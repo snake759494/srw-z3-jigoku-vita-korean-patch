@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00213",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00213/Sheet1/000002",
+      "sourceBindingSha256": "c10478423e467aecea355b7c1c91350746f8ad5ada1c1f7f5e47b2cca009bfbf",
+      "sourceTextSha256": "1f7e2272e86b23bb3da8b1083e2bc5bb50563d6c814414e279ff497597fac9ea",
+      "freshTranslation": "가미아 Q",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00213/Sheet1/000003",
+      "sourceBindingSha256": "9006ab58429c5e9324c78d0e7f3628aee17d05e1e072a7d50e4ca312114afdad",
+      "sourceTextSha256": "1f7e2272e86b23bb3da8b1083e2bc5bb50563d6c814414e279ff497597fac9ea",
+      "freshTranslation": "가미아 Q",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00213/Sheet1/000004",
+      "sourceBindingSha256": "5d3eddc9fe61ff9eb712721cbb0f3da37640540e4c922a3aa150bcd86c1b621c",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00213/Sheet1/000005",
+      "sourceBindingSha256": "c30d65872321a4110c424a9f5723b0e3230d1470856c06a2372c7f8bd44ee6d1",
+      "sourceTextSha256": "e2a8601238e112c4d3b313b7ec10796ca743c7c2fdb103b8eb2af7bcf9c9c2bc",
+      "freshTranslation": "전투용으로 개발된 여성",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00213/Sheet1/000006",
+      "sourceBindingSha256": "464c91a433d8e13a9f6f19adb00192a8ebc9fb15555beedf3f9cf6cce1f21064",
+      "sourceTextSha256": "23d1adde18aafb7d87e5bc3200f319e554267e52515ca484c20476d1a6b8c6b4",
+      "freshTranslation": "안드로이드. Q1에서 Q5까지의 5가지가 존재한다. ㊥ 높은 신체 능력 외에도 신축성이 뛰어난 긴 머리카락은 뛰어난 날카로움을 자랑하며 목표를 가차없이 자르고 ㊥ 새긴다. ㊥ 필요한 것 밖에 말하지 않고 항상 무표정. 그러나 그 인간을 떠난 미모로 암흑사를 ㊥을 시작으로 하는 남성진의 대부분을 매료했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00213/Sheet1/000007",
+      "sourceBindingSha256": "f50aaae5766247f7b34254ae08a36023cee9ff35c6b7a4007b56f433940eddef",
+      "sourceTextSha256": "e2a8601238e112c4d3b313b7ec10796ca743c7c2fdb103b8eb2af7bcf9c9c2bc",
+      "freshTranslation": "전투용으로 개발된 여성",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00213/Sheet1/000008",
+      "sourceBindingSha256": "3c91f6f9c4821244fc8ff44e8d30192016e6f13e5fc6992a3efa06359c700104",
+      "sourceTextSha256": "fd5d6915fe1be09c52b5903137aec823e14399158ed9f46212d6e684c51df56f",
+      "freshTranslation": "안드로이드. Q1에서 Q5까지의 5가지가 존재한다. ㊥ 높은 신체 능력 외에도 신축성이 뛰어난 긴 머리카락은 뛰어난 날카로움을 자랑하며 목표를 가차없이 자르고 ㊥ 새긴다. ㊥ 필요한 것 밖에 말하지 않고 항상 무표정. 그러나 그 인간을 떠난 미모로 암흑사를 ㊥을 시작으로 하는 남성진의 대부분을 매료했다. ㊥ 갑아들과의 전투 끝에, 대부분은 파괴되었지만, 가장 손상이 적었던 Q3는 수리되어 ㊥암흑사와 행동을 함께 하게 되었다. Dr. 헬과의 최종 결전에서는 비밀리에 탑재 ㊥ 된 광자력 에너지를 컨트롤하는 기능으로 Dr. 헬의 광자력 탈취의 작전을 ㊥ 저지했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

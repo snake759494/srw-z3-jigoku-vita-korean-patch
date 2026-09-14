@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00051",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00051/Sheet1/000002",
+      "sourceBindingSha256": "bb6c82d7a15868dd3fe6b7a9a7d2e1af77e44e567ab22b8a3a6eaae0b132dc28",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00051/Sheet1/000003",
+      "sourceBindingSha256": "0c621c718635aad945c200944fdd2dca91a91636d697f53a3215396677189f81",
+      "sourceTextSha256": "98b3e2d43de9632b2c4ac1d550510ed38e117965465dc996e30bbf8d07bf5823",
+      "freshTranslation": "사자비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00051/Sheet1/000004",
+      "sourceBindingSha256": "28bcb1ef3cbff8254e69200f80be1448078282e591549274726b71eaef2abad9",
+      "sourceTextSha256": "98b3e2d43de9632b2c4ac1d550510ed38e117965465dc996e30bbf8d07bf5823",
+      "freshTranslation": "사자비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00051/Sheet1/000005",
+      "sourceBindingSha256": "1d482e8d262372a8db9beb8896d42178b0456c9d84f889b253378a7a259c8ebf",
+      "sourceTextSha256": "27db5ac8a2d6a3dd3707a40716f673195d3dcf76d77829587ee92279e5c57348",
+      "freshTranslation": "샤아 아즈나블",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00051/Sheet1/000006",
+      "sourceBindingSha256": "0c83f6cb578485dcd35d5d4130beb92c2ef1562630e688775543aa879fdae0df",
+      "sourceTextSha256": "bc5764569dedd0a9b2d30ba6f998a89b4bd27439ef83dbe7f2f0b9d2162596f1",
+      "freshTranslation": "네오지온군의 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00051/Sheet1/000007",
+      "sourceBindingSha256": "b57c430299fdfb496e584564df320ccfc548be369cba5cc371a1ef2a70b7ebfd",
+      "sourceTextSha256": "a20be5c99cc5a8ad86757b810c6f9768d8db4f32c60905b9f94b8da6f2795b17",
+      "freshTranslation": "입 전용 모빌 슈트. ㊥ 총수 샤아 아즈나블의 전용기로,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00051/Sheet1/000008",
+      "sourceBindingSha256": "c1a7daa09047529d3094f55ea53513b291776cfb1603cf6457ce85f73958c353",
+      "sourceTextSha256": "9eaeaacf5d0660ee0e3034f6e45ab23fe46cb3738c3eda3cfe96b2ec15daf7e4",
+      "freshTranslation": "붉은 색으로 착색되어 있습니다. ㊥사이코 프레임을 채용하는 것으로, 종래의 기종을 훨씬 넘는 추종성을 획득하고 ㊥한다. 또, 중장갑이면서 전신의 스러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00051/Sheet1/000009",
+      "sourceBindingSha256": "a70169cf2ba320ef38dc72d108fd26e29bc3b9a1e6598bdb851b95d76c54ebf0",
+      "sourceTextSha256": "d80ea27eed5fedced0da11f62c30d11c0889e434de888a63e9ef44377079fbbc",
+      "freshTranslation": "-류에 의해 기동성도 높고, 샤아가 ㊥ 타기에 어울리는 강력한 기체이다. ㊥ 주요 무장으로 빔 샷 라이플, 복부의 메가 입자포, 빔 서㊥ 벨, 깔때기 등을 장비해, 다른 사람을 압도하는 고화력을 자랑한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00051/Sheet1/000010",
+      "sourceBindingSha256": "8c2e59cf038269f47a0d1ab34ae0c6fcb940d0d2276de3a598d42dcf0756642d",
+      "sourceTextSha256": "bc5764569dedd0a9b2d30ba6f998a89b4bd27439ef83dbe7f2f0b9d2162596f1",
+      "freshTranslation": "네오지온군의 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00051/Sheet1/000011",
+      "sourceBindingSha256": "f07728ad124d12445dea6d7458922a3c591a9927640a7f1923368d151e1437c0",
+      "sourceTextSha256": "a20be5c99cc5a8ad86757b810c6f9768d8db4f32c60905b9f94b8da6f2795b17",
+      "freshTranslation": "입 전용 모빌 슈트. ㊥ 총수 샤아 아즈나블의 전용기로,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00051/Sheet1/000012",
+      "sourceBindingSha256": "fa226d48ab9c092f5ffd595d2bb1954a86fb4756248a6b8b67bec090f1e93e0c",
+      "sourceTextSha256": "9eaeaacf5d0660ee0e3034f6e45ab23fe46cb3738c3eda3cfe96b2ec15daf7e4",
+      "freshTranslation": "붉은 색으로 착색되어 있습니다. ㊥사이코 프레임을 채용하는 것으로, 종래의 기종을 훨씬 넘는 추종성을 획득하고 ㊥한다. 또, 중장갑이면서 전신의 스러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00051/Sheet1/000013",
+      "sourceBindingSha256": "4577a9f3ca0569b7cd0d557a5a2161afa03b0a244ce475768af56bbf137e1ac5",
+      "sourceTextSha256": "d80ea27eed5fedced0da11f62c30d11c0889e434de888a63e9ef44377079fbbc",
+      "freshTranslation": "-류에 의해 기동성도 높고, 샤아가 ㊥ 타기에 어울리는 강력한 기체이다. ㊥ 주요 무장으로 빔 샷 라이플, 복부의 메가 입자포, 빔 서㊥ 벨, 깔때기 등을 장비해, 다른 사람을 압도하는 고화력을 자랑한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

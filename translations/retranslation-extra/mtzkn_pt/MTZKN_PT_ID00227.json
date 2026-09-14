@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00227",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00227/Sheet1/000002",
+      "sourceBindingSha256": "95b275e70b7aa0f4081f7b61f734fbfd1bd766729f29fc76d004052421cce0a2",
+      "sourceTextSha256": "0365bc35159986d17e606369eb11110f5666551a1ea1c37402b2a61801ddd8f0",
+      "freshTranslation": "오스기 춘남",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00227/Sheet1/000003",
+      "sourceBindingSha256": "5faebbfaed702c0059908ebf5ec3ba2a98a98eb30058e42ae1e1e2a6f20ed2a5",
+      "sourceTextSha256": "00801bfd110ebf15c7fe2c05881c1c6091d97bc54802ba4d60b9cec04f3ce431",
+      "freshTranslation": "오스기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00227/Sheet1/000004",
+      "sourceBindingSha256": "9e27c639f00c70699e17579e9553ebed9ef4cf7fedfa968f359c9d13c69273a5",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00227/Sheet1/000005",
+      "sourceBindingSha256": "4a6ab71d34ee412fe9bddae5291df5b8d9e3fe568b05f416a1a2ff9a21add42d",
+      "sourceTextSha256": "d30ee198f68c060c9e95c5f31a2fb56ec57e29a5ba09bcb7e413956f6db784fa",
+      "freshTranslation": "홍보 2과의 과장. 48세. ㊥ 다이 가드의 파일럿들(주로 아카기)의 행동에 위를 아프는 날들을 보내는 중간 관리㊥직. 하지만, 그런 그들에게 제일의 이해를 나타내고 있는 인물이기도 하고, 군이나 회사 임원으로부터의 ㊥ 압력도 어떻게든 받아들이고 있다. ㊥ 평소에는 쓸모없는 중년을 가장하고 있지만, 상당히 끊어진 사람. 이전에는 안보군의 전신인 ㊥ 유엔 의용군에 소속된 중위로, 이 대령의 대하내의 직속의 부하였다. 당시부터 현재㊥에 이르기까지, 대하내로부터의 신뢰는 매우 두껍다. ㊥대하내가 그런 복심의 부하를 임원이 아니라 굳이 과장의 지위에 멈추게 하고 있는 이유㊥는, 일단 현장과 사장을 연결하는 중요한 위치이기 때문이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00227/Sheet1/000006",
+      "sourceBindingSha256": "07bb2e28944f3895840db6b0a8814eb2a692571afded27916583439a64999728",
+      "sourceTextSha256": "d30ee198f68c060c9e95c5f31a2fb56ec57e29a5ba09bcb7e413956f6db784fa",
+      "freshTranslation": "홍보 2과의 과장. 48세. ㊥ 다이 가드의 파일럿들(주로 아카기)의 행동에 위를 아프는 날들을 보내는 중간 관리㊥직. 하지만, 그런 그들에게 제일의 이해를 나타내고 있는 인물이기도 하고, 군이나 회사 임원으로부터의 ㊥ 압력도 어떻게든 받아들이고 있다. ㊥ 평소에는 쓸모없는 중년을 가장하고 있지만, 상당히 끊어진 사람. 이전에는 안보군의 전신인 ㊥ 유엔 의용군에 소속된 중위로, 이 대령의 대하내의 직속의 부하였다. 당시부터 현재㊥에 이르기까지, 대하내로부터의 신뢰는 매우 두껍다. ㊥대하내가 그런 복심의 부하를 임원이 아니라 굳이 과장의 지위에 멈추게 하고 있는 이유㊥는, 일단 현장과 사장을 연결하는 중요한 위치이기 때문이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

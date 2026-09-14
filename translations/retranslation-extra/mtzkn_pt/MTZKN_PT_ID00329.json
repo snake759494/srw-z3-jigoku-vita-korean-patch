@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00329",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00329/Sheet1/000002",
+      "sourceBindingSha256": "2cdf12822d78868a0c000f0fe32c7a1ff42e57b41eb304f67ad48e7563ca1470",
+      "sourceTextSha256": "be514e0b85c359d9e9ab880b4764f12c1c6fbd341bc692b9108d69db9185cf1d",
+      "freshTranslation": "카미나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00329/Sheet1/000003",
+      "sourceBindingSha256": "6f28e9713471fee357e680c781882199105912bc104aabde72ee488a81f7d532",
+      "sourceTextSha256": "be514e0b85c359d9e9ab880b4764f12c1c6fbd341bc692b9108d69db9185cf1d",
+      "freshTranslation": "카미나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00329/Sheet1/000004",
+      "sourceBindingSha256": "a7b3bf8801b21e9b851f975fa0d9a776058733c0cd846f5e097880d47328ba29",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00329/Sheet1/000005",
+      "sourceBindingSha256": "e1fbf176d12c858d313c01fe9d7ba7e1fce5d56832e3a0e384c3582b33e25013",
+      "sourceTextSha256": "a48f3c3c4cffe6ee7dcf1b133cf27a1baa5dbe5d9ebec6f2c9b37240ec5c1d77",
+      "freshTranslation": "코니시 카츠유키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00329/Sheet1/000006",
+      "sourceBindingSha256": "e12b86999f58af8070bb2e5b871fedbe03fcde4b0da392086f4dd2a6bb8fa6c2",
+      "sourceTextSha256": "f4a055ebac2075f0c728082c2859523667ad9f8c637ff2826f69bee6bfb700dc",
+      "freshTranslation": "글렌단을 이끄는 유연불굴의 악마 리더.㊥어떤 일이라도 기합과 기세로 극복하고 무리를 통과시키기 위해 도리를 걷어차는 강인극㊥끝없는 성격.㊥저쪽에 보이는 것은 종이 접기 첨부로, 당초는 칼 한 개로 감멘에 맞서 갔을 정도. 어서㊥생명으로 건멘을 강탈한 거구를 타고 보여주거나 글렌의 머리에 라간을㊥찌르고 \"합체\"로하고, 그것을 현실의 것으로 하는 등, 곳곳에서 천의 무봉의 파㊥하늘 거친 모습을 보였다.㊥하지만, 그 기박과 강요의 힘, 그리고 신념에서도 무슨 일을 통해 보이는 자세㊥높은 카리스마를 발휘. 지하 마을에서 나왔을 때의 동료는 시몬과 요코의 두 사람뿐입니다.㊥그러나 만난 사람들을 끌어 들인 결과, 결국 큰 글렌 그룹이라는 한 세력을 맺었습니다.㊥이르기까지 이르렀다.㊥요코는 기분이 강한 사람끼리 사소한 싸움이 끊이지 않는다. 하지만 서로 걱정되는 사이㊥이고, 티밀프와의 결전전에는 마음을 통하게 해, 입을 섞는다. “돌아가면 10배㊥\"라고까지 말하지만, 전투 중에 시몬의 실수가 방아쇠가되어 치명적인 상처를 입었습니다.㊥네. 최후의 힘을 짜내 시몬을 꾸짖고, 그 영혼을 계승시키면,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00329/Sheet1/000007",
+      "sourceBindingSha256": "288e66cad6fa4725876d3d2ff10ae9e19f571b29691ff2ccfe5c59585d3e40e1",
+      "sourceTextSha256": "7f201df00e7665775ab7e558fbffd1e0f01f94c9e4896c842888e113fadb3b23",
+      "freshTranslation": "하얗게 태워 ㊥ 다 했다. ㊥ 그 삶의 방식과 죽음과 같은 많은 사람들, 그리고 짐승에게까지 영향을 미칩니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00329/Sheet1/000008",
+      "sourceBindingSha256": "f1efe990699f4367270120811267eab4e1fc7b179a659979b92f2946703cf127",
+      "sourceTextSha256": "86319c381aeb88a8132cda2f93785db57cb9f19b124842f7a7cb955e5fca4ca2",
+      "freshTranslation": "네.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00329/Sheet1/000009",
+      "sourceBindingSha256": "64990f96460b430e7e013d4ec4cf0c2e69fe07ee7c93c1973ce6fd08007a0a7d",
+      "sourceTextSha256": "f4a055ebac2075f0c728082c2859523667ad9f8c637ff2826f69bee6bfb700dc",
+      "freshTranslation": "글렌단을 이끄는 유연불굴의 악마 리더.㊥어떤 일이라도 기합과 기세로 극복하고 무리를 통과시키기 위해 도리를 걷어차는 강인극㊥끝없는 성격.㊥저쪽에 보이는 것은 종이 접기 첨부로, 당초는 칼 한 개로 감멘에 맞서 갔을 정도. 어서㊥생명으로 건멘을 강탈한 거구를 타고 보여주거나 글렌의 머리에 라간을㊥찌르고 \"합체\"로하고, 그것을 현실의 것으로 하는 등, 곳곳에서 천의 무봉의 파㊥하늘 거친 모습을 보였다.㊥하지만, 그 기박과 강요의 힘, 그리고 신념에서도 무슨 일을 통해 보이는 자세㊥높은 카리스마를 발휘. 지하 마을에서 나왔을 때의 동료는 시몬과 요코의 두 사람뿐입니다.㊥그러나 만난 사람들을 끌어 들인 결과, 결국 큰 글렌 그룹이라는 한 세력을 맺었습니다.㊥이르기까지 이르렀다.㊥요코는 기분이 강한 사람끼리 사소한 싸움이 끊이지 않는다. 하지만 서로 걱정되는 사이㊥이고, 티밀프와의 결전전에는 마음을 통하게 해, 입을 섞는다. “돌아가면 10배㊥\"라고까지 말하지만, 전투 중에 시몬의 실수가 방아쇠가되어 치명적인 상처를 입었습니다.㊥네. 최후의 힘을 짜내 시몬을 꾸짖고, 그 영혼을 계승시키면,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00329/Sheet1/000010",
+      "sourceBindingSha256": "5cf573e992cd39503493056b41043a0a7dca2be64311ec26babbf960350025d1",
+      "sourceTextSha256": "7f201df00e7665775ab7e558fbffd1e0f01f94c9e4896c842888e113fadb3b23",
+      "freshTranslation": "하얗게 태워 ㊥ 다 했다. ㊥ 그 삶의 방식과 죽음과 같은 많은 사람들, 그리고 짐승에게까지 영향을 미칩니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00329/Sheet1/000011",
+      "sourceBindingSha256": "ec7061a901ca52dc22e09acdc39b36ae560aa24b121fabc7d8154a9e95c2098d",
+      "sourceTextSha256": "de7d0cf515978f1c526efe8535ef4e712d33fe4226f5966070dcb46e537974b9",
+      "freshTranslation": "네. ㊥ 큰 글렌단이 안티 스파이럴에 의해 다원세계에 갇혔을 때에는 시몬㊥과 요코 앞에 나타나 각각의 등을 밀었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

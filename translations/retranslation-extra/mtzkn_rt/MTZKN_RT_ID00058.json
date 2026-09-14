@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00058",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00058/Sheet1/000002",
+      "sourceBindingSha256": "16f45a5b7c4550e4cf5d351adaaf3809db611cc283e367899fff71838095095a",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00058/Sheet1/000003",
+      "sourceBindingSha256": "350fd23e79148ae5716db724bff01ec756b10eef1ee0d200fd8c4259e63d2b19",
+      "sourceTextSha256": "ec1b1050ef0ada31e09c98ada714d2c3aa5f0241711b5f8e06402e00da2fdfa4",
+      "freshTranslation": "건담 샌드록 개",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00058/Sheet1/000004",
+      "sourceBindingSha256": "5a97d93fd26e4858bde261c3388627e6812d1c731917456ed9b28f692f562190",
+      "sourceTextSha256": "ec1b1050ef0ada31e09c98ada714d2c3aa5f0241711b5f8e06402e00da2fdfa4",
+      "freshTranslation": "건담 샌드록 개",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00058/Sheet1/000005",
+      "sourceBindingSha256": "6f898ff8c0c367f1194b1d1be3b59799c9a3f11633583fb181da517bcf92a57f",
+      "sourceTextSha256": "3190e865fed4fef3d3f49bfa102b5d474831b86189cdad6b2590178571830797",
+      "freshTranslation": "카토르 라바바 위너",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00058/Sheet1/000006",
+      "sourceBindingSha256": "140f726e51b6f913ad399011d872efff1a34c7354e2a6e507e33b64695af1c56",
+      "sourceTextSha256": "0b85fc2c0e8b0d3eea7ce63f88301c26993196940e39072836183000310f694a",
+      "freshTranslation": "카틀이 탑승하는 건담. ㊥대형",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00058/Sheet1/000007",
+      "sourceBindingSha256": "e6dd4858a923417cb7d66dcff1c4a0b902da1b2d802478d3e824da1e9b3d9518",
+      "sourceTextSha256": "b7450d58afa0e4eb30b0902ba93fa015e665efa1402b41a9c1858025cc910432",
+      "freshTranslation": "의 히트쇼텔을 주무장으로 하는 파워와 방어가 뛰어난 기체. ㊥ 머리에는 여러 센서가 탑재되어 있어 뛰어난 정보 수집 능력을 가진다. 이 ㊥ 정보를 바탕으로 전황을 분석하고 정확한 지시를 아군에게 보낸다. ㊥ 장갑강도는 5기의 건담 중에서 최고를 자랑하며 더욱 강화 장갑과 안티빔코㊥팅이 베풀어진 망토를 장비할 수도 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00058/Sheet1/000008",
+      "sourceBindingSha256": "ca953b45211b7a25fe8a36dc8f30eed9f1c07e04c5e7f9bba6942d62ee378906",
+      "sourceTextSha256": "0b85fc2c0e8b0d3eea7ce63f88301c26993196940e39072836183000310f694a",
+      "freshTranslation": "카틀이 탑승하는 건담. ㊥대형",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00058/Sheet1/000009",
+      "sourceBindingSha256": "7e242068bcad275717734867d651887f2371709839444d4b82b63f4fada74692",
+      "sourceTextSha256": "c67b239a42ee88bba29816681716752e16f7916bb614a6d82e844b0a30b92cff",
+      "freshTranslation": "의 히트쇼텔을 주무장으로 하는 파워와 방어가 뛰어난 기체. ㊥ 머리에는 여러 센서가 탑재되어 있어 뛰어난 정보 수집 능력을 가진다. 이 ㊥ 정보를 바탕으로 전황을 분석하고 정확한 지시를 아군에게 보낸다. ㊥ 장갑강도는 5기의 건담 중에서 최고를 자랑하며 더욱 강화 장갑과 안티빔코㊥팅이 베풀어진 망토를 장비할 수도 있다. ㊥ 마리 메이어 군의 진압 후 평화로운 시대에 무기가 필요하지 않기 때문에 카틀 자신의 손으로 ㊥ 폐기되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

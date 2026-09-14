@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00364",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00364/Sheet1/000002",
+      "sourceBindingSha256": "fffa2757198d0a1e0cc63bd23f44298acc1d4e9dc6c759536daaf8b21b3e75da",
+      "sourceTextSha256": "c707c4be341709745f2f8a04b20c19fef5a3740778b1313d5970c9256da86e8f",
+      "freshTranslation": "락셔",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00364/Sheet1/000003",
+      "sourceBindingSha256": "09f7571e37d8c9a65fe881adfc28eb61df274154a07b7a25999787371cb03d65",
+      "sourceTextSha256": "d6c7dbbd5463ffa01a4f9250824612c152e66e1f4aa43ac129df764c91e82484",
+      "freshTranslation": "・챠우러",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00364/Sheet1/000004",
+      "sourceBindingSha256": "fda55f1aadbaa2b351fe4a48ef86a686824e399dd1a8faf8ba9cfb771b8b73d4",
+      "sourceTextSha256": "c707c4be341709745f2f8a04b20c19fef5a3740778b1313d5970c9256da86e8f",
+      "freshTranslation": "락셔",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00364/Sheet1/000005",
+      "sourceBindingSha256": "e17c095cfb9a47da1fb818913f5c8c4fc41b12e17e584c0d2c62c7a7dda2a0bf",
+      "sourceTextSha256": "b40f8de117e644be3d8ab8c76b9b5779575051515b39a54c7b5cfa1a85297d19",
+      "freshTranslation": "코드기어스 반역의 루루슈 R2",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00364/Sheet1/000006",
+      "sourceBindingSha256": "a5a3700ff46095f58f4dcf4ad29da0a9b27185f1d3249112c34d34ab06b3bf39",
+      "sourceTextSha256": "7eafa1e50333f1c9a44ee06d24f7be9f3f5ef046cfb12332c11484ca9aed65b9",
+      "freshTranslation": "중국 연방 인도군 구역 출신의 기술자. 29세. ㊥ 한 번",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00364/Sheet1/000007",
+      "sourceBindingSha256": "74ab50bf5f5756dd7d4d3b5a267dc0eb44def5637ca102d1ce86126dde789660",
+      "sourceTextSha256": "b8d5e22db5dcb0b043a8f7761eb1c6c443318516af1411a81058afe6266ec22f",
+      "freshTranslation": "니어에 유학하고 있던 경험이 있어, 로이드나 세실은 그 무렵의 동배이지만, ㊥ 로이드를 「푸딩 백작」이라고 부르고 싫어한다. 덧붙여 두 사람이 서로 맞물리는 이유는 ㊥세실에서 보면 사소한 일인 것 같다. ㊥ 홍련이식이나 달하 같은 검은 기사단의 KMF를 개발했지만, 블랙 리베리온 후㊥에 디트하르트 등과 함께 중화연방에 잠복. 제로가 부활한 것을 알면 검은 기사단에 ㊥과 합류했다. ㊥ 그 후는 홍련가상식, 참월, 새벽 등을 순차적으로 배치해 초합집국군에서는 과학장관을 맡아 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00364/Sheet1/000008",
+      "sourceBindingSha256": "846e1772d55e9a0bca9be711c3671b9096c8879b2a366398ee96fb54d3492b8b",
+      "sourceTextSha256": "7eafa1e50333f1c9a44ee06d24f7be9f3f5ef046cfb12332c11484ca9aed65b9",
+      "freshTranslation": "중국 연방 인도군 구역 출신의 기술자. 29세. ㊥ 한 번",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00364/Sheet1/000009",
+      "sourceBindingSha256": "677a0dceda18ddd7d7a0a102796aa0a4d7d7932953c0b87fbe76d9869819ee1f",
+      "sourceTextSha256": "b8d5e22db5dcb0b043a8f7761eb1c6c443318516af1411a81058afe6266ec22f",
+      "freshTranslation": "니어에 유학하고 있던 경험이 있어, 로이드나 세실은 그 무렵의 동배이지만, ㊥ 로이드를 「푸딩 백작」이라고 부르고 싫어한다. 덧붙여 두 사람이 서로 맞물리는 이유는 ㊥세실에서 보면 사소한 일인 것 같다. ㊥ 홍련이식이나 달하 같은 검은 기사단의 KMF를 개발했지만, 블랙 리베리온 후㊥에 디트하르트 등과 함께 중화연방에 잠복. 제로가 부활한 것을 알면 검은 기사단에 ㊥과 합류했다. ㊥ 그 후는 홍련가상식, 참월, 새벽 등을 순차적으로 배치해 초합집국군에서는 과학장관을 맡아 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

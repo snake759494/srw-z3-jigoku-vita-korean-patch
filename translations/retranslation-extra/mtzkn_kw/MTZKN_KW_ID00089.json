@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00089",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00089/Sheet1/000002",
+      "sourceBindingSha256": "342872b040948b924c325da830e71f406ec61d649dea42938c8056b078f62197",
+      "sourceTextSha256": "095a87cddb2d3b783e80a8c001dd5108f484f5a32786985e7073f93ba50c5f38",
+      "freshTranslation": "미어 캠벨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00089/Sheet1/000003",
+      "sourceBindingSha256": "407b546248bcf4e3eb994f91b034932d3d140958e3f1af61732bd2ac49ce2ce8",
+      "sourceTextSha256": "46972028b0d87190e9d5bc75048d5bd3819834caf71211a163e3d40415fa49f0",
+      "freshTranslation": "「기동전사 건담 SEEDDESTINY」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00089/Sheet1/000004",
+      "sourceBindingSha256": "8d3a2fa8ad4191f34702dc590d51d64affc696cdbaf53737784d65c9ad1cfcff",
+      "sourceTextSha256": "2dbb27871d22ee91fc080362b5ffd913715338d454a9986eec9fdaff24343c63",
+      "freshTranslation": "공식 장소에서 모습을 지워 버린 럭스 클라인 바꾸는 구슬의 소녀. ㊥ 민중을 끌어들이는 자가 필요하다고 생각한 듀란달에 의해 발견되었다. ㊥ 성형수술을 받은 것으로, 외모나 가성은 진짜와 완전히 같다. ㊥ 자신도 큰 락스팬이라는 일도 있어 평화를 호소하는 모습과 가성은 많은 ㊥자의 마음을 쳤다. ㊥ 후에 자신은 더 이상 사용이 끝난 것이 아닌가 하는 불안정한 정신 상태를 듀란다 ㊥ 르하하신 분들에게 붙여져 진짜를 죽은 자로 하도록 한다. 하지만 ㊥ 럭스의 말로 실수를 깨달았고, 자객이 발한 흉탄에서 몸을 댔고 그녀를 가리고 ㊥ 그 팔 속에서 최후를 맞이했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00089/Sheet1/000005",
+      "sourceBindingSha256": "22ca8fbd8f6c9cf3dd10c51704f6ee5be8d9bf154ddf223bc26ad574adff7740",
+      "sourceTextSha256": "2dbb27871d22ee91fc080362b5ffd913715338d454a9986eec9fdaff24343c63",
+      "freshTranslation": "공식 장소에서 모습을 지워 버린 럭스 클라인 바꾸는 구슬의 소녀. ㊥ 민중을 끌어들이는 자가 필요하다고 생각한 듀란달에 의해 발견되었다. ㊥ 성형수술을 받은 것으로, 외모나 가성은 진짜와 완전히 같다. ㊥ 자신도 큰 락스팬이라는 일도 있어 평화를 호소하는 모습과 가성은 많은 ㊥자의 마음을 쳤다. ㊥ 후에 자신은 더 이상 사용이 끝난 것이 아닌가 하는 불안정한 정신 상태를 듀란다 ㊥ 르하하신 분들에게 붙여져 진짜를 죽은 자로 하도록 한다. 하지만 ㊥ 럭스의 말로 실수를 깨달았고, 자객이 발한 흉탄에서 몸을 댔고 그녀를 가리고 ㊥ 그 팔 속에서 최후를 맞이했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

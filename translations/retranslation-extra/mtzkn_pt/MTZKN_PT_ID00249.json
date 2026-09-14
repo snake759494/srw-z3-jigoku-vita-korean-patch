@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00249",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00249/Sheet1/000002",
+      "sourceBindingSha256": "7112c76ba0b9c5c1f3e248bdc9bea856dccae680ce608bca4b0d26157d034442",
+      "sourceTextSha256": "83a32dbe9033e3d027a4467b3f065eb9e863d8518d5f4917d59a6e10914ca8cf",
+      "freshTranslation": "T본",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00249/Sheet1/000003",
+      "sourceBindingSha256": "348f423e627dc7ff2ae5396d583c1d693da96297dbd444b0f3d180fc64874d91",
+      "sourceTextSha256": "83a32dbe9033e3d027a4467b3f065eb9e863d8518d5f4917d59a6e10914ca8cf",
+      "freshTranslation": "T본",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00249/Sheet1/000004",
+      "sourceBindingSha256": "4d615844ac526b1891acd99130bb4d24d4a9c2342c53b2a5b45475f349672fbd",
+      "sourceTextSha256": "fe82c905a6215168a90a9b27d7eb05a7c47166cb9ec609a131f0bd7583092bde",
+      "freshTranslation": "THE 빅오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00249/Sheet1/000005",
+      "sourceBindingSha256": "54d75a4935831491ca16bf85523bff71ffc0874ab56808577a50f7a192cfedc2",
+      "sourceTextSha256": "db900a3b8583df7b5cf0dfff0f567cb057316f3ad3cfcb5f22b443f413c9d717",
+      "freshTranslation": "소노베 케이이치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00249/Sheet1/000006",
+      "sourceBindingSha256": "fd01b96e892e0684b784eaa53aff9c63b65229a844bfd035bc0678bf776bf64c",
+      "sourceTextSha256": "e9ceca86529183de47951877385c18a36ab5e75b950835122b42afb84d5314e7",
+      "freshTranslation": "벡 부하의 뚱뚱한 남자. ㊥ 대브와 함께 벡을 탈옥시켰다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00249/Sheet1/000007",
+      "sourceBindingSha256": "308c1ebd9e1df889dc19283bd635b53fbdb3686d87be84c3bfc51b7bfd74a906",
+      "sourceTextSha256": "e9ceca86529183de47951877385c18a36ab5e75b950835122b42afb84d5314e7",
+      "freshTranslation": "벡 부하의 뚱뚱한 남자. ㊥ 대브와 함께 벡을 탈옥시켰다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

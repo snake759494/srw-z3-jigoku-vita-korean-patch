@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00015",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00015/Sheet1/000002",
+      "sourceBindingSha256": "42977dc49025cd7e6a473da4d454d21b4a499b324aeba7b6794538e1f72660ca",
+      "sourceTextSha256": "2821f723e708a26125b2215f86a494a31e2eb1a3f45f2c6e857b2cc6d0a13f93",
+      "freshTranslation": "롯신 합체 갓 마즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00015/Sheet1/000003",
+      "sourceBindingSha256": "507ca029b60494b0f69ccc3728bc9a2518f72031b337ca8cd08671d733d9ff51",
+      "sourceTextSha256": "6218056fa5981a59b3feee4ee78a461a023f646b6a163791c01753670680e556",
+      "freshTranslation": "다이달로스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00015/Sheet1/000004",
+      "sourceBindingSha256": "ad8f40c4c54a7b4c16cde99a408d11a7a9a4de898757301b524c91aceba9e291",
+      "sourceTextSha256": "6218056fa5981a59b3feee4ee78a461a023f646b6a163791c01753670680e556",
+      "freshTranslation": "다이달로스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00015/Sheet1/000005",
+      "sourceBindingSha256": "4bd6cc10c31df6cea4e3d91c94825739db5d07fb7c12227e921230fca8c5034d",
+      "sourceTextSha256": "eabc81683ce49dea4f9c050ae97d9a70fa8dd0c9764d9237a4ec8ddcab6f427a",
+      "freshTranslation": "제51화 『줄 나타난다! 』에 등장한 전투 메카. ㊥ 악마 반지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00015/Sheet1/000006",
+      "sourceBindingSha256": "d44be136e2ae76c85378ebafc9886017eaf00659b98b3baa261c577aeaeb1aea",
+      "sourceTextSha256": "4e5c85ecdcc76c7d57d37408a428fc70090e785e5a2c14f6d1d946e46b7da1d7",
+      "freshTranslation": "켈 앞에 나타났다. ㊥ 두 개의 뱀 같은 머리가 특징적이지만, 이런 무장은 가지지 않고, 돌진에 의한 공격㊥을 행한다. ㊥ 마즈플래시를 받더라도 쇠약한 돌진력을 보였지만 카운",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00015/Sheet1/000007",
+      "sourceBindingSha256": "229ab00c0bc40616c7d55bf82181cc520169cc2876a3d3d2ab7e5912bc7da719",
+      "sourceTextSha256": "7bf206636b9859c0dab1bfed866b52c43f4e0f3e8c916fca443e808abbb3baee",
+      "freshTranslation": "파이널 ㊥ 갓 마즈에 의해 쓰러졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00015/Sheet1/000008",
+      "sourceBindingSha256": "de8f8fb398f061e2221529ba4e35b51e668d97e813c652a97c7cfc6ca3c14712",
+      "sourceTextSha256": "eabc81683ce49dea4f9c050ae97d9a70fa8dd0c9764d9237a4ec8ddcab6f427a",
+      "freshTranslation": "제51화 『줄 나타난다! 』에 등장한 전투 메카. ㊥ 악마 반지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00015/Sheet1/000009",
+      "sourceBindingSha256": "5dcdf32133846492cb3fe8f1105d7c0eed009b6f42b0b06152e8bbad271a970d",
+      "sourceTextSha256": "4e5c85ecdcc76c7d57d37408a428fc70090e785e5a2c14f6d1d946e46b7da1d7",
+      "freshTranslation": "켈 앞에 나타났다. ㊥ 두 개의 뱀 같은 머리가 특징적이지만, 이런 무장은 가지지 않고, 돌진에 의한 공격㊥을 행한다. ㊥ 마즈플래시를 받더라도 쇠약한 돌진력을 보였지만 카운",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00015/Sheet1/000010",
+      "sourceBindingSha256": "dac50bf6eba44f26a3b20ffee85f2736c1eae7522095ee5b28bcd9ee2a745c92",
+      "sourceTextSha256": "7bf206636b9859c0dab1bfed866b52c43f4e0f3e8c916fca443e808abbb3baee",
+      "freshTranslation": "파이널 ㊥ 갓 마즈에 의해 쓰러졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

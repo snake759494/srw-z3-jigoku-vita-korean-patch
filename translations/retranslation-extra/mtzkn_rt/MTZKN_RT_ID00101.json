@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00101",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00101/Sheet1/000002",
+      "sourceBindingSha256": "cb1115749d8930e847f2f204d72047e85fcebbb29b458afb4bce79712ed1af99",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00101/Sheet1/000003",
+      "sourceBindingSha256": "036d90ee6da39bbc486721d769bf187546423266bd37ccd1871dae30eab3d87d",
+      "sourceTextSha256": "1b51d3445f582a1f7c235b6126e2dcc13cbd06dd58d2c76eaeb207a7164333bf",
+      "freshTranslation": "갈란셰일",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00101/Sheet1/000004",
+      "sourceBindingSha256": "683d494f6809ffd67bb4182f6ceccbe44bcce08f5717b2f18174c2791614c465",
+      "sourceTextSha256": "1b51d3445f582a1f7c235b6126e2dcc13cbd06dd58d2c76eaeb207a7164333bf",
+      "freshTranslation": "갈란셰일",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00101/Sheet1/000005",
+      "sourceBindingSha256": "d83ef4026c4e48086c0399e17d58c37af5cafc7d38180209a1573fce7abe32b2",
+      "sourceTextSha256": "724bec17a5cc35b434d73e7da561053dc73469c55589dd197951dd83acd255c6",
+      "freshTranslation": "수베로아 진네만",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00101/Sheet1/000006",
+      "sourceBindingSha256": "05590e6138ea25a3803b60efde8e6919a4e3a3aff0e5a39647a1c63d1a0d47b1",
+      "sourceTextSha256": "253464b1cf995087f0a85df961bfd39122d195cdb806a04e3516f41bf17b20ea",
+      "freshTranslation": "민간 화물선으로 위장 된 소매",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00101/Sheet1/000007",
+      "sourceBindingSha256": "d4e00c7b53f672972f4021d99d6a4998ac051c9b24bd9d83199ff3c192173ccb",
+      "sourceTextSha256": "9758f021caa60ceaa6983293b371b790430cb9541cb461a76c59f4f8f5a328d0",
+      "freshTranslation": "사용할 우주 화물선. ㊥모빌슈트를 4대까지 탑재 가능하며 대기권 돌입능력, 중력하에서의 비행능력을 가지고 ㊥ 하고 있다. ㊥ 본래는 왕환 운송편으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00101/Sheet1/000008",
+      "sourceBindingSha256": "0ed9270c0cb80c60816f6736610dbabb858b7bffa03c11ca55ea914ed99a3c0c",
+      "sourceTextSha256": "80649ae4986391af4915fb21dd91907bef72892a8241631c7b781b7622a410a6",
+      "freshTranslation": "사용되고 있는 배 때문에, 무장은 베풀어지지 않고, 파편 ㊥파괴용의 로켓이 장비 되어 있는 정도이다. ㊥ 선체에는 '리버코나화물'과 위장용 페인트가 되어 있다. ㊥ '라플라스의 상자' 수령의 목숨을 받고 인더스트리얼 7에 기항했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00101/Sheet1/000009",
+      "sourceBindingSha256": "4695196f64a8b90b069b87b3cf4505b0a4540ec283bce9b990b69b9066dc93f8",
+      "sourceTextSha256": "253464b1cf995087f0a85df961bfd39122d195cdb806a04e3516f41bf17b20ea",
+      "freshTranslation": "민간 화물선으로 위장 된 소매",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00101/Sheet1/000010",
+      "sourceBindingSha256": "7bf00b81caa2b116cefc5677ad04b899f0d41dc5f64935b6c7ee8c7ac60fce1c",
+      "sourceTextSha256": "9758f021caa60ceaa6983293b371b790430cb9541cb461a76c59f4f8f5a328d0",
+      "freshTranslation": "사용할 우주 화물선. ㊥모빌슈트를 4대까지 탑재 가능하며 대기권 돌입능력, 중력하에서의 비행능력을 가지고 ㊥ 하고 있다. ㊥ 본래는 왕환 운송편으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00101/Sheet1/000011",
+      "sourceBindingSha256": "6c0d42e9af276eee90a7840347bd831761087a22576b39a25672c2eddb71e93e",
+      "sourceTextSha256": "6eb5d0c2baa709543a6e1f073cfdf55b0bee3dff4aa4599fd0740f1e698551b3",
+      "freshTranslation": "사용되고 있는 배 때문에 무장은 베풀어지지 않고, 파편 ㊥파괴용 로켓이 장비되어 있는 정도이지만, 나중에 1년 전쟁 말기에 개발된 스㊥키우레포를 장비했다. ㊥ 선체에는 '리버코나화물'과 위장용 페인트가 되어 있다. ㊥ '라플라스의 상자' 수령의 목숨을 받고 인더스트리얼 7에 기항했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

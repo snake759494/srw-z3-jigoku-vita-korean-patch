@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00093",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00093/Sheet1/000002",
+      "sourceBindingSha256": "ddc0b3cb85da40b08f27c66f92ae015452d943dff4dcdf7ed51ecd365132d22e",
+      "sourceTextSha256": "84630911107fb2dc9f7e200ebe982c15a18ed300a65ad3204df847ddb7216db6",
+      "freshTranslation": "신제국 임페륨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00093/Sheet1/000003",
+      "sourceBindingSha256": "3d7b830f29d990eb367346b99a6bd398c3af9b1ef557251be8892714cb8faa2c",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00093/Sheet1/000004",
+      "sourceBindingSha256": "426da3f9e1a55dc194fd0e1d777fbf1d1d51b88eb966a4f2b97655716b75c327",
+      "sourceTextSha256": "e6341ca35c357af3a20818ed278a47ae6d967205bf0875151744099db26454db",
+      "freshTranslation": "파계 사변의 중심이 된 조직. ㊥ 리모네시아에 발생했을 때 공진동 '카라미티 버스'에 의해 출현한 파㊥계의 왕 가이오를 통치자에게 전세계에 대해 선전 포고를 했다. ㊥ 주요 멤버로서 참모의 아임 라이어드, 필두 정무관 시오니 레 ㊥ 지스, 스폰서 카를로스 액시온 Jr. 를 들 수 있다. ㊥차원 짐승을 주전력으로 전세계를 혼란에 두드렸지만, 파계의 왕 가이오가 쓰러져 ㊥되어 조직은 괴멸했다. ㊥ 그 무질서한 위협은 지구 연방 탄생의 계기가 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00093/Sheet1/000005",
+      "sourceBindingSha256": "b48111adad99e939cbd14648d7cb2c6052b0ef68c545bb385ab9cc0148f5c829",
+      "sourceTextSha256": "e6341ca35c357af3a20818ed278a47ae6d967205bf0875151744099db26454db",
+      "freshTranslation": "파계 사변의 중심이 된 조직. ㊥ 리모네시아에 발생했을 때 공진동 '카라미티 버스'에 의해 출현한 파㊥계의 왕 가이오를 통치자에게 전세계에 대해 선전 포고를 했다. ㊥ 주요 멤버로서 참모의 아임 라이어드, 필두 정무관 시오니 레 ㊥ 지스, 스폰서 카를로스 액시온 Jr. 를 들 수 있다. ㊥차원 짐승을 주전력으로 전세계를 혼란에 두드렸지만, 파계의 왕 가이오가 쓰러져 ㊥되어 조직은 괴멸했다. ㊥ 그 무질서한 위협은 지구 연방 탄생의 계기가 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

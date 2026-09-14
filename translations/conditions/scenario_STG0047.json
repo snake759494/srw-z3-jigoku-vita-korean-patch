@@ -1,0 +1,62 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0047",
+    "fileName": "STG0047.cpk",
+    "target": "DATA/STAGE/STG0047.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "6a83e15d9ea5bb9c9124c7ff2b7df4318acd2b189fc84aa40624831cde96879c"
+  },
+  "entries": [
+    {
+      "entryId": "STG0047/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "플랜1056 코다르i의 격추",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0047/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0047/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "적 유닛의 진다이 고교 침입",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0047/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "4턴 이내에 다른 적을 전멸시키고,\n추가로 플랜1056 코다르i를 격추시킨다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

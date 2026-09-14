@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00013",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00013/Sheet1/000002",
+      "sourceBindingSha256": "02a5ec4c69acb26c066bf69fb045511b36ac55e07611f8d1509efb3b7f070dad",
+      "sourceTextSha256": "efc1221f0d71fc728fd28e9c53cd232e1cfafe47208bbeaf48813f5993111d26",
+      "freshTranslation": "철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00013/Sheet1/000003",
+      "sourceBindingSha256": "71cbe5411128ca3d45040b2742537c92abb62ae6e7be3c06f499e52c53a0c31f",
+      "sourceTextSha256": "265dee9e59fc7817052f88ab0b62dc22316bb89f256e67b1ae5d0fa6d0eb9ae4",
+      "freshTranslation": "철인",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00013/Sheet1/000004",
+      "sourceBindingSha256": "25430315806df1b4b1e9a982ea4a35ff95924b34699e5f39efc803213fd5ed32",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00013/Sheet1/000005",
+      "sourceBindingSha256": "ba1cb4fcad90d6f0f325ae1a237c398a05d732c656e70f8cc5d6b4ce8c5e0afa",
+      "sourceTextSha256": "b81280974f4346b380093e43d8854189ac8348a65681ed98dcb8c2e6619570cc",
+      "freshTranslation": "가네다 박사가 고안·설계해, 키시마 박사가 완성시킨 로봇. ㊥ 마사타로가 가진 비전 컨트롤러, 통칭 V콘에서 발신되는 레인보우㊥ 에이브로 조작된다. ㊥ 태양광만 있으면 무한하다고 할 수 있는 활동 시간을 얻는 태양 에너지 증폭 시스템, 신체 ㊥체의 일부가 파괴되어도 행동을 계속하는 것이 가능한 독립 연동 시스템을 갖추고 있다. ㊥ 한층 더 최고 속도 마하 4.02의 비행 능력, 수중을 40 노트의 스피드로 이동하는 ㊥ 항행 능력, 시속 300 km의 주행 능력을 자랑 , 레이더 장치를 내장한 센서 ㊥ 라이트로 어둠 속에서의 활동에도 대응할 수 있는 등, 우주를 포함한 모든 장소에서의 활동을 가능하게 ㊥ 하고 있다. ㊥ 평화의 사자라는 가네다 박사의 이념을 펌핑, 특정 무기는 장비하고 있지 않았지만, ㊥ 초합금제의 굴강한 바디로부터 꺼내지는 해머 펀치나 플라잉 킥등의 기술 ㊥은, 모두 필살의 일 ㊥ 높은 성능을 자랑하지만, 유일한 단점은 좋거나 나쁜 것도 리모콘에 달려있는 것. 악인에게 V코㊥을 빼앗겼을 때에는, 그 조작 그대로 파괴 활동을 해 버린 적도 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00013/Sheet1/000006",
+      "sourceBindingSha256": "32e0a6472552c4af6c61de466c4a55376ff19eb15b3d92ff01c9ceb2f951d39e",
+      "sourceTextSha256": "511cedaf26b0d5ced714e6dec061cb20e1300163931bacada38329d18844a58d",
+      "freshTranslation": "가네다 박사가 고안·설계해, 키시마 박사가 완성시킨 로봇. ㊥ 마사타로가 가진 비전 컨트롤러, 통칭 V콘에서 발신되는 레인보우㊥ 에이브로 조작된다. ㊥ 태양광만 있으면 무한하다고 할 수 있는 활동 시간을 얻는 태양 에너지 증폭 시스템, 신체 ㊥체의 일부가 파괴되어도 행동을 계속하는 것이 가능한 독립 연동 시스템을 갖추고 있다. ㊥ 한층 더 최고 속도 마하 4.02의 비행 능력, 수중을 40 노트의 스피드로 이동하는 ㊥ 항행 능력, 시속 300 km의 주행 능력을 자랑 , 레이더 장치를 내장한 센서 ㊥ 라이트로 어둠 속에서의 활동에도 대응할 수 있는 등, 우주를 포함한 모든 장소에서의 활동을 가능하게 ㊥ 하고 있다. ㊥ 평화의 사자라는 가네다 박사의 이념을 펌핑, 특정 무기는 장비하고 있지 않았지만, ㊥ 초합금제의 굴강한 바디로부터 꺼내지는 해머 펀치나 플라잉 킥등의 기술 ㊥은, 모두 필살의 일 ㊥ 높은 성능을 자랑하지만, 유일한 단점은 좋거나 나쁜 것도 리모콘에 달려있는 것. 악인에게 V코㊥을 빼앗겼을 때에는, 그 조작 그대로 파괴 활동을 해 버린 적도 있었다. ㊥ 최종 결전 시에는 태양 에너지를 전개방하는 것으로 자신의 몸과 교환에 우주마㊥왕을 쓰러뜨린다. 슬픔에 사는 쇼타로였지만, 잠시 후 V콘에 반응이 돌아와 무㊥ 일로 귀환했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

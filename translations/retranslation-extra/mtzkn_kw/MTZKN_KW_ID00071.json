@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00071",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00071/Sheet1/000002",
+      "sourceBindingSha256": "37138b436b3c1f79f69566c580a61cf71110f6d691967969c94b0a0155605a29",
+      "sourceTextSha256": "00c3cbf4c1fa840433f934400fe630426ff59429734dff11e4e9b153142371e1",
+      "freshTranslation": "「장갑 기병 보텀스」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00071/Sheet1/000003",
+      "sourceBindingSha256": "733284995fc0efc1f33310a0ec537f41c71ee2837b3f5331cb36ad6422b9ed2a",
+      "sourceTextSha256": "ce3674038d1e82e469b82e85e987a2225f268e43d242dd44948b814483319a13",
+      "freshTranslation": "인공적인 수단으로 강화된 군인. ㊥ 퍼펙트 솔저라고도 불린다. ㊥ 기억을 비운 상태에서 상인을 넘은 신체 능력과 반사 신경",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00071/Sheet1/000004",
+      "sourceBindingSha256": "09f65ba695d6d437d86037f77554028db4589dac272b6694df779e9fa805bc1e",
+      "sourceTextSha256": "a018b50ae6475433604c4daa30a8717fd4677179c05bcb73f6874c09e7ece3c3",
+      "freshTranslation": "된다. 그㊥의 전투 능력은 엄청나고, 역전의 AT 파일럿도 훨씬 능가하지만, 정신㊥일반적으로 불안정한 부분이 많다.㊥또한, 높은 능력의 대가로, 정기적으로 오리움 샤워를하지 마십시오.㊥육체를 유지할 수 없다고 여겨진다.㊥길가메스, 발라란트, 심지어 비밀 결사 각각에서 연구되고 있으며,㊥밸러런트의 PS는 기계적인 수단으로 강화가 행해지고 있는 것이 특징이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00071/Sheet1/000005",
+      "sourceBindingSha256": "783871e6ec4e0e2dfbe46ad0f26db66d290f3b560a6c30fdeeed0838d2046967",
+      "sourceTextSha256": "ce3674038d1e82e469b82e85e987a2225f268e43d242dd44948b814483319a13",
+      "freshTranslation": "인공적인 수단으로 강화된 군인. ㊥ 퍼펙트 솔저라고도 불린다. ㊥ 기억을 비운 상태에서 상인을 넘은 신체 능력과 반사 신경",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00071/Sheet1/000006",
+      "sourceBindingSha256": "849a3e411d4fbb684afb58efc7388ebe677aca570d264d38f5e65f47a3a46725",
+      "sourceTextSha256": "a018b50ae6475433604c4daa30a8717fd4677179c05bcb73f6874c09e7ece3c3",
+      "freshTranslation": "된다. 그㊥의 전투 능력은 엄청나고, 역전의 AT 파일럿도 훨씬 능가하지만, 정신㊥일반적으로 불안정한 부분이 많다.㊥또한, 높은 능력의 대가로, 정기적으로 오리움 샤워를하지 마십시오.㊥육체를 유지할 수 없다고 여겨진다.㊥길가메스, 발라란트, 심지어 비밀 결사 각각에서 연구되고 있으며,㊥밸러런트의 PS는 기계적인 수단으로 강화가 행해지고 있는 것이 특징이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

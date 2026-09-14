@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00168",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00168/Sheet1/000002",
+      "sourceBindingSha256": "51f90c26a012d4df50106c339b006de6958a5cef4f71d43ded04b1e614ac79d0",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00168/Sheet1/000003",
+      "sourceBindingSha256": "01a2ac013c82ed82bdf0436afa87bd74b79afdf72e6d7a7e6952ac599c7f41ac",
+      "sourceTextSha256": "464e02ab10ce9196ebaac368755edd8fd8b2ced2f11ecd677cf943b065af3747",
+      "freshTranslation": "플레임워크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00168/Sheet1/000004",
+      "sourceBindingSha256": "f1924ea2579ed42c5ff58de3b666381c96b855b085dcbb781489b7fe50e9edfd",
+      "sourceTextSha256": "bfdb0bbeb28dd51b821eab0587204a09d837024a7860818adb1a6ccafa757652",
+      "freshTranslation": "헤테로다인 컴퍼게스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00168/Sheet1/000005",
+      "sourceBindingSha256": "3ca3bed4d6cd537f7fae786eadd5057791165a12ceb58f740845bea5141bc30f",
+      "sourceTextSha256": "e64b97445227b753087a5243952c3bbabd0a8914f91ce464b1da7b36392b92a3",
+      "freshTranslation": "제13화 “용서받는 자 용서받지 못하는 자”에 등장한 키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00168/Sheet1/000006",
+      "sourceBindingSha256": "a46f4d81da4ef94f840ee24bac84dce8f32908a774c975e15b3a9cad85d5d44b",
+      "sourceTextSha256": "8fe44c882d4b4445802e1cb1cb73437ee6acb404ddb6169f1d6297f6ea3fbd64",
+      "freshTranslation": "헤테로 다인. 학명은 「헤㊥테로다인 컴퍼게스」. 표기의 중량은, 어디까지나 추정의 수치. ㊥ 그 외곽의 80%는 탄소( 나머지는 제4주기의 천이 원소)로 구성되어 있으며, 고속으로 ㊥ 진동하는 촉수를 공방에 사용한다. ㊥ 아오키가하라에 출현해, 면자를 걸어 자력으로 헤테로다인 격파를 획책하는 안보군을 농락. ㊥ 최후는 다이 가드와 대결하고 매듭 파니셔에 프랙",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00168/Sheet1/000007",
+      "sourceBindingSha256": "1a491ea233d6282eda2fc21c407d5c55fb3c730073633cfa355fef3d56069353",
+      "sourceTextSha256": "e32ef60e462ae8e7132db32a7d56f1f3952a82358c90fb9d6b15c51a6dfd2e48",
+      "freshTranslation": "르노트를 관통하여 ㊥ 하고 소멸했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00168/Sheet1/000008",
+      "sourceBindingSha256": "363db422c623e82ada68098025d2aa8de7ba174f3dfbb00b5c448b81828fb7e5",
+      "sourceTextSha256": "e64b97445227b753087a5243952c3bbabd0a8914f91ce464b1da7b36392b92a3",
+      "freshTranslation": "제13화 “용서받는 자 용서받지 못하는 자”에 등장한 키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00168/Sheet1/000009",
+      "sourceBindingSha256": "74a29c4e664d408d69f9e802de0c7100a526463c8c8a9374de85174a21c3d1dd",
+      "sourceTextSha256": "8fe44c882d4b4445802e1cb1cb73437ee6acb404ddb6169f1d6297f6ea3fbd64",
+      "freshTranslation": "헤테로 다인. 학명은 「헤㊥테로다인 컴퍼게스」. 표기의 중량은, 어디까지나 추정의 수치. ㊥ 그 외곽의 80%는 탄소( 나머지는 제4주기의 천이 원소)로 구성되어 있으며, 고속으로 ㊥ 진동하는 촉수를 공방에 사용한다. ㊥ 아오키가하라에 출현해, 면자를 걸어 자력으로 헤테로다인 격파를 획책하는 안보군을 농락. ㊥ 최후는 다이 가드와 대결하고 매듭 파니셔에 프랙",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00168/Sheet1/000010",
+      "sourceBindingSha256": "e9ee38376f7450a68de2a62530b0dff197571a9b621afc3bd3b6559742238704",
+      "sourceTextSha256": "e32ef60e462ae8e7132db32a7d56f1f3952a82358c90fb9d6b15c51a6dfd2e48",
+      "freshTranslation": "르노트를 관통하여 ㊥ 하고 소멸했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00137",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00137/Sheet1/000002",
+      "sourceBindingSha256": "3cce1563182148167e71e434197197687bee7d8d80edc85d3fea15bdfc16fcf7",
+      "sourceTextSha256": "0ff71461459c4d262be614edbc790a3832b9be68274fa5104e746b829f3354c2",
+      "freshTranslation": "다그자 맥쿨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00137/Sheet1/000003",
+      "sourceBindingSha256": "5788ed52e6df6da1c37926c166ad7dbf8499a807b93d8ce8178170b1bc896fd9",
+      "sourceTextSha256": "bf274d5344e7728be19e7e1df5d4aae386be250f1189ae8b86761e619687e03e",
+      "freshTranslation": "다그자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00137/Sheet1/000004",
+      "sourceBindingSha256": "9170a9f61954b5d90fc4ad18dd4a84e30dc2d36d806fd54ca591a63c70f4024a",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00137/Sheet1/000005",
+      "sourceBindingSha256": "cb3f40dcd71fef3b347cd307bc0a098b4be889dde6e94357fb590ff1271961c8",
+      "sourceTextSha256": "ef931eb21f6b9c045095ee87e270bdbe104de32272b32235975b4508c4cb8ed0",
+      "freshTranslation": "동지 히로키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00137/Sheet1/000006",
+      "sourceBindingSha256": "af1550f9666880324ef80a097c3e1678c2b6343d67f0999c341a3f4ee9204281",
+      "sourceTextSha256": "47b768625a24120376c62501296a45188b6aad077c1c10ef5ba00b98de812b2b",
+      "freshTranslation": "에코즈 920 부대의 사령. 계급은 중령. 38세. ㊥ 특수부대의 대장으로서 가혹하고 비인간적인 임무도 담담하게 해낸다. 임무를 위해서는 손㊥단을 가리지 않는 행동을 취하는 일도 그만두지 않지만, 냉철한 인간이라는 것은 아니고, 양심의 아오이㊥책임을 느껴도 표에 나오지 않는 직업군인이다. ㊥모빌슈트에 탑승한 직접적인 전투는 그다지 하지 않지만, 신속한 지휘에 의한 ㊥인더스트리얼 7의 제압, 단함에서의 팔라우 공략에 있어서의 작전 제안 등, 연도 부족한 ㊥ 승무원이 많은 네엘 아가마에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00137/Sheet1/000007",
+      "sourceBindingSha256": "3ce3d4c1b35fb4da8eab3324899169e14267258ac5e88ee00c5d32e6c076504a",
+      "sourceTextSha256": "a11f3bdd3330a9d6a4c3007f97877f508d3f0f84d481f9f75a82a58854db6ac2",
+      "freshTranslation": "에코즈 920 부대의 사령. 계급은 중령. 38세. ㊥ 특수부대의 대장으로서 가혹하고 비인간적인 임무도 담담하게 해낸다. 임무를 위해서는 손㊥단을 가리지 않는 행동을 취하는 일도 그만두지 않지만, 냉철한 인간이라는 것은 아니고, 양심의 아오이㊥책임을 느껴도 표에 나오지 않는 직업군인이다. ㊥모빌슈트에 탑승한 직접적인 전투는 그다지 하지 않지만, 신속한 지휘에 의한 ㊥인더스트리얼 7의 제압, 단함에서의 팔라우 공략에 있어서의 작전 제안 등, 연도 부족한 ㊥ 승무원이 많은 네엘 아가마에서 ㊥ 오드리의 정체를 재빨리 파악하고 위기를 벗기기 위해 프론",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00137/Sheet1/000008",
+      "sourceBindingSha256": "b05bfa9f3b3d15133d318e9127ec7b3a74dc557688239148f6d89c8e4e229423",
+      "sourceTextSha256": "0bceaf8be2b01edbf50e234e51e27a2217ef894c1fbf2c05964a402f4d2ce7ec",
+      "freshTranslation": "르습격시 인질㊥로 했다. ㊥ 라플라스의 잔해 전투에서 NT-D 시스템을 발동시키는 것에 무서워하는 배너㊥지에 마음의 소중함을 설득하고, 시난주의 틈을 만들기 위해 노멀 슈트로 전투를 하고, ㊥전사한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

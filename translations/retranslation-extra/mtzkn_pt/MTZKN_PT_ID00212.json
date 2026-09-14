@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00212",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00212/Sheet1/000002",
+      "sourceBindingSha256": "b5e031d7b66275be5605e811ee6606b2f2c0660b9a59dd48eb2bdcdf1abc817c",
+      "sourceTextSha256": "0d4b68789a75f04ec400596596bebfaa6360ea977922d481ac82601e021c7548",
+      "freshTranslation": "암흑사 암타로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00212/Sheet1/000003",
+      "sourceBindingSha256": "9d0c132b26478ec57a4e9f63cd47cc8104ef6903e649e60f29905f6265959b44",
+      "sourceTextSha256": "daa8cfe9beaad03f5f47c6250e5f3d11c0c1e1e8ce8c17995f0b7f8b78245060",
+      "freshTranslation": "암흑사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00212/Sheet1/000004",
+      "sourceBindingSha256": "9a53a6bc79675377140ad2833c87438d438fffaeebe0f8dff7edf140de166a6a",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00212/Sheet1/000005",
+      "sourceBindingSha256": "d507035a521af0910560b16fc15623b22720be3c9726aed4289715feb5f557c8",
+      "sourceTextSha256": "bdc7ab209f0b0ebe6da732590259c7f9cdefb5a1f2965abc7db188aafbf020d6",
+      "freshTranslation": "아타미 경찰서에 근무하는 불량 형사. ㊥ 도쿠조의 신변 경호의 목숨을 받고 구로가네야 주변에서 빈발하는 사건을 조사하고 있었다. 그 ㊥ 때, 아슈라가 이끄는 기계 짐승과 마징가 Z의 싸움에 휘말려, 이후도 무언가와 갑아들 ㊥과 행동을 함께하고 있었다. ㊥ 기본적으로 언동이 가볍고 컨디션. 게다가 상당한 여자를 좋아해서, 입욕 중인 가미아 Q를 시㊥로, 안과 함께 들여다본 적도 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00212/Sheet1/000006",
+      "sourceBindingSha256": "ce9ba098a5339c8d52662e8364e943953315a1c4456552d82de6e183f7a5e206",
+      "sourceTextSha256": "81a0c9bf113b7150ed729f24aff371eaa5eb3fb3a5af47bef422132eb0687ac8",
+      "freshTranslation": "아타미 경찰서에 근무하는 불량 형사. ㊥ 도쿠조의 신변 경호의 목숨을 받고 구로가네야 주변에서 빈발하는 사건을 조사하고 있었다. 그 ㊥ 때, 아슈라가 이끄는 기계 짐승과 마징가 Z의 싸움에 휘말려, 이후도 무언가와 갑아들 ㊥과 행동을 함께하고 있었다. ㊥ 기본적으로 언동이 가볍고 컨디션. 게다가 상당한 여자를 좋아해서, 입욕 중인 가미아 Q를 시㊥로, 안과 함께 들여다본 적도 있다. ㊥ 최종 결전에서는 누군가의 생명으로 움직이고 광자력 연구소의 핀치를 구하지만 Dr. 헬㊥이 두려워했던 최악의 사태를 막을 수는 없었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

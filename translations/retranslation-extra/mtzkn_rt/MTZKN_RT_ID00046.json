@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00046",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00046/Sheet1/000002",
+      "sourceBindingSha256": "8f8127f7df9c175da16e3b6af9a7f3578e6cebbaaf5f88c1663384ff32262663",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00046/Sheet1/000003",
+      "sourceBindingSha256": "82c8d0cfea1f0558d3b2ea3790d0b67570ded66fbd3d79f2172a4acee0dccbbf",
+      "sourceTextSha256": "372bf30d5ba4963d25b14212f682aeee0f95cf4a042d2e250f5e5a497dc6c579",
+      "freshTranslation": "기라 도가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00046/Sheet1/000004",
+      "sourceBindingSha256": "fc3627f01aa7974cdddead8aaa7739513e457f4ff05fca8ce4de7bf9eaf7426a",
+      "sourceTextSha256": "372bf30d5ba4963d25b14212f682aeee0f95cf4a042d2e250f5e5a497dc6c579",
+      "freshTranslation": "기라 도가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00046/Sheet1/000005",
+      "sourceBindingSha256": "f99f51f9ce4809b7bfbd073912e090dca27bc5c58dcc50a46eb6dc223e08a2aa",
+      "sourceTextSha256": "7eaa2309053ff1a6c539bd338f92fd75bdf485cf0a3d5dfd0dfd50bdd24b6840",
+      "freshTranslation": "레슨 슈나이더",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00046/Sheet1/000006",
+      "sourceBindingSha256": "266111829b35b6869da447984752473740b0cbd2c87b8735249beb90c247b4e8",
+      "sourceTextSha256": "9f94a724873cd281d15eeca96715f76a9d6d5d1fa80ed6bc4a4392e12b47fe26",
+      "freshTranslation": "네오지온군의 양산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00046/Sheet1/000007",
+      "sourceBindingSha256": "12cde3ac85eb0fb7f255d03c289f88da7cfde8d794f91cf241ff8378610216a5",
+      "sourceTextSha256": "d947471fc5d3632081afea44a678081c7af5dc9561bed981090fb5fa5c79fb8e",
+      "freshTranslation": "모바일 슈트. ㊥ 소대장기로서 지온 전통의 머리장식이 장비되어 있다. ㊥레즌의 전용기로서 블루의 컬러링을 베풀어지고 있지만, 성능적으로는 일반병㊥사용의 기체와 대차는 없고, 무장도 공통되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00046/Sheet1/000008",
+      "sourceBindingSha256": "828d9dc40b9960882cc544c5762f24410f52aecd1ed5105c45c2a81f9a737d6e",
+      "sourceTextSha256": "9f94a724873cd281d15eeca96715f76a9d6d5d1fa80ed6bc4a4392e12b47fe26",
+      "freshTranslation": "네오지온군의 양산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00046/Sheet1/000009",
+      "sourceBindingSha256": "0fc2eb7ac10d3225efb8dc813345080858e81959507f72bdb7731a9c5c85c108",
+      "sourceTextSha256": "d947471fc5d3632081afea44a678081c7af5dc9561bed981090fb5fa5c79fb8e",
+      "freshTranslation": "모바일 슈트. ㊥ 소대장기로서 지온 전통의 머리장식이 장비되어 있다. ㊥레즌의 전용기로서 블루의 컬러링을 베풀어지고 있지만, 성능적으로는 일반병㊥사용의 기체와 대차는 없고, 무장도 공통되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

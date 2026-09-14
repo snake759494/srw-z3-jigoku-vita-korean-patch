@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00151",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00151/Sheet1/000002",
+      "sourceBindingSha256": "b315a7a27e0c5f4d45c4db147364bad0e191a4c52f69f2ab80340e750a7fab3f",
+      "sourceTextSha256": "73b311745e47e86141221fb2bfaf5ef62e195266a65dd3a111fb6df396f033f9",
+      "freshTranslation": "로니 가베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00151/Sheet1/000003",
+      "sourceBindingSha256": "f0215285911a5bdd0a879d5097bdac81cc2223f7e6208ef13a0c2fefb537984e",
+      "sourceTextSha256": "ce5dc0a98cbf4d7fd285c3069ce606c03a81c3c6490c39467bc4d0815df1b59d",
+      "freshTranslation": "로니",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00151/Sheet1/000004",
+      "sourceBindingSha256": "f9f3191f75db3f58725b5879de82b5be3e3128b5bb06d0a3265f1478f79f6c3f",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00151/Sheet1/000005",
+      "sourceBindingSha256": "640ea973df54d44c540f908021546bf7972bf77f1caefbc73b08aa91006a42cc",
+      "sourceTextSha256": "3c96e1876e2d0de40f0fbf0270e8ad12e25832c50563b811962679cfdf4bf832",
+      "freshTranslation": "이세 마리야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00151/Sheet1/000006",
+      "sourceBindingSha256": "38cecac350e3d206ad4d74745fa1b90cb034e8ee62aa5baa261453af2fc7c93e",
+      "sourceTextSha256": "2cab885b6a2826cd07de54c13547aafbbd54c0e654e7dc32f436290efec6e11e",
+      "freshTranslation": "지온 잔당군 조종사. 18세. 계급은 소위. ㊥ 잔당군을 정리한 전 지온 군인 마하디 가베이의 딸. ㊥ 불우한 가운데 죽은 아버지의 원한을 맑게 하기 위해 거대한 모빌 아머 샴브로를 달려 ㊥로 싸운다. ㊥ 평소에는 상냥한 여성이지만, 전투시에는 혈기 왕성해진다. 지구 연방에 대한 복수를 제일로 ㊥ 하고 있어, 그러므로 감정적인 행동에 나와, 앞으로 달리는 일도 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00151/Sheet1/000007",
+      "sourceBindingSha256": "81cfbc88b1b9aeb2596502af271c3dbba4b35d026fbd4a4c1e0d6c5b1acbc30c",
+      "sourceTextSha256": "e05fb291ab77bcce36d3faef9f8cc7e0f6e8061e15a7876aa7919f973bbd71a0",
+      "freshTranslation": "지온 잔당군 조종사. 18세. 계급은 소위. ㊥ 잔당군을 정리한 전 지온 군인 마하디 가베이의 딸. ㊥ 불우한 가운데 죽은 아버지의 원한을 맑게 하기 위해 거대한 모빌 아머 샴브로를 달려 ㊥로 싸운다. ㊥ 평소에는 상냥한 여성이지만, 전투시에는 혈기 왕성해진다. 지구 연방에 대한 복수를 제일로 ㊥ 하고 있어, 그러므로 감정적인 행동에 나와, 앞으로 달리는 일도 있다. ㊥ 트링턴 기지에서는, 너무 강한 원념으로 받아들여져, 사이코뮤의 폭주를 일으키는 ㊥ 문지른다. 배너지의 필사적인 설득에 의해 마음을 되찾기도, 사이코뮤를 뿌리치는 일은 출㊥ 오지 않고, 리디에 의해 격추되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

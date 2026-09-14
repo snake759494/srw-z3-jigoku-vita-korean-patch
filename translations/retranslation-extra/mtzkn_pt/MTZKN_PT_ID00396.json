@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00396",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00396/Sheet1/000002",
+      "sourceBindingSha256": "96249c625e966785c585358af97c686910f4ca9bf0a01850defaefe407df59d3",
+      "sourceTextSha256": "66b333c591943421a21febdaacf49231f47d8b08896cf91e41becdbb10677d54",
+      "freshTranslation": "뾰족한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00396/Sheet1/000003",
+      "sourceBindingSha256": "6e0ffd62ca2e8086bd14bc52c5176c7b20fea3644da51129969ad6c0e2fd0322",
+      "sourceTextSha256": "66b333c591943421a21febdaacf49231f47d8b08896cf91e41becdbb10677d54",
+      "freshTranslation": "뾰족한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00396/Sheet1/000004",
+      "sourceBindingSha256": "13bb9850f364fce04f3be7deea4dfc28d90f1cddfdecfd8e74620048afdf61f5",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00396/Sheet1/000005",
+      "sourceBindingSha256": "b994b87397979ca8b1a104305de957e3eaa9c38b5b6caab601a3c0ec209d878d",
+      "sourceTextSha256": "72bce3df09751e53eca6bdf0ca71e8af584223ba4ca6651798e3d332b174aedc",
+      "freshTranslation": "사카구치 후이치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00396/Sheet1/000006",
+      "sourceBindingSha256": "a4b6bfe6d1f212231c56724543926448042ffb34ca778298b554e38a42976336",
+      "sourceTextSha256": "501f3f47eccf9a0416f86f327cd214ed7630129d12abcca4cee9b9e1c86fcada",
+      "freshTranslation": "스피어 「침묵의 거게(쿄카이)」의 리악",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00396/Sheet1/000007",
+      "sourceBindingSha256": "5e84f6a624f6a52c87d236df6c950b79abf296497cd051ce7167471a312dedf3",
+      "sourceTextSha256": "3cad89d437e6c12b7f12a075d182e0cea263e35651cd2ae1cba9487b535cec68",
+      "freshTranslation": "ー.㊥거대한 기동 병기, 尸逝天(시세이텐)을 달린다.㊥제미니스도 소속하고 있던 수수께끼의 조직 「사이데리얼」의 「키주쿠(키슈쿠)」에 속㊥하는 것이 본인의 입에서 말했지만, 그 목적이나 조직의 전모는 불명.㊥과묵한 남자로, 전투 때에도 감정을 겉으로 내는 일은 없다.㊥어떤 명령을 뒤집은 안나롯",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00396/Sheet1/000008",
+      "sourceBindingSha256": "d30e66784cd5fd9d7fdea4d7f5ea63fff6dd510b8cfc0693f20301fe6afdc771",
+      "sourceTextSha256": "9db6921906f83729dc7a69ce3d13b1d2ad90138a12464a91bb0c7441dbe46423",
+      "freshTranslation": "을 처형하기 위해 지구에 왔지만, 때 감옥 ㊥이 파괴되기 직전에 지구인 앞에 모습을 나타냈다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00396/Sheet1/000009",
+      "sourceBindingSha256": "a422f1697169d42bfad14eae3e98af1213af51ffdac9d7071a0b3a1010f834df",
+      "sourceTextSha256": "501f3f47eccf9a0416f86f327cd214ed7630129d12abcca4cee9b9e1c86fcada",
+      "freshTranslation": "스피어 「침묵의 거게(쿄카이)」의 리악",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00396/Sheet1/000010",
+      "sourceBindingSha256": "4392852c7e9743b8bd6a36657d0f26385b134d10bafb2786bacd88c7e3114670",
+      "sourceTextSha256": "3cad89d437e6c12b7f12a075d182e0cea263e35651cd2ae1cba9487b535cec68",
+      "freshTranslation": "ー.㊥거대한 기동 병기, 尸逝天(시세이텐)을 달린다.㊥제미니스도 소속하고 있던 수수께끼의 조직 「사이데리얼」의 「키주쿠(키슈쿠)」에 속㊥하는 것이 본인의 입에서 말했지만, 그 목적이나 조직의 전모는 불명.㊥과묵한 남자로, 전투 때에도 감정을 겉으로 내는 일은 없다.㊥어떤 명령을 뒤집은 안나롯",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00396/Sheet1/000011",
+      "sourceBindingSha256": "48023c08d57fa6ffd9f87beb3f6ce86013e53f0acd38c2a0640c91f1143d48c4",
+      "sourceTextSha256": "9db6921906f83729dc7a69ce3d13b1d2ad90138a12464a91bb0c7441dbe46423",
+      "freshTranslation": "을 처형하기 위해 지구에 왔지만, 때 감옥 ㊥이 파괴되기 직전에 지구인 앞에 모습을 나타냈다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00027",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00027/Sheet1/000002",
+      "sourceBindingSha256": "1003f8c54da91cdcc81db7e54b735d7316410ba6de0941ae987d02cc54340017",
+      "sourceTextSha256": "d6da0d732e53cf9ec71ba1b1163d4c980ff617b1f4caa65741721bae9928ed9a",
+      "freshTranslation": "장갑 기병 보텀스 빅 배틀",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00027/Sheet1/000003",
+      "sourceBindingSha256": "d16ed9a06fc6b1e76ad11707ec2e6aad5a24cf44cc96f497d1c72072127ec0d9",
+      "sourceTextSha256": "e5c4e6998b3536da00c2a1602d69881b1f78afb3f68c14380d6f14a2e2b85cb5",
+      "freshTranslation": "에크루비스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00027/Sheet1/000004",
+      "sourceBindingSha256": "1c12935f23c6b82fb4befff0f445ff06b11cabeafa8e3e760c255a2b82562d90",
+      "sourceTextSha256": "e5c4e6998b3536da00c2a1602d69881b1f78afb3f68c14380d6f14a2e2b85cb5",
+      "freshTranslation": "에크루비스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00027/Sheet1/000005",
+      "sourceBindingSha256": "f1df062eb8f4181b5694d3b6922e7f7f02b1b417662be4b14279ec0715cd5303",
+      "sourceTextSha256": "677e1a093301d0cf4a5a40e123e5b79a6199910581969d84783e2905c183d3c7",
+      "freshTranslation": "라다 니바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00027/Sheet1/000006",
+      "sourceBindingSha256": "db12fdeae527f2067ca86ab86a796362ed14fff0f3a7d3a5daec138af19a5d11",
+      "sourceTextSha256": "475850947b7323ac4d3434d0d223806f64e0a6edf143336136f8364db487de94",
+      "freshTranslation": "발라란트군이 개발한 PS 전용 AT. ㊥ 제어 시스템이 조종사의 신경계와 직접 연결되어 있으며 놀라운",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00027/Sheet1/000007",
+      "sourceBindingSha256": "1fea5b1dc99c736c8d2efb336f353a35e2094c9aaefadcbcb97147eb26ac0bb6",
+      "sourceTextSha256": "52c767b7bdf9ead22e5f7121439c33ff805e62240edb3b445cb734342f63d23b",
+      "freshTranslation": "동성능을 자랑한다. ㊥ 베이스가 된 기체는 비밀 결사제의 스트라이크 독이며, 길가메스와 발라라㊥인트 양군의 AT 개발 기술을 모은 기체가 되고 있다. ㊥미사일과 기총을 내장하고 있지만, 소지의 화기는 없고, 오른팔의 파일 벙커와 왼쪽 ㊥팔의 클럽 클로에 의한 격투전을 메인으로 한다. ㊥ 아 코바의 도시에서 프로토 타입 기계가 배틀 링을 타고 연습의 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00027/Sheet1/000008",
+      "sourceBindingSha256": "2c2b788c5df350934fe5b14435f2f8ea20cdc9c8cfb1395ed24a35fd7999ebec",
+      "sourceTextSha256": "a7b938fb4e3124e0dd74a8029716e8cb60f762fe79added513f514c66512a236",
+      "freshTranslation": "를 모으고 있었다. 그 때는 ㊥ 링 네임으로서 「덴저 멜론」을 자칭하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00027/Sheet1/000009",
+      "sourceBindingSha256": "9d9065fa1d59197d95ab8fb9608982807c1b49c04c41a6ad961df16c81ac1c82",
+      "sourceTextSha256": "475850947b7323ac4d3434d0d223806f64e0a6edf143336136f8364db487de94",
+      "freshTranslation": "발라란트군이 개발한 PS 전용 AT. ㊥ 제어 시스템이 조종사의 신경계와 직접 연결되어 있으며 놀라운",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00027/Sheet1/000010",
+      "sourceBindingSha256": "cba225867773a2fd1c4b367864229f1883bfab0d87412252e9fd814d822778ed",
+      "sourceTextSha256": "52c767b7bdf9ead22e5f7121439c33ff805e62240edb3b445cb734342f63d23b",
+      "freshTranslation": "동성능을 자랑한다. ㊥ 베이스가 된 기체는 비밀 결사제의 스트라이크 독이며, 길가메스와 발라라㊥인트 양군의 AT 개발 기술을 모은 기체가 되고 있다. ㊥미사일과 기총을 내장하고 있지만, 소지의 화기는 없고, 오른팔의 파일 벙커와 왼쪽 ㊥팔의 클럽 클로에 의한 격투전을 메인으로 한다. ㊥ 아 코바의 도시에서 프로토 타입 기계가 배틀 링을 타고 연습의 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00027/Sheet1/000011",
+      "sourceBindingSha256": "c8fd6568a4927edef161d7218eb645ad6d711a7e4bfde057ac0ec655ddefe289",
+      "sourceTextSha256": "a7b938fb4e3124e0dd74a8029716e8cb60f762fe79added513f514c66512a236",
+      "freshTranslation": "를 모으고 있었다. 그 때는 ㊥ 링 네임으로서 「덴저 멜론」을 자칭하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00100",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00100/Sheet1/000002",
+      "sourceBindingSha256": "29633e23bf1d90a975baf0fcf863196509809daaa9595a8dc823b9fb645fa17a",
+      "sourceTextSha256": "f4409bb519e8efb320beb50ffc0955b3e19e62c97a57b9846c90edd8905db37e",
+      "freshTranslation": "스피어 리악",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00100/Sheet1/000003",
+      "sourceBindingSha256": "cf87f0e0c3cd6d332be83fd3d1d6355afdc8038aec2e124628140287af51fb80",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00100/Sheet1/000004",
+      "sourceBindingSha256": "98ae99cf776aa30b7e071daccb10dfeaf9be09013d77abaa9d4f6c0931b6187b",
+      "sourceTextSha256": "2eb7a61c0e8bcfdaf81c7fa804cc214e2bd130bec3870a14e0e90128895a04a5",
+      "freshTranslation": "스피어 소지자. ㊥ 단순히 스피어를 탑재한 기체의 파일럿이라는 의미가 아니라, 스피어 ㊥의 힘을 끌어낼 수 있는 인간을 가리킨다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00100/Sheet1/000005",
+      "sourceBindingSha256": "ac46c2f2c5ca047aed0221f7ef66e388a31a874d7c39761378634430f63a9441",
+      "sourceTextSha256": "2f2adff0a792a303bfd92bff66450802377b9d9563dc29376639cc255851ddcb",
+      "freshTranslation": "스피어 소지자. ㊥ 단순히 스피어를 탑재한 기체의 파일럿이라는 의미가 아니라, 스피어 ㊥의 힘을 끌어낼 수 있는 인간을 가리킨다. ㊥ 서드 스테이지를 자칭하고 있던 가들라이트 메온 샘의 ​​말로부터, 리어 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00100/Sheet1/000006",
+      "sourceBindingSha256": "4d7a0cbc8b131e06d340152da12679a5c854dc0e84900b457a62f7db1e0c4795",
+      "sourceTextSha256": "7fbe5ee86d6c9d4c82b06a500445fff7c8a2c1cbad9732480867b11711946c55",
+      "freshTranslation": "-는 스피어의 힘을 이끌어내는 레벨에 따라 단계가 있는 것으로 추측된다. ㊥ 또한 써드 스테이지 이상의 단계에서는 기체에 탑승하지 않은 상태에서도 ㊥ 피어의 힘을 이끌어 어떠한 효과를 발휘할 수 있는 것 같다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

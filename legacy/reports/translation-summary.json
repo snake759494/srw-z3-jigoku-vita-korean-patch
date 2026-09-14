@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "snapshotDate": "2026-07-22",
+  "snapshot": {
+    "id": "pcsg00264-local-analysis-20260722-v1",
+    "idKind": "analysis-label",
+    "sourceRootName": "PCSG00264",
+    "sourceRootSha256": null,
+    "fileCount": 14425,
+    "directoryCount": 1320,
+    "totalBytes": 8590752679
+  },
+  "aggregationDefinitions": {
+    "physicalDataSlots": "각 단일 시트 XLSX의 헤더 1행을 제외한 max_row 합계로, 전각 공백 등 예약·패딩 행을 포함한다.",
+    "sourceRows": "원문 셀에서 U+3000과 양끝 공백을 제거한 뒤 한 글자 이상 남는 행 수다.",
+    "translationFilled": "sourceRows 중 번역 셀에 같은 공백 정규화 후 값이 남는 행 수다.",
+    "replacementFilled": "sourceRows 중 게임용 치환 셀에 같은 공백 정규화 후 값이 남는 행 수다.",
+    "translationContainsHangul": "번역 셀에 완성형 한글 또는 호환 자모가 하나 이상 포함된 sourceRows 수다.",
+    "sourceEqualsTranslation": "공백이나 제어 토큰을 정규화하지 않고 원문과 번역 문자열이 완전히 같은 sourceRows 수다.",
+    "fileHash": "파일 전체 바이트에 대한 SHA-256이다.",
+    "cellEquivalent": "단일 시트의 좌표별 셀 값과 수식이 동일함을 뜻하며 스타일과 문서 메타데이터 동일성은 뜻하지 않는다.",
+    "pngDecodeErrors": "Pillow로 PNG를 열고 verify한 결과의 오류 파일 수다."
+  },
+  "stageWorkbooks": {
+    "files": 265,
+    "physicalDataSlots": 414462,
+    "sourceRows": 156565,
+    "translationFilled": 156565,
+    "replacementFilled": 156565,
+    "googleFilled": 153951,
+    "translationContainsHangul": 147930,
+    "sourceEqualsTranslation": 6010
+  },
+  "dlcWorkbooks": {
+    "files": 77,
+    "physicalDataSlots": 131238,
+    "sourceRows": 14181,
+    "translationFilled": 14181,
+    "replacementFilled": 14181,
+    "googleFilled": 14072,
+    "translationContainsHangul": 13359,
+    "sourceEqualsTranslation": 642
+  },
+  "duplicateStageSets": {
+    "sameNamedFiles": 265,
+    "totalCellEquivalent": 265,
+    "byteIdentical": 242,
+    "byteDifferentButCellEquivalent": 23,
+    "recommendedTranslationCanonicalRoot": "01_스테이지 xlsx 모음"
+  },
+  "dictionaries": {
+    "dictionaryTextPairs": 1402,
+    "templateDictionaryPairsApprox": 1430,
+    "dictionary2DataRows": 4464,
+    "dictionary2AdditionalPairs": 3167,
+    "flowmanReviewMarks": 0
+  },
+  "characterMapping": {
+    "tableFiles": 237,
+    "uniqueTableHashes": 16,
+    "generalWReplace": {
+      "file": "Japanese - Hangul to Kanji.wReplace",
+      "sha256": "3c08aeda78bb0e9a304a5646872521140dae340e212a2cc126a3b1be0ad38b0b",
+      "totalReplacementPairs": 2443,
+      "hangulToCjkPairs": 2353
+    },
+    "operWReplace": {
+      "file": "Japanese - Hangul to Kanji(oper).wReplace",
+      "sha256": "8951addfe77eaddfbe73794ebd0e94287c5f9185d873dbd89f0bb4dec7cdc987",
+      "totalReplacementPairs": 2439,
+      "hangulToCjkPairs": 2350
+    },
+    "fontReferenceUniqueHangulSyllables": 2350,
+    "wReplaceTotalDifferences": 4
+  },
+  "fonts": {
+    "fontFiles": 108,
+    "fontFaces": 112,
+    "candidateFacesChecked": 23,
+    "candidateFacesCoveringReferenceSyllables": 23,
+    "referenceUniqueHangulSyllables": 2350,
+    "redistributionLicenseAuditRequired": true
+  },
+  "textures": {
+    "workingRoot": "텍스처/PCSG00264-한글작업",
+    "workingPngFiles": 244,
+    "workingUniqueHashes": 243,
+    "candidateRoot": "텍스처/1_PCSG00264_Korean",
+    "candidatePngFiles": 230,
+    "candidateUniqueHashes": 225,
+    "candidateDuplicatePairs": 5,
+    "candidateDecodeErrors": 0,
+    "commonNames": 218,
+    "commonByteIdentical": 33,
+    "commonByteDifferent": 185,
+    "candidateOnly": 12,
+    "workingOnly": 26
+  }
+}

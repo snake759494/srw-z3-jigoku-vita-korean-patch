@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00041",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00041/Sheet1/000002",
+      "sourceBindingSha256": "e3324af101352b1abc9501c085ebbb5dc93cf5e002f7b51360a446a080bbdc27",
+      "sourceTextSha256": "e3deec8f42b016e6ad70c6efc64f64539351e78c44736aeed56922f53e29619c",
+      "freshTranslation": "부스트 업",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00041/Sheet1/000003",
+      "sourceBindingSha256": "fc3896ac49e6d1c15876a9b416e76fd81e3217cfb109611e344fe5729cb9234c",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00041/Sheet1/000004",
+      "sourceBindingSha256": "96945ffd50543d9b7c08fa731791d18d6d8bbd5b6ba2eee71f5e518b028b1666",
+      "sourceTextSha256": "d7cb42674f937c8e6105931d1788af2b209688061add7a1534141f9d9a3650d6",
+      "freshTranslation": "동능력이나 사고력, 반사신경 등을 상인의 10배의 스피드로 일하는 능력. ㊥ 그러나 지속 시간은 10 초 정도이며 연속 사용은 불가능합니다. ㊥ 능력의 발동 원인은 불분명하지만, 제니온의 조작 매뉴얼에 접한 것이 ㊥ 계기라고 추측되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00041/Sheet1/000005",
+      "sourceBindingSha256": "b5e15cb06ef17c86191559de604217af0423c06966a0bed5c9472a923f3ebec5",
+      "sourceTextSha256": "d7cb42674f937c8e6105931d1788af2b209688061add7a1534141f9d9a3650d6",
+      "freshTranslation": "동능력이나 사고력, 반사신경 등을 상인의 10배의 스피드로 일하는 능력. ㊥ 그러나 지속 시간은 10 초 정도이며 연속 사용은 불가능합니다. ㊥ 능력의 발동 원인은 불분명하지만, 제니온의 조작 매뉴얼에 접한 것이 ㊥ 계기라고 추측되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

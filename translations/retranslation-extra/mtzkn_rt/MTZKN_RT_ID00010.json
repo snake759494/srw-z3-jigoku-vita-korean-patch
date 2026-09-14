@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00010",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00010/Sheet1/000002",
+      "sourceBindingSha256": "4932fe7562e9498266bd478c933ccd108599d8d0e8c52d9a11dca9af781500ac",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00010/Sheet1/000003",
+      "sourceBindingSha256": "438e2b8c8b4e610ea2661d71e9fe351a2e5958aa1f2df6b868fc7d6f5c0b5eee",
+      "sourceTextSha256": "7c9d7b40b4f8562339c60c09a0e7ae4bddacf0205edb2aaf388d9f1ee12037a3",
+      "freshTranslation": "원반",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00010/Sheet1/000004",
+      "sourceBindingSha256": "f2968e0e80220ba7456d891c3a234a89c7a4ef741d20f2676c9b6e5a506b38a3",
+      "sourceTextSha256": "7c9d7b40b4f8562339c60c09a0e7ae4bddacf0205edb2aaf388d9f1ee12037a3",
+      "freshTranslation": "원반",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00010/Sheet1/000005",
+      "sourceBindingSha256": "77c6f0ad3083373645f469be5d6ed70921be759a30c2dc0152e0e8ad8c550ecb",
+      "sourceTextSha256": "e11d435aecc2202b30ea3e133f4af8c47a68f15e70937a5e9ca3ac1cbfd072b9",
+      "freshTranslation": "우주마왕의 군세가 사용하는 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00010/Sheet1/000006",
+      "sourceBindingSha256": "9171717d10a94d56ef7854887ab8622baeba566ba90922e609276ebbd4102d4e",
+      "sourceTextSha256": "b72a9e135eec4280b8d29662c5001feeda79ab2041239cabcce2f72c87505893",
+      "freshTranslation": "원반. ㊥ 기본적으로 거대한 원반에서 발진하여 몇 편의 편대를 짜서 목표를 공격한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00010/Sheet1/000007",
+      "sourceBindingSha256": "0d2b9a3ac2607b9d4bf52161d33088d065f0ba497f6af09533617b7d6de897ac",
+      "sourceTextSha256": "e11d435aecc2202b30ea3e133f4af8c47a68f15e70937a5e9ca3ac1cbfd072b9",
+      "freshTranslation": "우주마왕의 군세가 사용하는 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00010/Sheet1/000008",
+      "sourceBindingSha256": "1f3cda784f36bec8b7e93fc19cfe54ee90862b0f71eca13bee242bb31aa88ce2",
+      "sourceTextSha256": "b72a9e135eec4280b8d29662c5001feeda79ab2041239cabcce2f72c87505893",
+      "freshTranslation": "원반. ㊥ 기본적으로 거대한 원반에서 발진하여 몇 편의 편대를 짜서 목표를 공격한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

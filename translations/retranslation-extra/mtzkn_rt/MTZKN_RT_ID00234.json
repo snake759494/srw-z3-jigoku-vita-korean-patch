@@ -1,0 +1,159 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00234",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00234/Sheet1/000002",
+      "sourceBindingSha256": "0ca29c6f38213f6c8878048bf7d8d84273a2c84f6a46da0a052e6e2edd232634",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00234/Sheet1/000003",
+      "sourceBindingSha256": "8ae2d7960969963bef2605f7e185730e7417616a4103baca580da1b453415b1f",
+      "sourceTextSha256": "52c3727b963d8e240e4b5a6f6a2ac0413c0d0821df658b280404e37a6e2fe6d4",
+      "freshTranslation": "공통 그니스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00234/Sheet1/000004",
+      "sourceBindingSha256": "c1e270f8aaf54fb9c0bdd7675548a411f1dc8669b18e11984ffaa77f86c569e5",
+      "sourceTextSha256": "52c3727b963d8e240e4b5a6f6a2ac0413c0d0821df658b280404e37a6e2fe6d4",
+      "freshTranslation": "공통 그니스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00234/Sheet1/000005",
+      "sourceBindingSha256": "bca363f2f0cd39e3775c94ed437a80a962d192732f68c21f9a5967426a41d92f",
+      "sourceTextSha256": "882cb6df04d45b5f52923f59909f7268f4bea8fcd94422d0181fb441f1f92d15",
+      "freshTranslation": "전투용 사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00234/Sheet1/000006",
+      "sourceBindingSha256": "5bda364fa2235ff959146104eadbd9b545e0f5d63560c386fab5087657052fe2",
+      "sourceTextSha256": "654b11b0bd2453d2e86809571563280d7b9cf82433e316b89ae9b3a53ff1748d",
+      "freshTranslation": "아부닥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00234/Sheet1/000007",
+      "sourceBindingSha256": "98664d1c36e649f055c263f81eb78edd1ee42e6cd615375793441754c88243b3",
+      "sourceTextSha256": "0777bfebe9c1bc449b748e7e720193f3eac9879e227504c7a6133772150c7fc5",
+      "freshTranslation": "ー.㊥통상은 중력 제어에 의해 공중을 이동해 전투를 행하도록 설계되고 있다. 지상㊥보행은 가능하지만, 육전에서의 기동 성능은 높지 않다.㊥사람이 타고 있는 수동 조종도 가능하지만, 대부분은 원격 조작에 의해",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00234/Sheet1/000008",
+      "sourceBindingSha256": "34ea75c024ada9704d7463041a375a5193698803b2bcc9e43050c93461477bce",
+      "sourceTextSha256": "a4e3c3dfdd7b181db9602e8c2f4c2302d5368e9df7c3c942b9f7c5f3a52f3e3a",
+      "freshTranslation": "사용된다. ㊥ 이 기체를 기반으로 특장",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00234/Sheet1/000009",
+      "sourceBindingSha256": "e58910d054d2d9a27a578de5d5d251bd39c1ec093c3568f29ac8ccb5ebb01763",
+      "sourceTextSha256": "a6bb11fd7f1fe2d3d3636395c7849339db1cbef9ad74315731008b5f122312a4",
+      "freshTranslation": "로서 다양한 전용기가 만들어지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00234/Sheet1/000010",
+      "sourceBindingSha256": "acd8baf1ff7a1e47f4177327f17c16b2f737c2508e17b5fe92be355e03763366",
+      "sourceTextSha256": "882cb6df04d45b5f52923f59909f7268f4bea8fcd94422d0181fb441f1f92d15",
+      "freshTranslation": "전투용 사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00234/Sheet1/000011",
+      "sourceBindingSha256": "faf42a1d086f45494576608e90a4c18a4f10e522604baa25b60d139392025696",
+      "sourceTextSha256": "654b11b0bd2453d2e86809571563280d7b9cf82433e316b89ae9b3a53ff1748d",
+      "freshTranslation": "아부닥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00234/Sheet1/000012",
+      "sourceBindingSha256": "b742a2720341bc3e09085b8f701c63d12e9558345adb31c70032f1264d069289",
+      "sourceTextSha256": "0777bfebe9c1bc449b748e7e720193f3eac9879e227504c7a6133772150c7fc5",
+      "freshTranslation": "ー.㊥통상은 중력 제어에 의해 공중을 이동해 전투를 행하도록 설계되고 있다. 지상㊥보행은 가능하지만, 육전에서의 기동 성능은 높지 않다.㊥사람이 타고 있는 수동 조종도 가능하지만, 대부분은 원격 조작에 의해",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00234/Sheet1/000013",
+      "sourceBindingSha256": "14356a5bc8a35295f40c32edf121198156c0f29a4c9a715072590714d66f1396",
+      "sourceTextSha256": "a4e3c3dfdd7b181db9602e8c2f4c2302d5368e9df7c3c942b9f7c5f3a52f3e3a",
+      "freshTranslation": "사용된다. ㊥ 이 기체를 기반으로 특장",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00234/Sheet1/000014",
+      "sourceBindingSha256": "e0636769a58c836b38a88ad1f7cd0fd7582b5a2087c042af96787fcffcfeab67",
+      "sourceTextSha256": "a6bb11fd7f1fe2d3d3636395c7849339db1cbef9ad74315731008b5f122312a4",
+      "freshTranslation": "로서 다양한 전용기가 만들어지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

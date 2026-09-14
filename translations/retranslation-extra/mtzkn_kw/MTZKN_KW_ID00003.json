@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00003",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00003/Sheet1/000002",
+      "sourceBindingSha256": "4347228df9b41f0ac18421c66c4775ae4cd118a21acd4a9f8708e05a8ba42e91",
+      "sourceTextSha256": "a077283b2f0ea4d44242588504e5ea9004618587e69a859dd532c495ffe7d097",
+      "freshTranslation": "낙인",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00003/Sheet1/000003",
+      "sourceBindingSha256": "ed8982c7690dde809c940ef4faaa46915da2f9b333296b4795ca11626c44897b",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00003/Sheet1/000004",
+      "sourceBindingSha256": "7c92c8b81f9806d900af8ec46abb8929eb42eef84a67e2fb45b266f9997b21bd",
+      "sourceTextSha256": "5b2dac040f2f35555af643c90279ad1f96ffe8b7e29daba5559166c9628b2706",
+      "freshTranslation": "시공진동에 농락당함",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00003/Sheet1/000005",
+      "sourceBindingSha256": "d41805bb248b5d96e6d18b217af049e409068b80debdc4a8b9e7771e06bcad6d",
+      "sourceTextSha256": "6bd0bdc776ac85c704d3ed2a8fc26e63c0ba575de324ad8df8e189e47598e697",
+      "freshTranslation": "생명을 가진 사람에게 새겨진 표시. 「스티그마」라고 읽는다. ㊥ 그것이 무슨 의미를 가지며, 구체적으로 어떤 효과를 미치는지, 또 어떻게 ㊥인 인간이 누구에 의해 선택되는지 등 모든 것이 불명. ㊥ 현시점에서는, 구 ZEUTH, ZEXIS의 멤버가 소지하고 있다고 여겨져 ㊥ 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00003/Sheet1/000006",
+      "sourceBindingSha256": "038d693542a9ddd21e7296d6c97373ede54af96cd73d63434bbfede02d33e55f",
+      "sourceTextSha256": "5b2dac040f2f35555af643c90279ad1f96ffe8b7e29daba5559166c9628b2706",
+      "freshTranslation": "시공진동에 농락당함",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00003/Sheet1/000007",
+      "sourceBindingSha256": "fc4a5f4b397c8669b6adbcc9c2a89343680d6b4addb5afb766bdd99ceb17f90f",
+      "sourceTextSha256": "6bd0bdc776ac85c704d3ed2a8fc26e63c0ba575de324ad8df8e189e47598e697",
+      "freshTranslation": "생명을 가진 사람에게 새겨진 표시. 「스티그마」라고 읽는다. ㊥ 그것이 무슨 의미를 가지며, 구체적으로 어떤 효과를 미치는지, 또 어떻게 ㊥인 인간이 누구에 의해 선택되는지 등 모든 것이 불명. ㊥ 현시점에서는, 구 ZEUTH, ZEXIS의 멤버가 소지하고 있다고 여겨져 ㊥ 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

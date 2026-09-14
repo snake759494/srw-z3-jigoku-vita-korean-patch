@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00078",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00078/Sheet1/000002",
+      "sourceBindingSha256": "5d6e45b3211c32cec18bd7a3db1b9609a7fb2fa6b304260206c7ae5524c6ba41",
+      "sourceTextSha256": "67dc07e7b81176ac9af9b08906c0e4b12cd8a71b1de8b600a0230f47e57ccab8",
+      "freshTranslation": "트윈클 프로젝트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00078/Sheet1/000003",
+      "sourceBindingSha256": "681441dfa7f85783ab30c7a55ac5954ac718aa59f5b8fa50ada70a106dbf920f",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00078/Sheet1/000004",
+      "sourceBindingSha256": "0e213406af6cdc57dc36fd39e1cb2996c855557035c3d0df6405e710e86e3ec6",
+      "sourceTextSha256": "e027749efaeda418f70a98e387a767387cf2d7b5b52de2becb19a472f13acc7d",
+      "freshTranslation": "은하의 요정 셰릴 놈과 초시공 신데렐라, 랑카 리를 중심으로 ㊥ 한 라이브 프로젝트. ㊥그 2명 이외에도 다양한 아티스트가 참가할 예정이며, 세계㊥중의 주목을 받고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00078/Sheet1/000005",
+      "sourceBindingSha256": "4fecd8ac96d98c53a44f1e0e81efa5f6e433c7b42f59756eaf9cfe22bd8d1ff0",
+      "sourceTextSha256": "e027749efaeda418f70a98e387a767387cf2d7b5b52de2becb19a472f13acc7d",
+      "freshTranslation": "은하의 요정 셰릴 놈과 초시공 신데렐라, 랑카 리를 중심으로 ㊥ 한 라이브 프로젝트. ㊥그 2명 이외에도 다양한 아티스트가 참가할 예정이며, 세계㊥중의 주목을 받고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

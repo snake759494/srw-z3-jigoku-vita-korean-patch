@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00184",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00184/Sheet1/000002",
+      "sourceBindingSha256": "08f24f50a1858e8f25de733737d17a28bd41b1c66ab333e030f472f30ceec3ed",
+      "sourceTextSha256": "c5394350250acae9d6168f693bf71fe5477f536512cf1c2cef12ba0a66d4afe1",
+      "freshTranslation": "랑카 리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00184/Sheet1/000003",
+      "sourceBindingSha256": "623f55ed0919038054f4a27821b364084a868bc5553d1751deee79177d0a04ee",
+      "sourceTextSha256": "0086b809e5378cde4056c001d3b2bc8d891709c779e643fb04c1c0beeda846d2",
+      "freshTranslation": "랑카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00184/Sheet1/000004",
+      "sourceBindingSha256": "5627565a0c67e17360f9f24da1753100430ddc0e95ce935c4dc4846ddd43bfda",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00184/Sheet1/000005",
+      "sourceBindingSha256": "8f36d027ee4444d89b4fb2ab33cbdb996a04b97b4837f09b14fb948dccb7d5cd",
+      "sourceTextSha256": "1b5e863b75df53b052bfcf4bf7a9080cd11d226ed62a50d306cb44782bfdc3bd",
+      "freshTranslation": "성 마리아 학원의 1 학년. 15세. ㊥ 노래를 사랑하는 소녀. 아가씨 학교에 다니면서, 중화 요리점 「딸딸(냥냥)」㊥에서 아르바이트를 하고 있다. 하늘",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00184/Sheet1/000006",
+      "sourceBindingSha256": "acf1f397f5088fb6aacd069b4e9b2ce1b6da4cc4000ab33b27dd20681264d30f",
+      "sourceTextSha256": "a703dff846b7de8dfd837dd434bca3c854a41d4f80db2d234ebc4f065754e27d",
+      "freshTranslation": "잔잔한 밝은 성격으로 노력가. 하지만, 철회 사안인 ㊥ 곳이 있어, 자신에게 자신이 가지지 않고 있다. ㊥ 오빠와 오즈마와 둘이서 살고 있지만 오즈마는 피의 연결이 없다. 해리성 건강㊥망증(Dissociativeamnesia)에 의해 과거의 일도 일절 기억해㊥없고, 유일하게 기억에 남아 있는 것은 「아이모」라는 노래뿐이다. 또한, 과거의 시㊥보다 더 가까운 사람의 부상에는 과도하게 반응한다. ㊥ 셰릴의 큰 팬으로 가수를 꿈꾸며, 알토에게 등을 밀고 염원이었던 가수 ㊥에의 길을 걷기 시작한다. ㊥ 프론티어 선단에 바쥬라가 습격했을 때, 셰릴과 함께 노래한 것으로 주목받아, ㊥ 톱 아이돌로의 길을 올라간다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00184/Sheet1/000007",
+      "sourceBindingSha256": "d2bb692f00dd32f240a063f613f74a0993d074df8de369bcd2ff971172f9a812",
+      "sourceTextSha256": "1b5e863b75df53b052bfcf4bf7a9080cd11d226ed62a50d306cb44782bfdc3bd",
+      "freshTranslation": "성 마리아 학원의 1 학년. 15세. ㊥ 노래를 사랑하는 소녀. 아가씨 학교에 다니면서, 중화 요리점 「딸딸(냥냥)」㊥에서 아르바이트를 하고 있다. 하늘",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00184/Sheet1/000008",
+      "sourceBindingSha256": "4cb8758534d68e8644fffe8b0989062396d161a44df8cb2a7a1265baed90b82c",
+      "sourceTextSha256": "a703dff846b7de8dfd837dd434bca3c854a41d4f80db2d234ebc4f065754e27d",
+      "freshTranslation": "잔잔한 밝은 성격으로 노력가. 하지만, 철회 사안인 ㊥ 곳이 있어, 자신에게 자신이 가지지 않고 있다. ㊥ 오빠와 오즈마와 둘이서 살고 있지만 오즈마는 피의 연결이 없다. 해리성 건강㊥망증(Dissociativeamnesia)에 의해 과거의 일도 일절 기억해㊥없고, 유일하게 기억에 남아 있는 것은 「아이모」라는 노래뿐이다. 또한, 과거의 시㊥보다 더 가까운 사람의 부상에는 과도하게 반응한다. ㊥ 셰릴의 큰 팬으로 가수를 꿈꾸며, 알토에게 등을 밀고 염원이었던 가수 ㊥에의 길을 걷기 시작한다. ㊥ 프론티어 선단에 바쥬라가 습격했을 때, 셰릴과 함께 노래한 것으로 주목받아, ㊥ 톱 아이돌로의 길을 올라간다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00252",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00252/Sheet1/000002",
+      "sourceBindingSha256": "354c4dad33790bf068d68cbd7891a6f7ddd3ffd4ee83a6135ac15c81ac9f7111",
+      "sourceTextSha256": "72aff3afa8e20ce437280ee5aaf8e21843a26f2b349f3e0618d49a4b87f92d78",
+      "freshTranslation": "크루츠 웨버",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00252/Sheet1/000003",
+      "sourceBindingSha256": "0fcdbe4ad90b8defa2e1a0da104098cd71cf403deb7b9056a31664dd0554c863",
+      "sourceTextSha256": "dee422a3eeeaa9aff487b79fba58d7bcae3c42b8ba564568fd2d323385af1844",
+      "freshTranslation": "크루츠",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00252/Sheet1/000004",
+      "sourceBindingSha256": "5a6b7d7e6fba8a98a61e750b5cf87ba517fe78faa77446959afd8b69696bc1f8",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00252/Sheet1/000005",
+      "sourceBindingSha256": "0af0bc2bd4d345880d092ff09985f363cda37ca9dce521c06349803f2ecd3078",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00252/Sheet1/000006",
+      "sourceBindingSha256": "f16726626e0e67215ff5906b5de96d040a49c4676c8dc13ee7f6b2dd648085f6",
+      "sourceTextSha256": "75dca42e2887bafa582038e8c1f643b2356b88095b37dbb5cd0ea0345fd688b8",
+      "freshTranslation": "미키 마이이치로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00252/Sheet1/000007",
+      "sourceBindingSha256": "ebbb0dc3b67a8275aca4ea78e6d756975c02d1e8ff5441e2ecaccf3538a92dfb",
+      "sourceTextSha256": "65f0f73118e1ee1ea2741ea9c784a29daa56f0b9d537aff62bd325b4d778c447",
+      "freshTranslation": "대테러 조직 미스릴에 소속된 용병. 계급은 군조. 콜사인은 울즈 6. ㊥ 투아하 데 다낭의 SRT(특별 대응반) 요원이며, 초일류의 천재 스나이㊥파. 그 저격의 솜씨는 1㎞ 앞의 동전을 쏘아올 정도다. ㊥ 금발색 눈의 미청년으로 패션 잡지의 모델을 하고 있던 적도 있다. 하지만 가벼운 ㊥ 입이 많아 여성이라고 보면 입을 설득하는 플레이보이. 마오에게도 매번 조금을 내고 ㊥ 있지만, 진심인지는 확실하지 않다. ㊥ 덧붙여 14세까지 도쿄의 에도가와에 살고 있어 일본어도 유창하다. ㊥ 치토리 카나메의 호위 임무를 위해, 소스케와 마오와 함께 일본에 파견된다. 이후 무네스케㊥와 함께 다양한 적과 싸워 간다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00252/Sheet1/000008",
+      "sourceBindingSha256": "3ca2bd312398bfe359694bd505b0a8c5a80dbd63d746141caa20b07a92655c0f",
+      "sourceTextSha256": "65f0f73118e1ee1ea2741ea9c784a29daa56f0b9d537aff62bd325b4d778c447",
+      "freshTranslation": "대테러 조직 미스릴에 소속된 용병. 계급은 군조. 콜사인은 울즈 6. ㊥ 투아하 데 다낭의 SRT(특별 대응반) 요원이며, 초일류의 천재 스나이㊥파. 그 저격의 솜씨는 1㎞ 앞의 동전을 쏘아올 정도다. ㊥ 금발색 눈의 미청년으로 패션 잡지의 모델을 하고 있던 적도 있다. 하지만 가벼운 ㊥ 입이 많아 여성이라고 보면 입을 설득하는 플레이보이. 마오에게도 매번 조금을 내고 ㊥ 있지만, 진심인지는 확실하지 않다. ㊥ 덧붙여 14세까지 도쿄의 에도가와에 살고 있어 일본어도 유창하다. ㊥ 치토리 카나메의 호위 임무를 위해, 소스케와 마오와 함께 일본에 파견된다. 이후 무네스케㊥와 함께 다양한 적과 싸워 간다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

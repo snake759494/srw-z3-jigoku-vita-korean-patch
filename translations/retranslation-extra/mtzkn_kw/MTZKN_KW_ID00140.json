@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00140",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00140/Sheet1/000002",
+      "sourceBindingSha256": "e3ded0356a3b1e1e2b26db2916888248022acdc790af38f638e049f10a097aab",
+      "sourceTextSha256": "fa6773eeb2877ab666c0a85bd0f420eecb4471a00ed80d091894d990fa4b4264",
+      "freshTranslation": "에스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00140/Sheet1/000003",
+      "sourceBindingSha256": "73925807a39291cec33869f9ea86024d8850baa938fec3da587470f77f2eeb93",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00140/Sheet1/000004",
+      "sourceBindingSha256": "c496a862408df0ba413c3f14b7ed8ebf4d73c6834c48b40a08edbf2d2e4b0d1f",
+      "sourceTextSha256": "ce61bd7125b221ae06f87602ae411c6fcbec4525ebf7caa312cf11a631616c82",
+      "freshTranslation": "스코트 랩에 속하는 차원 짐승 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00140/Sheet1/000005",
+      "sourceBindingSha256": "ba677ccffbed237e90849f09835618257f7a1074be6e8e7b2223973b6ff444c5",
+      "sourceTextSha256": "81f5b0273e691b50ac05e40924dd5eecbe2af28098847c8c64c6b2fc1ef6243c",
+      "freshTranslation": "ー.㊥차원 짐승 라이노 다몬급이 처음 출현한 북미 시골 마을 오디스의 유일한 삶㊥남아.㊥가혹한 경험으로 차원 짐승에 대해 강한 분노와 증오를 가졌지만 다양한㊥사람과의 만남에 의해, 본래의 솔직한 성격을 되찾아 갔다. 하지만 좋은 의미㊥하지만 나쁜 의미에서도 추억이 격렬하고, 열의를 공회전시켜 버리는 일도 있다.㊥파계 사변 후에는 동경의 크로우 뒤를 쫓아 차원 짐승 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00140/Sheet1/000006",
+      "sourceBindingSha256": "669563bf56e45567c05aa33e8f120d5b0d826aef2d6ba514d2f5ac56a354b033",
+      "sourceTextSha256": "27813f8810d3ac9c3f4055d3ff6757752a8c999fd253f980d2ed754d3b1527c0",
+      "freshTranslation": "-이되고, 애기 황동㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00140/Sheet1/000007",
+      "sourceBindingSha256": "9470352f095deed21a177695f6f268f436dba46976245589f93bda7206627556",
+      "sourceTextSha256": "b021de2cc1c460787db2a3575f5938d4f639461ad1c45565908d9bae85e2fb4a",
+      "freshTranslation": "Es와 함께 세계 각지에 출몰하는 차원수 퇴치의 임무를 맡고 있었다. ㊥ 싸움 속에서 인조 차원의 짐승으로 변하지만 기적적으로 부활. 그 신체에는 몇 가지 수수께끼가 ㊥ 남겨졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00140/Sheet1/000008",
+      "sourceBindingSha256": "ef9eeaef26cb769e052fe44130a9c941ca3500e33a51fb37e4435866b1b82dcb",
+      "sourceTextSha256": "ce61bd7125b221ae06f87602ae411c6fcbec4525ebf7caa312cf11a631616c82",
+      "freshTranslation": "스코트 랩에 속하는 차원 짐승 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00140/Sheet1/000009",
+      "sourceBindingSha256": "d45c57a86d0344a7ec208525d49925172c64cf589bd6d0d50f60cdd5406a0f72",
+      "sourceTextSha256": "81f5b0273e691b50ac05e40924dd5eecbe2af28098847c8c64c6b2fc1ef6243c",
+      "freshTranslation": "ー.㊥차원 짐승 라이노 다몬급이 처음 출현한 북미 시골 마을 오디스의 유일한 삶㊥남아.㊥가혹한 경험으로 차원 짐승에 대해 강한 분노와 증오를 가졌지만 다양한㊥사람과의 만남에 의해, 본래의 솔직한 성격을 되찾아 갔다. 하지만 좋은 의미㊥하지만 나쁜 의미에서도 추억이 격렬하고, 열의를 공회전시켜 버리는 일도 있다.㊥파계 사변 후에는 동경의 크로우 뒤를 쫓아 차원 짐승 버스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00140/Sheet1/000010",
+      "sourceBindingSha256": "ec2e43b794dd093f6f281e3ad9720e0a0741a1ed2ed2a6609c655b040aefc628",
+      "sourceTextSha256": "27813f8810d3ac9c3f4055d3ff6757752a8c999fd253f980d2ed754d3b1527c0",
+      "freshTranslation": "-이되고, 애기 황동㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00140/Sheet1/000011",
+      "sourceBindingSha256": "cbe0a3b959daf07dcb6e3eacaa35bc20e8f5fc09cab1e49e31a2dcaab4d70d0c",
+      "sourceTextSha256": "d48588113c4e35eb792f5af285053043b78a50c37a4854cd6865f195bd15a3af",
+      "freshTranslation": "Es와 함께 세계 각지에 출몰하는 차원수 퇴치의 임무를 맡고 있었다. ㊥ 싸움 속에서 인조 차원의 짐승으로 변하지만 기적적으로 부활. 그 신체에는 몇 가지 수수께끼가 ㊥ 남겨졌다. ㊥ 또한 현재 그 행방에 대해서는 불분명하다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

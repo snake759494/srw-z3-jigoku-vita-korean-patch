@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00057",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00057/Sheet1/000002",
+      "sourceBindingSha256": "72241dbe9889dcdff5245ccc9d17e4f7dc8852e13e126e1e4512f507f1151bcc",
+      "sourceTextSha256": "510baa23ae14acd43a157629e32e3d7eed26fd6a05f0672717f10e0853467011",
+      "freshTranslation": "콰트로 바지나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00057/Sheet1/000003",
+      "sourceBindingSha256": "15ae38ca29700e3a50544a69d77ded080921832110783350fa62b52bf651b10d",
+      "sourceTextSha256": "16815cab93105df702dcb64d245e74e2f4eb6fa48f3d23e7d86aa14eb294ac2f",
+      "freshTranslation": "콰트로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00057/Sheet1/000004",
+      "sourceBindingSha256": "b9015f47695d8fdee7f86b825fa5dbe0446c9bfe454ffb978be7220d0b33ca2b",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00057/Sheet1/000005",
+      "sourceBindingSha256": "950fee3cdc5ea6208ddd580203ec752df8c0e64aa8794cc842a01a7b282b6616",
+      "sourceTextSha256": "53837def92fa8254c663caa46bde0c02090343a8d89ce0612e983a9d7a08000d",
+      "freshTranslation": "에우고의 기반을 만든 중심 인물 중 한 명. 계급은 대위. ㊥ 맨얼굴을 숨기는 선글라스를 쓴 신비가 많은 인물. 그 정체는 일년 전쟁 종결 후 ㊥에 행방불명이 되어 있던 지온 공국군의 붉은 혜성, 샤아 아즈나블이다. ㊥ 참고로 콰트로는",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00057/Sheet1/000006",
+      "sourceBindingSha256": "cdde8b1cd058fc7e29f8bd84910553d941d92982b42fcc894aa5c3e797a7d1d5",
+      "sourceTextSha256": "2117530f8911972ca3ba5b462888f24e4f3b65967552d71b40722a9c049940e9",
+      "freshTranslation": "리어어로 숫자의 '4'이며, 본명의 캐스바르, 지구㊥에서의 가명 에드와우, 지온 공국에서의 가명 샤아에 이은 네 번째 이름이라는 의미가 있다. ㊥ 당초는 그 높은 모빌 슈트의 조종 기술로 릭 디어스나 백식에 탑승해 전㊥선으로 싸우고 있었다. 하지만 아무로와의 재회나 에우고 대표인 브렉스 준장이 암㊥ 살해된 일 등이 계기가 되어 정치적 지도자로서 표무대에 서게 된다. ㊥ 최종 국면에서는, 콜로니 레이저를 무대로 하만과 일기타를 펼치지만, 승㊥기는 대파. 어떻게든 하만을 물리치지만 폭발 속에 사라지고 다시 행방불명이 됐다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00057/Sheet1/000007",
+      "sourceBindingSha256": "7f693e31411500b2c40f0ec84e8f3bb62d7cf3e2407ae77cd44b193cbb83c97f",
+      "sourceTextSha256": "53837def92fa8254c663caa46bde0c02090343a8d89ce0612e983a9d7a08000d",
+      "freshTranslation": "에우고의 기반을 만든 중심 인물 중 한 명. 계급은 대위. ㊥ 맨얼굴을 숨기는 선글라스를 쓴 신비가 많은 인물. 그 정체는 일년 전쟁 종결 후 ㊥에 행방불명이 되어 있던 지온 공국군의 붉은 혜성, 샤아 아즈나블이다. ㊥ 참고로 콰트로는",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00057/Sheet1/000008",
+      "sourceBindingSha256": "24707a30f886e503fb8458de83a9e5405e0bcd7fc2957ecf8667083ae599936f",
+      "sourceTextSha256": "2117530f8911972ca3ba5b462888f24e4f3b65967552d71b40722a9c049940e9",
+      "freshTranslation": "리어어로 숫자의 '4'이며, 본명의 캐스바르, 지구㊥에서의 가명 에드와우, 지온 공국에서의 가명 샤아에 이은 네 번째 이름이라는 의미가 있다. ㊥ 당초는 그 높은 모빌 슈트의 조종 기술로 릭 디어스나 백식에 탑승해 전㊥선으로 싸우고 있었다. 하지만 아무로와의 재회나 에우고 대표인 브렉스 준장이 암㊥ 살해된 일 등이 계기가 되어 정치적 지도자로서 표무대에 서게 된다. ㊥ 최종 국면에서는, 콜로니 레이저를 무대로 하만과 일기타를 펼치지만, 승㊥기는 대파. 어떻게든 하만을 물리치지만 폭발 속에 사라지고 다시 행방불명이 됐다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

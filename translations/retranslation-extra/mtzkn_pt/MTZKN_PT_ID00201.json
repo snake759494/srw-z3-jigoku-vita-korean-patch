@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00201",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00201/Sheet1/000002",
+      "sourceBindingSha256": "13e4b9dd739fee73b744fec68411b410d6a63fcbfc571423ea4e0ba925486282",
+      "sourceTextSha256": "ea602c68c993990038623cea2e6d65711bd6235a286375e5e46e0f12bd2e4b64",
+      "freshTranslation": "활미노스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00201/Sheet1/000003",
+      "sourceBindingSha256": "9be6358ab88f44f2ea43126aa155f4b5629de20ef6078fdd30ef702897b7e901",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00201/Sheet1/000004",
+      "sourceBindingSha256": "f43f893a78dc32b247bb0fc8be12552e879e46def895930c975401f6090a8da8",
+      "sourceTextSha256": "53687eea733257e5f18eec7312455c04f14ae417036dbf152d55f5b0f0836995",
+      "freshTranslation": "광자력 연구소의 소장. ㊥ 한때는 갑아의 할아버지, 토토조에 사사하고 있어, 광자력의 연구도 공동으로 행하고 있었다. ㊥ 십조가 모습을 지워도 광자력은 평화 이용되어야 한다는 이념을 가슴에 실 ㊥용화에 대한 연구를 계속했다. ㊥ 최종결전에서는 피그먼 자작이나 기계수군단의 맹공을 앞두고 고통의 결단 끝에 광자㊥ 힘에너지를 적극적으로 전투에 사용한 과학요새연구소를 기동시켰다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00201/Sheet1/000005",
+      "sourceBindingSha256": "8d8ad3d798ee650d8164481605011c0932a9996ac93a4951f5f9fbd00562116e",
+      "sourceTextSha256": "53687eea733257e5f18eec7312455c04f14ae417036dbf152d55f5b0f0836995",
+      "freshTranslation": "광자력 연구소의 소장. ㊥ 한때는 갑아의 할아버지, 토토조에 사사하고 있어, 광자력의 연구도 공동으로 행하고 있었다. ㊥ 십조가 모습을 지워도 광자력은 평화 이용되어야 한다는 이념을 가슴에 실 ㊥용화에 대한 연구를 계속했다. ㊥ 최종결전에서는 피그먼 자작이나 기계수군단의 맹공을 앞두고 고통의 결단 끝에 광자㊥ 힘에너지를 적극적으로 전투에 사용한 과학요새연구소를 기동시켰다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

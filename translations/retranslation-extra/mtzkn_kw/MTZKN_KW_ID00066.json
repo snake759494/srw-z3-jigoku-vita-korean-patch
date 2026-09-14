@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00066",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00066/Sheet1/000002",
+      "sourceBindingSha256": "0569839fa03bf29cc80f1ccfef0b11f5dd9edfe6bf966b21a99437c7cf549a58",
+      "sourceTextSha256": "5e295f90b40312c9cd3d8fe027a653972c55924dc53d3e45e0344909c70059fb",
+      "freshTranslation": "21세기 경비 보장",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00066/Sheet1/000003",
+      "sourceBindingSha256": "ca066883b4ebfac271912a260dd62186bf3515f05e68ef866f5160be2ffbfe6d",
+      "sourceTextSha256": "bbd3fa74a468161cd7cd396bb3492075b561db28851a521806005dce6b42190a",
+      "freshTranslation": "\"지구 방위 기업 다이 가드\"",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00066/Sheet1/000004",
+      "sourceBindingSha256": "2797982259ab3404f875efec629b455b268d1562d78c4c30fa5bbc51c586840e",
+      "sourceTextSha256": "1810a90ebe4e76935e43d46f7fe1d2c05785f7846e37b7c96c60670c8b38b336",
+      "freshTranslation": "유엔안보군을 대주주로 하는 민간경비회사. ㊥ 본사는 도쿄 오다이바에 있으며, 오카와치 덴지로가 사장을 맡는다. ㊥ 당초의 업무는 대 헤테로다인용으로 개발된 다이 가드의 관리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00066/Sheet1/000005",
+      "sourceBindingSha256": "0539eef342a10195dd4779823173bdf433c76977fd8e5afe656e9b94440e2e4c",
+      "sourceTextSha256": "c31695820d0759683fcdeb90fef8585ebfe4d0a4b99bec66af181ee6c6d493b5",
+      "freshTranslation": "용으로 ㊥ 있었지만, 12년간, 헤테로다인이 출현하지 않았기 때문에 경비 전반에 업㊥무를 확장해, 반대로 다이 가드에 관련하는 부문은 축소화의 경향에 있었다. ㊥ 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00066/Sheet1/000006",
+      "sourceBindingSha256": "22084390463c9113fe9e043dc04c80436bba4675c59ce6f180b693475c891e4f",
+      "sourceTextSha256": "0abf6499d2553c4e240214da79201556c13b3345cb0cb75ff3ec607c258cd65d",
+      "freshTranslation": "용은, 오스기 과장을 책임자로 하는 홍보 2과가 담당하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00066/Sheet1/000007",
+      "sourceBindingSha256": "2e897bf5d83e7db7fdcd78e9ca1ac6b9a9b763d339d2d12d6cf4c3f595287974",
+      "sourceTextSha256": "1810a90ebe4e76935e43d46f7fe1d2c05785f7846e37b7c96c60670c8b38b336",
+      "freshTranslation": "유엔안보군을 대주주로 하는 민간경비회사. ㊥ 본사는 도쿄 오다이바에 있으며, 오카와치 덴지로가 사장을 맡는다. ㊥ 당초의 업무는 대 헤테로다인용으로 개발된 다이 가드의 관리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00066/Sheet1/000008",
+      "sourceBindingSha256": "92cabc3c6a696dbcc90a70a84f1fb98a8af1a78a6e81d817b5b7b3d44f653dea",
+      "sourceTextSha256": "c31695820d0759683fcdeb90fef8585ebfe4d0a4b99bec66af181ee6c6d493b5",
+      "freshTranslation": "용으로 ㊥ 있었지만, 12년간, 헤테로다인이 출현하지 않았기 때문에 경비 전반에 업㊥무를 확장해, 반대로 다이 가드에 관련하는 부문은 축소화의 경향에 있었다. ㊥ 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00066/Sheet1/000009",
+      "sourceBindingSha256": "1f7477512f5b172fa4247817bddca7bf2a7df6c6716c48d823f6ef2f726d251f",
+      "sourceTextSha256": "0abf6499d2553c4e240214da79201556c13b3345cb0cb75ff3ec607c258cd65d",
+      "freshTranslation": "용은, 오스기 과장을 책임자로 하는 홍보 2과가 담당하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

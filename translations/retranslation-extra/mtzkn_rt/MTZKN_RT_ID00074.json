@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00074",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00074/Sheet1/000002",
+      "sourceBindingSha256": "6ec28842e4de599d2308d4a31a0cbf67bb21bed7fba0a4a948db102930c1628e",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00074/Sheet1/000003",
+      "sourceBindingSha256": "39b9a5f8c4e988c4c524fbc7d29c90f254a34da1a295957151d0f621d8edde59",
+      "sourceTextSha256": "442710281e6d29b17a486de6fff8a5b0bdb9dcf9defbe78c327e089fc74cc13c",
+      "freshTranslation": "프톨레마이오스 2개",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00074/Sheet1/000004",
+      "sourceBindingSha256": "f7bb1972ec189f88da9f16a25c99fec3f62c4ffa826fbfbb802106de3d0efec6",
+      "sourceTextSha256": "442710281e6d29b17a486de6fff8a5b0bdb9dcf9defbe78c327e089fc74cc13c",
+      "freshTranslation": "프톨레마이오스 2개",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00074/Sheet1/000005",
+      "sourceBindingSha256": "b546a731e0751ed19f09394d374c01d89d89a792f24ca4e579504485f3fbba3a",
+      "sourceTextSha256": "2f4db1701070d00e0cf679802564bdad00949188e09a5fabdd948c653adf962d",
+      "freshTranslation": "수메라기 리 노리에가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00074/Sheet1/000006",
+      "sourceBindingSha256": "27b1e6a7881ecd72ec25530f87bc979483fb0d70067fa08a24dc031228eb3829",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00074/Sheet1/000007",
+      "sourceBindingSha256": "103cfb99a5b61875fcd41d3b5f6d85f98802837b142c964bb74c14a908e87d92",
+      "sourceTextSha256": "923207538cd04b54bd90dfbf4ea7037e0e00c93ef2dd13d44e7082a4a9b09309",
+      "freshTranslation": "루비잉의 작전 행동의 기점이 되는 다목적함. ㊥ 이노베이드의 대전 후, 시대가 우주 개발로 시프트해 갔다는 것을 보고, 장거리 항행㊥을 목적으로 한 개수가 행해지고 있다. ㊥ 기본적인 성능은 프톨레마이오스 2의 상태이지만 메인 스러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00074/Sheet1/000008",
+      "sourceBindingSha256": "2e61090a1b7bbf6ebc480f2ec2984ba459e280fab275f8e0ee04c629079fc23c",
+      "sourceTextSha256": "a47a2089e20aaa36b1471e6b6fc8026bc13a9618d299e2bcae5a792a4e3e6794",
+      "freshTranslation": "- GN 커패시터㊥를 일체화시킨 장거리용 별체식 대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00074/Sheet1/000009",
+      "sourceBindingSha256": "248e7a4d617c40b735b83ab2729236bd4ba020e96bc93be822c16f8a89277ca3",
+      "sourceTextSha256": "823d5c1f2826144bada6959a3407387f994a00146ee23b888ffad5cac4f21fae",
+      "freshTranslation": "부스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00074/Sheet1/000010",
+      "sourceBindingSha256": "a9736b215653f1b552fc64a713e365e18081ab5e9476a53a148829e51a1262fc",
+      "sourceTextSha256": "fa9cc48d78054af821870425bf942d662138ee83c27c55dd26812d4205dba2c3",
+      "freshTranslation": "-를 증설. 이에 따라 항행능력㊥이 대폭 강화되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00074/Sheet1/000011",
+      "sourceBindingSha256": "5b3891f55548585a1b1b39be4ff7d0bbd920cde93ab5d4eb805dfb180290ef7c",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00074/Sheet1/000012",
+      "sourceBindingSha256": "604c595a0d7b0cfefb41cc963d422284c527d95d4e5f5e01f96589d3300414c1",
+      "sourceTextSha256": "923207538cd04b54bd90dfbf4ea7037e0e00c93ef2dd13d44e7082a4a9b09309",
+      "freshTranslation": "루비잉의 작전 행동의 기점이 되는 다목적함. ㊥ 이노베이드의 대전 후, 시대가 우주 개발로 시프트해 갔다는 것을 보고, 장거리 항행㊥을 목적으로 한 개수가 행해지고 있다. ㊥ 기본적인 성능은 프톨레마이오스 2의 상태이지만 메인 스러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00074/Sheet1/000013",
+      "sourceBindingSha256": "236a5949348fc53b77652b2d29577cb94627ade4afa8512f2f99392ed59b10c0",
+      "sourceTextSha256": "a47a2089e20aaa36b1471e6b6fc8026bc13a9618d299e2bcae5a792a4e3e6794",
+      "freshTranslation": "- GN 커패시터㊥를 일체화시킨 장거리용 별체식 대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00074/Sheet1/000014",
+      "sourceBindingSha256": "9ebcc736a2ce9d36c5e5feb8c40ae12dbfb324797627ebf4df697f81eecf74e7",
+      "sourceTextSha256": "823d5c1f2826144bada6959a3407387f994a00146ee23b888ffad5cac4f21fae",
+      "freshTranslation": "부스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00074/Sheet1/000015",
+      "sourceBindingSha256": "0d0cdc592de5acb788b2bc12de992ff9b8edd556d74454a8f48f888c5f21c06d",
+      "sourceTextSha256": "fa9cc48d78054af821870425bf942d662138ee83c27c55dd26812d4205dba2c3",
+      "freshTranslation": "-를 증설. 이에 따라 항행능력㊥이 대폭 강화되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

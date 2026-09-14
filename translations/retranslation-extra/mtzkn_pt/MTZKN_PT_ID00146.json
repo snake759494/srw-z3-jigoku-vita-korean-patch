@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00146",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00146/Sheet1/000002",
+      "sourceBindingSha256": "f22762f3fcdcb11feaa281b53cd4338b14baf85bec5814ea827ed6ae6ca23f3d",
+      "sourceTextSha256": "0c5de91aaf494d5d7aabaf503ff3971e10d93413728b1d6cdd7f9d93b16dedde",
+      "freshTranslation": "플라스트 스콜",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00146/Sheet1/000003",
+      "sourceBindingSha256": "041e14a7f8b28f5e53e718274057244bcaa7b1bd1767280df6d2915bb6c8e8ef",
+      "sourceTextSha256": "6ceaae11c4813f32edc19d5bdf00a72665f37356477d3a956fe3bad914246774",
+      "freshTranslation": "플라스트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00146/Sheet1/000004",
+      "sourceBindingSha256": "0186c76c0abb78c8bb5f677226107ed3b75d64db50a53b6b4a0841665bd9b828",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00146/Sheet1/000005",
+      "sourceBindingSha256": "650c098b41d9b75126e953975ef43f101b2dc0c6a0b9a837750885d3f03fa154",
+      "sourceTextSha256": "fe4eeee20dfb6dd14ef3a4223ce798db820dc626428caad46775d15a5aa39c89",
+      "freshTranslation": "코야마 리키야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00146/Sheet1/000006",
+      "sourceBindingSha256": "5bd9e432fad9fcf373e407f26f0e652148aeed0722f14ec9c70be6a1a835e15e",
+      "sourceTextSha256": "cb7030fa81e3acdbfcba9788e333e21afb73e15b23bc0dfc1ba198c1e428cb11",
+      "freshTranslation": "소매가 달린 갈란셰르대대원. 27세. ㊥ 조잡한 분위기가 있는 남성이지만, 형님 피부로 승무원의 신뢰는 두껍다. 진네만이란 연방㊥군 포로 수용소 이후의 교제.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00146/Sheet1/000007",
+      "sourceBindingSha256": "004b5712ddbe1cf6a3c896c629ad84d10a8a6c617185a3f26960f36b325d93fc",
+      "sourceTextSha256": "9ea2deba3dc4a867e16a7a01a2c88397be0750dfdd9764187d361dc7f83a9364",
+      "freshTranslation": "소매가 달린 갈란셰르대대원. 27세. ㊥ 조잡한 분위기가 있는 남성이지만, 형님 피부로 승무원의 신뢰는 두껍다. 진네만이란 연방㊥군 포로 수용소 이후의 교제. ㊥ 일년 전쟁 종결 후에 일어난 연방군에 의한 글로브시에서의 학살에 의해 부모를 잃어 ㊥ 하고, 진네만 같이 연방을 미워하고 있다. ㊥ 길보아를 죽인 배너지에 힘들게 맞으면서도 트링턴에서 배너지와 진㊥ 네만의 비비를 보았을 때는 굳이 멈추지 않고 성행을 지켜보고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

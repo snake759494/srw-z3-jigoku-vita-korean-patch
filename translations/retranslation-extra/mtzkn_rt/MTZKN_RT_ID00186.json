@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00186",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00186/Sheet1/000002",
+      "sourceBindingSha256": "088e17ffa2f369dd9c6a073e8621bdd441a747aae71dd8c038a1e3d45164d624",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00186/Sheet1/000003",
+      "sourceBindingSha256": "a549c357bfd8c9bd27bf1c4a173903e48e6952feef57d9c53c50b058950ce7e5",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00186/Sheet1/000004",
+      "sourceBindingSha256": "179cc6b2e1cce1eb42874e09cf9546ab8726b1f23b74f1f3821a9dc7f02e8af7",
+      "sourceTextSha256": "6a5d77d97e8ea022c05a2acdd1ceb17d375e6a67cf65cf7739010aedc5c07c31",
+      "freshTranslation": "베헤모스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00186/Sheet1/000005",
+      "sourceBindingSha256": "5e6f64b42251b99215a3103de61765e989f23f07e736b0786b4c94ef4c765d00",
+      "sourceTextSha256": "6a5d77d97e8ea022c05a2acdd1ceb17d375e6a67cf65cf7739010aedc5c07c31",
+      "freshTranslation": "베헤모스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00186/Sheet1/000006",
+      "sourceBindingSha256": "1b092e7f6365ca8998cc87e2ef2e29dba186cdbde4a4b56066326d00cccfe263",
+      "sourceTextSha256": "67148ec4671379f0ab00401b0e24aa74752d477b7adc36c5a2c6020994c9fd1c",
+      "freshTranslation": "쿠가 야마 ·",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00186/Sheet1/000007",
+      "sourceBindingSha256": "57215ec1959998e9dc4201fdf576ec7673c6e13bcfd4e2615c31c669243c56f5",
+      "sourceTextSha256": "b1d74dcab2f1513fe159019445079c3201617d2890e5a253ef6f83da8e0789aa",
+      "freshTranslation": "곰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00186/Sheet1/000008",
+      "sourceBindingSha256": "8768227269600fe02ac40ec60affd107abc273e724659e3059ae585d07fe5c7d",
+      "sourceTextSha256": "c4fd43dabe557129a895e776c9298086137500bdc86d0c9cfee4035eb6d2ae09",
+      "freshTranslation": "테러리스트 그룹 \"A21\"이 보유한 초거대 AS. ㊥ 조종사는 구가 야마 ·",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00186/Sheet1/000009",
+      "sourceBindingSha256": "6cc2cb154b84ea6dc5073be08ab769f9b7ba968b4d97df6a39db2e35e359e885",
+      "sourceTextSha256": "8c1780c88e71292eb0a53fdc7bd888fcd8b764b92eda72ad88f1bc739528f45c",
+      "freshTranslation": "곰. ㊥ 람다 드라이버를 작동시키지 않으면 자중을 지지할 수 없을 정도의 무게가 있다. ㊥ 주요 무장은 거대한 검과 머리에 있는 30mm 기관포. ㊥화물선에 숨겨진 기기를",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00186/Sheet1/000010",
+      "sourceBindingSha256": "0d2f192366d15276854a6d40c9e32142fa272c8fd120987ed8312e38ce0b6340",
+      "sourceTextSha256": "202ad5f610a2e779f2a445f6af71182e8327d80b7beccd5262120d60898e1028",
+      "freshTranslation": "곰이 기동해, 제압에 출동한 육상 자위대의 나라시노㊥강습기병 중대를 일축해, 도쿄 걸프 일대를 파괴하려고 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00186/Sheet1/000011",
+      "sourceBindingSha256": "51643afe6c69167ea056562e2be54d8a1f65d6ce37a2ede233f3ee40d6d5593f",
+      "sourceTextSha256": "c4fd43dabe557129a895e776c9298086137500bdc86d0c9cfee4035eb6d2ae09",
+      "freshTranslation": "테러리스트 그룹 \"A21\"이 보유한 초거대 AS. ㊥ 조종사는 구가 야마 ·",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00186/Sheet1/000012",
+      "sourceBindingSha256": "dc33cf52c382ede020993a29399db00cdd3b434de6cd6c56af6cb1c3fbe502fc",
+      "sourceTextSha256": "8c1780c88e71292eb0a53fdc7bd888fcd8b764b92eda72ad88f1bc739528f45c",
+      "freshTranslation": "곰. ㊥ 람다 드라이버를 작동시키지 않으면 자중을 지지할 수 없을 정도의 무게가 있다. ㊥ 주요 무장은 거대한 검과 머리에 있는 30mm 기관포. ㊥화물선에 숨겨진 기기를",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00186/Sheet1/000013",
+      "sourceBindingSha256": "cad1f7c13042da8ae2c8cbfccc861a085cd629bd53c39da36a61c624de464258",
+      "sourceTextSha256": "ac688e1872fef4cf2a9f6978b6acfb30d565caf0629d37bb006723d2d0ac1f60",
+      "freshTranslation": "곰이 기동해, 제압에 출동한 육상 자위대의 나라시노㊥강습기병 중대를 일축해, 도쿄 걸프 일대를 파괴하려고 한다. 마지막은 소스케가 타는 아바㊥레스트와 대결하여 다리의 밑에 있던 냉각장치를 파괴되어 람다 드라이버의 기계㊥능을 정지시킨다. 그 결과 자중을 지지하지 못하고 붕괴했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

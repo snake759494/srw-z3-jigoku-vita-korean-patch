@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "defaultGroups": ["stage", "dlc", "dictionary"],
+  "groups": {
+    "stage": {
+      "label": "본편 스테이지",
+      "root": "01_스테이지 xlsx 모음",
+      "pattern": "*.xlsx",
+      "recursive": false,
+      "expectedRecognizedFiles": 265
+    },
+    "dlc": {
+      "label": "DLC",
+      "root": "!DLC",
+      "pattern": "*.xlsx",
+      "recursive": true,
+      "expectedRecognizedFiles": 77
+    },
+    "dictionary": {
+      "label": "사전",
+      "files": ["사전2-flowman.xlsx"],
+      "expectedRecognizedFiles": 1
+    },
+    "eboot": {
+      "label": "eboot 문자열",
+      "root": "1_eboot_bin (4025)",
+      "pattern": "*.xlsx",
+      "recursive": true,
+      "default": false
+    },
+    "aid": {
+      "label": "AIDDataPack",
+      "root": "2_AIDDataPack_cpk (8858)",
+      "pattern": "*.xlsx",
+      "recursive": true,
+      "default": false
+    },
+    "rpw": {
+      "label": "rpw_data",
+      "root": "3_rpw_data_cpk (4465)",
+      "pattern": "*.xlsx",
+      "recursive": true,
+      "default": false
+    },
+    "srvc": {
+      "label": "전투 대사 SRVC",
+      "root": "4_SRVC_BIN (36836)",
+      "pattern": "*.xlsx",
+      "recursive": true,
+      "default": false
+    },
+    "kdata": {
+      "label": "KDataVITA",
+      "root": "D_KDataVITA_cpk",
+      "pattern": "*.xlsx",
+      "recursive": true,
+      "default": false
+    }
+  },
+  "headerAliases": {
+    "source_text": ["원문", "문자열"],
+    "translation": ["제미니번역", "제미니 번역", "기존번역", "웹번역", "번역"],
+    "replacement_text": ["한글폰트로", "한글폰트"],
+    "google_translation": ["구글번역"],
+    "legacy_translation": ["기존번역", "웹번역"],
+    "source_offset": ["시작주소"],
+    "source_end_offset": ["끝주소"],
+    "byte_limit": ["바이트길이"],
+    "encoded_length": ["길이"],
+    "reviewer": ["검수"]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00006",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00006/Sheet1/000002",
+      "sourceBindingSha256": "f6ed684b0ccd35325e516c118e7a2309ac170460436c1bd5263cd48d9972570f",
+      "sourceTextSha256": "0b068c4089936fce8a593afe45b42cdc28b8dcd4598130cef7bc6a480fe41ad6",
+      "freshTranslation": "머리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00006/Sheet1/000003",
+      "sourceBindingSha256": "698fb0db489ce7ca39553acaabe569cb20d8b32d0a4de18faa06cd223d2364b5",
+      "sourceTextSha256": "344e35a137e92c696ff659ba0711b7b468502bdcdfe73298842ed0ce0e7bfc55",
+      "freshTranslation": "「어쿠어리온 EVOL」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00006/Sheet1/000004",
+      "sourceBindingSha256": "8fe39d4185efd5b01613a88d9936bc31ac4320147a13a66a16f1264599207250",
+      "sourceTextSha256": "535b0669826d73b098d7f22ec87228868239745062650f711c0fbc73535677fe",
+      "freshTranslation": "1만2000년 전에 인류와 싸운 타천족족 중 한 명. ㊥ 최강의 수호 천황 아폴로니아스와는 허혼의 사이였지만, 아폴로니아스가 타천 ㊥ 선족을 배반했기 때문에, 적으로서 칼날을 섞었다. 하지만 그 사랑은 1만2000년 ㊥을 거쳐도 퇴색하지 않았고, 그의 환생과 오보키 아폴로에게 접촉을 반복 ㊥했다. ㊥ 애증의 끝, 세계의 위기에 직면했을 때에는, 아폴로와 시리우스와 함께 창성합㊥ 몸을 성공시켜 부서지는 세계를 연결했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00006/Sheet1/000005",
+      "sourceBindingSha256": "41b9f6fa0fdca958816b9b56899925b05a3ec675f27b39ababbb925c4a8645e9",
+      "sourceTextSha256": "535b0669826d73b098d7f22ec87228868239745062650f711c0fbc73535677fe",
+      "freshTranslation": "1만2000년 전에 인류와 싸운 타천족족 중 한 명. ㊥ 최강의 수호 천황 아폴로니아스와는 허혼의 사이였지만, 아폴로니아스가 타천 ㊥ 선족을 배반했기 때문에, 적으로서 칼날을 섞었다. 하지만 그 사랑은 1만2000년 ㊥을 거쳐도 퇴색하지 않았고, 그의 환생과 오보키 아폴로에게 접촉을 반복 ㊥했다. ㊥ 애증의 끝, 세계의 위기에 직면했을 때에는, 아폴로와 시리우스와 함께 창성합㊥ 몸을 성공시켜 부서지는 세계를 연결했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

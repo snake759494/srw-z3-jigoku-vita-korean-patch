@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00384",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00384/Sheet1/000002",
+      "sourceBindingSha256": "443eb1738dee84e6e7c3125627fcb2839b2e8da70f6cb9f99de6a76a8a74e242",
+      "sourceTextSha256": "3a8a99280a36ce3ad0e524d84cb951385202b22f78a253403be943ecd4262c42",
+      "freshTranslation": "도나르 단테스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00384/Sheet1/000003",
+      "sourceBindingSha256": "8ae1db8b73ac85e1588316a784b0ad3418a59eb663bd047566639a5bb80e1dab",
+      "sourceTextSha256": "4c3b5bc1fe1fe8c5d9baeafc5c67d280109d5c036aef48631dbf26509f9b2f2f",
+      "freshTranslation": "도나르",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00384/Sheet1/000004",
+      "sourceBindingSha256": "6c9ab36394c41b0ee5338ca4e314341d2aaa7e0de26f43a7c4910de008293409",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00384/Sheet1/000005",
+      "sourceBindingSha256": "dbbc025f969b1f493b1c114bb4559276c038921c8ac1f2eb78e289d6e1495f90",
+      "sourceTextSha256": "a2cae2c09df3ad0b934b590795dc668aba7b3d082121d3284d1d2e0f38a01873",
+      "freshTranslation": "네오디바의 사령보좌 겸 성천사학원 교사. ㊥ 전투 훈련을 포함한 남학생의 교육을 담당합니다. ㊥ 호전적인 성격으로 적의 섬멸을 최우선으로 하고 있으며, 수업이나 훈련에도 매우 스파르",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00384/Sheet1/000006",
+      "sourceBindingSha256": "41c25bd33361eb064874249961b30ee2a97cc3253b4613520127b51bc24e737d",
+      "sourceTextSha256": "bcc3f3aa501c45f9a73def599d78fe02a90038c54b6bee6980e4d930cc03bf5d",
+      "freshTranslation": "에서 ㊥ 군인 자연스러운 엄격함이 있다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00384/Sheet1/000007",
+      "sourceBindingSha256": "126be7b269a9495c94a98acda0608c741101660a0e32bf1fcf4abd158d0f4c10",
+      "sourceTextSha256": "4ee38f7709cabcfd5c1e29e8ba6cdc73fd9dfb654a37f36f7c57b61602ce0f23",
+      "freshTranslation": "치멘 식 의수의 팔뚝 부분은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00384/Sheet1/000008",
+      "sourceBindingSha256": "a80630ede1add7dd85ac2736c5b942dfb75707f4c91937523edcdd878463950d",
+      "sourceTextSha256": "1c33e27a8f6ed6c990a7f5d1bc20bda8eb01f8fb352e5eb4739c80b167002ee6",
+      "freshTranslation": "건과 포크 등을 바꿔 장착하는 ㊥ 일이 가능.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00384/Sheet1/000009",
+      "sourceBindingSha256": "1fbec3dda032b2c1e1c134f7eb18e80e2f47f8b1662f4289d520c03d374b1118",
+      "sourceTextSha256": "a2cae2c09df3ad0b934b590795dc668aba7b3d082121d3284d1d2e0f38a01873",
+      "freshTranslation": "네오디바의 사령보좌 겸 성천사학원 교사. ㊥ 전투 훈련을 포함한 남학생의 교육을 담당합니다. ㊥ 호전적인 성격으로 적의 섬멸을 최우선으로 하고 있으며, 수업이나 훈련에도 매우 스파르",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00384/Sheet1/000010",
+      "sourceBindingSha256": "985c59926708e2fdcea3f0806b29f999e6d13d635a6cb2208bbc3ba87f321241",
+      "sourceTextSha256": "bcc3f3aa501c45f9a73def599d78fe02a90038c54b6bee6980e4d930cc03bf5d",
+      "freshTranslation": "에서 ㊥ 군인 자연스러운 엄격함이 있다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00384/Sheet1/000011",
+      "sourceBindingSha256": "d6cf69ed1731269641d881eda72be95d4ca95a534284c38892a96897244f11f4",
+      "sourceTextSha256": "4ee38f7709cabcfd5c1e29e8ba6cdc73fd9dfb654a37f36f7c57b61602ce0f23",
+      "freshTranslation": "치멘 식 의수의 팔뚝 부분은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00384/Sheet1/000012",
+      "sourceBindingSha256": "f3f2b6deb65e4e00c93046b3ca25aeaa322e6e1cfe68696b589203f53d160e32",
+      "sourceTextSha256": "eaa6bc02c351bd5ca4b9150380b96088341ee3385399be79bd4e091f0449fcea",
+      "freshTranslation": "건과 포크 등을 바꿔 장착하는 ㊥ 일이 가능. ㊥9년 전에는 엘리먼트 후보생으로서 아쿠에리온에 탑승하고 있었다. 그러나 연인의 ㊥ 나나온과의 연애 감정이 높아진 것에 의해, 아쿠에리온이 폭주. 연인과 양팔을 잃어 ㊥ 버린다. 이 이후, 아쿠에리온의 남녀 합체는 금지되었다. ㊥ 동료인 스오미와는 교육 방침의 차이로 충돌하는 일도 몇번이나 있었지만, 최종 결전㊥시, 이사장 클레어의 「만약의 때에는 다음 시대의 아담과 이브가 되어라」의 말에 동의㊥하고 있었다 그녀",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

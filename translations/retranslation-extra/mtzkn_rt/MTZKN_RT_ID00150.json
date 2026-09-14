@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00150",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00150/Sheet1/000002",
+      "sourceBindingSha256": "e807ba45fbcc44b66f49926a4c103eff8ab7f9b81630ce457af5c1d6cba3467b",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00150/Sheet1/000003",
+      "sourceBindingSha256": "0638d4ab0e73427e46728dbd1a9635854f6aabd282954e04571077f884babb28",
+      "sourceTextSha256": "486986e9fc6ec9ff6eea1073f718cdcf291083a0468b036019a4f419f8dce83b",
+      "freshTranslation": "보스 볼롯",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00150/Sheet1/000004",
+      "sourceBindingSha256": "18c705902de8fef252b1277351e5158ab6a0762e32da179a03f26408520fa624",
+      "sourceTextSha256": "486986e9fc6ec9ff6eea1073f718cdcf291083a0468b036019a4f419f8dce83b",
+      "freshTranslation": "보스 볼롯",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00150/Sheet1/000005",
+      "sourceBindingSha256": "98faed89612c31d1510b1768b68ac4d4b3cc30adcf467a3cf476ee3fb69e11a9",
+      "sourceTextSha256": "ad9d3832188b8a00b3324e7c463e448c8a82663db911a622da8ae5ffcb8d1e14",
+      "freshTranslation": "보스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00150/Sheet1/000006",
+      "sourceBindingSha256": "357b4dfa84ed0ae2489265374941f29079ace0df32128b01c5102ca0e70602b1",
+      "sourceTextSha256": "425c1ebf2ee982c66aaeec182b6ef55b2cbc38de6b171b4f189c2f31a84acfbb",
+      "freshTranslation": "광자력 연구소의 작업용 로봇이었던 것을 개조하여 색을 바꾼 기체. 보스의 ㊥ 로봇이라는 것으로 약어 보스 볼롯과 누케와 무챠에 의해 명명되고있다. ㊥ 외형은 코미디",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00150/Sheet1/000007",
+      "sourceBindingSha256": "99bf7a776373fab8d73cdbd14a54c3e7ca3a3abc4487f0a86c31ff835747e297",
+      "sourceTextSha256": "521736441a1c9120217ee03e8aac85ee001acfe994567e207dd0a80135b251be",
+      "freshTranslation": "치이지만 미사일",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00150/Sheet1/000008",
+      "sourceBindingSha256": "974d5a3324412e6bd964342f8de021dbd2a79fb74664201be37ef517dd508886",
+      "sourceTextSha256": "a5227263bd05698f560e29eae9d6f0172560ea124f60953d829076a6488adc8a",
+      "freshTranslation": "기계 짐승을 날아다니며 상공에 방㊥ 던지는 등 활약을 보였다. ㊥ 최종 결전에서는 결사의 각오로 기계수 아슈라 남작에 특공을 짓는 것도 연주되는 ㊥ 모습으로 머리만 남기고 폭발. 해저에 가라앉고 있던 마징가 Z를 머리만으로 끌어올려 ㊥ 갑아에게 넘겼다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00150/Sheet1/000009",
+      "sourceBindingSha256": "3ba8f2b8ed195864bf690be9c235931c3fe16209615bc26815ff1ca03b9b31ef",
+      "sourceTextSha256": "425c1ebf2ee982c66aaeec182b6ef55b2cbc38de6b171b4f189c2f31a84acfbb",
+      "freshTranslation": "광자력 연구소의 작업용 로봇이었던 것을 개조하여 색을 바꾼 기체. 보스의 ㊥ 로봇이라는 것으로 약어 보스 볼롯과 누케와 무챠에 의해 명명되고있다. ㊥ 외형은 코미디",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00150/Sheet1/000010",
+      "sourceBindingSha256": "2a67a9ed11b1174da0a8407781bba374ec8c7373274976c3eef3e6f284967eb9",
+      "sourceTextSha256": "521736441a1c9120217ee03e8aac85ee001acfe994567e207dd0a80135b251be",
+      "freshTranslation": "치이지만 미사일",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00150/Sheet1/000011",
+      "sourceBindingSha256": "724eee6027db8bd496d033da90a0eea49a592f040944eee2e8511847e1c62d81",
+      "sourceTextSha256": "a5227263bd05698f560e29eae9d6f0172560ea124f60953d829076a6488adc8a",
+      "freshTranslation": "기계 짐승을 날아다니며 상공에 방㊥ 던지는 등 활약을 보였다. ㊥ 최종 결전에서는 결사의 각오로 기계수 아슈라 남작에 특공을 짓는 것도 연주되는 ㊥ 모습으로 머리만 남기고 폭발. 해저에 가라앉고 있던 마징가 Z를 머리만으로 끌어올려 ㊥ 갑아에게 넘겼다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/snake7594/srw-z3-jigoku-vita-korean-patch/releases/schema/stage-conditions.schema.json",
+  "title": "시옥편 스테이지 승리·패배·SR 조건 번역",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["$schema", "format", "formatVersion", "gameId", "asset", "source", "entries"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "format": { "const": "siok.stage-conditions" },
+    "formatVersion": { "const": 1 },
+    "gameId": { "const": "PCSG00264" },
+    "asset": { "$ref": "#/$defs/asset" },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["memberId", "encoding"],
+      "properties": {
+        "memberId": { "const": "ID00001" },
+        "encoding": { "const": "cp932" },
+        "sha256": { "type": ["string", "null"], "pattern": "^[0-9a-f]{64}$" }
+      }
+    },
+    "entries": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/entry" }
+    }
+  },
+  "$defs": {
+    "asset": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["assetKey", "fileName", "target"],
+      "properties": {
+        "assetKey": { "type": "string", "pattern": "^[A-Za-z0-9_-]+$" },
+        "fileName": { "type": "string", "pattern": "^[A-Za-z0-9_.-]+\\.cpk$" },
+        "target": { "type": "string", "minLength": 1 }
+      }
+    },
+    "entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["entryId", "sourceId", "sourceText", "translation", "conditionTypes", "translationStatus", "notes"],
+      "properties": {
+        "entryId": { "type": "string", "minLength": 1 },
+        "sourceId": { "type": "integer", "minimum": 0 },
+        "sourceText": { "type": "string" },
+        "translation": { "type": "string" },
+        "conditionTypes": {
+          "type": "array",
+          "items": { "enum": ["win", "defeat", "sr", "other"] },
+          "uniqueItems": true
+        },
+        "translationStatus": { "enum": ["translated", "untranslated", "review"] },
+        "translator": { "type": "string" },
+        "notes": { "type": "string" }
+      }
+    }
+  }
+}

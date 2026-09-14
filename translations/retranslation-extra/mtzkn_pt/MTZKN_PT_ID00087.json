@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00087",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00087/Sheet1/000002",
+      "sourceBindingSha256": "e69acf01b331aea362ac3e61773c767248e88b39d0575e8476cfd9f16a1f275a",
+      "sourceTextSha256": "54f94020a75f0403cb24c33c6e3baaf2c375639ad6a0a83ff51272a05dd4a0e7",
+      "freshTranslation": "힐데 슈바이커",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00087/Sheet1/000003",
+      "sourceBindingSha256": "3c849c7a558c96f37d2547ff27b576d1ef5823b7b15bae8cba65b951b56bde59",
+      "sourceTextSha256": "e033711952ea8375a1c5c830c6461498e50fe735139d5ae8956e82b07721af37",
+      "freshTranslation": "힐데",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00087/Sheet1/000004",
+      "sourceBindingSha256": "b4cdf1a598a355c4caa2b999e3db99add70e4c138f987639575ce90debf14a52",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00087/Sheet1/000005",
+      "sourceBindingSha256": "91b360d79f646ff60aa16dbe41325990fc77bd409226120c29eb6a3454cb891b",
+      "sourceTextSha256": "9e6d6a839681dca94a3ae4506be61cfc03a4dd543ae3c1b407e1bbb9736749c8",
+      "freshTranslation": "아라키 카이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00087/Sheet1/000006",
+      "sourceBindingSha256": "a1edd2aeeb44eafb7cfb50c22e8e714a022d9e588f428f1c54d1dfef8a3a4ced",
+      "sourceTextSha256": "c5bb338b5e345e8f317a9a206bf9ecc27f5c31b9e6c725b19cc6ead7538d9123",
+      "freshTranslation": "식민지 시민 출신의 전 OZ 지원병. 당시의 계급은 특사. ㊥ 콜로니가 OZ를 받아들인 뒤 콜로니를 지키고 싶다는 한결같은 마음으로 병사 ㊥사에게 지원한다. 그러나 듀오와의 만남으로 OZ를하는 방식",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00087/Sheet1/000007",
+      "sourceBindingSha256": "af2d35f4cf05e97cea07eaa3a1da5328a79739cec38b5b817c90ab3b25ee5dfd",
+      "sourceTextSha256": "515aa477bd88a28eea233ff08265432dc3b7d555070e19b3bf8212ec360aa939",
+      "freshTranslation": "질문을 가지고, 이㊥반하는 것이 된다. ㊥ 이후는, 전쟁과 정크 가게의 양면으로부터 듀오의 서포트를 해 돌린다. ㊥ 전쟁 종결 이후에도 변함없이 듀오와 정크가게를 운영하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00087/Sheet1/000008",
+      "sourceBindingSha256": "507804ee7c95f7fe5a2a694b1a2f1748931a7125feed8d69979999d23950a908",
+      "sourceTextSha256": "c5bb338b5e345e8f317a9a206bf9ecc27f5c31b9e6c725b19cc6ead7538d9123",
+      "freshTranslation": "식민지 시민 출신의 전 OZ 지원병. 당시의 계급은 특사. ㊥ 콜로니가 OZ를 받아들인 뒤 콜로니를 지키고 싶다는 한결같은 마음으로 병사 ㊥사에게 지원한다. 그러나 듀오와의 만남으로 OZ를하는 방식",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00087/Sheet1/000009",
+      "sourceBindingSha256": "6ea6bc0c2e882e7f075967ff6ff7d82ef9e61b8cbf59e43cdf7c4a0b199e93c4",
+      "sourceTextSha256": "515aa477bd88a28eea233ff08265432dc3b7d555070e19b3bf8212ec360aa939",
+      "freshTranslation": "질문을 가지고, 이㊥반하는 것이 된다. ㊥ 이후는, 전쟁과 정크 가게의 양면으로부터 듀오의 서포트를 해 돌린다. ㊥ 전쟁 종결 이후에도 변함없이 듀오와 정크가게를 운영하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

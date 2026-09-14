@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00073",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00073/Sheet1/000002",
+      "sourceBindingSha256": "087bd954c38acb4e007a131ba14481cdb7c8aadbffae31ddf5c9d4858bb1563b",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00073/Sheet1/000003",
+      "sourceBindingSha256": "c6ea9603497fa08138dcc02bf011f65447b4711dc5bb9f5a10cf29bb744ba18e",
+      "sourceTextSha256": "d5364c095ebd5af78d3e647303cb5055c37516711d59416894b650ecd54eb8fd",
+      "freshTranslation": "유니온 플래그",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00073/Sheet1/000004",
+      "sourceBindingSha256": "32a19db07b38b3b14d708988d046e7b1f6c87870281837d5e543a7a57c18e97b",
+      "sourceTextSha256": "d5364c095ebd5af78d3e647303cb5055c37516711d59416894b650ecd54eb8fd",
+      "freshTranslation": "유니온 플래그",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00073/Sheet1/000005",
+      "sourceBindingSha256": "6782886ffd46cf92c567bcadde86df8be0b44ed94be78ad76253c584ce84214d",
+      "sourceTextSha256": "9d9ae172fdc3acb985e0859af43788b807b9a44eda6e92500860ae00333e84b9",
+      "freshTranslation": "세츠나・F・세이에이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00073/Sheet1/000006",
+      "sourceBindingSha256": "2df513dd149c402a0cd7f6c9a40ae3650baa8ea9ca7ae1e07323aad9812f7b1f",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00073/Sheet1/000007",
+      "sourceBindingSha256": "106e2ab679453c834a434fb6985dbc610c41460f127b2fad090f48cc6ed99ff5",
+      "sourceTextSha256": "db299dd1713ee40148f476cb5ce81d9c8cf21fdef4cec08fba6560a1e65a4d5f",
+      "freshTranslation": "루비잉이 사용하는 유니온 플래그. ㊥ 억제력으로서 너무 강한 의미를 가지는 「건담」의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00073/Sheet1/000008",
+      "sourceBindingSha256": "34853ed71eb00a790be2d9b3c8e95a7f605d01341654e6a2b328d29d4a93fbb1",
+      "sourceTextSha256": "640aaee959ff48ad2a934a7028df6ae5fa8a484d21db02c70869402876a9b075",
+      "freshTranslation": "용을 앞둔 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00073/Sheet1/000009",
+      "sourceBindingSha256": "bec29e552731506638b49318f219ff540f7f2dc27e274e38f44af8e5cf1cb15f",
+      "sourceTextSha256": "39995f86a02589e84856f08a9e3d32d0fe832445b25649a7c1b8910562e057fd",
+      "freshTranslation": "루비 인 ㊥ 구가 대신 사용하고 있습니다. ㊥ 각부의 개수에 의해, 파일럿의 능력에 맞춘 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00073/Sheet1/000010",
+      "sourceBindingSha256": "0a0fb400ab37d7a69ae53e6f19016e8995aa830d1e5a2f5e55b151c9735b748b",
+      "sourceTextSha256": "06c16029f9d039e186a2bc7a93d20ba3f7ca39c2b18c51d82e0be39a51c67e72",
+      "freshTranslation": "마이즈를 베풀 수 있게 되어 ㊥ 있어, 세츠나가 사용한 기체에는 GN 콘덴서가 내장된 GN 소드 II개가 착 ㊥ 갖추어져 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00073/Sheet1/000011",
+      "sourceBindingSha256": "e45fea24357283e8d75dc0b3446f0bc395193e06dc7620a15b02b78e96ccd5d4",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00073/Sheet1/000012",
+      "sourceBindingSha256": "cfb881a089fb6cdbc72a3712dda69d36950d76f76a78c1524bf65bb64f79124a",
+      "sourceTextSha256": "db299dd1713ee40148f476cb5ce81d9c8cf21fdef4cec08fba6560a1e65a4d5f",
+      "freshTranslation": "루비잉이 사용하는 유니온 플래그. ㊥ 억제력으로서 너무 강한 의미를 가지는 「건담」의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00073/Sheet1/000013",
+      "sourceBindingSha256": "80b53ed8743ab0be3b04792429f0ae2e0c6c6699604eb146cea1c581587c9755",
+      "sourceTextSha256": "640aaee959ff48ad2a934a7028df6ae5fa8a484d21db02c70869402876a9b075",
+      "freshTranslation": "용을 앞둔 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00073/Sheet1/000014",
+      "sourceBindingSha256": "e614c9cf8fe1ca45eead4cf2d6843a8f76c7cf17d6920f3c7f5c9a679e6a0874",
+      "sourceTextSha256": "39995f86a02589e84856f08a9e3d32d0fe832445b25649a7c1b8910562e057fd",
+      "freshTranslation": "루비 인 ㊥ 구가 대신 사용하고 있습니다. ㊥ 각부의 개수에 의해, 파일럿의 능력에 맞춘 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00073/Sheet1/000015",
+      "sourceBindingSha256": "db1f13c5bf85fc42a3a093bf13bdaa2ead65cb454a6ab00e8abdb4b64fd78752",
+      "sourceTextSha256": "06c16029f9d039e186a2bc7a93d20ba3f7ca39c2b18c51d82e0be39a51c67e72",
+      "freshTranslation": "마이즈를 베풀 수 있게 되어 ㊥ 있어, 세츠나가 사용한 기체에는 GN 콘덴서가 내장된 GN 소드 II개가 착 ㊥ 갖추어져 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

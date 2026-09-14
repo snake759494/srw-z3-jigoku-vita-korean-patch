@@ -1,0 +1,781 @@
+{
+    "schemaVersion":  1,
+    "name":  "legacy-dlc",
+    "gameId":  "PCSG00264",
+    "requiredVersion":  "1.02",
+    "snapshotLabel":  "observed-dlc-2025-01-10",
+    "snapshotKind":  "observed-archive-state",
+    "sourceScript":  "!배포-DLC/Korean/PCSG00264/PCSG00264_DLC_Korean_Create_250109.bat",
+    "roots":  {
+                  "original":  "!배포-DLC/Original/PCSG00264",
+                  "localized":  "!배포-DLC/Korean/PCSG00264",
+                  "delta":  "!배포-DLC/Korean/PCSG00264/Patch"
+              },
+    "format":  {
+                   "name":  "VCDIFF/xdelta3",
+                   "legacyCommand":  "xdelta.exe -e -f -s \u003coriginal\u003e \u003clocalized\u003e \u003cdelta\u003e",
+                   "roundTripVerified":  false
+               },
+    "counts":  {
+                   "total":  29,
+                   "byCategory":  {
+                                      "dlc":  29
+                                  }
+               },
+    "entries":  [
+                    {
+                        "order":  1,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00301/DLC/DLC0301.cpk",
+                        "deltaFile":  "DLC0301_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  27572,
+                                         "sha256":  "93326c962108a810877d8beadb20118d5b2f66b14e18b2c70172d33825133cc8",
+                                         "lastWriteUtc":  "2025-01-06T02:17:51.6685564Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  127952,
+                                          "sha256":  "be5ded24fc16288f23c37d23ea3387973488de23614390c3ff0f3eb92c66655a",
+                                          "lastWriteUtc":  "2025-01-06T08:51:47.1822368Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  19493,
+                                      "sha256":  "50bfc46c02f43673b7de78786e1578808adcba54b03065623f7d4feeb48621b0",
+                                      "lastWriteUtc":  "2025-01-10T01:22:49.0091513Z"
+                                  }
+                    },
+                    {
+                        "order":  2,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00302/DLC/DLC0302.cpk",
+                        "deltaFile":  "DLC0302_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  32312,
+                                         "sha256":  "dbc57e2e5d7d1c7807b56e55119a3bc0a45332c92be8f3aa7dd5d7de9dce851e",
+                                         "lastWriteUtc":  "2025-01-06T02:17:51.9857207Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  154144,
+                                          "sha256":  "e7872b3f84cbe2346465c6ded72c547e4f0839bb42a3a5c4ad7ebb3c4c6095cf",
+                                          "lastWriteUtc":  "2025-01-07T01:22:25.3832686Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  23245,
+                                      "sha256":  "f9854ef89d72b7732f960e6e5619797f93706929b7887eb8c39dc0a0520ac409",
+                                      "lastWriteUtc":  "2025-01-10T01:22:49.1907176Z"
+                                  }
+                    },
+                    {
+                        "order":  3,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00303/DLC/DLC0303.cpk",
+                        "deltaFile":  "DLC0303_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  33016,
+                                         "sha256":  "e4de5ae6d00fca80d2e1ed254ac6445948b693d8c0ccd74f0e7506527f002690",
+                                         "lastWriteUtc":  "2025-01-06T02:17:52.1262513Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  167344,
+                                          "sha256":  "a698905bd5c44e2f0c8712e41fbc4d80c926288d2efbf416f22cf53eb22d4c08",
+                                          "lastWriteUtc":  "2025-01-07T01:53:05.1727598Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  23910,
+                                      "sha256":  "bd8c127a12909057ce09086c3307b8c67d24b9229042f67a7f244e1f2193a018",
+                                      "lastWriteUtc":  "2025-01-10T01:22:49.3631754Z"
+                                  }
+                    },
+                    {
+                        "order":  4,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00304/DLC/DLC0304.cpk",
+                        "deltaFile":  "DLC0304_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  38840,
+                                         "sha256":  "050f638472d1093911a6e1e24c2ba4f9134d653aa9df333efd4173b8a9071f66",
+                                         "lastWriteUtc":  "2025-01-06T02:17:52.2691568Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  197648,
+                                          "sha256":  "84dbbc66a49ba6cb98f003470be80df408bec98e253bad96c704ec8ce61aa948",
+                                          "lastWriteUtc":  "2025-01-07T02:19:17.3146742Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  28770,
+                                      "sha256":  "308be7be0ec2825b5586bd3f60ed1485efac53db80c1d96200617c9aefe79e16",
+                                      "lastWriteUtc":  "2025-01-10T01:22:49.5343038Z"
+                                  }
+                    },
+                    {
+                        "order":  5,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00305/DLC/DLC0305.cpk",
+                        "deltaFile":  "DLC0305_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  29784,
+                                         "sha256":  "3480c8695144b2481d61738036c3b110b5e9c3587e5aadb7879f7d1af45228a2",
+                                         "lastWriteUtc":  "2025-01-06T02:17:52.4167500Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  152320,
+                                          "sha256":  "4af88ca440a6bc7987c9bc8ce4eef00db1534142e8c20247e70fc1c0f07a7f29",
+                                          "lastWriteUtc":  "2025-01-07T02:35:14.9909577Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  21408,
+                                      "sha256":  "fc2891647b01fdd4fcdc7be51ffa1ada1b76c27fb1b1250e57cd0372474b03e5",
+                                      "lastWriteUtc":  "2025-01-10T01:22:49.7000284Z"
+                                  }
+                    },
+                    {
+                        "order":  6,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00306/DLC/DLC0306.cpk",
+                        "deltaFile":  "DLC0306_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  40772,
+                                         "sha256":  "d758407094fadb159cf77c6e95a7a235a0c78f2ce3b2038b47b71ea6865e9dcd",
+                                         "lastWriteUtc":  "2025-01-06T02:17:52.5680987Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  312688,
+                                          "sha256":  "5d342535a40c0e9080d631ac6fdd627706d8830a4f21aa0fe860fa58816a9ba3",
+                                          "lastWriteUtc":  "2025-01-08T08:51:50.9475432Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  29898,
+                                      "sha256":  "bbf94555cd21f79bcdfe16a4ccfde95d0cc221b0b6fe89c3d45430dd4e7ee51c",
+                                      "lastWriteUtc":  "2025-01-10T01:22:49.8670591Z"
+                                  }
+                    },
+                    {
+                        "order":  7,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00307/DLC/DLC0307.cpk",
+                        "deltaFile":  "DLC0307_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  33464,
+                                         "sha256":  "3732b83e37a4ba39bb89e735494154702fa9d90ab69857e6cc6d14d44a80fd0d",
+                                         "lastWriteUtc":  "2025-01-06T02:17:52.7158556Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  163360,
+                                          "sha256":  "0ac8aa56e10e5ad9701d45ebbe5af8971e5eee01f5cb9c1395cb9aba759d91df",
+                                          "lastWriteUtc":  "2025-01-08T00:07:27.7015837Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  24318,
+                                      "sha256":  "2f3fe3089fc7b30064699d86570c1a267966bbe5b356339a122f741530faa95a",
+                                      "lastWriteUtc":  "2025-01-10T01:22:50.0365042Z"
+                                  }
+                    },
+                    {
+                        "order":  8,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00308/DLC/DLC0308.cpk",
+                        "deltaFile":  "DLC0308_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  36536,
+                                         "sha256":  "f61498ccdfb868f356b9e198f96636da3b24898d5b441029d701a1fe83ad128b",
+                                         "lastWriteUtc":  "2025-01-06T02:17:52.8709309Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  219376,
+                                          "sha256":  "29779d34961fa4c8ab989491e4dbbffe540a812ad49ecd981e3a29f4da798709",
+                                          "lastWriteUtc":  "2025-01-08T00:32:44.9681533Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  26930,
+                                      "sha256":  "a856cd43f96b96aa42471cc0bb23ab2706232853a2a551f2beca58d13e4a5cd4",
+                                      "lastWriteUtc":  "2025-01-10T01:22:50.2241038Z"
+                                  }
+                    },
+                    {
+                        "order":  9,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00309/DLC/DLC0309.cpk",
+                        "deltaFile":  "DLC0309_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  33892,
+                                         "sha256":  "90fa57468d4700838a6ea010d6dde185be7b342b4ca148667660bd2e214d4d53",
+                                         "lastWriteUtc":  "2025-01-06T02:17:53.0181133Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  182240,
+                                          "sha256":  "33db49c7996de5a7abeb39b668003bd1e7637a3f7033d0b61cebaef00ccd025f",
+                                          "lastWriteUtc":  "2025-01-08T09:00:07.8404242Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  25374,
+                                      "sha256":  "5737d54394387c6eda2607b33387ceaba75ea5690b8caa80c63787c4d0fe8130",
+                                      "lastWriteUtc":  "2025-01-10T01:22:50.3864070Z"
+                                  }
+                    },
+                    {
+                        "order":  10,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00310/DLC/DLC0310.cpk",
+                        "deltaFile":  "DLC0310_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  33240,
+                                         "sha256":  "649d2650d32a58e98b103ad36e519a4bc9dff8c28c3856e80708dc68a37b1510",
+                                         "lastWriteUtc":  "2025-01-06T02:17:53.1687074Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  184416,
+                                          "sha256":  "493272fec51b5f0df722c859cc6cb7afc61feca18f8fba13263c5809a9fd1606",
+                                          "lastWriteUtc":  "2025-01-08T01:09:14.3207621Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  24332,
+                                      "sha256":  "f23e87c30557ba876cb305fc4321dae807803d576adfc716f4e875b18a0c425f",
+                                      "lastWriteUtc":  "2025-01-10T01:22:50.5541274Z"
+                                  }
+                    },
+                    {
+                        "order":  11,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00311/DLC/DLC0311.cpk",
+                        "deltaFile":  "DLC0311_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  35240,
+                                         "sha256":  "3fb3fc4d6aa184cfbb468120a504823e008aeb282935e97fa1b39e7dfc1b217e",
+                                         "lastWriteUtc":  "2025-01-06T02:17:53.3138141Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  226896,
+                                          "sha256":  "d8b0c11dadd29773a30e2254b4bdddbb096b15b9d95499f9d962adc81587820c",
+                                          "lastWriteUtc":  "2025-01-08T01:28:24.5440244Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  25519,
+                                      "sha256":  "a551e3ee5352baa562fc883d2c03cb5c11c753ba0ef4fb0ee435f1c23b6a5cc2",
+                                      "lastWriteUtc":  "2025-01-10T01:22:50.7294006Z"
+                                  }
+                    },
+                    {
+                        "order":  12,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00312/DLC/DLC0312.cpk",
+                        "deltaFile":  "DLC0312_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  33792,
+                                         "sha256":  "560be27464598eacb5e209943a63729edde6e2bd346352d623f72e1329ec1f2c",
+                                         "lastWriteUtc":  "2025-01-06T02:17:53.4523329Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  178240,
+                                          "sha256":  "3ca08ce37bdf5573ca4b38c214c170ef3e448bf32f4161f744eb2740c9599e43",
+                                          "lastWriteUtc":  "2025-01-08T01:51:48.8969686Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  24286,
+                                      "sha256":  "4ea10a7279489b490fa6a098dee1423338441e393b4b8240c8d782510f694538",
+                                      "lastWriteUtc":  "2025-01-10T01:22:50.9003821Z"
+                                  }
+                    },
+                    {
+                        "order":  13,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00313/DLC/DLC0313.cpk",
+                        "deltaFile":  "DLC0313_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  42412,
+                                         "sha256":  "ff564504b38e7bc1e8725785454a9d7c32d84444fe3c42b6e230cba9b90e7ea7",
+                                         "lastWriteUtc":  "2025-01-06T02:17:53.6177908Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  345056,
+                                          "sha256":  "490231285262ccb1a66221a09579d2b2165f4fd52bb523726568b2b2146aa7b2",
+                                          "lastWriteUtc":  "2025-01-08T02:34:24.9400411Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  29505,
+                                      "sha256":  "f4b42727cc08e4dc40d0834a1f37d2f4c68b8db8746c09601b61b2e8410dc497",
+                                      "lastWriteUtc":  "2025-01-10T01:22:51.0730129Z"
+                                  }
+                    },
+                    {
+                        "order":  14,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00314/DLC/DLC0314.cpk",
+                        "deltaFile":  "DLC0314_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  36916,
+                                         "sha256":  "d23ee62d13da8abed6cb546640cc61808bf3e16b4d93f26a493bdaab814eab8d",
+                                         "lastWriteUtc":  "2025-01-06T02:17:53.7998102Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  206896,
+                                          "sha256":  "996e7a726645f34c61e03c295070b3863a57724f5c444e98ee8e43c291cb23be",
+                                          "lastWriteUtc":  "2025-01-08T06:10:21.8130665Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  27338,
+                                      "sha256":  "8f894e0499a22029713efecf46ea273e583d13cc33bc28265ac14702776e9db0",
+                                      "lastWriteUtc":  "2025-01-10T01:22:51.2601115Z"
+                                  }
+                    },
+                    {
+                        "order":  15,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00315/DLC/DLC0315.cpk",
+                        "deltaFile":  "DLC0315_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  47232,
+                                         "sha256":  "1be085dee25ca03726b43cffe0608d981637e62df0c37401242cc66f2d7252e6",
+                                         "lastWriteUtc":  "2025-01-06T02:17:53.9456211Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  265472,
+                                          "sha256":  "4180b622616dd899b334601bc2451fc06f570769ec9e720eeecc9973d8ff8bd9",
+                                          "lastWriteUtc":  "2025-01-08T07:10:02.5948953Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  36026,
+                                      "sha256":  "1264227ccafdcce5d29422048a0af2e98fc125bbd3eb9c683cde9f3d93f924ef",
+                                      "lastWriteUtc":  "2025-01-10T01:22:51.4410624Z"
+                                  }
+                    },
+                    {
+                        "order":  16,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00316/DLC/DLC0316.cpk",
+                        "deltaFile":  "DLC0316_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  45876,
+                                         "sha256":  "5390ce37d7289f39b3ab9ad5d443c8757a095085b64301a37168e8be22cfd731",
+                                         "lastWriteUtc":  "2025-01-06T02:17:54.0810263Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  336496,
+                                          "sha256":  "00ef0435044e01150b475cf85052b78b3d64f6f4f82be9505476725031ba292c",
+                                          "lastWriteUtc":  "2025-01-09T02:14:37.8111341Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  34060,
+                                      "sha256":  "bd3e3987e022ccc172deff24b53c9bfcffdd6cc1e5a660e5c4a1418c09497378",
+                                      "lastWriteUtc":  "2025-01-10T01:22:51.6218859Z"
+                                  }
+                    },
+                    {
+                        "order":  17,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00317/DLC/DLC0317.cpk",
+                        "deltaFile":  "DLC0317_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  34692,
+                                         "sha256":  "0f0079712eedb2d9a7e2c984fe5d07f6f83610b461a2106bfc9bd903dc3f1348",
+                                         "lastWriteUtc":  "2025-01-06T02:17:54.2141123Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  180384,
+                                          "sha256":  "5725bc4a80d259b2bb09421a51e18e4a9164b47e7874fe0fd5769339ac119a2c",
+                                          "lastWriteUtc":  "2025-01-08T08:12:10.2642211Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  25721,
+                                      "sha256":  "680291a6aea423de5430c5cc31c9292cbe13339ccb08f2b02762781a0edb5981",
+                                      "lastWriteUtc":  "2025-01-10T01:22:51.7953350Z"
+                                  }
+                    },
+                    {
+                        "order":  18,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00318/DLC/DLC0318.cpk",
+                        "deltaFile":  "DLC0318_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  41924,
+                                         "sha256":  "eb4e0f072fea51add07f4532596f17c63eadb01ebceb2418d528c6c0d7194ad5",
+                                         "lastWriteUtc":  "2025-01-06T02:17:54.3502330Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  270528,
+                                          "sha256":  "b4bb298cf68091a532479030cdbafb968ef8dca665e85aecb99dcb1e660ff8a8",
+                                          "lastWriteUtc":  "2025-01-08T08:38:44.8138128Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  30321,
+                                      "sha256":  "9b3e5c458159a3098a6c3e4d5cb77bc5dcfe6db91f83ced5f39319b2ecf47a39",
+                                      "lastWriteUtc":  "2025-01-10T01:22:51.9721301Z"
+                                  }
+                    },
+                    {
+                        "order":  19,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00319/DLC/DLC0319.cpk",
+                        "deltaFile":  "DLC0319_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  37492,
+                                         "sha256":  "3f3054b46e21e71a8cda24fded767d9f851b6711fa677105d206b95331f8287a",
+                                         "lastWriteUtc":  "2025-01-06T02:17:54.4961531Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  222080,
+                                          "sha256":  "3690d56d396f61e4b48277ce987662b2c00515cc8a3ed4108ac8ed002ea3f62e",
+                                          "lastWriteUtc":  "2025-01-09T05:50:24.5945674Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  27171,
+                                      "sha256":  "0bce2e251e6c5e59f17457e2d6fd3c67587a3bfdd0d710be1aaaec689ec19e75",
+                                      "lastWriteUtc":  "2025-01-10T01:22:52.1527203Z"
+                                  }
+                    },
+                    {
+                        "order":  20,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00320/DLC/DLC0320.cpk",
+                        "deltaFile":  "DLC0320_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  43160,
+                                         "sha256":  "d98491adb2c837da458720d3b50ac2d81bd396a2880ab7e6f516beafd4b4b4ed",
+                                         "lastWriteUtc":  "2025-01-06T02:17:54.6528419Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  286848,
+                                          "sha256":  "6ac06489976a2f7cccf12e07c20c3ea74e62c719b1962215a05ded5a4c683a10",
+                                          "lastWriteUtc":  "2025-01-09T06:16:46.0173437Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  31805,
+                                      "sha256":  "65d8708208a43138ef3e8ac571a8aa3071f2336cae2fe70ad13b6249ea0d8b09",
+                                      "lastWriteUtc":  "2025-01-10T01:22:52.3490204Z"
+                                  }
+                    },
+                    {
+                        "order":  21,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00321/DLC/DLC0321.cpk",
+                        "deltaFile":  "DLC0321_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  46012,
+                                         "sha256":  "ccd699fee3245d44b8756ba2e7727d4aebfb0e38759040d6500b8a4441411f84",
+                                         "lastWriteUtc":  "2025-01-06T02:17:54.8229927Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  395168,
+                                          "sha256":  "6ce0b79971e3814dc9ae31110523533fd87fe56e1338711d8b8b832b17e2aafd",
+                                          "lastWriteUtc":  "2025-01-09T08:35:02.5335559Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  32869,
+                                      "sha256":  "bf90c50e611c5fac1c41ed592f1155323e2b2021d8a42fe8abf16c4413e401c4",
+                                      "lastWriteUtc":  "2025-01-10T01:22:52.5253082Z"
+                                  }
+                    },
+                    {
+                        "order":  22,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00322/DLC/DLC0322.cpk",
+                        "deltaFile":  "DLC0322_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  37740,
+                                         "sha256":  "8caacb436f9953dc700f4491a0ef9cb003db959b4972877bb8c4b73a9f2d120e",
+                                         "lastWriteUtc":  "2025-01-06T02:17:54.9687386Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  365552,
+                                          "sha256":  "b5e1da939172da22db412cc749a7d07fd889884654b44558d04c5e691f8c0067",
+                                          "lastWriteUtc":  "2025-01-09T07:15:56.4103343Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  26777,
+                                      "sha256":  "097d478573d1b08fc256373ebb8c3fecdf674166ee070bf9edcaade6b51d4032",
+                                      "lastWriteUtc":  "2025-01-10T01:22:52.7035495Z"
+                                  }
+                    },
+                    {
+                        "order":  23,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00323/DLC/DLC0323.cpk",
+                        "deltaFile":  "DLC0323_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  33356,
+                                         "sha256":  "f3aba4b8b04a87543d003d275445daa3bb2188090dbc987ef4161a53dbc853fc",
+                                         "lastWriteUtc":  "2025-01-06T02:17:55.1193015Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  326320,
+                                          "sha256":  "4032380e6e74245a8d83b23c558b6a845e5539ab273197f9f1839f02ad560163",
+                                          "lastWriteUtc":  "2025-01-09T07:39:31.0089807Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  21430,
+                                      "sha256":  "2533c59879d11fe2185281264f5c3fda29cd1da55c91ad32c68abddf0c4700ed",
+                                      "lastWriteUtc":  "2025-01-10T01:22:52.8696283Z"
+                                  }
+                    },
+                    {
+                        "order":  24,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00324/DLC/DLC0324.cpk",
+                        "deltaFile":  "DLC0324_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  46932,
+                                         "sha256":  "7972e2d9755115d13ae2035e8dc4af6a3e5d5caee96fe1bc43708c2d378a8776",
+                                         "lastWriteUtc":  "2025-01-06T02:17:55.2613317Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  457312,
+                                          "sha256":  "231aa449e02c84818ba0f1aa1a72bbd9bf787a9dff8b33933f867b214412fd1d",
+                                          "lastWriteUtc":  "2025-01-09T07:58:12.2385813Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  35230,
+                                      "sha256":  "76423006072902fd7bf1f9f4271be8d1a8aa58f03859ff22cdd097c7f6e93e2a",
+                                      "lastWriteUtc":  "2025-01-10T01:22:53.0359107Z"
+                                  }
+                    },
+                    {
+                        "order":  25,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00327/DLC/DLC0327.cpk",
+                        "deltaFile":  "DLC0327_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  8984,
+                                         "sha256":  "cd55e2cda14bd72bee4af525feb04344608526b04a44f0173c5f9ef978d395cc",
+                                         "lastWriteUtc":  "2025-01-06T02:17:55.4064030Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  23248,
+                                          "sha256":  "0a5d7b3757fe8d92c86a62815fbc5d7c3dbd3fa3da14a49c2ca2b4e479cc16d3",
+                                          "lastWriteUtc":  "2025-01-09T08:03:51.9683086Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  4942,
+                                      "sha256":  "b097c47c090ca60e24583c175f9d4eab8874b5bbfa7dc6b4d629ca699b932bc5",
+                                      "lastWriteUtc":  "2025-01-10T01:22:53.1865047Z"
+                                  }
+                    },
+                    {
+                        "order":  26,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00328/DLC/DLC0328.cpk",
+                        "deltaFile":  "DLC0328_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  9016,
+                                         "sha256":  "31ec6f06d4157c261ff10d3763b159cc74707e47a6ca6282dbb020d64f7603f1",
+                                         "lastWriteUtc":  "2025-01-06T02:17:55.5608978Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  23312,
+                                          "sha256":  "df611a53887dbfdc309c3dad4d4b1de4e78f1cb79ce01f210b0aacbf152908a2",
+                                          "lastWriteUtc":  "2025-01-09T08:06:49.7882496Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  4969,
+                                      "sha256":  "3e365fcc187827f678f0d5d6a081b2c2b017f3676a0bc44b17a9e38d9c12de7b",
+                                      "lastWriteUtc":  "2025-01-10T01:22:53.3425240Z"
+                                  }
+                    },
+                    {
+                        "order":  27,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00329/DLC/DLC0329.cpk",
+                        "deltaFile":  "DLC0329_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  9016,
+                                         "sha256":  "681f08c95e2541ba4a5b49012e2b3e77f841001db28b1b640c66b11f6919ee65",
+                                         "lastWriteUtc":  "2025-01-06T02:17:55.7136194Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  23312,
+                                          "sha256":  "6d816babdf788938435108f6f802ed57570a1f3e92a0f87227e48efcaf39870f",
+                                          "lastWriteUtc":  "2025-01-09T08:09:08.8120571Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  4979,
+                                      "sha256":  "d4bcb36c1a41dbedfe8d21fe66392a217424c2e7b5f56a99016acd818d44ddaf",
+                                      "lastWriteUtc":  "2025-01-10T01:22:53.4916730Z"
+                                  }
+                    },
+                    {
+                        "order":  28,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00330/DLC/DLC0330.cpk",
+                        "deltaFile":  "DLC0330_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  8984,
+                                         "sha256":  "b2cff72108218415f47a5c1224fb61ecc37804f545a141d7b6c58567fe6b03a2",
+                                         "lastWriteUtc":  "2025-01-06T02:17:55.8575080Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  23232,
+                                          "sha256":  "3bc29746f60b370f358af92134795fcbdf06a7d92cb0868893d533d01285158e",
+                                          "lastWriteUtc":  "2025-01-09T08:11:26.2662166Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  4939,
+                                      "sha256":  "8f87b4ff3f38901173e18ef7b88d3e7bbc43765c19b440d4c9f5c58d933cc0eb",
+                                      "lastWriteUtc":  "2025-01-10T01:22:53.6474691Z"
+                                  }
+                    },
+                    {
+                        "order":  29,
+                        "category":  "dlc",
+                        "targetPath":  "SRWZ3OF1DLC00331/DLC/DLC0331.cpk",
+                        "deltaFile":  "DLC0331_cpk.xdelta",
+                        "contentChanged":  true,
+                        "deltaProvenance":  {
+                                                "status":  "roundtrip-unverified",
+                                                "roundTripVerified":  false
+                                            },
+                        "original":  {
+                                         "sizeBytes":  9016,
+                                         "sha256":  "28320e4fdc6814d39333a088feb4754e19bee906e2c79dd364acf5423c34d232",
+                                         "lastWriteUtc":  "2025-01-06T02:17:55.9970682Z"
+                                     },
+                        "localized":  {
+                                          "sizeBytes":  23312,
+                                          "sha256":  "209ad1a1125eca87b449eb83cd7c16c554311d1451b8b8c7bb4b7f6ce007351a",
+                                          "lastWriteUtc":  "2025-01-09T08:14:35.3505147Z"
+                                      },
+                        "delta":  {
+                                      "sizeBytes":  4986,
+                                      "sha256":  "c777aaa2b8be83a104585d8a6d177e190a5b839b7058a417546e90faba5efd2f",
+                                      "lastWriteUtc":  "2025-01-10T01:22:53.8024139Z"
+                                  }
+                    }
+                ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00238",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00238/Sheet1/000002",
+      "sourceBindingSha256": "d4092c9afc4489015728e39dac4aec6c316a64b0590fd9da6ff653c25cc80b54",
+      "sourceTextSha256": "27fa216c8110909eddcd5fa9675c920d09f78a4b23ec5d3ffdd9b55fa729dc61",
+      "freshTranslation": "모모이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00238/Sheet1/000003",
+      "sourceBindingSha256": "44157cab3e977bfd1ebbe53cc6be37e3215c2e8fc34efd1ca56176e24df326c4",
+      "sourceTextSha256": "27fa216c8110909eddcd5fa9675c920d09f78a4b23ec5d3ffdd9b55fa729dc61",
+      "freshTranslation": "모모이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00238/Sheet1/000004",
+      "sourceBindingSha256": "2fa03370b5ebaaef064b67d94bc7a5c4975dcb01ce9af6f7b655312db913389e",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00238/Sheet1/000005",
+      "sourceBindingSha256": "37555e8efa5eda03699bc5fedce7c6426795b3b36b2e07307c2c7faf44857170",
+      "sourceTextSha256": "6ed0f2f0264ecf4d6aa758a76b7cc3f99ad1bed9f4146f3538f893d33d3852e1",
+      "freshTranslation": "이부키의 장인. ㊥ 이부키의 친아버지인 사쿠라다 에이지로가 몰린 후 이부키의 어머니와 재혼했다. ㊥ 이부키가 다이 가드를 타고 있는 것을 잘 생각하지 않고, 뭔가에 붙여서는 입을 수 있다㊥ 대형 병원의 의사로 학장 선거를 앞둔 몸이기 때문에 자신의 보신을 생각해 ㊥의 일이라고 이부키는 생각하고 있었지만, 그것은 큰 착각이었고, 그 소언은 순수하게 그녀의 몸㊥을 의도한 것이었다. ㊥ 헤테로다인의 피해에 있던 환자의 치료를 자원봉사로 실시하는 등, 의사의 감과 같이 ㊥인 인물로 부하로부터의 신뢰도 두껍다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00238/Sheet1/000006",
+      "sourceBindingSha256": "343cac23d871b4f4eeb238f76dea9ff46d1a1084be3e88f2553c044dd8e6d248",
+      "sourceTextSha256": "6ed0f2f0264ecf4d6aa758a76b7cc3f99ad1bed9f4146f3538f893d33d3852e1",
+      "freshTranslation": "이부키의 장인. ㊥ 이부키의 친아버지인 사쿠라다 에이지로가 몰린 후 이부키의 어머니와 재혼했다. ㊥ 이부키가 다이 가드를 타고 있는 것을 잘 생각하지 않고, 뭔가에 붙여서는 입을 수 있다㊥ 대형 병원의 의사로 학장 선거를 앞둔 몸이기 때문에 자신의 보신을 생각해 ㊥의 일이라고 이부키는 생각하고 있었지만, 그것은 큰 착각이었고, 그 소언은 순수하게 그녀의 몸㊥을 의도한 것이었다. ㊥ 헤테로다인의 피해에 있던 환자의 치료를 자원봉사로 실시하는 등, 의사의 감과 같이 ㊥인 인물로 부하로부터의 신뢰도 두껍다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

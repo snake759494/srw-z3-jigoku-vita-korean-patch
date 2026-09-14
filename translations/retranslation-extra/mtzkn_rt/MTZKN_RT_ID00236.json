@@ -1,0 +1,236 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00236",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000002",
+      "sourceBindingSha256": "9a091eb25667d92faf2d3f1b4e7a4575d0d7137ba6bc1ee460af9dc7532e96dc",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000003",
+      "sourceBindingSha256": "7673898d4ba107577045820c30f7dfd966b3377cb7ea91f1046d1d658a94ddec",
+      "sourceTextSha256": "ea1587b29e5e7240e6bacb3acfa0add0a58a278a53adb1b1526594e93b577221",
+      "freshTranslation": "라디우스 그니스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000004",
+      "sourceBindingSha256": "60f8da9b96339460c91e4fee3bf1c1d442028e73fabb6dbfec821b86c0ef9a7a",
+      "sourceTextSha256": "ea1587b29e5e7240e6bacb3acfa0add0a58a278a53adb1b1526594e93b577221",
+      "freshTranslation": "라디우스 그니스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000005",
+      "sourceBindingSha256": "febb13cde5c135d8593bc9889305d867aef5ba765d73a72eb6a01c618ca4bbd3",
+      "sourceTextSha256": "228747cce7a7fafe5b0d5712b87b995b8f156d3fe270d4c6dca535492e0096a6",
+      "freshTranslation": "진 무소",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000006",
+      "sourceBindingSha256": "c57656436af4b9640f538269493f1580f996f353d5c2b2502a5f1f34cb57f2b1",
+      "sourceTextSha256": "b9572c400a1083d2890930ec6b6fd496a2d59fa27365b83769d47d3d461e315f",
+      "freshTranslation": "진 전용으로 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000007",
+      "sourceBindingSha256": "553387cae3f15d8343b4ee584d71552274af91a6eef39c5782208ee162cd5ce6",
+      "sourceTextSha256": "b9f9e1952dfd025cbba10064d397d8bd2768d456397cbcb295b381c6be6a4269",
+      "freshTranslation": "마이즈 된 사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000008",
+      "sourceBindingSha256": "26466960281ca4305306a31704c6596fa09ce2f03135a7b4bc920895ed3b9946",
+      "sourceTextSha256": "654b11b0bd2453d2e86809571563280d7b9cf82433e316b89ae9b3a53ff1748d",
+      "freshTranslation": "아부닥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000009",
+      "sourceBindingSha256": "21a74e6d254cc6c8694417a5ab85a425528b3172a8965ffa12df13e0c4c6ea6a",
+      "sourceTextSha256": "e4cccfc1d6cedcb03365887ddf8fa2b33f885aa7bff772c4c1c9423c39f2a926",
+      "freshTranslation": "ー.㊥카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000010",
+      "sourceBindingSha256": "268daae00c54ffb510ee3b7c070449de55257630f481c02dc412169561632f23",
+      "sourceTextSha256": "400fa7f1f3adbecedbb8eb7147a941647c0027cdbfa5fe0b72b269b45523af47",
+      "freshTranslation": "무건이나 대출력 빔포 등 장거리 전투에 특화된 장비를 하고 있다. ㊥ 표준으로 전방위 사격 지원용의 리플렉션 볼을 다수 내장하고 있어, 적과 거리를 ㊥로 한 채로, 모든 각도로부터의 공격도 가능. ㊥ 또한 전투의 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000011",
+      "sourceBindingSha256": "095496a670c683d086154fe8170a7889b7a6176a72740ded57c34b4e48053f8f",
+      "sourceTextSha256": "28130766dcaae92ef60e5946feec56cb97617bc0633c547b2506e6180010ac65",
+      "freshTranslation": "분석을 통해 무장을 교환하고 전투",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000012",
+      "sourceBindingSha256": "df1caaadd064b0e288b497301e2f10d9664b5db1c141778077dd20de6d058b51",
+      "sourceTextSha256": "fc6e3fe971463d714fcb2b94b3407845a19fbe585797a681a4d6cb45481c4ad5",
+      "freshTranslation": "일을 변경할 수 ㊥ 한다. 진은 아쿠에리온의 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000013",
+      "sourceBindingSha256": "4a2b433c7882a7355c54e21dbc9d289149bb187cbe5a7563fc4527007d668f4d",
+      "sourceTextSha256": "b41962cc1609d3df3bbee9c3f48ac0add154e42e3ea3a7707395aab216b11d8e",
+      "freshTranslation": "를 분석하고 여러 번 무장을 바꿔, 아쿠에리온과 전 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000014",
+      "sourceBindingSha256": "156262f790e8682fa0449c4e01ed0fa432d9159ae8b50d6bc41d757f06577431",
+      "sourceTextSha256": "b9572c400a1083d2890930ec6b6fd496a2d59fa27365b83769d47d3d461e315f",
+      "freshTranslation": "진 전용으로 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000015",
+      "sourceBindingSha256": "44fa7e4eb67b1e8bec5e63bbeca98bbdd9f2904abb9e87214cf6cfe5385029c4",
+      "sourceTextSha256": "b9f9e1952dfd025cbba10064d397d8bd2768d456397cbcb295b381c6be6a4269",
+      "freshTranslation": "마이즈 된 사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000016",
+      "sourceBindingSha256": "000af2726608642cab6b1efed1f355c853b20452f17c57fe9b2ccd2fca836b40",
+      "sourceTextSha256": "654b11b0bd2453d2e86809571563280d7b9cf82433e316b89ae9b3a53ff1748d",
+      "freshTranslation": "아부닥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000017",
+      "sourceBindingSha256": "caa503a02591fd915fdc45bb728cdf6e9a557dd1d18138e5634c48ad00916b38",
+      "sourceTextSha256": "e4cccfc1d6cedcb03365887ddf8fa2b33f885aa7bff772c4c1c9423c39f2a926",
+      "freshTranslation": "ー.㊥카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000018",
+      "sourceBindingSha256": "33e1dfb0863669d846fa40d98f856cb63a1430b45b0d612fccf82592aea2d546",
+      "sourceTextSha256": "400fa7f1f3adbecedbb8eb7147a941647c0027cdbfa5fe0b72b269b45523af47",
+      "freshTranslation": "무건이나 대출력 빔포 등 장거리 전투에 특화된 장비를 하고 있다. ㊥ 표준으로 전방위 사격 지원용의 리플렉션 볼을 다수 내장하고 있어, 적과 거리를 ㊥로 한 채로, 모든 각도로부터의 공격도 가능. ㊥ 또한 전투의 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000019",
+      "sourceBindingSha256": "85fa2e798b3b2f08d6916787e463ddd0166926b7c9c95b0be19a6cdb690b0aa7",
+      "sourceTextSha256": "28130766dcaae92ef60e5946feec56cb97617bc0633c547b2506e6180010ac65",
+      "freshTranslation": "분석을 통해 무장을 교환하고 전투",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000020",
+      "sourceBindingSha256": "4c8c1c6eb3de01b96f212719f2ca793f058d04051e44dfc9d64665726b43f986",
+      "sourceTextSha256": "fc6e3fe971463d714fcb2b94b3407845a19fbe585797a681a4d6cb45481c4ad5",
+      "freshTranslation": "일을 변경할 수 ㊥ 한다. 진은 아쿠에리온의 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00236/Sheet1/000021",
+      "sourceBindingSha256": "ffabf8d38abcd0724ac787f36c4c70381a4ec283d7e690fa200402e78a981969",
+      "sourceTextSha256": "b41962cc1609d3df3bbee9c3f48ac0add154e42e3ea3a7707395aab216b11d8e",
+      "freshTranslation": "를 분석하고 여러 번 무장을 바꿔, 아쿠에리온과 전 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

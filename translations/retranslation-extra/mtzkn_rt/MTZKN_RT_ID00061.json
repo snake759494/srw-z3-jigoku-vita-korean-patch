@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00061",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00061/Sheet1/000002",
+      "sourceBindingSha256": "cfae691d397fc19921244b5f50abe8861c04027aa1f937fb3f02e2cc03cd0a13",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00061/Sheet1/000003",
+      "sourceBindingSha256": "c622d3663c85497300cc7263b2f5007ef7b825b75faa90f2f75925adeb55919b",
+      "sourceTextSha256": "3cfb2d859880943f766103be1846ebd96b46c92aa6e45f3bd84f8790064d16cd",
+      "freshTranslation": "토러스(MA)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00061/Sheet1/000004",
+      "sourceBindingSha256": "02735e7d8efc6db223d6b1622abf048711d40ca84b6900eafeda5c83fd452ab7",
+      "sourceTextSha256": "3cfb2d859880943f766103be1846ebd96b46c92aa6e45f3bd84f8790064d16cd",
+      "freshTranslation": "토러스(MA)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00061/Sheet1/000005",
+      "sourceBindingSha256": "43c78a7ed587c304ce4c43a62369452dc25d6ef240f6480742f216f160675f10",
+      "sourceTextSha256": "f2903696eb69624c06e7ea1e318d236ccb75f0e491771e3232a4ba33718c79cd",
+      "freshTranslation": "토러스의 모빌 아머 형태. ㊥ 뒤의 이동식 슬러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00061/Sheet1/000006",
+      "sourceBindingSha256": "0384823c3e7627c358feccc576549e5b8dbf51d3a023b6686c6fff003e11a9be",
+      "sourceTextSha256": "8fe8e166d054662ef7aecc7384f02d3a36be93b79c6f5dc662264aa35d7f73df",
+      "freshTranslation": "-를 주 날개로하고 발바닥의 스러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00061/Sheet1/000007",
+      "sourceBindingSha256": "ad123472bb086039bb4b8996122bac920ba7d50bdac027af8cd6a904eda05bff",
+      "sourceTextSha256": "fc2574245778665f9b77fcafa127a41951bf1e572cf869c8feb16b558135433e",
+      "freshTranslation": "-를 사용하면 중력하㊥에서 비행도 가능해진다. ㊥ 높은 기동성을 발휘할 수 있기 때문에, 일격 이탈전법을 자랑으로 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00061/Sheet1/000008",
+      "sourceBindingSha256": "54e03d2f74b646f01939d4075bd5cd9b1fe0ecb87c640bc3682323e4f092c4b4",
+      "sourceTextSha256": "f2903696eb69624c06e7ea1e318d236ccb75f0e491771e3232a4ba33718c79cd",
+      "freshTranslation": "토러스의 모빌 아머 형태. ㊥ 뒤의 이동식 슬러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00061/Sheet1/000009",
+      "sourceBindingSha256": "a69d8c62ec709a0db9297a56dcda7d6d16f70e50623aa06ccb0923cf960193ef",
+      "sourceTextSha256": "8fe8e166d054662ef7aecc7384f02d3a36be93b79c6f5dc662264aa35d7f73df",
+      "freshTranslation": "-를 주 날개로하고 발바닥의 스러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00061/Sheet1/000010",
+      "sourceBindingSha256": "3246bd224c762ac0417dbade83bf2fce0e60e8ce381a67e23f99a1568617d94b",
+      "sourceTextSha256": "fc2574245778665f9b77fcafa127a41951bf1e572cf869c8feb16b558135433e",
+      "freshTranslation": "-를 사용하면 중력하㊥에서 비행도 가능해진다. ㊥ 높은 기동성을 발휘할 수 있기 때문에, 일격 이탈전법을 자랑으로 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

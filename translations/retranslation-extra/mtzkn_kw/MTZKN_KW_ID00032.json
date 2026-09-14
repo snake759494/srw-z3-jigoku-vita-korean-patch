@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00032",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00032/Sheet1/000002",
+      "sourceBindingSha256": "19d8bbeda902771c07452fd1fb37dbbf1d91228a8d8651f238005eb6dc271770",
+      "sourceTextSha256": "6421f19218bb310d0f3315de45ef4d1f7f14698992f6e046c5ba53c0e5211f35",
+      "freshTranslation": "다원 전쟁",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00032/Sheet1/000003",
+      "sourceBindingSha256": "6c5a15ff2c1eabe249fa881d5ae919f3e37d7be55d5575845838f31925cd0cbe",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00032/Sheet1/000004",
+      "sourceBindingSha256": "f3f3616b40d57d5e76c5219f3af5d657f0aed3c6fee62ee1977448e9c6dd4235",
+      "sourceTextSha256": "49d661209c6be10442550a7e07ce7035fac1d844ef349b6d5b3bf694cefb4f52",
+      "freshTranslation": "대시 공진동 직후에 UCW에 일어난 대전(=『슈퍼 로봇 대전 Z』). ㊥대시 공진동 후의 혼란에 힘입어 세계를 뜻대로 움직이려고 하는 지구 연방군㊥특수부대 카이메라가 암약하는 가운데, 지구와 콜로니의 싸움, 이성인 연합이나 인류외 ㊥지적 생명체와의 싸움. ㊥ 최종적으로는 지구인류 긴급구호연합 ZEUTH의 활약으로 모든 흑막에서 ㊥ 있던 디 에델베르날이 쓰러져 시공수복에 의해 세계 상태는 안정㊥하고 전란은 종결했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00032/Sheet1/000005",
+      "sourceBindingSha256": "a2576ed77d44e70df8cd8b251e931d814e9ed3b59a4aff54d8110ee47cac11d6",
+      "sourceTextSha256": "49d661209c6be10442550a7e07ce7035fac1d844ef349b6d5b3bf694cefb4f52",
+      "freshTranslation": "대시 공진동 직후에 UCW에 일어난 대전(=『슈퍼 로봇 대전 Z』). ㊥대시 공진동 후의 혼란에 힘입어 세계를 뜻대로 움직이려고 하는 지구 연방군㊥특수부대 카이메라가 암약하는 가운데, 지구와 콜로니의 싸움, 이성인 연합이나 인류외 ㊥지적 생명체와의 싸움. ㊥ 최종적으로는 지구인류 긴급구호연합 ZEUTH의 활약으로 모든 흑막에서 ㊥ 있던 디 에델베르날이 쓰러져 시공수복에 의해 세계 상태는 안정㊥하고 전란은 종결했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

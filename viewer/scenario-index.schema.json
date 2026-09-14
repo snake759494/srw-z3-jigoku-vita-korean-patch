@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "시옥편 시나리오 뷰어 카탈로그",
+  "type": "object",
+  "required": ["format", "formatVersion", "basePath", "assets"],
+  "properties": {
+    "format": { "const": "siok.scenario-viewer-catalog" },
+    "formatVersion": { "const": 1 },
+    "generatedAt": { "type": "string" },
+    "basePath": { "type": "string" },
+    "assets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "key", "label", "scope", "path", "entries"],
+        "properties": {
+          "name": { "type": "string", "pattern": "^scenario_.*\\.json$" },
+          "key": { "type": "string", "minLength": 1 },
+          "label": { "type": "string", "minLength": 1 },
+          "scope": { "enum": ["stage", "dlc"] },
+          "path": { "type": "string", "minLength": 1 },
+          "entries": { "type": "integer", "minimum": 0 }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

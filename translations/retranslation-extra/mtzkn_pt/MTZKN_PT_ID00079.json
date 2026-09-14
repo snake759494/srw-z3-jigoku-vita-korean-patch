@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00079",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00079/Sheet1/000002",
+      "sourceBindingSha256": "00f4e5ca8bbae66e11142e78761d09c4ad820fdc76eb7e7aa5a7f92f1b644bfa",
+      "sourceTextSha256": "3190e865fed4fef3d3f49bfa102b5d474831b86189cdad6b2590178571830797",
+      "freshTranslation": "카토르 라바바 위너",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00079/Sheet1/000003",
+      "sourceBindingSha256": "3d63f668523fa64ed3d4b5822254951e04641fd4df713f14db7a6dbaec5b0796",
+      "sourceTextSha256": "339bb3ba74984a7f1e895ea28e81e251b6bc126ea54380216c9c81dfaaf6eccb",
+      "freshTranslation": "카틀",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00079/Sheet1/000004",
+      "sourceBindingSha256": "c1c69c4c152d8d90ce4e5f119bbb95249c472b22c78ae8665a7ffb6ed787eb2d",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00079/Sheet1/000005",
+      "sourceBindingSha256": "f9b0aadae7043ba9719172cae741d9267233b179a019176f9a7c1b38ea5eb0ae",
+      "sourceTextSha256": "39defd796525ca1ebcb5e111d04059d779f63ddcd5555bb914d2d0a7e23178dc",
+      "freshTranslation": "오가사 아이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00079/Sheet1/000006",
+      "sourceBindingSha256": "e9f2d5fc418cf333ea9fdfef99ed6e49fd89dfbb2ec56fbbd593ca7e02fea571",
+      "sourceTextSha256": "107c18c10f5edc33385a907df37b7b26c5cc83086fcafa029420a9d65a44bce5",
+      "freshTranslation": "L4 콜로니 군의 백만장자 위너 가문의 남자. 16세. ㊥ 오퍼레이션 메테오에서는 에이전트로서 지구에 내려 건담 샌드롯 ㊥ 쿠개의 파일럿을 맡았다. ㊥ 부유하고 따뜻한 가정에서 자랐기 때문에 부드럽고 부드러운 성격의 소유자. 동시에 건담을 ㊥ 다루는 전투 센스와 주위의 인간을 움직이는 지휘 능력을 겸비한다. ㊥ 29명의 배고픈 언니가 있고, 40명의 대원으로 구성된 마구아낙대를 이끌고㊥한다. 어딘가에 가도 많은 사람들에게 둘러싸여 있으며, 그 모든 것에서 존경받고 있다. ㊥ 그러나, 반 OZ의 자세를 관철하고 있던 아버지가 콜로니의 사람들에 의해 살해된 일로 폭㊥주. 금단의 모빌슈트 윙 건담 제로를 조성해 식민지를 파괴했다. ㊥ 트로이의 결사의 설득을 받아 마침내 자신을 되찾지만 큰 희생을 지불하는 것이 ㊥ 버린다. ㊥ 그 후에는 자신의 잘못을 인정하고 죄를 보상하기 위해 분주. 행방불명이었던 트로와를 전장에 ㊥ 되돌리는 것에도 성공하고 있다. ㊥ 또, 어쩌면 엉망이 되기 쉬운 건담 파일럿들을 정리하는 등, 정㊥신적으로도 성장을 이루었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00079/Sheet1/000007",
+      "sourceBindingSha256": "6b2d90d868ccd27374b6a2352885735d853c4e8525ed3366b63a6148cd825a5c",
+      "sourceTextSha256": "57f7ab1a3fe86d0f7252b9cdba0a97675b91d0ec9bbac464d4126f9ebb8e2f58",
+      "freshTranslation": "L4 콜로니 군의 백만장자 위너 가문의 남자. 16세. ㊥ 오퍼레이션 메테오에서는 에이전트로서 지구에 내려 건담 샌드롯 ㊥ 쿠개의 파일럿을 맡았다. ㊥ 부유하고 따뜻한 가정에서 자랐기 때문에 부드럽고 부드러운 성격의 소유자. 동시에 건담을 ㊥ 다루는 전투 센스와 주위의 인간을 움직이는 지휘 능력을 겸비한다. ㊥ 29명의 배고픈 언니가 있고, 40명의 대원으로 구성된 마구아낙대를 이끌고㊥한다. 어딘가에 가도 많은 사람들에게 둘러싸여 있으며, 그 모든 것에서 존경받고 있다. ㊥ 그러나, 반 OZ의 자세를 관철하고 있던 아버지가 콜로니의 사람들에 의해 살해된 일로 폭㊥주. 금단의 모빌슈트 윙 건담 제로를 조성해 식민지를 파괴했다. ㊥ 트로이의 결사의 설득을 받아 마침내 자신을 되찾지만 큰 희생을 지불하는 것이 ㊥ 버린다. ㊥ 그 후에는 자신의 잘못을 인정하고 죄를 보상하기 위해 분주. 행방불명이었던 트로와를 전장에 ㊥ 되돌리는 것에도 성공하고 있다. ㊥ 또, 어쩌면 엉망이 되기 쉬운 건담 파일럿들을 정리하는 등, 정㊥신적으로도 성장을 이루었다. ㊥ 종전 후, 건담을 폐기하는 제안을 들고, 오비 이외의 건담을 회수해, 자원㊥ 위성에 실어, 태양에 사출한다. ㊥이지만, 마리 메이어군의 반란이 일어난 일로, 사출한 건담의 회수로 향한다. 회 ㊥ 수선과 자원 위성의 랑데부 시간이 5초 정도밖에 걸리지 않는 상황에서 위성에 승 ㊥ 넣어 성공. 파일럿들에게 건담을 전해, 반란 진압의 큰 힘이 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

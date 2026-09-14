@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00407",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00407/Sheet1/000002",
+      "sourceBindingSha256": "a8de4bb7133712026fdfea78cfc00957c1682bd3259a589f69182fa8ddb7ad51",
+      "sourceTextSha256": "9aff3d47395261a67366f45909ec4b5d926cc5310540244ca9e85d7b57b8df3a",
+      "freshTranslation": "아사킴 도윈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00407/Sheet1/000003",
+      "sourceBindingSha256": "f96e2f3d50237a25ccb64127ef8e38b7dd4cd6d5c24af9d725b858645c01c76f",
+      "sourceTextSha256": "c2810db52aa2f7c536f3c36f4e789593c531096fe5699bb3cecd71a8cbb6fe6e",
+      "freshTranslation": "아사킴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00407/Sheet1/000004",
+      "sourceBindingSha256": "4dc18cb75f53e010cc2f91552472dc4006ae7b6afb3c517a1ffc999baf036c62",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00407/Sheet1/000005",
+      "sourceBindingSha256": "324161c8535cf3d565cb12f5f8dc90d621bd412af7b6bb31f8aa604dca6eca6a",
+      "sourceTextSha256": "e3790e997afa5a8dfe04b1e250c15c20d7676bf5282dd5ec584b58637bf8187d",
+      "freshTranslation": "과거에 대죄를 저지르고 죽는 것도 용서되지 않고, 슈로우가와 함께 다양한 시공을 방황한다㊥青年。㊥그 숙명에서 벗어나기 위해 태극의 힘을 얻기를 바란다. 태극의 의사 조각㊥스피어의 소유자들의 싸움에 슈로우가를 달려 참가한다.㊥이미 \"알고 싶어하는 염소\" \"거짓의 검은 양\" \"무한 물병\"이라고 명명 불명의 4 개의 스피㊥아를 손에 넣고 있지만, 현재는 화성의 ZONE에 봉인되어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00407/Sheet1/000006",
+      "sourceBindingSha256": "4739ec1ecffa002d7435d8ae4fb49bb287765a74d47e38785a73cee4c2ee6c4f",
+      "sourceTextSha256": "e3790e997afa5a8dfe04b1e250c15c20d7676bf5282dd5ec584b58637bf8187d",
+      "freshTranslation": "과거에 대죄를 저지르고 죽는 것도 용서되지 않고, 슈로우가와 함께 다양한 시공을 방황한다㊥青年。㊥그 숙명에서 벗어나기 위해 태극의 힘을 얻기를 바란다. 태극의 의사 조각㊥스피어의 소유자들의 싸움에 슈로우가를 달려 참가한다.㊥이미 \"알고 싶어하는 염소\" \"거짓의 검은 양\" \"무한 물병\"이라고 명명 불명의 4 개의 스피㊥아를 손에 넣고 있지만, 현재는 화성의 ZONE에 봉인되어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00095",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00095/Sheet1/000002",
+      "sourceBindingSha256": "a9fa71a2029bb80f00582a3d031836eed10b733cd60c51344845b3d237c337d8",
+      "sourceTextSha256": "d66b84d68e379e2b15836533d7dc1df1d97296db6022ef41f01723860d1eebb3",
+      "freshTranslation": "앤드류 발트펠드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00095/Sheet1/000003",
+      "sourceBindingSha256": "ceaf54db558ef0dccda3e40af53ed344ea8b88b0935cff6cddc1bd4cd2d1ae07",
+      "sourceTextSha256": "26ef7a1acb7f6dafc46050bcd1b879c1b7e606065be989c04bcd66396de92b37",
+      "freshTranslation": "발트펠드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00095/Sheet1/000004",
+      "sourceBindingSha256": "72d689bd4c9262cf60d38a3cb684bca354fd8ffcecb90be532d2bb26d9b9f9e8",
+      "sourceTextSha256": "15a2e664e80fef55f49873f69b656b86b230b630d2bdafde619513e324977069",
+      "freshTranslation": "기동전사 건담 SEEDDESTINY",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00095/Sheet1/000005",
+      "sourceBindingSha256": "4f3e098df2333f6d6291c496c07c37c26d5c10863c0ce522c7c83c307b66c2e3",
+      "sourceTextSha256": "7346f20aa744062ae6994cc0d4488303fdc5bf6f86be47084948630dcf6d47c6",
+      "freshTranslation": "고속 전투함",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00095/Sheet1/000006",
+      "sourceBindingSha256": "6c5d5c62df1f96b79e6849feb6dd2c4834f754af270a9d048f300991d88291fa",
+      "sourceTextSha256": "5803b4edb925706f516c7752065edd4398d7fdc432260606c42d4ce9d4571beb",
+      "freshTranslation": "날의 함장. 32세. ㊥원은 자프트에 소속되어 '사막 호랑이'의 별명으로 두려워했던 맹자였다. 하지만 ㊥ 전 대전 중에 군을 이반하고 럭스들과 협력해 전란을 종결로 이끌었다. ㊥ 전 대전 종결 후, 함께 싸운 키라나 마류, 락스들과 함께 오브로 망명. 취미㊥의 커피를 맛보면서 무리 사이의 평화를 누리고 있었다. ㊥ 플랜트로의 이주를 생각했던 때, 럭스 암살을 목표로 하는 특수부대의 습격을 받고, 이 ㊥를 퇴각한다. 그것을 계기로, 다시 제3세력으로서 전쟁과 마주하는 일을 결㊥의했다. ㊥ 아크 엔젤 발진 후는 부함장적인 입장에서 마류를 보좌하면서, 유사시에는 ㊥ 퍼스널 칼라에 염색한 얼룩 상어로 출격해, 아직 쇠약해지지 않은 솜씨를 피로. 이윽고 ㊥ 럭스가 플랜트의 현상을 확인하기 위해서 행동을 일으켰을 때에는, 그 호위로서 공㊥에 우주에 오르고 있다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00095/Sheet1/000007",
+      "sourceBindingSha256": "be0e800d6c5e9797598be36478de5f8700ef60cfe02bfcc33d5ad461c46df0b7",
+      "sourceTextSha256": "3cac94eb9e571c5c98afdfc07935740071095760afd20596b43cda4bd3d71d3c",
+      "freshTranslation": "이날이 활동을 시작하자 전 대전 때와 마찬가지로 그 함장석에 앉았다. 하지만 에㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00095/Sheet1/000008",
+      "sourceBindingSha256": "d509b21e39de87f8cc83e18a2c7f1ace86a7a44fc23c7e8ef8cb4e1c7bb27750",
+      "sourceTextSha256": "7a83bcfb1023fd50d5fc8b4b602b03c11ada232da1ed4ef3bc522cbf64253789",
+      "freshTranslation": "―나르 단독으로의 싸움을 강요당했을 때에는, 과거의 애기의 흐름을 흘리는 가이아간다㊥무로 출격한 적도 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00095/Sheet1/000009",
+      "sourceBindingSha256": "f32b9d63025d769543336a57a3a9699e4423cedd3116a115d0ec58ed2d1724b9",
+      "sourceTextSha256": "7346f20aa744062ae6994cc0d4488303fdc5bf6f86be47084948630dcf6d47c6",
+      "freshTranslation": "고속 전투함",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00095/Sheet1/000010",
+      "sourceBindingSha256": "70794bd3eab094b66651fdb611fb1abf0dc6cf2d9c964e676e321b667838e0b8",
+      "sourceTextSha256": "5803b4edb925706f516c7752065edd4398d7fdc432260606c42d4ce9d4571beb",
+      "freshTranslation": "날의 함장. 32세. ㊥원은 자프트에 소속되어 '사막 호랑이'의 별명으로 두려워했던 맹자였다. 하지만 ㊥ 전 대전 중에 군을 이반하고 럭스들과 협력해 전란을 종결로 이끌었다. ㊥ 전 대전 종결 후, 함께 싸운 키라나 마류, 락스들과 함께 오브로 망명. 취미㊥의 커피를 맛보면서 무리 사이의 평화를 누리고 있었다. ㊥ 플랜트로의 이주를 생각했던 때, 럭스 암살을 목표로 하는 특수부대의 습격을 받고, 이 ㊥를 퇴각한다. 그것을 계기로, 다시 제3세력으로서 전쟁과 마주하는 일을 결㊥의했다. ㊥ 아크 엔젤 발진 후는 부함장적인 입장에서 마류를 보좌하면서, 유사시에는 ㊥ 퍼스널 칼라에 염색한 얼룩 상어로 출격해, 아직 쇠약해지지 않은 솜씨를 피로. 이윽고 ㊥ 럭스가 플랜트의 현상을 확인하기 위해서 행동을 일으켰을 때에는, 그 호위로서 공㊥에 우주에 오르고 있다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00095/Sheet1/000011",
+      "sourceBindingSha256": "755ab8d9e3d3d86a6880f8c72d39a2d5f1f9d42a735be04f2bc580651556c080",
+      "sourceTextSha256": "3cac94eb9e571c5c98afdfc07935740071095760afd20596b43cda4bd3d71d3c",
+      "freshTranslation": "이날이 활동을 시작하자 전 대전 때와 마찬가지로 그 함장석에 앉았다. 하지만 에㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00095/Sheet1/000012",
+      "sourceBindingSha256": "3dec7085f0f5ae9b21b0d8a0fb1e9d741c90fb0529f53b3a2fc1299f46dacd1f",
+      "sourceTextSha256": "7a83bcfb1023fd50d5fc8b4b602b03c11ada232da1ed4ef3bc522cbf64253789",
+      "freshTranslation": "―나르 단독으로의 싸움을 강요당했을 때에는, 과거의 애기의 흐름을 흘리는 가이아간다㊥무로 출격한 적도 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

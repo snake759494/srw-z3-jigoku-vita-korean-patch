@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00134",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00134/Sheet1/000002",
+      "sourceBindingSha256": "28d0184315ce118899da15c771b4885cb0b04efa054eed8ff81c41fae9e2e411",
+      "sourceTextSha256": "7312b14365489e3b81967bcb835c8468b9f4e254d000eabb752282c03ac45bd5",
+      "freshTranslation": "애니마 스피리치아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00134/Sheet1/000003",
+      "sourceBindingSha256": "50ae30719c89ae336387552bf94c76955090c8490bef6d2a28bea7ca5aebc2c9",
+      "sourceTextSha256": "389e7a928c20e449f96e23255ca810750b8a8ce54420bda74028bfc758d1070a",
+      "freshTranslation": "「마크로스 7」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00134/Sheet1/000004",
+      "sourceBindingSha256": "811ef94360f82c3ebf66e8b2b99eac260747a61c343787119ff5c00f4953de1d",
+      "sourceTextSha256": "13f85a247eed562ebafff1eb1dafbab5d587b0f1ba5d4ee982aac7cbf5eb9105",
+      "freshTranslation": "고차원 에너지와 그 소유자를 가리키는 프로토데버른의 말. ㊥ 과거 프로토데비른을 얼음 행성에 봉인한 것은 이 애니마 스피리치아의 ㊥ 소유자였다고 하며, 그 힘은 프로토데비른의 에너지원인 스피리 ㊥ 치아와 정반대의 성질을 가지고 그에게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00134/Sheet1/000005",
+      "sourceBindingSha256": "9802fe76fbb8dbc1643be61d6ac26a4f037f60c7176f7dc71eeaa43956af821d",
+      "sourceTextSha256": "1503b38009373c9aa50017ce19850c8af733ab5c9eae5eee398f986433de3f63",
+      "freshTranslation": "네. ㊥프로토데비른은 FIREBOMBER의 열기 바사라를 애니마스피리치㊥아라고 위험시하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00134/Sheet1/000006",
+      "sourceBindingSha256": "f3c32529fc78c5499f1b260f156d45dbdd98d432c7b102f91602018e6a38adb5",
+      "sourceTextSha256": "13f85a247eed562ebafff1eb1dafbab5d587b0f1ba5d4ee982aac7cbf5eb9105",
+      "freshTranslation": "고차원 에너지와 그 소유자를 가리키는 프로토데버른의 말. ㊥ 과거 프로토데비른을 얼음 행성에 봉인한 것은 이 애니마 스피리치아의 ㊥ 소유자였다고 하며, 그 힘은 프로토데비른의 에너지원인 스피리 ㊥ 치아와 정반대의 성질을 가지고 그에게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00134/Sheet1/000007",
+      "sourceBindingSha256": "b7ce51f9cce9d7026c19f19e51875000c905ba75361b1443a7b8f799724c8ba7",
+      "sourceTextSha256": "1503b38009373c9aa50017ce19850c8af733ab5c9eae5eee398f986433de3f63",
+      "freshTranslation": "네. ㊥프로토데비른은 FIREBOMBER의 열기 바사라를 애니마스피리치㊥아라고 위험시하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

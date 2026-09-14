@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00000",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00000/Sheet1/000002",
+      "sourceBindingSha256": "938387091b57080b0c09fd07fef56bfd2ade2f80720d57288fe1cb8e62567115",
+      "sourceTextSha256": "e1abb099ed973c900227eb85f5535d51d3e3b47ce4196c1df580bc32e0f38831",
+      "freshTranslation": "타케오 와타",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00000/Sheet1/000003",
+      "sourceBindingSha256": "52dd46f2d9635c1b96e0cf77d85eba2b0a66173cf893e1d333bbbe08c420d396",
+      "sourceTextSha256": "45ac4aabe99e0d08b30e816653a94b56d589c2083d9046fe823d52aa7c94736c",
+      "freshTranslation": "와타",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00000/Sheet1/000004",
+      "sourceBindingSha256": "220329949cbefa6414d40894796d057c12da26d7c1d85785557a6b4379744940",
+      "sourceTextSha256": "77c406ff1c1b9634902fdd15ec771c2a07e20db9f0a6b53196dbf872ebd5aa4c",
+      "freshTranslation": "무적 로보 트라이더 G7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00000/Sheet1/000005",
+      "sourceBindingSha256": "99b643d1aace2b9bf974eb001e1d9c37290c9fbdb28219d15d395cc9144b108c",
+      "sourceTextSha256": "7955067a6385c0f983cc67a81f7e72c798358b720925f0edd875e1381cf975dc",
+      "freshTranslation": "마지마 리미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00000/Sheet1/000006",
+      "sourceBindingSha256": "bc975622a0997f29140a4ae1c1b5279f4fc79ef773534c0dd28c1641f98221e8",
+      "sourceTextSha256": "e5cdc371d16d1f6b0fc03d83a8934ba42464acdb8a6c9f47d5118159783bdd84",
+      "freshTranslation": "다케오 제너럴 컴퍼니의 사장. 12세. ㊥ 이름 그대로 '대나무를 깨뜨린' 같은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00000/Sheet1/000007",
+      "sourceBindingSha256": "e556ee50c569d45752dc9828b5e9e847d80c182f9920d9443d0ad9ab8ac348fd",
+      "sourceTextSha256": "d5082af76ba4f84534ff7bd5992d9c75ba9841f5dd1b03f066b89916bd95093e",
+      "freshTranslation": "똑바른 성격으로, 번창하고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00000/Sheet1/000008",
+      "sourceBindingSha256": "51009955a90fd29e04919a9463f1343b1878d206e78a9ecd587e653b44fe6840",
+      "sourceTextSha256": "2a70a3745add9988b1c6f53769decb01ba1cbe38bfefab34674bee507288e3ad",
+      "freshTranslation": "즐라가 큰 ㊥ 좋아. 낮에는 미도리가오카 초등학교 6년 2조에 다니는 초등학생, 학교가 끝나면(도중에 일을 향해 ㊥하는 일도 자주 있었지만) 사장업이라는 두 다리의 짚신을 신고 있다. ㊥ 일 중인 사고로 선대 사장의 아버지를 잃고 있어 회사를 두드려 한 전무들을 길 ㊥ 머리에 헤매게 하지 않기 위해 신 사장으로 취임. 더 많은 형태의 트라이더를 이어받아 ㊥ 회사의 미래",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00000/Sheet1/000009",
+      "sourceBindingSha256": "c7190a97a5d55f751057a76361f8f5b557fd47c51e3a74f628dd1ad89dd7e745",
+      "sourceTextSha256": "26ff1c17574c2f81766aeb9d3f50878aeb2807632966b005fc661b411dc1ac29",
+      "freshTranslation": "생명을 한 손에 맡게 되었다. ㊥ 역시 놀고 싶은 모임의 나이 때문에, 자신의 사정 어쩔 수 없이 춤추는 일에 용이해 ㊥ 하고 출동을 거부하는 장면은 일상 차반사였다. 하지만 최종적으로는 곤란한 사람을 버리고 ㊥ 없이 튀어나가는 인정미 넘치는 성격의 소유자. 도흉도 사람 한배로 생명의 위험을 동반 ㊥ 하는 메카 로봇과의 전투에도, 겁먹는 일 없이 도전하고 있었다. ㊥ 아버지의 모습이며 회사의 가장 큰 자산인 트라이더는 대단히 좋아합니다. 통학 도중 ㊥ 등 공원에 얼굴 절반을 들여다본 트라이더 앞을 지나갈 때에는 \"오늘도 좋은 남자!\"㊥라고 반드시 말을 걸었다. ㊥달에 화성에서 수많은 메카 로봇과 계속 싸우고 마침내 로봇 제국의 사령관인 ㊥ 석류를 격퇴하는 데 성공한다. 그러나 평화가 된 후에도 당연히 다케오 제네랄카 ㊥ 엠파니 사장으로서의 일은 계속되어 갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00000/Sheet1/000010",
+      "sourceBindingSha256": "ba3eb1d182f2e5055abdebc9ecf18a084b8a377c617217b2171b8b9b6cf39946",
+      "sourceTextSha256": "e5cdc371d16d1f6b0fc03d83a8934ba42464acdb8a6c9f47d5118159783bdd84",
+      "freshTranslation": "다케오 제너럴 컴퍼니의 사장. 12세. ㊥ 이름 그대로 '대나무를 깨뜨린' 같은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00000/Sheet1/000011",
+      "sourceBindingSha256": "c0bd7a21a2d9b50d94b5e6fed0341d54aff970d6001ef638c8e66e96022a00e7",
+      "sourceTextSha256": "d5082af76ba4f84534ff7bd5992d9c75ba9841f5dd1b03f066b89916bd95093e",
+      "freshTranslation": "똑바른 성격으로, 번창하고",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00000/Sheet1/000012",
+      "sourceBindingSha256": "dbe048a7828d9b7e31e5d8689f842715fec62e56daaece1b583aca927be84205",
+      "sourceTextSha256": "2a70a3745add9988b1c6f53769decb01ba1cbe38bfefab34674bee507288e3ad",
+      "freshTranslation": "즐라가 큰 ㊥ 좋아. 낮에는 미도리가오카 초등학교 6년 2조에 다니는 초등학생, 학교가 끝나면(도중에 일을 향해 ㊥하는 일도 자주 있었지만) 사장업이라는 두 다리의 짚신을 신고 있다. ㊥ 일 중인 사고로 선대 사장의 아버지를 잃고 있어 회사를 두드려 한 전무들을 길 ㊥ 머리에 헤매게 하지 않기 위해 신 사장으로 취임. 더 많은 형태의 트라이더를 이어받아 ㊥ 회사의 미래",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00000/Sheet1/000013",
+      "sourceBindingSha256": "b2681423fbb9451ce95a8ca29c35f8c2eacbe63da09feb77c9a65f0d511c8520",
+      "sourceTextSha256": "26ff1c17574c2f81766aeb9d3f50878aeb2807632966b005fc661b411dc1ac29",
+      "freshTranslation": "생명을 한 손에 맡게 되었다. ㊥ 역시 놀고 싶은 모임의 나이 때문에, 자신의 사정 어쩔 수 없이 춤추는 일에 용이해 ㊥ 하고 출동을 거부하는 장면은 일상 차반사였다. 하지만 최종적으로는 곤란한 사람을 버리고 ㊥ 없이 튀어나가는 인정미 넘치는 성격의 소유자. 도흉도 사람 한배로 생명의 위험을 동반 ㊥ 하는 메카 로봇과의 전투에도, 겁먹는 일 없이 도전하고 있었다. ㊥ 아버지의 모습이며 회사의 가장 큰 자산인 트라이더는 대단히 좋아합니다. 통학 도중 ㊥ 등 공원에 얼굴 절반을 들여다본 트라이더 앞을 지나갈 때에는 \"오늘도 좋은 남자!\"㊥라고 반드시 말을 걸었다. ㊥달에 화성에서 수많은 메카 로봇과 계속 싸우고 마침내 로봇 제국의 사령관인 ㊥ 석류를 격퇴하는 데 성공한다. 그러나 평화가 된 후에도 당연히 다케오 제네랄카 ㊥ 엠파니 사장으로서의 일은 계속되어 갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

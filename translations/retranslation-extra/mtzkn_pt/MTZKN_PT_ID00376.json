@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00376",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00376/Sheet1/000002",
+      "sourceBindingSha256": "dca48410fd91cc4cf3a5564fd743488a60ec1ba3ee080624280b4fa1599fe6f6",
+      "sourceTextSha256": "d775255a839f6cb0d154d039b840272a0043627627ca6b7df089d3ea237af941",
+      "freshTranslation": "유노하 스룰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00376/Sheet1/000003",
+      "sourceBindingSha256": "3d4e12d0ffc2b8b60558ba5a7872cd06470da0836ead4dc8ae5703b29eea0507",
+      "sourceTextSha256": "5289e61c26a3efc809028e3074866c29f75edee23aa82c1caa70b25ca4742d09",
+      "freshTranslation": "유노하",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00376/Sheet1/000004",
+      "sourceBindingSha256": "f63e9dab0863d7b2328ad0c9f2752a0b4afa592ca5595b4b10195e0dce78099e",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00376/Sheet1/000005",
+      "sourceBindingSha256": "2e003c223bda7df65ae8f1e7d57bf942eb81b20e8017bee95a8cff9157775840",
+      "sourceTextSha256": "26178739b2356ef0fc67e9c7590f160dc70a73195e0e46c040dabe5859392753",
+      "freshTranslation": "오구라 유이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00376/Sheet1/000006",
+      "sourceBindingSha256": "91fec8b00ccdb1e1cfc89d53012af28a65c481e12f444dac1ecdf6690ea661be",
+      "sourceTextSha256": "049c028c47882ac48f01b69ba13cf3e60a222d7bb8971d80eb948590e8023c98",
+      "freshTranslation": "네오디바의 요소 후보생. ㊥ 극도의 부끄러움으로, 낯선 성격을 하고 있다. ㊥ 항상 고양이(?) 봉제인형,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00376/Sheet1/000007",
+      "sourceBindingSha256": "85a9a78e311abebcd7d916935f685b0598dfd5bcaccc7f84504c25b58d1673b7",
+      "sourceTextSha256": "e43350a20c5dd70719b303b62484288f906972fa60e5fed47f4afdcb78d6206d",
+      "freshTranslation": "엄마를 가지고 다니고 있다. ㊥전교해 온 지 얼마 안에 클래스에 익숙하지 않고 사라져 버리고 싶다는 생각에서 ㊥ 엘리먼트 능력 '광학 투과'가 발동했다. 이것은 자신을 포함한 물체를 투명화하는 것이 ㊥ 할 수 있는 능력으로, 아쿠에리온 탑승시에는 기체를 통째로 투명화시켜, 레이저 무기㊥를 투과시킨다. ㊥ 이 능력으로, 사람 앞에 나오면 사라져 버려, 오랫동안 몸이 사라져 보이지 않게 된 일㊥로부터, 「사라진 엘리먼트」로서 괴담 이야기의 하나가 되어 있었다. ㊥ 하지만 다른 후보생들과의 만남으로 풀어나기 시작한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00376/Sheet1/000008",
+      "sourceBindingSha256": "cee8e8e6b888faae3df26a86c5ac59587a7517efd3486799d56de1557907c988",
+      "sourceTextSha256": "049c028c47882ac48f01b69ba13cf3e60a222d7bb8971d80eb948590e8023c98",
+      "freshTranslation": "네오디바의 요소 후보생. ㊥ 극도의 부끄러움으로, 낯선 성격을 하고 있다. ㊥ 항상 고양이(?) 봉제인형,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00376/Sheet1/000009",
+      "sourceBindingSha256": "fc76f8aafd54c6faed9e2a3edf15bc4560cd3327b594c19d75022a06c76b0982",
+      "sourceTextSha256": "7888812836712d770c2f36dc468a6eddede92070b88e6a8b528330ef1b458f07",
+      "freshTranslation": "엄마를 가지고 다니고 있다. ㊥전교해 온 지 얼마 안에 클래스에 익숙하지 않고 사라져 버리고 싶다는 생각에서 ㊥ 엘리먼트 능력 '광학 투과'가 발동했다. 이것은 자신을 포함한 물체를 투명화하는 것이 ㊥ 할 수 있는 능력으로, 아쿠에리온 탑승시에는 기체를 통째로 투명화시켜, 레이저 무기㊥를 투과시킨다. ㊥ 이 능력으로, 사람 앞에 나오면 사라져 버려, 오랫동안 몸이 사라져 보이지 않게 된 일㊥로부터, 「사라진 엘리먼트」로서 괴담 이야기의 하나가 되어 있었다. ㊥ 하지만 다른 후보생들과의 만남으로 풀어나기 시작한다. ㊥진이 네오디바를 내정하기 위해 전학생을 착용했을 때에는 후보생들과 친숙도 ㊥을 시도하지 않는 그를 걱정하고 뭔가를 걱정한다. 진이 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00376/Sheet1/000010",
+      "sourceBindingSha256": "86d3edeaf7a71ddc204e25f3d344f08d67fb5a4327818da4a7dc770027d6fe99",
+      "sourceTextSha256": "5dc0376c8219685a2e4c8d7f7a15361368aecd8eea07cf273a96928a82fe1278",
+      "freshTranslation": "- 기계를 빼앗으려고 할 때㊥그를 설득. 서로 마음을 다루는 것도, 직후에 미카게에 의해, 진의 생명은 빼앗겨㊥버린다.㊥한번은 슬픔 속에 가라앉았지만, 묘공 특훈에 의해 진의 목소리를 듣고 복귀. 소중한 사람㊥을 잃은 슬픔을 극복하고 부드럽게 강하게 성장해 갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

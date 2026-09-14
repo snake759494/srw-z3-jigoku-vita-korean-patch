@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00031",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00031/Sheet1/000002",
+      "sourceBindingSha256": "1e4b08a0ec3452575e88408e43d88f844466ce287efb12c016f8019aada49e6d",
+      "sourceTextSha256": "2e72dc391938168fbc52704deca72c28f66762970743d8ea2a42ca6692f5cff8",
+      "freshTranslation": "장갑 기병 보텀스 사타구니 이단",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00031/Sheet1/000003",
+      "sourceBindingSha256": "8f60d400f9c832ba6894585fded65c03db7e3dbda67a0267b778a92ec075124a",
+      "sourceTextSha256": "9db6e528dfb08236a9a91ee23a613f03bd7f11233c17ceead9ad1d32ac141a55",
+      "freshTranslation": "엘드 스피네",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00031/Sheet1/000004",
+      "sourceBindingSha256": "a77db3c61dbcd19832e12035379fc1b9d3714b330f564d599e9315c440b7ac15",
+      "sourceTextSha256": "9db6e528dfb08236a9a91ee23a613f03bd7f11233c17ceead9ad1d32ac141a55",
+      "freshTranslation": "엘드 스피네",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00031/Sheet1/000005",
+      "sourceBindingSha256": "f0f17290d64de0e6afea15eb720a2ed49f292be31bf592d670b59de80d36f696",
+      "sourceTextSha256": "9fbd5b51b02a895e9f1f3f4647905207f48dc79534472ba88f92d28e5ed462da",
+      "freshTranslation": "범 은하 결사 마티알이 사용하는 AT. ㊥ 성지 알레듐 방어만을 목적으로 개발되었으며, 성지 주변의 숲과 석조 건축 ㊥ 내에서의 행동을 고려하여 설계되었다. ㊥ 하푸네라는 몰리를 발사하는 자일 스파이드, 그것을 감아 올리는 스핀랏㊥도라는 독자적인 장비를 가진다. 이것에 의해, 자기기를 매달아 상하 이동이나 세로축 방향의 ㊥ 대응도 가능하게 되어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00031/Sheet1/000006",
+      "sourceBindingSha256": "2ac1e252f5d9983d2ca1cb356c148d8358d37e50de87f1c5fb1a4cfb55811f3e",
+      "sourceTextSha256": "9fbd5b51b02a895e9f1f3f4647905207f48dc79534472ba88f92d28e5ed462da",
+      "freshTranslation": "범 은하 결사 마티알이 사용하는 AT. ㊥ 성지 알레듐 방어만을 목적으로 개발되었으며, 성지 주변의 숲과 석조 건축 ㊥ 내에서의 행동을 고려하여 설계되었다. ㊥ 하푸네라는 몰리를 발사하는 자일 스파이드, 그것을 감아 올리는 스핀랏㊥도라는 독자적인 장비를 가진다. 이것에 의해, 자기기를 매달아 상하 이동이나 세로축 방향의 ㊥ 대응도 가능하게 되어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

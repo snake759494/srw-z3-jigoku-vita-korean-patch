@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00050",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00050/Sheet1/000002",
+      "sourceBindingSha256": "a3f0049687ea89a6cb507555b62aa53133bf75a9b5609861c1b558e4ddabf968",
+      "sourceTextSha256": "a4a652d85cf616f429391d8faf3d8c8a4ca1dd9f1c37d5cd130510cf05f15fdf",
+      "freshTranslation": "기동전사 건담 역습의 샤아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00050/Sheet1/000003",
+      "sourceBindingSha256": "4ffda2aff15b42934fde74af8866f80e1030e329cb8408a6da73d460c2531bb0",
+      "sourceTextSha256": "cba2f68e6ebe6c42f8d9ce6c72efdf98f3a352f4a5b8b26c22c4bccb6f1a879c",
+      "freshTranslation": "α·아지르",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00050/Sheet1/000004",
+      "sourceBindingSha256": "f4c37250b4885591f44dd29b017f19d5b49e81740ed93fad3d38bb93dc56f21c",
+      "sourceTextSha256": "cba2f68e6ebe6c42f8d9ce6c72efdf98f3a352f4a5b8b26c22c4bccb6f1a879c",
+      "freshTranslation": "α·아지르",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00050/Sheet1/000005",
+      "sourceBindingSha256": "8a2f676c2ccfb616d25cd5cbfd97ba8cd696a7c89026c81beaca9cf39f5e5161",
+      "sourceTextSha256": "55c3a40f50d08f982e972a57e23b03d39dda0bd8de5f95926edfc66e15c42ebc",
+      "freshTranslation": "퀘스 파라야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00050/Sheet1/000006",
+      "sourceBindingSha256": "a55824456f5750f175b526e19d65f736d218830da0119b5dde39a4c2a2495130",
+      "sourceTextSha256": "d00a70a0ae6778555763ffb1f14713dbd424e76a287077876d91c1d824a3fc4f",
+      "freshTranslation": "네오지온군의 초대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00050/Sheet1/000007",
+      "sourceBindingSha256": "9626bd79d4835f2a664a982598e282c61c77c9f96f0827ad0d3a5c23b89747b8",
+      "sourceTextSha256": "e368fb26641ea6460b0f63fb8064f15159d22f53cce1603024923a5c2828a341",
+      "freshTranslation": "뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00050/Sheet1/000008",
+      "sourceBindingSha256": "f35a4f17ea56d4eaaaf635d1e3a3bf5285100bd2e2370505d1f9bbaffba615b8",
+      "sourceTextSha256": "ad8b67b7960b2095c3e3e7c10684c044c6d4cdfe2eb31466bc55a44fdf9eff14",
+      "freshTranslation": "입 전용 모빌 아머. ㊥ 헤르메스나 큐베레이 등의 사이코뮤 대응기를 참고로 개발된 기체이다. ㊥ 주요 무장으로 메가 입자포, 2연장 발칸포, 유선 사이코뮤식 메가 암㊥포, 판넬 등. ㊥ 대함전을 상정하여 설계되어 전함에 필적하는 화력을 갖추고 있다. 그 제어에 ㊥는 사이코뮤가 사용되며 유선 메가 암포와 대형",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00050/Sheet1/000009",
+      "sourceBindingSha256": "c1d1b7e11f9d51d44bd48e14ca1505efce329667dcf2c6ef653c6ee2774b03cb",
+      "sourceTextSha256": "3f7bf845983afa836c85d0d55ad6f265e21646148a8614a328fd482f4035f239",
+      "freshTranslation": "판넬에 의해 올레㊥지 공격도 가능. ㊥ 또한 다리의 거대한 슈투름 부스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00050/Sheet1/000010",
+      "sourceBindingSha256": "a89addb6cf2b99c6be517c8b392a503d7d2e704d724b317fc62ef92a3fb8469f",
+      "sourceTextSha256": "f202b56d6995c98ab65c6ae7339613353895d6003eb7ee2e7d438de8ddbb3dc4",
+      "freshTranslation": "- 사용 후 분리할 수 있습니다. ㊥ 퀘스를 조종사로 네오지온군의 패로 지구 한랭화 작전에 투입되어 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00050/Sheet1/000011",
+      "sourceBindingSha256": "747c9bdba974183c4db1da6e7ee46901c9cd3e54fcadca036300edcfb4adee00",
+      "sourceTextSha256": "d00a70a0ae6778555763ffb1f14713dbd424e76a287077876d91c1d824a3fc4f",
+      "freshTranslation": "네오지온군의 초대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00050/Sheet1/000012",
+      "sourceBindingSha256": "35c09c88fdf5468020fab92b8868ba952d2d3375848b1ffa87baaf3499fc4654",
+      "sourceTextSha256": "e368fb26641ea6460b0f63fb8064f15159d22f53cce1603024923a5c2828a341",
+      "freshTranslation": "뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00050/Sheet1/000013",
+      "sourceBindingSha256": "4182bfd448756e9c54f3e826df98c6931feca340bd49a852ace45225453c9757",
+      "sourceTextSha256": "ad8b67b7960b2095c3e3e7c10684c044c6d4cdfe2eb31466bc55a44fdf9eff14",
+      "freshTranslation": "입 전용 모빌 아머. ㊥ 헤르메스나 큐베레이 등의 사이코뮤 대응기를 참고로 개발된 기체이다. ㊥ 주요 무장으로 메가 입자포, 2연장 발칸포, 유선 사이코뮤식 메가 암㊥포, 판넬 등. ㊥ 대함전을 상정하여 설계되어 전함에 필적하는 화력을 갖추고 있다. 그 제어에 ㊥는 사이코뮤가 사용되며 유선 메가 암포와 대형",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00050/Sheet1/000014",
+      "sourceBindingSha256": "00df8da0b5c559ba6daf368a960431e95086e285324f3574282f4841b3b0d5e4",
+      "sourceTextSha256": "3f7bf845983afa836c85d0d55ad6f265e21646148a8614a328fd482f4035f239",
+      "freshTranslation": "판넬에 의해 올레㊥지 공격도 가능. ㊥ 또한 다리의 거대한 슈투름 부스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00050/Sheet1/000015",
+      "sourceBindingSha256": "08bc7b7309f34df63221c6b9d697f8972ad06e6d303dd9843ca20fad66ad5909",
+      "sourceTextSha256": "f202b56d6995c98ab65c6ae7339613353895d6003eb7ee2e7d438de8ddbb3dc4",
+      "freshTranslation": "- 사용 후 분리할 수 있습니다. ㊥ 퀘스를 조종사로 네오지온군의 패로 지구 한랭화 작전에 투입되어 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

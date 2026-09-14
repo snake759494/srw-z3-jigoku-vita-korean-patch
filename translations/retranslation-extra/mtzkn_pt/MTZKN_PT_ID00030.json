@@ -1,0 +1,159 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00030",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00030/Sheet1/000002",
+      "sourceBindingSha256": "fe9a7600c571c5ac3057ad707c35c064ff22321b477366afb3a1d49971aeb5e4",
+      "sourceTextSha256": "f5cb6969ef213b2462c4619316da476fdb15240f3358d58e3f602bf180455acb",
+      "freshTranslation": "묘진 시즈코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00030/Sheet1/000003",
+      "sourceBindingSha256": "1e59fce971ac1df3b9bee4f9d0be157ce0b2e4589635a3f114477d2e65da5fb8",
+      "sourceTextSha256": "e7b5d8826361b008b7b74c556c7928d343873c3bdf577f834f3553d5c638873e",
+      "freshTranslation": "시즈코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00030/Sheet1/000004",
+      "sourceBindingSha256": "79f3669254a6c141d2b1e33159ca6f13dd3c57e342493e06e926b378e6450f5f",
+      "sourceTextSha256": "2821f723e708a26125b2215f86a494a31e2eb1a3f45f2c6e857b2cc6d0a13f93",
+      "freshTranslation": "롯신 합체 갓 마즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00030/Sheet1/000005",
+      "sourceBindingSha256": "69922ceec8780414e019f0aaeaa476d99c3eacad0a32b73dfa626a3d9d304c56",
+      "sourceTextSha256": "774ca4ba935d95c9f662151fe9dd1eb8d8dd97556bed9202dc711722831e5591",
+      "freshTranslation": "켈의 양모. 42세. ㊥ 누구에게나 분리할 수 없는 상냥함과 나이를 느끼게 하지 않는 아름다움을 가진다. ㊥ 가혹한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00030/Sheet1/000006",
+      "sourceBindingSha256": "1b213df708bced286f6b64989aa5cdbde7d11f941c24ad4192dc5c8b392b6d4f",
+      "sourceTextSha256": "9e2f53166f87483519f93788ff0eb93fac300a85ab818c979f3d8f1e4babb36f",
+      "freshTranslation": "생명에 농락당하는",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00030/Sheet1/000007",
+      "sourceBindingSha256": "2d9751c7ba615914e7bcfd1f49ea06c9f2f6e41055771231a3c6f9fd32a075d3",
+      "sourceTextSha256": "aea70ea98d71b4beba4523c8f2bc00c6a8fd1f92d9e685f922a6b41fb603a2e3",
+      "freshTranslation": "켈을 어머니의 사랑으로 지탱하고 그 존재는",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00030/Sheet1/000008",
+      "sourceBindingSha256": "a0811c8e41af0b08814a9d3c203d12d7c2093e6b2b0be7fdf391050111c0a7da",
+      "sourceTextSha256": "7786ee9b02f183fbb25c431d695018d00d5398d1838133756ce9fc46dc56ec03",
+      "freshTranslation": "켈 전투에 큰 ㊥ 영향",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00030/Sheet1/000009",
+      "sourceBindingSha256": "55a58e41571bb64ade356296829e762eecc5b8cb0dd7d12d7584e9b6aa0f29b1",
+      "sourceTextSha256": "4d367c1b30b3fe176b59ec68a6cb5ae7827f6458c248435969221f115c1687db",
+      "freshTranslation": "네. ㊥ 남편을 기신성인의 공격으로 잃고 나서는, 오츠카 장관의 잣대로 배틀캠프로의 옮기기㊥주민이 행해졌다. 이후는 크러셔대 전원에게 어머니와 같은 존재가 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00030/Sheet1/000010",
+      "sourceBindingSha256": "156ea341f4555b1ef80941a6400fb3a7c711748c90ccb7944e577d345ee965fd",
+      "sourceTextSha256": "774ca4ba935d95c9f662151fe9dd1eb8d8dd97556bed9202dc711722831e5591",
+      "freshTranslation": "켈의 양모. 42세. ㊥ 누구에게나 분리할 수 없는 상냥함과 나이를 느끼게 하지 않는 아름다움을 가진다. ㊥ 가혹한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00030/Sheet1/000011",
+      "sourceBindingSha256": "e8671f8d5bd1e3ba2de9b657a7bc788da2ca56dd565357e8886ef1257dc51d49",
+      "sourceTextSha256": "9e2f53166f87483519f93788ff0eb93fac300a85ab818c979f3d8f1e4babb36f",
+      "freshTranslation": "생명에 농락당하는",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00030/Sheet1/000012",
+      "sourceBindingSha256": "0fd7cdafaa70fa10cf45fc2e41ac07d514e62815a039ec1ae6c60c8bf747afbe",
+      "sourceTextSha256": "aea70ea98d71b4beba4523c8f2bc00c6a8fd1f92d9e685f922a6b41fb603a2e3",
+      "freshTranslation": "켈을 어머니의 사랑으로 지탱하고 그 존재는",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00030/Sheet1/000013",
+      "sourceBindingSha256": "22dd136495f06055bc5b3b39579a3367e324969e24a8dc707ab681dec7ba21b5",
+      "sourceTextSha256": "7786ee9b02f183fbb25c431d695018d00d5398d1838133756ce9fc46dc56ec03",
+      "freshTranslation": "켈 전투에 큰 ㊥ 영향",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00030/Sheet1/000014",
+      "sourceBindingSha256": "2172a0ff5947eb9156bbeed22f52545f6678d33013408ab9bd165f682ebdc045",
+      "sourceTextSha256": "4d367c1b30b3fe176b59ec68a6cb5ae7827f6458c248435969221f115c1687db",
+      "freshTranslation": "네. ㊥ 남편을 기신성인의 공격으로 잃고 나서는, 오츠카 장관의 잣대로 배틀캠프로의 옮기기㊥주민이 행해졌다. 이후는 크러셔대 전원에게 어머니와 같은 존재가 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00248",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00248/Sheet1/000002",
+      "sourceBindingSha256": "1ad90e49b98128faf3e8b6a5065af546e15f4ad3ff6918f5d17c9a45a42f0caa",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00248/Sheet1/000003",
+      "sourceBindingSha256": "902c9a37b9e655c9c1eebdb5ad4731360bad9f66cc7d9b9e22de577286671d7d",
+      "sourceTextSha256": "c690ad3dd93c8224b9b03ef1f428425f0fcc899bfb3f027485e45f21e44429c2",
+      "freshTranslation": "안게로이 GEM",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00248/Sheet1/000004",
+      "sourceBindingSha256": "32032cb78ec002e0b2190de0ee8f7cd95f4ca3feb33a81cbb338e1311c6a06a7",
+      "sourceTextSha256": "c690ad3dd93c8224b9b03ef1f428425f0fcc899bfb3f027485e45f21e44429c2",
+      "freshTranslation": "안게로이 GEM",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00248/Sheet1/000005",
+      "sourceBindingSha256": "61494ee2fe7e2e10bd8939f25ab895882132946d6d3fd368b9f91303095c6b74",
+      "sourceTextSha256": "5512c2df819a29268cfd5f658f66b3be40704e199dce6cdc5de277ef0b9275f9",
+      "freshTranslation": "제미니스가 사용하는 양산 기동 무기. ㊥ 기체는, 유연한 구조를 가지는 장갑이 가동 프레임을 덮는 형태로 구성되어 있다. 이 장 ㊥갑은 외부에의 에너지 방출 기구를 구비하고 있어 적절히 변형하여 무장으로서도 사용 ㊥된다. ㊥ 기체 구조를 살린 높은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00248/Sheet1/000006",
+      "sourceBindingSha256": "160071dc612e2f5c71f3faeaed151489cc9a82f8a0b419b7b7ae32184e53d830",
+      "sourceTextSha256": "2157d0da036245acaa26c6968ecaefa63995d429b78d3ec5dda459f7e465141d",
+      "freshTranslation": "동성능과 고출력 무장을 갖추고 있으며, 지구제 무기와는 ㊥ 일선을 획하는 전투력을 가지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00248/Sheet1/000007",
+      "sourceBindingSha256": "cf994389e13212c372c73b36000ddaf332d0d04dc607ee7016b602d1501d632e",
+      "sourceTextSha256": "5512c2df819a29268cfd5f658f66b3be40704e199dce6cdc5de277ef0b9275f9",
+      "freshTranslation": "제미니스가 사용하는 양산 기동 무기. ㊥ 기체는, 유연한 구조를 가지는 장갑이 가동 프레임을 덮는 형태로 구성되어 있다. 이 장 ㊥갑은 외부에의 에너지 방출 기구를 구비하고 있어 적절히 변형하여 무장으로서도 사용 ㊥된다. ㊥ 기체 구조를 살린 높은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00248/Sheet1/000008",
+      "sourceBindingSha256": "5e95f59ffd692d017ce0e4c920e19325432fea2ed0500b05f14aa870d8e0747b",
+      "sourceTextSha256": "ffaaa3866a69f5d2a1ad6a314d3b2f2ed8bd6d2c54a33e05d972cee821ee66f4",
+      "freshTranslation": "동성능과 고출력 무장을 갖추고 있으며, 지구제 무기와는 ㊥ 일선을 획하는 전투력을 가지고 있다. ㊥ 사이데리얼에 소속된 각 부대가 각각의 컬러링의 앙게로이를 소유하고 ㊥ 있는 것 같고, 이 컬러링은 제미니스 사용 버전이라고 추측된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

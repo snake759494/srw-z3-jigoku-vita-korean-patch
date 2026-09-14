@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00273",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00273/Sheet1/000002",
+      "sourceBindingSha256": "54507bf2f1b914522b8f00db7739fca8a398d0cec37d1acaff4c2c79a77bc21d",
+      "sourceTextSha256": "b8bf16199fa21271d2b761e4fa0c6577000aed68cc94ccc1279fac8e93b7a89b",
+      "freshTranslation": "하야미즈 아츠노부",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00273/Sheet1/000003",
+      "sourceBindingSha256": "825e6333bdcea05555fb1d737a14c2ea13a5455d815a1e787faaabfc1362d4c6",
+      "sourceTextSha256": "89bd321e92157486312467645103794644fcad388164573d6e65ed7570d4b8bb",
+      "freshTranslation": "숲 물",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00273/Sheet1/000004",
+      "sourceBindingSha256": "407d71529f6fa7369d1f7b1a188a74e66f177a08710b10cc4cb103f4a7aeb248",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00273/Sheet1/000005",
+      "sourceBindingSha256": "ae5d0888838b65889e85d8696891e4c497ad6f058165abf18277917617642fc0",
+      "sourceTextSha256": "9e9b34d92f4bc3a617bf9dfd80231d1ec66843cd2c627f4c27236be52d8cde21",
+      "freshTranslation": "르 패닉? 후모후",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00273/Sheet1/000006",
+      "sourceBindingSha256": "3ff8b96cffeadd12085d9f821e267f443e68c0ba08fdc2dc678d7688894efcc4",
+      "sourceTextSha256": "6a997a6894071dfe744758d76717bba9a83a7d1951aaeb384ac7ae0e61ba774c",
+      "freshTranslation": "진대고교 학생회 회장. ㊥ 타마지구 고등학교 자치연락회의 의장을 맡는 등 대외적인 활동도 하고 있다. ㊥ 두뇌 명석, 냉정 침착인 것은 틀림없지만,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00273/Sheet1/000007",
+      "sourceBindingSha256": "6a2b58795f25c90fd75056e78f74a248ccc02c9484377729c4a8925cc7f99b78",
+      "sourceTextSha256": "21156d00ff89cc3ddc8dce55f230a86b5af6fb57c0c1904c511bec338a7000ee",
+      "freshTranslation": "의가 읽기 어려운 수수께끼의 인물. ㊥ 다른 학생과는 다른 하얀 옷깃의 유니폼과 부채가 트레이드 마크. ㊥소스케가 나막신 상자를 폭파하는 등 소란을 일으켜도 '교직원에게는 나로부터 말을 포함해서 ㊥쿠'라고 발언하는 등 높은 정치력을 갖고 학생의 자치의 이름 밑에 교직원에 대해서도 한 ㊥보도 물러나는 곳이 없다. ㊥ 덧붙여서, 소스케와는 느껴져, 그를 안보 문제 담당, 학생 회장 보좌관에 취임시킨다. ㊥ 소스케와 학생회 부회장의 의견으로 변한 용건을 부탁하는 경우가 많다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00273/Sheet1/000008",
+      "sourceBindingSha256": "bd6247d7df6c7000ed8dfac5fd40bdd67c0740225af2f7256601c448a17b61b0",
+      "sourceTextSha256": "6a997a6894071dfe744758d76717bba9a83a7d1951aaeb384ac7ae0e61ba774c",
+      "freshTranslation": "진대고교 학생회 회장. ㊥ 타마지구 고등학교 자치연락회의 의장을 맡는 등 대외적인 활동도 하고 있다. ㊥ 두뇌 명석, 냉정 침착인 것은 틀림없지만,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00273/Sheet1/000009",
+      "sourceBindingSha256": "14b9bc2121e4b7c9b4bcd072bf3cdf7e04f16e4689c9782d39fd1ae5215bc3b5",
+      "sourceTextSha256": "21156d00ff89cc3ddc8dce55f230a86b5af6fb57c0c1904c511bec338a7000ee",
+      "freshTranslation": "의가 읽기 어려운 수수께끼의 인물. ㊥ 다른 학생과는 다른 하얀 옷깃의 유니폼과 부채가 트레이드 마크. ㊥소스케가 나막신 상자를 폭파하는 등 소란을 일으켜도 '교직원에게는 나로부터 말을 포함해서 ㊥쿠'라고 발언하는 등 높은 정치력을 갖고 학생의 자치의 이름 밑에 교직원에 대해서도 한 ㊥보도 물러나는 곳이 없다. ㊥ 덧붙여서, 소스케와는 느껴져, 그를 안보 문제 담당, 학생 회장 보좌관에 취임시킨다. ㊥ 소스케와 학생회 부회장의 의견으로 변한 용건을 부탁하는 경우가 많다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

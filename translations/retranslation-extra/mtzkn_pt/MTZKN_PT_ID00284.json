@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00284",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00284/Sheet1/000002",
+      "sourceBindingSha256": "dada1b191909ac3a32d071317a9c8b966f4a4e706cbff070a58f42fc981a58eb",
+      "sourceTextSha256": "08a06182cfb97c71c0c0626567ef7a005a23673a533c6f91f349d7c3f3d2077b",
+      "freshTranslation": "벨판간 크루조",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00284/Sheet1/000003",
+      "sourceBindingSha256": "96208229f9f8c857d9bb60e469345e903d001533cbfe0dc411e0979b651767c9",
+      "sourceTextSha256": "9c2c97b5f50cd588df50be7c43efa444a088d4b280fddb60a0d755a17cfe6515",
+      "freshTranslation": "크루조",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00284/Sheet1/000004",
+      "sourceBindingSha256": "f4bbe2f89720f0c070e659544d0fa709ab182deb72ed5a3469485d3a1b1c9330",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00284/Sheet1/000005",
+      "sourceBindingSha256": "79af92ff7f6c5817f0aacdcc25d44215acde15461ab937165730729e9bc4a545",
+      "sourceTextSha256": "6cbead29f5f3666f5882c4fd6c0d7e56e8208850dd34efe1c72cd7834907e4e2",
+      "freshTranslation": "르 패닉! TheSecondRaid",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00284/Sheet1/000006",
+      "sourceBindingSha256": "856c1f313f4a467db862cb9ca602c1c54dd8ab5e9e368379f6b3d23a83af1481",
+      "sourceTextSha256": "fe4eeee20dfb6dd14ef3a4223ce798db820dc626428caad46775d15a5aa39c89",
+      "freshTranslation": "코야마 리키야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00284/Sheet1/000007",
+      "sourceBindingSha256": "5dda027ac3da79404ca1459cc8c8a4401cbb0a309b5482bf181cbe42d9a36c07",
+      "sourceTextSha256": "1aa770236347dbabb75002168b8872dc3e5d37562493eea94a75eebe127cbe1c",
+      "freshTranslation": "대테러 조직 미스릴에 소속된 용병. ㊥계급은 중위. 탑승 AS는 M9D 팔케. ㊥ 지중해 전대에서 서태평양 전대로 전임해 와 SRT(특별 대응반)의 팀 ㊥리더가 된다. ㊥ 성격은 냉정 침착으로 엄격. 또 착임 일찍, 종개들을 다시 단련하기 위해 죽은 전우인 ㊥ 맥카란을 굳이 모욕하고 그들을 도발하는 등 부하뿐 아니라 자신에게도 힘든다. ㊥특기는 마샬아츠로, 무술을 단순한 격투기로서가 아니라, 전사로서의 생㊥방법으로서 포착하고 있다. AS에서의 격투전에서도 모의전이면서 소스케를 압도할 정도로 ㊥의 실력을 가지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00284/Sheet1/000008",
+      "sourceBindingSha256": "6ef8cf079a6e9eac91accadefce8ee1285ef72418179e384f06033a459e5f7b1",
+      "sourceTextSha256": "1aa770236347dbabb75002168b8872dc3e5d37562493eea94a75eebe127cbe1c",
+      "freshTranslation": "대테러 조직 미스릴에 소속된 용병. ㊥계급은 중위. 탑승 AS는 M9D 팔케. ㊥ 지중해 전대에서 서태평양 전대로 전임해 와 SRT(특별 대응반)의 팀 ㊥리더가 된다. ㊥ 성격은 냉정 침착으로 엄격. 또 착임 일찍, 종개들을 다시 단련하기 위해 죽은 전우인 ㊥ 맥카란을 굳이 모욕하고 그들을 도발하는 등 부하뿐 아니라 자신에게도 힘든다. ㊥특기는 마샬아츠로, 무술을 단순한 격투기로서가 아니라, 전사로서의 생㊥방법으로서 포착하고 있다. AS에서의 격투전에서도 모의전이면서 소스케를 압도할 정도로 ㊥의 실력을 가지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

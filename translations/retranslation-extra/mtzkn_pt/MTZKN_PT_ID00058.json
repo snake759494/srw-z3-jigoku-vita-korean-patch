@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00058",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00058/Sheet1/000002",
+      "sourceBindingSha256": "a02e0f7d5b522a2e0fcd5ffee05534f0a300d1c67ab874bdd36a4d02dda9c289",
+      "sourceTextSha256": "9c2b3edef726961c12a50ac8209d2614b31d7790f0a5fb2a375628e230cd2941",
+      "freshTranslation": "아무로 레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00058/Sheet1/000003",
+      "sourceBindingSha256": "e9912b12467526105e1ac8d8cfde51f65958109924326a725382e6f733c19255",
+      "sourceTextSha256": "0809e902288fd530b039e4e7fab7574e60ab089cc228349e4cb8bad432f0a05b",
+      "freshTranslation": "아무로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00058/Sheet1/000004",
+      "sourceBindingSha256": "e1ed7313f23b2d5eb455bb2253f0545624c4b355e4e048065d578530a5a07993",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00058/Sheet1/000005",
+      "sourceBindingSha256": "cf8976ae04553a064905325da553c9f4303e3a6ff411306bffbe0abfd8e06131",
+      "sourceTextSha256": "2fdafa8aef8cb79fb2087bb935bdb697d1284ef194f5b5d6c54e7b6e76ffc101",
+      "freshTranslation": "카라바의 에이스 파일럿. 계급은 대위. 24세. ㊥ 일년 전쟁을 RX-78 건담으로 싸웠다, 나카바 전설로 되어 있는 존재. 하지만 ㊥ 전후는 그 존재를 위험시되어 연방군에 감시되면서 지구에서 한직에 달게 하고 있었다. ㊥ 하지만 프라우나 커틀릿 등 부모와 자식의 갑작스러운 방문이 계기가 되어, 그는 다시 일어나는 결의㊥를 한다. 탈주하여 카라바와 합류한 뒤에는 과거의 라이벌인 샤아, 그리고 젊은 ㊥ 넘치는 카미유와 행동을 함께 한다. 이윽고 싸움 속에서 감을 되찾아, 릭·디㊥아스나 디제에 탑승해 카라바의 핵심 전력이 되어 갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00058/Sheet1/000006",
+      "sourceBindingSha256": "029e277c05ce75adb57aa51f9edbd4279279a9b722761fabd5950a6149d666a6",
+      "sourceTextSha256": "2fdafa8aef8cb79fb2087bb935bdb697d1284ef194f5b5d6c54e7b6e76ffc101",
+      "freshTranslation": "카라바의 에이스 파일럿. 계급은 대위. 24세. ㊥ 일년 전쟁을 RX-78 건담으로 싸웠다, 나카바 전설로 되어 있는 존재. 하지만 ㊥ 전후는 그 존재를 위험시되어 연방군에 감시되면서 지구에서 한직에 달게 하고 있었다. ㊥ 하지만 프라우나 커틀릿 등 부모와 자식의 갑작스러운 방문이 계기가 되어, 그는 다시 일어나는 결의㊥를 한다. 탈주하여 카라바와 합류한 뒤에는 과거의 라이벌인 샤아, 그리고 젊은 ㊥ 넘치는 카미유와 행동을 함께 한다. 이윽고 싸움 속에서 감을 되찾아, 릭·디㊥아스나 디제에 탑승해 카라바의 핵심 전력이 되어 갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

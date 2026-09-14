@@ -1,0 +1,203 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00178",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000002",
+      "sourceBindingSha256": "c8a18082771ccfc7cbb86c7cc08d779750f9a1929c38c5f8c1c8ea6a501123dc",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000003",
+      "sourceBindingSha256": "0f9e9f8fda8e037cf5fac690c81aab44041ddeed5d770e578249109c0b91a07e",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000004",
+      "sourceBindingSha256": "27339d54ee79888b185a099e433be86e8e984550d1b9a5d0b95529e1f83e701a",
+      "sourceTextSha256": "1932f8657612440b4a899f362ca4911569c54dcbc2bcf721d8a4338a7f2034bb",
+      "freshTranslation": "투아하 데 다낭",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000005",
+      "sourceBindingSha256": "c82b3bc0e4dc98cc281367b3cc2165eeaf4efbdea8b99935d2e9b0bd35639f61",
+      "sourceTextSha256": "1932f8657612440b4a899f362ca4911569c54dcbc2bcf721d8a4338a7f2034bb",
+      "freshTranslation": "투아하 데 다낭",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000006",
+      "sourceBindingSha256": "d4f06e4516ea00598baf103d7372b4d60317cc7341784c25f2421f0ee2c0a5aa",
+      "sourceTextSha256": "3bd8c802b26f34006f1c3fb305e4ba188a0ac4d8bed511e185cf1b97ea25a6eb",
+      "freshTranslation": "테레사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000007",
+      "sourceBindingSha256": "79650e0a29fa4d9f5c08eea2a1996f6c2eab29f1d5f1ba6537650295520b8509",
+      "sourceTextSha256": "7abcee43b81983122e892a3b713a1cdcf1ac2da208f0eb1303cc7f85c153ee7e",
+      "freshTranslation": "테스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000008",
+      "sourceBindingSha256": "d22381964ef2b01dbe9fbb481c2233ee8bc0b671608c31a5d5f2c102c0b1b010",
+      "sourceTextSha256": "cd36d180b33c5f16b3fea3236c1c08674d88cb1a398f68fbc1596e907e4068e5",
+      "freshTranslation": "로사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000009",
+      "sourceBindingSha256": "4b053f0087c13ec802f418789e2e4e8cb56f90a03352d9727af71297d01ade14",
+      "sourceTextSha256": "ae58e6e133991a4a9ddc3db66be5c196ad3805b4fb0e4bcaaa1b180d7440fb30",
+      "freshTranslation": "강습 양륙 잠수함으로 미스릴 서태평양 전대의 기함. ㊥ 함장은 테레사 테스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000010",
+      "sourceBindingSha256": "fdd5ff2c50680d04ba54bf1c57b78a10e87ee3a006b5503e01e9c7cb8f1e563a",
+      "sourceTextSha256": "045e9152f245fe3b1d673a29b75dcbbd26b5cfac7fa2fadb31258030a1f9fc5f",
+      "freshTranslation": "로사 대령. 디자인도 그녀 자신의 손에 의한 것이고, 강한 사랑 ㊥ 착용을 가지고있다. ㊥ 사상 최대의 잠수함이며, 미스릴이 보유한 최대의 전투무기이기도 하다. 승무원은 ㊥ 약 250명. ㊥주 기관은 팔라듐 리액",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000011",
+      "sourceBindingSha256": "617553a38516d0d0b9817dcda2e3ccecbac99fedd6ebecd7f71a65c21b40ba43",
+      "sourceTextSha256": "869c754f1aa84e1dbe9c146c6f7b516aba99a00825d2291479aef34449e043ec",
+      "freshTranslation": "에서 추진기관은 SCD(초전도 추진). 선각 표면 ㊥에는 EMFC (전자 유체 제어 장치)가 장착되어 항행 성능과 정숙성이 우수하다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000012",
+      "sourceBindingSha256": "58139a46871817b5894bbc29835d427dac8a0a6d11a191af5054069928619fb9",
+      "sourceTextSha256": "db2c286570eb2dbc73864d3e7ab431cfa7edfff755bb4e886c1939e6a4064663",
+      "freshTranslation": "용에 관한 시스템은 전자화가 진행되고 함의 장비나 기기류는 중앙 컴퓨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000013",
+      "sourceBindingSha256": "555a3e517e8ad8afa7935fc45ad9c7afa6e3a5c3333f16981906451b1837264e",
+      "sourceTextSha256": "1af196a3ae984bae7c197e046c21eddfb3f463382f89302517475b20835be72f",
+      "freshTranslation": "・마더㊥AI「다나」가 제어하고 있다. ㊥ 본함은 8대의 AS를 탑재하고 출격에는 비행 갑판(비행 갑판) 등을 사용한다㊥한다. ㊥적조직이나 미 해군의 일부는 신출귀몰의 본함을 유령잠수함 '토이박스'라고 부르고 ㊥로 되어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000014",
+      "sourceBindingSha256": "00035a0288cf75135cdca720d7e4b7fbc70f8e1ad828b9c48cfe43466be944dd",
+      "sourceTextSha256": "ae58e6e133991a4a9ddc3db66be5c196ad3805b4fb0e4bcaaa1b180d7440fb30",
+      "freshTranslation": "강습 양륙 잠수함으로 미스릴 서태평양 전대의 기함. ㊥ 함장은 테레사 테스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000015",
+      "sourceBindingSha256": "824213fb9c0cc96646fb2e9ed79fedc7aa22335b3ba10ebfcd128bcd9facef56",
+      "sourceTextSha256": "045e9152f245fe3b1d673a29b75dcbbd26b5cfac7fa2fadb31258030a1f9fc5f",
+      "freshTranslation": "로사 대령. 디자인도 그녀 자신의 손에 의한 것이고, 강한 사랑 ㊥ 착용을 가지고있다. ㊥ 사상 최대의 잠수함이며, 미스릴이 보유한 최대의 전투무기이기도 하다. 승무원은 ㊥ 약 250명. ㊥주 기관은 팔라듐 리액",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000016",
+      "sourceBindingSha256": "20511e09d32b0d059397b7d6973dde1d85a2749e78d2456863ec2f02b4efd43f",
+      "sourceTextSha256": "869c754f1aa84e1dbe9c146c6f7b516aba99a00825d2291479aef34449e043ec",
+      "freshTranslation": "에서 추진기관은 SCD(초전도 추진). 선각 표면 ㊥에는 EMFC (전자 유체 제어 장치)가 장착되어 항행 성능과 정숙성이 우수하다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000017",
+      "sourceBindingSha256": "d3f99c97ddb51ecdf4508fd73ce06976f3f1e825208a4667169aaa14fac04fd8",
+      "sourceTextSha256": "db2c286570eb2dbc73864d3e7ab431cfa7edfff755bb4e886c1939e6a4064663",
+      "freshTranslation": "용에 관한 시스템은 전자화가 진행되고 함의 장비나 기기류는 중앙 컴퓨",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00178/Sheet1/000018",
+      "sourceBindingSha256": "2bb57ce21fe869dd4152c7e36f6306f46db745ddc65cf659964d65a89e0bce83",
+      "sourceTextSha256": "1af196a3ae984bae7c197e046c21eddfb3f463382f89302517475b20835be72f",
+      "freshTranslation": "・마더㊥AI「다나」가 제어하고 있다. ㊥ 본함은 8대의 AS를 탑재하고 출격에는 비행 갑판(비행 갑판) 등을 사용한다㊥한다. ㊥적조직이나 미 해군의 일부는 신출귀몰의 본함을 유령잠수함 '토이박스'라고 부르고 ㊥로 되어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

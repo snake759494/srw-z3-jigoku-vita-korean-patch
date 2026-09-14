@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00005",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00005/Sheet1/000002",
+      "sourceBindingSha256": "15c59ca567be23e7f461419dd419e796a0e1559d42bc44dc56f6c844f91c699a",
+      "sourceTextSha256": "a38b22dd9b0d29e272da04638b8d8524627e7df0701e5af4fa4ff1d649095712",
+      "freshTranslation": "시공진동",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00005/Sheet1/000003",
+      "sourceBindingSha256": "9e3e26f41f5f73b13cb396b09a069f6872735caf9ead82ffdc7ba5a955e26fb0",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00005/Sheet1/000004",
+      "sourceBindingSha256": "779d10438d3963877d625b9cfa59adab596e78865898828aab684f64191f0f37",
+      "sourceTextSha256": "dd83a5ff73cc31e41a468c017706cfc8f842d88d90dbaac92424661cdbdafe8c",
+      "freshTranslation": "시공 재해 중, 토지의 전이를 수반하는 현상을 가리킨다. ㊥ 한편, 토지의 전이를 수반하지 않고, 물체나 인체만의 이동이나, 공간의 왜곡만의 장소 ㊥합은, 차원진이라고 불린다. ㊥가, 양자의 구별은 모호하고, 단순히 규모의 차이만으로 구분이 되어 ㊥하는 경우도 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00005/Sheet1/000005",
+      "sourceBindingSha256": "bf59c40f49c0a4048e515cde9d53a4b624f4c5929f647cd7f5c6ef1a3bc8fd78",
+      "sourceTextSha256": "dd83a5ff73cc31e41a468c017706cfc8f842d88d90dbaac92424661cdbdafe8c",
+      "freshTranslation": "시공 재해 중, 토지의 전이를 수반하는 현상을 가리킨다. ㊥ 한편, 토지의 전이를 수반하지 않고, 물체나 인체만의 이동이나, 공간의 왜곡만의 장소 ㊥합은, 차원진이라고 불린다. ㊥가, 양자의 구별은 모호하고, 단순히 규모의 차이만으로 구분이 되어 ㊥하는 경우도 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

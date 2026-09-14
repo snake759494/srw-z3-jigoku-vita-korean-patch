@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00036",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00036/Sheet1/000002",
+      "sourceBindingSha256": "8d06685d3174d095975b053f83672e4b68fd500a78efa907e923a703b34c6cec",
+      "sourceTextSha256": "b89e23b6c53554296a6fb4ff4f8e8316c3bf22aca896f66b25164cb4c8ca7d8b",
+      "freshTranslation": "기동전사 Z건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00036/Sheet1/000003",
+      "sourceBindingSha256": "620d18c283c1a8b7a025f1bdb3d60da4083d3845224fad0b1f3cb415c9f265cb",
+      "sourceTextSha256": "eccd55d785e114b462d5f5468ef293839157018c2d0a16c8bfa0b11212b2ab0b",
+      "freshTranslation": "애너하임 일렉트로닉스가 개발한 에우고 최초의 가변 모빌 슈트. ㊥Z계획에서 변형기구를 검증하기 위한 기체이기 때문에 전투 능력은 낮고, 기체㊥ 강도도 높지 않다. ㊥ 아가마에 배포되며 레코어와 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00036/Sheet1/000004",
+      "sourceBindingSha256": "ea02359f7c5cd5d2f9945e2ba31f2f010fe6dbb173f72042939eef56e6b195cf",
+      "sourceTextSha256": "7acc0945ed1073636074daf676743d28a091f2ad8ae9901bf6fcb3fd327bb379",
+      "freshTranslation": "사용되었다. ㊥극장판에서는 2대가 등장해 각처에서 활약했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00036/Sheet1/000005",
+      "sourceBindingSha256": "fcba53d089a50ce28af6072889b59ab8ef986ac27bde92dec7ea00d4dc1baa25",
+      "sourceTextSha256": "eccd55d785e114b462d5f5468ef293839157018c2d0a16c8bfa0b11212b2ab0b",
+      "freshTranslation": "애너하임 일렉트로닉스가 개발한 에우고 최초의 가변 모빌 슈트. ㊥Z계획에서 변형기구를 검증하기 위한 기체이기 때문에 전투 능력은 낮고, 기체㊥ 강도도 높지 않다. ㊥ 아가마에 배포되며 레코어와 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00036/Sheet1/000006",
+      "sourceBindingSha256": "0f3971469cd1d2117ceff807bbc1aaf3bda2bea861d8270dcbd6feb4d3926fd2",
+      "sourceTextSha256": "7acc0945ed1073636074daf676743d28a091f2ad8ae9901bf6fcb3fd327bb379",
+      "freshTranslation": "사용되었다. ㊥극장판에서는 2대가 등장해 각처에서 활약했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

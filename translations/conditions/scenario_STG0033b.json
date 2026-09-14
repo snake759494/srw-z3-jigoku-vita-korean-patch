@@ -1,0 +1,85 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0033b",
+    "fileName": "STG0033b.cpk",
+    "target": "DATA/STAGE/STG0033b.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "06687f84ee1fd688e4076ab889bccc2bee7d97bd59fbdb53ab94ee563b802cca"
+  },
+  "entries": [
+    {
+      "entryId": "STG0033b/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "5턴 이내에 적을 전멸시킨다",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0033b/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "5턴 이내에 히이로를 평화기념관에 도달시킨다",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0033b/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0033b/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "히이로·카렌·카토르·트로와 중 하나라도 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0033b/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "6턴을 맞이한다",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0033b/ID00001/OPERATE_TBL/str_tbl/005",
+      "sourceId": 5,
+      "translation": "5턴 이내에 서펜트를 전멸시킨다",
+      "conditionTypes": [
+        "sr",
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

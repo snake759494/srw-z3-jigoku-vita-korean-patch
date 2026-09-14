@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00283",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00283/Sheet1/000002",
+      "sourceBindingSha256": "6909b4249870dd58231cc9171fa1b90f8e759cd5ecea409f2705f8d2517ab008",
+      "sourceTextSha256": "7ec492c6656a357f30f8e2327f6ee49bba819eaa5eb16cc445d93bc9ec27571b",
+      "freshTranslation": "포니 남자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00283/Sheet1/000003",
+      "sourceBindingSha256": "1907982bd127170b5cc043665c4da680d3bbb2942a0fb237d164cca71755731c",
+      "sourceTextSha256": "7ec492c6656a357f30f8e2327f6ee49bba819eaa5eb16cc445d93bc9ec27571b",
+      "freshTranslation": "포니 남자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00283/Sheet1/000004",
+      "sourceBindingSha256": "6ae3aec08155d2ccb0cfd63d11a71c04170765e054eb9b1eab63bd6691470738",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00283/Sheet1/000005",
+      "sourceBindingSha256": "07262845730f48fb3bde34deec644abb7e9c6a50f091e6dae5458f7f8e7f13e3",
+      "sourceTextSha256": "9e9b34d92f4bc3a617bf9dfd80231d1ec66843cd2c627f4c27236be52d8cde21",
+      "freshTranslation": "르 패닉? 후모후",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00283/Sheet1/000006",
+      "sourceBindingSha256": "8b15955b6e0f639be6fde1220d9c960051e6ee00752cfd8111716e5aeee30328",
+      "sourceTextSha256": "e5bf7b5105ac847c3a611e6004128ae50ac3e424ca184761a0d3b7a41df095d9",
+      "freshTranslation": "포니테일에 이상한 집착심을 가진 수수께끼의 괴인. ㊥ 밤의 거리에서 여성을 억지로 포니 테일로 만드는 범행을 반복합니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00283/Sheet1/000007",
+      "sourceBindingSha256": "d95c62ab2669151f51277817f65026d1d15182c1fc0d742a3339cb726b0235b2",
+      "sourceTextSha256": "f03e7f509af0946c89a123a0e420c3ace1ef626af3599c3596b96bd30d147e6e",
+      "freshTranslation": "포니테일에 이상한 집착심을 가진 수수께끼의 괴인. ㊥ 밤의 거리에서 여성을 억지로 포니 테일로 만드는 범행을 반복합니다. ㊥ 소스케 야카나메들의 활약에 의해 잡히지만, 그 정체는 포니테일을 사랑하는 청년으로 ㊥ 이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

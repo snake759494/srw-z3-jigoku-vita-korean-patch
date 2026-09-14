@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00042",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00042/Sheet1/000002",
+      "sourceBindingSha256": "170d952d16f3755f7f915b39de335268e037c9075d8e25c9eda4b95a492f590a",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00042/Sheet1/000003",
+      "sourceBindingSha256": "4cc34309543ceef4116a3b53860a4f81c625507539fcb954d5d807333d6437a2",
+      "sourceTextSha256": "71d9afef4d2700e37140879f0adac2868c63af62b58b54be92f8a37a6a9b4b0c",
+      "freshTranslation": "「DimensionGrizzly(차원 회색 곰)」의 애칭. ㊥DG는 인정 적대외래종 '비스트' 중에서도 최대 최강의 것이다. ㊥ 그 외관은 북미 대륙의 하이이로그마와 비슷하지만, 훨씬 거대하고 사나운 ㊥이다. 또한 높은 지능을 가지고 자신을 쫓는 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00042/Sheet1/000004",
+      "sourceBindingSha256": "493ffbeea8549fe31c1189d8dacf27e4402e855496b40b84fb0c8774b1f1fe8b",
+      "sourceTextSha256": "b306456799f61c2fe66d6c1f4997bfcb4500e27c3abcae62a0e4b0a8756a7e55",
+      "freshTranslation": "- 행동을 읽고 유치하십시오.㊥로 돌아와 토벌하는 일도 드물지 않다.㊥따라서 DG를 물리 친 사람은 야수 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00042/Sheet1/000005",
+      "sourceBindingSha256": "c1a590d9a859ddc33fc906730fb96f03348701c456d018e42eaa2a2a3a71e227",
+      "sourceTextSha256": "62dcf57252683e0907ab64a63a165efd3e5f9ccc9c8c2a644d90389a8357b383",
+      "freshTranslation": "- 특히 G Ghan",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00042/Sheet1/000006",
+      "sourceBindingSha256": "340064489f804493559df38daa2d86e49b10b30ed38bf76bf47d0db51ab4653d",
+      "sourceTextSha256": "899218d9927b3a35287ed5d3a83b7365280c21f7f7b3117847a02ac0455a0b8d",
+      "freshTranslation": "-와㊥불리고 존경을 모은다.㊥또한 DG의 송곳니",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00042/Sheet1/000007",
+      "sourceBindingSha256": "13e133cba509008381eb638bef55bcf4f7d8886314d46d205e77e271910ee68d",
+      "sourceTextSha256": "d8fc3358b347fbb04873895d38be8d7696c56ac8dc4c7ba9e344a6ad69461712",
+      "freshTranslation": "를 부르는 부적으로 진중된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00042/Sheet1/000008",
+      "sourceBindingSha256": "6d493ae0ed287025c13b042722ba0cd8d9434604d63c864fa981de4433065371",
+      "sourceTextSha256": "71d9afef4d2700e37140879f0adac2868c63af62b58b54be92f8a37a6a9b4b0c",
+      "freshTranslation": "「DimensionGrizzly(차원 회색 곰)」의 애칭. ㊥DG는 인정 적대외래종 '비스트' 중에서도 최대 최강의 것이다. ㊥ 그 외관은 북미 대륙의 하이이로그마와 비슷하지만, 훨씬 거대하고 사나운 ㊥이다. 또한 높은 지능을 가지고 자신을 쫓는 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00042/Sheet1/000009",
+      "sourceBindingSha256": "ea433c2a01ccc3951bb6f64646c96b3c2051516265a3b189dd06cf04647c2335",
+      "sourceTextSha256": "b306456799f61c2fe66d6c1f4997bfcb4500e27c3abcae62a0e4b0a8756a7e55",
+      "freshTranslation": "- 행동을 읽고 유치하십시오.㊥로 돌아와 토벌하는 일도 드물지 않다.㊥따라서 DG를 물리 친 사람은 야수 한",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00042/Sheet1/000010",
+      "sourceBindingSha256": "6b687e1ef783865391bf7dfa74416509f9fee8eac1e0641b069b5933de1f7dd0",
+      "sourceTextSha256": "62dcf57252683e0907ab64a63a165efd3e5f9ccc9c8c2a644d90389a8357b383",
+      "freshTranslation": "- 특히 G Ghan",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00042/Sheet1/000011",
+      "sourceBindingSha256": "e4e9a66a4806909429a5fc133f358f8fc88b2c4a908d702acd7fb9ae57f0bf79",
+      "sourceTextSha256": "899218d9927b3a35287ed5d3a83b7365280c21f7f7b3117847a02ac0455a0b8d",
+      "freshTranslation": "-와㊥불리고 존경을 모은다.㊥또한 DG의 송곳니",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00042/Sheet1/000012",
+      "sourceBindingSha256": "8cf20f1fa72abddd771ee01e915e223fd569c95dc637009426b7be2144245cac",
+      "sourceTextSha256": "2cbf263bfad4eebfd67797ade70fd50a1d662bc3fa09c04e177d3f8fc7ad25d3",
+      "freshTranslation": "를 부르는 부적으로 진중하고 있으며, 최근의 연구에서는 ㊥ 단순한 미신이 아니라 실제로 인과율을 왜곡하는 효과가 있다고 주목을 끌고 ㊥있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

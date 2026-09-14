@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00141",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00141/Sheet1/000002",
+      "sourceBindingSha256": "9af027024d697461081333d7f41a5df7d29f11ff12b82380d01fe51c1bd8cba0",
+      "sourceTextSha256": "04767e6094151fa78bc90d95eb498efa7390ad72430a7e711f1354bf6b5d9d2b",
+      "freshTranslation": "하산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00141/Sheet1/000003",
+      "sourceBindingSha256": "92a4910ee6ebcebe0444777c9d3dd3c63047baf62cee2c6931711bd60b99b933",
+      "sourceTextSha256": "04767e6094151fa78bc90d95eb498efa7390ad72430a7e711f1354bf6b5d9d2b",
+      "freshTranslation": "하산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00141/Sheet1/000004",
+      "sourceBindingSha256": "3b67e2b4ce1d74435416d790a56989e1f3fdd89e8227be82e915228de45cd951",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00141/Sheet1/000005",
+      "sourceBindingSha256": "d09590f6835d366a5ea3157e05333bb4c2e9fd52aafb40737e4f1f637b64975c",
+      "sourceTextSha256": "62a228dff8799e2d08743706096103670099b7cc56f67ebe4851a9c3c5f719ff",
+      "freshTranslation": "네엘 아가마의 군의. ㊥ 그립스 전역 때는 아가마, 제1차 네오지온 항쟁시에는 네르 아가마에 ㊥ 승함하고 있던 베테랑의 군의. ㊥뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00141/Sheet1/000006",
+      "sourceBindingSha256": "9070a0c4ae15e21163e45e4e9daaf071ca397d72f27e104a166c9da9a6adaf12",
+      "sourceTextSha256": "4d730c802c7786f7d2bd5974995a6d8df12927b1fc8fddb6cdb71c08fbe981f0",
+      "freshTranslation": "입 부대라고도 불리는 선박 선생님을 역임하고 있습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00141/Sheet1/000007",
+      "sourceBindingSha256": "68d16398a807c57c54a9c480dead2bbdc76ac607dc681a90625895163e8b2124",
+      "sourceTextSha256": "3b6e5884c33c187a44cfdb071517566fe628849a3c44faa9f0082188310d767f",
+      "freshTranslation": "입이나 강화인㊥사이에의 대응에도 경험이 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00141/Sheet1/000008",
+      "sourceBindingSha256": "5b062c65ae90648b3a75409b27e0b7e59c0df643307eb650406029d04e0b718d",
+      "sourceTextSha256": "62a228dff8799e2d08743706096103670099b7cc56f67ebe4851a9c3c5f719ff",
+      "freshTranslation": "네엘 아가마의 군의. ㊥ 그립스 전역 때는 아가마, 제1차 네오지온 항쟁시에는 네르 아가마에 ㊥ 승함하고 있던 베테랑의 군의. ㊥뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00141/Sheet1/000009",
+      "sourceBindingSha256": "9fd1ee5b626c137046aa26dc540a5405bc53f5160ce6215e012282fa7c02cfcf",
+      "sourceTextSha256": "4d730c802c7786f7d2bd5974995a6d8df12927b1fc8fddb6cdb71c08fbe981f0",
+      "freshTranslation": "입 부대라고도 불리는 선박 선생님을 역임하고 있습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00141/Sheet1/000010",
+      "sourceBindingSha256": "6323c7228fc474a40e7cadfec6b4b225cbe115e9e7b9e39d161fa89812e52a4e",
+      "sourceTextSha256": "f3c9551c762b20124f7167c77603dfe602b485405aa641cf358c1a8473baadf5",
+      "freshTranslation": "입이나 강화인㊥사이에의 대응에도 경험이 있다. ㊥ 마리다를 포로로 했을 때는, 구속을 제언하는 미히로의 생각을 이해하면서도, 그녀 ㊥를 환자로서 적절한 대응을 하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

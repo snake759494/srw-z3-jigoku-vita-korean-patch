@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00118",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00118/Sheet1/000002",
+      "sourceBindingSha256": "e94aa29c7e732fcf3d3b4d9347dba8d3bc514430de48c5932b997026dcea3977",
+      "sourceTextSha256": "e50b774639e2f20b859d05240c65b2ada8273e2a5ec5d669c1d4d3ff4727be49",
+      "freshTranslation": "카티 마네킹",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00118/Sheet1/000003",
+      "sourceBindingSha256": "eefcd0326e0ac34fe4756bd3a41b14ca28cd132722c0302724606279d1e5716f",
+      "sourceTextSha256": "eed2b92727911efbdd691dc7090db192bf8e11b77cb655bd5587d5914d1084b8",
+      "freshTranslation": "카티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00118/Sheet1/000004",
+      "sourceBindingSha256": "113be7bc4b28b965969cd3bb810a226d2ea9c800067cb3d1067adf18c27bceb1",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00118/Sheet1/000005",
+      "sourceBindingSha256": "9e09cd33709a8e2042f7db15bd0b3135d31e2b92c5d17f5da257c8518d3d73dd",
+      "sourceTextSha256": "9ec4b1ebfa69896099546621ba705749ed9278390fab7a4110eb211396aab91f",
+      "freshTranslation": "지구 연방군의 지휘관. 계급은 준장. 39세. ㊥원은 AEU의 작전 지휘관으로, 전술 예보사의 자격을 가진다. 작전 행동 중에는 섬세한 전황분 ㊥석을 게을리하지 않고, 항상 정확한 지시를 내는 일로부터 부하들의 신뢰도 두껍다. ㊥ 수메라기는 학생 시절의 지인이며, 당시부터 전술 예보사로서 라이벌의 관계에 ㊥ 있었다. ㊥생",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00118/Sheet1/000006",
+      "sourceBindingSha256": "d6165e1c7731153570c8c06a63f2700ce5757b628f22d042b8baf6e9cf4db652",
+      "sourceTextSha256": "84cd592a3d9bcd5b041a188cf62e4d6a33ee472888f2155f7de11992f2e88311",
+      "freshTranslation": "흥미로운 여성으로, 군의 규율을 지키고, 명령은 절대 물건으로 받아들이지만, 알로우㊥의 방식에는 항상",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00118/Sheet1/000007",
+      "sourceBindingSha256": "cfb51d603cb0a1a1d42dace530dc2023ecbd2410ecf1dab82cd9222f5c665da9",
+      "sourceTextSha256": "b9c083b32e37d730757d42958b641313657b2b9a5137496f7cdc7a34e23c71ad",
+      "freshTranslation": "질문을 가지고 있었다. ㊥ 따라서 대전 중에는 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00118/Sheet1/000008",
+      "sourceBindingSha256": "f28860cc8a32cd4c393872da361c16a574de6034021c038c5305d359962d173c",
+      "sourceTextSha256": "67d89978a2a06939b2f8611c168496728782e7f0706d37d92ae158b48db41834",
+      "freshTranslation": "루비잉을 쫓아 여러 번의 전투를 벌이기도 ㊥연방 정부가 리본즈 알마크의 괴짜가 되고 있다는 것을 알게 되면, 당연히 반기를 ㊥번들어, 그들과 공투했다. ㊥ 그 행동이 인정되어 현지 지구 연방군에 두어도 지휘관으로 활약하고 있다. ㊥ 부하의 패트릭 콜라 사워로부터는, 상관으로서의 존경 이상의 애정을 전해져 ㊥ 하고 있어, 당초는 그의 단호함에 어슬렁거릴 뿐이었지만, 그 노천기만에 대해 쓴웃음을 지르는 ㊥하는 장면도 보였다. ㊥ 이노베이드와의 싸움을 마친 뒤 목숨을 걸고 그녀를 구한 콜라 사워의 고백을 받아 ㊥ 넣고 그와 결혼했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00118/Sheet1/000009",
+      "sourceBindingSha256": "d1bf3fde8631a6e83be175ee6c02e504fe05d0de934a63365fa2f0b96da564b8",
+      "sourceTextSha256": "9ec4b1ebfa69896099546621ba705749ed9278390fab7a4110eb211396aab91f",
+      "freshTranslation": "지구 연방군의 지휘관. 계급은 준장. 39세. ㊥원은 AEU의 작전 지휘관으로, 전술 예보사의 자격을 가진다. 작전 행동 중에는 섬세한 전황분 ㊥석을 게을리하지 않고, 항상 정확한 지시를 내는 일로부터 부하들의 신뢰도 두껍다. ㊥ 수메라기는 학생 시절의 지인이며, 당시부터 전술 예보사로서 라이벌의 관계에 ㊥ 있었다. ㊥생",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00118/Sheet1/000010",
+      "sourceBindingSha256": "d8c1818c9563af72936b4e6f7d04d516de4bc5973611413d7d2a70900787758d",
+      "sourceTextSha256": "84cd592a3d9bcd5b041a188cf62e4d6a33ee472888f2155f7de11992f2e88311",
+      "freshTranslation": "흥미로운 여성으로, 군의 규율을 지키고, 명령은 절대 물건으로 받아들이지만, 알로우㊥의 방식에는 항상",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00118/Sheet1/000011",
+      "sourceBindingSha256": "6640305c433b96c382b25cb9e5a338557646c0f0e6364bb43c1a804e77f2f734",
+      "sourceTextSha256": "b9c083b32e37d730757d42958b641313657b2b9a5137496f7cdc7a34e23c71ad",
+      "freshTranslation": "질문을 가지고 있었다. ㊥ 따라서 대전 중에는 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00118/Sheet1/000012",
+      "sourceBindingSha256": "f20eb6f8f2aca529d6ec52a97d38df5add556095234ca35c4a4f525b6d02e31c",
+      "sourceTextSha256": "67d89978a2a06939b2f8611c168496728782e7f0706d37d92ae158b48db41834",
+      "freshTranslation": "루비잉을 쫓아 여러 번의 전투를 벌이기도 ㊥연방 정부가 리본즈 알마크의 괴짜가 되고 있다는 것을 알게 되면, 당연히 반기를 ㊥번들어, 그들과 공투했다. ㊥ 그 행동이 인정되어 현지 지구 연방군에 두어도 지휘관으로 활약하고 있다. ㊥ 부하의 패트릭 콜라 사워로부터는, 상관으로서의 존경 이상의 애정을 전해져 ㊥ 하고 있어, 당초는 그의 단호함에 어슬렁거릴 뿐이었지만, 그 노천기만에 대해 쓴웃음을 지르는 ㊥하는 장면도 보였다. ㊥ 이노베이드와의 싸움을 마친 뒤 목숨을 걸고 그녀를 구한 콜라 사워의 고백을 받아 ㊥ 넣고 그와 결혼했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

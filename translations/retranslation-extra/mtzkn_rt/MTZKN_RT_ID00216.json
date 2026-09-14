@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00216",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00216/Sheet1/000002",
+      "sourceBindingSha256": "144bcb75d985fcb379296c0102dd881628413e6bf24010c3268d45ba0d99fdab",
+      "sourceTextSha256": "04e0d2c766e3b46051c4f48019d26a285dd0b59cbf31cca297d47e2bd40b733a",
+      "freshTranslation": "에반게리온 신극장판 : 서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00216/Sheet1/000003",
+      "sourceBindingSha256": "0e2e2b1b6cd13f9be8b9518b808406ffb9a0be9accd7b32043aa75e529b22f01",
+      "sourceTextSha256": "2b32088bc14c5395b143025cbb772f6acbfce73d8fc8b5660b8e064f17f78615",
+      "freshTranslation": "여섯 번째 사도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00216/Sheet1/000004",
+      "sourceBindingSha256": "c3014463ac0ad9c3281d0d3d2c393657c406261cd1b4ffed055f9fb90be89586",
+      "sourceTextSha256": "2b32088bc14c5395b143025cbb772f6acbfce73d8fc8b5660b8e064f17f78615",
+      "freshTranslation": "여섯 번째 사도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00216/Sheet1/000005",
+      "sourceBindingSha256": "5e812e2d14a33a4f94174d6704dbd5e9b045c09b41b658ee62ac29824eb21550",
+      "sourceTextSha256": "ddd72602769e92eac269914c26f2cbf6512fe5e31de915c57e202d8d20cd73d8",
+      "freshTranslation": "제3신도쿄시에 습격한 6번째 사도. ㊥ 정팔면체에서 다양한 형태로 변화하는 것이 특징. 감지한 일정 거리 내의 외적을 강력한 ㊥ 빔포로 자동 배제한다. ㊥ 아시노호에서 제3신도쿄시에 침공하고, 한번은 요격에 나선 초호기를 물리친다. 그 후, N㊥ERV 본부 바로 위에서 직접 공격을 노린다. NERV의 컴퓨팅",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00216/Sheet1/000006",
+      "sourceBindingSha256": "b685e0949616d3cc14cba8c55975b8508469896654e3ca90be7d75766db0a6ff",
+      "sourceTextSha256": "151bc8c768a3d711d458b6646c8236655e0f25cc514cb2b31eefd322708300d9",
+      "freshTranslation": "시스템 MAGI㊥의 계산에서, A. T. 필드를 관통하기 위해서는 본부마다 파괴하는 분량의 N2항공 ㊥ 폭뢰가 필요하다고 했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00216/Sheet1/000007",
+      "sourceBindingSha256": "bfd1428bc9207964f0380d840a1c3563d0c2a9a4cfaa2dc9691bf4eef1303839",
+      "sourceTextSha256": "ddd72602769e92eac269914c26f2cbf6512fe5e31de915c57e202d8d20cd73d8",
+      "freshTranslation": "제3신도쿄시에 습격한 6번째 사도. ㊥ 정팔면체에서 다양한 형태로 변화하는 것이 특징. 감지한 일정 거리 내의 외적을 강력한 ㊥ 빔포로 자동 배제한다. ㊥ 아시노호에서 제3신도쿄시에 침공하고, 한번은 요격에 나선 초호기를 물리친다. 그 후, N㊥ERV 본부 바로 위에서 직접 공격을 노린다. NERV의 컴퓨팅",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00216/Sheet1/000008",
+      "sourceBindingSha256": "6b9f14fa8f6c9b7eabce1298b8efa4e84d6df6957a8c1ee8d3e269da5ff4eaff",
+      "sourceTextSha256": "33577c1f654977b6de8259ded67b5000a76ec18592029a5de616bf1c1fc0e81c",
+      "freshTranslation": "시스템 MAGI㊥의 계산에서, A. T. 필드를 관통하기 위해서는 본부마다 파괴하는 분량의 N2항공 ㊥ 폭뢰가 필요하다고 했다. ㊥일본 중의 전력을 모아 사용되는 양전자포에 의한 저격, 「야시마 작전」으로, 초호기㊥에 코어를 쏘아 넘어져 쓰러졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

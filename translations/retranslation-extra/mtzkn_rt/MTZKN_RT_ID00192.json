@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00192",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00192/Sheet1/000002",
+      "sourceBindingSha256": "f763b7f9f37fdfed4e6d5f308df6645b110127541643d628cba38af1f7d0f167",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00192/Sheet1/000003",
+      "sourceBindingSha256": "6bd1c3cb1c3e36db9216182bf37a4a0021be5c50ce138ec099c0f4566877fa64",
+      "sourceTextSha256": "6cbead29f5f3666f5882c4fd6c0d7e56e8208850dd34efe1c72cd7834907e4e2",
+      "freshTranslation": "르 패닉! TheSecondRaid",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00192/Sheet1/000004",
+      "sourceBindingSha256": "0cd1fc1d5943db72cfa71dc67955968cde1aa7556ad3afaca627cc283bbdf8b7",
+      "sourceTextSha256": "ba9bd24ff17d51307135e486f3ab8b4f474f921097760cde11b88e5d9f52ca9d",
+      "freshTranslation": "플랜 1059 코다르 c",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00192/Sheet1/000005",
+      "sourceBindingSha256": "f9c7c5a887b9ebcf953611474de8190b43c4290a229f7f41bdbc8cc5b67c7de5",
+      "sourceTextSha256": "ba9bd24ff17d51307135e486f3ab8b4f474f921097760cde11b88e5d9f52ca9d",
+      "freshTranslation": "플랜 1059 코다르 c",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00192/Sheet1/000006",
+      "sourceBindingSha256": "ff8274af73745a57d8075e585386b6e767fd6b5dd95fde9e2912e5797a816bc6",
+      "sourceTextSha256": "947523bdb0cca402568fa1fc870818016e54a8c92006c3bf603d5c736506749d",
+      "freshTranslation": "수수께끼의 조직",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00192/Sheet1/000007",
+      "sourceBindingSha256": "f126bb3540890189a92c5e8ad21d9564f300758c2e2c3da80ea033ed8c6656c0",
+      "sourceTextSha256": "1e7e8efb516d9f025369c532587b142765606cf7bf4834ad019e7a8920f5aa24",
+      "freshTranslation": "사용할 AS. ㊥ 미스릴 분류 코드에서 '베놈'",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00192/Sheet1/000008",
+      "sourceBindingSha256": "3997882ba534036ced1dfbf3eef4e9dfeb184a02a7a7ec87d4e27c50b9c0d1ef",
+      "sourceTextSha256": "3ae4fbb2a6cbcb2d64fe72cdc4b8f3e679c95b8bc42d70ac6aaadfaab76d47ad",
+      "freshTranslation": "입으로 여겨지는 기체이다. ㊥ 동측제의 3세대 AS, Zy-98을 베이스로 개발되었다고 여겨지고 있지만, 최대의 ㊥ 특징은, 본기에는 람다 드라이버가 탑재되고 있는 점이다. 이에 따라 같은 ㊥ 3세대 AS인 서쪽 M9를 능가하는 전투력을 발휘한다. ㊥ 주요 무장은 35mm 소총, 어두운 가장자리 단분자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00192/Sheet1/000009",
+      "sourceBindingSha256": "3be0e3df34c1be2a9f6a4287dbf42a6101fe75704312ac8f4d0eb0171e82944f",
+      "sourceTextSha256": "04bc6f1ad3c1a4c6bed4cddc49308dbfd1f93d7e349ed7d914338b35593ad3bc",
+      "freshTranslation": "- 등. ㊥ 홍콩에서는 게이츠기와 함께 출현. 미스릴의 SRT(특별 대응반)를 궁지에 빠진다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00192/Sheet1/000010",
+      "sourceBindingSha256": "139fea91a40eabaaf041d6b8ffd6a83e78082603e0fbad30d3c3b4a80c92cd56",
+      "sourceTextSha256": "717d8b95834f25c8410d3b3d56dc9ac0124c8b664ff483869e1298e0997d0fde",
+      "freshTranslation": "비밀 조직 아말감",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00192/Sheet1/000011",
+      "sourceBindingSha256": "e7c7f1f35012bd56f43259dcff536b27369aaf201f9a0a3d5561a8b1b58ddceb",
+      "sourceTextSha256": "1e7e8efb516d9f025369c532587b142765606cf7bf4834ad019e7a8920f5aa24",
+      "freshTranslation": "사용할 AS. ㊥ 미스릴 분류 코드에서 '베놈'",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00192/Sheet1/000012",
+      "sourceBindingSha256": "c98e0d6c5f7cf8ef1b3a26dba774883552d0609d0700b08ea1b8c5742d99a88f",
+      "sourceTextSha256": "3ae4fbb2a6cbcb2d64fe72cdc4b8f3e679c95b8bc42d70ac6aaadfaab76d47ad",
+      "freshTranslation": "입으로 여겨지는 기체이다. ㊥ 동측제의 3세대 AS, Zy-98을 베이스로 개발되었다고 여겨지고 있지만, 최대의 ㊥ 특징은, 본기에는 람다 드라이버가 탑재되고 있는 점이다. 이에 따라 같은 ㊥ 3세대 AS인 서쪽 M9를 능가하는 전투력을 발휘한다. ㊥ 주요 무장은 35mm 소총, 어두운 가장자리 단분자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00192/Sheet1/000013",
+      "sourceBindingSha256": "4851881a774b1851c78b74108a88ec80b81a6364448ca50ddba7214841c96d6a",
+      "sourceTextSha256": "723bcda8abfbd7c88a64ef0ebf6946f71e4ef86f74b23db3eebdeb81f0aac760",
+      "freshTranslation": "- 등. ㊥ 홍콩에서는 게이츠기와 함께 출현. 미스릴의 SRT(특별 대응반)를 궁지에 빠진다. ㊥이지만, 소스케가 탑승하는 아바레스트가 구원에 오면 전황은 일변해, 차례차례로 격파되어 ㊥ 갔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

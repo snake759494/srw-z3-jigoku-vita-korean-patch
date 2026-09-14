@@ -1,0 +1,236 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00230",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000002",
+      "sourceBindingSha256": "e9d358597ec68e48835a5381b960dc251d3a96fbc092a17d250798ad03fe0473",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000003",
+      "sourceBindingSha256": "ba99afd1127434478bd23af59ddcf5ce4df05000b47ac19da1da704fcb810516",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000004",
+      "sourceBindingSha256": "dd72ce960b0383cb3d4fa433ba1df6eba2bf02cd357cb21028948f681bd46b04",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000005",
+      "sourceBindingSha256": "37aa446030dab981557fc304a2d9a98b44f10dc1418b2412760172a7b79f307c",
+      "sourceTextSha256": "7b2662049512e32d98ccff6ba79616fb227704168d4cc240c40d975fd60c8e37",
+      "freshTranslation": "네오디바가 소유한 기계 천사. ㊥백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000006",
+      "sourceBindingSha256": "2d81709f564349ea59bceae563cf8b6c82af00cbc8a72c0d3dd38faa19125fa8",
+      "sourceTextSha256": "1a354cf9bed8837b4590dd7e407b1b423b1ed3205f4a67cbc9eea7548f133fa1",
+      "freshTranslation": "-머신이라고 불리는 3기의 전투기가 합체하는 것으로 완성된다. ㊥ 조합에 의해 3종류의 형태에 합체하는 것이 가능하고, 각각의 형태마다 전투㊥투스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000007",
+      "sourceBindingSha256": "820e6ec876486358da100a731ec5f01b154af1442db57b37a451057a79916e0d",
+      "sourceTextSha256": "030019a293edb74373e22b1953479ae749e375e76780ba5291c8658317d9a53b",
+      "freshTranslation": "일과 외관이 크게 변화한다. ㊥ 탑승자가 되는 것은 엘리먼트 능력자라고 불리는 초능력을 가진 소년 소녀들. 합체㊥에는 그들의 힘이 필요하며, 합체 후의 기체 스펙은 그들의 능력이나 정신 상태에 ㊥에 의해서도 크게 좌우된다. ㊥ 아쿠에리온 에볼은 베크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000008",
+      "sourceBindingSha256": "2a363431b67a0fe2513981eb0bff5fc6c047eff6ad695f7ce67dd42502fc89c2",
+      "sourceTextSha256": "df06f11cfe8b4b4043367c82e3e85705d8875dcc5126778ee48b8ebcee99aca1",
+      "freshTranslation": "제드가 상체, 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000009",
+      "sourceBindingSha256": "61bca31229f41cb6749a3a2593485f5f6d989db94fb912698ffb503a9be8e2f1",
+      "sourceTextSha256": "2c42267a0d13e4b8c8584c2a2a961c1ef44f0d8c3810f963e08bbbcdd20e14c9",
+      "freshTranslation": "익스가 하체, 백㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000010",
+      "sourceBindingSha256": "ffb8c001b43b0ef98bb7617c3b4fa2abf4b97cd515873eea736e95fdfe9a1a7d",
+      "sourceTextSha256": "c424b3c1103ea0fa062f00e3ea712bd5f4a864fda79e7e0ad4c724cdc16d3f5d",
+      "freshTranslation": "-실론이 백을 구성한다. ㊥ 탑승자의 엘리먼트 능력에 영향을 받기 쉬운 형태이지만, 3 형태 중에서 가장 큰 ㊥ 파워를 발휘할 수 있다. ㊥1만2000년 전의 전설에 있는 신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000011",
+      "sourceBindingSha256": "1a0d2c6179eee6f0eaf807b8c07269d5ac865ad8f57d528dedacd1f98f51579c",
+      "sourceTextSha256": "63f81e0281a723f5be53a3814f423affb037244505c2d728f2c9d95d636febeb",
+      "freshTranslation": "어쿠어리온과 닮아 있어, 빨강을 기조로 해 ㊥한 컬러링, 등에 탑재된 태양 윙 등, 곳곳에 공통점이 보이면㊥된다. ㊥ 남녀 합체가 금지되었기 때문에 봉인되었지만 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000012",
+      "sourceBindingSha256": "a491f0d3169fea91bc2704c335e07c061a3d1c17d9c950d66c9573ad40437152",
+      "sourceTextSha256": "757ef15da471e28bc78eabc38ec33e9b6091ee635e7e80a395f37e4b1995c41b",
+      "freshTranslation": "와 미코노의 탑승에 의해 ㊥ 각성했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000013",
+      "sourceBindingSha256": "71372a9d78ffab1b4f7e28eab9124b874182ab42565c53755028957cf6a76862",
+      "sourceTextSha256": "331216339c056d5317abbc98629e80d1a73b84f7099ee386ce74ffed8778e3f2",
+      "freshTranslation": "네오디바가 소유한 기계 천사. ㊥1만2000년 전 타천과의 전투에서 사용된 강공",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000014",
+      "sourceBindingSha256": "aa4e1390002a98e08de426841977bb6533ebf6b309e69d97656f2f6cf7729b62",
+      "sourceTextSha256": "1cd91cabbf2a0a7628f1df36b363f4499931403a90af93d643901268880c6003",
+      "freshTranslation": "아쿠아리온을 발굴하고 개㊥수정한 것이다. ㊥백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000015",
+      "sourceBindingSha256": "62e1458758892e96e0e6e51959e462e657c9bd15310983adaa0f52f472f58509",
+      "sourceTextSha256": "1a354cf9bed8837b4590dd7e407b1b423b1ed3205f4a67cbc9eea7548f133fa1",
+      "freshTranslation": "-머신이라고 불리는 3기의 전투기가 합체하는 것으로 완성된다. ㊥ 조합에 의해 3종류의 형태에 합체하는 것이 가능하고, 각각의 형태마다 전투㊥투스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000016",
+      "sourceBindingSha256": "5f11a476671480154a4bdd17ae8a505f1447963ae2c4b936cb70615887e96938",
+      "sourceTextSha256": "030019a293edb74373e22b1953479ae749e375e76780ba5291c8658317d9a53b",
+      "freshTranslation": "일과 외관이 크게 변화한다. ㊥ 탑승자가 되는 것은 엘리먼트 능력자라고 불리는 초능력을 가진 소년 소녀들. 합체㊥에는 그들의 힘이 필요하며, 합체 후의 기체 스펙은 그들의 능력이나 정신 상태에 ㊥에 의해서도 크게 좌우된다. ㊥ 아쿠에리온 에볼은 베크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000017",
+      "sourceBindingSha256": "16bc963ee236066f07a3fbb2b0566efb7e572811921d5193a68a6dda2eb48f97",
+      "sourceTextSha256": "df06f11cfe8b4b4043367c82e3e85705d8875dcc5126778ee48b8ebcee99aca1",
+      "freshTranslation": "제드가 상체, 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000018",
+      "sourceBindingSha256": "688892c6cc928dd72e09cea88d1dee2777e60f64b7cffb9cf26758af10bdafae",
+      "sourceTextSha256": "2c42267a0d13e4b8c8584c2a2a961c1ef44f0d8c3810f963e08bbbcdd20e14c9",
+      "freshTranslation": "익스가 하체, 백㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000019",
+      "sourceBindingSha256": "41e3964e44bdd6887f41fe8eb4a92d0d461a1d272cb7683ccb24f26e82155e46",
+      "sourceTextSha256": "c424b3c1103ea0fa062f00e3ea712bd5f4a864fda79e7e0ad4c724cdc16d3f5d",
+      "freshTranslation": "-실론이 백을 구성한다. ㊥ 탑승자의 엘리먼트 능력에 영향을 받기 쉬운 형태이지만, 3 형태 중에서 가장 큰 ㊥ 파워를 발휘할 수 있다. ㊥1만2000년 전의 전설에 있는 신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000020",
+      "sourceBindingSha256": "e059b03fbc07163463f3ccf0e369ec1efd43c8e9a6264778b86c4a69d1e04f80",
+      "sourceTextSha256": "63f81e0281a723f5be53a3814f423affb037244505c2d728f2c9d95d636febeb",
+      "freshTranslation": "어쿠어리온과 닮아 있어, 빨강을 기조로 해 ㊥한 컬러링, 등에 탑재된 태양 윙 등, 곳곳에 공통점이 보이면㊥된다. ㊥ 남녀 합체가 금지되었기 때문에 봉인되었지만 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00230/Sheet1/000021",
+      "sourceBindingSha256": "a759a263cfd60cb06d97fbf48db1718c96d767427442ee338c395850b2284f51",
+      "sourceTextSha256": "757ef15da471e28bc78eabc38ec33e9b6091ee635e7e80a395f37e4b1995c41b",
+      "freshTranslation": "와 미코노의 탑승에 의해 ㊥ 각성했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00233",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000002",
+      "sourceBindingSha256": "5e3b274519214c6796544b9893b2f5faa59072cf8420d1f6cdb96fe3e96aaf4b",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000003",
+      "sourceBindingSha256": "d74e5098ba86a805313ae2a389a99c445a034d0d20a2fc531361bba69ff9a099",
+      "sourceTextSha256": "8b5e9f082ee44288d15bbd9abb4d4f1d510db7b88d43ae68966be3b5aae338aa",
+      "freshTranslation": "로우 그니스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000004",
+      "sourceBindingSha256": "6b6ac5215ba88447520897d6033ac6ff084d40bafa287f59de4209fcefe6dd6b",
+      "sourceTextSha256": "8b5e9f082ee44288d15bbd9abb4d4f1d510db7b88d43ae68966be3b5aae338aa",
+      "freshTranslation": "로우 그니스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000005",
+      "sourceBindingSha256": "acbc0a8265e26042c88ff0439b1d220786b11717cce2ab3c0ab4e3c0022b9ab9",
+      "sourceTextSha256": "a567bdaa11367f260f0708391f4d10766b5962f565d9e432f17981a3584fe1e2",
+      "freshTranslation": "중간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000006",
+      "sourceBindingSha256": "abe1c7bcded6ab80ae687ff4bc0aebc7ae58c9422693228eed58829d4473ea32",
+      "sourceTextSha256": "8be81bd27a32d37a4f8657a47f63fecc42af271c6944092a8e36e31676ae40ff",
+      "freshTranslation": "양산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000007",
+      "sourceBindingSha256": "4b9292985e68a9d6f129475bbe3cfd0ef6d6d878a1048e8708bb2e59d1260811",
+      "sourceTextSha256": "4afeb94db628166052582b11bbadd2fed4e46b3b963fda1f097207f803bf5b4a",
+      "freshTranslation": "다목적 신화 짐승. ㊥ 거미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000008",
+      "sourceBindingSha256": "192161e5693db39b30bf935d425497f48e004bb6bfbb8ea41f514657d7bc1f65",
+      "sourceTextSha256": "1726cd000f437eefe40c7456fb8e199c6e1fcc8ec66f195edf03bf7cbbcfa7bd",
+      "freshTranslation": "의 자동 조종의 무인기이지만, 원격 조종도 가능. 콕핏도 갖추고 있어, ㊥ 필요하면 유인에서의 조종도 가능. ㊥이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000009",
+      "sourceBindingSha256": "817d43d76745db16131cf8947ee9c65c88cbbddb0595966756769b4b077a1b22",
+      "sourceTextSha256": "79092f3b9caeb34c4cb9c41633538a738121fa47e3c711414f544db13bdeac73",
+      "freshTranslation": "입은 전투",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000010",
+      "sourceBindingSha256": "43b563c1cf78add6046ce245135555322c1dd61181c1af4dc03f66f61f3bcebe",
+      "sourceTextSha256": "f8e17635b584ebe7fb9c8e7f0f91188332e2edca5f7e4b362446d6b700d0330f",
+      "freshTranslation": "하지만, 그 밖에도 다양한 변이가 있어 대표적인 것㊥로서 납치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000011",
+      "sourceBindingSha256": "2a8bad529ababc7b3e861578127d9a256fc310a3a68cfdd2f797bbe2e47fc4d3",
+      "sourceTextSha256": "6ff2c1e0ad829d03ce8bba276d12baa72df2d906b79eeb660cd49148d2a0a5cf",
+      "freshTranslation": "를 들 수 있다. ㊥ 중력 제어 엔진으로 자유롭게 비행하고 4개 다리로 지상을 이동한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000012",
+      "sourceBindingSha256": "bc78e049a118ccff7aa43c1e4af3765e0437aa223c144380f3c5db8eaa14a82c",
+      "sourceTextSha256": "a567bdaa11367f260f0708391f4d10766b5962f565d9e432f17981a3584fe1e2",
+      "freshTranslation": "중간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000013",
+      "sourceBindingSha256": "ef6d152292abf5b5501c90869b5e6c4e6651b6f1256d1be0a7c795b539b0194b",
+      "sourceTextSha256": "8be81bd27a32d37a4f8657a47f63fecc42af271c6944092a8e36e31676ae40ff",
+      "freshTranslation": "양산",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000014",
+      "sourceBindingSha256": "1dec04dee5d250c31456aff4a2042972d4a71198a9366f5c073804612b428866",
+      "sourceTextSha256": "4afeb94db628166052582b11bbadd2fed4e46b3b963fda1f097207f803bf5b4a",
+      "freshTranslation": "다목적 신화 짐승. ㊥ 거미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000015",
+      "sourceBindingSha256": "213a802a31bb2796ed7b9fee2c2515b2cc32831d250790884bd44d5120becb25",
+      "sourceTextSha256": "1726cd000f437eefe40c7456fb8e199c6e1fcc8ec66f195edf03bf7cbbcfa7bd",
+      "freshTranslation": "의 자동 조종의 무인기이지만, 원격 조종도 가능. 콕핏도 갖추고 있어, ㊥ 필요하면 유인에서의 조종도 가능. ㊥이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000016",
+      "sourceBindingSha256": "d95d26d0da965f1be34c34b653c5491ab9b9673300d2f4c58a1f6afc921834e7",
+      "sourceTextSha256": "79092f3b9caeb34c4cb9c41633538a738121fa47e3c711414f544db13bdeac73",
+      "freshTranslation": "입은 전투",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000017",
+      "sourceBindingSha256": "5aac627ab4ca8e8c42de3d89554995cef81df1007e49551718cad91d33fb6d9b",
+      "sourceTextSha256": "f8e17635b584ebe7fb9c8e7f0f91188332e2edca5f7e4b362446d6b700d0330f",
+      "freshTranslation": "하지만, 그 밖에도 다양한 변이가 있어 대표적인 것㊥로서 납치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00233/Sheet1/000018",
+      "sourceBindingSha256": "905dc58e6391bce50f29a169e56f2a590e4d7527a3e2bc544b60b16ef0e495c2",
+      "sourceTextSha256": "0820ccac752385363ff3c44216e07d11122ede24f8bc358f2a42a4ef12871368",
+      "freshTranslation": "를 들 수 있다. ㊥ 중력 제어 엔진으로 자유롭게 비행하고 4개 다리로 지상을 이동한다. ㊥ 알테아에서는 다수가 양산된 기체로 특별한 것은 아니지만, 과학기술, 무기기술 ㊥에 뒤떨어지는 지구에 있어서 상당한 위협이 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

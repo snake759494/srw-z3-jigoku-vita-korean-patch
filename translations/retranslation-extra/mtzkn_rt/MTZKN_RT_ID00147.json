@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00147",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00147/Sheet1/000002",
+      "sourceBindingSha256": "eb4ab7e81a19d3b3b6008d6f981b2d7b9100576cba68d7f9194e2cc6e1d4cf6c",
+      "sourceTextSha256": "2e50e921e3c7b75fbcf433d1563a8398e58c77dd78a57ca4d82d5572435bab13",
+      "freshTranslation": "(체인지!)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00147/Sheet1/000003",
+      "sourceBindingSha256": "4e6bac24be55115b417c24e24387e452a61dfe73e9ce889ea90533a2d5dc900c",
+      "sourceTextSha256": "7c3cb5cb2ef14de63eec14acd214053a7f20637efe0ffd4631309ea46fb1a51d",
+      "freshTranslation": "- 로보 세계 마지막 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00147/Sheet1/000004",
+      "sourceBindingSha256": "ff1fbebb7a642ee5a207fbc3cdb267dbe390ef04ecae7a4e654c66918b961d7e",
+      "sourceTextSha256": "bc02b05063a9dc959ecd3c37db4f2ea499ccdf743139ecc8874d48c037581888",
+      "freshTranslation": "인베이더",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00147/Sheet1/000005",
+      "sourceBindingSha256": "47553e47f72d18ce161b3c8398fac74b1de6813f8aae222636fee98d63ccc40d",
+      "sourceTextSha256": "bc02b05063a9dc959ecd3c37db4f2ea499ccdf743139ecc8874d48c037581888",
+      "freshTranslation": "인베이더",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00147/Sheet1/000006",
+      "sourceBindingSha256": "780d9991c9f96299bf028d51f4f19fa04167825b9ecab145e0ec9ca2d5042c63",
+      "sourceTextSha256": "cbdeb693e03c5febbcbe6725fd9d712dbccee9e6e9d9c3b092dbe1d34ad32fd5",
+      "freshTranslation": "목성 부근에서 등장한 인베이더. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00147/Sheet1/000007",
+      "sourceBindingSha256": "4f1fbb31e274f6fde3ba69676f60abdf6072b5ebf1fc0ba5073319c0a438dd6f",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00147/Sheet1/000008",
+      "sourceBindingSha256": "3ce0a89fad15578d44b0fa68cfd77c676b79099e36fc69b7e6282ba1d439e14b",
+      "sourceTextSha256": "0f721c55d8ae5d864c1ccd80c2247bc3260f0204f8e637bba8f5a7fa07453e72",
+      "freshTranslation": "드래곤을 둥글게하는 정도의 크기로 내부에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00147/Sheet1/000009",
+      "sourceBindingSha256": "dff7415234de783858d0148df358dd2f424f64a5a072c7c52463997abc6350fb",
+      "sourceTextSha256": "f6bb94acb94edb79822a11cee868d8aadf4fddb1c1a08b2db4aa0556b720e481",
+      "freshTranslation": "- 빔을 조사 ㊥ 되어도 비쿠도 하지 않았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00147/Sheet1/000010",
+      "sourceBindingSha256": "3d6d947efb748ab0ba58eea3b5503b5fe6c0fbcd7d44f587c22a286bc57d36fa",
+      "sourceTextSha256": "cbdeb693e03c5febbcbe6725fd9d712dbccee9e6e9d9c3b092dbe1d34ad32fd5",
+      "freshTranslation": "목성 부근에서 등장한 인베이더. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00147/Sheet1/000011",
+      "sourceBindingSha256": "b054394a57654265b0d630d6b041dbefdaf9547629fdf238d271a6386af6f726",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00147/Sheet1/000012",
+      "sourceBindingSha256": "c6373ba823de5d2ac3941638ea13b5c36c02caf1527acc1459a82a513d075ad3",
+      "sourceTextSha256": "0f721c55d8ae5d864c1ccd80c2247bc3260f0204f8e637bba8f5a7fa07453e72",
+      "freshTranslation": "드래곤을 둥글게하는 정도의 크기로 내부에서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00147/Sheet1/000013",
+      "sourceBindingSha256": "8d83d9a10397023e3d55187e0848727936b5832e082abbc18509525e003fc960",
+      "sourceTextSha256": "9332e014b2d1ea64f6bc0baa96781e8140f8e664e6e51ac4b159318ca00a3cb1",
+      "freshTranslation": "- 빔을 조사 ㊥ 되어도 비쿠도 하지 않았다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00147/Sheet1/000014",
+      "sourceBindingSha256": "4b046610a80be29d397fbd2c2ff2cb1445de83af2fa025f3f8c42e7ba138f552",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00147/Sheet1/000015",
+      "sourceBindingSha256": "cc8325f041192ebaddc2f187e811b5ed07466804143db4c56909f627e3466c84",
+      "sourceTextSha256": "95710b5aa57d236c802b2f6531fb23cb01ae595d6d46c74dace00915b6f9c676",
+      "freshTranslation": "라이거의 드릴로 내부에서 파괴되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

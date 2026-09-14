@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00183",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00183/Sheet1/000002",
+      "sourceBindingSha256": "dba6b6cc56f7645cc0959da389daea62548d7d2b753dc26bb8c89dbd7662bd88",
+      "sourceTextSha256": "9ef702a68278a2661947ae56307593a2012544aed32ca25b62a1cc3521391e7b",
+      "freshTranslation": "람 호아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00183/Sheet1/000003",
+      "sourceBindingSha256": "ff3611ad8714b37698290e4d2c1c850982d03f63e420fc9b904611ef2405a32a",
+      "sourceTextSha256": "092272df0510c6e10ed8a76cd38e38a537fc00d45abbd2000f26cd23e1d40c3a",
+      "freshTranslation": "램",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00183/Sheet1/000004",
+      "sourceBindingSha256": "0fe52ebba62d4f15976623fd1f24a3b58feba9d82ceaa1473c148fedb2df20b6",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00183/Sheet1/000005",
+      "sourceBindingSha256": "e9ee5018638c5fbc70b8387f2eb78360d9a744610bd9781531556e63dacfb354",
+      "sourceTextSha256": "c0d3a63f2fec78158d842fcc9a7a1204a1f896ed8e48e569596715eb59975d55",
+      "freshTranslation": "마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00183/Sheet1/000006",
+      "sourceBindingSha256": "a3b1563657b7dd92dc4e7ab632fbd8590bab815ce6301eb51f996105de8508be",
+      "sourceTextSha256": "80634b56fed5a5e3c9c83384440dc20f07f4a0513545dce1124a624f53b66b26",
+      "freshTranslation": "- 오퍼레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00183/Sheet1/000007",
+      "sourceBindingSha256": "e447b28b40822ce35bd98ac7d120d1e9cb4bf6bf78eda6107fb00ec4a2ae1066",
+      "sourceTextSha256": "e757575326a3e98e7025bb3a9f12ab47429b279747f709d17898ede9f93ed98c",
+      "freshTranslation": "ー.㊥통신과 화기관제를 담당.㊥날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00183/Sheet1/000008",
+      "sourceBindingSha256": "d3de016fd74939647e38979d086be931cfbb2a4073261a985262b5f32937fad7",
+      "sourceTextSha256": "cc0447c1df5c6c93fd6c17a940caa8e158457da2a8ec0d76dc3d1a5ecf3f4fd4",
+      "freshTranslation": "더 이상 사랑하고, 수집과 분석을 자랑한다. 약간 독설가인 면이 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00183/Sheet1/000009",
+      "sourceBindingSha256": "c597d1a6192e43678ea0c0ce08064edb7ec46629251ac6e99f6c9344ccd69439",
+      "sourceTextSha256": "c0d3a63f2fec78158d842fcc9a7a1204a1f896ed8e48e569596715eb59975d55",
+      "freshTranslation": "마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00183/Sheet1/000010",
+      "sourceBindingSha256": "1ba13e5847bbae47014aee07e050e14c879e385e876c33a2f8c51fcbaa590745",
+      "sourceTextSha256": "80634b56fed5a5e3c9c83384440dc20f07f4a0513545dce1124a624f53b66b26",
+      "freshTranslation": "- 오퍼레이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00183/Sheet1/000011",
+      "sourceBindingSha256": "e8bf745dc7e64545b64d1a105eba5c2abed235adebcdffc05f3e480d019499ca",
+      "sourceTextSha256": "e757575326a3e98e7025bb3a9f12ab47429b279747f709d17898ede9f93ed98c",
+      "freshTranslation": "ー.㊥통신과 화기관제를 담당.㊥날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00183/Sheet1/000012",
+      "sourceBindingSha256": "2b397ba9a841e66dcdcacc383865e21859fc956634ceabf73f5a25f12078b71b",
+      "sourceTextSha256": "cc0447c1df5c6c93fd6c17a940caa8e158457da2a8ec0d76dc3d1a5ecf3f4fd4",
+      "freshTranslation": "더 이상 사랑하고, 수집과 분석을 자랑한다. 약간 독설가인 면이 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

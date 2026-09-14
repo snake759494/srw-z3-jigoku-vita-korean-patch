@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00171",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00171/Sheet1/000002",
+      "sourceBindingSha256": "3c30261e0cc63dc62699180b7ef8ba78543f90d08d08dfbbfdee46f5167cdda6",
+      "sourceTextSha256": "fe82c905a6215168a90a9b27d7eb05a7c47166cb9ec609a131f0bd7583092bde",
+      "freshTranslation": "THE 빅오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00171/Sheet1/000003",
+      "sourceBindingSha256": "4fe16fb702eff94004b21773723de4fb65f20af151a917f07bd064538b550c8b",
+      "sourceTextSha256": "86c4c81a9ed0ae719ef3af1e0ceaa698200bab1f8f764e43f84df24fae43d161",
+      "freshTranslation": "빅듀오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00171/Sheet1/000004",
+      "sourceBindingSha256": "4a950405158ecd252ba118e44ee4bf859d7704e20733da4328e4a575706158a4",
+      "sourceTextSha256": "86c4c81a9ed0ae719ef3af1e0ceaa698200bab1f8f764e43f84df24fae43d161",
+      "freshTranslation": "빅듀오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00171/Sheet1/000005",
+      "sourceBindingSha256": "3ca61fe92f7eb33a6b62f0049b411d9344a3a0d811c3245400cd2550cd6c335e",
+      "sourceTextSha256": "8c6946efd41cc977b709980c17d5de333c58db406643466ad8e6518b49a76067",
+      "freshTranslation": "슈바르츠발트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00171/Sheet1/000006",
+      "sourceBindingSha256": "406afe00f9ef43e7062d69635c52ca2f59b87c05c03ac1f40058e5e7d33cc65a",
+      "sourceTextSha256": "b85e8e061cc9564a6431f8679a600e1e28a1db527833fc64ce37052a3deeda3c",
+      "freshTranslation": "슈바르츠가 발견한 메가데우스. ㊥ 빅오가 육지의 더 빅이라면, 빅듀오는 하늘의 더 빅이라고도 할 수 있는 성㊥능을 가진다. ㊥ 양팔에서 주 날개를 전개하고, 4개의 손가락을 프로펠러로 변형시켜, 강력한 엔진의 아프",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00171/Sheet1/000007",
+      "sourceBindingSha256": "45bbe1d2e7f523b063603510994b7afb1c8c6bd218f3dacd4406ac04c8ccbc28",
+      "sourceTextSha256": "887242b43ae16f144f049d80eac0fa21c187015852b9b9a1af61e613116dfad8",
+      "freshTranslation": "-버너에 의해 비행을 실시한다. ㊥ 무장은 눈에서 발하는 광선 '아크 라인', 흉부에서 발하는 '개틀링 미사일', ㊥ 양하 다리에 수납되어 있는 '메가톤 미사일'이 있다. 또한, 손가락의 4개의 프로펠러 ㊥는 회전시켜 상대를 깎아내는 것이 가능하다. ㊥ 조종 방법이나 조종석 레이아웃은 빅오와 같지만, 파일럿이 타고 ㊥ 없는 상태에서도 자발적으로 행동하는 일도 있어, 불가해한 점이 많은 메가데우스. ㊥ 첫 등장시는 메가데우스 마미로서 전신을 붕대로 감은 상태로 등장. 소름 끼치는 ㊥ 분위기를 자아내고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00171/Sheet1/000008",
+      "sourceBindingSha256": "46a393817a85a6d0fa1a35e9486ecd612ecca4b4c060ee50c6033e8bf74ae066",
+      "sourceTextSha256": "b85e8e061cc9564a6431f8679a600e1e28a1db527833fc64ce37052a3deeda3c",
+      "freshTranslation": "슈바르츠가 발견한 메가데우스. ㊥ 빅오가 육지의 더 빅이라면, 빅듀오는 하늘의 더 빅이라고도 할 수 있는 성㊥능을 가진다. ㊥ 양팔에서 주 날개를 전개하고, 4개의 손가락을 프로펠러로 변형시켜, 강력한 엔진의 아프",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00171/Sheet1/000009",
+      "sourceBindingSha256": "458e3a509589d62901ac2f7a030ddd95624668c00c6e87ca26dd8d53bf9d7af4",
+      "sourceTextSha256": "834027d19bcb338b7cf3a68cc897f72886f580d77ab8c8ba9831a29b9143f23c",
+      "freshTranslation": "-버너에 의해 비행을 실시한다. ㊥ 무장은 눈에서 발하는 광선 '아크 라인', 흉부에서 발하는 '개틀링 미사일', ㊥ 양하 다리에 수납되어 있는 '메가톤 미사일'이 있다. 또한, 손가락의 4개의 프로펠러 ㊥는 회전시켜 상대를 깎아내는 것이 가능하다. ㊥ 조종 방법이나 조종석 레이아웃은 빅오와 같지만, 파일럿이 타고 ㊥ 없는 상태에서도 자발적으로 행동하는 일도 있어, 불가해한 점이 많은 메가데우스. ㊥ 첫 등장시는 메가데우스 마미로서 전신을 붕대로 감은 상태로 등장. 소름 끼치는 ㊥ 분위기를 자아내고 있었다. ㊥ 센트럴 돔에서 빅오와 대결했을 때는 하늘에서 폭격으로 빅오를 ㊥ 괴롭힌다. 하지만, 로저의 기전을 낳은 전법으로 역전되어 대파시켜 버린다. ㊥ 그 후 도로시의 존재에 반응하고, 그녀를 추구하도록 무인 상태 그대로 걸음을 진행㊥ 하고, 곧 정지했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

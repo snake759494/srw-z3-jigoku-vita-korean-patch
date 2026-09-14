@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00007",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00007/Sheet1/000002",
+      "sourceBindingSha256": "013d10b0db2bede63d26c8844775afb7e43a7447cb4c7cee4556a7f7e993ce84",
+      "sourceTextSha256": "a887d58eccb0e6b884e6d6e8132c404793df9e966638bf4864a546d1f90949a0",
+      "freshTranslation": "타천",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00007/Sheet1/000003",
+      "sourceBindingSha256": "b4d23c23f5c4285d5ce89f8e36e9614ac49bce06c89a9c8752d5dccc5def7711",
+      "sourceTextSha256": "344e35a137e92c696ff659ba0711b7b468502bdcdfe73298842ed0ce0e7bfc55",
+      "freshTranslation": "「어쿠어리온 EVOL」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00007/Sheet1/000004",
+      "sourceBindingSha256": "9519f1f3c82ac9fb334faa8d4fb7448068f99487471a9c7833e1d64a36d359d2",
+      "sourceTextSha256": "ab71ad6d7abcca552ce672ceb196d834cf1395cc8f186a884f14ff736d62ce8a",
+      "freshTranslation": "남극에 있는 아틀란디아에 사는 날개를 가진 종족. ㊥ 다양한 초능력을 가지고 신화수와 켈빔병을 전력으로 생체에너지 '플러㊥나'를 찾아 인류를 공격한다. ㊥ 덧붙여 타천은 인간에서 본 호칭이자, 그들은 천신을 자칭한다. ㊥그들은 인류를 '무 없음'이라고 부르며, 자신들보다 열등한 생물로 내려다보고 있다. ㊥2만 4000년 전 타천선족의 아폴로니아스는 인간의 여성인 세리안과 ㊥ 사랑에 빠져 동포를 배신했다. 그리고 자신의 날개에서 쌓아 올린 기계 천사 아쿠에 ㊥ 리온으로 타천을 깨뜨렸다. ㊥ 1만 2000년 전 새롭게 엘리먼트로 선정된 소년 소녀는 아쿠아리오 ㊥n을 달려 부활한 타천족족과 싸웠다. 그 싸움은 사람과 천전의 힘이 하나㊥가 되어 붕괴하는 지구를 구하는 일로 종결했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00007/Sheet1/000005",
+      "sourceBindingSha256": "49df7b4cdf0ad9978592115535879fc101f5ddc0e9f053a9e9b91c2e349495c4",
+      "sourceTextSha256": "ab71ad6d7abcca552ce672ceb196d834cf1395cc8f186a884f14ff736d62ce8a",
+      "freshTranslation": "남극에 있는 아틀란디아에 사는 날개를 가진 종족. ㊥ 다양한 초능력을 가지고 신화수와 켈빔병을 전력으로 생체에너지 '플러㊥나'를 찾아 인류를 공격한다. ㊥ 덧붙여 타천은 인간에서 본 호칭이자, 그들은 천신을 자칭한다. ㊥그들은 인류를 '무 없음'이라고 부르며, 자신들보다 열등한 생물로 내려다보고 있다. ㊥2만 4000년 전 타천선족의 아폴로니아스는 인간의 여성인 세리안과 ㊥ 사랑에 빠져 동포를 배신했다. 그리고 자신의 날개에서 쌓아 올린 기계 천사 아쿠에 ㊥ 리온으로 타천을 깨뜨렸다. ㊥ 1만 2000년 전 새롭게 엘리먼트로 선정된 소년 소녀는 아쿠아리오 ㊥n을 달려 부활한 타천족족과 싸웠다. 그 싸움은 사람과 천전의 힘이 하나㊥가 되어 붕괴하는 지구를 구하는 일로 종결했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00159",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00159/Sheet1/000002",
+      "sourceBindingSha256": "acf76cb4fd7d8771191128ecc6026a50fd9cd99c6662502f454f5028a0bc6a9d",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00159/Sheet1/000003",
+      "sourceBindingSha256": "0fdfb0e6622ee002aa75596ba563a16338be310d04cf8b8979fa1c80eae52f7a",
+      "sourceTextSha256": "6a5e3568f3fde51d5fd7294f7ea10113473e2338485696a67ea27eea3bee7a6c",
+      "freshTranslation": "비행 요새 구울",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00159/Sheet1/000004",
+      "sourceBindingSha256": "eb86a0ad2e2ca412a3ab3dd0fb9b104370eb45fc0496cb066841fcc739340f16",
+      "sourceTextSha256": "6a5e3568f3fde51d5fd7294f7ea10113473e2338485696a67ea27eea3bee7a6c",
+      "freshTranslation": "비행 요새 구울",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00159/Sheet1/000005",
+      "sourceBindingSha256": "49d45b8f947ac0f5f36e1f775c26df2c2f565c71fdc106e44acbbccee7ef697d",
+      "sourceTextSha256": "0cf1b12d60985605b5dbb0b8767e689015eb49dda1a6f8554dccdcc4bc573c39",
+      "freshTranslation": "브로켄 백작이 탑승하는 비행 요새. ㊥ 폭격수 글로이저를 쉽게 탑재할 수 있을 정도의 거체를 가진다. ㊥ 익룡처럼 보이지만 갑아에서 엄청난 부",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00159/Sheet1/000006",
+      "sourceBindingSha256": "c56c79afac42c083af9934a581736b48de8dd96e7f9747b1509069d9600d3e4d",
+      "sourceTextSha256": "31a668fab4e2d6457f6eadf266579bb2e78de1744b42ef4de207ad9c63b611b2",
+      "freshTranslation": "노로라고 불렸다. ㊥ 최종 결전에도 출격하지만 동료가 당한 일에 화난 갑아에 내부에 돌입되어 콘㊥ 트롤을 잃고 해저 요새 부드 위로 추락했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00159/Sheet1/000007",
+      "sourceBindingSha256": "b8c70fe49e329f5a6e9f5b4c365d5384afcd817920b081d6daec69356b6dc78d",
+      "sourceTextSha256": "0cf1b12d60985605b5dbb0b8767e689015eb49dda1a6f8554dccdcc4bc573c39",
+      "freshTranslation": "브로켄 백작이 탑승하는 비행 요새. ㊥ 폭격수 글로이저를 쉽게 탑재할 수 있을 정도의 거체를 가진다. ㊥ 익룡처럼 보이지만 갑아에서 엄청난 부",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00159/Sheet1/000008",
+      "sourceBindingSha256": "367453a9eec83a70b20f1ff7e7fc280f322075d3569fc9954c5e3cd4aaa7603d",
+      "sourceTextSha256": "31a668fab4e2d6457f6eadf266579bb2e78de1744b42ef4de207ad9c63b611b2",
+      "freshTranslation": "노로라고 불렸다. ㊥ 최종 결전에도 출격하지만 동료가 당한 일에 화난 갑아에 내부에 돌입되어 콘㊥ 트롤을 잃고 해저 요새 부드 위로 추락했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

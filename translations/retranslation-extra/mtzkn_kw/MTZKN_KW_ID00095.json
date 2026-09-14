@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00095",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00095/Sheet1/000002",
+      "sourceBindingSha256": "98dfa0f1f57ceeef1ae70e15713d8a54b354fbcb344d034d4b230046ccc7ec0f",
+      "sourceTextSha256": "8f387891261c62dc5805794758528e4e12506c1c5730d59c2c0a2d95199781c0",
+      "freshTranslation": "베다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00095/Sheet1/000003",
+      "sourceBindingSha256": "021eb09ee95022923612e0b55ca8656a53abd3fcfeaf15ba89cb6dc60a59c014",
+      "sourceTextSha256": "7669c78573db7851e69684ca226465fd07fe9556c10d361219f1dde2c7e809ab",
+      "freshTranslation": "「극장판 기동전사 건담 00-AwakeningofftheTrailblazer-」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00095/Sheet1/000004",
+      "sourceBindingSha256": "fe3254e4286ef8dfdad87a4e897f9220ab9a7d75dfedbc7174372595d546accc",
+      "sourceTextSha256": "ba4a1a7abf0c7049364e92ce1aade3f119255a435270d6927a8e45688f8cc8e5",
+      "freshTranslation": "이오리아 슈헨베르그의 계획의 근간을 이루는 양자 연산 시스템. ㊥ 일반 컴퓨팅",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00095/Sheet1/000005",
+      "sourceBindingSha256": "ed69500928599aa2261670a5638ca78346aebb47a299e3b33d014c9697982ead",
+      "sourceTextSha256": "77bb0a2656f532deaff42d632cc2b3c8effb6670c171594be688e99c85fcea57",
+      "freshTranslation": "비교할 수없는 정도의 정보 처리 능력을 가지며,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00095/Sheet1/000006",
+      "sourceBindingSha256": "e700c30aa09d934451c7a9a3bad49bfeb2112cae5539f167af51ec92c7eb7e79",
+      "sourceTextSha256": "47b4852374da076a5f7a84957e0dfceb5b99cfd89e4243093421afba83208e79",
+      "freshTranslation": "루비잉이 세계를 상대로 싸워가기 위한 큰 전력이었다. ㊥ 그러나 리본즈 알마크의 협력으로 베다는 알레한드로 ㊥ 코너에 장악되었고, 그의 사후 리본즈의 손에 떨어졌다. ㊥ 그 본체는 우주 항행 모함 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00095/Sheet1/000007",
+      "sourceBindingSha256": "dfc83d72117c0f632593a964335d19639021b36fc91e711dfaf6231eb59988d4",
+      "sourceTextSha256": "4e98b28389ce4a423bd4d5468dd0c438d2e59c0f9fd7b31422d1fb0acd7afac9",
+      "freshTranslation": "루비잉 내에 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00095/Sheet1/000008",
+      "sourceBindingSha256": "5add235c03ca6a5237f415cc8da14b562b00fef6726ea589cf20ec58ba172fe5",
+      "sourceTextSha256": "ba4a1a7abf0c7049364e92ce1aade3f119255a435270d6927a8e45688f8cc8e5",
+      "freshTranslation": "이오리아 슈헨베르그의 계획의 근간을 이루는 양자 연산 시스템. ㊥ 일반 컴퓨팅",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00095/Sheet1/000009",
+      "sourceBindingSha256": "82b4dbc922f02fb2af792c43230312a33ede53678ba4113c411153ed77d7b25c",
+      "sourceTextSha256": "77bb0a2656f532deaff42d632cc2b3c8effb6670c171594be688e99c85fcea57",
+      "freshTranslation": "비교할 수없는 정도의 정보 처리 능력을 가지며,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00095/Sheet1/000010",
+      "sourceBindingSha256": "d1c7f66256f7e504079969ccc478876c40d33088f33125e9c17a9a557d2dbc4b",
+      "sourceTextSha256": "47b4852374da076a5f7a84957e0dfceb5b99cfd89e4243093421afba83208e79",
+      "freshTranslation": "루비잉이 세계를 상대로 싸워가기 위한 큰 전력이었다. ㊥ 그러나 리본즈 알마크의 협력으로 베다는 알레한드로 ㊥ 코너에 장악되었고, 그의 사후 리본즈의 손에 떨어졌다. ㊥ 그 본체는 우주 항행 모함 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00095/Sheet1/000011",
+      "sourceBindingSha256": "806a8e142a4dacf33cc3167d121f680432785edccb604c77d573ea3f9818a18f",
+      "sourceTextSha256": "4e98b28389ce4a423bd4d5468dd0c438d2e59c0f9fd7b31422d1fb0acd7afac9",
+      "freshTranslation": "루비잉 내에 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

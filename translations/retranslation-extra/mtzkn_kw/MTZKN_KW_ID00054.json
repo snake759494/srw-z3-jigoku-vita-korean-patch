@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00054",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00054/Sheet1/000002",
+      "sourceBindingSha256": "502dc765eff38c18f192ab1ee4b0767377130b2709070173eccc8048b0e9a238",
+      "sourceTextSha256": "d3752e428e1592f3127b1b294dadd8358ee0f33519b697c552f297a422763369",
+      "freshTranslation": "적복",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00054/Sheet1/000003",
+      "sourceBindingSha256": "a982a11f3eece0848eb9656c2d62e700522328919ffd36eb952b82624eff301b",
+      "sourceTextSha256": "46972028b0d87190e9d5bc75048d5bd3819834caf71211a163e3d40415fa49f0",
+      "freshTranslation": "「기동전사 건담 SEEDDESTINY」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00054/Sheet1/000004",
+      "sourceBindingSha256": "6628437c96f615c1476f8a2c296a5fa796bbf087954315322e7a93e4ddd2c997",
+      "sourceTextSha256": "3534802d0d1d4310dbefda76a5b79b21ff6ffbb0a9a93759071ead5aac659c2d",
+      "freshTranslation": "자프트의 아카데미를 우수한 성적으로 졸업 한 사람에게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00054/Sheet1/000005",
+      "sourceBindingSha256": "2c2ef961b80eab70842d782a494f43d2da8684a9f7f3be38aef1440ca932db3c",
+      "sourceTextSha256": "73bef442035b24adf6d09d95c01b9d4871221ae0fa56e3f5c9a138b09c1e57ae",
+      "freshTranslation": "가능한 호칭. ㊥ 그들이 배속 한 후 빨간색을 기반으로 한 유니폼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00054/Sheet1/000006",
+      "sourceBindingSha256": "ec0e98d8cb149b29b00b85d13d00fdfaeede81bd5c22267c4d75e645f16baaa6",
+      "sourceTextSha256": "ee080e180dc372252fdf136000fbde1fab8f72d2a92a2c273bc6ad5b5e5818bf",
+      "freshTranslation": "가능한 것으로부터, 「자프트 레드」㊥라고도 불린다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00054/Sheet1/000007",
+      "sourceBindingSha256": "c5602cf666aa6b93fccaa36af62e0bcb758118f8364d47b3c3280296f675c8f9",
+      "sourceTextSha256": "3534802d0d1d4310dbefda76a5b79b21ff6ffbb0a9a93759071ead5aac659c2d",
+      "freshTranslation": "자프트의 아카데미를 우수한 성적으로 졸업 한 사람에게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00054/Sheet1/000008",
+      "sourceBindingSha256": "ff83112d7c79e0d1f3c042f59effdec5ca715c22dfe06cb1c6844a8cbdba950b",
+      "sourceTextSha256": "73bef442035b24adf6d09d95c01b9d4871221ae0fa56e3f5c9a138b09c1e57ae",
+      "freshTranslation": "가능한 호칭. ㊥ 그들이 배속 한 후 빨간색을 기반으로 한 유니폼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00054/Sheet1/000009",
+      "sourceBindingSha256": "eb7c0622224b62ddc18303009c44b36a1fcbd47c82d25a34aff4f03ec3e609f2",
+      "sourceTextSha256": "ee080e180dc372252fdf136000fbde1fab8f72d2a92a2c273bc6ad5b5e5818bf",
+      "freshTranslation": "가능한 것으로부터, 「자프트 레드」㊥라고도 불린다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

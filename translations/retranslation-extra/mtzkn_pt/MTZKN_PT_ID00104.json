@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00104",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00104/Sheet1/000002",
+      "sourceBindingSha256": "fa7df55c6a7cf6d47a17df8188f9a63f895df936d2f8cc9b6854701e2a30f4e4",
+      "sourceTextSha256": "b2ae795983ab7ca4f5cdf6bedff135b1a3077f84225cea4ad98618ee7fa2ce09",
+      "freshTranslation": "블루 할로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00104/Sheet1/000003",
+      "sourceBindingSha256": "9f4430c11220c3358de3cb05c3c1e5deb391478a48280ae0f4e54652133b0333",
+      "sourceTextSha256": "b2ae795983ab7ca4f5cdf6bedff135b1a3077f84225cea4ad98618ee7fa2ce09",
+      "freshTranslation": "블루 할로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00104/Sheet1/000004",
+      "sourceBindingSha256": "21284d50a87f48b2cdb41ea70af9c78fcfff756fd96e1643e70a795460b8e67c",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00104/Sheet1/000005",
+      "sourceBindingSha256": "826ea9d34bfbd2272ae98471a11d59af96e303149edb7f37cbb24050305dded8",
+      "sourceTextSha256": "d5dbe5db7a229fc600a5e2425db0470b5b199841298a99204af50e48d33367d0",
+      "freshTranslation": "사토 아리세",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00104/Sheet1/000006",
+      "sourceBindingSha256": "184a9275b49af823361412c77465bf49a7e8a61ae6eaf2e7ad617f919ac7384a",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00104/Sheet1/000007",
+      "sourceBindingSha256": "4a6c6466abed581577007d935b063c60c3feb5732f300cd03cca956127836b0d",
+      "sourceTextSha256": "c224fec07bbdb81d39dd4f7dc1a7bf4bbdde542882074ba1ada154d07741bce0",
+      "freshTranslation": "루비잉이 소유하는 독립 AI를 탑재한 소",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00104/Sheet1/000008",
+      "sourceBindingSha256": "1502bacc4068d6877ecc4cbee45c09861871931adf2b39657d28574e0a25bd9f",
+      "sourceTextSha256": "b0ffe0bc1d67e077787d34a0bc9802ebf88d0113ac002747b28dde944fa7013c",
+      "freshTranslation": "로봇. ㊥건담 사바냐의 복잡화된 화기관제를 제어하기 위해 할로와 함께 기체에 탑㊥승승하게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00104/Sheet1/000009",
+      "sourceBindingSha256": "1793c40a92cdae9b31692ba009d873fb3abac23802f4996ff3a814df991b4672",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00104/Sheet1/000010",
+      "sourceBindingSha256": "c98a6293693676dcc0fcdf647dfc1e9f771a3bfb2b5f79efb6de680aef8e725d",
+      "sourceTextSha256": "c224fec07bbdb81d39dd4f7dc1a7bf4bbdde542882074ba1ada154d07741bce0",
+      "freshTranslation": "루비잉이 소유하는 독립 AI를 탑재한 소",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00104/Sheet1/000011",
+      "sourceBindingSha256": "959981c0b306495a4f181d4ac6bfbfaec2abb3826cbaa4dde631c4ddde2f3d67",
+      "sourceTextSha256": "b0ffe0bc1d67e077787d34a0bc9802ebf88d0113ac002747b28dde944fa7013c",
+      "freshTranslation": "로봇. ㊥건담 사바냐의 복잡화된 화기관제를 제어하기 위해 할로와 함께 기체에 탑㊥승승하게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

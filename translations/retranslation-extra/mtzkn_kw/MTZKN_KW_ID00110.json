@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00110",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00110/Sheet1/000002",
+      "sourceBindingSha256": "69b47cc00b73c374a92a97369e57bc597b2a327e08f28e02db1c14dd77b30915",
+      "sourceTextSha256": "3c41f5245c80fa07427c7b2a37124f96cb455bfd19d39daa7585f7c818bc258a",
+      "freshTranslation": "바알",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00110/Sheet1/000003",
+      "sourceBindingSha256": "21647c8abd24ed0e4875fa4cf4a6a9c327e35fa84a1c96c3212962c1264d083a",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00110/Sheet1/000004",
+      "sourceBindingSha256": "a2c46a80038d5486a60ee900c3c12960d451307afb7e83e98740b15b25f80b47",
+      "sourceTextSha256": "a1dcfe7baba96717cae51fbb57f8b42ce2789a4cd740ab5e507d87332206d2b2",
+      "freshTranslation": "지적 생명체의 천적이라고 불리는 생물·물체의 총칭. ㊥ 하루카 과거부터 전은하를 무대로 바알과 싸움이 펼쳐져 왔다고 하지만, ㊥ 그 실태는 수수께끼에 싸여 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00110/Sheet1/000005",
+      "sourceBindingSha256": "f23a1b9f07585c908fadecf70457b21c45a4c3c0b9793edd8774f5983952b38a",
+      "sourceTextSha256": "e106c01235abc0a0e3907341b8948c8aca5d2113a0645a54630cffe32b2b17f6",
+      "freshTranslation": "지적 생명체의 천적이라고 불리는 생물·물체의 총칭. ㊥ 훨씬 과거부터 전은하를 무대로 바알과의 싸움이 펼쳐져 왔다고 여겨져 ㊥ 있어, 1만 2000년 주기로 일어나는 우주의 환생에 호응해, 대량 발생㊥이라고 하고 있다. 또, 바알과 싸우고 있던 것은 「신」이라고 불리는 존재이며, ㊥, 인류는 무력했다고 말하는 사람도 있다. ㊥ 이상의 정보도 뒷받침이 있는 것은 아니며, 그 실태나 총수 등은 아직도 수수께끼에 ㊥ 싸여 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

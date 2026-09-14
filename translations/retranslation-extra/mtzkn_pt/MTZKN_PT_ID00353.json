@@ -1,0 +1,225 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00353",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000002",
+      "sourceBindingSha256": "67bc187ebca6bedf25be171cc1dc21430723f5c66d14542fd8213647f0e13abf",
+      "sourceTextSha256": "85a62737cbf7657be6be6414739d2e9f55ec4103933d4dbf7c54bd61e2c676b5",
+      "freshTranslation": "루루시 람페루지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000003",
+      "sourceBindingSha256": "68a4e467d1a4e257b8a281a356d34f0fc936bda07e97329fcfa0255d176236ae",
+      "sourceTextSha256": "ccf52e98d05e9c38c52da58a9b89e741a2a352619531fbaf60e83903075f879b",
+      "freshTranslation": "루루슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000004",
+      "sourceBindingSha256": "3abfbfb067a056c51f9c57dc88c39b2e2a67204d3c268ab3acdf9dea0c3a39bb",
+      "sourceTextSha256": "b40f8de117e644be3d8ab8c76b9b5779575051515b39a54c7b5cfa1a85297d19",
+      "freshTranslation": "코드기어스 반역의 루루슈 R2",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000005",
+      "sourceBindingSha256": "fe2eb238424776f9faf60975e292e7cdbbaaff18e7a4148d4764d33675faf605",
+      "sourceTextSha256": "dc8f7c469c6567d9369bec3e81c7566bb7a72bc62817d301c04a56603502af0f",
+      "freshTranslation": "사립 애쉬포드 학원 고등부에 다니는 학생. 18세. ㊥ 학생회의 부회장을 맡으면서도 베스 체스에 흥미를 느낀다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000006",
+      "sourceBindingSha256": "e33881a6025b5e3984a1da3feb4d304f98a69121f23f34096e4967d198e41bc9",
+      "sourceTextSha256": "c4008410b751f5434657beb58a8d87c22cc462e1ecd11934d2ccd9d4d0f23d3c",
+      "freshTranslation": "흥미로운 언동이 보고㊥된다. 그 정체는 신성한 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000007",
+      "sourceBindingSha256": "e5617eb76705d98088e1f93b13add8b738b3504e34010255fd9417471738b4c7",
+      "sourceTextSha256": "0f4dfe69a1d7bf58e70bfa34503789d4db2146f7fa3798b833bd92950b6f8ba8",
+      "freshTranslation": "니어 제국의 제 11 황자로서 제 17 황위 계승자의 루루 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000008",
+      "sourceBindingSha256": "46ea4a1a689744ec0f1c27ddb06eb11a1eae46ec67403543eebeefe877eaf545",
+      "sourceTextSha256": "aec57fd814264ffac806f30d9c0ebe2f95f7903a3160caf581d79417da76f9d1",
+      "freshTranslation": "니어였다. ㊥ 신주쿠 사변중에 만난 수수께끼의 소녀 C. C. 에서 소원을 이루는 것과 교환 ㊥에 \"절대 준수의 힘\"의 기어스를 얻은 루루슈는 세계에 대해 반기를 휘두른다. 그것은 ㊥ 사랑하는 여동생 나나리가 웃고 보낼 수 있는 세계를 만들기 위한 반역이었다. ㊥ 명확한 두뇌와 뛰어난 전략 눈을 겸비한 루루쉬는 거기에 기어스의 힘을 더해 ㊥ 영역 11의 레지스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000009",
+      "sourceBindingSha256": "f151a4917976d448527b9833f4f9f5255c8ffb07c2a05aff89e8cf4601c8f9c2",
+      "sourceTextSha256": "17e5dc7236ae0de3a9263f70153a1f99ff20eebb1ed8db346f0a0c309116fbb7",
+      "freshTranslation": "그룹을 캡처하고 검은 기사단을 결성. 전력을 강화하고 ㊥ 곧 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000010",
+      "sourceBindingSha256": "0bd98ccdc816beb1ef0ec510be1955fd1d2e4f2779f12db4317e66b117f87b42",
+      "sourceTextSha256": "d5acbb44d44dde937741d32c0fa277a4c6f1c029a07e601fb7c09772d0ae2293",
+      "freshTranslation": "니어와도 호각으로 싸울 수 있게 되어 갔다. ㊥ 그러나 일본 해방을 위한 결전, 블랙 리베리온에서 싸우는 이유라고도 할 수 있는 ㊥ 나나리를 드러내 전장을 포기해 버린다. 나나리의 행방을 찾아 카네네지마로 가서 ㊥ 도착한 루루슈는, 거기서 옛날 친구 스자쿠와 대치. 그 결과, 정체를 폭로한 뒤, ㊥ 그 존재를 부정되어, 황제의 앞으로 인출되었다. ㊥ 거기서 루루슈는 아버지 샤를도 자신과 같이 기어스의 사용자임을 알고, ㊥ 타자의 기억을 재기록하는 기어스에 의해, 제로가 되는 이전의 상태, 나아가 일귀족의 ㊥ 아들로서의 기억에 재기록되어 버린다. ㊥ 이렇게 루루슈는 제로였던 것도, 나나리라는 여동생이 있던 것도 잊고, 거짓 ㊥의 동생 로로와 함께 평온한 학원 생활을 보내는 것이었다. ㊥ 그러나 1 년 동안 계속 된 평온한 시간은 카렌과 C.I. C. 의 출현에 의해 갑자기 끝㊥을 말하는 것이 된다. ㊥C. C. 에 의해 봉인된 기억을 되찾고 다시 0이 된 루루슈는 ㊥ 다양한 책모에 의해,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000011",
+      "sourceBindingSha256": "fbdfe25c74aca82386722b07052408c11ab2f13290de2f9f0b2e9298f15d8467",
+      "sourceTextSha256": "0e7ba9ca648ed6b1f5cee5c96a64113730a4628f55446daed4794d6478ff00b5",
+      "freshTranslation": "니어에 비견하는 연합국·초합집국을 건국했다. ㊥ 그러나 전투에서 셜리, C.I. C. (기억을 잃고, 한때의 CC에서는 ㊥ 없어졌다)를, 그리고 나나리를 잃은 루루슈는, 슈나이젤의 책략에 의해 ㊥로 검은 기사단이라고 하는 장소조차도 잃고, 그 도망의 도중에 로로도 잃는다. ㊥모두를 잃은 루루슈는 다시 돌아오지 않는 각오로 C의 세계로 뛰어들어, 아버지, 그리고 ㊥하고 죽었을 어머니와 대치. 부모님으로부터 모든 인간의 의식을 하나로 하는 계획의 모든 것을 듣거나㊥되는 것도 이것을 부정. 기억을 되찾은 C.I. C. 함께 아버지와 어머니를 소멸시킨다. ㊥ 그 후 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000012",
+      "sourceBindingSha256": "6bf31d8e14a93a216b19ca95cc88a252407fc8e585ffb48b8d86230e0522e2e4",
+      "sourceTextSha256": "8a3ab605e0df88d03730cfb6f1d572ccb0e8f9eb370b77d723382935f6bb3da3",
+      "freshTranslation": "니어 황제에 즉위하고 세계의 적으로서 검은 기사단이나 사랑하는 여동생인 ㊥ 나나리 앞에 서기 시작했다. ㊥슈나이젤 블랙의 기사단과의 최종 결전에 승리한 루루슈는 마침내 세계를 장악㊥ 붙잡았다. 그러나 그 전에 나타난 수작 분장하는 제로에 토벌된다. ㊥모두는 내일을 바란 루루슈와 수자크와, 그 협력자들의 구조한 일이며, 이 ㊥의 제로 레퀴엠은 루루슈의 죽음으로 완결해, 세계는 새로운 시대를 맞이하는 ㊥이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000013",
+      "sourceBindingSha256": "4fb156fb543e58e8d04ae8417676bab66be3d91d7dcb6c2d2c28ab5c86e8eb3d",
+      "sourceTextSha256": "dc8f7c469c6567d9369bec3e81c7566bb7a72bc62817d301c04a56603502af0f",
+      "freshTranslation": "사립 애쉬포드 학원 고등부에 다니는 학생. 18세. ㊥ 학생회의 부회장을 맡으면서도 베스 체스에 흥미를 느낀다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000014",
+      "sourceBindingSha256": "d2950b4feae3cca284c27cd1de670e33bc9bbbb7bbae1eccf1755dac2ef56007",
+      "sourceTextSha256": "c4008410b751f5434657beb58a8d87c22cc462e1ecd11934d2ccd9d4d0f23d3c",
+      "freshTranslation": "흥미로운 언동이 보고㊥된다. 그 정체는 신성한 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000015",
+      "sourceBindingSha256": "e2df3771a6480204a6d1e7d92130cca6bdea2193daa275f8705d7c7d70d95999",
+      "sourceTextSha256": "0f4dfe69a1d7bf58e70bfa34503789d4db2146f7fa3798b833bd92950b6f8ba8",
+      "freshTranslation": "니어 제국의 제 11 황자로서 제 17 황위 계승자의 루루 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000016",
+      "sourceBindingSha256": "45242226bbbd1efe2df8b46693486e475e0657cd2caa5a42179cee203d0b1c25",
+      "sourceTextSha256": "aec57fd814264ffac806f30d9c0ebe2f95f7903a3160caf581d79417da76f9d1",
+      "freshTranslation": "니어였다. ㊥ 신주쿠 사변중에 만난 수수께끼의 소녀 C. C. 에서 소원을 이루는 것과 교환 ㊥에 \"절대 준수의 힘\"의 기어스를 얻은 루루슈는 세계에 대해 반기를 휘두른다. 그것은 ㊥ 사랑하는 여동생 나나리가 웃고 보낼 수 있는 세계를 만들기 위한 반역이었다. ㊥ 명확한 두뇌와 뛰어난 전략 눈을 겸비한 루루쉬는 거기에 기어스의 힘을 더해 ㊥ 영역 11의 레지스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000017",
+      "sourceBindingSha256": "3ccce544653612237d7b1953ab0a3d61c512754c0ae7b4e8c80135c2ca071b43",
+      "sourceTextSha256": "17e5dc7236ae0de3a9263f70153a1f99ff20eebb1ed8db346f0a0c309116fbb7",
+      "freshTranslation": "그룹을 캡처하고 검은 기사단을 결성. 전력을 강화하고 ㊥ 곧 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000018",
+      "sourceBindingSha256": "137a52e7612a02d273997b75343539b71c0e47ba05bc96fd29a07e9fa8da392e",
+      "sourceTextSha256": "d5acbb44d44dde937741d32c0fa277a4c6f1c029a07e601fb7c09772d0ae2293",
+      "freshTranslation": "니어와도 호각으로 싸울 수 있게 되어 갔다. ㊥ 그러나 일본 해방을 위한 결전, 블랙 리베리온에서 싸우는 이유라고도 할 수 있는 ㊥ 나나리를 드러내 전장을 포기해 버린다. 나나리의 행방을 찾아 카네네지마로 가서 ㊥ 도착한 루루슈는, 거기서 옛날 친구 스자쿠와 대치. 그 결과, 정체를 폭로한 뒤, ㊥ 그 존재를 부정되어, 황제의 앞으로 인출되었다. ㊥ 거기서 루루슈는 아버지 샤를도 자신과 같이 기어스의 사용자임을 알고, ㊥ 타자의 기억을 재기록하는 기어스에 의해, 제로가 되는 이전의 상태, 나아가 일귀족의 ㊥ 아들로서의 기억에 재기록되어 버린다. ㊥ 이렇게 루루슈는 제로였던 것도, 나나리라는 여동생이 있던 것도 잊고, 거짓 ㊥의 동생 로로와 함께 평온한 학원 생활을 보내는 것이었다. ㊥ 그러나 1 년 동안 계속 된 평온한 시간은 카렌과 C.I. C. 의 출현에 의해 갑자기 끝㊥을 말하는 것이 된다. ㊥C. C. 에 의해 봉인된 기억을 되찾고 다시 0이 된 루루슈는 ㊥ 다양한 책모에 의해,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000019",
+      "sourceBindingSha256": "f3671be19e1072f7df0020bbd858701279d476a1230f73cdd3a3b68cde4f554b",
+      "sourceTextSha256": "0e7ba9ca648ed6b1f5cee5c96a64113730a4628f55446daed4794d6478ff00b5",
+      "freshTranslation": "니어에 비견하는 연합국·초합집국을 건국했다. ㊥ 그러나 전투에서 셜리, C.I. C. (기억을 잃고, 한때의 CC에서는 ㊥ 없어졌다)를, 그리고 나나리를 잃은 루루슈는, 슈나이젤의 책략에 의해 ㊥로 검은 기사단이라고 하는 장소조차도 잃고, 그 도망의 도중에 로로도 잃는다. ㊥모두를 잃은 루루슈는 다시 돌아오지 않는 각오로 C의 세계로 뛰어들어, 아버지, 그리고 ㊥하고 죽었을 어머니와 대치. 부모님으로부터 모든 인간의 의식을 하나로 하는 계획의 모든 것을 듣거나㊥되는 것도 이것을 부정. 기억을 되찾은 C.I. C. 함께 아버지와 어머니를 소멸시킨다. ㊥ 그 후 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00353/Sheet1/000020",
+      "sourceBindingSha256": "bd29f1de9e5f6209beee2ef6b40813e8a9ea62ae199a97cff757897833b1fecd",
+      "sourceTextSha256": "8a3ab605e0df88d03730cfb6f1d572ccb0e8f9eb370b77d723382935f6bb3da3",
+      "freshTranslation": "니어 황제에 즉위하고 세계의 적으로서 검은 기사단이나 사랑하는 여동생인 ㊥ 나나리 앞에 서기 시작했다. ㊥슈나이젤 블랙의 기사단과의 최종 결전에 승리한 루루슈는 마침내 세계를 장악㊥ 붙잡았다. 그러나 그 전에 나타난 수작 분장하는 제로에 토벌된다. ㊥모두는 내일을 바란 루루슈와 수자크와, 그 협력자들의 구조한 일이며, 이 ㊥의 제로 레퀴엠은 루루슈의 죽음으로 완결해, 세계는 새로운 시대를 맞이하는 ㊥이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

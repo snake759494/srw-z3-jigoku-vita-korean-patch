@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00303",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00303/Sheet1/000002",
+      "sourceBindingSha256": "0049466884259f934e5d51e6d4a656d35695ed3aea767405b3efa54840809409",
+      "sourceTextSha256": "1e56b9ff86dcef266f12989d9d9c1a049376962d8d547fa14759ae90a788c964",
+      "freshTranslation": "수장기공 단쿠가노바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00303/Sheet1/000003",
+      "sourceBindingSha256": "6c48fda010ddb6c2ca95ebf8874e3dd385a5243386b6da5ef495fb57555722e1",
+      "sourceTextSha256": "48331a17bb516e9e21dd00af5e92865c9c60541833ecf2c4a9c8fc6d34caff12",
+      "freshTranslation": "드래곤즈 하이브의 메인 컴퓨팅",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00303/Sheet1/000004",
+      "sourceBindingSha256": "3d55a0e172f1b0157dd4fb03c51a0d47426ece57cb1dc157bc548e37385cbcd1",
+      "sourceTextSha256": "9138c9f483081f7f1c4a6fcf5a515b50a4bed61f5e3b49abda20d727d5e50b21",
+      "freshTranslation": "ー. 이름의 의미는 \"의사\".㊥처음에는 사령실의 설명 역할이 주요 역할이었지만 점차 숨겨진 큰 비밀이㊥부드럽게 되어 갔다.㊥그 정체는 자아를 가진 기계, 무기 지성체이며, 지구상의 모든 생명과 다른 존재㊥이었다.㊥먼 과거, 다른 문명간에 의한 별계 전체를 휘말릴 정도의 싸움이 있었다. 같은 비극㊥반복하지 않기 때문에 발달한 지성을 무기에 싸움을 일으킬 수 있는 위협을 미리 제외㊥라는 목적으로 살아남은 작은 문명에 의해 만들어져 있다.㊥지구 인류를 위험한 존재로 파악했지만, 다양성과 개별 힘에 새로운 행보의 가능성을㊥느끼고 있었다. 현재 상황을보고 인류를 멸망시키려는 달 WILL이 새로 날아갑니다.㊥일을 받고 대항할 수 있는 수단으로서 F. S. 함께 단쿠가노바를 쌓아 올렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00303/Sheet1/000005",
+      "sourceBindingSha256": "144f7ec08b9fd835d51f51bca39944fab52122b9113cf5f789608ddda7e38b87",
+      "sourceTextSha256": "48331a17bb516e9e21dd00af5e92865c9c60541833ecf2c4a9c8fc6d34caff12",
+      "freshTranslation": "드래곤즈 하이브의 메인 컴퓨팅",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00303/Sheet1/000006",
+      "sourceBindingSha256": "933d574e45fc26a3b6fac14dacd7851122236df62da1e657d5c24eb9a75caeac",
+      "sourceTextSha256": "9138c9f483081f7f1c4a6fcf5a515b50a4bed61f5e3b49abda20d727d5e50b21",
+      "freshTranslation": "ー. 이름의 의미는 \"의사\".㊥처음에는 사령실의 설명 역할이 주요 역할이었지만 점차 숨겨진 큰 비밀이㊥부드럽게 되어 갔다.㊥그 정체는 자아를 가진 기계, 무기 지성체이며, 지구상의 모든 생명과 다른 존재㊥이었다.㊥먼 과거, 다른 문명간에 의한 별계 전체를 휘말릴 정도의 싸움이 있었다. 같은 비극㊥반복하지 않기 때문에 발달한 지성을 무기에 싸움을 일으킬 수 있는 위협을 미리 제외㊥라는 목적으로 살아남은 작은 문명에 의해 만들어져 있다.㊥지구 인류를 위험한 존재로 파악했지만, 다양성과 개별 힘에 새로운 행보의 가능성을㊥느끼고 있었다. 현재 상황을보고 인류를 멸망시키려는 달 WILL이 새로 날아갑니다.㊥일을 받고 대항할 수 있는 수단으로서 F. S. 함께 단쿠가노바를 쌓아 올렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

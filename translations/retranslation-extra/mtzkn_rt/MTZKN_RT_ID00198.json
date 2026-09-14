@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00198",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00198/Sheet1/000002",
+      "sourceBindingSha256": "ed3adae1eccfcdb3b2e526320335828fdd8516163137435731907d837ee0f438",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00198/Sheet1/000003",
+      "sourceBindingSha256": "ce30da7025e1f24d7602589353c82a0245c24e81d89e9c17ab1967849edc11dc",
+      "sourceTextSha256": "f7ccdbb554b318629cc16bcfce63f26bb61ad98dd830d670fb60489266c6fb92",
+      "freshTranslation": "초은하 글렌 라간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00198/Sheet1/000004",
+      "sourceBindingSha256": "2687c94b7f2f72402aa5dc944b4f74e285f450a4e463a268a75bdf913146af89",
+      "sourceTextSha256": "f7ccdbb554b318629cc16bcfce63f26bb61ad98dd830d670fb60489266c6fb92",
+      "freshTranslation": "초은하 글렌 라간",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00198/Sheet1/000005",
+      "sourceBindingSha256": "bc9d3c5d0f6ca20494cc54c8880dcf51dd39425abe6b274afee317f7e6aadfa0",
+      "sourceTextSha256": "6d13935fae69e32c736ac42982c1026a87538a9f866f4a13b9321fd0af88842d",
+      "freshTranslation": "시몬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00198/Sheet1/000006",
+      "sourceBindingSha256": "5f11a1f0477e52db60472e277230e5e279a36b08c37d4956b04f6e0d3ecd1e06",
+      "sourceTextSha256": "65e8b467c886cb7d7f3aed1a4ee59787d06b659a963b0be08c19f7980f1f2c75",
+      "freshTranslation": "초은하 다이글렌이 변형된 초절 나선·초조급 건멘. ㊥ 풀 드라이라이즈한 아크 글렌 라간이 코어 블록으로 되어 있다. ㊥ 시몬의 나선력이 글렌 라간을 기동시켜, 글렌 라간의 드릴이 아크 글렌 ㊥ 라간을 만들어 내고, 아크 글렌 라간의 초절 나선 기관에 의한 에너지가 초은하 구 ㊥ 렌라간을 움직인다는 우정 ㊥ 양 어깨의 거대한 드릴은 사출되어 초거대한 하나의 기가 드릴이 되어, 필살의 초은하㊥ 기가 드릴 브레이크가 발사된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00198/Sheet1/000007",
+      "sourceBindingSha256": "5731cab55bf78f87d1b7b02f7499588ecb2f2a38c0957a0b564c7d7e436ac56d",
+      "sourceTextSha256": "65e8b467c886cb7d7f3aed1a4ee59787d06b659a963b0be08c19f7980f1f2c75",
+      "freshTranslation": "초은하 다이글렌이 변형된 초절 나선·초조급 건멘. ㊥ 풀 드라이라이즈한 아크 글렌 라간이 코어 블록으로 되어 있다. ㊥ 시몬의 나선력이 글렌 라간을 기동시켜, 글렌 라간의 드릴이 아크 글렌 ㊥ 라간을 만들어 내고, 아크 글렌 라간의 초절 나선 기관에 의한 에너지가 초은하 구 ㊥ 렌라간을 움직인다는 우정 ㊥ 양 어깨의 거대한 드릴은 사출되어 초거대한 하나의 기가 드릴이 되어, 필살의 초은하㊥ 기가 드릴 브레이크가 발사된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

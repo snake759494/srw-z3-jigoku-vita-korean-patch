@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00087",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00087/Sheet1/000002",
+      "sourceBindingSha256": "a820d00c6dff4e4618258e69313e1c3e883b6c811cbcd7b294b668a01dbfdde8",
+      "sourceTextSha256": "948e82392d9ff5fa55cd95aec1b383b2241f1dead6d292d34500246803ec5b2a",
+      "freshTranslation": "달콤한 전쟁",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00087/Sheet1/000003",
+      "sourceBindingSha256": "1fb545a9b8906f160cfd0bd0265c3cb5cff4f0b06a5cfbb8ed58f09c5e8e1415",
+      "sourceTextSha256": "127600866dbadc2b960fbfa9c2a38b8138762a5367b94adb569ca59d1feba0d2",
+      "freshTranslation": "「기동전사 건담 역습의 샤아」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00087/Sheet1/000004",
+      "sourceBindingSha256": "799a99ee5920461f9cf65852dd01846dc9f875be58a895724e9e701226640e20",
+      "sourceTextSha256": "5e236f51bc923f762bac498ebaff525d344ad4f66de3fde98a259a1239478ca1",
+      "freshTranslation": "제2차 네오지온 항쟁으로 네오지온이 거점으로 한 스페이스 콜로니. ㊥원래는 난민 수용용 콜로니로 개방",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00087/Sheet1/000005",
+      "sourceBindingSha256": "d9a1b2eb4d931a707b883189256f891fb8636bc3c3e2e94aa95cefa7cf85d869",
+      "sourceTextSha256": "6e9826d8554fadf21388bc7d9d8a9d072223a9011ded12dec5b79438f290e06c",
+      "freshTranslation": "밀폐",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00087/Sheet1/000006",
+      "sourceBindingSha256": "8496ca6695bf86e6e4bec4f8f6fd79e1d2e31df4742cac20a50d8060e659fc07",
+      "sourceTextSha256": "3c8d29ddb04fc628cdbfedbcd605fe987864126930d49bd825670f1b1db985e4",
+      "freshTranslation": "가 결합된 독특한 모양 ㊥을했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00087/Sheet1/000007",
+      "sourceBindingSha256": "46924bc73d41499dd8e43a27af2cfb3964d7928e8da22f01135a917f93913430",
+      "sourceTextSha256": "5e236f51bc923f762bac498ebaff525d344ad4f66de3fde98a259a1239478ca1",
+      "freshTranslation": "제2차 네오지온 항쟁으로 네오지온이 거점으로 한 스페이스 콜로니. ㊥원래는 난민 수용용 콜로니로 개방",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00087/Sheet1/000008",
+      "sourceBindingSha256": "f984cb4c5a4c7f72830bfcec014e2c572d5164a899bf6112e46a0e6d05bbdcdb",
+      "sourceTextSha256": "6e9826d8554fadf21388bc7d9d8a9d072223a9011ded12dec5b79438f290e06c",
+      "freshTranslation": "밀폐",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00087/Sheet1/000009",
+      "sourceBindingSha256": "35b81e45d817742eeda70bc5bdbef833e6f6c99b4af2bdc9f1348b0a5cf5b2bf",
+      "sourceTextSha256": "3c8d29ddb04fc628cdbfedbcd605fe987864126930d49bd825670f1b1db985e4",
+      "freshTranslation": "가 결합된 독특한 모양 ㊥을했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

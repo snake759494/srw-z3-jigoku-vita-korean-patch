@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00106",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00106/Sheet1/000002",
+      "sourceBindingSha256": "5faac56077a4ede3b81c26e119f95911286aeda03a3f6828717f8d8148da01cb",
+      "sourceTextSha256": "6d44622aa9064e71c34e42e7ff6f24f624bb0c6ebacd9fea4e30a2357bb5d0b6",
+      "freshTranslation": "마크로스 7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00106/Sheet1/000003",
+      "sourceBindingSha256": "dd9dfc7fbf44906fcbd94c40596629749f1edcf8c890e09f0696d1ffac4afbe9",
+      "sourceTextSha256": "d7662891898ce4c0011e17902d1b1d8a6569dd457bd84c1317789d5b50c041c3",
+      "freshTranslation": "VF-19개F 발키리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00106/Sheet1/000004",
+      "sourceBindingSha256": "ca16d0a48b27909fff4f0682a3b321b4cebe06be3c4121e7e48a778aaf34db05",
+      "sourceTextSha256": "0f758b9eaf5fcc14fb091dbda6cd7ccb6a59d3a4b2a6a482209ce737bb6fa827",
+      "freshTranslation": "VF-19 개파이어 발키리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00106/Sheet1/000005",
+      "sourceBindingSha256": "ce45f96129990878bdc95e41136b085ff67f37af0151ca08e85d25a044cb0d05",
+      "sourceTextSha256": "e104875ad829f5241fc877aa5290f8f5e4d0e89f51d46871eaae7db6f8704cc3",
+      "freshTranslation": "열기 바사라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00106/Sheet1/000006",
+      "sourceBindingSha256": "d8ccbeeb50ba8430947d81b56a8aac3920bebe1d8d782fb90516e719f8d98f18",
+      "sourceTextSha256": "29969c6d6b5d771f071ac8333c910041e155aa9acf39b5e6c4b8c032514fa46a",
+      "freshTranslation": "노래 에너지 연구를 목적으로 한 군의 계획 「프로젝트 M」에 의해 개발된 ㊥VF-19C를 바사라가 좋아하는 디자인으로 개조한 기체의 파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00106/Sheet1/000007",
+      "sourceBindingSha256": "100bd4ee7362e37185a5b180ef82578774473926c6a9161223bdc0449417beeb",
+      "sourceTextSha256": "2f2a409eb4a33ea598549472028e3e63ea3c185a13bf38ee51102a71a8c773ce",
+      "freshTranslation": "- 형태. 통칭 후㊥아이아바루키리. ㊥ 사운드 스틱 시스템이라는 특수 조종 시스템을 탑재하고 있으며, 조종은 기㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00106/Sheet1/000008",
+      "sourceBindingSha256": "c21387b07c12ecf3080c3584c46a96910a84c4627f71a4b341ee20f5b7852f8c",
+      "sourceTextSha256": "23ad1f42aa4041ba5dcd88a0f6817d037093d9a0cbadd502abe73944813e6f99",
+      "freshTranslation": "-를 본뜬 컨트롤 스틱으로 이루어진다. ㊥ 기체 성능은 프로토 타입",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00106/Sheet1/000009",
+      "sourceBindingSha256": "0bdbdfee3f9e2c14c0e2ae35ac97e23f097a37494b0803515dbed2b8415a77d6",
+      "sourceTextSha256": "692a1f78721c71100611140224926dc31e9ec718b31bb3720f355c69452a977e",
+      "freshTranslation": "의 YF-19에 가까운 성능이 되어 있어, 군의 제식 채용기에도 ㊥을 취하지 않는다. 이에 바사라의 천재적인 테크닉이 합쳐지는 것으로 종횡무진으로 전장을 ㊥ 날아다녔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00106/Sheet1/000010",
+      "sourceBindingSha256": "fe689025b695461f9f54b9fa0e9979ec191d58fd5e5b10eb8e81a1ef744d52d7",
+      "sourceTextSha256": "29969c6d6b5d771f071ac8333c910041e155aa9acf39b5e6c4b8c032514fa46a",
+      "freshTranslation": "노래 에너지 연구를 목적으로 한 군의 계획 「프로젝트 M」에 의해 개발된 ㊥VF-19C를 바사라가 좋아하는 디자인으로 개조한 기체의 파이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00106/Sheet1/000011",
+      "sourceBindingSha256": "b8064879fac5a663cbaa5e0ffaaef1fa04776b923e0a76f366e0828777cf5deb",
+      "sourceTextSha256": "2f2a409eb4a33ea598549472028e3e63ea3c185a13bf38ee51102a71a8c773ce",
+      "freshTranslation": "- 형태. 통칭 후㊥아이아바루키리. ㊥ 사운드 스틱 시스템이라는 특수 조종 시스템을 탑재하고 있으며, 조종은 기㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00106/Sheet1/000012",
+      "sourceBindingSha256": "eb74a0ad04b42fdcc7134e473b2bc206b48206a99ede9552b02769638d61a14c",
+      "sourceTextSha256": "23ad1f42aa4041ba5dcd88a0f6817d037093d9a0cbadd502abe73944813e6f99",
+      "freshTranslation": "-를 본뜬 컨트롤 스틱으로 이루어진다. ㊥ 기체 성능은 프로토 타입",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00106/Sheet1/000013",
+      "sourceBindingSha256": "4acc5b2d266ba7bd06bf40fd949f779e4d9f163ea0e72867017630b1a4530ed1",
+      "sourceTextSha256": "692a1f78721c71100611140224926dc31e9ec718b31bb3720f355c69452a977e",
+      "freshTranslation": "의 YF-19에 가까운 성능이 되어 있어, 군의 제식 채용기에도 ㊥을 취하지 않는다. 이에 바사라의 천재적인 테크닉이 합쳐지는 것으로 종횡무진으로 전장을 ㊥ 날아다녔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00100",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00100/Sheet1/000002",
+      "sourceBindingSha256": "701a55dd08f9e624502134702aefa50dd0a249296439acbbc84ff8904458e315",
+      "sourceTextSha256": "62368f59f42cfec8c6ecdc5765e1bd1ffb3ddda2f3698d11258acefbdfababe2",
+      "freshTranslation": "디아카 엘스만",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00100/Sheet1/000003",
+      "sourceBindingSha256": "7a8580f852f11130dbcece8e937960585e4bdc537101ff94999102a2874c6937",
+      "sourceTextSha256": "d142d771217af8a8662186d97906925fa82df2467a1a3a5cd5a598d1b4575db2",
+      "freshTranslation": "디아카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00100/Sheet1/000004",
+      "sourceBindingSha256": "63e716f4a15cf2f2f51109c54cf7bc616d690fa125114284693d676310a1ad48",
+      "sourceTextSha256": "15a2e664e80fef55f49873f69b656b86b230b630d2bdafde619513e324977069",
+      "freshTranslation": "기동전사 건담 SEEDDESTINY",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00100/Sheet1/000005",
+      "sourceBindingSha256": "282de13d55f259e1dbbf17384a65e4f68e832538c06edc6569afe05b47339c1d",
+      "sourceTextSha256": "11c732f247551521181f7e70b509fe150d1e3b01a3b300b62476b3d0441e9521",
+      "freshTranslation": "자프트에 소속되어 가장 친한 친구 이자크가 이끄는 줄 대에서 보좌를 맡는 부관역. 19세. ㊥ 전 대전 때도 자프트에 소속되어 있었지만, 포로가 된 것을 계기로 아크엔젤㊥에 승함해, 그들과 공투하고 있다. 제3세력으로서 전쟁 종결에 공헌한 후, 플랜트㊥에 귀환했다. ㊥ 그 건을 묻거나 엘리트의 증거인 적복에서 일반 병용의 군복을 입고 있다. ㊥ 하지만 조종사로서의 팔은 변함없이 정신면을 포함하여 더 믿음직한 남자로 성장해 ㊥ 있다. ㊥열을 올리고 있던 밀리아리아와의 관계는, 당의 그녀의 입으로부터는 「흩어졌다」라는 ㊥ 말이 확인되고 있는 것으로부터 성취하는 일은 없었던 것 같다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00100/Sheet1/000006",
+      "sourceBindingSha256": "7c3013312ec44811ce173f6d0655d1c7dd640d24161986d58cbf7b3197dd3f95",
+      "sourceTextSha256": "11c732f247551521181f7e70b509fe150d1e3b01a3b300b62476b3d0441e9521",
+      "freshTranslation": "자프트에 소속되어 가장 친한 친구 이자크가 이끄는 줄 대에서 보좌를 맡는 부관역. 19세. ㊥ 전 대전 때도 자프트에 소속되어 있었지만, 포로가 된 것을 계기로 아크엔젤㊥에 승함해, 그들과 공투하고 있다. 제3세력으로서 전쟁 종결에 공헌한 후, 플랜트㊥에 귀환했다. ㊥ 그 건을 묻거나 엘리트의 증거인 적복에서 일반 병용의 군복을 입고 있다. ㊥ 하지만 조종사로서의 팔은 변함없이 정신면을 포함하여 더 믿음직한 남자로 성장해 ㊥ 있다. ㊥열을 올리고 있던 밀리아리아와의 관계는, 당의 그녀의 입으로부터는 「흩어졌다」라는 ㊥ 말이 확인되고 있는 것으로부터 성취하는 일은 없었던 것 같다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

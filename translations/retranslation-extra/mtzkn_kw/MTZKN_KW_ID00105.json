@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00105",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00105/Sheet1/000002",
+      "sourceBindingSha256": "7acf789fb2bf213b7191083a02d22cc322df0f21db6599f69a2aed969ed04103",
+      "sourceTextSha256": "637140bb9a8cbd444c6ee48acd8f51cc381b8e0b7a3b38be0dd8cc0272c5a6c6",
+      "freshTranslation": "차원력",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00105/Sheet1/000003",
+      "sourceBindingSha256": "1fe98dd903c88e6b428259f4b3180c112184398cea65eaf4fd06f709ef6503a0",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00105/Sheet1/000004",
+      "sourceBindingSha256": "491a67f2514ef44c816e6d39780dc1780db6205d2a88c270f6262fe115863ab2",
+      "sourceTextSha256": "023a58591ce07b1ffc1659b4f80230dbfc1f54aaf474a05dc9c144b7abbbdce3",
+      "freshTranslation": "병행 세계 사이에 존재하는 이차원 에너지의 총칭. ㊥차원력 이용의 제1단계는, 별차원에 있는 에너지를 추출하고, 통상 물리학상 ㊥에서는 불가능한 에너지량을 낳는 것이다. 이것에 대해서는 현시점의 땅 ㊥구의 초시공 물리학에서도 어느 정도의 제어는 가능한 레벨에 이르고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00105/Sheet1/000005",
+      "sourceBindingSha256": "7f7ffa8e1573cf894c4e45c065c8f5ce5ba3a1f7f62aee43e31de24cdb64abf5",
+      "sourceTextSha256": "e49633e2821ce206a7b37f4bfafeb9362f8e94d664d7120670604e74a1c4e239",
+      "freshTranslation": "병행 세계 사이에 존재하는 이차원 에너지의 총칭. ㊥원리의 힘, 오리진 로우라고도 불린다. ㊥차원력 이용의 제1단계는, 다른 차원에 있는 에너지를 추출해, 통상 물리학상 ㊥에서는 있을 수 없는 에너지량을 낳는 것에 있다. 이것에 대해서는 현시점의 땅 ㊥구의 초시공 물리학에서도 어느 정도의 제어는 가능한 수준에 이르고 있다. ㊥이지만, 차원력 이용의 궁극은 「세계를 성립시키고 있다」에너지의 ​​해명과, ㊥ 그 제어이며, 그것은 「사상의 제어」라고 바꿔 말할 수 있다. 즉, 물체㊥체A를 A로 하고 있는 사실을 자유롭게 제어할 수 있으면, 물체A를 물체B㊥로 변모시키는 것이 가능하다. 또한 산소와 수소가 화합물로 물이 태어난 ㊥이라는 사실을 제어할 수 있으면 완전히 다른 원소에서 물을 낳는 것도 가능해진다. ㊥ 그 가장 두드러진 예가 시공간을 무시하고 세계의 존재 자체를 개변하는 시공진동 ㊥이며, 즉 시공진동은 차원력에 의해 야기되는 것이다. ㊥ 그것은 \"기적\"이라고 불리는 것이며, 말하자면 만능의 힘이지만, 어디까지나 ㊥ 이론상의 결론이며, 그 실증의 목표는 서 있지 않다. 그러나, 스피어의 연 ㊥구에 의해, 차원력의 추출과 제어는 생명체의 「의지」가 관련되는 것이 추측되어 ㊥ 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

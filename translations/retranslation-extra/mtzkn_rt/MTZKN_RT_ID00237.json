@@ -1,0 +1,159 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00237",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00237/Sheet1/000002",
+      "sourceBindingSha256": "cea4dae52111704ef5c82ecc90526c29404f37c9f532aab7346269383b0e8514",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00237/Sheet1/000003",
+      "sourceBindingSha256": "b4fe9d47c51987f8953e33e190609255ab35c75c8adacbbbdf9af4138275e743",
+      "sourceTextSha256": "e4a26242d032c7e7b433f92dc497be3354bc132b9c867409adb77eb78f14e84f",
+      "freshTranslation": "아프라 그니스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00237/Sheet1/000004",
+      "sourceBindingSha256": "6a4de96238e67428cccb1d6b56cf628d3132f89b73786eabd515bfa047de70ae",
+      "sourceTextSha256": "e4a26242d032c7e7b433f92dc497be3354bc132b9c867409adb77eb78f14e84f",
+      "freshTranslation": "아프라 그니스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00237/Sheet1/000005",
+      "sourceBindingSha256": "0cdbcdd6d35030a77a9f7efd9d33439c49dd5817a9197852667be9de2ffcc0f9",
+      "sourceTextSha256": "f8ce16eb6901102802bdb117557186e987502bfd3df8dd350637cc5cbc8f6e8f",
+      "freshTranslation": "이즈모 캄로기",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00237/Sheet1/000006",
+      "sourceBindingSha256": "aa89ecba4ee535ac8c515a4c950d045b22624c617a556755dbde13b2569a6a6d",
+      "sourceTextSha256": "60bb0c99b2d82d5951c5624d3b0df687114eaf22ef915a3e565a83d67cde2dfa",
+      "freshTranslation": "이즈모 전용 사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00237/Sheet1/000007",
+      "sourceBindingSha256": "92e964777400b5dbd0bcd5d7c2e909abd7de1c89d1842a65c32e85288e64d33e",
+      "sourceTextSha256": "654b11b0bd2453d2e86809571563280d7b9cf82433e316b89ae9b3a53ff1748d",
+      "freshTranslation": "아부닥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00237/Sheet1/000008",
+      "sourceBindingSha256": "5aeb408c03b09d8b570484e66b917a0b1e6f708ba486e6b7324df11708dcb2e1",
+      "sourceTextSha256": "92f10f6a125592292f0fbfa09b045e59818e279581f65024508ece8f5a58cd59",
+      "freshTranslation": "ー.㊥알테아 최고 사령관 전용기로서 망토에게 왕관을 받은 것 같은 기품 있는 디자인㊥이 특징.㊥기타 아부닥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 일본어 잔류 재번역; Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 일본어 잔류 행을 원문 기준으로 재번역; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00237/Sheet1/000009",
+      "sourceBindingSha256": "2389839f63c463fba13951cf9f5c6cfb0e5a9bf27643f667022d8e924dd24568",
+      "sourceTextSha256": "eeef22a7e3c451d73b660a8c279da1675682c91faa64a4282b379c58a334ee2b",
+      "freshTranslation": "ー보다 훨씬 중장갑인 기체가 되고 있어 그 견고함은㊥온의 필살기를 받아도 상처받지 않을 정도.㊥망토를 본뜬 양 어깨의 갑옷은 광학 무기, 실체탄을 불문하고 배반으로 상대에게 뛰어㊥되돌릴 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00237/Sheet1/000010",
+      "sourceBindingSha256": "019d03b7d3865e9796a04aa3f62ec08571ec1e8fe33dc740213afa7c993e6132",
+      "sourceTextSha256": "0e99148b511ff33f49271464d3c58d4aced729fe5fb6efc7922b547f25af9da0",
+      "freshTranslation": "이즈모 전용으로 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00237/Sheet1/000011",
+      "sourceBindingSha256": "86f0d64fe606749d193e04d9d490de21e972f3e10db9d3cb5385b4fbf2148c3b",
+      "sourceTextSha256": "b9f9e1952dfd025cbba10064d397d8bd2768d456397cbcb295b381c6be6a4269",
+      "freshTranslation": "마이즈 된 사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00237/Sheet1/000012",
+      "sourceBindingSha256": "b55bfa80458edd76529b4f7ee05ccd14b63178128f15010b15dc120f42d72eea",
+      "sourceTextSha256": "654b11b0bd2453d2e86809571563280d7b9cf82433e316b89ae9b3a53ff1748d",
+      "freshTranslation": "아부닥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00237/Sheet1/000013",
+      "sourceBindingSha256": "2a7f6e76917245adfec94abbc89856732630f5bec63911e8ffef3160f9fbd3cf",
+      "sourceTextSha256": "9262dc6bd2c884a4010208d3060a74728c1c907e2424d538ef05589f394d585e",
+      "freshTranslation": "ー.㊥알테아 최고 사령관 전용기로서 망토에게 왕관을 받은 것 같은 기품 있는 디자인㊥이 특징.㊥다른 그니스보다 훨씬 중장갑 된 기체가되고 있으며, 그 견고함은㊥필살기를 받더라도 상처받지 않을 정도.㊥망토를 본뜬 양 어깨의 갑옷은 광학 무기, 실체탄을 불문하고 배반으로 상대에게 뛰어㊥되돌릴 수 있다.㊥또한 알테아가 전장이라면 아이언시의 에너지를 사용한 필살기, 모성총㊥역전포를 발사할 수도 있다.㊥탑승자의 이즈모의 솜씨와 합쳐져 신화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00237/Sheet1/000014",
+      "sourceBindingSha256": "018448f4702d0d59a00216bbf708d72d9ba46b15b7bc2fc1acba18aa0a4faf5a",
+      "sourceTextSha256": "6eb6f01e7b2aacd801f60003beefa3f07a992c3d9b90e079e489cd223f9e8931",
+      "freshTranslation": "아쿠에리온마저도 고전을 강요당하는 강㊥큰 전투력을 자랑한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

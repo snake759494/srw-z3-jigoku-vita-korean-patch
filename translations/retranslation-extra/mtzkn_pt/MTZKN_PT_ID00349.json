@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00349",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00349/Sheet1/000002",
+      "sourceBindingSha256": "5fe588ac9af35cfd2957b359fa17cc617667afca5e415cf973d12c03ae407cc3",
+      "sourceTextSha256": "a810a6db44ec3df3dd5a7b06ed551762546d3ad974a67ef1b9be80f7f2bae042",
+      "freshTranslation": "아이다 켄스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00349/Sheet1/000003",
+      "sourceBindingSha256": "9d6c82e2b8d79660a1f012ff8b2680f701311603169aba5ec96f2ff17d5a7fa6",
+      "sourceTextSha256": "17de9647feefed3a95e980e73dc5d86eac2410c588c528b85f64caa47f4c7632",
+      "freshTranslation": "켄스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00349/Sheet1/000004",
+      "sourceBindingSha256": "65546f856ff75e5fc5fa0ae7b36e9edcd262230cb7a9b2f5ece829409da06295",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00349/Sheet1/000005",
+      "sourceBindingSha256": "3605a3dab10f09ce5718dccdf5074795bb314236281e702f14c26bc74e9e9711",
+      "sourceTextSha256": "ac096e6a29ea820a40550f19ca607a439916829af0567868f9ae3b91628dd268",
+      "freshTranslation": "제3신도쿄 시립 제일 중학교 2년 A조의 학생. ㊥ 상당한 군사 매니아로 무기의 촬영을 취미로 해 EVA의 파일럿인 신지㊥들을 부러워하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00349/Sheet1/000006",
+      "sourceBindingSha256": "4b3f0ad88e508ad96c62ee206c0ea4409e293efa558e3fcc809e16e1d8057174",
+      "sourceTextSha256": "668872038807113ce604968906d0de7f83789b3faffa80a2e2567a32cec01503",
+      "freshTranslation": "제3신도쿄 시립 제일 중학교 2년 A조의 학생.㊥상당한 군사 매니아로 무기 촬영을 취미로하고 EVA의 조종사 인 신지㊥그들을 부러워하고 있다.㊥토우지가 \"자신의 욕망에 솔직한 녀석\"이며 사도의 습격에 대한 대피 권고㊥자신의 눈으로 전투를보기 위해 토우지를 초대하고 쉘",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00349/Sheet1/000007",
+      "sourceBindingSha256": "b25f2428c766df00b9a8af5f9ae70751563bda440c58bafb8d6f74f34b52ad6c",
+      "sourceTextSha256": "5696d53ca1b85ec27665594c23dbf0833f164cc2fe48d8d9712743c2fbadf549",
+      "freshTranslation": "-에서 벗어났다. 그 ㊥의 전투에서 신지에게 도와, 토우지와 함께 그의 친구가 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

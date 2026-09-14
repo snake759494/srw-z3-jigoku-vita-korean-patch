@@ -1,0 +1,269 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00231",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000002",
+      "sourceBindingSha256": "89c473b8829d596be84094031a62c3fe868cfc00888f908f68d3899d5d7ccc6d",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000003",
+      "sourceBindingSha256": "ab34b5e51503314ef36da279ca0c3649675cce7ebc62cf6acaf400e10a5d8afa",
+      "sourceTextSha256": "a694f14163e1c726e4430e725a47535992b8da4d295767fed185b05fb90cd16a",
+      "freshTranslation": "아쿠에리온게파르트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000004",
+      "sourceBindingSha256": "f1c61e54b77eb24c0d1686b0e80317151d332a8964685b4801086a7fd482d87c",
+      "sourceTextSha256": "a694f14163e1c726e4430e725a47535992b8da4d295767fed185b05fb90cd16a",
+      "freshTranslation": "아쿠에리온게파르트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000005",
+      "sourceBindingSha256": "2fe2d2834e5356cb0d2128158d3807c0ae4dd77abceb375df6bc9d05d5fa11bc",
+      "sourceTextSha256": "7b2662049512e32d98ccff6ba79616fb227704168d4cc240c40d975fd60c8e37",
+      "freshTranslation": "네오디바가 소유한 기계 천사. ㊥백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000006",
+      "sourceBindingSha256": "0e9df2054e18986c000318c9a585ef0c276e8600c5cfa00138e66086e4550387",
+      "sourceTextSha256": "1a354cf9bed8837b4590dd7e407b1b423b1ed3205f4a67cbc9eea7548f133fa1",
+      "freshTranslation": "-머신이라고 불리는 3기의 전투기가 합체하는 것으로 완성된다. ㊥ 조합에 의해 3종류의 형태에 합체하는 것이 가능하고, 각각의 형태마다 전투㊥투스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000007",
+      "sourceBindingSha256": "fc002261acbb13956c745e75a8df29338c43be36fd181fb2ebd9a6279cc606f6",
+      "sourceTextSha256": "0375fc7b46e240d5033c8b5ce39a6ac0b826d55b399e1604f9a22a99ab4483d9",
+      "freshTranslation": "일과 외관이 크게 변화한다. ㊥ 탑승자가 되는 것은 엘리먼트 능력자라고 불리는 초능력을 가진 소년 소녀들. 합체㊥에는 그들의 힘이 필요하며, 합체 후의 기체 스펙은 그들의 능력이나 정신 상태에 ㊥에 의해서도 크게 좌우된다. ㊥ 어쿠어리 온 게팔트는 베크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000008",
+      "sourceBindingSha256": "19e112b5712a5a615d37b6643a65a71342879e90d585e565e708befe3f773f86",
+      "sourceTextSha256": "9931b930ebd8cfa88a27c7c8d5c952a439a59c06543d939f7a2a14b4b68f52c3",
+      "freshTranslation": "익스가 상체, 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000009",
+      "sourceBindingSha256": "ad90b0e38aa041643090c1d804f8f8c3a7a1faba059b67a71be7c09c05dea250",
+      "sourceTextSha256": "95c37a3c44cd2b60c1f038b77a55e54e6d96423c6d564bf71be576a45c557f80",
+      "freshTranslation": "- 실론이 하체, 백㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000010",
+      "sourceBindingSha256": "e2d8758827264df635a8b45a3849c67d537735d71c7749e68edfc1e67dc8a248",
+      "sourceTextSha256": "1b0d5aa557d5ab7b49671b2a8a7f9dbd90bd2e785eb71895af4de11ddbbc908e",
+      "freshTranslation": "제드는 백을 구성한다. ㊥ 대량의 중화기를 장비하고 있어 지상에서 중장거리전을 자랑하고 있다. 또, 전형㊥태중, 가장 중장갑인 형태이기도 하다. ㊥게팔트는 다른 형태에 비해 적은 엘리먼트 능력으로 합체,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000011",
+      "sourceBindingSha256": "014df260fbf1446d58cf13d46eca3a362d60156337ab12616a22db7021fdcec0",
+      "sourceTextSha256": "000c0a3a42a27fe99f450cd15ac00cb0e16fef2034252bf925db10631f4ce1f3",
+      "freshTranslation": "사용이 가능해져 ㊥ 하고, 탑승자의 부담이 적다. 이 점에서 남녀별로 합체하는 물병자리 M",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000012",
+      "sourceBindingSha256": "7814e720bf944bc1c38a8da8d4011a867f036b5a403b17625ea0eb8f5f8e6c38",
+      "sourceTextSha256": "27fbc2428f65e512c04eee398836de5a081d4098915da8059059c51a97f59646",
+      "freshTranslation": "및 F",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000013",
+      "sourceBindingSha256": "34faab956d66eab22a02a31ebbfecbf06fd75fdf64d24d44a65feda7f1bbe350",
+      "sourceTextSha256": "d1dc92bebedd8aa3ad6194c890548c13c1d7abdceb7092d36713fbb330ad311a",
+      "freshTranslation": "㊥원",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000014",
+      "sourceBindingSha256": "ef23628f67f6715fc90675a6bf3425eefae7ce8c704e424450b4d101dc18be97",
+      "sourceTextSha256": "7633c9c5b307c2404f03b4b679e8130c34761824863cd9971e3f12e021c3e5eb",
+      "freshTranslation": "라고도 했다. ㊥ 주로 카이엔과 제시카가 탑승하지만 탑승자를 가리지 않는 특성으로 인해 많은 후보생들이 ㊥ 탑승했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000015",
+      "sourceBindingSha256": "b029941454ace4dd8167515e9b2c557eb6e7da8a2c5f787acb8d4bd887548868",
+      "sourceTextSha256": "7b2662049512e32d98ccff6ba79616fb227704168d4cc240c40d975fd60c8e37",
+      "freshTranslation": "네오디바가 소유한 기계 천사. ㊥백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000016",
+      "sourceBindingSha256": "869dd0415044e472817644b16ff2f28c67159ddfb1eb95ccfae1cfc76953afd4",
+      "sourceTextSha256": "1a354cf9bed8837b4590dd7e407b1b423b1ed3205f4a67cbc9eea7548f133fa1",
+      "freshTranslation": "-머신이라고 불리는 3기의 전투기가 합체하는 것으로 완성된다. ㊥ 조합에 의해 3종류의 형태에 합체하는 것이 가능하고, 각각의 형태마다 전투㊥투스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000017",
+      "sourceBindingSha256": "648e61c32cf857a806301c0036e183959fa32fa2082e182d4f7b2a922b4394c4",
+      "sourceTextSha256": "0375fc7b46e240d5033c8b5ce39a6ac0b826d55b399e1604f9a22a99ab4483d9",
+      "freshTranslation": "일과 외관이 크게 변화한다. ㊥ 탑승자가 되는 것은 엘리먼트 능력자라고 불리는 초능력을 가진 소년 소녀들. 합체㊥에는 그들의 힘이 필요하며, 합체 후의 기체 스펙은 그들의 능력이나 정신 상태에 ㊥에 의해서도 크게 좌우된다. ㊥ 어쿠어리 온 게팔트는 베크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000018",
+      "sourceBindingSha256": "a96b30afab847da46f7e6155eca39afd7d3144b655e6bef2234a8f74d6a0df27",
+      "sourceTextSha256": "9931b930ebd8cfa88a27c7c8d5c952a439a59c06543d939f7a2a14b4b68f52c3",
+      "freshTranslation": "익스가 상체, 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000019",
+      "sourceBindingSha256": "8b59db8bed597bc828321b7ebc433684fb6b14a556e932fc0a7405ee43e3683e",
+      "sourceTextSha256": "95c37a3c44cd2b60c1f038b77a55e54e6d96423c6d564bf71be576a45c557f80",
+      "freshTranslation": "- 실론이 하체, 백㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000020",
+      "sourceBindingSha256": "e45387b8ab435ae3fd90fefef9dee257f72faa2e3a1b8319c087c0b6d4a6b319",
+      "sourceTextSha256": "1b0d5aa557d5ab7b49671b2a8a7f9dbd90bd2e785eb71895af4de11ddbbc908e",
+      "freshTranslation": "제드는 백을 구성한다. ㊥ 대량의 중화기를 장비하고 있어 지상에서 중장거리전을 자랑하고 있다. 또, 전형㊥태중, 가장 중장갑인 형태이기도 하다. ㊥게팔트는 다른 형태에 비해 적은 엘리먼트 능력으로 합체,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000021",
+      "sourceBindingSha256": "271a22433dd9e3ed193407da4c289cf77b9e26ec870642df0c25c17a45ad3dc8",
+      "sourceTextSha256": "000c0a3a42a27fe99f450cd15ac00cb0e16fef2034252bf925db10631f4ce1f3",
+      "freshTranslation": "사용이 가능해져 ㊥ 하고, 탑승자의 부담이 적다. 이 점에서 남녀별로 합체하는 물병자리 M",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000022",
+      "sourceBindingSha256": "8053d53af8d8b703378e0a76a406c03dac9a4b225687c1845853a23a9d099f31",
+      "sourceTextSha256": "27fbc2428f65e512c04eee398836de5a081d4098915da8059059c51a97f59646",
+      "freshTranslation": "및 F",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000023",
+      "sourceBindingSha256": "ff3790aec6991493baa786bfc3602a34b94a9ef8918ce2aa70541bda87c2115f",
+      "sourceTextSha256": "d1dc92bebedd8aa3ad6194c890548c13c1d7abdceb7092d36713fbb330ad311a",
+      "freshTranslation": "㊥원",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00231/Sheet1/000024",
+      "sourceBindingSha256": "61f18cc11dcb6ff37490638c0cc51ddad45a531d5d41c63b3d46480a257db1df",
+      "sourceTextSha256": "7633c9c5b307c2404f03b4b679e8130c34761824863cd9971e3f12e021c3e5eb",
+      "freshTranslation": "라고도 했다. ㊥ 주로 카이엔과 제시카가 탑승하지만 탑승자를 가리지 않는 특성으로 인해 많은 후보생들이 ㊥ 탑승했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

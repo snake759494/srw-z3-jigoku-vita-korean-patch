@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00022",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00022/Sheet1/000002",
+      "sourceBindingSha256": "b6c9c7a151a6de1161b00f2dc86639904c4dcf7c79b8c4c61f97b1bfa1a06e16",
+      "sourceTextSha256": "095aa56eab1e8a38be44b7470675dbd3bb01e8bb6134a3c94d5e531e65a3923a",
+      "freshTranslation": "장갑 기병 하의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00022/Sheet1/000003",
+      "sourceBindingSha256": "73182282f1bffd1b51e65e8e1c45ae7b7ab74036167d9eace370e9d430525863",
+      "sourceTextSha256": "019cdfc024c3c010238c3c3f9b55eb465a998410e94513c428140aadb6268d58",
+      "freshTranslation": "베르젤가 DT",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00022/Sheet1/000004",
+      "sourceBindingSha256": "c778d1da729e0d9b226d425bf657134b8a343170a158d5dd62bf6b4b84e27d67",
+      "sourceTextSha256": "019cdfc024c3c010238c3c3f9b55eb465a998410e94513c428140aadb6268d58",
+      "freshTranslation": "베르젤가 DT",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00022/Sheet1/000005",
+      "sourceBindingSha256": "96910427961f82e29b97855c278863a7b45bf369d6665e765c693a6fc1588c6d",
+      "sourceTextSha256": "bb1b9d79477ce4c72968854e46f8953c09d7e46b28254548dc8fed5dde12be8c",
+      "freshTranslation": "피아나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00022/Sheet1/000006",
+      "sourceBindingSha256": "1d55aad0705948a33425bfdd39a1aa3b30c2f85e77b12233239c9fb037057871",
+      "sourceTextSha256": "c8148173cff94be7dfc4bd53c3426e6dcecb97ab319c9fe0022cb0f389f5de0a",
+      "freshTranslation": "쿠엔트 별의 수도 고모르에서 움켜 올린 AT. ㊥ 명칭의 DT는 「Desert-Trip」의 의미. ㊥ 극히 높은 색적 능력을 가진 퀀트 소자식 금속 탐지 센서와 왼팔에 대비한 파이 ㊥ 루뱅카, 전용의 돌격 소총 등 독자적이고 고성능의 장비를 가진다. ㊥ 다른 베르젤가와 마찬가지로 1 대에 파견되는 전지에 적응 한 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00022/Sheet1/000007",
+      "sourceBindingSha256": "92c9b4c442dc32ccff63e9ed110ab739c7679ad3e15b63e1359596da94620bf8",
+      "sourceTextSha256": "3059c6ec2e7a452f40937d0e5bebdf4e614a4b5cf7c3a5c3901b45c18e4d3ee8",
+      "freshTranslation": "마이즈가 더해 ㊥ 되고 있어 당기에는 사막전용으로 샌드트리퍼 유닛이 장비되고 있다. ㊥ 이 기체는 창고 센",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00022/Sheet1/000008",
+      "sourceBindingSha256": "a26b59ca0a9bd643c6b2c56dc5e3b1c5a6cd4866197738f37851ddc4eb75c705",
+      "sourceTextSha256": "50407a4f5ffcae4d775271ff2e8a7a1cdb92392e6f76969d6439f5c32f51282f",
+      "freshTranslation": "에 있던 구식의 기체를 레스토한 것으로, 「폰코츠다㊥가 우물」이라고는 개조를 다룬 고우트의 담. ㊥ 본래는 퀸트 출신의 용병만이 사용하는 기체이지만, 샤코가 부상했기 때문에 ㊥에 피아나가 탑승해 와이즈맨의 후계자가 된 키리코를 쫓았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00022/Sheet1/000009",
+      "sourceBindingSha256": "75184a0ddd7471a4a51a7cd6de5e2297e01d901aa1cf07a072d91ab23d941e84",
+      "sourceTextSha256": "c8148173cff94be7dfc4bd53c3426e6dcecb97ab319c9fe0022cb0f389f5de0a",
+      "freshTranslation": "쿠엔트 별의 수도 고모르에서 움켜 올린 AT. ㊥ 명칭의 DT는 「Desert-Trip」의 의미. ㊥ 극히 높은 색적 능력을 가진 퀀트 소자식 금속 탐지 센서와 왼팔에 대비한 파이 ㊥ 루뱅카, 전용의 돌격 소총 등 독자적이고 고성능의 장비를 가진다. ㊥ 다른 베르젤가와 마찬가지로 1 대에 파견되는 전지에 적응 한 카스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00022/Sheet1/000010",
+      "sourceBindingSha256": "ae8051113759efb9df919687dc0ac8b71e6a2f7ed27b72c1598794a095ccade7",
+      "sourceTextSha256": "3059c6ec2e7a452f40937d0e5bebdf4e614a4b5cf7c3a5c3901b45c18e4d3ee8",
+      "freshTranslation": "마이즈가 더해 ㊥ 되고 있어 당기에는 사막전용으로 샌드트리퍼 유닛이 장비되고 있다. ㊥ 이 기체는 창고 센",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00022/Sheet1/000011",
+      "sourceBindingSha256": "dae17c94cbaac0a08527aaf6b8aa3e93db8a9c44c26bc4397334fbc4b646bae2",
+      "sourceTextSha256": "50407a4f5ffcae4d775271ff2e8a7a1cdb92392e6f76969d6439f5c32f51282f",
+      "freshTranslation": "에 있던 구식의 기체를 레스토한 것으로, 「폰코츠다㊥가 우물」이라고는 개조를 다룬 고우트의 담. ㊥ 본래는 퀸트 출신의 용병만이 사용하는 기체이지만, 샤코가 부상했기 때문에 ㊥에 피아나가 탑승해 와이즈맨의 후계자가 된 키리코를 쫓았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

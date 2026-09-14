@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00214",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00214/Sheet1/000002",
+      "sourceBindingSha256": "a3597cf52d36e1e11724f0dca4fa0a49cc107a88c97b4a53c8fb7f57a1f8df2a",
+      "sourceTextSha256": "04e0d2c766e3b46051c4f48019d26a285dd0b59cbf31cca297d47e2bd40b733a",
+      "freshTranslation": "에반게리온 신극장판 : 서",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00214/Sheet1/000003",
+      "sourceBindingSha256": "baafd14f92ec1c451438558a07e350191cbf07727933c9826409d864dc26ffe9",
+      "sourceTextSha256": "91929c848747b075c6375f06cef42a78095d0405d644142dbbfb573cabf0fc47",
+      "freshTranslation": "네 번째 사도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00214/Sheet1/000004",
+      "sourceBindingSha256": "4c611870fd4cb0ce01efcb71b12c79c271c3a5a1fb2cf463f3c4eb09310d97f0",
+      "sourceTextSha256": "91929c848747b075c6375f06cef42a78095d0405d644142dbbfb573cabf0fc47",
+      "freshTranslation": "네 번째 사도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00214/Sheet1/000005",
+      "sourceBindingSha256": "6c5a5081d950400a5d3383d2116eb09288bb8b58d45f0514589ac260ae7a378e",
+      "sourceTextSha256": "8ca100a81fef390a57c4de6950b39c491046b15ef4645679a0a32850176442df",
+      "freshTranslation": "제3신도쿄시에 습격한 4번째 사도. ㊥ 2족 보행으로 행동. 주요 공격으로서 손바닥에서 빛의 창을 발한다. ㊥국제연합군의 공격으로는 그 침공을 멈출 수 없었고, 동군의 문패인 N2지 ㊥ 번개의 공격도 족쇄 정도의 효과밖에 없었다. ㊥ 사정도 모르는 채 EVA 초호기에 탑승한 신지와 싸운다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00214/Sheet1/000006",
+      "sourceBindingSha256": "c17014df03a00a0e128be647c6a05ac3f1d2a78ed1e65e6ccd6ba2c607ac3daf",
+      "sourceTextSha256": "d9d75ebdf9c93e32c29388503988df54897d385318dcee739e4006d8d92e082e",
+      "freshTranslation": "제3신도쿄시에 습격한 4번째 사도. ㊥ 2족 보행으로 행동. 주요 공격으로서 손바닥에서 빛의 창을 발한다. ㊥국제연합군의 공격으로는 그 침공을 멈출 수 없었고, 동군의 문패인 N2지 ㊥ 번개의 공격도 족쇄 정도의 효과밖에 없었다. ㊥ 사정도 모르는 채 EVA 초호기에 탑승한 신지와 교전. 차례차례 공격을 가해 ㊥ 전투 불능으로 몰아넣는다. 그러나, 초호기는 재기동해, 폭주. 그 반격에 의해 코어가 파㊥ 파괴될 것 같게 되면, 마지막은 초호기를 말려 자폭한다. 그러나, 초호기를 쓰러뜨리기에 ㊥는 이르지 않았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

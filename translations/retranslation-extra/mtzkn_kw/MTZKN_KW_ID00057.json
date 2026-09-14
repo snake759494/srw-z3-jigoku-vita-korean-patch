@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00057",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00057/Sheet1/000002",
+      "sourceBindingSha256": "fe2908e7015c5b588f0c903c6afaa4e9466a8f156ebd6992a844cc2889b6c7e5",
+      "sourceTextSha256": "d7b6accba810895633fc02977ee0cba0dcd0804c0776411f67f9213fcfdef8c0",
+      "freshTranslation": "자프트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00057/Sheet1/000003",
+      "sourceBindingSha256": "e3d4fc865ec068edce009cbe115ee69b44c3a44bae9ff086133ed21b7e0ee298",
+      "sourceTextSha256": "46972028b0d87190e9d5bc75048d5bd3819834caf71211a163e3d40415fa49f0",
+      "freshTranslation": "「기동전사 건담 SEEDDESTINY」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00057/Sheet1/000004",
+      "sourceBindingSha256": "ac8fbf16a58d7907a2aec9e288fcd3fc3f51db326aee9b03305e8ad6b76ac2bf",
+      "sourceTextSha256": "7b4a2ee000618b61314fc7e668fde5464ad35288233d0ac91d9517d0fab596ff",
+      "freshTranslation": "플랜트에 있어서의 군 조직으로, 「ZodiacAllianceof㊥FreedomTreaty(자유조약 황도동맹)」의 약칭이다. ㊥시겔 클라인과 패트릭 자라가 중심이 되어 결성한 정치결사가 ㊥모체로 지원한 코디네이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00057/Sheet1/000005",
+      "sourceBindingSha256": "24c2d0f4bfe85ce8664de814005754f7236d5680c083a584ccb4f0d0ffe96e5f",
+      "sourceTextSha256": "c45b79f43612c6b9ece587bdee56b53b014f926feb0102ecc2605c12238ee194",
+      "freshTranslation": "-에 의한 의용병으로 구성되어 있다. 전원이 육지㊥해공의 구별 없이 싸울 수 있도록 훈련되고 있으며, 그 중에서도 우수한 병사에게는 빨강을 기조로 ㊥한 제복이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00057/Sheet1/000006",
+      "sourceBindingSha256": "957153c3c0748cb005c0c16d41d2bb0933932265e09265ed6e7e4489ab96999f",
+      "sourceTextSha256": "7c3e9527df809b776b6839b37ffef1678aacc3813cc7bf137a7d6b398cdce8c8",
+      "freshTranslation": "예. ㊥ 통상의 군대와 같은 계급은 존재하지 않고, 부대명에는 지휘관의 이름이 직접 관여되어 ㊥ 있다. ㊥ 덧붙여 최고 지휘권은 플랜트 평의회 국방위원장이 소지하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00057/Sheet1/000007",
+      "sourceBindingSha256": "86aac266da4848c16e8e2f165512f5b0c005b45eca2ab0cfa979ab8a8827a7da",
+      "sourceTextSha256": "7b4a2ee000618b61314fc7e668fde5464ad35288233d0ac91d9517d0fab596ff",
+      "freshTranslation": "플랜트에 있어서의 군 조직으로, 「ZodiacAllianceof㊥FreedomTreaty(자유조약 황도동맹)」의 약칭이다. ㊥시겔 클라인과 패트릭 자라가 중심이 되어 결성한 정치결사가 ㊥모체로 지원한 코디네이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00057/Sheet1/000008",
+      "sourceBindingSha256": "9ea2d471073c62c337fa4d927c79a06203ff857fe42dfcb0e9e6dcb6021b59e1",
+      "sourceTextSha256": "c45b79f43612c6b9ece587bdee56b53b014f926feb0102ecc2605c12238ee194",
+      "freshTranslation": "-에 의한 의용병으로 구성되어 있다. 전원이 육지㊥해공의 구별 없이 싸울 수 있도록 훈련되고 있으며, 그 중에서도 우수한 병사에게는 빨강을 기조로 ㊥한 제복이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00057/Sheet1/000009",
+      "sourceBindingSha256": "e4db634fee35b37a6f342a6778aa5be9ad177a22b8fee24dbf9d5c52848e49c7",
+      "sourceTextSha256": "7c3e9527df809b776b6839b37ffef1678aacc3813cc7bf137a7d6b398cdce8c8",
+      "freshTranslation": "예. ㊥ 통상의 군대와 같은 계급은 존재하지 않고, 부대명에는 지휘관의 이름이 직접 관여되어 ㊥ 있다. ㊥ 덧붙여 최고 지휘권은 플랜트 평의회 국방위원장이 소지하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

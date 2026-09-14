@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00402",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00402/Sheet1/000002",
+      "sourceBindingSha256": "ef7e3f6d82d85623a6cb9256614890dcae1dcb7f3e24aae798a772e91e78355e",
+      "sourceTextSha256": "7c42608f275ad53087268236d9e529d6d27337f34075a2cd8c691211e558fae7",
+      "freshTranslation": "오하라 신야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00402/Sheet1/000003",
+      "sourceBindingSha256": "598fc39378427d0789f3b18f0cada8923b02cdb8c84ef47e293126bd1ed5a9a3",
+      "sourceTextSha256": "1aa60fa66a1a7d1379b149c860c06cef247d6b7ad51a1c44fb3fd21eec047235",
+      "freshTranslation": "신야",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00402/Sheet1/000004",
+      "sourceBindingSha256": "bd27d2c2a9ee7536c836727a5fab8114abeab4c38ad13b8dfb6a85cee8b68288",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00402/Sheet1/000005",
+      "sourceBindingSha256": "bcbd6a3be65600068951f95f4c7e334de5d0b8061e8dbbd97c97e1fac468e6fe",
+      "sourceTextSha256": "a9c0961bd1f9305cd17a1779c0902e8e768e37294cf816dc75f9fcac383020f8",
+      "freshTranslation": "제2신도쿄시립 종합병원의 특별실에 입원하는 환자. 11세. ㊥가족과 함께 차원진에 휘말려 본인만이 살아남는다. 그 후 '혈색된 눈' ㊥이라 불리는 현상을 발병하고 있어 감정의 일체를 소실하고 있는 것 같은 상태가 되어 ㊥ 있다. 유일하게 공포의 감정만이 남아 있어 발작적으로 무언가에 무서워 비명을 지르는 것이 ㊥ 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00402/Sheet1/000006",
+      "sourceBindingSha256": "eb53a57060b209a4df0542f93bfc841c6a6fe01cb76fc5449de3218eeea7cfdd",
+      "sourceTextSha256": "5d116f426ad7d7af2d26d645706cdada91ff5d14f146d960de358bde5fc156b4",
+      "freshTranslation": "제2신도쿄시립 종합병원의 특별실에 입원하는 환자. 11세. ㊥가족과 함께 차원진에 휘말려 본인만이 살아남는다. 그 후 '혈색된 눈' ㊥이라 불리는 현상을 발병하고 있어 감정의 일체를 소실하고 있는 것 같은 상태가 되어 ㊥ 있다. 유일하게 공포의 감정만이 남아 있어 발작적으로 무언가에 무서워 비명을 지르는 것이 ㊥ 있다. ㊥시의 감옥의 완성이 가까워짐에 따라, 발작의 횟수는 증가하고 있었지만, 시공 수복 후는 떨어지고㊥ 도착을 보이게 되어, 회복이 기대되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

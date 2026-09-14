@@ -1,0 +1,181 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00205",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00205/Sheet1/000002",
+      "sourceBindingSha256": "ccf82e16bbc6abc30cb1f5cc789627abfcfe3688feb196926e982d6c90889887",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00205/Sheet1/000003",
+      "sourceBindingSha256": "6420840fb207830a6a162dfdd7e23c2146c8a8f3beb8b9af69fd31757866f97b",
+      "sourceTextSha256": "537f08268177382b1a6ee92cbb4c585ef0a2e7b00718e755ab2a815b52a6b11b",
+      "freshTranslation": "고급 무건",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00205/Sheet1/000004",
+      "sourceBindingSha256": "c78ef60a496b990848046adc4ff9a83a5f5ae3018452d3a24b01fd392092eab2",
+      "sourceTextSha256": "537f08268177382b1a6ee92cbb4c585ef0a2e7b00718e755ab2a815b52a6b11b",
+      "freshTranslation": "고급 무건",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00205/Sheet1/000005",
+      "sourceBindingSha256": "e42f8ec820572aef7f7bf903e9472bf976dded0750c62ff8cdc17ea09af82ca6",
+      "sourceTextSha256": "508d4139e1bcb65f03b9abe4e3673c5ba284e12ee26eff27f24f814d4d24d7f1",
+      "freshTranslation": "안티 스파이럴의 첨병이 되는 무기의 상급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00205/Sheet1/000006",
+      "sourceBindingSha256": "00ddb1b50623bba12ef438da3b523e3631322b5054badd4153100bb14bc6534b",
+      "sourceTextSha256": "c8f5ec2a7346a7ae960c1055d34727f3cc620550ea81dce3000a9d0b0b677fb9",
+      "freshTranslation": "입. ㊥ 분자 구조는 불안정하며, 파괴되면 블록 형태로 확산된 후 개별적으로 폭발한다. ㊥ 고급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00205/Sheet1/000007",
+      "sourceBindingSha256": "daf43fc45a398bc1d54c866b7aa2af425f47e34a1b68cd246d4178d7ba360cc0",
+      "sourceTextSha256": "d8f3bb07ddf0d76a064428044b19b59f3d4566b213a4f624ff84592004243df5",
+      "freshTranslation": "입은 무간 부대의 중심이되는 존재로 옷걸이 모양의 하체에 하급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00205/Sheet1/000008",
+      "sourceBindingSha256": "d31f3c38fed04d676d2709c092abb55376b3891db59b1b1dfaad1beba385a8fb",
+      "sourceTextSha256": "752520ed18b8e4244ec5978a6fe3d3b2685e8e7d40a4a561c2166f250fb9af3d",
+      "freshTranslation": "입을 ㊥ 매달아. 그 하급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00205/Sheet1/000009",
+      "sourceBindingSha256": "adc482e0ab1a23fcd64b1b62f4b394631e9fd78136d5303ff8d846f1deb726e5",
+      "sourceTextSha256": "1dfd7ace53ea37c6b6f7a3e376e5af7df0a361456ca7eb16497aa05f28581c2b",
+      "freshTranslation": "입에서 빔 모양의 촉수가 늘어나고 또 다른 하급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00205/Sheet1/000010",
+      "sourceBindingSha256": "43d31a8f1da3fc1ae23da5cbf4fbc45c02a857ca2474cfb9ecf743ce7e4953b0",
+      "sourceTextSha256": "cb1e080277b7dc457c4ca2d32b1a8ce2ddb55645c4ab1f3198b456492da7c753",
+      "freshTranslation": "입이 연㊥결해 최대 8체×4단으로 32체가 1부대로 구성된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00205/Sheet1/000011",
+      "sourceBindingSha256": "4f1d94ca1d4878ae86874a70fddc9d8abdee40c84a792292f551e94a09fede40",
+      "sourceTextSha256": "508d4139e1bcb65f03b9abe4e3673c5ba284e12ee26eff27f24f814d4d24d7f1",
+      "freshTranslation": "안티 스파이럴의 첨병이 되는 무기의 상급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00205/Sheet1/000012",
+      "sourceBindingSha256": "3584e6a00abb50eaa7d14ad581fcfa26befd4bd8a7ffae07238b758b9d079e3b",
+      "sourceTextSha256": "c8f5ec2a7346a7ae960c1055d34727f3cc620550ea81dce3000a9d0b0b677fb9",
+      "freshTranslation": "입. ㊥ 분자 구조는 불안정하며, 파괴되면 블록 형태로 확산된 후 개별적으로 폭발한다. ㊥ 고급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00205/Sheet1/000013",
+      "sourceBindingSha256": "87357fba6a65681763260f96d0c6e0f7d99ab7043c448e75f34f9c29b5957a80",
+      "sourceTextSha256": "d8f3bb07ddf0d76a064428044b19b59f3d4566b213a4f624ff84592004243df5",
+      "freshTranslation": "입은 무간 부대의 중심이되는 존재로 옷걸이 모양의 하체에 하급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00205/Sheet1/000014",
+      "sourceBindingSha256": "93d6a8e4fb125e25dd1fbf79c3e51dfae037148495a483c1ac38c94ec9fbc536",
+      "sourceTextSha256": "752520ed18b8e4244ec5978a6fe3d3b2685e8e7d40a4a561c2166f250fb9af3d",
+      "freshTranslation": "입을 ㊥ 매달아. 그 하급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00205/Sheet1/000015",
+      "sourceBindingSha256": "90fe590f11a3b095620bb99e75f0444746d765342cb1ba4954faa4e8300d807a",
+      "sourceTextSha256": "1dfd7ace53ea37c6b6f7a3e376e5af7df0a361456ca7eb16497aa05f28581c2b",
+      "freshTranslation": "입에서 빔 모양의 촉수가 늘어나고 또 다른 하급",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00205/Sheet1/000016",
+      "sourceBindingSha256": "8517b609b4414dd6ef5a1005767a922ec0098204173999ec1ac0c528e4ac20ae",
+      "sourceTextSha256": "cb1e080277b7dc457c4ca2d32b1a8ce2ddb55645c4ab1f3198b456492da7c753",
+      "freshTranslation": "입이 연㊥결해 최대 8체×4단으로 32체가 1부대로 구성된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

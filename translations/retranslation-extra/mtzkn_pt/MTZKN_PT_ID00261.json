@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00261",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00261/Sheet1/000002",
+      "sourceBindingSha256": "18021b37aac70d708a8940dd68163a3c19620068f39b6c8bbb1b7e16da224eca",
+      "sourceTextSha256": "46c5d4043e8658decfcb508d7ff365ee2dee1055f6b73ef22c71f59311af35db",
+      "freshTranslation": "가우룬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00261/Sheet1/000003",
+      "sourceBindingSha256": "a6300257e5e341e96da00ffc68eba817d12953c599cb4912db33cfe32eedfead",
+      "sourceTextSha256": "46c5d4043e8658decfcb508d7ff365ee2dee1055f6b73ef22c71f59311af35db",
+      "freshTranslation": "가우룬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00261/Sheet1/000004",
+      "sourceBindingSha256": "48e32208d941c73b8cf929a8b6cf382dc03d54708ec9e21fb852ea36ca18ec99",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00261/Sheet1/000005",
+      "sourceBindingSha256": "c80ddbf123132c0fa1834b369057a2d3dce8f3c5b945af31c59fae05131784fa",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00261/Sheet1/000006",
+      "sourceBindingSha256": "9b507ebaa9eb80ebb45fc5790ede26bfa1fdb80ff5ce2a768b55138b983d623a",
+      "sourceTextSha256": "f1da7de044619cab9048dc56daf3d3ec1c5935eef11f6dc9bef3c3bb2c5a598e",
+      "freshTranslation": "다나카 마사히코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00261/Sheet1/000007",
+      "sourceBindingSha256": "314d17897431e6799411a3070f5d2fd41c2b55a3c389481327f3a2cec60c8569",
+      "sourceTextSha256": "5c6964912afa5ac5ba0cbd0f2678b11f5dc4780be6892f2f62ecbe8de1eeb3c6",
+      "freshTranslation": "실명, 국적 불상의 국제적인 테러리스트. ㊥ 그 백도 불명하지만, 치토리 카나메의 납치를 제일의 목적으로 하고 있다. ㊥ 냉혹하고 잔혹한 성격이며 폭력을 즐긴다. 한편 계산 높고 항상 냉정하게 상황을 ㊥ 판단하는 유능한 병사이기도 하다. ㊥AS의 조종에도 뛰어나 람다 드라이버 탑재의 AS도 잘 다룬다. ㊥종개를 게릴라 시대의 이름 '카심'이라고 부르며 칼리닌과 함께 인연이 있다. ㊥ 또한 이마에서 오른쪽 뺨에 큰 상처가 있지만, 이것은 게릴라 시대의 종개에 붙여진 ㊥의 것이다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00261/Sheet1/000008",
+      "sourceBindingSha256": "d63f6d93232adae6c65e55668474b84af3ea35b3eadf8f9ada01b0826ba77760",
+      "sourceTextSha256": "1918ac88a66c282cdc64ea033231412ba3b031571c70a003105815d5a864fd4b",
+      "freshTranslation": "실명, 국적 불상의 국제적인 테러리스트. ㊥비밀조직 아말감에 고용되고 있어, 치도리 카나메의 납치를 제1의 목적으로 하고, 진대고㊥교의 학생이 타는 제트기를 납치했다. ㊥ 냉혹하고 잔혹한 성격이며 폭력을 즐긴다. 한편 계산 높고 항상 냉정하게 상황을 ㊥ 판단하는 유능한 병사이기도 하다. ㊥AS의 조종에도 뛰어나 람다 드라이버 탑재의 AS도 잘 다룬다. ㊥ 소스케를 게릴라 시대의 이름 '카심'이라고 부르며 칼리닌과 함께 인연이 있다. ㊥ 또한 이마에서 오른쪽 뺨에 큰 상처가 있지만, 이것은 게릴라 시대의 종개에 붙여진 ㊥의 것이다. ㊥ 납치 사건 후에도 미스릴과 종스케 앞에 서서, 특히 소스케는 그 생㊥ 방법까지도 부정하고 정신적으로도 큰 데미지를",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00261/Sheet1/000009",
+      "sourceBindingSha256": "8e0bb9524a2c3f02b5c826cb83c968dce7b8b88a86213f254da1dceb756ab92a",
+      "sourceTextSha256": "9ebd44ec891c6de33868963983f3eaa3b1f55ed96875531e04300d4c9d49ca70",
+      "freshTranslation": "네. 그러나 투아하 데 ㊥ 다낭을 잭 한 후 전투에서 큰 피해를 입었고, 마지막은 망설이는 소스케를 ㊥ 빈사 상태의 침대 위에서 도발하고 그를 길을 데려가려고 자폭했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

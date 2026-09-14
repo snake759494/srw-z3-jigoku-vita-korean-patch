@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00002",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00002/Sheet1/000002",
+      "sourceBindingSha256": "a73a5ef3e9aa293965403b9a2fa11693acfec4c4967491921e4d9056fe806701",
+      "sourceTextSha256": "c84339787c8267d267236646853b07ff76733aeef81b5b16031f756661329385",
+      "freshTranslation": "아츠이 철남",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00002/Sheet1/000003",
+      "sourceBindingSha256": "8701dd9233094edceaa54ce2a6577137c559f0c6f182f06471ff239ff22f12f3",
+      "sourceTextSha256": "20bf01ad41f81658c24587e3c1b3801f1d6a91f53582f842b40e66bd535c95d2",
+      "freshTranslation": "아츠이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00002/Sheet1/000004",
+      "sourceBindingSha256": "1982b3a360d6aa9a62e46f2d0b15c62a1196516692c23698047368c1007d4ad9",
+      "sourceTextSha256": "77c406ff1c1b9634902fdd15ec771c2a07e20db9f0a6b53196dbf872ebd5aa4c",
+      "freshTranslation": "무적 로보 트라이더 G7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00002/Sheet1/000005",
+      "sourceBindingSha256": "9da1cb2c4a73a38e0f0b3a6dc335890b46cb887a3bd00750f58fac96dee2e16c",
+      "sourceTextSha256": "af227d834c6d81ae05c7bf7eec3acb77ca59fb12c63e64a5cf2ab810e56f918e",
+      "freshTranslation": "후지모토 양",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00002/Sheet1/000006",
+      "sourceBindingSha256": "a9fbeca07ba7eee7924b8949da608ae47bf2d56154a12646625f3316ad2dca13",
+      "sourceTextSha256": "cc538f30e91fb5ccf103e8b12e6d8e1d05c0f97ba05cfb76d0703b3e8b8fff04",
+      "freshTranslation": "다케오 제너럴 컴퍼니의 상무로 하여 기술 담당. 50세. ㊥ 트라이더의 구조를 숙지하고 있어 평상시의 정비로부터 긴급시에 있어서의 고장 개소의 응급 ㊥ 수리까지 해내는 민완 메카닉맨. ㊥ 완고한 철저하고 융통성없는 직업 인기 품질",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00002/Sheet1/000007",
+      "sourceBindingSha256": "5ea0d776f1b3651a4df064ba9fed44c1f45a0e5979b9e357e6b1ef3ac140b4e3",
+      "sourceTextSha256": "24408d53b7391ea45dc44a2363f3ef2e7b4514ea0f20db1e5ed5c1a8e6da569f",
+      "freshTranslation": "흥미로운 인간이지만, 최연장자이지만 약간 폭주㊥경향이 있는 전무의 억제역이 되는 일도 많다. 또, 계장이나 와타들 젊은층의 정리역과㊥그럼에도 불구하고, 사내에서는 한심이 지나간 그의 존재는 중요하다.㊥예기치 않게 구달 된 부분도 있습니다.㊥그리고 때로는 인정에 호소하고 때로는 꾸짖는다.㊥움직이는 장면도 많이 보였다.㊥전무와는 달리 아이보에게는 축복받지 못하고, 고아였던 류스케를 입양으로 끌고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00002/Sheet1/000008",
+      "sourceBindingSha256": "7f8c2457f42edd29ddb3167bc9c347c2401e7d2bf050b51020cc1a13aeabf428",
+      "sourceTextSha256": "cc538f30e91fb5ccf103e8b12e6d8e1d05c0f97ba05cfb76d0703b3e8b8fff04",
+      "freshTranslation": "다케오 제너럴 컴퍼니의 상무로 하여 기술 담당. 50세. ㊥ 트라이더의 구조를 숙지하고 있어 평상시의 정비로부터 긴급시에 있어서의 고장 개소의 응급 ㊥ 수리까지 해내는 민완 메카닉맨. ㊥ 완고한 철저하고 융통성없는 직업 인기 품질",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00002/Sheet1/000009",
+      "sourceBindingSha256": "eba730b7c89c11e1e81f8753fa70e88be5f6b4dfcb813240f68abd911843f945",
+      "sourceTextSha256": "24408d53b7391ea45dc44a2363f3ef2e7b4514ea0f20db1e5ed5c1a8e6da569f",
+      "freshTranslation": "흥미로운 인간이지만, 최연장자이지만 약간 폭주㊥경향이 있는 전무의 억제역이 되는 일도 많다. 또, 계장이나 와타들 젊은층의 정리역과㊥그럼에도 불구하고, 사내에서는 한심이 지나간 그의 존재는 중요하다.㊥예기치 않게 구달 된 부분도 있습니다.㊥그리고 때로는 인정에 호소하고 때로는 꾸짖는다.㊥움직이는 장면도 많이 보였다.㊥전무와는 달리 아이보에게는 축복받지 못하고, 고아였던 류스케를 입양으로 끌고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

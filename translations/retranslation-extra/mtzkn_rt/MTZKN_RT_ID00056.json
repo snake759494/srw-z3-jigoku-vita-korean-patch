@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00056",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00056/Sheet1/000002",
+      "sourceBindingSha256": "f7de0a14a818c13a4bcd41dfb429e288d6bfaef4dac476fbd8bf80eec0f709a6",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00056/Sheet1/000003",
+      "sourceBindingSha256": "c6f23255ae8dd2355c66b7eeb450f07161347ada6b35460008691ec894f203d5",
+      "sourceTextSha256": "c6eb3f2f55e3e17ec3a1203d0455dadcfc47bccaec09b2601b253bb5e5e4c84b",
+      "freshTranslation": "건담 데스 사이즈 헬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00056/Sheet1/000004",
+      "sourceBindingSha256": "9070d069ab6b4f15cdb054c4c9036cc8d1e41dd72ba63505e0345127c220ff3f",
+      "sourceTextSha256": "c6eb3f2f55e3e17ec3a1203d0455dadcfc47bccaec09b2601b253bb5e5e4c84b",
+      "freshTranslation": "건담 데스 사이즈 헬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00056/Sheet1/000005",
+      "sourceBindingSha256": "9ebcfcd3755c2a3823c655b0d79ca15aa1492215597d3cca0dfae03f4a98407e",
+      "sourceTextSha256": "ee183c264ab6de87923ddaa38bda1de15c15f4197b84584af178003105c1dc6a",
+      "freshTranslation": "듀오 맥스웰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00056/Sheet1/000006",
+      "sourceBindingSha256": "f4460a921ca437c6507a53c6bdba0aaff921f8c3d3e6327ef7e5223a2565180d",
+      "sourceTextSha256": "12324a8c4cb11518a5db34d006d03fcccfdbf3f0a41efd6158143e0cad3bf9dc",
+      "freshTranslation": "듀오가 탑승하는 건담. ㊥ 배후에 탑재된 쉴드와 기체 제어를 겸하는 액티브 클로크를 펼쳐 휴대 ㊥ 무장의 빔 가위를 든 모습은 '사신'을 이미지시킨다. ㊥ 적기의 센서를 일시적으로 무효화하는 하이퍼 재머에 의해 높은 스텔스 성능 ㊥ 을 가지고, 적기를 사각으로부터 공격하는 전법을 자랑한다. ㊥ 정면에서의 전투에서도, 빔 시저스를 이용해 높은 격투전 능력을 자랑한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00056/Sheet1/000007",
+      "sourceBindingSha256": "e3092f37e3ba092cf7bf100d00a1b61abc294d0aa922a274c2382bd9bb148057",
+      "sourceTextSha256": "f93d8314c5453c13a28880553d799cca53966e64cb633a5bf60231d7438f7ea3",
+      "freshTranslation": "듀오가 탑승하는 건담. ㊥ 배후에 탑재된 쉴드와 기체 제어를 겸하는 액티브 클로크를 펼쳐 휴대 ㊥ 무장의 빔 가위를 든 모습은 '사신'을 이미지시킨다. ㊥ 적기의 센서를 일시적으로 무효화하는 하이퍼 재머에 의해 높은 스텔스 성능 ㊥ 을 가지고, 적기를 사각으로부터 공격하는 전법을 자랑한다. ㊥ 정면에서의 전투에서도, 빔 시저스를 이용해 높은 격투전 능력을 자랑한다. ㊥ 마리 메이어 군의 반란 진압 후 평화로운 시대에 무기는 필요하지 않기로 듀오 자신의 손 ㊥에서 폐기되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

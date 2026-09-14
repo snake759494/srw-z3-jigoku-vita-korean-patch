@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00004",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00004/Sheet1/000002",
+      "sourceBindingSha256": "16ed60ae9b3916b41ddeca52526f3dea4dfb702ab0a826bae5ec24380db539f8",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00004/Sheet1/000003",
+      "sourceBindingSha256": "d9d13d0bd335d3383d8e8479ca887496dc964007ef4f8380c170755a7549e46d",
+      "sourceTextSha256": "8d8f0aaf60547bd4e28552f05f883f7b26c04d3bf34135c1a1950a11e68d650c",
+      "freshTranslation": "브랜치 로보 2호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00004/Sheet1/000004",
+      "sourceBindingSha256": "a00e8c4900a07d464195703aa3ce646d017004e4fe05d761de3d9de73df946ab",
+      "sourceTextSha256": "8d8f0aaf60547bd4e28552f05f883f7b26c04d3bf34135c1a1950a11e68d650c",
+      "freshTranslation": "브랜치 로보 2호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00004/Sheet1/000005",
+      "sourceBindingSha256": "11c6fa5faf56f94fed0a376b3cf061931419742f2b8e5ae87adcdc0e15c9978e",
+      "sourceTextSha256": "e857f0ad81774483775a7d53c0ed0dd8d8fce71f946c4896d69cd3aaec206e86",
+      "freshTranslation": "제2화 『빼앗긴 철인! 』에 등장한 로봇. ㊥ 브랜치가 이끄는 로봇 마피아가 개발한 2기째 로봇으로 해저 아지트로 ㊥ 건조되었다. ㊥ 브랜치의 함정에 빠져 V콘을 빼앗긴 쇼타로와 마찬가지로 굳어진 몸이 되고 있던 ㊥ 오츠카가 반대로 이 기체를 빼앗아 도주하고 있다. ㊥ 오오츠카가 조종해, 브랜치 조종하는 철인 28호와 대결했지만, 손도 발도 없었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00004/Sheet1/000006",
+      "sourceBindingSha256": "885362d80560117a045e48ce5632f935c7be5ee034082eadfde96a7247450f20",
+      "sourceTextSha256": "b391c01087142f2471ded54722f883445ef5545544e94595b6cbcfcd18bc03d4",
+      "freshTranslation": "제2화 『빼앗긴 철인! 』에 등장한 로봇. ㊥ 브랜치가 이끄는 로봇 마피아가 개발한 2기째 로봇으로 해저 아지트로 ㊥ 건조되었다. ㊥ 브랜치의 함정에 빠져 V콘을 빼앗긴 쇼타로와 마찬가지로 굳어진 몸이 되고 있던 ㊥ 오츠카가 반대로 이 기체를 빼앗아 도주하고 있다. ㊥ 오오츠카가 조종해, 브랜치 조종하는 철인 28호와 대결했지만, 손도 발도 없었다. 하지만 ㊥ 마사타로가 브런치를 몰아넣은 것으로 싸움은 중단. 파괴되지 않고 활동을 중지했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00114",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00114/Sheet1/000002",
+      "sourceBindingSha256": "0aca8d251c50c13ffe6b53b00c482521e707cbe17e450826b4236849a7529084",
+      "sourceTextSha256": "da251850684e1c24d483ac378a692b065ee86ad597cc398014fbc2e533a9243f",
+      "freshTranslation": "이안 바스티",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00114/Sheet1/000003",
+      "sourceBindingSha256": "c126f438e18edfab86121f136ad270ed91b361e61dd788b2f5babc72f26f3be2",
+      "sourceTextSha256": "0008f4789917104e4e907c0778b85e02f9b23a2aabca72e4f84663f79a9f6b7d",
+      "freshTranslation": "이안",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00114/Sheet1/000004",
+      "sourceBindingSha256": "7a58632e71c34538b14478662ee0ac316921bcee5c43450c26bd51b40bc41b60",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00114/Sheet1/000005",
+      "sourceBindingSha256": "7e361079a29b163b7855f7e44572a3424f55928ebd68510f3e6e2e83a8ddfd79",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00114/Sheet1/000006",
+      "sourceBindingSha256": "c4feae311a0675349e60192a6c75daf46c65067f1457316acecae84d84607105",
+      "sourceTextSha256": "facbeeff08bfba8d3eede6aa8140743ace26d4c59c9f385566414e978c605dc4",
+      "freshTranslation": "루비잉의 정비공. 59세. ㊥ 서비스뿐만 아니라 새로운",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00114/Sheet1/000007",
+      "sourceBindingSha256": "f4215a4f360aa8e2297b3183ffd932f3227a3b3b174818d9e6edf8dee0500f0c",
+      "sourceTextSha256": "2644f396ad67da61ef60c615ca842af1df47f146277aeed9a080c13d94960f72",
+      "freshTranslation": "건담의 개발도 실시한다. 승무원 중에서는 최연장으로, 라크㊥세로부터는 「아버지」라고 불리는 등, 주위로부터의 신뢰는 두껍다. ㊥ 현재도 건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00114/Sheet1/000008",
+      "sourceBindingSha256": "167c34826767e0963ddd08c6f02bafcdd706e69ad8e983b519d428ff6584c941",
+      "sourceTextSha256": "dff23202349b4b83ce177d63369461d30431963dd22be837d6f4632e81a105fb",
+      "freshTranslation": "입 개발을 진행하고 있으며, 알로우즈와의 싸움 속에서 피드바㊥가 된 데이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00114/Sheet1/000009",
+      "sourceBindingSha256": "58547a19ac9dc380a9506cf092064550a2b1b08dda215231774d15e4e1a44aa1",
+      "sourceTextSha256": "e3e025c24461357dfcdf3c0a528d1a7fe5cced8fdc112f865fc64c860069e014",
+      "freshTranslation": "를 사용하여 5세대 건담을 개발하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00114/Sheet1/000010",
+      "sourceBindingSha256": "6e8d8b3768de807dca89c263d7acd8558733f1ce2033b6e8444a99ca373b0b5b",
+      "sourceTextSha256": "57e009ad1bb123dd352cc5f47f62b2f9e4db494488592aafae216bc3837dacab",
+      "freshTranslation": "솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00114/Sheet1/000011",
+      "sourceBindingSha256": "b88bfa9cbc397224a2c7b923c45d4b1f901be89a901031fcf4bdb507dbf1bafd",
+      "sourceTextSha256": "facbeeff08bfba8d3eede6aa8140743ace26d4c59c9f385566414e978c605dc4",
+      "freshTranslation": "루비잉의 정비공. 59세. ㊥ 서비스뿐만 아니라 새로운",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00114/Sheet1/000012",
+      "sourceBindingSha256": "107225021a0444ca46d4ce44ef2e31ccbb21162f22500a38461e90a34f36cabf",
+      "sourceTextSha256": "2644f396ad67da61ef60c615ca842af1df47f146277aeed9a080c13d94960f72",
+      "freshTranslation": "건담의 개발도 실시한다. 승무원 중에서는 최연장으로, 라크㊥세로부터는 「아버지」라고 불리는 등, 주위로부터의 신뢰는 두껍다. ㊥ 현재도 건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00114/Sheet1/000013",
+      "sourceBindingSha256": "1fef4a6460a4885cd2192c17c0d367aef0a72d59c5fb0e401475fec5bc3ebe52",
+      "sourceTextSha256": "dff23202349b4b83ce177d63369461d30431963dd22be837d6f4632e81a105fb",
+      "freshTranslation": "입 개발을 진행하고 있으며, 알로우즈와의 싸움 속에서 피드바㊥가 된 데이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00114/Sheet1/000014",
+      "sourceBindingSha256": "6062c341b2607f448165c6e16a52cac53f6af801dfe5a3013a0e7d6328acab17",
+      "sourceTextSha256": "e3e025c24461357dfcdf3c0a528d1a7fe5cced8fdc112f865fc64c860069e014",
+      "freshTranslation": "를 사용하여 5세대 건담을 개발하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

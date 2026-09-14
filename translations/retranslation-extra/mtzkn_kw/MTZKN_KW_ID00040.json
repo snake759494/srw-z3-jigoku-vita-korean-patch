@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00040",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00040/Sheet1/000002",
+      "sourceBindingSha256": "f34e1cb2278870c1b134b49cdd23efa15b4abbfca0b4390fde2d477111703abc",
+      "sourceTextSha256": "0206357122f4ad26b3dbbec9cca0473a7a3d53c32a0c432e0be6a253b12fba7a",
+      "freshTranslation": "영화 '솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00040/Sheet1/000003",
+      "sourceBindingSha256": "cfac285e6ab32fdb0fe0e352d0c33742201f2d4b3ed8ff477eb08842b1852964",
+      "sourceTextSha256": "baf339a3b2bde4edc3aafc5673dbb4aecd41c0642c8944ff75ba3c8b01632c8d",
+      "freshTranslation": "루비잉」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00040/Sheet1/000004",
+      "sourceBindingSha256": "4e82cb67451b7808c58efed6a9aa461a6bf3281dcaa2141622bd60d94dd23267",
+      "sourceTextSha256": "7669c78573db7851e69684ca226465fd07fe9556c10d361219f1dde2c7e809ab",
+      "freshTranslation": "「극장판 기동전사 건담 00-AwakeningofftheTrailblazer-」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00040/Sheet1/000005",
+      "sourceBindingSha256": "0e0203005772d89556c4e59245947463771dee8bc287dce17fd7f4734a0245c1",
+      "sourceTextSha256": "200b181572a9e254590f7b34335105413a057a0c1d52590312453e00cf61ae55",
+      "freshTranslation": "어로우즈 파괴 후 만들어진 액션 영화. ㊥ 선전적인 요소를 아마 포함하고 지구 연방의 과거의 추문을 알로우즈와 그 ㊥의 그늘에 있던 인물에게 짊어지고 그것을 타도하는 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00040/Sheet1/000006",
+      "sourceBindingSha256": "5fd0a1289f7e4de96a4aa219f8bf2d091d237af42dc894f733d3cc5f07ca246f",
+      "sourceTextSha256": "c16ea0b48020430313060d638f5019765f99c761b6875881c989b07511b00a72",
+      "freshTranslation": "루비잉이라는 도식㊥으로 구성되어 있다. 또한, 알로우즈의 흑막에는, 이노베이드, 리본즈·알㊥마크에 행동을 컨트롤 되고 있던, 옛 유엔 대사, 알레한드로·㊥코너가 놓여져 있다. ㊥ 리얼리티 추구보다 히로익한 이미지가 강조되어 등장하는 솔레스 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00040/Sheet1/000007",
+      "sourceBindingSha256": "bd6c75101edb211f61e40b8fedfe2ad6b235adde1bb7f34ec626a8248ed1ce4a",
+      "sourceTextSha256": "db12278e584a8945123382951dc7cae38ba7cb9d8aecce84f2d4ca37028ee2d2",
+      "freshTranslation": "루비잉의 멤버도 사실과는 다른 캐릭터",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00040/Sheet1/000008",
+      "sourceBindingSha256": "4c0e9046c9488ed362fcf4599a15548a8f6b7cbe58969f06792d6e2f7536a543",
+      "sourceTextSha256": "4e418865bc5e7aaa519079149d1c10f92a6ae0a4c804f310a7be6e264a98b17f",
+      "freshTranslation": "-가 붙어있다. ㊥ 당사자들에게 있어서, 그 과잉의 연출이나 미화는 쓴웃음이 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00040/Sheet1/000009",
+      "sourceBindingSha256": "d87244bae5fc5aeb766b1145cbe37a9b8e1638d7c5393154ed38e2318e9bc564",
+      "sourceTextSha256": "200b181572a9e254590f7b34335105413a057a0c1d52590312453e00cf61ae55",
+      "freshTranslation": "어로우즈 파괴 후 만들어진 액션 영화. ㊥ 선전적인 요소를 아마 포함하고 지구 연방의 과거의 추문을 알로우즈와 그 ㊥의 그늘에 있던 인물에게 짊어지고 그것을 타도하는 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00040/Sheet1/000010",
+      "sourceBindingSha256": "0d8350ba7c95dfb9462bceb6b3d31dcac9aa0aab9a1403699acecf7bb0a43013",
+      "sourceTextSha256": "c16ea0b48020430313060d638f5019765f99c761b6875881c989b07511b00a72",
+      "freshTranslation": "루비잉이라는 도식㊥으로 구성되어 있다. 또한, 알로우즈의 흑막에는, 이노베이드, 리본즈·알㊥마크에 행동을 컨트롤 되고 있던, 옛 유엔 대사, 알레한드로·㊥코너가 놓여져 있다. ㊥ 리얼리티 추구보다 히로익한 이미지가 강조되어 등장하는 솔레스 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00040/Sheet1/000011",
+      "sourceBindingSha256": "1f4c2b6fddbbd301043bb87607165e9c4a193224773c193c514a650c5ad73834",
+      "sourceTextSha256": "db12278e584a8945123382951dc7cae38ba7cb9d8aecce84f2d4ca37028ee2d2",
+      "freshTranslation": "루비잉의 멤버도 사실과는 다른 캐릭터",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00040/Sheet1/000012",
+      "sourceBindingSha256": "d8545ef92ad3f591fc7d46a0175512dadc089a0d3de2ae8670bfbc027d8d6e01",
+      "sourceTextSha256": "4e418865bc5e7aaa519079149d1c10f92a6ae0a4c804f310a7be6e264a98b17f",
+      "freshTranslation": "-가 붙어있다. ㊥ 당사자들에게 있어서, 그 과잉의 연출이나 미화는 쓴웃음이 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

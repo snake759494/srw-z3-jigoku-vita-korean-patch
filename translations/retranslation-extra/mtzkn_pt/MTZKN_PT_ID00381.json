@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00381",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00381/Sheet1/000002",
+      "sourceBindingSha256": "ef87dac849a4f4bb6db6631dc591865bdf201a080b2c7d59e8452d8529faa9eb",
+      "sourceTextSha256": "03390fff662c6ac8f8d7d3380408472e713022d25c6ad22a3556bae6a1d5fe6c",
+      "freshTranslation": "슈슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00381/Sheet1/000003",
+      "sourceBindingSha256": "b8fd0833ac95dabbfdf9ba3f6690b28e5d25a593dcd7185bf39baee4a4e4f844",
+      "sourceTextSha256": "03390fff662c6ac8f8d7d3380408472e713022d25c6ad22a3556bae6a1d5fe6c",
+      "freshTranslation": "슈슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00381/Sheet1/000004",
+      "sourceBindingSha256": "ad77df1198cd1ca304c9f65eb4c77637af906ca74a1e85b9e243d3ceb892a525",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00381/Sheet1/000005",
+      "sourceBindingSha256": "d633490f5655344f22c800618104b8aa4bea20d6dd4c94db60eff8b7e2e83c3c",
+      "sourceTextSha256": "a2c3cf6685c3f9398bdeb5b67750891ce1ebc3382be2f31605245e6a9495a73e",
+      "freshTranslation": "미코노와 함께 수수께끼의 생물. ㊥ 미코노는 \"고양이\"라고 말하지만, 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00381/Sheet1/000006",
+      "sourceBindingSha256": "f0f30afe1bc53378fadcdaccae2323bd0f36255957a503e0d3d458a36def01eb",
+      "sourceTextSha256": "33020ab9e1bce8a2b9c337a53a2f35758f0c9fdcdd13c6b970c88c783811f875",
+      "freshTranslation": "에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00381/Sheet1/000007",
+      "sourceBindingSha256": "6cc9e4afb840b23b6255a8896100b08309e291675ada9f9adcc3372e1614279d",
+      "sourceTextSha256": "c6626a7b3b0fe0876e542013d5a42373c835e6cb84454f6fc592d03897c3c35e",
+      "freshTranslation": "질문을 받고 있다. ㊥ 평소에는 리본과 같은 형태로 미코노의 머리카락 속이나 어깨에 있지만, 미코노의 감정에 맞게 ㊥ 시켜 다양한 반응을 한다. ㊥ 야키 모치 구이 곳이 있고, 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00381/Sheet1/000008",
+      "sourceBindingSha256": "72a3d04998321c48194ecd908f65763da9f71eaae187fee85da5ba9637292d43",
+      "sourceTextSha256": "de658cce86d6e4f5234841caf2c6c2e7ec8a31d5f6468cfe0e794e14d586ae65",
+      "freshTranslation": "야유노하 등 미코노가 특히 친한 인간에게는 위협㊥하거나 씹기도 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00381/Sheet1/000009",
+      "sourceBindingSha256": "df34c00300466d975bd34d465a439893fa28d3a94ee04db17de61f8736f22bd5",
+      "sourceTextSha256": "a2c3cf6685c3f9398bdeb5b67750891ce1ebc3382be2f31605245e6a9495a73e",
+      "freshTranslation": "미코노와 함께 수수께끼의 생물. ㊥ 미코노는 \"고양이\"라고 말하지만, 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00381/Sheet1/000010",
+      "sourceBindingSha256": "929dace5efd400defba0f0e0979fbf5df75c778506dcc844ea5afbc25b852f0d",
+      "sourceTextSha256": "33020ab9e1bce8a2b9c337a53a2f35758f0c9fdcdd13c6b970c88c783811f875",
+      "freshTranslation": "에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00381/Sheet1/000011",
+      "sourceBindingSha256": "f495f75ee3cf25b26b72059780bfcaffa87dc1ef4f84f3b2001809268e18fc1e",
+      "sourceTextSha256": "c6626a7b3b0fe0876e542013d5a42373c835e6cb84454f6fc592d03897c3c35e",
+      "freshTranslation": "질문을 받고 있다. ㊥ 평소에는 리본과 같은 형태로 미코노의 머리카락 속이나 어깨에 있지만, 미코노의 감정에 맞게 ㊥ 시켜 다양한 반응을 한다. ㊥ 야키 모치 구이 곳이 있고, 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00381/Sheet1/000012",
+      "sourceBindingSha256": "32002ea13853f3091264738f36286a4f2740c0355b2642a4c43b107a47b23d6f",
+      "sourceTextSha256": "de658cce86d6e4f5234841caf2c6c2e7ec8a31d5f6468cfe0e794e14d586ae65",
+      "freshTranslation": "야유노하 등 미코노가 특히 친한 인간에게는 위협㊥하거나 씹기도 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

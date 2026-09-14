@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00207",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00207/Sheet1/000002",
+      "sourceBindingSha256": "c1340859f329bac2a4330817ac3ac685510fc03dbca68e1d3b2d76ab7885e740",
+      "sourceTextSha256": "89b73a7d455d9fd1fe97f1c3f3c07f9fa8ff49f778c7c58b2c6bca76ff395f6a",
+      "freshTranslation": "십자가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00207/Sheet1/000003",
+      "sourceBindingSha256": "420c9171969c465a554dbe6592f7fcc09e07a2f33bbdff5df8c5d3728f26acec",
+      "sourceTextSha256": "89b73a7d455d9fd1fe97f1c3f3c07f9fa8ff49f778c7c58b2c6bca76ff395f6a",
+      "freshTranslation": "십자가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00207/Sheet1/000004",
+      "sourceBindingSha256": "e3ef8a1f7ffcc54c3c60437820e24f5675cc06017acdb198cdbd9278710cc468",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00207/Sheet1/000005",
+      "sourceBindingSha256": "775d949168a7e8140bda327ed68cca20971a5d6a78d64989541c281bbcf0e22e",
+      "sourceTextSha256": "a84ddf0434e0fdc0140c5fd90c5e321b735ad831edc117090a9667cae5c6e906",
+      "freshTranslation": "구로가네 가게의 번두로 해, 구로가네 다섯 인중의 한 명. ㊥ 5인중의 정리역이기도 하고, 여장인 츠바사로부터의 신뢰도 두껍다. ㊥ 초합금 Z의 머리와 팔을 가진 사이보그로, 기계 짐승에도 필적하는 괴력을 자랑한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00207/Sheet1/000006",
+      "sourceBindingSha256": "d557d76d922d5fae542d478c91d4b40f237cf52978421166d836f8b851b9bbed",
+      "sourceTextSha256": "a84ddf0434e0fdc0140c5fd90c5e321b735ad831edc117090a9667cae5c6e906",
+      "freshTranslation": "구로가네 가게의 번두로 해, 구로가네 다섯 인중의 한 명. ㊥ 5인중의 정리역이기도 하고, 여장인 츠바사로부터의 신뢰도 두껍다. ㊥ 초합금 Z의 머리와 팔을 가진 사이보그로, 기계 짐승에도 필적하는 괴력을 자랑한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

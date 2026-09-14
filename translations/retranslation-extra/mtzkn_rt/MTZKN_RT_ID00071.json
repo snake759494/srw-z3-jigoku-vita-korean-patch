@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00071",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00071/Sheet1/000002",
+      "sourceBindingSha256": "4a7607cdb0d73ee82867b85bba47bbd93d5a37dccd991e3f469810c0aa98a7b5",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00071/Sheet1/000003",
+      "sourceBindingSha256": "6c60347c0857e2c08acecfa36cc5d4a37600e7812dc8de1eb90c262c03de65fd",
+      "sourceTextSha256": "284f396cf9f8be64980c4870c34ce77a8748b6ca823cf306676ea38e50dbbe9f",
+      "freshTranslation": "건담 하루트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00071/Sheet1/000004",
+      "sourceBindingSha256": "09fd7a341d9c7c63b36c294a522217a17f1d4ac88e5e1141910519aae8f2d5d3",
+      "sourceTextSha256": "284f396cf9f8be64980c4870c34ce77a8748b6ca823cf306676ea38e50dbbe9f",
+      "freshTranslation": "건담 하루트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00071/Sheet1/000005",
+      "sourceBindingSha256": "68ed8732f67d6469168ab20061a2c77c52292797ac63fda9b5e1063784b982ec",
+      "sourceTextSha256": "dee864610f0c0948ec029e97c9e2dae56fab59de91bccb9a078c980f93b092a8",
+      "freshTranslation": "알레르야 햅티즘",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00071/Sheet1/000006",
+      "sourceBindingSha256": "b86921c7c962b5c671bab980c85750a2c2abd2208732b5eb14aefc9262dc3259",
+      "sourceTextSha256": "18c985715f6af399fbb56c2f70715eae5e1bc0c9f78a7b4dd437670ca419ead1",
+      "freshTranslation": "아리오스 건담을 발전시킨 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00071/Sheet1/000007",
+      "sourceBindingSha256": "c7f5d7aa2f4257df981982f2eb59f14739e9821a0181168480cda036f3d0ee3f",
+      "sourceTextSha256": "2d2767c73d3a2dcbbbc189c558c388b7c59c3d3aa30a07ee6017c9dbde2b148e",
+      "freshTranslation": "루비잉의 5세대 건담. ㊥ 알레르야 햅티즘과 마리 파퍼시가 탑승한다. ㊥ 알레르야 탑승 건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00071/Sheet1/000008",
+      "sourceBindingSha256": "031d452b2b6ca76c671e5bcf33557c404e5ded8fb68b4f4d299de859f9b648c0",
+      "sourceTextSha256": "b771eb0898ebc04f925238e1077a48bdd6456d5f94397163e742646f3df8d2a2",
+      "freshTranslation": "입은, 지금까지 기동성을 우선으로 개발되어 왔지만, ㊥본기는 대다수와의 전투 상황을 고려해, 중무장화에 의한 전투력의 향상을 컨셉으로 개방㊥발발되었다. ㊥ 휴대 화기로서 2 쵸의 GN 소드 라이플을 장비. 등에는 GN 캐논과 큰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00071/Sheet1/000009",
+      "sourceBindingSha256": "275ea217804b0cf6e790d891fb0c21cb2b2f16cb8e818332678cb1cf8ad6fd08",
+      "sourceTextSha256": "6e498f2beb51166a9fb1f5b397466a079835c1564b237c543b11a415cc815cbf",
+      "freshTranslation": "의 미사일 컨테이너를 표준 장비로 하는 것으로, 아리오스로부터 대폭적인 화력 향상이 도모되었다. ㊥GN 소드 라이플은 원근 양용의 무장으로, 근접 공격시에는 소드부를 전개하는 것으로, ㊥아리오스의 특징적 장비였던 GN클로로서도 사용할 수 있다. ㊥개발 초기부터 복좌",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00071/Sheet1/000010",
+      "sourceBindingSha256": "98264b7348d4f323e760ac3986f50bd87eaf4bd7d553fdf801c697dcfff28771",
+      "sourceTextSha256": "551e534c1ada55cdf30301192d154ded9a5da80884d336e15b2958324f284034",
+      "freshTranslation": "로 개발되고 있어 복잡화된 화기관제와 기체제어를 분담㊥하여 실시할 수 있게 되어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00071/Sheet1/000011",
+      "sourceBindingSha256": "d918f15901e5219a5ad3c41f3fa76187504e5995272a0472e8b29672695b70cc",
+      "sourceTextSha256": "18c985715f6af399fbb56c2f70715eae5e1bc0c9f78a7b4dd437670ca419ead1",
+      "freshTranslation": "아리오스 건담을 발전시킨 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00071/Sheet1/000012",
+      "sourceBindingSha256": "0da88bebda99ff1360f1aa80a4b3ddaf97a9f9fe8c579cda6862e9e2ee97de1f",
+      "sourceTextSha256": "2d2767c73d3a2dcbbbc189c558c388b7c59c3d3aa30a07ee6017c9dbde2b148e",
+      "freshTranslation": "루비잉의 5세대 건담. ㊥ 알레르야 햅티즘과 마리 파퍼시가 탑승한다. ㊥ 알레르야 탑승 건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00071/Sheet1/000013",
+      "sourceBindingSha256": "5260a3dcf28d212c814c7e5fa51bdcf900ea4f824dbb738a2a0d22221b1d3cb6",
+      "sourceTextSha256": "b771eb0898ebc04f925238e1077a48bdd6456d5f94397163e742646f3df8d2a2",
+      "freshTranslation": "입은, 지금까지 기동성을 우선으로 개발되어 왔지만, ㊥본기는 대다수와의 전투 상황을 고려해, 중무장화에 의한 전투력의 향상을 컨셉으로 개방㊥발발되었다. ㊥ 휴대 화기로서 2 쵸의 GN 소드 라이플을 장비. 등에는 GN 캐논과 큰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00071/Sheet1/000014",
+      "sourceBindingSha256": "a472bc3e5363b42019d3d3884d303830fab64d2070bc7f8a8db7f159f8c8697e",
+      "sourceTextSha256": "6e498f2beb51166a9fb1f5b397466a079835c1564b237c543b11a415cc815cbf",
+      "freshTranslation": "의 미사일 컨테이너를 표준 장비로 하는 것으로, 아리오스로부터 대폭적인 화력 향상이 도모되었다. ㊥GN 소드 라이플은 원근 양용의 무장으로, 근접 공격시에는 소드부를 전개하는 것으로, ㊥아리오스의 특징적 장비였던 GN클로로서도 사용할 수 있다. ㊥개발 초기부터 복좌",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00071/Sheet1/000015",
+      "sourceBindingSha256": "3a1861b96d78636edc2314caecfdfc95f92e3c580755e04f8368c0867ae2a650",
+      "sourceTextSha256": "551e534c1ada55cdf30301192d154ded9a5da80884d336e15b2958324f284034",
+      "freshTranslation": "로 개발되고 있어 복잡화된 화기관제와 기체제어를 분담㊥하여 실시할 수 있게 되어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

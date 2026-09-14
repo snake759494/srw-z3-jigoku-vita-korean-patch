@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00246",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00246/Sheet1/000002",
+      "sourceBindingSha256": "d7f05558e85f52a5f6880863b1a58aeae31073169f5da102f3beb7e54227044e",
+      "sourceTextSha256": "8c6946efd41cc977b709980c17d5de333c58db406643466ad8e6518b49a76067",
+      "freshTranslation": "슈바르츠발트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00246/Sheet1/000003",
+      "sourceBindingSha256": "0c4d3d0cb1181091cfc39ea37a4391c0885eae00313aa1713279f5d970e30897",
+      "sourceTextSha256": "c73cffcd87d583e312cc4f5c128a89db7ac62230e146db2d5e7d0893e570c6c6",
+      "freshTranslation": "슈바르츠",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00246/Sheet1/000004",
+      "sourceBindingSha256": "90875d344e3ed3c562587269b61a055ee33d228d1be4a0164f44a6645dd1de13",
+      "sourceTextSha256": "fe82c905a6215168a90a9b27d7eb05a7c47166cb9ec609a131f0bd7583092bde",
+      "freshTranslation": "THE 빅오",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00246/Sheet1/000005",
+      "sourceBindingSha256": "0f193cf5442436ce77eaf52a4261bb166159fbb8a9db529197a61c5f9bd2bb47",
+      "sourceTextSha256": "b174c5ded6fefa6e510e49a23379a0827ec835041fcc3ccb18be2c7d1b61fb85",
+      "freshTranslation": "호리 카츠유키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00246/Sheet1/000006",
+      "sourceBindingSha256": "586ed5efba79cb794a91b1f2f538f2279153a5fb3eb0ba0ce15678918163c25c",
+      "sourceTextSha256": "d0e70e4078e1c295d23d2571f2cc00d3da0067789bf16d9ceca5bdbd5e3ba902",
+      "freshTranslation": "40년 이상 전에 잃어버린 메모리의 정체를 탐구하는 메모리 디거. ㊥ 한때 마이클 제바흐라는 이름의 패러다임 프레스 신문 기자였지만 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00246/Sheet1/000007",
+      "sourceBindingSha256": "90039f3e0749ba1dc7ca3216c95d13fcede68ea44a956dba7699808102a9d8ab",
+      "sourceTextSha256": "5f00bbe9b196e8228b44b79f6e46ef0333ceccdb17df56e6cf5c404e96ac75a3",
+      "freshTranslation": "열매를 추구하는 것에 걸린 결과, 지하 회랑의 바닥에서 메가 데우스의 아키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00246/Sheet1/000008",
+      "sourceBindingSha256": "bfa15621b9d6b2d53a3fd4a4710573fb7478a1d65156bd60d8838c52b4e0f151",
+      "sourceTextSha256": "32b3cefea1146aeb5e491b6d0bc147b907f7471b75a3505316ed43ddd729dfed",
+      "freshTranslation": "입㊥을 발견한다. 하지만 그 자물쇠를 풀었기 때문에 전신 붕대에 싸인 괴기한 모습이 되어 ㊥ 버렸다. ㊥ 또한 슈바르츠발트는 독일어로 '검은 숲'을 의미한다. ㊥ 그 후 빅듀오를 발견하고 로저에 대결을 도전하는 것도 패배. 그 때 자발행동을 ㊥ 일으킨 빅듀오를 보고 경악하고, 표 무대에서 모습을 끄었다. ㊥ 마치 시를 낭독하는 것처럼 의미있는 말을 포함하면서 말하는 버릇을 가지고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00246/Sheet1/000009",
+      "sourceBindingSha256": "2345de386355095339fad660943e0415c44a975b44fbd396a56fbfdf984dd031",
+      "sourceTextSha256": "d22bd7df7a13e49b9e75aa7e8ab825346083220911cb84d1afb1af7e810f2971",
+      "freshTranslation": "실㊥을 탐구하지 않고, 단지 지금을 살아 있는 만큼의 사람에 대해서는 내려다 본 태도를 취한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00246/Sheet1/000010",
+      "sourceBindingSha256": "a8d6f07e6816cd39bb42c63e0a89479f950d105fc3ed9931d560d6e6fcc8252b",
+      "sourceTextSha256": "d0e70e4078e1c295d23d2571f2cc00d3da0067789bf16d9ceca5bdbd5e3ba902",
+      "freshTranslation": "40년 이상 전에 잃어버린 메모리의 정체를 탐구하는 메모리 디거. ㊥ 한때 마이클 제바흐라는 이름의 패러다임 프레스 신문 기자였지만 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00246/Sheet1/000011",
+      "sourceBindingSha256": "b918dadd3080f8cc2196ff7587a7b5e4cafa317a443848a6d4fbde6400638815",
+      "sourceTextSha256": "5f00bbe9b196e8228b44b79f6e46ef0333ceccdb17df56e6cf5c404e96ac75a3",
+      "freshTranslation": "열매를 추구하는 것에 걸린 결과, 지하 회랑의 바닥에서 메가 데우스의 아키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00246/Sheet1/000012",
+      "sourceBindingSha256": "bbab230c0c724f4c2b6931e0775c479d4de0b161bab1906271f007f9b143e397",
+      "sourceTextSha256": "32b3cefea1146aeb5e491b6d0bc147b907f7471b75a3505316ed43ddd729dfed",
+      "freshTranslation": "입㊥을 발견한다. 하지만 그 자물쇠를 풀었기 때문에 전신 붕대에 싸인 괴기한 모습이 되어 ㊥ 버렸다. ㊥ 또한 슈바르츠발트는 독일어로 '검은 숲'을 의미한다. ㊥ 그 후 빅듀오를 발견하고 로저에 대결을 도전하는 것도 패배. 그 때 자발행동을 ㊥ 일으킨 빅듀오를 보고 경악하고, 표 무대에서 모습을 끄었다. ㊥ 마치 시를 낭독하는 것처럼 의미있는 말을 포함하면서 말하는 버릇을 가지고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00246/Sheet1/000013",
+      "sourceBindingSha256": "bd68de7acfbeaf87b3597b026a94cf4cb99672c8d63d3556eaea704606c42442",
+      "sourceTextSha256": "9b7c5663242c2005c49f1f6fd52774b8975bc2b2251af9e1398b45d8c4511c4f",
+      "freshTranslation": "실㊥을 탐구하지 않고, 단지 지금을 살아 있는 만큼의 사람에 대해서는 내려다 본 태도를 취한다. ㊥ 후에 마이클 제바흐는 빅듀오 사건 이전에 사망했던 것이 엔㊥ 젤의 입에서 밝혀져 그 정체는 수수께끼에 싸여 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

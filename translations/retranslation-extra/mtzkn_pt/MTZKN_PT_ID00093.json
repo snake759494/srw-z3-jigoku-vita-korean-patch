@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00093",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00093/Sheet1/000002",
+      "sourceBindingSha256": "e9a40491edca908eb6e041717aba6f91bec7bc71273eeff3ed89e4d2ca4b68bc",
+      "sourceTextSha256": "990b31c78ddb6a8dad3280248106021ba68a9123e4384cfa7f9e8b8e6b35a783",
+      "freshTranslation": "아슬란 자라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00093/Sheet1/000003",
+      "sourceBindingSha256": "234439b5156bb10c59c832a703846d30256af1a4b722c14cf7b3c0e42a5c560e",
+      "sourceTextSha256": "a6ebfdc768dad3cdd064bc3691d17ad42bde6d7a671c1e6771120cec6fb63888",
+      "freshTranslation": "아슬란",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00093/Sheet1/000004",
+      "sourceBindingSha256": "17f1abdf23d2d521e1d7f54150144638cb92330d7fe0e11d5b826c79cd144b7c",
+      "sourceTextSha256": "15a2e664e80fef55f49873f69b656b86b230b630d2bdafde619513e324977069",
+      "freshTranslation": "기동전사 건담 SEEDDESTINY",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00093/Sheet1/000005",
+      "sourceBindingSha256": "0ddbda9ba0808a8e7d924c996da01cce997d2dbcabc34a8a5c0c9b4242ea5fb6",
+      "sourceTextSha256": "1ab3e820d3c615fcf51b4aa8a900f0b4302150d6f2d864b51d07185aa5587ce8",
+      "freshTranslation": "전 대전을 종결로 이끄는 요인이 된 1명으로, 플랜트에서 그 이름을 모르는 사람은 없는 ㊥정도의 영웅적 존재. 18세. ㊥ 종전 후에는 오브로 망명해, 연인인 카가리의 호위역을 맡고 있었다. 하지만, 다시 시작㊥ 끝난 전쟁 전에, 아무것도 할 수 없는 무력함을 씹고 있었다. 그런 곳을 듀란㊥달에게 초대되어 카가리에게 이별을 말하고 자프트에 복대. 특무대 FAITH의 일원이 되어 ㊥했다. ㊥ 복대시에 맡겨진 세이버 건담을 몰고 미네르바의 탑승원이 되어 싸우는 것도, ㊥가 견해의 차이로부터 가장 친한 친구인 키라와 대립해 버린다. ㊥ 처음에는 듀란달의 철학에 공감했지만 럭스의 암살",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00093/Sheet1/000006",
+      "sourceBindingSha256": "fb48825a34490989adfca2524419014b3501ba80b722d81bc9d5ec7aa56aa64b",
+      "sourceTextSha256": "aef19b67f089f50b7d5278ace86843faa5befef79c536c83ab13e4efc34bf0a0",
+      "freshTranslation": "혹과 가짜인 ㊥미아를 이용하고 있던 일, 한층 더 뜻은 같아야 하는 아크엔젤에의 공격명㊥령 등을 받고, 서서히 불신감을 모아 갔다. ㊥ 그 후, 자프트에서 탈주해, 다시 키라들과 함께 싸우게 되어, 듀란달의 제㊥창창하는 「데스티니 플랜」에 맞서 갔다. ㊥ 최종 결전 때 듀란달을 따르는 신에게 싸움을 멈추도록 설득하는 ㊥이 실패. 착란한 신이 제지에 들어간 루나마리아에 대해서도 공격하는 자세를 보였던 ㊥메, SEED를 발현시켜 격추했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00093/Sheet1/000007",
+      "sourceBindingSha256": "2b45749d2dd4a270606f241b0e43590351443305f1c6403840954b1ebb8de41a",
+      "sourceTextSha256": "1ab3e820d3c615fcf51b4aa8a900f0b4302150d6f2d864b51d07185aa5587ce8",
+      "freshTranslation": "전 대전을 종결로 이끄는 요인이 된 1명으로, 플랜트에서 그 이름을 모르는 사람은 없는 ㊥정도의 영웅적 존재. 18세. ㊥ 종전 후에는 오브로 망명해, 연인인 카가리의 호위역을 맡고 있었다. 하지만, 다시 시작㊥ 끝난 전쟁 전에, 아무것도 할 수 없는 무력함을 씹고 있었다. 그런 곳을 듀란㊥달에게 초대되어 카가리에게 이별을 말하고 자프트에 복대. 특무대 FAITH의 일원이 되어 ㊥했다. ㊥ 복대시에 맡겨진 세이버 건담을 몰고 미네르바의 탑승원이 되어 싸우는 것도, ㊥가 견해의 차이로부터 가장 친한 친구인 키라와 대립해 버린다. ㊥ 처음에는 듀란달의 철학에 공감했지만 럭스의 암살",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00093/Sheet1/000008",
+      "sourceBindingSha256": "ae1412cfef2656d2fa28278a9805db5a3c950f2550e4715260eb76548e7334f2",
+      "sourceTextSha256": "aef19b67f089f50b7d5278ace86843faa5befef79c536c83ab13e4efc34bf0a0",
+      "freshTranslation": "혹과 가짜인 ㊥미아를 이용하고 있던 일, 한층 더 뜻은 같아야 하는 아크엔젤에의 공격명㊥령 등을 받고, 서서히 불신감을 모아 갔다. ㊥ 그 후, 자프트에서 탈주해, 다시 키라들과 함께 싸우게 되어, 듀란달의 제㊥창창하는 「데스티니 플랜」에 맞서 갔다. ㊥ 최종 결전 때 듀란달을 따르는 신에게 싸움을 멈추도록 설득하는 ㊥이 실패. 착란한 신이 제지에 들어간 루나마리아에 대해서도 공격하는 자세를 보였던 ㊥메, SEED를 발현시켜 격추했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

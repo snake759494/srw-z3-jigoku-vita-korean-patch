@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00312",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00312/Sheet1/000002",
+      "sourceBindingSha256": "5a0659d19e84bbaeb76eccfe03111d6904a1f2b64c3f502d5ce7f84095053b17",
+      "sourceTextSha256": "0deae283c098978dcd6d230dbd2f6f07742f0a70c8fff39b86a9c337f2933c76",
+      "freshTranslation": "니어 테펠린",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00312/Sheet1/000003",
+      "sourceBindingSha256": "b23199973a94f82f89e91576f72bf92c73980b0b99bde7157fed17d5657349a8",
+      "sourceTextSha256": "9a979196e68c3549b7216e56e834bf45c2d28340607b9c8dddf0aedc44140955",
+      "freshTranslation": "니어",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00312/Sheet1/000004",
+      "sourceBindingSha256": "47b95ee61e90e97fb8bf6d3bfebe5538955cca5ab9ec70f3527c13237092cc6f",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00312/Sheet1/000005",
+      "sourceBindingSha256": "d33005857e14617c499d4cbe55f8f9e0b46ce1f7a07db88e80b7a345567d5f33",
+      "sourceTextSha256": "366651bbf67a7df7b1af1d81c931afadd45e6aa0064afb6e35970306841f92e5",
+      "freshTranslation": "후쿠이 유카리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00312/Sheet1/000006",
+      "sourceBindingSha256": "28205a47b0c6723c30db1ecf5311080b2dd4af913439b9895ee01946665e1ade",
+      "sourceTextSha256": "e3b1017ae4dbc116bce62e37525d233c8601db1d69ca5036a5b18f534c6e3012",
+      "freshTranslation": "나선 왕 로제놈의 첫 공주. ㊥ 나선왕과의 싸움 속에 시몬이 발견한 컨테이너에서 나타나 그대로 큰 글렌단에 ㊥ 참가했다. ㊥ 주위를 놀라게 할 정도의 세상 모르고, 성격은 매우 순수하고 내 페이스. 게다가 적장㊥의 딸이라는 입장에서 처음에는 카미나를 잃은 큰 글렌단의 면면에는 희미하게 ㊥되어 있었다. 하지만 그 가련함과 의사의 힘에서 모두의 마음을 열어 아이돌적인 존재와 ㊥가 된다. 특히 시몬의 성장에는 큰 영향을 미쳤다. ㊥ 테펠린 내부에서 행해진 결전 때에는 라간에 동승하여 시몬과 함께 싸운다. 아버지㊥ 로제놈의 패배를 지켜보자 내일로 향하는 결의를 말했다. ㊥ 요리의 팔은 로시우의 외상이 될 정도로 독창적. 시몬 (및 부",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00312/Sheet1/000007",
+      "sourceBindingSha256": "ac2cf6e6ea64baf5e67e75132dda81c7378a8584d1e3dee10ecd60ca5717834c",
+      "sourceTextSha256": "9c89673ea64028e24f1188131b78bb6cd870634094ba2750bff128e3b3a42167",
+      "freshTranslation": ")의 혀에만 ㊥ 맛있는 것으로 느껴지는 것 같고, 그것은 현재도 변하지 않았다. ㊥ 이윽고 시몬의 프로포즈를 받지만, 한번은 천연만을 발휘해 거절하고 있다. ㊥, 그 의미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00312/Sheet1/000008",
+      "sourceBindingSha256": "ff18bbc46d750dd6383b43d7eff480594cf1a1353f1b88867de4d4ca4fcbd5f7",
+      "sourceTextSha256": "a8bd4ac092913f42905c607bce76b76edcc62d519c4ee6ab2e5b54a7db9a018e",
+      "freshTranslation": "검에 다시 생각한 결과, 승낙. 맑고 묶일까 생각된 순간, 그 ㊥의 몸에 머무른 안티 스파이럴 인자가 각성해, 메신저가 되어 버렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00312/Sheet1/000009",
+      "sourceBindingSha256": "a5f6e5de86ae0ca50527baf553a4fb72b3a76138f9591b246dfa59569293f506",
+      "sourceTextSha256": "e3b1017ae4dbc116bce62e37525d233c8601db1d69ca5036a5b18f534c6e3012",
+      "freshTranslation": "나선 왕 로제놈의 첫 공주. ㊥ 나선왕과의 싸움 속에 시몬이 발견한 컨테이너에서 나타나 그대로 큰 글렌단에 ㊥ 참가했다. ㊥ 주위를 놀라게 할 정도의 세상 모르고, 성격은 매우 순수하고 내 페이스. 게다가 적장㊥의 딸이라는 입장에서 처음에는 카미나를 잃은 큰 글렌단의 면면에는 희미하게 ㊥되어 있었다. 하지만 그 가련함과 의사의 힘에서 모두의 마음을 열어 아이돌적인 존재와 ㊥가 된다. 특히 시몬의 성장에는 큰 영향을 미쳤다. ㊥ 테펠린 내부에서 행해진 결전 때에는 라간에 동승하여 시몬과 함께 싸운다. 아버지㊥ 로제놈의 패배를 지켜보자 내일로 향하는 결의를 말했다. ㊥ 요리의 팔은 로시우의 외상이 될 정도로 독창적. 시몬 (및 부",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00312/Sheet1/000010",
+      "sourceBindingSha256": "70d6818323d21009a03da3be4670260dfa7e13c2e2e6af383b5a7862bb5cd015",
+      "sourceTextSha256": "9c89673ea64028e24f1188131b78bb6cd870634094ba2750bff128e3b3a42167",
+      "freshTranslation": ")의 혀에만 ㊥ 맛있는 것으로 느껴지는 것 같고, 그것은 현재도 변하지 않았다. ㊥ 이윽고 시몬의 프로포즈를 받지만, 한번은 천연만을 발휘해 거절하고 있다. ㊥, 그 의미",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00312/Sheet1/000011",
+      "sourceBindingSha256": "84b535177f4d7e48993ce30fce6d5dc38774f9d43ee53cc517e70de01f36806b",
+      "sourceTextSha256": "15dd5412f0a4b13fa0b3840aa5b09c053f217846430f153deeb438940443c645",
+      "freshTranslation": "검에 다시 생각한 결과, 승낙. 맑고 묶일까 생각된 순간, 그 ㊥의 몸에 머무른 안티 스파이럴 인자가 각성해, 메신저가 되어 버렸다. ㊥ 안티 스파이럴과의 싸움 끝에 스스로를 구해준 시몬과 결혼식을 든다. ㊥ 입을 끼친 직후 가상 생명체이기 때문에 안티 스파이럴이 쓰러진 것으로 스스로 ㊥도 소멸해 버린다. 그러나 그 마지막은 행복을 물고 미소를 지으며 ㊥이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

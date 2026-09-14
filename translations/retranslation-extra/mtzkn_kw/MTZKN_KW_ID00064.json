@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00064",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00064/Sheet1/000002",
+      "sourceBindingSha256": "2a3728bd316bc96462256e73872801a3c1397f838025a8acc98bac85efd35bd1",
+      "sourceTextSha256": "83567ebe06a015a8524b07910938a483b7cb1824f9a89f40cc4fa547b80a1b99",
+      "freshTranslation": "계진",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00064/Sheet1/000003",
+      "sourceBindingSha256": "1cd2c41c078059d3c1ce34352dbb55d98c609ee601970bded589abbf1be41183",
+      "sourceTextSha256": "bbd3fa74a468161cd7cd396bb3492075b561db28851a521806005dce6b42190a",
+      "freshTranslation": "\"지구 방위 기업 다이 가드\"",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00064/Sheet1/000004",
+      "sourceBindingSha256": "3dd2d690567cf6a16f7b192d8b397b3739a6a0098b1a0a1aefec7d6124618ced",
+      "sourceTextSha256": "b1c25f57584568411bdf656248bdcd34d43910d554f46b3acae5ba4f32b18b24",
+      "freshTranslation": "지진 등에 의한 초대규모의 전자파 이상시에 전자파 간섭에 의해 「양자적 존재㊥로서 감지되는 공간」이 복소수 차원과 공진하는 현상. ㊥계진에 의해 유입된 에너지에 의해 헤테로다인이 발생한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00064/Sheet1/000005",
+      "sourceBindingSha256": "6cd34e68e477477490479d9fac1e551d9379592da8fc33cb077b66d613248f71",
+      "sourceTextSha256": "b1c25f57584568411bdf656248bdcd34d43910d554f46b3acae5ba4f32b18b24",
+      "freshTranslation": "지진 등에 의한 초대규모의 전자파 이상시에 전자파 간섭에 의해 「양자적 존재㊥로서 감지되는 공간」이 복소수 차원과 공진하는 현상. ㊥계진에 의해 유입된 에너지에 의해 헤테로다인이 발생한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

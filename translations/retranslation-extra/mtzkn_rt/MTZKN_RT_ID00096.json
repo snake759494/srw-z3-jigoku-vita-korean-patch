@@ -1,0 +1,192 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00096",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00096/Sheet1/000002",
+      "sourceBindingSha256": "b3b019768ad54be1fede3db0f5d1c4dcbfd70597f88f26b7d68eb236e01ec2e3",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00096/Sheet1/000003",
+      "sourceBindingSha256": "284b3d93331646a4ec2cd4f6152eee8885b33ea8b74568d908ae5a77ae7a96b2",
+      "sourceTextSha256": "5d4d8b18cf652f06cbe7241d44df646d1207708c7100a87ca33a6facab690bce",
+      "freshTranslation": "자쿠 Ⅰ · 스나이퍼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00096/Sheet1/000004",
+      "sourceBindingSha256": "69caf97a0185098239582931661a4c57b0410db92f0cd84cc6c4f3d93d4cdb41",
+      "sourceTextSha256": "c6680a16796a1c6f9c5cc041fbcfcc154f8e15f109587f3956ec7a8af10baf97",
+      "freshTranslation": "입",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00096/Sheet1/000005",
+      "sourceBindingSha256": "f39ef97d6ba8dd5cd9f26fbdce91da757c673a378a5803cc4cca6588247aeaa7",
+      "sourceTextSha256": "5d4d8b18cf652f06cbe7241d44df646d1207708c7100a87ca33a6facab690bce",
+      "freshTranslation": "자쿠 Ⅰ · 스나이퍼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00096/Sheet1/000006",
+      "sourceBindingSha256": "d472baa5c6dc33c85991db7b1432af53a56cc4a45d63da382cf2c4c7e86efe17",
+      "sourceTextSha256": "c6680a16796a1c6f9c5cc041fbcfcc154f8e15f109587f3956ec7a8af10baf97",
+      "freshTranslation": "입",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00096/Sheet1/000007",
+      "sourceBindingSha256": "a7482a0f39a5baca354d0efdb91dc88b7d20239af8cdb1568d8a32b4dcaa4f33",
+      "sourceTextSha256": "2ecd88c3b9ba5ef42c473a0f68e53e2925d9940d7bb8737c970dde6cb27bdb55",
+      "freshTranslation": "연무커크스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00096/Sheet1/000008",
+      "sourceBindingSha256": "cd9e6152fd1ac2c0f4fbe41b266c0c94b2f0e779c164190a602dff69486bffcc",
+      "sourceTextSha256": "923ac7d986803b12ef10ea38cb1a9dac2b761310ecaab40b658cff1fbd7e5fe1",
+      "freshTranslation": "지온잔당군의 리더인 용무커크스의 애기. ㊥ 구식화 된 자쿠 Ⅰ를 재사용하기 위해,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00096/Sheet1/000009",
+      "sourceBindingSha256": "a79b370c9936977506fd7fd09fc07ed6ae3015bc8ae088ab0f820f1eaa8a9b80",
+      "sourceTextSha256": "69af987735cae56f6d2f99ec24d7cec5d99af80d6510967bab7475da9d088ffd",
+      "freshTranslation": "랜드 셀에 서브 제너리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00096/Sheet1/000010",
+      "sourceBindingSha256": "4a5345d79bf54b7c0e67dd4bc279aa42f2caad5c8e0e3a9553c763290f53992d",
+      "sourceTextSha256": "7e82fd8912d73e1472394c24cce21a05c477dd17d132f8429a593ad8ec399889",
+      "freshTranslation": "-㊥을 탑재하여 빔 스나이퍼 라이플을 사용 가능하게 하고 있다. ㊥ 머리 센서도 자쿠 강공 정찰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00096/Sheet1/000011",
+      "sourceBindingSha256": "7ad483b1a849f6b1d5eb1a7a3a93cbfdd3991078a8a5f1fc74e9e3ad71bb8e2a",
+      "sourceTextSha256": "a1cb0e69e8b7d1a24a7b4ca716054b54fb87d0b31e2cd6b085fa491562065d04",
+      "freshTranslation": "의 헤드 유닛으로 교환되어, 후방으로부터 지휘를 집행㊥하면서 저격을 행한다고 하는, 저격수와 지휘관을 겸했다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00096/Sheet1/000012",
+      "sourceBindingSha256": "16b97bffd53430fe4e09070e639b30fff6f9951e11d075419e37d32c6eb674fd",
+      "sourceTextSha256": "94560f829b1e1a4941e600dce56555dc59c3d02f67a41bae8b4b7b18edb19502",
+      "freshTranslation": "용법이 취해지고 있다. ㊥ 트링턴 기지 습격 때는 팻 앵클 개의 카고에 본 기기를 고정하고 공중 ㊥에서 저격하면서 전선의 기체에 지시를 내고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00096/Sheet1/000013",
+      "sourceBindingSha256": "79eb86ef6733f39ee562904c2c1db33829693c75b8f73aa7cbdae88975735f48",
+      "sourceTextSha256": "923ac7d986803b12ef10ea38cb1a9dac2b761310ecaab40b658cff1fbd7e5fe1",
+      "freshTranslation": "지온잔당군의 리더인 용무커크스의 애기. ㊥ 구식화 된 자쿠 Ⅰ를 재사용하기 위해,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00096/Sheet1/000014",
+      "sourceBindingSha256": "5a6dbb46e32e63f588d5ef718b916eab16065c2354c0a9bb22249813085763bb",
+      "sourceTextSha256": "69af987735cae56f6d2f99ec24d7cec5d99af80d6510967bab7475da9d088ffd",
+      "freshTranslation": "랜드 셀에 서브 제너리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00096/Sheet1/000015",
+      "sourceBindingSha256": "845af6fef5d833103c0f038f91b936516a78a9f284b4133a99041091bdfdeafa",
+      "sourceTextSha256": "7e82fd8912d73e1472394c24cce21a05c477dd17d132f8429a593ad8ec399889",
+      "freshTranslation": "-㊥을 탑재하여 빔 스나이퍼 라이플을 사용 가능하게 하고 있다. ㊥ 머리 센서도 자쿠 강공 정찰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00096/Sheet1/000016",
+      "sourceBindingSha256": "fb451aa652989a88fb00110840b42f9e06e37d1382d654aa5aca74d55f36ea42",
+      "sourceTextSha256": "a1cb0e69e8b7d1a24a7b4ca716054b54fb87d0b31e2cd6b085fa491562065d04",
+      "freshTranslation": "의 헤드 유닛으로 교환되어, 후방으로부터 지휘를 집행㊥하면서 저격을 행한다고 하는, 저격수와 지휘관을 겸했다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00096/Sheet1/000017",
+      "sourceBindingSha256": "bf602ec6b637e7f1ffabaf54683919d72c9e8d970a8b164cf075289066a35da7",
+      "sourceTextSha256": "94560f829b1e1a4941e600dce56555dc59c3d02f67a41bae8b4b7b18edb19502",
+      "freshTranslation": "용법이 취해지고 있다. ㊥ 트링턴 기지 습격 때는 팻 앵클 개의 카고에 본 기기를 고정하고 공중 ㊥에서 저격하면서 전선의 기체에 지시를 내고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

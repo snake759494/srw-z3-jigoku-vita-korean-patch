@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00347",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00347/Sheet1/000002",
+      "sourceBindingSha256": "5ad691949774a7f8da26098dd54c2893a6bc94d7600be1d4f4d2e5075d25f52d",
+      "sourceTextSha256": "f35407fdcdb0a906f8cdbe3fc8cac9127916dcffb9569dcf184d8b379a1f34a5",
+      "freshTranslation": "나기 카오루",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00347/Sheet1/000003",
+      "sourceBindingSha256": "702bdc2ca40d55c650114978313b88674addd2e275c55eeae37e4e7d4e947e0a",
+      "sourceTextSha256": "5f85a7dfcca87cd4668c7000e0d11ce77dc2924916955d0a6e4de6ea07f3e7b8",
+      "freshTranslation": "카오루",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00347/Sheet1/000004",
+      "sourceBindingSha256": "0b5ee94304fd73582cdd39b4092dd6eda18602819ccc5e1853f2baf5d4040a62",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00347/Sheet1/000005",
+      "sourceBindingSha256": "392d16bbbe48f588e43543b79336e6c9f4236e2abf9f384897ceb3649b69bcc5",
+      "sourceTextSha256": "67b503757d446254dab280a43465cf20cfb2cc844103cdb2b35d98a52b40cd7f",
+      "freshTranslation": "달의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00347/Sheet1/000006",
+      "sourceBindingSha256": "44114982950cf5653a58c902b44bab1dbd42d9f7c792d7bcebaa048e6316e200",
+      "sourceTextSha256": "d325fe55a3d9fc7e247aedd85de79fe9bac73cbc016ecde561d3b15057832d5a",
+      "freshTranslation": "부하베이스에있는 수수께끼 소년.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00347/Sheet1/000007",
+      "sourceBindingSha256": "fc24dda8661cdbdd8e5c90577d601dea737c4ed483392e1fe244d4a5cb85a289",
+      "sourceTextSha256": "67b503757d446254dab280a43465cf20cfb2cc844103cdb2b35d98a52b40cd7f",
+      "freshTranslation": "달의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00347/Sheet1/000008",
+      "sourceBindingSha256": "12ad7857a0aba56b9c1a83d3e4a7bc1ee6d97823de1caa9c7fc6ad9d0726039a",
+      "sourceTextSha256": "394f9dd58ced8dc416728a912306c195276f3e650bacae8addb59022cf7f92a1",
+      "freshTranslation": "부하베이스에있는 수수께끼 소년. ㊥ 신지의 일을 아는 것 같은 언동을 보여준다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

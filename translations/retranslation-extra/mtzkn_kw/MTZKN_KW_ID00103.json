@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00103",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00103/Sheet1/000002",
+      "sourceBindingSha256": "a2ae52fa3783ebfebfb3a98989ef67c8ebbc5cbf745afa405208228cea64c2de",
+      "sourceTextSha256": "1c23bdbcdd319a7e1ed771b55201bccdacc5119aeb8c8b7e8b4746c38dd85a0e",
+      "freshTranslation": "니티 플랫",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00103/Sheet1/000003",
+      "sourceBindingSha256": "e528ba4abe3a6d95a2c197b38637e26401bc9cbff90e98f53f43ed4bdd47acaa",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00103/Sheet1/000004",
+      "sourceBindingSha256": "bc08e9941c7f9264b75261c9785070bf4dde637383ff654da44c1464d5a9ce44",
+      "sourceTextSha256": "8147fab9d4ed51467d8d5e6dfc2e25b48de1fc840324fc6c7a8e6afaa2dd022e",
+      "freshTranslation": "생물의 절대 시간의 진행이 0에 접근하는 현상의 종착점. ㊥ \"시간의 감옥\"이라고 불리는 차원의 벽에 의해 분리된 세계에서 발생한 현상. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00103/Sheet1/000005",
+      "sourceBindingSha256": "e0d0cdda09a54066f49aaf7d94f37ccfd0042780099c6a41480424296ec82670",
+      "sourceTextSha256": "d7a66c21846342b5abdac1a9fd415ea6c5ee08cad33b2b51849930bc65cbb885",
+      "freshTranslation": "니티 플랫이 완성되면, 생물내의 시간은 정지하고 노화도 정지한다. ㊥ 그러나 인체의 성장과 출산도 발생하지 않습니다. ㊥동식물의 성장이 멈추는 것으로 식량난도 예상되지만, 무엇보다 종으로서의 정체와 ㊥ 「죽음」 자체가 없어지는 것은 아니기 때문에, 인류는 서서히 멸망해 가는 것이 예㊥측정되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00103/Sheet1/000006",
+      "sourceBindingSha256": "7c7076550e59aef9e1ac66d573453a8dc13ab40c11fdea6f5ef8495744cf2ca2",
+      "sourceTextSha256": "8147fab9d4ed51467d8d5e6dfc2e25b48de1fc840324fc6c7a8e6afaa2dd022e",
+      "freshTranslation": "생물의 절대 시간의 진행이 0에 접근하는 현상의 종착점. ㊥ \"시간의 감옥\"이라고 불리는 차원의 벽에 의해 분리된 세계에서 발생한 현상. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00103/Sheet1/000007",
+      "sourceBindingSha256": "47dc8cb61d17f11ff42a82102fa3f42381f5fb4d7375252db5f50c525b3b92ad",
+      "sourceTextSha256": "9d92822062761a9644bc0d403ec92753ce9532e9954c96436b8d3998dd662e87",
+      "freshTranslation": "니티 플랫이 완성되면, 생물내의 시간은 정지하고 노화도 정지한다. ㊥ 그러나 인체의 성장과 출산도 발생하지 않습니다. ㊥동식물의 성장이 멈추는 것으로 식량난도 예상되지만, 무엇보다 종으로서의 정체와 ㊥ 「죽음」 자체가 없어지는 것은 아니기 때문에, 인류는 서서히 멸망해 가는 것이 예㊥측정되고 있다. ㊥ 하지만",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00103/Sheet1/000008",
+      "sourceBindingSha256": "1aeeba6ed228b43124715b9776e5bb4f826f528c66b66c6cc5d95224d350d94c",
+      "sourceTextSha256": "2246458212d689f6232e59c2efdf40417dcccfdfa0a3d5f397bd62762f64e6ab",
+      "freshTranslation": "니티 플랫은, 차원 경계선의 고정화에 의해 격리된 세㊥계내에서 일어나기 때문에, 초공간 항법이 제한됨으로써 바알의 공격㊥오래가 회피될 것으로 생각되고 있었다. ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00103/Sheet1/000009",
+      "sourceBindingSha256": "9b6c53562d4634aba799920c8be9e83cd6ab8a20c751c9f44723b5cefec5550c",
+      "sourceTextSha256": "9d38cae04131581dbb640dca9949bad91f84b8d48021b747269fd28e32997b0d",
+      "freshTranslation": "니티 플랫에 의한 완만한 멸망인가, 바알과의 싸움 중 어느 것을 선택하는 ㊥인가는 전세계의 인간에게 선택이 맡겨져 그 결과에 의한 시공 수복으로 때의 감옥은 파㊥ 파괴되어",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00103/Sheet1/000010",
+      "sourceBindingSha256": "30bb38b18faa0e8f4c1d099296f1b17227e45909eb1d8ac8d964f55735193c46",
+      "sourceTextSha256": "b0fc576e8a1ed052d4627c3aca1ee38220e943f23d58a7692b5682cce27447e8",
+      "freshTranslation": "니티 플랫은 회피되었다. ㊥ 덧붙여 누가 무엇을 위해 지구가 있는 차원을 격리했는지는 불명하다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

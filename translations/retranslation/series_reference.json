@@ -1,0 +1,1707 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "format": "srwz-siok-series-reference",
+  "formatVersion": 1,
+  "checkedAt": "2026-08-14",
+  "purpose": "제3차 슈퍼로봇대전 Z 시옥편 시나리오 재번역용 작품·인물·관계·말투 참고 자료",
+  "usePolicy": {
+    "summaryOnly": true,
+    "noScriptReproduction": "애니메이션 대사 원문이나 자막을 복제하지 않고 설정과 말투의 특징만 요약한다.",
+    "priority": "게임 원문과 프로젝트 용어집을 우선하고, 이 파일은 장면 해석과 말투 선택을 보조한다.",
+    "titles": "한국어 제목은 프로젝트 표기이며, 일본어 공식 제목과 함께 검색용 별칭을 보존한다."
+  },
+  "participationLegend": {
+    "srw_first": "이번 작품에서 슈퍼로봇대전에 처음 참전(덴게키 표기 ★)",
+    "z_series_first": "Z 시리즈에 처음 참전(덴게키 표기 ●)",
+    "returning": "기존 Z 시리즈 참전작 또는 본작의 계속 참전"
+  },
+  "sources": [
+    {
+      "id": "official_srw_lineup",
+      "kind": "official",
+      "title": "슈퍼로봇대전 공식 라인업",
+      "url": "https://www.suparobo.jp/srw_lineup",
+      "use": "작품명·플랫폼·발매 정보"
+    },
+    {
+      "id": "dengekionline_lineup",
+      "kind": "editorial",
+      "title": "전격 온라인 참전작 32작품 소개",
+      "url": "https://dengekionline.com/elem/000/000/781/781086/",
+      "use": "32개 참전작 목록과 ★/● 표기 확인"
+    },
+    {
+      "id": "gamewatch_preview",
+      "kind": "editorial",
+      "title": "Game Watch 시옥편 신참전작 소개",
+      "url": "https://game.watch.impress.co.jp/docs/news/630634.html",
+      "use": "신참전 인물·기체와 작품 연결 관계"
+    },
+    {
+      "id": "srw_wiki_story",
+      "kind": "secondary",
+      "title": "슈퍼로봇대전 Z 시옥편 작품 개요",
+      "url": "https://srw.wiki.cre.jp/wiki/%E7%AC%AC3%E6%AC%A1%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6Z_%E6%99%82%E7%8D%84%E7%AF%87",
+      "use": "시옥편의 시간대·차원진동·히비키 도입부"
+    },
+    {
+      "id": "fmp_character",
+      "kind": "official",
+      "title": "풀 메탈 패닉 공식 캐릭터",
+      "url": "https://fullmetal-panic.jp/character/",
+      "use": "소스케·카나메·마오의 성격과 관계"
+    },
+    {
+      "id": "fmp_story",
+      "kind": "official",
+      "title": "풀 메탈 패닉 공식 스토리",
+      "url": "https://fullmetal-panic.jp/story/",
+      "use": "군사극과 학원 코미디가 교차하는 어조"
+    },
+    {
+      "id": "macross7_official",
+      "kind": "official",
+      "title": "마크로스 공식 마크로스 7",
+      "url": "https://macross.jp/pages/series?title=macross7",
+      "use": "바사라·밀레느와 사운드 포스"
+    },
+    {
+      "id": "macrossf_official",
+      "kind": "official",
+      "title": "마크로스 공식 마크로스 F",
+      "url": "https://macross.jp/pages/series?title=macrossf",
+      "use": "알토·셰릴·란카의 삼각관계와 노래"
+    },
+    {
+      "id": "seed_official",
+      "kind": "official",
+      "title": "기동전사 건담 SEED DESTINY 공식 캐릭터",
+      "url": "https://gundam-official.com/seed/destiny/character/",
+      "use": "신·아스란·키라의 관계와 전쟁 배경"
+    },
+    {
+      "id": "gundam_uc_manual",
+      "kind": "official",
+      "title": "기동전사 건담 UC 공식 캐릭터 매뉴얼",
+      "url": "https://www.gundam-c.com/manual/character/unicorn/full.html",
+      "use": "버나지·풀 프론탈의 인물 해석"
+    },
+    {
+      "id": "gundam00_official",
+      "kind": "official",
+      "title": "극장판 기동전사 건담 00 공식 캐릭터",
+      "url": "https://ggcr.ggame.jp/character/gundam00_gekijouban.php",
+      "use": "세츠나와 ELS 대화·상호이해 맥락"
+    },
+    {
+      "id": "eva_official",
+      "kind": "official",
+      "title": "에반게리온 공식 사이트",
+      "url": "https://www.evangelion.jp/od.html",
+      "use": "신극장판 제목·인물 표기"
+    },
+    {
+      "id": "code_geass_official",
+      "kind": "official",
+      "title": "코드 기아스 R2 공식 사이트",
+      "url": "https://www.sunrise-inc.co.jp/geas/r2/about/index.html",
+      "use": "를르슈·스자쿠·C.C.의 관계와 이중 정체성"
+    },
+    {
+      "id": "gundamw_ew_official",
+      "kind": "official",
+      "title": "건담 W Endless Waltz 캐릭터",
+      "url": "https://ggcr.ggame.jp/character/w_ew_02.php",
+      "use": "히이로·듀오·리리나·젝스의 관계"
+    },
+    {
+      "id": "bigo_official",
+      "kind": "official",
+      "title": "THE 빅오 공식 사이트",
+      "url": "https://www.the-big-o.net/design/index.html",
+      "use": "로저·도로시의 느와르식 대화"
+    },
+    {
+      "id": "votoms_character",
+      "kind": "official",
+      "title": "보톰즈 공식 캐릭터",
+      "url": "https://www.votoms.net/about/character/1.php",
+      "use": "키리코의 군인 경력과 냉소적 어조"
+    },
+    {
+      "id": "votoms_hakui",
+      "kind": "official",
+      "title": "장갑기병 보톰즈 혁혁한 이단",
+      "url": "https://www.sunrise-world.net/titles/pickup_101.php",
+      "use": "키리코·피아나와 종교적 신화성"
+    },
+    {
+      "id": "gurren_official",
+      "kind": "official",
+      "title": "천원돌파 그렌라간 캐릭터",
+      "url": "https://www.tv-tokyo.co.jp/contents/gurren-lagann/chara/index.html",
+      "use": "시몬·카미나·요코·비랄의 성격"
+    },
+    {
+      "id": "aquarion_official",
+      "kind": "official",
+      "title": "아쿠에리온 EVOL 공식 캐릭터",
+      "url": "https://aqevol.com/character/index.php",
+      "use": "아마타·미코노·제시카의 학원·합체 관계"
+    },
+    {
+      "id": "aquarion_story",
+      "kind": "official",
+      "title": "아쿠에리온 EVOL 공식 에피소드",
+      "url": "https://aqevol.com/story/detail.php?episode_id=ID_003",
+      "use": "금지된 남녀 합체와 아쿠에리온 EVOL 각성"
+    },
+    {
+      "id": "trider_official",
+      "kind": "official",
+      "title": "무적로보 트라이더 G7 공식 자료",
+      "url": "https://www.sunrise-world.net/titles/pickup_144.php",
+      "use": "왓타의 소년 사장·우주 심부름센터 설정"
+    },
+    {
+      "id": "godmars_official",
+      "kind": "official",
+      "title": "육신합체 갓마즈 공식 작품 소개",
+      "url": "https://www.tms-e.co.jp/alltitles/1980s/040301.html",
+      "use": "타케루·마르그 형제와 갓마즈 설정"
+    },
+    {
+      "id": "getter_official",
+      "kind": "official",
+      "title": "진 겟타로보 세계 최후의 날 소개",
+      "url": "https://srw-v.suparobo.jp/character/13.php",
+      "use": "료마·하야토·벤케이와 겟타 팀"
+    },
+    {
+      "id": "top_official",
+      "kind": "official",
+      "title": "톱을 노려라! 캐릭터 소개",
+      "url": "https://sorewaterada.suparobo.jp/character/18.php",
+      "use": "노리코·카즈미·코치의 훈련 관계"
+    },
+    {
+      "id": "daiguard_official",
+      "kind": "official",
+      "title": "지구방위기업 다이·가드 작품 소개",
+      "url": "https://www.b-ch.com/titles/506/",
+      "use": "아카기·이부키·아오야마의 회사원 팀"
+    },
+    {
+      "id": "local_xlsx",
+      "kind": "local",
+      "title": "시옥편 번역 엑셀 7종",
+      "path": "D:\\Z\\psvita\\시옥번역엑셀",
+      "use": "게임 내부의 일본어 표기·한국어 기준·등장 자산 확인"
+    }
+  ],
+  "globalGuidance": {
+    "world": "시옥편은 재세전쟁 이후의 Z 세계를 배경으로 하며, 차원의 구멍·차원진동·다원세계라는 용어가 여러 작품의 사건을 연결한다.",
+    "crossWork": "처음 만나는 인물은 원작의 거리감과 직함을 유지한다. 전투 중에는 짧은 명령형을, 회담·일상에서는 각 작품의 화법을 되살린다.",
+    "honorifics": "군인·상관·교관에게는 직함/존칭을 우선하고, 동료·친구 사이에서는 작품의 친밀도에 맞춰 이름과 호칭을 구분한다.",
+    "namedTerms": "《 》로 감싼 용어는 용어 사전의 preferredKo를 그대로 사용한다. 작품별 고유명사는 한글 표기를 통일하고 별칭은 검색용으로만 둔다.",
+    "narration": "나레이션과 장소 표시는 화자 없는 레코드로 남긴다. 특정 인물의 말투를 씌우거나 화자명과 합치지 않는다."
+  },
+  "works": [
+    {
+      "id": "getter_last_day",
+      "franchise": "getter",
+      "jaTitle": "真（チェンジ!!）ゲッターロボ 世界最後の日",
+      "koTitle": "진(체인지!!) 겟타로보 세계 최후의 날",
+      "participation": "returning",
+      "aliases": [
+        "진 겟타로보 세계 최후의 날",
+        "겟타로보 세계 최후의 날"
+      ],
+      "setting": "겟타선과 인류의 생존을 둘러싼 종말 전쟁. 과거의 겟타 팀과 미래의 위기가 겹치며 과격한 OVA 연출이 강하다.",
+      "keyCharacters": [
+        {
+          "ja": "流竜馬",
+          "ko": "나가레 료마",
+          "role": "돌격형 겟타 파일럿",
+          "speech": "거칠고 단정적인 명령형"
+        },
+        {
+          "ja": "神隼人",
+          "ko": "진 하야토",
+          "role": "냉정한 작전 담당",
+          "speech": "짧고 계산적인 판단문"
+        },
+        {
+          "ja": "車弁慶",
+          "ko": "쿠루마 벤케이",
+          "role": "팀의 연장자·방어 담당",
+          "speech": "호쾌하지만 동료를 감싸는 말투"
+        }
+      ],
+      "relationships": [
+        "료마·하야토·벤케이는 충돌해도 전투에서는 서로의 판단을 신뢰하는 겟타 팀이다.",
+        "하야토는 료마의 폭주를 제어하지만 상하관계보다 전우 관계가 앞선다."
+      ],
+      "speechGuidance": "위기·멸망·각성의 어휘를 약하게 순화하지 않는다. 료마의 거친 말투를 모든 인물에게 복사하지 말고 하야토의 냉정함과 벤케이의 인간미를 분리한다.",
+      "translationNotes": [
+        "겟타선·진 겟타·세계 최후의 날은 용어 사전 표기를 고정",
+        "감탄형을 남발하지 말고 전투 명령은 짧게"
+      ],
+      "sourceIds": [
+        "getter_official",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "zeta_gundam",
+      "franchise": "gundam",
+      "jaTitle": "機動戦士Zガンダム",
+      "koTitle": "기동전사 Z 건담",
+      "participation": "returning",
+      "aliases": [
+        "Z 건담",
+        "기동전사 Z건담"
+      ],
+      "setting": "UC0087의 그리프스 전역. 티탄즈의 억압에 맞선 에우고와 뉴타입 전쟁의 피로가 중심이다.",
+      "keyCharacters": [
+        {
+          "ja": "カミーユ・ビダン",
+          "ko": "카미유 비단",
+          "role": "에우고 뉴타입 파일럿",
+          "speech": "예민하지만 동료에게는 솔직한 반말/존칭 혼용"
+        },
+        {
+          "ja": "クワトロ・バジーナ",
+          "ko": "크와트로 바지나",
+          "role": "에우고의 지도자",
+          "speech": "절제된 군인 말투와 여유 있는 비유"
+        },
+        {
+          "ja": "アムロ・レイ",
+          "ko": "아무로 레이",
+          "role": "숙련된 전설의 파일럿",
+          "speech": "신중하고 경험에서 나오는 짧은 조언"
+        }
+      ],
+      "relationships": [
+        "카미유는 크와트로를 존중하면서도 그의 과거와 결단을 따져 묻는다.",
+        "아무로·크와트로는 전우이자 서로의 과거를 아는 어른으로서 간접적인 대화를 한다."
+      ],
+      "speechGuidance": "카미유의 감정을 무례함 하나로 평탄화하지 않는다. 크와트로는 샤아의 정체를 노골적으로 설명하기보다 여지를 남기고, 아무로는 과장 없이 현실적인 충고를 한다.",
+      "translationNotes": [
+        "에우고·티탄즈·뉴타입·그리프스 전역 표기 고정",
+        "직함과 계급을 생략하지 않음"
+      ],
+      "sourceIds": [
+        "gamewatch_preview",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "trider_g7",
+      "franchise": "sunrise_robot",
+      "jaTitle": "無敵ロボ トライダーG7",
+      "koTitle": "무적로보 트라이더 G7",
+      "participation": "returning",
+      "aliases": [
+        "트라이더 G7",
+        "트라이더G7"
+      ],
+      "setting": "아버지의 뒤를 이어 초등학생 사장이 된 왓타가 우주 심부름센터를 운영하며 로봇을 조종한다. 회사·학교·동네가 공존하는 하층민 정서가 특징이다.",
+      "keyCharacters": [
+        {
+          "ja": "竹尾ワッ太",
+          "ko": "타케오 왓타",
+          "role": "초등학생 사장·파일럿",
+          "speech": "아이답고 씩씩한 반말, 사장일 때는 책임감"
+        },
+        {
+          "ja": "柿小路梅麻呂",
+          "ko": "카키코지 우메마로",
+          "role": "회사 어른·참모",
+          "speech": "공손한 업무 말투와 생활감 있는 농담"
+        }
+      ],
+      "relationships": [
+        "왓타는 어른 직원들의 도움을 받지만 사장으로서 최종 결정을 내린다.",
+        "회사 구성원은 왓타를 보호하면서도 일의 대가와 현실을 가르친다."
+      ],
+      "speechGuidance": "전투의 긴박함과 하청 업무의 생활 코미디를 함께 살린다. 왓타를 지나치게 성숙한 군인처럼 번역하지 않는다.",
+      "translationNotes": [
+        "竹尾ゼネラルカンパニー는 타케오 제너럴 컴퍼니로 통일",
+        "사장 호칭과 친구 말투를 장면별로 구분"
+      ],
+      "sourceIds": [
+        "trider_official",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "macross_frontier_false_songstress",
+      "franchise": "macross_frontier",
+      "jaTitle": "劇場版マクロスF～イツワリノウタヒメ～",
+      "koTitle": "극장판 마크로스 F ~거짓의 가희~",
+      "participation": "returning",
+      "aliases": [
+        "마크로스 F 거짓의 가희",
+        "마크로스 프론티어 전편"
+      ],
+      "setting": "마크로스 프론티어 선단에서 바주라 위협과 아이돌·군의 이해관계가 교차한다. 극장판 전편의 관계와 이미지가 기준이다.",
+      "keyCharacters": [
+        {
+          "ja": "早乙女アルト",
+          "ko": "사오토메 알토",
+          "role": "VF 파일럿·가부키 집안 출신",
+          "speech": "자존심이 강하고 직선적이나 두 사람 앞에서 흔들림"
+        },
+        {
+          "ja": "シェリル・ノーム",
+          "ko": "셰릴 놈",
+          "role": "은하의 요정",
+          "speech": "당당하고 도발적인 존댓말/반말"
+        },
+        {
+          "ja": "ランカ・リー",
+          "ko": "란카 리",
+          "role": "신인 가수·바주라와 연결된 소녀",
+          "speech": "풋풋하고 조심스러운 말투"
+        }
+      ],
+      "relationships": [
+        "알토는 셰릴의 자신감과 란카의 진심 사이에서 자신의 진로와 감정을 선택한다.",
+        "셰릴과 란카는 경쟁자이면서 서로를 인정하는 동료이므로 한쪽을 단순한 라이벌로 만들지 않는다."
+      ],
+      "speechGuidance": "셰릴은 과장된 스타 어조를 살리고 란카는 말끝을 부드럽게 한다. 알토의 자존심과 가부키식 표현을 평범한 무뚝뚝함으로 줄이지 않는다.",
+      "translationNotes": [
+        "셰릴·란카의 노래/호칭 차이를 유지",
+        "바주라·프론티어·VF 표기 고정"
+      ],
+      "sourceIds": [
+        "macrossf_official",
+        "gamewatch_preview",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "macross_frontier_wing",
+      "franchise": "macross_frontier",
+      "jaTitle": "劇場版マクロスF～サヨナラノツバサ～",
+      "koTitle": "극장판 마크로스 F ~작별의 날개~",
+      "participation": "returning",
+      "aliases": [
+        "마크로스 F 작별의 날개",
+        "마크로스 프론티어 후편"
+      ],
+      "setting": "프론티어 선단의 음모와 바주라 전쟁이 절정에 이른다. 노래가 전투와 인간의 선택을 연결하는 극장판 후편이다.",
+      "keyCharacters": [
+        {
+          "ja": "早乙女アルト",
+          "ko": "사오토메 알토",
+          "role": "스컬 소대 파일럿",
+          "speech": "결단할 때 짧고 단호함"
+        },
+        {
+          "ja": "シェリル・ノーム",
+          "ko": "셰릴 놈",
+          "role": "가희·전쟁의 상징",
+          "speech": "자신감 속에 불안을 숨김"
+        },
+        {
+          "ja": "ランカ・リー",
+          "ko": "란카 리",
+          "role": "가희·공감의 매개",
+          "speech": "감정을 솔직히 드러내는 말투"
+        }
+      ],
+      "relationships": [
+        "알토·셰릴·란카는 연애 삼각형이면서 바주라와 인간을 잇는 역할을 나눠 가진다."
+      ],
+      "speechGuidance": "전편의 장난스러운 삼각관계를 반복하지 말고 후편의 희생·선택·작별의 무게를 반영한다.",
+      "translationNotes": [
+        "극장판 전후편을 하나의 마크로스 F 관계표로 공유",
+        "작별·날개·노래의 상징어를 과도하게 직역하지 않음"
+      ],
+      "sourceIds": [
+        "macrossf_official",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "big_o",
+      "franchise": "big_o",
+      "jaTitle": "THEビッグオー",
+      "koTitle": "THE 빅오",
+      "participation": "returning",
+      "aliases": [
+        "더 빅오",
+        "빅오"
+      ],
+      "setting": "기억을 잃은 도시 패러다임에서 협상가가 거대 메가데우스를 운용한다. 느와르 탐정극·거대 로봇·잃어버린 기억이 결합된 세계다.",
+      "keyCharacters": [
+        {
+          "ja": "ロジャー・スミス",
+          "ko": "로저 스미스",
+          "role": "협상가·빅오 파일럿",
+          "speech": "정중하고 연극적인 신사 말투"
+        },
+        {
+          "ja": "R・ドロシー・ウェインライト",
+          "ko": "R. 도로시 웨인라이트",
+          "role": "안드로이드·로저의 동료",
+          "speech": "감정을 절제한 건조한 직설"
+        },
+        {
+          "ja": "ノーマン",
+          "ko": "노먼",
+          "role": "저택 집사",
+          "speech": "차분하고 공손한 지원"
+        }
+      ],
+      "relationships": [
+        "로저는 도로시를 의뢰 대상이자 가족 같은 동료로 대하며 인간과 기계 사이에서 흔들린다.",
+        "도로시는 로저의 허세를 무심하게 찌르지만 위기에서는 신뢰를 보인다."
+      ],
+      "speechGuidance": "로저의 협상문과 도로시의 건조한 반응을 구분한다. 서부극식 멋을 거친 말투로 바꾸지 말고 정중함 속의 빈정거림을 살린다.",
+      "translationNotes": [
+        "Negotiator는 협상가로 고정",
+        "R. 도로시의 이니셜과 마침표를 보존"
+      ],
+      "sourceIds": [
+        "bigo_official",
+        "gamewatch_preview",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "orguss",
+      "franchise": "orguss",
+      "jaTitle": "超時空世紀オーガス",
+      "koTitle": "초시공세기 오거스",
+      "participation": "returning",
+      "aliases": [
+        "오거스",
+        "초시공세기 오거스"
+      ],
+      "setting": "시공진동으로 여러 평행세계가 겹친 뒤, 에만·치람 등 서로 다른 문화권이 충돌한다. 개인의 가벼움과 세계 규모의 비극이 대비된다.",
+      "keyCharacters": [
+        {
+          "ja": "桂木桂",
+          "ko": "카츠라기 케이",
+          "role": "오거스 파일럿",
+          "speech": "가볍고 능글맞지만 위기에는 진지함"
+        },
+        {
+          "ja": "ミムジィ・ラース",
+          "ko": "밈지 라스",
+          "role": "에만 측 동료",
+          "speech": "현실적이고 감정 표현이 분명함"
+        }
+      ],
+      "relationships": [
+        "케이는 여러 세력 사이에서 중재자이자 원인 제공자로 취급된다.",
+        "에만 동료들과의 신뢰가 쌓일수록 케이의 농담이 책임감으로 바뀐다."
+      ],
+      "speechGuidance": "케이의 가벼운 농담을 모두 희화화하지 말고, 평행세계 용어는 장면의 과학적 맥락에서 정확히 유지한다.",
+      "translationNotes": [
+        "시공진동·평행세계·다원세계 용어를 혼용하지 않음",
+        "케이의 여성 호칭은 상대 관계에 따라 조절"
+      ],
+      "sourceIds": [
+        "dengekionline_lineup",
+        "srw_wiki_story",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "god_mars",
+      "franchise": "god_mars",
+      "jaTitle": "六神合体ゴッドマーズ",
+      "koTitle": "육신합체 갓마즈",
+      "participation": "returning",
+      "aliases": [
+        "갓마즈",
+        "마즈"
+      ],
+      "setting": "지구에서 자란 타케루가 쌍둥이 형 마르그와 숙명적으로 대립한다. 여섯 신과 가족애가 우주 전쟁의 축이다.",
+      "keyCharacters": [
+        {
+          "ja": "明神タケル",
+          "ko": "묘진 타케루",
+          "role": "마즈·갓마즈 파일럿",
+          "speech": "온화하고 책임감 있는 단정문"
+        },
+        {
+          "ja": "マーグ",
+          "ko": "마르그",
+          "role": "타케루의 쌍둥이 형",
+          "speech": "다정하고 비극적인 어조"
+        },
+        {
+          "ja": "ロゼ",
+          "ko": "로제",
+          "role": "적대 세력과 타케루 사이의 인물",
+          "speech": "경계심에서 연민으로 이동"
+        }
+      ],
+      "relationships": [
+        "타케루와 마르그는 적으로 만났지만 혈연과 기억이 갈등의 핵심이다.",
+        "크래셔 부대는 타케루를 동료로 보호하며 가족에 가까운 신뢰를 보인다."
+      ],
+      "speechGuidance": "형제 관계를 단순한 라이벌로 번역하지 않는다. 타케루는 격앙되어도 품위를 유지하고, 마르그 관련 장면은 서정성과 비극성을 남긴다.",
+      "translationNotes": [
+        "마즈(기체/호칭)와 타케루(인명)를 문맥으로 구분",
+        "형·동생 호칭을 관계 변화와 함께 관리"
+      ],
+      "sourceIds": [
+        "godmars_official",
+        "gamewatch_preview",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "seed_destiny",
+      "franchise": "gundam_seed",
+      "jaTitle": "機動戦士ガンダムSEED DESTINY",
+      "koTitle": "기동전사 건담 SEED DESTINY",
+      "participation": "returning",
+      "aliases": [
+        "SEED DESTINY",
+        "시드 데스티니"
+      ],
+      "setting": "유전자 조정 코디네이터와 내추럴의 전쟁이 반복되는 가운데, 신·아스란·키라가 서로 다른 정의를 선택한다.",
+      "keyCharacters": [
+        {
+          "ja": "シン・アスカ",
+          "ko": "신 아스카",
+          "role": "전쟁으로 가족을 잃은 임펄스 파일럿",
+          "speech": "직선적이고 감정적인 반말, 상관에게는 존칭"
+        },
+        {
+          "ja": "キラ・ヤマト",
+          "ko": "키라 야마토",
+          "role": "전쟁을 끝내려는 프리덤 파일럿",
+          "speech": "부드럽지만 결단할 때 단호함"
+        },
+        {
+          "ja": "アスラン・ザラ",
+          "ko": "아스란 자라",
+          "role": "양 진영 사이의 전우",
+          "speech": "신중하고 자책이 섞인 군인 말투"
+        }
+      ],
+      "relationships": [
+        "신은 키라를 가족의 원수를 빼앗은 이상으로 오해하며 적대한다.",
+        "아스란은 신의 상관이자 형 같은 위치에서 충고하지만 자신의 흔들림 때문에 갈등을 키운다.",
+        "키라와 아스란은 오래된 친구로서 신을 구하려는 방향은 같지만 방법이 다르다."
+      ],
+      "speechGuidance": "신의 분노를 단순한 반항으로 줄이지 않는다. 키라는 온화한 표현 속에 살상을 막으려는 의지를 담고, 아스란은 상관·친구·자책하는 사람의 세 층위를 구분한다.",
+      "translationNotes": [
+        "신·키라·아스란의 이름과 성을 혼동하지 않음",
+        "플랜트·코디네이터·내추럴 표기 고정"
+      ],
+      "sourceIds": [
+        "seed_official",
+        "gamewatch_preview",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "gurren_lagann_tv",
+      "franchise": "gurren_lagann",
+      "jaTitle": "天元突破グレンラガン",
+      "koTitle": "천원돌파 그렌라간",
+      "participation": "returning",
+      "aliases": [
+        "그렌라간",
+        "천원돌파"
+      ],
+      "setting": "지하 마을의 굴착 소년 시몬이 카미나·요코와 지상으로 나와 수인 제국과 싸우고, 나아가 은하 규모의 나선 전쟁에 이른다.",
+      "keyCharacters": [
+        {
+          "ja": "シモン",
+          "ko": "시몬",
+          "role": "라간 파일럿·성장하는 지도자",
+          "speech": "초반에는 조심스럽고 후반에는 선언적·단호함"
+        },
+        {
+          "ja": "カミナ",
+          "ko": "카미나",
+          "role": "시몬의 형님 같은 동료",
+          "speech": "과장되고 호쾌한 격려·허세"
+        },
+        {
+          "ja": "ヨーコ",
+          "ko": "요코",
+          "role": "현실적인 저격수·동료",
+          "speech": "직설적이고 생활감 있는 반응"
+        }
+      ],
+      "relationships": [
+        "카미나는 시몬에게 자신감을 심어 주는 형님이며, 시몬은 그 뜻을 이어 지도자로 성장한다.",
+        "요코는 두 사람의 이상을 현실적인 판단으로 보완한다.",
+        "비랄은 적에서 경쟁자·동료로 변하는 인물이다."
+      ],
+      "speechGuidance": "카미나의 허세는 웃음과 신념이 함께 있어야 한다. 시몬의 말투는 장면의 성장 단계에 따라 바꾸고, 우주 규모의 대사도 감정의 출발점을 잃지 않는다.",
+      "translationNotes": [
+        "나선력·수인·대그렌단 용어를 기존 사전과 맞춤",
+        "카미나의 형님 호칭을 화자에 따라 보존"
+      ],
+      "sourceIds": [
+        "gurren_official",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "gurren_lagann_lagann_hen",
+      "franchise": "gurren_lagann",
+      "jaTitle": "劇場版 天元突破グレンラガン 螺巌篇",
+      "koTitle": "극장판 천원돌파 그렌라간 나암편",
+      "participation": "returning",
+      "aliases": [
+        "그렌라간 나암편",
+        "나암편"
+      ],
+      "setting": "TV판 후반의 반나선족·안티 스파이럴 전쟁을 극장판의 압축된 영웅 서사로 다룬다. 동료의 희생과 계승이 핵심이다.",
+      "keyCharacters": [
+        {
+          "ja": "シモン",
+          "ko": "시몬",
+          "role": "대그렌단의 지도자",
+          "speech": "슬픔을 삼킨 뒤 모두를 이끄는 선언"
+        },
+        {
+          "ja": "ニア",
+          "ko": "니아",
+          "role": "시몬과 연결된 인물",
+          "speech": "맑고 정중하지만 운명을 받아들이는 어조"
+        },
+        {
+          "ja": "ヴィラル",
+          "ko": "비랄",
+          "role": "시몬의 라이벌·전우",
+          "speech": "거친 경쟁심에서 충성으로 이동"
+        }
+      ],
+      "relationships": [
+        "시몬과 니아의 관계는 개인적 사랑과 은하의 운명을 동시에 짊어진다.",
+        "비랄은 카미나의 빈자리를 다른 방식으로 채우는 경쟁자다."
+      ],
+      "speechGuidance": "장엄함을 이유로 모든 대사를 고전어로 만들지 않는다. 니아의 맑음, 비랄의 거침, 시몬의 계승을 분리한다.",
+      "translationNotes": [
+        "나암편의 ‘나암’ 표기를 다른 지명과 혼동하지 않음",
+        "희생 장면의 짧은 호흡과 말줄임을 보존"
+      ],
+      "sourceIds": [
+        "gurren_official",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "iron_man_28",
+      "franchise": "tetsujin",
+      "jaTitle": "太陽の使者 鉄人28号",
+      "koTitle": "태양의 사자 철인 28호",
+      "participation": "returning",
+      "aliases": [
+        "철인 28호",
+        "태양의 사자"
+      ],
+      "setting": "소년 쇼타로가 아버지가 남긴 원격 조종 로봇 철인 28호로 범죄와 재난에 맞선다. 정의·가족·소년의 책임이 중심이다.",
+      "keyCharacters": [
+        {
+          "ja": "金田正太郎",
+          "ko": "카네다 쇼타로",
+          "role": "철인 조종자·소년 탐정",
+          "speech": "또렷하고 정의감 있는 소년 말투"
+        },
+        {
+          "ja": "敷島博士",
+          "ko": "시키시마 박사",
+          "role": "철인 개발을 아는 어른",
+          "speech": "차분한 설명과 보호자 같은 조언"
+        }
+      ],
+      "relationships": [
+        "쇼타로는 어른의 지시를 따르기만 하는 조종자가 아니라 스스로 옳고 그름을 판단한다.",
+        "시키시마 박사는 쇼타로에게 진실을 숨기면서도 안전을 걱정하는 보호자다."
+      ],
+      "speechGuidance": "소년의 정의감은 유치한 구호가 아니라 책임감으로 번역한다. 설명 대사는 짧고 명확하게 한다.",
+      "translationNotes": [
+        "철인 28호와 기체명 표기를 건담 계열과 섞지 않음",
+        "쇼타로의 존댓말은 어른 상대에만 사용"
+      ],
+      "sourceIds": [
+        "gamewatch_preview",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "char_counterattack",
+      "franchise": "gundam",
+      "jaTitle": "機動戦士ガンダム 逆襲のシャア",
+      "koTitle": "기동전사 건담 역습의 샤아",
+      "participation": "returning",
+      "aliases": [
+        "역습의 샤아",
+        "CCA"
+      ],
+      "setting": "UC0093, 샤아의 신생 네오지온과 론도 벨의 마지막 결전. 아무로와 샤아의 오랜 이상·감정·숙명이 충돌한다.",
+      "keyCharacters": [
+        {
+          "ja": "アムロ・レイ",
+          "ko": "아무로 레이",
+          "role": "론도 벨 대위·뉴 건담 파일럿",
+          "speech": "절제된 현실주의와 동료를 향한 배려"
+        },
+        {
+          "ja": "シャア・アズナブル",
+          "ko": "샤아 아즈나블",
+          "role": "신생 네오지온 총수",
+          "speech": "정치적 수사와 개인적 집착이 겹침"
+        },
+        {
+          "ja": "クェス・パラヤ",
+          "ko": "퀘스 파라야",
+          "role": "젊은 뉴타입",
+          "speech": "미성숙한 동경과 감정의 급변"
+        }
+      ],
+      "relationships": [
+        "아무로와 샤아는 적이지만 서로만이 상대의 능력과 상처를 이해한다.",
+        "샤아는 퀘스의 동경을 이용하고, 아무로는 이를 막으려 한다."
+      ],
+      "speechGuidance": "샤아의 정치적 표현과 개인적 미련을 구분한다. 아무로의 반박은 고함보다 냉정한 논리와 짧은 분노로 처리한다.",
+      "translationNotes": [
+        "샤아/크와트로의 명칭은 장면별 ID로 결정",
+        "뉴타입·액시즈·론도 벨 표기 고정"
+      ],
+      "sourceIds": [
+        "gamewatch_preview",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "daiguard",
+      "franchise": "daiguard",
+      "jaTitle": "地球防衛企業ダイ・ガード",
+      "koTitle": "지구방위기업 다이·가드",
+      "participation": "returning",
+      "aliases": [
+        "다이 가드",
+        "다이가드"
+      ],
+      "setting": "민간 기업의 샐러리맨들이 홍련대에 맞서 낡은 로봇 다이·가드를 운용한다. 회사 업무와 시민을 지키는 영웅의 책임이 충돌한다.",
+      "keyCharacters": [
+        {
+          "ja": "赤木駿介",
+          "ko": "아카기 슌스케",
+          "role": "회사원·다이 가드 파일럿",
+          "speech": "가볍고 사람 좋은 말투, 위기에는 의외로 강단"
+        },
+        {
+          "ja": "桃井いぶき",
+          "ko": "모모이 이부키",
+          "role": "기술·작전 담당",
+          "speech": "현실적이고 빠른 지적"
+        },
+        {
+          "ja": "青山圭一郎",
+          "ko": "아오야마 케이이치로",
+          "role": "팀의 조정자",
+          "speech": "상식적인 회사원 어조"
+        }
+      ],
+      "relationships": [
+        "아카기·이부키·아오야마는 동료이자 서로의 안전을 걱정하는 회사 팀이다.",
+        "상부의 결재·예산·책임 문제를 전투 대사에 반영한다."
+      ],
+      "speechGuidance": "군대식 영웅담으로 번역하지 말고 회사원들의 현실적인 농담과 시민을 지키려는 진심을 함께 둔다.",
+      "translationNotes": [
+        "홍련대·다이·가드 표기와 회사 직함 구분",
+        "아카기의 가벼운 말투를 열혈 주인공 말투로 과장하지 않음"
+      ],
+      "sourceIds": [
+        "daiguard_official",
+        "gamewatch_preview",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "macross7",
+      "franchise": "macross7",
+      "jaTitle": "マクロス7",
+      "koTitle": "마크로스 7",
+      "participation": "returning",
+      "aliases": [
+        "마크로스 세븐",
+        "사운드 포스"
+      ],
+      "setting": "마크로스 7 선단에서 바사라가 전투 대신 노래로 적의 마음과 생명력을 흔든다. 음악과 군사 명령의 충돌이 핵심이다.",
+      "keyCharacters": [
+        {
+          "ja": "熱気バサラ",
+          "ko": "넥키 바사라",
+          "role": "파이어 봄버 보컬·VF 파일럿",
+          "speech": "거칠고 자유분방하며 노래를 명령처럼 외침"
+        },
+        {
+          "ja": "ミレーヌ・ジーナス",
+          "ko": "밀레느 지너스",
+          "role": "파이어 봄버 보컬",
+          "speech": "당돌하고 솔직한 젊은 말투"
+        },
+        {
+          "ja": "ガムリン木崎",
+          "ko": "감린 키자키",
+          "role": "군인 파일럿",
+          "speech": "규율 있는 군인 어조, 바사라에게 휘둘림"
+        }
+      ],
+      "relationships": [
+        "바사라는 밀레느의 음악적 동료지만 연애 감정은 쉽게 확정하지 않는다.",
+        "감린은 군인으로서 바사라를 못마땅해하면서도 그의 방식이 사람을 살린다는 점을 인정한다."
+      ],
+      "speechGuidance": "바사라가 ‘노래’를 감상평이 아니라 행동·신념으로 말한다는 점을 유지한다. 감린의 군대식 보고와 밀레느의 반발을 분리한다.",
+      "translationNotes": [
+        "파이어 봄버·사운드 포스 표기 고정",
+        "노래 가사 자체를 새로 옮기지 않고 대사의 기능만 번역"
+      ],
+      "sourceIds": [
+        "macross7_official",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "macross_dynamite7",
+      "franchise": "macross7",
+      "jaTitle": "マクロス ダイナマイト7",
+      "koTitle": "마크로스 다이너마이트 7",
+      "participation": "returning",
+      "aliases": [
+        "마크로스 다이너마이트 세븐"
+      ],
+      "setting": "변방 행성에서 바사라가 우주 고래와 마주하며 자신의 노래와 전투 방식의 의미를 되돌아본다.",
+      "keyCharacters": [
+        {
+          "ja": "熱気バサラ",
+          "ko": "넥키 바사라",
+          "role": "방랑하는 가수",
+          "speech": "짧고 거친 말 속에 음악적 직관"
+        },
+        {
+          "ja": "エルマ・ホイリー",
+          "ko": "엘마 호일리",
+          "role": "바사라를 동경하는 소녀",
+          "speech": "존경과 호기심이 섞인 밝은 말투"
+        }
+      ],
+      "relationships": [
+        "엘마는 바사라의 방식을 맹목적으로 흉내 내기보다 그가 왜 노래하는지 배우는 인물이다."
+      ],
+      "speechGuidance": "TV판의 소란스러운 밴드 분위기보다 방랑·자연·내면의 여운을 살린다.",
+      "translationNotes": [
+        "마크로스 7과 별도 작품이지만 바사라의 기본 말투는 공유",
+        "우주 고래를 괴물로 단정하지 않음"
+      ],
+      "sourceIds": [
+        "macross7_official",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "dancouga_nova",
+      "franchise": "dancouga_nova",
+      "jaTitle": "獣装機攻 ダンクーガ ノヴァ",
+      "koTitle": "수장기공 단쿠가 노바",
+      "participation": "returning",
+      "aliases": [
+        "단쿠가 노바",
+        "DANCOUGA NOVA"
+      ],
+      "setting": "정체를 숨긴 민간 전투 팀이 전쟁의 흐름에 개입한다. 각자의 일상과 파일럿 임무 사이의 간극이 팀 드라마를 만든다.",
+      "keyCharacters": [
+        {
+          "ja": "飛鷹葵",
+          "ko": "히오 아오이",
+          "role": "노바 이글 파일럿",
+          "speech": "활달하고 솔직하지만 책임감 있음"
+        },
+        {
+          "ja": "館華くらら",
+          "ko": "타치바나 쿠라라",
+          "role": "팀의 냉정한 전투원",
+          "speech": "간결하고 실무적인 말투"
+        },
+        {
+          "ja": "加門朔哉",
+          "ko": "카몬 사쿠야",
+          "role": "노바 라이거 파일럿",
+          "speech": "가벼운 농담과 전투 집중의 전환"
+        }
+      ],
+      "relationships": [
+        "아오이와 쿠라라는 성격이 다르지만 서로의 빈틈을 메우는 팀원이다.",
+        "팀은 비밀 임무 때문에 외부 세력과 거리를 두지만 전투에서는 동료애가 강하다."
+      ],
+      "speechGuidance": "모든 대사를 고전 단쿠가식 열혈어로 만들지 않는다. 일상 대화의 가벼움과 임무 보고의 간결함을 분리한다.",
+      "translationNotes": [
+        "단쿠가·노바 이글 등 기체 표기를 로봇 사전과 일치",
+        "팀 내 이름 호칭은 친밀도를 반영"
+      ],
+      "sourceIds": [
+        "dengekionline_lineup",
+        "gamewatch_preview",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "shin_mazinger",
+      "franchise": "mazinger",
+      "jaTitle": "真マジンガー 衝撃！Z編",
+      "koTitle": "진 마징가 충격! Z편",
+      "participation": "returning",
+      "aliases": [
+        "진 마징가",
+        "마징가 Z"
+      ],
+      "setting": "카부토 가문의 유산과 닥터 헬의 야망이 신화적·과장된 연출로 펼쳐진다. 가족의 비밀과 로봇의 힘이 함께 움직인다.",
+      "keyCharacters": [
+        {
+          "ja": "兜甲児",
+          "ko": "카부토 코우지",
+          "role": "마징가 Z 파일럿",
+          "speech": "열혈·직선적·가족을 지키려는 고함"
+        },
+        {
+          "ja": "弓さやか",
+          "ko": "유미 사야카",
+          "role": "아프로다이 A 파일럿·동료",
+          "speech": "당당하고 빠른 반박"
+        },
+        {
+          "ja": "兜剣造",
+          "ko": "카부토 켄조",
+          "role": "코우지의 아버지·과학자",
+          "speech": "엄격한 설명과 숨겨진 애정"
+        }
+      ],
+      "relationships": [
+        "코우지와 사야카는 티격태격하지만 서로의 전투 판단을 믿는다.",
+        "코우지와 켄조의 갈등은 아버지의 비밀과 보호 본능에서 나온다."
+      ],
+      "speechGuidance": "열혈을 욕설이나 소리 지르기로만 표현하지 않는다. 가족 장면에서는 거친 말 안의 애정을 드러낸다.",
+      "translationNotes": [
+        "마징가 Z·닥터 헬·카부토 가문 표기 고정",
+        "사야카를 수동적인 조력자로 축소하지 않음"
+      ],
+      "sourceIds": [
+        "gamewatch_preview",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "code_geass_r2",
+      "franchise": "code_geass",
+      "jaTitle": "コードギアス 反逆のルルーシュ R2",
+      "koTitle": "코드 기아스 반역의 를르슈 R2",
+      "participation": "returning",
+      "aliases": [
+        "코드 기아스 R2",
+        "반역의 를르슈 R2"
+      ],
+      "setting": "브리타니아 제국과 흑의 기사단의 전쟁 속에서 를르슈가 제로의 가면과 가족·친구 관계를 이용해 세계를 바꾸려 한다.",
+      "keyCharacters": [
+        {
+          "ja": "ルルーシュ・ランペルージ",
+          "ko": "를르슈 람페르지",
+          "role": "제로·전략가",
+          "speech": "정중한 냉소와 연극적인 선언"
+        },
+        {
+          "ja": "枢木スザク",
+          "ko": "쿠루루기 스자쿠",
+          "role": "브리타니아 기사·친구",
+          "speech": "원칙적이고 자기검열적인 존댓말"
+        },
+        {
+          "ja": "C.C.",
+          "ko": "C.C.",
+          "role": "계약자·공모자",
+          "speech": "무심하고 오래 산 사람의 여유"
+        },
+        {
+          "ja": "紅月カレン",
+          "ko": "코우즈키 카렌",
+          "role": "흑의 기사단 에이스",
+          "speech": "직선적이고 행동 중심"
+        }
+      ],
+      "relationships": [
+        "를르슈와 스자쿠는 친구이면서 서로의 정의를 부정하는 적이다.",
+        "C.C.는 를르슈의 계획을 돕지만 감정적으로 휘둘리지 않는 거리를 유지한다.",
+        "카렌은 제로를 믿으면서도 개인으로서의 를르슈에게 분노한다."
+      ],
+      "speechGuidance": "제로의 선언과 를르슈의 사적인 동요를 다른 층위로 쓴다. 스자쿠의 존댓말은 격식이 아니라 자기 통제의 표현이다.",
+      "translationNotes": [
+        "제로·흑의 기사단·브리타니아 표기 고정",
+        "C.C. 표기와 호칭을 임의로 한글화하지 않음"
+      ],
+      "sourceIds": [
+        "code_geass_official",
+        "gamewatch_preview",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "gundam_w_ew",
+      "franchise": "gundam_w",
+      "jaTitle": "新機動戦記ガンダムW Endless Waltz",
+      "koTitle": "신기동전기 건담 W Endless Waltz",
+      "participation": "z_series_first",
+      "aliases": [
+        "건담 W EW",
+        "엔드리스 왈츠"
+      ],
+      "setting": "전쟁이 끝난 뒤에도 무기와 권력의 잔재가 남는다. 다섯 건담 파일럿과 리리나가 평화를 지키는 방법을 두고 갈등한다.",
+      "keyCharacters": [
+        {
+          "ja": "ヒイロ・ユイ",
+          "ko": "히이로 유이",
+          "role": "윙 건담 제로 파일럿",
+          "speech": "극도로 짧고 감정을 숨긴 명령문"
+        },
+        {
+          "ja": "デュオ・マックスウェル",
+          "ko": "듀오 맥스웰",
+          "role": "데스사이즈 헬 파일럿",
+          "speech": "농담과 친근함으로 긴장을 완화"
+        },
+        {
+          "ja": "リリーナ・ドーリアン",
+          "ko": "리리나 도리안",
+          "role": "평화주의 정치 지도자",
+          "speech": "정중하지만 신념이 단단한 연설"
+        },
+        {
+          "ja": "ゼクス・マーキス",
+          "ko": "젝스 마키스",
+          "role": "밀리아르도·전사",
+          "speech": "격식 있고 비극적인 군인 어조"
+        }
+      ],
+      "relationships": [
+        "히이로는 리리나를 지키지만 감정을 설명하지 않고 행동으로 보인다.",
+        "듀오는 히이로의 침묵을 농담으로 받아 주는 동료다.",
+        "리리나와 젝스는 남매이자 평화와 전쟁의 상징으로 대립한다."
+      ],
+      "speechGuidance": "히이로의 짧음을 한국어 어색한 생략으로 만들지 말고 필요한 주어만 남긴다. 듀오의 농담을 가볍게만 처리하지 말고 전쟁의 상처를 가린다는 점을 반영한다.",
+      "translationNotes": [
+        "히이로·리리나·젝스의 이름과 직함을 고정",
+        "평화 연설은 장황하게 늘이지 않고 논리 단위를 보존"
+      ],
+      "sourceIds": [
+        "gundamw_ew_official",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "full_metal_panic",
+      "franchise": "full_metal_panic",
+      "jaTitle": "フルメタル・パニック！",
+      "koTitle": "풀 메탈 패닉!",
+      "participation": "z_series_first",
+      "aliases": [
+        "FMP",
+        "풀 메탈 패닉"
+      ],
+      "setting": "미스릴의 용병 소스케가 카나메를 보호하기 위해 학교에 잠입한다. 군사 음모와 일상 코미디가 같은 인물 사이에서 충돌한다.",
+      "keyCharacters": [
+        {
+          "ja": "相良宗介",
+          "ko": "사가라 소스케",
+          "role": "미스릴 SRT 소속 용병",
+          "speech": "군인식 단정문·문자 그대로 해석"
+        },
+        {
+          "ja": "千鳥かなめ",
+          "ko": "치도리 카나메",
+          "role": "보호 대상·학생",
+          "speech": "빠른 츳코미·감정이 풍부한 반말"
+        },
+        {
+          "ja": "メリッサ・マオ",
+          "ko": "멜리사 마오",
+          "role": "SRT 상사·AS 파일럿",
+          "speech": "거침없고 경험 많은 농담"
+        },
+        {
+          "ja": "テレサ・テスタロッサ",
+          "ko": "테레사 테스타롯사",
+          "role": "투아하 데 다난 함장",
+          "speech": "공식 석상은 정중, 사적인 장면은 서툴고 부드러움"
+        }
+      ],
+      "relationships": [
+        "소스케와 카나메는 보호 임무에서 시작해 서로의 상식과 감정을 바꾸는 파트너가 된다.",
+        "마오는 소스케의 상관이자 누나 같은 동료이고, 테사는 지휘관이면서 소스케에게 호감을 품는다."
+      ],
+      "speechGuidance": "공식 캐릭터 설명처럼 소스케의 군사적 문자 해석과 카나메의 빠른 츳코미가 ‘만담’처럼 맞물려야 한다. 소스케를 감정 없는 로봇으로, 카나메를 단순한 잔소리꾼으로 만들지 않는다.",
+      "translationNotes": [
+        "소스케→카나메는 이름을 부르되 군사 보고에서는 직무 호칭을 유지",
+        "미스릴·SRT·AS 표기 고정"
+      ],
+      "sourceIds": [
+        "fmp_character",
+        "fmp_story",
+        "gamewatch_preview",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "full_metal_panic_fumoffu",
+      "franchise": "full_metal_panic",
+      "jaTitle": "フルメタル・パニック？ふもっふ",
+      "koTitle": "풀 메탈 패닉? 후못후",
+      "participation": "z_series_first",
+      "aliases": [
+        "후못후",
+        "Fumoffu"
+      ],
+      "setting": "학교 생활의 소동을 중심으로 소스케의 군사적 상식과 카나메의 일상 상식이 충돌한다. 폭력적인 상황도 개그 타이밍으로 전환된다.",
+      "keyCharacters": [
+        {
+          "ja": "相良宗介",
+          "ko": "사가라 소스케",
+          "role": "학교에 적응하지 못하는 용병",
+          "speech": "진지한 군사 용어를 일상에 적용"
+        },
+        {
+          "ja": "千鳥かなめ",
+          "ko": "치도리 카나메",
+          "role": "소스케의 반응을 교정하는 학생",
+          "speech": "즉각적인 츳코미와 과장된 반응"
+        }
+      ],
+      "relationships": [
+        "카나메가 소스케의 행동을 제지할수록 두 사람의 신뢰와 친밀도가 드러난다."
+      ],
+      "speechGuidance": "대사를 멋있게 다듬어 개그를 죽이지 않는다. 소스케의 오해는 진지하게, 카나메의 반응은 한 박자 빠르게 쓴다.",
+      "translationNotes": [
+        "후못후의 코미디 대사는 설명을 덧붙이지 않음",
+        "소스케의 군사 약어는 상황에 맞게 짧게 유지"
+      ],
+      "sourceIds": [
+        "fmp_character",
+        "fmp_story",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "full_metal_panic_tsr",
+      "franchise": "full_metal_panic",
+      "jaTitle": "フルメタル・パニック！The Second Raid",
+      "koTitle": "풀 메탈 패닉! The Second Raid",
+      "participation": "z_series_first",
+      "aliases": [
+        "TSR",
+        "세컨드 레이드"
+      ],
+      "setting": "미스릴 내부의 배신과 아말감의 압박으로 소스케와 카나메의 관계가 어두워진다. 학교 코미디보다 전쟁의 선택과 상실이 앞선다.",
+      "keyCharacters": [
+        {
+          "ja": "相良宗介",
+          "ko": "사가라 소스케",
+          "role": "전투와 보호 임무 사이의 용병",
+          "speech": "더 짧고 자책이 섞인 군인 말투"
+        },
+        {
+          "ja": "千鳥かなめ",
+          "ko": "치도리 카나메",
+          "role": "위협의 중심이 된 학생",
+          "speech": "불안 속에서도 상대를 몰아붙이는 직설"
+        },
+        {
+          "ja": "クルツ・ウェーバー",
+          "ko": "쿠르츠 웨버",
+          "role": "저격수·소스케의 동료",
+          "speech": "가벼운 농담 뒤에 전문적인 냉정함"
+        }
+      ],
+      "relationships": [
+        "소스케와 카나메는 서로를 지키려다 오히려 상처를 주며, 신뢰를 말보다 행동으로 확인한다.",
+        "쿠르츠는 소스케를 놀리지만 전우로서 목숨을 맡긴다."
+      ],
+      "speechGuidance": "후못후식 개그 말투를 그대로 이식하지 않는다. 소스케의 침묵과 카나메의 불안 사이에 남은 신뢰를 짧은 문장으로 보여 준다.",
+      "translationNotes": [
+        "아말감·미스릴·Lambda Driver 표기 고정",
+        "전투 보고와 사적 대화의 존칭 차이를 유지"
+      ],
+      "sourceIds": [
+        "fmp_character",
+        "fmp_story",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "top_wo_nerae",
+      "franchise": "top_wo_nerae",
+      "jaTitle": "トップをねらえ！",
+      "koTitle": "톱을 노려라!",
+      "participation": "z_series_first",
+      "aliases": [
+        "건버스터",
+        "톱을 노려라"
+      ],
+      "setting": "노리코가 우주 파일럿 훈련과 시간 지연을 넘어 인류를 지키는 군인이 된다. 스포츠 성장물의 열정과 우주전쟁의 비극이 함께 있다.",
+      "keyCharacters": [
+        {
+          "ja": "タカヤ・ノリコ",
+          "ko": "타카야 노리코",
+          "role": "건버스터 파일럿",
+          "speech": "초반의 서툼에서 열혈·결의로 성장"
+        },
+        {
+          "ja": "アマノ・カズミ",
+          "ko": "아마노 카즈미",
+          "role": "선배 파일럿",
+          "speech": "절제되고 엄격하지만 후배를 아낌"
+        },
+        {
+          "ja": "オオタ・コーチ",
+          "ko": "오타 코치",
+          "role": "훈련 교관",
+          "speech": "짧고 엄격한 명령·격려"
+        }
+      ],
+      "relationships": [
+        "노리코는 카즈미를 동경하는 후배에서 어깨를 나란히 하는 전우로 성장한다.",
+        "오타 코치의 엄격함은 생존을 위한 보호이며 모욕이 아니다."
+      ],
+      "speechGuidance": "훈련 구호와 사적인 동경을 구분한다. 노리코의 울먹임을 유아적으로 만들지 말고 성장의 단계로 처리한다.",
+      "translationNotes": [
+        "선배·코치 호칭을 장면별로 유지",
+        "필살기 구호는 짧고 힘 있게, 설명문처럼 번역하지 않음"
+      ],
+      "sourceIds": [
+        "top_official",
+        "gamewatch_preview",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "votoms",
+      "franchise": "votoms",
+      "jaTitle": "装甲騎兵ボトムズ",
+      "koTitle": "장갑기병 보톰즈",
+      "participation": "returning",
+      "aliases": [
+        "보톰즈",
+        "AT"
+      ],
+      "setting": "백년전쟁의 말단 병사 키리코가 군과 종교·거대 음모에 휘말린다. 폐허·배틀링·값싼 양산 AT의 하드보일드 전쟁극이다.",
+      "keyCharacters": [
+        {
+          "ja": "キリコ・キュービィー",
+          "ko": "키리코 큐비",
+          "role": "전직 레드 숄더·AT 파일럿",
+          "speech": "극도로 절제된 단문·감정 억제"
+        },
+        {
+          "ja": "フィアナ",
+          "ko": "피아나",
+          "role": "키리코와 운명을 공유하는 인물",
+          "speech": "조용하고 비극적인 애정"
+        },
+        {
+          "ja": "バニラ・バートラー",
+          "ko": "바닐라 바틀러",
+          "role": "키리코의 생존 동료",
+          "speech": "수다스럽고 인간적인 완충"
+        }
+      ],
+      "relationships": [
+        "키리코와 피아나는 전쟁이 빼앗은 인간성을 서로에게서 확인한다.",
+        "바닐라·고토는 키리코의 고독을 현실적인 동료애로 붙잡는다."
+      ],
+      "speechGuidance": "키리코의 침묵과 관찰을 장황한 독백으로 바꾸지 않는다. 전쟁 용어는 건조하게, 동료들의 농담은 대비되게 둔다.",
+      "translationNotes": [
+        "AT·레드 숄더·배틀링 표기 고정",
+        "키리코를 무감정이 아니라 감정을 숨기는 사람으로 해석"
+      ],
+      "sourceIds": [
+        "votoms_character",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "votoms_hakui",
+      "franchise": "votoms",
+      "jaTitle": "装甲騎兵ボトムズ 赫奕たる異端",
+      "koTitle": "장갑기병 보톰즈 혁혁한 이단",
+      "participation": "srw_first",
+      "aliases": [
+        "보톰즈 혁혁한 이단",
+        "赫奕たる異端"
+      ],
+      "setting": "키리코가 긴 동면 뒤 깨어나 마티알 종교권의 신화와 추적에 맞선다. TV판의 전쟁극에 종교적·신화적 색채가 더해진다.",
+      "keyCharacters": [
+        {
+          "ja": "キリコ・キュービィー",
+          "ko": "키리코 큐비",
+          "role": "동면에서 깨어난 불사에 가까운 병사",
+          "speech": "더욱 건조하고 피로한 단문"
+        },
+        {
+          "ja": "テイタニア・ダモン",
+          "ko": "테이타니아 다몬",
+          "role": "마티알의 추적자",
+          "speech": "격식 있는 신앙·명령 어조"
+        },
+        {
+          "ja": "フィアナ",
+          "ko": "피아나",
+          "role": "키리코의 운명적 동료",
+          "speech": "짧고 애절한 반응"
+        }
+      ],
+      "relationships": [
+        "키리코는 신으로 추앙되거나 사냥당하지만 스스로 신화가 되기를 거부한다.",
+        "테이타니아의 추적은 교리와 개인적 집착이 겹친다."
+      ],
+      "speechGuidance": "신성·이단·구원 어휘를 일상적인 악당 대사로 낮추지 않는다. 다만 키리코는 거창한 설교 대신 짧은 거부로 대응한다.",
+      "translationNotes": [
+        "마티알·이단·신의 아이 관련 용어를 사전과 통일",
+        "TV판 보톰즈와 말투의 건조함을 공유"
+      ],
+      "sourceIds": [
+        "votoms_hakui",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "votoms_big_battle",
+      "franchise": "votoms",
+      "jaTitle": "装甲騎兵ボトムズ ビッグバトル",
+      "koTitle": "장갑기병 보톰즈 빅 배틀",
+      "participation": "srw_first",
+      "aliases": [
+        "보톰즈 빅 배틀",
+        "빅 배틀"
+      ],
+      "setting": "키리코가 포로가 된 피아나를 구하기 위해 지상 전함과 배틀링에 뛰어든다. 육중한 전투와 생존자의 의리가 중심이다.",
+      "keyCharacters": [
+        {
+          "ja": "キリコ・キュービィー",
+          "ko": "키리코 큐비",
+          "role": "피아나를 구하는 AT 파일럿",
+          "speech": "목적을 숨기지 않는 짧은 단문"
+        },
+        {
+          "ja": "フィアナ",
+          "ko": "피아나",
+          "role": "구출 대상이자 전우",
+          "speech": "절제된 감정과 결의"
+        },
+        {
+          "ja": "バニラ・バートラー",
+          "ko": "바닐라 바틀러",
+          "role": "키리코의 협력자",
+          "speech": "겁을 내면서도 행동하는 인간미"
+        }
+      ],
+      "relationships": [
+        "키리코와 바닐라는 피아나를 구한다는 현실적인 목표로 다시 협력한다."
+      ],
+      "speechGuidance": "배틀링의 거친 분위기를 욕설로 채우지 않는다. 키리코의 목표 지향성과 바닐라의 인간적인 두려움을 대비한다.",
+      "translationNotes": [
+        "빅 배틀은 작품명과 전투 이벤트를 구분",
+        "AT 무장명은 로봇 사전 표기를 우선"
+      ],
+      "sourceIds": [
+        "dengekionline_lineup",
+        "gamewatch_preview",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "gundam_00_movie",
+      "franchise": "gundam_00",
+      "jaTitle": "劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-",
+      "koTitle": "극장판 기동전사 건담 00 -A wakening of the Trailblazer-",
+      "participation": "z_series_first",
+      "aliases": [
+        "건담 00 극장판",
+        "A wakening of the Trailblazer"
+      ],
+      "setting": "인류가 ELS라는 미지의 외계 생명체와 조우한다. 전쟁에서 이기는 대신 대화와 상호이해를 선택할 수 있는지가 핵심이다.",
+      "keyCharacters": [
+        {
+          "ja": "刹那・F・セイエイ",
+          "ko": "세츠나 F. 세이에이",
+          "role": "더블오 퀀터 파일럿·이노베이터",
+          "speech": "짧고 확신에 찬 선언, 감정을 직접 설명하지 않음"
+        },
+        {
+          "ja": "ティエリア・アーデ",
+          "ko": "티에리아 아데",
+          "role": "베다와 솔레스탈 비잉의 분석자",
+          "speech": "정확하고 이성적인 문장"
+        },
+        {
+          "ja": "アレルヤ・ハプティズム",
+          "ko": "알렐루야 합티즘",
+          "role": "기동전사·동료",
+          "speech": "차분하고 배려하는 말투"
+        }
+      ],
+      "relationships": [
+        "세츠나는 ELS와의 접촉을 전투가 아니라 대화의 문제로 받아들이며 동료들이 이를 믿고 지원한다.",
+        "솔레스탈 비잉 구성원은 과거의 죄를 공유하지만 각자 다른 방식으로 평화를 선택한다."
+      ],
+      "speechGuidance": "세츠나의 ‘건담’ 발언은 유행어가 아니라 정체성과 결단이다. ELS를 단순한 괴물·적군으로 번역하지 않고 상호이해의 어조를 남긴다.",
+      "translationNotes": [
+        "이노베이터·ELS·솔레스탈 비잉 표기 고정",
+        "세츠나의 짧은 문장을 과도한 존댓말로 늘이지 않음"
+      ],
+      "sourceIds": [
+        "gundam00_official",
+        "gamewatch_preview",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "eva_1",
+      "franchise": "evangelion",
+      "jaTitle": "ヱヴァンゲリヲン新劇場版：序",
+      "koTitle": "에반게리온 신극장판: 서",
+      "participation": "z_series_first",
+      "aliases": [
+        "에바 서",
+        "신극장판 서"
+      ],
+      "setting": "제3신동경시에서 사도와 에바의 전투가 시작된다. 신지는 아버지의 부름과 타인의 기대 사이에서 파일럿이 된다.",
+      "keyCharacters": [
+        {
+          "ja": "碇シンジ",
+          "ko": "이카리 신지",
+          "role": "초호기 파일럿",
+          "speech": "망설임·자기검열·작은 결심"
+        },
+        {
+          "ja": "綾波レイ",
+          "ko": "아야나미 레이",
+          "role": "영호기 파일럿",
+          "speech": "감정을 절제한 짧은 문장"
+        },
+        {
+          "ja": "葛城ミサト",
+          "ko": "카츠라기 미사토",
+          "role": "작전 지휘관·보호자",
+          "speech": "일상에서는 밝고 작전에서는 명확한 명령"
+        }
+      ],
+      "relationships": [
+        "신지는 미사토의 집에서 생활하며 레이와 자신을 비교한다.",
+        "레이는 겉으로 무심하지만 신지의 선택에 영향을 받는다.",
+        "겐도와 신지의 부자 관계는 대사의 짧음과 침묵으로 드러난다."
+      ],
+      "speechGuidance": "신지의 망설임을 장황한 자기연민으로 늘이지 않는다. 레이의 평탄함은 감정 없음이 아니라 표현 방식의 차이다.",
+      "translationNotes": [
+        "‘서/파’의 작품명과 장면 제목을 구분",
+        "에바·사도·NERV·제3신동경시 표기 고정"
+      ],
+      "sourceIds": [
+        "eva_official",
+        "gamewatch_preview",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "eva_2",
+      "franchise": "evangelion",
+      "jaTitle": "ヱヴァンゲリヲン新劇場版：破",
+      "koTitle": "에반게리온 신극장판: 파",
+      "participation": "z_series_first",
+      "aliases": [
+        "에바 파",
+        "신극장판 파"
+      ],
+      "setting": "새 파일럿과 에바가 합류하며 관계가 넓어지고, 각자의 바람과 조직의 계획이 충돌한다. 학교의 일상과 세계 멸망의 위기가 교차한다.",
+      "keyCharacters": [
+        {
+          "ja": "式波・アスカ・ラングレー",
+          "ko": "시키나미 아스카 랑그레이",
+          "role": "2호기 파일럿",
+          "speech": "자존심 강하고 날카로운 반말"
+        },
+        {
+          "ja": "真希波・マリ・イラストリアス",
+          "ko": "마키나미 마리 일러스트리어스",
+          "role": "새로운 에바 파일럿",
+          "speech": "장난스럽고 감각적인 말투"
+        },
+        {
+          "ja": "碇シンジ",
+          "ko": "이카리 신지",
+          "role": "초호기 파일럿",
+          "speech": "타인을 돕고 싶다는 마음이 점차 선명해짐"
+        }
+      ],
+      "relationships": [
+        "아스카는 신지와 경쟁하면서도 인정받고 싶어 한다.",
+        "마리는 조직의 비밀을 알고도 가볍게 행동하며 기존 파일럿들과 다른 긴장을 만든다.",
+        "신지의 선택은 개인적 소망과 세계 규모의 결과를 동시에 낳는다."
+      ],
+      "speechGuidance": "아스카의 날카로움을 단순한 욕설로 번역하지 않는다. 마리의 여유와 신지의 진지함을 같은 속도로 만들지 않는다.",
+      "translationNotes": [
+        "시키나미·마키나미 성을 포함한 풀네임 표기 확인",
+        "에바 파일럿의 호칭과 계급을 장면별 유지"
+      ],
+      "sourceIds": [
+        "eva_official",
+        "gamewatch_preview",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "gundam_uc",
+      "franchise": "gundam_uc",
+      "jaTitle": "機動戦士ガンダムUC",
+      "koTitle": "기동전사 건담 UC",
+      "participation": "srw_first",
+      "aliases": [
+        "유니콘 건담",
+        "UC"
+      ],
+      "setting": "UC0096 산업 콜로니 인더스트리얼 7에서 라플라스의 상자와 우주세기의 비밀을 둘러싼 싸움이 시작된다. 뉴타입의 가능성과 정치적 책임이 핵심이다.",
+      "keyCharacters": [
+        {
+          "ja": "バナージ・リンクス",
+          "ko": "버나지 링크스",
+          "role": "유니콘 건담 파일럿",
+          "speech": "예의 바르고 망설이지만 타인의 생명을 선택할 때 단호함"
+        },
+        {
+          "ja": "フル・フロンタル",
+          "ko": "풀 프론탈",
+          "role": "네오지온 지도자",
+          "speech": "어른의 여유를 무기로 삼는 계산된 수사"
+        },
+        {
+          "ja": "マリーダ・クルス",
+          "ko": "마리다 크루즈",
+          "role": "퀸 만사 파일럿·강화인간",
+          "speech": "절제되고 충성심과 상처가 함께 드러남"
+        },
+        {
+          "ja": "リディ・マーセナス",
+          "ko": "리디 마세나스",
+          "role": "연방 파일럿",
+          "speech": "이상과 질투 사이에서 흔들리는 군인 말투"
+        }
+      ],
+      "relationships": [
+        "버나지는 마리다와의 대화를 통해 강화인간도 한 사람이라는 확신을 얻는다.",
+        "풀 프론탈은 샤아를 닮은 외양과 수사를 이용하지만 더 계산적이고 냉정한 지도자다.",
+        "버나지와 리디는 같은 사람을 지키려다 서로 다른 선택으로 갈라진다."
+      ],
+      "speechGuidance": "버나지의 공손함을 나약함으로 만들지 않는다. 풀 프론탈의 어른스러운 비유와 계산을 젊은 샤아의 열정으로 번역하지 않는다.",
+      "translationNotes": [
+        "라플라스의 상자·유니콘·네오지온·강화인간 표기 고정",
+        "풀 프론탈과 샤아/크와트로의 이름을 자동 병합하지 않음"
+      ],
+      "sourceIds": [
+        "gundam_uc_manual",
+        "gamewatch_preview",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    },
+    {
+      "id": "aquarion_evol",
+      "franchise": "aquarion",
+      "jaTitle": "アクエリオンEVOL",
+      "koTitle": "아쿠에리온 EVOL",
+      "participation": "srw_first",
+      "aliases": [
+        "아쿠에리온 에볼",
+        "EVOL"
+      ],
+      "setting": "아마타와 미코노가 금지된 남녀 합체로 아쿠에리온 EVOL을 깨운다. 사립기관의 훈련, 전생의 인연, 사랑과 전쟁이 한데 얽힌다.",
+      "keyCharacters": [
+        {
+          "ja": "アマタ・ソラ",
+          "ko": "아마타 소라",
+          "role": "EVOL 파일럿",
+          "speech": "순수하고 상대를 배려하는 말투"
+        },
+        {
+          "ja": "ミコノ・スズシロ",
+          "ko": "미코노 스즈시로",
+          "role": "공감과 치유의 중심",
+          "speech": "상냥하고 조심스러운 존댓말"
+        },
+        {
+          "ja": "ゼシカ・ウォン",
+          "ko": "제시카 웡",
+          "role": "동료 파일럿",
+          "speech": "당당하고 질투를 숨기지 않는 직설"
+        },
+        {
+          "ja": "カグラ・デムリ",
+          "ko": "카구라 데무리",
+          "role": "적대 세력의 전사",
+          "speech": "거칠고 본능적인 표현"
+        }
+      ],
+      "relationships": [
+        "아마타와 미코노는 서로의 불안을 감싸며 합체와 사랑의 의미를 찾는다.",
+        "제시카는 미코노를 아끼면서도 아마타에게 복잡한 감정을 품는다.",
+        "카구라는 아마타와 거울처럼 대비되는 인물이다."
+      ],
+      "speechGuidance": "합체·공명·전생을 설명문으로만 번역하지 말고 인물의 감정 변화와 연결한다. 아마타의 순수함, 미코노의 망설임, 제시카의 자존심, 카구라의 야성을 분리한다.",
+      "translationNotes": [
+        "EVOL·아쿠에리온·금지된 합체 용어 고정",
+        "남녀 합체를 성적인 농담으로 과장하지 않음"
+      ],
+      "sourceIds": [
+        "aquarion_official",
+        "aquarion_story",
+        "gamewatch_preview",
+        "dengekionline_lineup",
+        "local_xlsx"
+      ]
+    }
+  ],
+  "coverage": {
+    "works": 32,
+    "participationCounts": {
+      "srw_first": 4,
+      "z_series_first": 8,
+      "returning": 20
+    },
+    "note": "작품 변형판(극장판·OVA·후속편)도 게임 내부의 별도 표기와 말투 차이를 보존하기 위해 독립 항목으로 기록한다."
+  }
+}

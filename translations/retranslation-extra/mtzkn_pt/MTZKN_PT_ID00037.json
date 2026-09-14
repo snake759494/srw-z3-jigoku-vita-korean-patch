@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00037",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00037/Sheet1/000002",
+      "sourceBindingSha256": "9d22bd22372dcd97074ae90611876dabd01d09bf27522b26e86085f23c785899",
+      "sourceTextSha256": "93b484e8ee4fd641d47920f364ac200ca8b6ec0437f3aeea46eec4b8c76ef339",
+      "freshTranslation": "바닐라 바틀러",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00037/Sheet1/000003",
+      "sourceBindingSha256": "799e73b577a8751917b58ee4458c09035c1e0913d7ef7249d081266cf53070aa",
+      "sourceTextSha256": "978751bebc539da9ce9239799d48d5b34742853a288935b2805be87028b975d3",
+      "freshTranslation": "바닐라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00037/Sheet1/000004",
+      "sourceBindingSha256": "1ef2d4d09ea9a7b1a39bb563150c516977cc951b3e571a40ec30152afdad0096",
+      "sourceTextSha256": "095aa56eab1e8a38be44b7470675dbd3bb01e8bb6134a3c94d5e531e65a3923a",
+      "freshTranslation": "장갑 기병 하의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00037/Sheet1/000005",
+      "sourceBindingSha256": "b38be701ebcbc2dc748dfc0c7ee3187d8080038a032415a51a827af694e3b0fe",
+      "sourceTextSha256": "e33f5ea81cd4a4093b444d804829541e056d2528546198f68a011803f7521ecc",
+      "freshTranslation": "한때 우도의 거리를 근성으로 하고 있던 어둠 상인. ㊥ 황폐한 거리에서 뒷가업에 손을 물들면서도 항상 미소를 끊임없이 살고 있었다. ㊥ 쿠멘을 건너면 바 \"팬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00037/Sheet1/000006",
+      "sourceBindingSha256": "19c385df01061fa63a7382054c4d4f28c939e9e214ca3233faa1866f6f7a52c4",
+      "sourceTextSha256": "69305e6c8a2f9be3f849fd59e65f06ea9cabe1261db8ac94ee21bffcb9dd1f09",
+      "freshTranslation": "무클럽」을 경영. 그 인당의 장점은 접 ㊥ 객업에도 십이분에 활용되고 있어 용병 상대에게 바도 번성하고 있었다. ㊥ 전공군 파일럿이라는 과거를 가지고 헬기의 조종을 자랑한다. 바가 싸움으로 탄 ㊥ 뒤는 용병에 지원해, 헬기를 조종하는 연락원으로서 전투에 참가했다. ㊥우드의 거리에서 알게 된 당초는 돈벌이를 위해 키리코에 가까워졌지만, 이윽고 고우㊥토나 코코나와 함께 키리코의 무이의 친구가 되어, 무언가에 붙여서 불평을 하면서도 그 ㊥를 지원해 바의 이름도, 키리코가 곧 알아차리도록(듯이) 생각해, 명명했을 정도로㊥이다. ㊥ 코코나와는 서로 교제를 반복하는 가운데, 서로 신경이 쓰이는 존재가 되어 갔다. ㊥ 쿠멘 왕국 붕괴 후에도 행성 산사에서 키리코와 재회하고, 더욱 자신의 비밀을 파악 ㊥ 하는 키리코의 여행에 휘말려 마지막 끝까지 그와 사귀게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00037/Sheet1/000007",
+      "sourceBindingSha256": "b429b34be00485ac726a1cb92755cf3535505f55ef198d47abcb56854ffa2156",
+      "sourceTextSha256": "e33f5ea81cd4a4093b444d804829541e056d2528546198f68a011803f7521ecc",
+      "freshTranslation": "한때 우도의 거리를 근성으로 하고 있던 어둠 상인. ㊥ 황폐한 거리에서 뒷가업에 손을 물들면서도 항상 미소를 끊임없이 살고 있었다. ㊥ 쿠멘을 건너면 바 \"팬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00037/Sheet1/000008",
+      "sourceBindingSha256": "190a71a5cc9ce7ea1b23764da45f0411d2af533610f840fdddf6dfa9ebed4439",
+      "sourceTextSha256": "69305e6c8a2f9be3f849fd59e65f06ea9cabe1261db8ac94ee21bffcb9dd1f09",
+      "freshTranslation": "무클럽」을 경영. 그 인당의 장점은 접 ㊥ 객업에도 십이분에 활용되고 있어 용병 상대에게 바도 번성하고 있었다. ㊥ 전공군 파일럿이라는 과거를 가지고 헬기의 조종을 자랑한다. 바가 싸움으로 탄 ㊥ 뒤는 용병에 지원해, 헬기를 조종하는 연락원으로서 전투에 참가했다. ㊥우드의 거리에서 알게 된 당초는 돈벌이를 위해 키리코에 가까워졌지만, 이윽고 고우㊥토나 코코나와 함께 키리코의 무이의 친구가 되어, 무언가에 붙여서 불평을 하면서도 그 ㊥를 지원해 바의 이름도, 키리코가 곧 알아차리도록(듯이) 생각해, 명명했을 정도로㊥이다. ㊥ 코코나와는 서로 교제를 반복하는 가운데, 서로 신경이 쓰이는 존재가 되어 갔다. ㊥ 쿠멘 왕국 붕괴 후에도 행성 산사에서 키리코와 재회하고, 더욱 자신의 비밀을 파악 ㊥ 하는 키리코의 여행에 휘말려 마지막 끝까지 그와 사귀게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

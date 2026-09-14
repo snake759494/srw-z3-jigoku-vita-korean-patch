@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00176",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00176/Sheet1/000002",
+      "sourceBindingSha256": "7e149ea715d76a321afec957707f09a59abce1dce09a4915f121cf235a96cfc1",
+      "sourceTextSha256": "a0a6f848adb9777a7860df7730db5f153caf7ba81f4eecec7604dd164bd64f5f",
+      "freshTranslation": "클랜 클랜",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00176/Sheet1/000003",
+      "sourceBindingSha256": "f07de6b2b2f2f5655916394ae8006e6bcdee62ca8ac0c8cc88fb272537935a22",
+      "sourceTextSha256": "4ca7d5fcb141f325c7ad4b6dc879f7e78ae593d6cc9adf9625fee50a8b28eb2f",
+      "freshTranslation": "클랜",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00176/Sheet1/000004",
+      "sourceBindingSha256": "eb17a9100fe805082a0b61698fe0b859c8c445a9f079eac12d4b0f026cac4221",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00176/Sheet1/000005",
+      "sourceBindingSha256": "ade87e7d090fd4c1406665d2974ec94c2e29cfcb86ffceced16023c3101140e8",
+      "sourceTextSha256": "a2de3a7aff6b969d1cd23d7656be12df80299f9d407dc186c13cbad75fc01400",
+      "freshTranslation": "S. M. S 픽시 소대의 대장. 계급은 대위. 18세. ㊥ 평소에는 미성학원의 3학년으로서 마이크론화해 고등학교 생활을 보내고 있다. 알㊥토의 선배이지만, 미셸이 주문한 은하라면의 차슈를 가로지르는 ㊥ 등, 아이 같은 무고한 일면도 있다. ㊥S. M. S의 일원으로 출격할 때는 거인화해 쿼드란 레어에 탑승한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00176/Sheet1/000006",
+      "sourceBindingSha256": "bfa25d58a28125eb369c350d0a572db54fa4a6c5f57ff3ce770a4a6992700753",
+      "sourceTextSha256": "a2de3a7aff6b969d1cd23d7656be12df80299f9d407dc186c13cbad75fc01400",
+      "freshTranslation": "S. M. S 픽시 소대의 대장. 계급은 대위. 18세. ㊥ 평소에는 미성학원의 3학년으로서 마이크론화해 고등학교 생활을 보내고 있다. 알㊥토의 선배이지만, 미셸이 주문한 은하라면의 차슈를 가로지르는 ㊥ 등, 아이 같은 무고한 일면도 있다. ㊥S. M. S의 일원으로 출격할 때는 거인화해 쿼드란 레어에 탑승한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

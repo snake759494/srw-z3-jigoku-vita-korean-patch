@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00129",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00129/Sheet1/000002",
+      "sourceBindingSha256": "1f327f8f33f80fd7f670347ee2024a728312e96abf8af38984ce323fe7cd0767",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00129/Sheet1/000003",
+      "sourceBindingSha256": "7619351ab8e2090b77aab3ffea3f7a390c53845df63fab379e3c7f592fbf22f1",
+      "sourceTextSha256": "dd622100f015226dbdbeae46258c8543d8d0c93c730229736e01eb8d62bf55d4",
+      "freshTranslation": "쿼드란 레어",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00129/Sheet1/000004",
+      "sourceBindingSha256": "d822b7f0ba3b65bfeb7482490dd11b155dee9c43651b7645fa14e8d884a45f61",
+      "sourceTextSha256": "dd622100f015226dbdbeae46258c8543d8d0c93c730229736e01eb8d62bf55d4",
+      "freshTranslation": "쿼드란 레어",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00129/Sheet1/000005",
+      "sourceBindingSha256": "f215ac6f8e8f0b01af2c05e6747d95aab712bfa9658d57172cf71632b1bbee0a",
+      "sourceTextSha256": "4ca7d5fcb141f325c7ad4b6dc879f7e78ae593d6cc9adf9625fee50a8b28eb2f",
+      "freshTranslation": "클랜",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00129/Sheet1/000006",
+      "sourceBindingSha256": "832a0cf410e246c7335f34987dac85109b09cbd837b3ec3d2379b5212542f36d",
+      "sourceTextSha256": "4ca7d5fcb141f325c7ad4b6dc879f7e78ae593d6cc9adf9625fee50a8b28eb2f",
+      "freshTranslation": "클랜",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00129/Sheet1/000007",
+      "sourceBindingSha256": "dee46793f61f853aa106f6e440a34c199042557d68f8d728252802c8ad0b8488",
+      "sourceTextSha256": "ddaf9a6e4bcc6516bdaf8f3862dd24d3f857304b57db758c9a3b0a8d1b1cd310",
+      "freshTranslation": "쿼드란 레어의 클랜 탑승기. ㊥S. M. S 픽시 소대의 대장기로, 심홍의 컬러링이 특징. ㊥ 제1차 성간대전에서 여성 젠틀라디 병사가 사용하고 있던 고기동 공전 포드, 쿠아㊥ 드란 로우를 최신 기술로 개수를 실시해 재생산한 것으로, 외관은 로우와 비슷해 ㊥ 하지만, 레어에서는 파일럿이 되어있다. 그 ㊥의 기동성, 화력은 최신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00129/Sheet1/000008",
+      "sourceBindingSha256": "886d5977930fafa88956a835cec0ba849f08a469c7982c298533688cb3c6fb33",
+      "sourceTextSha256": "b7924c17ad80095b7f7489e9da56281574f5d0715a75b17e5def5748099116d0",
+      "freshTranslation": "의 VF-25에도 필적하고, 특히 근접 전투에서는 발군의 능㊥력을 발휘한다. ㊥ 병장으로 뒷면의 미사일 런처 포드와 임팩트 캐논, 팔 부분의 삼포 ㊥신 개틀링 레이저 펄스 건 등이 장비되어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00129/Sheet1/000009",
+      "sourceBindingSha256": "dfda1805ae28e10c70ee59c8c8ed420457413daa3e0755291109e8d32f9430d1",
+      "sourceTextSha256": "ddaf9a6e4bcc6516bdaf8f3862dd24d3f857304b57db758c9a3b0a8d1b1cd310",
+      "freshTranslation": "쿼드란 레어의 클랜 탑승기. ㊥S. M. S 픽시 소대의 대장기로, 심홍의 컬러링이 특징. ㊥ 제1차 성간대전에서 여성 젠틀라디 병사가 사용하고 있던 고기동 공전 포드, 쿠아㊥ 드란 로우를 최신 기술로 개수를 실시해 재생산한 것으로, 외관은 로우와 비슷해 ㊥ 하지만, 레어에서는 파일럿이 되어있다. 그 ㊥의 기동성, 화력은 최신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00129/Sheet1/000010",
+      "sourceBindingSha256": "173d5a0d7c08ccf991b72f617d68e2091d97b89020860efc1d44b2f1829a3535",
+      "sourceTextSha256": "b7924c17ad80095b7f7489e9da56281574f5d0715a75b17e5def5748099116d0",
+      "freshTranslation": "의 VF-25에도 필적하고, 특히 근접 전투에서는 발군의 능㊥력을 발휘한다. ㊥ 병장으로 뒷면의 미사일 런처 포드와 임팩트 캐논, 팔 부분의 삼포 ㊥신 개틀링 레이저 펄스 건 등이 장비되어 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

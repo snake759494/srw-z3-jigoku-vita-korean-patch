@@ -1,0 +1,214 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00088",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000002",
+      "sourceBindingSha256": "349b469e493cd9522f5b4f4ce8c1f76921c00c70442b38f9c36de5259c59d551",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000003",
+      "sourceBindingSha256": "e4942d921f542f608f3f10c983e3f4f15c8262e143d84da6ddcf563257bf591c",
+      "sourceTextSha256": "27cc4f194e22d7bb558db8a045abc4a193b3ab3ad685aec617107cbda4ad7794",
+      "freshTranslation": "쿠샤토리아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000004",
+      "sourceBindingSha256": "a8f7d755c4e6f63d83a4a0f8f3c2aea512175614f420b2a06f44229f331ddf80",
+      "sourceTextSha256": "27cc4f194e22d7bb558db8a045abc4a193b3ab3ad685aec617107cbda4ad7794",
+      "freshTranslation": "쿠샤토리아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000005",
+      "sourceBindingSha256": "5d13b486833baab1096fc938a57645228d3568f185b6a544dc618dbfa76536d3",
+      "sourceTextSha256": "5b4fa290a151bb449e5364207543208aa5307f3f31169e2c3ba497985a4af529",
+      "freshTranslation": "마리다 크루즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000006",
+      "sourceBindingSha256": "7ce592b9cb33897830e0f9b1810f32ac7ab8a9b119c9de0e6e22f681981dffc1",
+      "sourceTextSha256": "c7bbf03dbd42df58cc27d9c1f34eb18fbd90bb8d6b1e622d3eea4815c5be418e",
+      "freshTranslation": "소매가 소유한 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000007",
+      "sourceBindingSha256": "de5283b0dc813f9de35f968abcc02646cfc5f2c5541a21283a89b337f2106ebe",
+      "sourceTextSha256": "c505ad4573379b1533a93f7794be35d3375ae6640d8b368f3102042cadfbe9ba",
+      "freshTranslation": "입 전용 모빌 슈트. ㊥ 1차 네오지온 항쟁 말기에 개발된 40m급 모빌슈트 퀸맨 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000008",
+      "sourceBindingSha256": "94832dc3d880b3e5c53a416a9c8d307d0099c2bd600311221e74d91c1b7617fb",
+      "sourceTextSha256": "f7f4886a7b96564da96c2ba56374a993b6a166828ba52ea424e9eb10dfbbc63e",
+      "freshTranslation": "화를 목적으로 설계되었다. ㊥ 사이코 프레임의 도입으로 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000009",
+      "sourceBindingSha256": "1acdd6465c083cef3caac6b086ad3d06f789ab2c785ceac631f4cc9f496c94d3",
+      "sourceTextSha256": "8c0fb74db56569e3fa288a9b596003b235ce030ce7d91462dda109fd4569b3f3",
+      "freshTranslation": "화가 진행된 사이코뮤 시스템을 도입. 4㊥ 개의 바인더에 큰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000010",
+      "sourceBindingSha256": "a91321716bee61e04d0d402cd1378c1e7f1b2753e2d0261f871fedb245dd06b5",
+      "sourceTextSha256": "c78d1f9ce9678c0f17be0b635d5184d031bbd764e9a0ca4a853bda88451d9ee6",
+      "freshTranslation": "화의 원인이 된 깔때기 컨테이너와 내장 화기, ㊥ 메인 스러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000011",
+      "sourceBindingSha256": "a92cbbe58f66930f4c308f5b35c2f1f75b852a98b20b3cab889d31cbaae9a9f0",
+      "sourceTextSha256": "a28e019a023dbae3d608323e0e06789a5a4ffd8f823e68585afe70aec66c7fc3",
+      "freshTranslation": "-, 프로펠런트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000012",
+      "sourceBindingSha256": "609bcd4195e21db7d8ba4b6291a3c19b0ed92e267e4a00f6ce6bcd51ad69cab8",
+      "sourceTextSha256": "440dd297cd4380ab9669ee4b202e640581db1b53f02ef7a45259582f5a20142c",
+      "freshTranslation": "NUK 등의 각종 기능을 집약시키는 것으로, 퀸·㊥만사와 동등의 성능을 유지한 채, 다운 사이징에 성공하고 있다. ㊥그 성능은 높고, 탑승자의 마리다의 기량과 합쳐져 인더스트리얼 7에서 전투㊥를 행했을 때에는, 단기로 네엘 아가마의 모빌슈트 부대의 대부분을 격추해 ㊥했다. ㊥이지만, 소매 부착에는, 이 기체를 양산할 여력은 없고, 파손 개소의 완전 복구조차 그대로 ㊥가 되지 않는 상황이 되어 있어, 실질적으로, 원 오프기가 되어 버리고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000013",
+      "sourceBindingSha256": "b6693b847077c9ae89680c2b3446a76116ba0948dc807e9510780326d51632b5",
+      "sourceTextSha256": "c7bbf03dbd42df58cc27d9c1f34eb18fbd90bb8d6b1e622d3eea4815c5be418e",
+      "freshTranslation": "소매가 소유한 뉴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000014",
+      "sourceBindingSha256": "16cf981ef6646e640dd14bcfe468ebf4a57f5f7b42ed20a7cd81e22777e682e2",
+      "sourceTextSha256": "c505ad4573379b1533a93f7794be35d3375ae6640d8b368f3102042cadfbe9ba",
+      "freshTranslation": "입 전용 모빌 슈트. ㊥ 1차 네오지온 항쟁 말기에 개발된 40m급 모빌슈트 퀸맨 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000015",
+      "sourceBindingSha256": "2c1a1f04bc26b58ad90991fd89bba0dea003f4174ed0dda881f5b196de14c76b",
+      "sourceTextSha256": "f7f4886a7b96564da96c2ba56374a993b6a166828ba52ea424e9eb10dfbbc63e",
+      "freshTranslation": "화를 목적으로 설계되었다. ㊥ 사이코 프레임의 도입으로 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000016",
+      "sourceBindingSha256": "c1057b318e0ca782756a224696d54553e32c2936516d16062a101c83c22f4538",
+      "sourceTextSha256": "8c0fb74db56569e3fa288a9b596003b235ce030ce7d91462dda109fd4569b3f3",
+      "freshTranslation": "화가 진행된 사이코뮤 시스템을 도입. 4㊥ 개의 바인더에 큰",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000017",
+      "sourceBindingSha256": "fefefdcd36ea0a5934fa5c33ae5414b9ae0e6492d580e976adccec736aafba1e",
+      "sourceTextSha256": "c78d1f9ce9678c0f17be0b635d5184d031bbd764e9a0ca4a853bda88451d9ee6",
+      "freshTranslation": "화의 원인이 된 깔때기 컨테이너와 내장 화기, ㊥ 메인 스러스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000018",
+      "sourceBindingSha256": "45fa8f65eea4fbb63811a37052e975311b031ac3fb6e76f317063e096e8241eb",
+      "sourceTextSha256": "a28e019a023dbae3d608323e0e06789a5a4ffd8f823e68585afe70aec66c7fc3",
+      "freshTranslation": "-, 프로펠런트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00088/Sheet1/000019",
+      "sourceBindingSha256": "1df985b6a34f0477ee4af6a87139a231427f4fe05b99aae333d55ca49f6f113f",
+      "sourceTextSha256": "f016b5931d78ce7136a248efc3dd4ec88bce40d1a7f4ce9b531ffbe769684490",
+      "freshTranslation": "NUK 등의 각종 기능을 집약시키는 것으로, 퀸·㊥만사와 동등의 성능을 유지한 채, 다운 사이징에 성공하고 있다. ㊥그 성능은 높고, 탑승자의 마리다의 기량과 합쳐져 인더스트리얼 7에서 전투㊥를 행했을 때에는, 단기로 네엘 아가마의 모빌슈트 부대의 대부분을 격추해 ㊥했다. ㊥이지만, 소매 부착에는, 이 기체를 양산할 여력은 없고, 파손 개소의 완전 복구조차 그대로 ㊥가 되지 않는 상황이 되어 있어, 실질적으로, 원 오프기가 되어 버리고 있다. ㊥ 유니콘 건담 디스트로이 모드와의 전투에서 격추되어 네엘 아가마에게 ㊥ 회수되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

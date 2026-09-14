@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00109",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00109/Sheet1/000002",
+      "sourceBindingSha256": "34b13faba18198b8d9d9746c4fe4a5ba06584ba52bd06166e8e10a3133d8383c",
+      "sourceTextSha256": "939d40d2f5812d00cdc4e4031c245b1bf9f65f402878c63781b3287f235482ff",
+      "freshTranslation": "요마코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00109/Sheet1/000003",
+      "sourceBindingSha256": "5a11babf18597ef980b5c8d4db468971ff1aba6777180b33d5e98a0dcbaca05e",
+      "sourceTextSha256": "65b1dc575399cb6ead61f7fb93ae86262455c6594357091396e5fb3d0013cf2e",
+      "freshTranslation": "「천원돌파 글렌 라간」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00109/Sheet1/000004",
+      "sourceBindingSha256": "ce707b8103116302808b90a9f7caa6f145e7fe0d74b1b9cd572491e6cf15aa66",
+      "sourceTextSha256": "f3a6ca120c6c26aa92e6d5677b080f628ca39aa26649bac730a67c2b9de2821f",
+      "freshTranslation": "카미나 시티에서 멀리 떨어진 콜레하나 섬에 교사로 부임한 요코.㊥큰 글렌단의 일원이었던 과거의 자신을 불어내기 위해서 가명을 사용하고 있었다.㊥그러나 평화로운 날은 안티 나선형 인류 섬멸 시스템의 발동으로 끝났습니다.㊥주위를 맞이한다. 혼란 속에서 가르침을 인질로 가져온 포악한 짐승에게 분노가 폭발㊥발한 그녀는 애용의 소총을 꺼내, 순식간에 수인을 격퇴했다.㊥그 후 가르치는 자들의 미래를 지키기 위해 다시 요코로 돌아가 큰 글렌단에 합류㊥그리고 한때 동료들과 함께 싸웠다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00109/Sheet1/000005",
+      "sourceBindingSha256": "aedfd72eb721f08bdb0b83a6e2ed6611b5e839b166480056df8a185ee485ccbc",
+      "sourceTextSha256": "f3a6ca120c6c26aa92e6d5677b080f628ca39aa26649bac730a67c2b9de2821f",
+      "freshTranslation": "카미나 시티에서 멀리 떨어진 콜레하나 섬에 교사로 부임한 요코.㊥큰 글렌단의 일원이었던 과거의 자신을 불어내기 위해서 가명을 사용하고 있었다.㊥그러나 평화로운 날은 안티 나선형 인류 섬멸 시스템의 발동으로 끝났습니다.㊥주위를 맞이한다. 혼란 속에서 가르침을 인질로 가져온 포악한 짐승에게 분노가 폭발㊥발한 그녀는 애용의 소총을 꺼내, 순식간에 수인을 격퇴했다.㊥그 후 가르치는 자들의 미래를 지키기 위해 다시 요코로 돌아가 큰 글렌단에 합류㊥그리고 한때 동료들과 함께 싸웠다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

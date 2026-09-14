@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00239",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00239/Sheet1/000002",
+      "sourceBindingSha256": "4d8f0763f626c58cd3e5297c19b272e5825a531b3ea827ce37636fb42df92dff",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00239/Sheet1/000003",
+      "sourceBindingSha256": "34380e46284d69dae9af006952f21e7326049a5ffe0f55fb00ca5e612ecc8d8e",
+      "sourceTextSha256": "94781288b4651479060423bf7e7022949e0f773765b7f9b94def657ecf58f900",
+      "freshTranslation": "켈빔병",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00239/Sheet1/000004",
+      "sourceBindingSha256": "44d2b90df344eae010e44c2f7b42d8d1a61e1ec465e41d409b10929235af8dff",
+      "sourceTextSha256": "94781288b4651479060423bf7e7022949e0f773765b7f9b94def657ecf58f900",
+      "freshTranslation": "켈빔병",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00239/Sheet1/000005",
+      "sourceBindingSha256": "2be3a09ee57e201f8eaadf1da065b56afd150f19cb170b720fe0b8a194260f1f",
+      "sourceTextSha256": "77c84b235dbc05a309896619dd701043be5aabcecf5052adc1ac6fff5d187000",
+      "freshTranslation": "미카게가 보낸 사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00239/Sheet1/000006",
+      "sourceBindingSha256": "0bbd00daabb925793e9a94ea7170bca2b539e104b7c87cd796b2f85f0da915ec",
+      "sourceTextSha256": "ceed4abc20a4509eb010c2e06df69537b9e81c3534c5d4e9eaa986cc32535ad7",
+      "freshTranslation": "무기. ㊥ 민첩성이 높고 예측할 수 없는 움직임으로 적을 농락한다. ㊥ 긴 손발과 날카로운 발톱이 특징으로 블리자드를 부를 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00239/Sheet1/000007",
+      "sourceBindingSha256": "3d76cbd93e18ca010786ad77cffa115b0e4027b809bf765555281f474f2ed486",
+      "sourceTextSha256": "77c84b235dbc05a309896619dd701043be5aabcecf5052adc1ac6fff5d187000",
+      "freshTranslation": "미카게가 보낸 사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00239/Sheet1/000008",
+      "sourceBindingSha256": "af7146817fb1d3f8bc10d6bbf39445772649c147e4dfd18d89b4e510e5e8125a",
+      "sourceTextSha256": "11fcaff5089244bede0e322c3ea4af5f42172dc4431c449350634c91545c4390",
+      "freshTranslation": "무기. ㊥ 민첩성이 높고 예측할 수 없는 움직임으로 적을 농락한다. ㊥ 긴 손발과 날카로운 발톱이 특징으로 블리자드를 부를 수 있다. ㊥1만 2000년 전의 전투에서 타천이 사용하고 있던 켈빔 룽느와 닮았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

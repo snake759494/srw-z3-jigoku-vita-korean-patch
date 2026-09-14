@@ -1,0 +1,73 @@
+{
+  "$schema": "../../config/stage-conditions.schema.json",
+  "format": "siok.stage-conditions",
+  "formatVersion": 1,
+  "gameId": "PCSG00264",
+  "asset": {
+    "assetKey": "STG0015",
+    "fileName": "STG0015.cpk",
+    "target": "DATA/STAGE/STG0015.cpk"
+  },
+  "source": {
+    "memberId": "ID00001",
+    "encoding": "cp932",
+    "sha256": "fba1bc61522cfc7077231d342c008003a22abd12b6c771560ef7d1f8a192ac9e"
+  },
+  "entries": [
+    {
+      "entryId": "STG0015/ID00001/OPERATE_TBL/str_tbl/000",
+      "sourceId": 0,
+      "translation": "시난주의 HP를 20000 이하로 만든다",
+      "conditionTypes": [
+        "win"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0015/ID00001/OPERATE_TBL/str_tbl/001",
+      "sourceId": 1,
+      "translation": "아군 전함의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0015/ID00001/OPERATE_TBL/str_tbl/002",
+      "sourceId": 2,
+      "translation": "5턴 이내에 시난주 이외의 적을 전멸시키고,\n그 후에 승리 조건을 만족한다",
+      "conditionTypes": [
+        "sr"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0015/ID00001/OPERATE_TBL/str_tbl/003",
+      "sourceId": 3,
+      "translation": "버나지 또는 리디의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    },
+    {
+      "entryId": "STG0015/ID00001/OPERATE_TBL/str_tbl/004",
+      "sourceId": 4,
+      "translation": "버나지의 격추",
+      "conditionTypes": [
+        "defeat"
+      ],
+      "translationStatus": "translated",
+      "translator": "기존 한글 CPK 역추출",
+      "notes": "원본 ID00001의 OPERATE_TBL.str_tbl에서 추출함."
+    }
+  ]
+}

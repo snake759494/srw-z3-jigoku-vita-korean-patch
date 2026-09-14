@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00223",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00223/Sheet1/000002",
+      "sourceBindingSha256": "73d408d2f2d8b2aceebda239d20080ecb3276c97e5331f403eaa0f67080aad83",
+      "sourceTextSha256": "f7760d9f87d91a0bb5666300b4f15fde469cecdc8f33a4ff8f2cd41bf7a8e2d3",
+      "freshTranslation": "오야마 노리코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00223/Sheet1/000003",
+      "sourceBindingSha256": "12ba363815ed922599ce6d16ad8d92f60c2a2b3737c3ae3f4b62579ce4a799fa",
+      "sourceTextSha256": "3a77460a2b254ba446a4840643c31f768250ee5d0fb99d335a62fc341333cf8c",
+      "freshTranslation": "오야마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00223/Sheet1/000004",
+      "sourceBindingSha256": "9cd13f35911029bf83cd51ee18e2bbfab2659926c2bfacc045f614af5c9549af",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00223/Sheet1/000005",
+      "sourceBindingSha256": "71da6bfd051902f3ec7b8ed541779348d37893b2931f0e96dc170b09169a9dd9",
+      "sourceTextSha256": "eadea6bdbc885f1548e52ea9e9e4ffa034a110f468f7a1d061c028e3f3aebe04",
+      "freshTranslation": "홍보 2과의 여자 과원. 28세. ㊥과내의 여성 사원의 최연장으로 의지가 있는 성격 때문에, 좋은 누나로서 모두를 정리㊥ 하고 있다. ㊥ 무철포인 아카기에게 돌보는 모습도 자주 볼 수 있지만, 내심에서는 특별한 남성으로서 의식해 ㊥ 하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00223/Sheet1/000006",
+      "sourceBindingSha256": "43a4e264b3a5c7638ec7024347b6e32c49f4200462e35f69763cb8f2fa112458",
+      "sourceTextSha256": "eadea6bdbc885f1548e52ea9e9e4ffa034a110f468f7a1d061c028e3f3aebe04",
+      "freshTranslation": "홍보 2과의 여자 과원. 28세. ㊥과내의 여성 사원의 최연장으로 의지가 있는 성격 때문에, 좋은 누나로서 모두를 정리㊥ 하고 있다. ㊥ 무철포인 아카기에게 돌보는 모습도 자주 볼 수 있지만, 내심에서는 특별한 남성으로서 의식해 ㊥ 하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

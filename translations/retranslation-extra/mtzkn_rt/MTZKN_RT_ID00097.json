@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00097",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00097/Sheet1/000002",
+      "sourceBindingSha256": "94b21b60883cde9a65ee61f17845398c969430f5a003ebf7ce35d13bf2ca3fd1",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00097/Sheet1/000003",
+      "sourceBindingSha256": "4af912775b20ad9be6368fae853f80be2c1a51a3e8e25cea5ee87d8894c93384",
+      "sourceTextSha256": "b95ecc17fc9d05ba36d26861518b7bd700b348d008d390e4e4bb217a480e2a9c",
+      "freshTranslation": "주아그",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00097/Sheet1/000004",
+      "sourceBindingSha256": "cb51453fcdc618c033acd5eb82f1bcb5b4b2c084ed2774a44803fe40fca8df63",
+      "sourceTextSha256": "b95ecc17fc9d05ba36d26861518b7bd700b348d008d390e4e4bb217a480e2a9c",
+      "freshTranslation": "주아그",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00097/Sheet1/000005",
+      "sourceBindingSha256": "3876f748eaf48e04a09b5bf0fe15d0160b86d7d46e972341480275a38392a151",
+      "sourceTextSha256": "988185ffd7298b9be2e210e079967b22076f741729264d6a20d0d96a6dcf2b24",
+      "freshTranslation": "일년 전쟁시 자브로 공략용으로 지온 공국군이 개발했다고 하는 모빌슈트. ㊥ 양팔에 3연장 로켓 런처, 흉부에 4문의 빔포를 장비하고 있어 화력 ㊥ 지원을 컨셉으로 개발됐다. ㊥ 또, 매우 견고한 기체이며, 팔부의 로켓 런처로 적모빌 슈트를 ㊥ 붙잡았을 때에는, 상대의 장갑이 엉성할 정도였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00097/Sheet1/000006",
+      "sourceBindingSha256": "0dafa0b6739479031034a32c96e0e65eff9a61fe84c5a964cde468de54673c0b",
+      "sourceTextSha256": "988185ffd7298b9be2e210e079967b22076f741729264d6a20d0d96a6dcf2b24",
+      "freshTranslation": "일년 전쟁시 자브로 공략용으로 지온 공국군이 개발했다고 하는 모빌슈트. ㊥ 양팔에 3연장 로켓 런처, 흉부에 4문의 빔포를 장비하고 있어 화력 ㊥ 지원을 컨셉으로 개발됐다. ㊥ 또, 매우 견고한 기체이며, 팔부의 로켓 런처로 적모빌 슈트를 ㊥ 붙잡았을 때에는, 상대의 장갑이 엉성할 정도였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00190",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00190/Sheet1/000002",
+      "sourceBindingSha256": "99a6d87ad52bd058b63f1cbd6a8f47ef99c5d6ed5a27004e6b0f039a056e6850",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00190/Sheet1/000003",
+      "sourceBindingSha256": "ca9d2c55fa3b41af4df6d91a0923025f135b5f24f068af113f0cfeed883889f8",
+      "sourceTextSha256": "6cbead29f5f3666f5882c4fd6c0d7e56e8208850dd34efe1c72cd7834907e4e2",
+      "freshTranslation": "르 패닉! TheSecondRaid",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00190/Sheet1/000004",
+      "sourceBindingSha256": "4e1d6169ce8028b249c51bd08432bdbd8084b168a791c671164dc50cf0ec422b",
+      "sourceTextSha256": "a5a99ab5ddae0397744250f7aef32ab9aefdd734e169e51a0437870473efafa3",
+      "freshTranslation": "플랜 1056 코다르 i",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00190/Sheet1/000005",
+      "sourceBindingSha256": "73993c3846bfb106e99d8a30703e16691df4477f9f97c5dde9c410e09678676d",
+      "sourceTextSha256": "a5a99ab5ddae0397744250f7aef32ab9aefdd734e169e51a0437870473efafa3",
+      "freshTranslation": "플랜 1056 코다르 i",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00190/Sheet1/000006",
+      "sourceBindingSha256": "900f575021ab67191033ed5947ec2a70bba5f5b61d989a396fc4b17f006f2fd5",
+      "sourceTextSha256": "6b0b6670c3edc01964c0fc7883540b23eebfedf2812734aff1607315af61e9c7",
+      "freshTranslation": "게이츠",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00190/Sheet1/000007",
+      "sourceBindingSha256": "513feeb2d5bb46016321f68a5ee0291755323df9822b8689bd126b632e2e5866",
+      "sourceTextSha256": "947523bdb0cca402568fa1fc870818016e54a8c92006c3bf603d5c736506749d",
+      "freshTranslation": "수수께끼의 조직",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00190/Sheet1/000008",
+      "sourceBindingSha256": "8b72614b5f90c2032a5eee5f8d91d8ac85670593805002abb57582450b94afe2",
+      "sourceTextSha256": "a48ac54ed84756b7e9944a0e02ca5665514f0a2826f729e12169a1a49c3d24b5",
+      "freshTranslation": "사용하는 AS로, 게이츠가 탑승한다. ㊥ 레드 컬러링이 특징으로 미스릴에서 '베놈'이라고 불린다. ㊥코다르의 동계열기이지만, 각부에 개량이 가해지고 있어 머리를 시작으로 드㊥자인도 다르다. ㊥ 주요 무장은 35mm 소총으로 어두운 가장자리 단분자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00190/Sheet1/000009",
+      "sourceBindingSha256": "d89d9906900ed677dad78224326a7013e650184834b8fdd312296418243f8d20",
+      "sourceTextSha256": "d2886131506607e8effe8dfe8941e5713a5e110aba30421886933d64e9fb9b7b",
+      "freshTranslation": "- 등. ㊥ 게이츠는 탑재된 람다 드라이버를 어려움없이 잘 다루어 미스릴과 싸운다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00190/Sheet1/000010",
+      "sourceBindingSha256": "26618e28a5a93b02604f9e97c84102d267917d4676506fd6607a8572358939bf",
+      "sourceTextSha256": "717d8b95834f25c8410d3b3d56dc9ac0124c8b664ff483869e1298e0997d0fde",
+      "freshTranslation": "비밀 조직 아말감",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00190/Sheet1/000011",
+      "sourceBindingSha256": "f7fc8481cd328b5d156df606d670f1892f522ffa548ef6b127bead6d83111baa",
+      "sourceTextSha256": "a48ac54ed84756b7e9944a0e02ca5665514f0a2826f729e12169a1a49c3d24b5",
+      "freshTranslation": "사용하는 AS로, 게이츠가 탑승한다. ㊥ 레드 컬러링이 특징으로 미스릴에서 '베놈'이라고 불린다. ㊥코다르의 동계열기이지만, 각부에 개량이 가해지고 있어 머리를 시작으로 드㊥자인도 다르다. ㊥ 주요 무장은 35mm 소총으로 어두운 가장자리 단분자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00190/Sheet1/000012",
+      "sourceBindingSha256": "dae976470e3ba920306756e15a3de0c7a42f0e3705fa422489846a2f4e5ae475",
+      "sourceTextSha256": "99b995788ffb3cb49cea87732b2c394c570bd78ddeedcc9a33b0c390fdacb166",
+      "freshTranslation": "- 등. ㊥ 게이츠는 탑재된 람다 드라이버를 어려움없이 잘 다루어 미스릴과 싸운다. 나가에 ㊥ 횡단 터널에서의 사건에서는, 소스케의 아바레스트와 교전. 람다 드라이버의 작동이 ㊥ 불안정한 아바레스트를 압도하지만 기체가 과열되어 철수한다. 그런 다음 ㊥ 홍콩에서는 양산기를 이끌고 미스릴의 SRT (특별 대응반)와 전투하고 궁지에 쫓아 ㊥ 넣는다. 하지만, 거기에 아바레스트가 구원에 나타나면 전황은 일변. 길을 끊은 종 ㊥ 개통의 람다 드라이버를 이용한 일격을 받아 폭산했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

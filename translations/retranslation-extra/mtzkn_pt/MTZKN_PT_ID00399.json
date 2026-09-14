@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00399",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00399/Sheet1/000002",
+      "sourceBindingSha256": "21ef1dabf7f0f30bd0a33e2fe9bf29d8da94d47eaad012fdfd9bf0e16c6e8252",
+      "sourceTextSha256": "889d4e2a724c4d97e93f3a0e463cb0c6d3b71955d55ef44be12b1bc085bdf893",
+      "freshTranslation": "트라이아 스코트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00399/Sheet1/000003",
+      "sourceBindingSha256": "aacf8715cc2ff308aaffee7b70ec3c13a32b534fd34d19e138679492b242d4c2",
+      "sourceTextSha256": "8d17effa01e40912cd0e383bdff7bd35e3121d977e7526dd77c63076a8b3bdf2",
+      "freshTranslation": "트라이아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00399/Sheet1/000004",
+      "sourceBindingSha256": "6cb02101cca4fe20ccc30264742d3f76a7b51f043d8bfc8cfd9347a2218ce640",
+      "sourceTextSha256": "62f083b66f85bb7e91aeeefb564b5a6991560448a77d686a51788b9945d35e81",
+      "freshTranslation": "오리지널",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00399/Sheet1/000005",
+      "sourceBindingSha256": "f9d2901b0548f352758d2302c15870271ddde091d2e780f99fd4502b13ec02fc",
+      "sourceTextSha256": "552d625a02caf2314af07aaa7172b3d2b2aaeff08b7303e9e1ead45d856f03fe",
+      "freshTranslation": "대차원 짐승 컨설팅",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00399/Sheet1/000006",
+      "sourceBindingSha256": "85ad06af56ef66ff716763218f0248a5f9aa0e80b5cc4c44b81b02061ff9c46c",
+      "sourceTextSha256": "ebe064a5f75487a2fce7109b8a97c0ce19545da19c242378688613753e086850",
+      "freshTranslation": "스코트 랩의 책임자. ㊥ 로봇 공학과 에너지 공학의 권위이며 대차원 수용 기동 무기를 개발했다. ㊥ 현재는 초시공 물리학의 제일인자로서 세상에 알려져 있다. ㊥ 자신의 연구의 완성이 행동의 제일 목적이며, 이를 위해서는 다른 모든 것을 희생해서 ㊥도 진행해 간다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00399/Sheet1/000007",
+      "sourceBindingSha256": "25afbd6c4c12ac49a0e599de3bb92982eb732af951153053ea6253a77ea5d1a5",
+      "sourceTextSha256": "eb74c291904d27801b1d924cfd8858d31a7061f66e199221af1bedec852a3d26",
+      "freshTranslation": "입. 세상의 상식에 사로잡히지 않는 유연한 사고의 소유자이지만, 다른 쪽㊥면에서 보면 상식 모르는 초마이페이스 인간. ㊥ 전 액시온 재단 총재의 카를로스 액시온 Jr. 는 대학 시대의 학우이며 ㊥ 개 원숭이의 사이였다. ㊥화장을 좋아하고 본성이 겉으로 나올 때에는 휴대한 여우의 면을 쓴다는 이상한 버릇㊥이 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00399/Sheet1/000008",
+      "sourceBindingSha256": "e58aa506b978cbf918efd40d70b866d01265b866b7343bf8a7c5800519465054",
+      "sourceTextSha256": "552d625a02caf2314af07aaa7172b3d2b2aaeff08b7303e9e1ead45d856f03fe",
+      "freshTranslation": "대차원 짐승 컨설팅",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00399/Sheet1/000009",
+      "sourceBindingSha256": "7c1ac3a7471fcb65e3f96e245d654c842c725d5636a6eb5df1b00865a0c27e85",
+      "sourceTextSha256": "ebe064a5f75487a2fce7109b8a97c0ce19545da19c242378688613753e086850",
+      "freshTranslation": "스코트 랩의 책임자. ㊥ 로봇 공학과 에너지 공학의 권위이며 대차원 수용 기동 무기를 개발했다. ㊥ 현재는 초시공 물리학의 제일인자로서 세상에 알려져 있다. ㊥ 자신의 연구의 완성이 행동의 제일 목적이며, 이를 위해서는 다른 모든 것을 희생해서 ㊥도 진행해 간다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00399/Sheet1/000010",
+      "sourceBindingSha256": "ba79d98f9e0176f5de8de0a1133b15b0b74fdbb57d3b77146919ef003993954f",
+      "sourceTextSha256": "d51b356c5c224e642bfe39010f01423ae16df3cc6a51200f734749006675132e",
+      "freshTranslation": "입. 세상의 상식에 사로잡히지 않는 유연한 사고의 소유자이지만, 다른 쪽㊥면에서 보면 상식 모르는 초마이페이스 인간. ㊥ 전 액시온 재단 총재의 카를로스 액시온 Jr. 는 대학 시대의 학우이며 ㊥ 개 원숭이의 사이였다. ㊥화장을 좋아하고 본성이 겉으로 나올 때에는 휴대한 여우의 면을 쓴다는 이상한 버릇㊥이 있다. ㊥ 기억제어가 풀린 뒤, 자신의 차원력 연구를 비약적으로 발전시켜, 다양한 과학자들과 협동 ㊥ 힘을 주어 시공 수복에 진력했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

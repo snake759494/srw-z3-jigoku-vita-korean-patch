@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00088",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00088/Sheet1/000002",
+      "sourceBindingSha256": "8b8ad28a7cb128298d9beddba37a645eacb20404307e72bc6e63b64e30bcde78",
+      "sourceTextSha256": "ea8920053394db42396a844c01b5baffbf13f08928b27d25294fae88af3ffc6e",
+      "freshTranslation": "지역 11",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00088/Sheet1/000003",
+      "sourceBindingSha256": "e8d1e3f221c7174f09203f2d286cc58b433294253f70cd82a8cf618a31dfb555",
+      "sourceTextSha256": "05bab81238428e66e9b20af6d4a8576f3c3ccd044a774f0672f9e18b0d828c8a",
+      "freshTranslation": "「코드 기어스 반역의 루루슈 R2」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00088/Sheet1/000004",
+      "sourceBindingSha256": "0bc8e86bd50c131ec0b08b281315eb81eebf0077aa3fad40caa1c55728cf35d0",
+      "sourceTextSha256": "d523230b18b1182a398a6621b492c4b14029a7fc3b1e6840604fab6fc46810f2",
+      "freshTranslation": "신성 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00088/Sheet1/000005",
+      "sourceBindingSha256": "827e4fc3c581e2b76af89b4b1cf7c8277c82f9c42a5b8d2d8bf09eb22273f034",
+      "sourceTextSha256": "f46f7ae14d84f02c65bbef2b994ea9be53832c0b08101a92bbad560640220d6e",
+      "freshTranslation": "니어 제국에 패하고 11번째 식민지역이 된 일본. ㊥ 읽는 방법은 「영역 11(주이치)」. ㊥ 일본인은 이름과 언어를 빼앗기고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00088/Sheet1/000006",
+      "sourceBindingSha256": "9dd5c97f231231e1d0d7aa8c9f3bdd62a2726cefa4e5f7129b97b745931d5430",
+      "sourceTextSha256": "b215319e1ba5fe76d4da09ac343d963c8d7e9a3c0def0d76d532bd59e7ec523b",
+      "freshTranslation": "니어는 일레븐의 이름으로 불리지만 ㊥ 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00088/Sheet1/000007",
+      "sourceBindingSha256": "a4a8b89f845f4f2ddd63748efe8462d8ae7921b6763491f3e18b6c8621a66480",
+      "sourceTextSha256": "32162f19917f3c5622840759807394f3ee69189245b634a407726c80ed3e2b7e",
+      "freshTranslation": "니어에게 충성을 맹세한 일본인은 명예 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00088/Sheet1/000008",
+      "sourceBindingSha256": "a742fb26eae34af8cb7e1feaf425065156d6bad8abae7268dba31ba37a76d48b",
+      "sourceTextSha256": "ddf7f3863d375f557431c87282903de9c1f455d3d46696eee761dcd1ba7c8b0d",
+      "freshTranslation": "니아인이 되어 어느 정도의 권리㊥가 인정된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00088/Sheet1/000009",
+      "sourceBindingSha256": "25bd26788a02fd6f8b0e65d847bf97272c60cc7dc2524f9e111100bc14496dba",
+      "sourceTextSha256": "d523230b18b1182a398a6621b492c4b14029a7fc3b1e6840604fab6fc46810f2",
+      "freshTranslation": "신성 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00088/Sheet1/000010",
+      "sourceBindingSha256": "606a1b382b92bd398ef184a3652ccc41a1bd252dc771d54c3cf69966c88f96d6",
+      "sourceTextSha256": "f46f7ae14d84f02c65bbef2b994ea9be53832c0b08101a92bbad560640220d6e",
+      "freshTranslation": "니어 제국에 패하고 11번째 식민지역이 된 일본. ㊥ 읽는 방법은 「영역 11(주이치)」. ㊥ 일본인은 이름과 언어를 빼앗기고,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00088/Sheet1/000011",
+      "sourceBindingSha256": "25d3fb89f67978bfcbc1a097d650580d9c4e44c4ccfbc5c528e87a43b35f07f1",
+      "sourceTextSha256": "b215319e1ba5fe76d4da09ac343d963c8d7e9a3c0def0d76d532bd59e7ec523b",
+      "freshTranslation": "니어는 일레븐의 이름으로 불리지만 ㊥ 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00088/Sheet1/000012",
+      "sourceBindingSha256": "91531f3ae4746b7badf0065f9bcc49f2d7dc59868583f1df31e04ae9925d9f8f",
+      "sourceTextSha256": "32162f19917f3c5622840759807394f3ee69189245b634a407726c80ed3e2b7e",
+      "freshTranslation": "니어에게 충성을 맹세한 일본인은 명예 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00088/Sheet1/000013",
+      "sourceBindingSha256": "86baa8820940104c5ebe430b0814f1472f396b68c5ac73509ebc4a00fa730f19",
+      "sourceTextSha256": "ddf7f3863d375f557431c87282903de9c1f455d3d46696eee761dcd1ba7c8b0d",
+      "freshTranslation": "니아인이 되어 어느 정도의 권리㊥가 인정된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

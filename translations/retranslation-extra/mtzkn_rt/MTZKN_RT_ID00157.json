@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00157",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00157/Sheet1/000002",
+      "sourceBindingSha256": "6dbc589052dde429e74a85358fb103a7b5be01babb3bc32c165aba9dface6c18",
+      "sourceTextSha256": "f491b220d1b24b890d1465b1ce57e99598a1a845edc78b719d09207ae5912656",
+      "freshTranslation": "마징가 충격! Z편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00157/Sheet1/000003",
+      "sourceBindingSha256": "d50d1d27a0553aed2f2fe49e2528a692e25dda20e2ce7f103ae0d0719349f9bf",
+      "sourceTextSha256": "4146177a45323db3b4baf4ff091f1dd1f93f4192ed70c7858a7ed0e0cf8040b1",
+      "freshTranslation": "바가스 V5",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00157/Sheet1/000004",
+      "sourceBindingSha256": "fd018b90f8f8f63d9cdccc9700e3d323534f2a51d90a85187d8adb561088cb44",
+      "sourceTextSha256": "4146177a45323db3b4baf4ff091f1dd1f93f4192ed70c7858a7ed0e0cf8040b1",
+      "freshTranslation": "바가스 V5",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00157/Sheet1/000005",
+      "sourceBindingSha256": "5dba367977da1468afc4c5869634c72e14648159d219e26f0703e185b5c44982",
+      "sourceTextSha256": "95dfe1ef59b1a50d8743ed95676b8b0eeeeacba09489ffa2841bfe9c0cfb72bc",
+      "freshTranslation": "제9화 『발동! 일본 침략 작전! 』에 등장한 기계 짐승. ㊥ 전신을 분리시켜 개별적으로 날릴 수 있어, 팔부를 이용해 파일더와 합체전의 진짜 ㊥ 벵거 Z를 가져가려고 했다. ㊥ 간신히 마징가 Z를 되찾은 갑아와 해중에서 싸워 패배했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00157/Sheet1/000006",
+      "sourceBindingSha256": "80a35bd54a7fed0dc72a3ded84d980eb3c03808a94d2980cc8c2b6887fc4a4c2",
+      "sourceTextSha256": "95dfe1ef59b1a50d8743ed95676b8b0eeeeacba09489ffa2841bfe9c0cfb72bc",
+      "freshTranslation": "제9화 『발동! 일본 침략 작전! 』에 등장한 기계 짐승. ㊥ 전신을 분리시켜 개별적으로 날릴 수 있어, 팔부를 이용해 파일더와 합체전의 진짜 ㊥ 벵거 Z를 가져가려고 했다. ㊥ 간신히 마징가 Z를 되찾은 갑아와 해중에서 싸워 패배했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

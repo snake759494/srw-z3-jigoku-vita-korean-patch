@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00334",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00334/Sheet1/000002",
+      "sourceBindingSha256": "befb72262988694da7b759d7aa83680b6c9dd0311dff9a03a595b162d86afffc",
+      "sourceTextSha256": "f3d84f241039f7d10a3bd7d941f987de44b7ee11742c64f8d5797b43ea5d2743",
+      "freshTranslation": "식파 · 아스카 · 랭글리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00334/Sheet1/000003",
+      "sourceBindingSha256": "f6cd2593643b387dae2e912fe5b4e02887bbf60ca58e60eb7f364ca282123003",
+      "sourceTextSha256": "d40a6a7733bff595f3ef123171eb74b904008dc7c045654006d291bb6b7556ec",
+      "freshTranslation": "아스카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00334/Sheet1/000004",
+      "sourceBindingSha256": "443b4b6d0172f15689aec38c79a239b4b2dcee312918ac95deab7cb623054a38",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00334/Sheet1/000005",
+      "sourceBindingSha256": "97914c44d17d27abc6b36556e7c5e5b76b7150923d7253207f72db1570e33081",
+      "sourceTextSha256": "6aaf07a58b63e9201ea433e0345f5c2ba678d8285cc7cab7802aca3bfdbe4aef",
+      "freshTranslation": "미야무라 유코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00334/Sheet1/000006",
+      "sourceBindingSha256": "90789589b271786b9962be5592bdf448f5246313aeed7f5f7691eee463d88174",
+      "sourceTextSha256": "836644a450ddab6309902ec48b1d1c77cf3e6541b608fe103d05ad03ac92356f",
+      "freshTranslation": "EVA2호기에 탑승하는 「제2의 소녀」. ㊥ 독일 출신으로 유로 공군의 에이스. 계급은 대위. ㊥EVA의 조종에 관해서는 천재적이며, 2호기는 애착 이상의 것이 있어, 가라앉아 「내의 ㊥세계에서 유일한 거처」. ㊥ 성격은 승리로, 스트레이트에 기분을 표현한다. 하지만 한편으로 섬세하고 서투른 면도 ㊥ 있어, 그것을 강하게 속이는 경우도 많다. ㊥EVA에 탑승하는 것을 자랑스럽게 생각하기 때문에, 일본 당초, 선고 이유가 불선명한 신지를 ㊥ '나나히카리', 레이를 '에코히이키'라고 부르며 노골적으로 내려다보고 있었다. ㊥ 평상시는 제3 신도쿄 시립 제일 중학교에 다니고, 클래스는 신지들과 같은 2년 A조.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00334/Sheet1/000007",
+      "sourceBindingSha256": "1846c7a804515714dd6ceb35b22391571f75c0c9ad04c077aa49d84b2245490c",
+      "sourceTextSha256": "36290cb995ff123202011498f55454f5cab33f58ef2b76a4ccddf3f44ee52e01",
+      "freshTranslation": "EVA2호기에 탑승하는 「제2의 소녀」. ㊥ 독일 출신으로 유로 공군의 에이스. 계급은 대위. ㊥EVA의 조종에 관해서는 천재적이며, 2호기는 애착 이상의 것이 있어, 가라앉아 「내의 ㊥세계에서 유일한 거처」. ㊥ 성격은 승리로, 스트레이트에 기분을 표현한다. 하지만 한편으로 섬세하고 서투른 면도 ㊥ 있어, 그것을 강하게 속이는 경우도 많다. ㊥EVA에 탑승하는 것을 자랑스럽게 생각하기 때문에, 일본 당초, 선고 이유가 불선명한 신지를 ㊥ '나나히카리', 레이를 '에코히이키'라고 부르며 노골적으로 내려다보고 있었다. ㊥ 평상시는 제3 신도쿄 시립 제일 중학교에 다니고, 클래스는 신지들과 같은 2년 A조. ㊥ 제8 사도와의 싸움 후에 신지와 걸어 다니며 그의 것을 '바카신지'라고 부르고 ㊥ 스스로를 '아스카'라고 부르는 것을 허용했다. ㊥ 또, 레이와도 서서히 이해를 거듭해 나가, 그녀를 위해서 자신이 대신해 마츠시로㊥에서의 EVA3호기 기동 실험에 참가한다. 하지만 실험중에 타고 있던 3호기가 사도에게 침㊥식이 되어, NERV로부터 사도로 식별된다. 요격에 나선 신지는 싸움을 거부했지만, ㊥ 더미 플러그에 컨트롤 된 초호기에 의해 섬멸된다. ㊥ 그 후에는 정신오염의 가능성도 있어 전선에서 이탈했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

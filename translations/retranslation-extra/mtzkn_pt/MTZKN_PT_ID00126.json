@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00126",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00126/Sheet1/000002",
+      "sourceBindingSha256": "07cadb1e551f575397dccb2580ad6a3201a0fe8a1eac5561155b795e8efc3010",
+      "sourceTextSha256": "b22b5673a98e3af052872b9a62707d1ac9f8853b5b4d08819e1be3806c725ed7",
+      "freshTranslation": "대통령",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00126/Sheet1/000003",
+      "sourceBindingSha256": "57a1cac7ed3310f332990261b535cf09bb2e9381cf2a1b339d39c8064a376f77",
+      "sourceTextSha256": "b22b5673a98e3af052872b9a62707d1ac9f8853b5b4d08819e1be3806c725ed7",
+      "freshTranslation": "대통령",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00126/Sheet1/000004",
+      "sourceBindingSha256": "d1608d4b41ba1b7c54a83563ecf854fe40736ec4e97c5c0245764a2563c0d525",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00126/Sheet1/000005",
+      "sourceBindingSha256": "fddd1fcc5f10c0fd192f6d64a5a6465f66ca48c6d5dddff290ce00ab0fdc7c66",
+      "sourceTextSha256": "17a0e411954ee8e2194b8f0621c97b8f3744fa135271fecf2e818abb8d38a7df",
+      "freshTranslation": "지구 연방 정부 대통령. ㊥ 비참가 국가 및 반 지구 연방 정부 조직이 가입하고 새롭게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00126/Sheet1/000006",
+      "sourceBindingSha256": "f8db18ca9a62254f28e933a048767735324ad9dde12457d86bee2bde957eb4e2",
+      "sourceTextSha256": "990dd9039cc18ea56e63377f555c5cac8422828c24008fb05029438611828fcc",
+      "freshTranslation": "했던 지구 연방 정부의 대표. ㊥ 어로우즈의 방식을 부정하고 무력을 사용하지 않고 융화정책을 우선하면서 영구평화를 현실㊥현재하려고 하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00126/Sheet1/000007",
+      "sourceBindingSha256": "4cea8c2bd32ad544cb137aae5261b62619142c5272ca6960198dc02b28ffc47d",
+      "sourceTextSha256": "17a0e411954ee8e2194b8f0621c97b8f3744fa135271fecf2e818abb8d38a7df",
+      "freshTranslation": "지구 연방 정부 대통령. ㊥ 비참가 국가 및 반 지구 연방 정부 조직이 가입하고 새롭게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00126/Sheet1/000008",
+      "sourceBindingSha256": "1b16f8c1db8f076c86172b2b531b09b826f5efc2345901282077b1344544cb37",
+      "sourceTextSha256": "990dd9039cc18ea56e63377f555c5cac8422828c24008fb05029438611828fcc",
+      "freshTranslation": "했던 지구 연방 정부의 대표. ㊥ 어로우즈의 방식을 부정하고 무력을 사용하지 않고 융화정책을 우선하면서 영구평화를 현실㊥현재하려고 하고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

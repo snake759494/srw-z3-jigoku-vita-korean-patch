@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00270",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00270/Sheet1/000002",
+      "sourceBindingSha256": "b70deef1376e7af2899399f3ca11c96b1981c3df8f4055a07e93400c57b75972",
+      "sourceTextSha256": "b172b70ddefc10047e3cb53d683dfab1accdb7333b2336b0a85f40f0d25341ca",
+      "freshTranslation": "가구라자카 에리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00270/Sheet1/000003",
+      "sourceBindingSha256": "7dd683af45221cade87d5a2531adc26870008dc19278bd4309037b1471b923a1",
+      "sourceTextSha256": "0094eeaadc98a426de814c76bab0a74b5967fba84f8b1401ee254508b1c503c0",
+      "freshTranslation": "혜리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00270/Sheet1/000004",
+      "sourceBindingSha256": "fde3f9a888c037a777fb93a35a4c109a32dd23c059df88fa6d02b5a137e484d3",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00270/Sheet1/000005",
+      "sourceBindingSha256": "cf9497a0c29e85688ab174c0dad9ea18642676c9a0a324216561e80c4ed07358",
+      "sourceTextSha256": "0ad8070c7a4df80fba547ed60a1f7940d97e40fafa730642c64452566795b6f2",
+      "freshTranslation": "르 패닉!",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00270/Sheet1/000006",
+      "sourceBindingSha256": "9fd6d314c06cd0b436600f0db2979a5286844e6b83bd1710ea192886f1bc0555",
+      "sourceTextSha256": "d813f6c1c015f90ddcb704109d84e372a190b5f2befc92dd6fa373600d24b57c",
+      "freshTranslation": "진대고교 2년 4조의 클래스 담임. ㊥ 정의감이 강해",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00270/Sheet1/000007",
+      "sourceBindingSha256": "ec625aed0df1242ffe4fc05103c986d36b07e0c1a9f23078baacf0ce7ff44dcc",
+      "sourceTextSha256": "e09df5fd6116066ee511afb566c37498e48316262fef642c8dfa7225dfea45b5",
+      "freshTranslation": "흥미로운 성격으로, 전입해 온 소스케가 일으키는 소동에 늘 머리를 괴롭혀 ㊥ 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00270/Sheet1/000008",
+      "sourceBindingSha256": "217de2a4850b19ff3fda563f3998affccb6ff0bc9a99c7c8f21b17427ec1d5e4",
+      "sourceTextSha256": "d813f6c1c015f90ddcb704109d84e372a190b5f2befc92dd6fa373600d24b57c",
+      "freshTranslation": "진대고교 2년 4조의 클래스 담임. ㊥ 정의감이 강해",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00270/Sheet1/000009",
+      "sourceBindingSha256": "c293160ad90234ffbca91ee437d868cbaadaed77e786a82c89b32d60444c1033",
+      "sourceTextSha256": "e09df5fd6116066ee511afb566c37498e48316262fef642c8dfa7225dfea45b5",
+      "freshTranslation": "흥미로운 성격으로, 전입해 온 소스케가 일으키는 소동에 늘 머리를 괴롭혀 ㊥ 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

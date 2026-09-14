@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00120",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00120/Sheet1/000002",
+      "sourceBindingSha256": "aca99634aaa884a354b647c03e9830a3c022238ad94e70e0112de1d37d09c18b",
+      "sourceTextSha256": "e1b08af7e5dfa4cd7734e599d2ac0a639dcaf8a45cf315d806e967e9f52078a1",
+      "freshTranslation": "가바르늄",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00120/Sheet1/000003",
+      "sourceBindingSha256": "2100cec67bd5db7497d8aa8213d9db94258ec445263798ba875e67147b7985fa",
+      "sourceTextSha256": "992f2c6d7a978cd875e81bac14ab3de8913cfa52dcea3507d5201d3aaf30e9e7",
+      "freshTranslation": "「무적 로보 트라이더 G7」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00120/Sheet1/000004",
+      "sourceBindingSha256": "5c0d5d4ddb84b1a4555f29e87bcfe5326b943a0529482f82fa7d037250e1731c",
+      "sourceTextSha256": "aebef54a27804d38edcb204113f5e9fb85e7ec05b3ff8820dc7c8fb4161088c6",
+      "freshTranslation": "로봇 제국의 가바르 별에서 사용되는 금속으로 지구상에는 존재하지 않는다. ㊥ 트라이더 G7의 장갑재로 사용되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00120/Sheet1/000005",
+      "sourceBindingSha256": "f726071cf8ccc2a3051a4ec6a16b4d943d4b6b643b4b7a4d19a7d802e8c565e2",
+      "sourceTextSha256": "aebef54a27804d38edcb204113f5e9fb85e7ec05b3ff8820dc7c8fb4161088c6",
+      "freshTranslation": "로봇 제국의 가바르 별에서 사용되는 금속으로 지구상에는 존재하지 않는다. ㊥ 트라이더 G7의 장갑재로 사용되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

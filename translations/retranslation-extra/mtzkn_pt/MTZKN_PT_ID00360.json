@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00360",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00360/Sheet1/000002",
+      "sourceBindingSha256": "6c61c9930edfefbeef32559e3c8a80b78ef921d084db565b7fb4d8d843770807",
+      "sourceTextSha256": "1e4f6799ce5515aaf0cefe2670f9239083af614ca0d153358ec2c02944626c28",
+      "freshTranslation": "나나리 비 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00360/Sheet1/000003",
+      "sourceBindingSha256": "c430674946585e3c49c5958c99d1d188dfa92c0e0e3548d1383686828647db90",
+      "sourceTextSha256": "9a979196e68c3549b7216e56e834bf45c2d28340607b9c8dddf0aedc44140955",
+      "freshTranslation": "니어",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00360/Sheet1/000004",
+      "sourceBindingSha256": "e92d0c586baa6746b0c43ad735e029dd9b9e45a636680c3ad5cbb9fb35b7ac44",
+      "sourceTextSha256": "6fc98948ebc21fb99a9a47b45498307c93efee564fa5b56c68d8cde5280de8c5",
+      "freshTranslation": "나나리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00360/Sheet1/000005",
+      "sourceBindingSha256": "765a11b4549c5e8d9d78c1f098f4b1a0756c2fd3f46c76a483b57ffe8d9de32c",
+      "sourceTextSha256": "b40f8de117e644be3d8ab8c76b9b5779575051515b39a54c7b5cfa1a85297d19",
+      "freshTranslation": "코드기어스 반역의 루루슈 R2",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00360/Sheet1/000006",
+      "sourceBindingSha256": "092c5d4f540060d68676c34899778e2c4b9f5ab522752146f8d7b119066c826c",
+      "sourceTextSha256": "a95471c69487e7cdb9c41304a9ff27878736abab0f29e42f446e3f25399441cb",
+      "freshTranslation": "루루슈의 여동생이자 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00360/Sheet1/000007",
+      "sourceBindingSha256": "a1ed1f6b534787dc04eab12fc48b9268d19c64ff06fe0e48679315ae9290091e",
+      "sourceTextSha256": "a75c86681db5f25ab258247412bc9885932de245a4c59d65970508dfeb497fb1",
+      "freshTranslation": "니어 황위 계승권 제87위를 가졌다. 15세. ㊥ 한때 어머니 마리안의 살해 현장에 합류하고, 감아서 쏘아 올린 것으로, 두 눈의 ㊥빛과 양발의 자유를 잃고 있다. ㊥ 루루슈가 싸우는 이유 그 자체였지만, 블랙 리베리온 후, 그 소식은 불명 ㊥이었다. ㊥ 하지만 0이 부활한 후 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00360/Sheet1/000008",
+      "sourceBindingSha256": "1b49f1a8669c387c695736643ff1f6f1bb79f30a4ab7cb81fe7078c469ea1b44",
+      "sourceTextSha256": "6b409f830459c85915c1f4d5bb0726ed5b65e0f8993a89fa43393480bc035311",
+      "freshTranslation": "니어의 황녀, 에리어 11의 신총독으로서 루루㊥슈의 앞에 나타난다. ㊥ 총독에 취임하고 나서는 세계는 더 부드럽게 바꿀 수 있다는 믿음 아래 인종과 값 ㊥ 가치관이 다른 사람들과 함께 걸을 길을 모색하고 있다. ㊥ 제2차 도쿄 결전 때 플레이어의 폭발에 삼켜 행방불명이 되는데도 슈나㊥ 이젤 측의 황제로 등장해 황제가 된 루루쉬 앞에 서서 뛰어들었다. ㊥ 최종 결전 때에는 강한 결의를 가슴에 스스로 죄를 짓기 위해 플레이어 탄두의 제어 스위치를 잡아 ㊥했다. 그 강한 의사는 아버지 샤를의 기억을 다시 쓰는 기어스조차도 무너졌다. ㊥ 그 후, 반역자로서 처형되기 직전에 눈앞에서 제로 레퀴엠을 목격하는 것과 ㊥ 되었다. 형의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00360/Sheet1/000009",
+      "sourceBindingSha256": "6e3ceb865141966698ef2d5d19cbba7a536223ef2fe2b1bc2949fb4a648bdb82",
+      "sourceTextSha256": "f18697a7c18dd7b3224206dbca6aaa390596ba1360f1d66448a5ab2924b1b0bd",
+      "freshTranslation": "의를 이해한 나나리는, 악의 황제 루루슈를 토벌한 영웅 제로를 칭찬 ㊥하는 목소리가 울리는 가운데, 그 시신에 가서 눈물을 흘리는 것이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00360/Sheet1/000010",
+      "sourceBindingSha256": "bd91f49b61884e080faed8aa983f3f9c62f2348f7b5d6c106755abe9afb5d6b2",
+      "sourceTextSha256": "a95471c69487e7cdb9c41304a9ff27878736abab0f29e42f446e3f25399441cb",
+      "freshTranslation": "루루슈의 여동생이자 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00360/Sheet1/000011",
+      "sourceBindingSha256": "cce94b51f7cf966d27536951d3d502ca16a84c5869d108820cd80f0e6b9d07e3",
+      "sourceTextSha256": "a75c86681db5f25ab258247412bc9885932de245a4c59d65970508dfeb497fb1",
+      "freshTranslation": "니어 황위 계승권 제87위를 가졌다. 15세. ㊥ 한때 어머니 마리안의 살해 현장에 합류하고, 감아서 쏘아 올린 것으로, 두 눈의 ㊥빛과 양발의 자유를 잃고 있다. ㊥ 루루슈가 싸우는 이유 그 자체였지만, 블랙 리베리온 후, 그 소식은 불명 ㊥이었다. ㊥ 하지만 0이 부활한 후 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00360/Sheet1/000012",
+      "sourceBindingSha256": "bfe83c6c6357f50c8f9d34f6affe4a781f93e19c85e7519fa27b9b19f3d4d67a",
+      "sourceTextSha256": "6b409f830459c85915c1f4d5bb0726ed5b65e0f8993a89fa43393480bc035311",
+      "freshTranslation": "니어의 황녀, 에리어 11의 신총독으로서 루루㊥슈의 앞에 나타난다. ㊥ 총독에 취임하고 나서는 세계는 더 부드럽게 바꿀 수 있다는 믿음 아래 인종과 값 ㊥ 가치관이 다른 사람들과 함께 걸을 길을 모색하고 있다. ㊥ 제2차 도쿄 결전 때 플레이어의 폭발에 삼켜 행방불명이 되는데도 슈나㊥ 이젤 측의 황제로 등장해 황제가 된 루루쉬 앞에 서서 뛰어들었다. ㊥ 최종 결전 때에는 강한 결의를 가슴에 스스로 죄를 짓기 위해 플레이어 탄두의 제어 스위치를 잡아 ㊥했다. 그 강한 의사는 아버지 샤를의 기억을 다시 쓰는 기어스조차도 무너졌다. ㊥ 그 후, 반역자로서 처형되기 직전에 눈앞에서 제로 레퀴엠을 목격하는 것과 ㊥ 되었다. 형의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00360/Sheet1/000013",
+      "sourceBindingSha256": "dcada71f04bf5c77926ee6b314c241b1e836b616137372ce1236a6761ba2015a",
+      "sourceTextSha256": "f18697a7c18dd7b3224206dbca6aaa390596ba1360f1d66448a5ab2924b1b0bd",
+      "freshTranslation": "의를 이해한 나나리는, 악의 황제 루루슈를 토벌한 영웅 제로를 칭찬 ㊥하는 목소리가 울리는 가운데, 그 시신에 가서 눈물을 흘리는 것이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

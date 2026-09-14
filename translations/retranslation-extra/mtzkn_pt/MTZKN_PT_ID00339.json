@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00339",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00339/Sheet1/000002",
+      "sourceBindingSha256": "3b2bf5224af712890f1de785152953136c86d24a2e80dc7d427efd6312f18c7d",
+      "sourceTextSha256": "bec2669b4219efcbc5a1091185beee1c5f5ed81ed89d7b5f1fc35e0103fc84f4",
+      "freshTranslation": "후유츠키 코우조",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00339/Sheet1/000003",
+      "sourceBindingSha256": "6d029751221a48b87f3472e3e40c4fa015a08b1bae648f62eeca893b2e17707f",
+      "sourceTextSha256": "ffd61ebab1196e097a6c1e54aae657978ee99393ce5d2605411d7b09fa15d789",
+      "freshTranslation": "후유츠키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00339/Sheet1/000004",
+      "sourceBindingSha256": "ad341e6684e4f58baf4cec34b02b1e34e8b95ac4f0f5a60b36864d198233eb81",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00339/Sheet1/000005",
+      "sourceBindingSha256": "0c4aec54ca10ccd4096d980d7e11364d49f067cb11b19cbd9d9c5ce1550f9e5c",
+      "sourceTextSha256": "001ef1580dcc6aa9ffe92e1b1fd98745d2dab497d6a6668978ee8b5f0bc94071",
+      "freshTranslation": "특무기관 NERV의 부사령관. ㊥ 겐도우의 이해자이며 대등한 관계로 그를 보좌하고 때로는 직무의 대행자로서 ㊥ 사도와의 싸움의 지휘를 한다. ㊥별로 감정을 드러내지 않지만, 두번째 임팩트의 폭심을 보았을 때에는 「아프고㊥ 있어, 보고 계시지 않아」라고 심경을 토로한다. ㊥ 여가에는 막장기를 하고 있는 모습을 볼 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00339/Sheet1/000006",
+      "sourceBindingSha256": "e35e7acf6e3ebb2bc7bc95a02f291fa1271c517f7884c01d26bff6779261ceab",
+      "sourceTextSha256": "001ef1580dcc6aa9ffe92e1b1fd98745d2dab497d6a6668978ee8b5f0bc94071",
+      "freshTranslation": "특무기관 NERV의 부사령관. ㊥ 겐도우의 이해자이며 대등한 관계로 그를 보좌하고 때로는 직무의 대행자로서 ㊥ 사도와의 싸움의 지휘를 한다. ㊥별로 감정을 드러내지 않지만, 두번째 임팩트의 폭심을 보았을 때에는 「아프고㊥ 있어, 보고 계시지 않아」라고 심경을 토로한다. ㊥ 여가에는 막장기를 하고 있는 모습을 볼 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

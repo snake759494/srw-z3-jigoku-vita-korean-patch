@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00177",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00177/Sheet1/000002",
+      "sourceBindingSha256": "6367b68cf1b37aacf1d381995e492062e01c395911cdcaef07c7fd7847bcc584",
+      "sourceTextSha256": "04ff8354852ccd743217d2506abd2faabe4e6baa3421aed8b49da1c8a5b3a620",
+      "freshTranslation": "카나리아 베르시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00177/Sheet1/000003",
+      "sourceBindingSha256": "66df54f983a94f4242fb404f024e232e85c83ddc6542d8cfb9d274b6b9182397",
+      "sourceTextSha256": "4ca44c01cf056732a8ef118612eb41cedbb973c1aae5e98a883cf4adf5fb4711",
+      "freshTranslation": "여",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00177/Sheet1/000004",
+      "sourceBindingSha256": "8e2d9b64d6df5649e1542d34841bd7dedb5e684421d3981e6069f81cc57013af",
+      "sourceTextSha256": "4a2d803de12f253d21e68dda96d2ed274e87fd17e5ce663b3bd4b20a4019d659",
+      "freshTranslation": "카나리아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00177/Sheet1/000005",
+      "sourceBindingSha256": "ce471cd80289176f024fb87ace085cd00362b6edbd26debe11bf9b2452a417d5",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00177/Sheet1/000006",
+      "sourceBindingSha256": "6335bac8f750f296767c38a8b1c583f6988263ebe96486b136bf6a4d9ca71912",
+      "sourceTextSha256": "b02334b0a950667c06a1b758586395ca226ba96e0c351bb98953d0da8c8332f8",
+      "freshTranslation": "쿠와시마 호코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00177/Sheet1/000007",
+      "sourceBindingSha256": "7d3ac0beb1716c93dc76bfa8bd6bff10c717fee8aec7d2823af3e0a1539ed48e",
+      "sourceTextSha256": "17aa2512550ddb4b87101422697df2ab8d97363acbb86317ff76437b2c50c188",
+      "freshTranslation": "S. M. S스컬 소대의 파일럿. 계급은 중위. ㊥ 의사 면허를 갖고 평시에는 위생병도 겸임하고 있다. 평소에는 입수가 적고 조용하지만 ㊥ 성인 여성으로서의 걱정을 가진다. ㊥ 출격 시에는 중가변 폭격기 VB-6 케니히몬스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00177/Sheet1/000008",
+      "sourceBindingSha256": "4d8f935ba375d98138af26d7fff782d35c5accbc7062a0f9f93f4d27971dcd76",
+      "sourceTextSha256": "a2c924c895c62f70440c752dd5231b412f535175673dc8a6ace043448b7c859a",
+      "freshTranslation": "-에 탑승해, 용맹한 공격으로 적㊥을 격파해 간다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00177/Sheet1/000009",
+      "sourceBindingSha256": "e8e81b49835d1b318debcc0a93c1eb79b8b2c6a9051144800233344e320cc239",
+      "sourceTextSha256": "17aa2512550ddb4b87101422697df2ab8d97363acbb86317ff76437b2c50c188",
+      "freshTranslation": "S. M. S스컬 소대의 파일럿. 계급은 중위. ㊥ 의사 면허를 갖고 평시에는 위생병도 겸임하고 있다. 평소에는 입수가 적고 조용하지만 ㊥ 성인 여성으로서의 걱정을 가진다. ㊥ 출격 시에는 중가변 폭격기 VB-6 케니히몬스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00177/Sheet1/000010",
+      "sourceBindingSha256": "9ef098f17b166202328711bdb00c7e451041cdb75f2e2b4b5286f6f1d33974a7",
+      "sourceTextSha256": "680c0631d93dac0e170537fd8024dec8216517ce858c61ad9089e94757eb364a",
+      "freshTranslation": "-에 탑승해, 용맹한 공격으로 적㊥을 격파해 간다. ㊥ 랑카가 \"해리성 건망증 (Dissociativeamnesia)\"인 ㊥을 알토에게 말하는 등한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

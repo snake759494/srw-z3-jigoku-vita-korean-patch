@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00119",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00119/Sheet1/000002",
+      "sourceBindingSha256": "c3d9cdea48bd76c016c964b81e56df155fb67092a0cc2e5dab4745f0f1d7752f",
+      "sourceTextSha256": "f37d90ade2d28025eea9f72d1bcecdac91f159a12a8633b700a29d581db9d014",
+      "freshTranslation": "사쿠라다 에이지로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00119/Sheet1/000003",
+      "sourceBindingSha256": "01efc2a415fbe6b81591899a6edc21864282fa3f2327f14f379f9863645f20ea",
+      "sourceTextSha256": "bbd3fa74a468161cd7cd396bb3492075b561db28851a521806005dce6b42190a",
+      "freshTranslation": "\"지구 방위 기업 다이 가드\"",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00119/Sheet1/000004",
+      "sourceBindingSha256": "4e323482f3c43bb98e9dd67a9aff9495751994802350ba347aa0d58ebda551d5",
+      "sourceTextSha256": "4792c3eda4182bf89a749075f163d48665002d29c4a00b87c2eb326861f46e24",
+      "freshTranslation": "모모이 이부키의 친아버지. ㊥ 특수 양자역학 연구자로, 헤테로다인이 습격하기 전부터 계지진 재해를 예견해 ㊥ 하고 있었다. ㊥ 2018년 보소 앞바다에 출현한 인류가 처음 만난 헤테로다인에 의해 ㊥ 사망했지만, 이부키 속에서는 세계를 지키기 위해 헤테로다인을 연구하고 있던 영국 ㊥ 남성적 존재로서 계속 살아 있었다. ㊥ 하지만 같은 과학자인 백목귀는, 그는 헤테로다인을 순수하게 연구 대상으로 ㊥로 포착하고 있어 거기에 정의감이나 사명감 같은 것은 없었다고 추측하고 있다㊥한다. 게다가 헤테로다인과 조우했을 때의 영상에 의해 그의 지적 호기심이 가득한 ㊥ 표정이 밝혀져 그 님은 아버지를 우상적으로 숭배하고 있던 이부키에 큰 충격을",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00119/Sheet1/000005",
+      "sourceBindingSha256": "147f33b58b9d5aec2cad5dbdf921256e6d9ade85c9805c3a78e03573e7e5a48e",
+      "sourceTextSha256": "86319c381aeb88a8132cda2f93785db57cb9f19b124842f7a7cb955e5fca4ca2",
+      "freshTranslation": "네.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00119/Sheet1/000006",
+      "sourceBindingSha256": "662be513a8758ae8b5c55a786254e6782a23b76ee1a5e402320d216271c578a2",
+      "sourceTextSha256": "4792c3eda4182bf89a749075f163d48665002d29c4a00b87c2eb326861f46e24",
+      "freshTranslation": "모모이 이부키의 친아버지. ㊥ 특수 양자역학 연구자로, 헤테로다인이 습격하기 전부터 계지진 재해를 예견해 ㊥ 하고 있었다. ㊥ 2018년 보소 앞바다에 출현한 인류가 처음 만난 헤테로다인에 의해 ㊥ 사망했지만, 이부키 속에서는 세계를 지키기 위해 헤테로다인을 연구하고 있던 영국 ㊥ 남성적 존재로서 계속 살아 있었다. ㊥ 하지만 같은 과학자인 백목귀는, 그는 헤테로다인을 순수하게 연구 대상으로 ㊥로 포착하고 있어 거기에 정의감이나 사명감 같은 것은 없었다고 추측하고 있다㊥한다. 게다가 헤테로다인과 조우했을 때의 영상에 의해 그의 지적 호기심이 가득한 ㊥ 표정이 밝혀져 그 님은 아버지를 우상적으로 숭배하고 있던 이부키에 큰 충격을",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00119/Sheet1/000007",
+      "sourceBindingSha256": "fc2e2e526d1d3aca55cdfa45e53ad66b133d9f82fb45893e19fb97b0d86d239c",
+      "sourceTextSha256": "86319c381aeb88a8132cda2f93785db57cb9f19b124842f7a7cb955e5fca4ca2",
+      "freshTranslation": "네.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

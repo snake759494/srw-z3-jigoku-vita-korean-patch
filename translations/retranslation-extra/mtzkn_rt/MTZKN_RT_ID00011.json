@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00011",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00011/Sheet1/000002",
+      "sourceBindingSha256": "8ae5e3bfea7496b815d691afe70ff6ceb99270c6931f89908dd99eca0e74f6dd",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00011/Sheet1/000003",
+      "sourceBindingSha256": "132f80a5740e287f1ece8e064cd950e200f45cf1f036becfbacafb4a61644f2c",
+      "sourceTextSha256": "67e6317724e5602d4398b88250b2053c5522c1faa91b739f90c33bce22e0ee8a",
+      "freshTranslation": "거대한 디스크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00011/Sheet1/000004",
+      "sourceBindingSha256": "d390b8332fe1aa6c526cf342714c87f91caffe4870214bedef691c90184ee8dc",
+      "sourceTextSha256": "67e6317724e5602d4398b88250b2053c5522c1faa91b739f90c33bce22e0ee8a",
+      "freshTranslation": "거대한 디스크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00011/Sheet1/000005",
+      "sourceBindingSha256": "ad92fded89a4bf7f37f183fa0837c24263ed536fb2d6e02b0859f88dd5ae0768",
+      "sourceTextSha256": "31493696ea8405e06395fccd69d08a3f4b104cbef0726c9ee88ddfc9227dfaa9",
+      "freshTranslation": "우주마왕의 군세가 사용하는 거대한 원반. ㊥ 내부에는 다수의 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00011/Sheet1/000006",
+      "sourceBindingSha256": "6d7a17dd0baf071469cebc3978a65476c1e4b8155a37ea68a8de354948379e47",
+      "sourceTextSha256": "d7d47fb7f50ca838cf9e15f4c134415fd2a740d1f77832bbbdbd9d4257b10321",
+      "freshTranslation": "원반, 그리고 스페이스 로보를 탑재하는 것이 가능해지고 있다. ㊥ 우주 마왕 부하의 마인 장군은 물론 마왕으로부터 빌려준다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00011/Sheet1/000007",
+      "sourceBindingSha256": "ac950960fd1137f0f7b7f4412417ff64943e66376c8d8d7d24cf7669da26d802",
+      "sourceTextSha256": "ef94f7a1b93415accae12a09997bf54a6b0e2f19106281f88e4d9f5770ba4259",
+      "freshTranslation": "받은 브랜치가 타고 ㊥ 공격의 지휘를 맡은 적도 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00011/Sheet1/000008",
+      "sourceBindingSha256": "96284e828802282cbf3ef691b21347e095158200f042383220e5871f4218f30c",
+      "sourceTextSha256": "31493696ea8405e06395fccd69d08a3f4b104cbef0726c9ee88ddfc9227dfaa9",
+      "freshTranslation": "우주마왕의 군세가 사용하는 거대한 원반. ㊥ 내부에는 다수의 작은",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00011/Sheet1/000009",
+      "sourceBindingSha256": "59ae42bd09b78bcbf969da75c3b1b23c387b94e4dd0fe86cbf2f34ade15529bc",
+      "sourceTextSha256": "d7d47fb7f50ca838cf9e15f4c134415fd2a740d1f77832bbbdbd9d4257b10321",
+      "freshTranslation": "원반, 그리고 스페이스 로보를 탑재하는 것이 가능해지고 있다. ㊥ 우주 마왕 부하의 마인 장군은 물론 마왕으로부터 빌려준다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00011/Sheet1/000010",
+      "sourceBindingSha256": "c9142373bd39bf9aaa8dbc3a664ca551f4bf865150a67811ce937e300733a598",
+      "sourceTextSha256": "ef94f7a1b93415accae12a09997bf54a6b0e2f19106281f88e4d9f5770ba4259",
+      "freshTranslation": "받은 브랜치가 타고 ㊥ 공격의 지휘를 맡은 적도 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00122",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000002",
+      "sourceBindingSha256": "69cfd7b428984431ffeba4ad707fc6fa253521a621f661501659228424f54b6c",
+      "sourceTextSha256": "0f629dbc69c41e1ff25f9c7e8a9954c8b3bd38e80347ea531860bb4d2b156816",
+      "freshTranslation": "루이스 할레비",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000003",
+      "sourceBindingSha256": "dcabc6e7564ea74a2493d0f4146742fc8058d60674c3812d3d14f652df9e1b34",
+      "sourceTextSha256": "80ec84910c92aaa83913a1540a0efe4612a67aa2da69475f0151d73554563b7c",
+      "freshTranslation": "루이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000004",
+      "sourceBindingSha256": "6984a152eea28a73d987817c9165bfaf4e5e6227203ffde24bce3ac37816b4b3",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000005",
+      "sourceBindingSha256": "95865e69d6ce44487f65101d3f9999fed66400780ad3aba556270da8cac81dc6",
+      "sourceTextSha256": "4be43b15a534c43f5660dc154288d6b75e3033bafe4de21fbb751ff49f413748",
+      "freshTranslation": "전 얼로우즈 조종사. 24세. ㊥ 한때는 싸움과는 무관한 세계에 살았고, 스페인에서 유학생으로 일본㊥에서 사는 학생으로 사자와는 어울리는 커플이었다. ㊥이지만, 네나의 변덕에 따라 부모와 많은 친족, 자신의 왼손을 잃은 것을 계기 ㊥에 걸쳐 사자와 결별해, 건담에 복수하는 길을 선택한다. ㊥ 자산가의 태생으로 상속된 다액의 유산을 어로우즈에 출자. 계급이야말로 준위는 ㊥이지만, 의견의 상신이나 신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000006",
+      "sourceBindingSha256": "4ecb80d329a6f82ee54c3f4d820a4985eb08742cd2b147dea6656ba6fe76cfc0",
+      "sourceTextSha256": "b65e5769a537bd08e88fcff7e2342fe45848c7689d6fec3e1c0ce9ae3e3c963d",
+      "freshTranslation": "기계의 수령 등 다양한 면에서 상층부로부터의 후우를 받고 있었다. ㊥ 군인으로서의 경험은 얕고, 실력 부족은 부인하지 않고, 또, 의사 태양로의 GN 입자에 의한 ㊥ 과거의 상처로 세포장애를 앓고 있어 진정제를 복용할 필요가 있는 등의 문제를 안지만 ㊥등도, 건담에의 투쟁. ㊥ 거기를 리본에 넣고 인공 이노베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000007",
+      "sourceBindingSha256": "8738bf04a207ac5585d12d1cbb1916a9b058aac247fc77f297132a5f94590990",
+      "sourceTextSha256": "d1aeb32d3473e1d814ec1fb6fe7639e2dfd8db620b2a25647a9e93a54690fc9d",
+      "freshTranslation": "을 깨우기 위한 실험대로서 ㊥ 진정제",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000008",
+      "sourceBindingSha256": "9d497558aaba7e36bfae402b5d73baa9f80299d7debaa39bfb031513ced877e0",
+      "sourceTextSha256": "35fbc9c182467987de440c892ca726e427144c5bf615f35cc46688bbf09f00d3",
+      "freshTranslation": "나노 기계를 던져",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000009",
+      "sourceBindingSha256": "c512e9dc82bd1de93822b6de2e832ccacb30415b1f27a2e781f23373e053c2c0",
+      "sourceTextSha256": "de161ed1b2182df704685f8522bdcc58b9dd53c577d784c258c34eafae245b74",
+      "freshTranslation": "계속 되게 된다. 이에 따라 진정제를 정기적으로 투㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000010",
+      "sourceBindingSha256": "385a08e4b9d8f0978958495f4bf49cfd3c4269e30be2b6c7f76943af4018a55c",
+      "sourceTextSha256": "ee2c9e2b40778b39bae906287a2e674e6df8de9fb3265244d6044942fcd152bd",
+      "freshTranslation": "할 필요가 있는 몸이 되어 버린다. ㊥ 최종 결전에서 생신으로 사자와 대치했을 때, 증오와 분노로 혼란 상태에 빠지지만, 트란자㊥ 무버스트에 의해 사자와 알게 되어 정기를 되찾는다. 또한 신체를 앓고 있던 얇은 ㊥포 장애도 GN 입자의 힘으로 제거되었다. ㊥ 하지만 리본에 던져",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000011",
+      "sourceBindingSha256": "14ad4ad557d96c6180ecfe832803acb8d016eca0e50d528e80b4d48b84dca9b7",
+      "sourceTextSha256": "ae29b00704c5af5468ff3f36f95acc668b9eb3cf29e411173f635d714adb25da",
+      "freshTranslation": "된 나노머신의 후유증과 전시중의 PTSD는 아직도 극㊥복할 수 없고, 종전으로부터 2년이 지난 뒤에도 사자의 개호를 받으면서 입원 생활을 보내 ㊥ 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000012",
+      "sourceBindingSha256": "3d614432dc9427e2b07558fd112712bf27c03e4e8a6456516ea6503c6e1746f4",
+      "sourceTextSha256": "4be43b15a534c43f5660dc154288d6b75e3033bafe4de21fbb751ff49f413748",
+      "freshTranslation": "전 얼로우즈 조종사. 24세. ㊥ 한때는 싸움과는 무관한 세계에 살았고, 스페인에서 유학생으로 일본㊥에서 사는 학생으로 사자와는 어울리는 커플이었다. ㊥이지만, 네나의 변덕에 따라 부모와 많은 친족, 자신의 왼손을 잃은 것을 계기 ㊥에 걸쳐 사자와 결별해, 건담에 복수하는 길을 선택한다. ㊥ 자산가의 태생으로 상속된 다액의 유산을 어로우즈에 출자. 계급이야말로 준위는 ㊥이지만, 의견의 상신이나 신",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000013",
+      "sourceBindingSha256": "12c07ff3c36cf1fa8c778da69e04510a661f76cf1c2e5085481b58ea87d965b8",
+      "sourceTextSha256": "b65e5769a537bd08e88fcff7e2342fe45848c7689d6fec3e1c0ce9ae3e3c963d",
+      "freshTranslation": "기계의 수령 등 다양한 면에서 상층부로부터의 후우를 받고 있었다. ㊥ 군인으로서의 경험은 얕고, 실력 부족은 부인하지 않고, 또, 의사 태양로의 GN 입자에 의한 ㊥ 과거의 상처로 세포장애를 앓고 있어 진정제를 복용할 필요가 있는 등의 문제를 안지만 ㊥등도, 건담에의 투쟁. ㊥ 거기를 리본에 넣고 인공 이노베이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000014",
+      "sourceBindingSha256": "c9c65136978ceda765b64539440d72b7444c8f1cc30f254aea6c51355b5bc3c1",
+      "sourceTextSha256": "d1aeb32d3473e1d814ec1fb6fe7639e2dfd8db620b2a25647a9e93a54690fc9d",
+      "freshTranslation": "을 깨우기 위한 실험대로서 ㊥ 진정제",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000015",
+      "sourceBindingSha256": "c6f76573e504f0b97a293b33c162bb9130c0c887db5871f268cee7758597b749",
+      "sourceTextSha256": "35fbc9c182467987de440c892ca726e427144c5bf615f35cc46688bbf09f00d3",
+      "freshTranslation": "나노 기계를 던져",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000016",
+      "sourceBindingSha256": "1eaaf1f4300eab1010aec918b7a0d4600c7ea9ed0dff78e14fc28971a4fe7217",
+      "sourceTextSha256": "de161ed1b2182df704685f8522bdcc58b9dd53c577d784c258c34eafae245b74",
+      "freshTranslation": "계속 되게 된다. 이에 따라 진정제를 정기적으로 투㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000017",
+      "sourceBindingSha256": "722155131e1fe4c00af19c8cc21b997731db97b16932edba819f15c7768a02d7",
+      "sourceTextSha256": "ee2c9e2b40778b39bae906287a2e674e6df8de9fb3265244d6044942fcd152bd",
+      "freshTranslation": "할 필요가 있는 몸이 되어 버린다. ㊥ 최종 결전에서 생신으로 사자와 대치했을 때, 증오와 분노로 혼란 상태에 빠지지만, 트란자㊥ 무버스트에 의해 사자와 알게 되어 정기를 되찾는다. 또한 신체를 앓고 있던 얇은 ㊥포 장애도 GN 입자의 힘으로 제거되었다. ㊥ 하지만 리본에 던져",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00122/Sheet1/000018",
+      "sourceBindingSha256": "9b72605133153162c64d121eeb46eaf983975275e1810e1fa109c0fbd16f498a",
+      "sourceTextSha256": "ae29b00704c5af5468ff3f36f95acc668b9eb3cf29e411173f635d714adb25da",
+      "freshTranslation": "된 나노머신의 후유증과 전시중의 PTSD는 아직도 극㊥복할 수 없고, 종전으로부터 2년이 지난 뒤에도 사자의 개호를 받으면서 입원 생활을 보내 ㊥ 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

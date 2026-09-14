@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00238",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00238/Sheet1/000002",
+      "sourceBindingSha256": "078c8461e39fe9680f031642ebd2a742b6522db9cac9c0a01d8e611874739b5b",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00238/Sheet1/000003",
+      "sourceBindingSha256": "5dacee6120df513e5ba1a68f3745a2327d56a233fe6fb4e256c2ad9beb0a61d4",
+      "sourceTextSha256": "cd468c2bade9ac865b6973e01e83d1740f26c7539f34f2d11cafb19b01bdaa98",
+      "freshTranslation": "믹시 그니스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00238/Sheet1/000004",
+      "sourceBindingSha256": "c2b122c15be91034f470686b826bfbd1739034acd62df7648495cafe9151e7b8",
+      "sourceTextSha256": "cd468c2bade9ac865b6973e01e83d1740f26c7539f34f2d11cafb19b01bdaa98",
+      "freshTranslation": "믹시 그니스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00238/Sheet1/000005",
+      "sourceBindingSha256": "077f0b9fefce1cef018beaaebad83101d5e15a0a5003764198b4fe00a9ac23c7",
+      "sourceTextSha256": "95b2b5e89a38a5fa6647401a9a3f33b9b51c3a5230869d5c8624201f7669d8c4",
+      "freshTranslation": "MIXY가 탑승하는 사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00238/Sheet1/000006",
+      "sourceBindingSha256": "e1811d5dc54f6fb56d52e695e562b341aa80748dbf78a1845a946e1ad72c3b1e",
+      "sourceTextSha256": "654b11b0bd2453d2e86809571563280d7b9cf82433e316b89ae9b3a53ff1748d",
+      "freshTranslation": "아부닥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00238/Sheet1/000007",
+      "sourceBindingSha256": "331254283394541de31a10e902cc8f8ea22556ce21d43aa536aa13847b17cc57",
+      "sourceTextSha256": "f26cc6907b956f3e3488f81052e48cd79f63a6c5183477b02d84d1fb67026b17",
+      "freshTranslation": "ー.㊥퍼스널 칼라의 오렌지로 염색되어 있다.㊥대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00238/Sheet1/000008",
+      "sourceBindingSha256": "0c2b01f39feeacc45551d98f9c6fd153430863a15d49f1ee186052bf44c3e372",
+      "sourceTextSha256": "07bdcd22771ce64db4cfdd4fe6c8a267f3bd5c383a3bed12c10e9e89a6f9c5fc",
+      "freshTranslation": "소총을 장비하는 것 이외에는 일반",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00238/Sheet1/000009",
+      "sourceBindingSha256": "478f8df7a8af7f7f96fcbfc9d880375eaa3fb0fd15f521db8743db6b9c17707a",
+      "sourceTextSha256": "26d1308c3ebbcf6e3244d47a02917ba988f58ab3cbbd743648e3b58b030de028",
+      "freshTranslation": "아부닥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00238/Sheet1/000010",
+      "sourceBindingSha256": "b9787d007154a56080750e65dcaea5b8556ec266f68cc47564edf0a7a399aed2",
+      "sourceTextSha256": "e9be7971be6d47ed93ce39725a86bf505ecfd56118d5bed29a96a735a84e545a",
+      "freshTranslation": "-와는 큰 차이는 봐 ㊥ 받을 수 없다. ㊥이지만, 탑승자인 MIXY의 엘리먼트 능력 '공간 보충'을 증폭하는 능력을 가지고 ㊥ 있어 일반기보다 높은 전투력을 발휘한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00238/Sheet1/000011",
+      "sourceBindingSha256": "a3b3e3d11adfe2a930d6d046afc09568f7c05a6db98b53ac68188aa5fbaa34e1",
+      "sourceTextSha256": "5caaf773a56b4ba5032cffc20b160bd91f7908e911bda1ca01a763096744257b",
+      "freshTranslation": "알테아에게 납치되어 남성화 된 MIX가 탑승하는 사람",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00238/Sheet1/000012",
+      "sourceBindingSha256": "32f925c320778964a84b299d820c7ac4cd58d993c2fac4234aa7363a44c2ac38",
+      "sourceTextSha256": "654b11b0bd2453d2e86809571563280d7b9cf82433e316b89ae9b3a53ff1748d",
+      "freshTranslation": "아부닥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00238/Sheet1/000013",
+      "sourceBindingSha256": "be68469c19e1767ad496ebbbe7879be5278279fe81886b2a6ab2127a25d6ca83",
+      "sourceTextSha256": "f26cc6907b956f3e3488f81052e48cd79f63a6c5183477b02d84d1fb67026b17",
+      "freshTranslation": "ー.㊥퍼스널 칼라의 오렌지로 염색되어 있다.㊥대",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00238/Sheet1/000014",
+      "sourceBindingSha256": "8ba979ca31492594a0c54e7116f96e3efaacb22e8d75885c86e63f0d64c27e33",
+      "sourceTextSha256": "07bdcd22771ce64db4cfdd4fe6c8a267f3bd5c383a3bed12c10e9e89a6f9c5fc",
+      "freshTranslation": "소총을 장비하는 것 이외에는 일반",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00238/Sheet1/000015",
+      "sourceBindingSha256": "e58a17295b2144e44535f5738e17441aabe8a889341c09f75b21bafbd7312459",
+      "sourceTextSha256": "5c27254703c69f4a3280f7c6f6638dc2a82c2127603a10d83f412b81afdeb772",
+      "freshTranslation": "그니스와는 큰 차이는 보이면 ㊥ 할 수 없다. ㊥이지만, 탑승자인 MIXY의 엘리먼트 능력 '공간 보충'을 증폭하는 능력을 가지고 ㊥ 있어 일반기보다 높은 전투력을 발휘한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

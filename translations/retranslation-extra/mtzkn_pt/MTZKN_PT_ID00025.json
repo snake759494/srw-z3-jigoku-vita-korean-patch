@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00025",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00025/Sheet1/000002",
+      "sourceBindingSha256": "50899ca4c5668f5261e2bdafda3703504f79982f75304541bca131c3bdc3eea6",
+      "sourceTextSha256": "1d30806e0c260c1d25a04b8c3d902fb64d8b4ac5b600f64b2621e31e6369dd26",
+      "freshTranslation": "키소 아키라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00025/Sheet1/000003",
+      "sourceBindingSha256": "ed6536c2f8c267d932c98a928a85521d5eba356b19f6ad990e9e56bade9a6205",
+      "sourceTextSha256": "7e58d43b6bed639412e18ff936ea987dfe59c8524e3b9b526a3595a5c7ce3322",
+      "freshTranslation": "아키라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00025/Sheet1/000004",
+      "sourceBindingSha256": "9ba14c69a463e1f42e3c5c17d56e92813def2c7db1239a1963297f504661ef4b",
+      "sourceTextSha256": "2821f723e708a26125b2215f86a494a31e2eb1a3f45f2c6e857b2cc6d0a13f93",
+      "freshTranslation": "롯신 합체 갓 마즈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00025/Sheet1/000005",
+      "sourceBindingSha256": "e4ee280ab6b11ffbcea192ef427523ab0cb07cbf5d6737d6f641895c10f034d5",
+      "sourceTextSha256": "3a3a5f7ace696bd20a099f00a87faab849eedc7557ae38e4905134731ab1a070",
+      "freshTranslation": "시오야 츠바사",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00025/Sheet1/000006",
+      "sourceBindingSha256": "16ac50f1fdbe6f1255cd4197af8ec2b7f2c5e6b95b27ceb549dc219d4c705640",
+      "sourceTextSha256": "fbda40209f29d4568fe3c8f4ae71f38eb2b91da3fc887712451dd2e87ef22eff",
+      "freshTranslation": "크러셔대의 일원. 16세. ㊥ 기분 좋은 성격이지만 굵은 몸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00025/Sheet1/000007",
+      "sourceBindingSha256": "670db11a464a49d165ed7da17c9accd93a76585f1a481bb4c2e2ea1bad043e15",
+      "sourceTextSha256": "ac47b780d91ee9eb65335e40920fe8c883f211e16071379290f03b79a96baeb7",
+      "freshTranslation": "에 어울리지 않고 동작은 민첩하고 섬세한 신경의 소유자. ㊥ 코스모 크러셔에서는 조종 담당이며, 그 솜씨는 상당한 것. 메카에 대한 ㊥ 조예도 깊다. ㊥ 너희들로 미인에게 약하고, 로제가 잠입 공작을 위해 변장해 다가왔을 때에는,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00025/Sheet1/000008",
+      "sourceBindingSha256": "306673a66709924708195def30a5c080e7b6a0ebe617d740e531349253b930c0",
+      "sourceTextSha256": "26c76e4beb1d401ada84bba8ac5afae9765d85fa8e49625d786e9c27603ff8bb",
+      "freshTranslation": "아무렇지도 않게 배틀캠프 내를 안내해 버린 적도 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00025/Sheet1/000009",
+      "sourceBindingSha256": "1de73bffaa95c29fdf82e209f66445f50e9ab044a4b81a459e85842607902b93",
+      "sourceTextSha256": "fbda40209f29d4568fe3c8f4ae71f38eb2b91da3fc887712451dd2e87ef22eff",
+      "freshTranslation": "크러셔대의 일원. 16세. ㊥ 기분 좋은 성격이지만 굵은 몸",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00025/Sheet1/000010",
+      "sourceBindingSha256": "b0a2c2570f2c27af3056cb29f90de5c862defe66cdf27152e8475aa0fcb614ff",
+      "sourceTextSha256": "ac47b780d91ee9eb65335e40920fe8c883f211e16071379290f03b79a96baeb7",
+      "freshTranslation": "에 어울리지 않고 동작은 민첩하고 섬세한 신경의 소유자. ㊥ 코스모 크러셔에서는 조종 담당이며, 그 솜씨는 상당한 것. 메카에 대한 ㊥ 조예도 깊다. ㊥ 너희들로 미인에게 약하고, 로제가 잠입 공작을 위해 변장해 다가왔을 때에는,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00025/Sheet1/000011",
+      "sourceBindingSha256": "8e015907225153d0edd167a4bd35138e7dfc6edf7fec4397dcad850f6f7521ca",
+      "sourceTextSha256": "26c76e4beb1d401ada84bba8ac5afae9765d85fa8e49625d786e9c27603ff8bb",
+      "freshTranslation": "아무렇지도 않게 배틀캠프 내를 안내해 버린 적도 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

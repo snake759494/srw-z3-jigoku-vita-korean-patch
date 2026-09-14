@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00373",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00373/Sheet1/000002",
+      "sourceBindingSha256": "444c5bdf43f54e76ab54dd60e166ca075fdc0a179b33a0df610c2e912ef6fdbf",
+      "sourceTextSha256": "3378aa3ef905b1ac6ff11c62c5bce05acfb547085c82b85de77ab82c0b53451f",
+      "freshTranslation": "모로이 드레자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00373/Sheet1/000003",
+      "sourceBindingSha256": "1c01ceacbe5b9812dde59f0aa8b494248ae671adf34ff170cb4bc5b9bd874597",
+      "sourceTextSha256": "b442dbc15fa9eee9687a6bbfd3d4b6efd8fe7c9bc1510e03ee207f02884766f1",
+      "freshTranslation": "모로이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00373/Sheet1/000004",
+      "sourceBindingSha256": "993ba1aba5f6f66f22463626711ad0e5ce1017b86a1ea5a746b8be6b8e75cabc",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00373/Sheet1/000005",
+      "sourceBindingSha256": "be81026957ddf8b59200b8bbd24a2bf28682894baf523566d054a3387102f766",
+      "sourceTextSha256": "a07143247cfb7661c1592f6ec0af5ddcc33eac6c8530593c5c719786885f5c7b",
+      "freshTranslation": "사토 켄스케",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00373/Sheet1/000006",
+      "sourceBindingSha256": "6fcbcb462483a022f4926ff1844da3c50c9d3c79ace685fa02393f0de81eb433",
+      "sourceTextSha256": "eb932b40eb6eb14a9807ac5da373ddc65d39ca247477f0e71916f63d8afd4ee2",
+      "freshTranslation": "네오디바의 요소 후보생. ㊥ 민족적인 외모와는 대조적으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00373/Sheet1/000007",
+      "sourceBindingSha256": "c320f1348cc39082c5d1113cc95e03b9881d350782b39ab265f38457a833399d",
+      "sourceTextSha256": "110a679ba43f8720ed72818ca32f2c6f2f15e7c8e6a5a6dd3c8d9021a674179a",
+      "freshTranslation": "면목으로 이성적인 성격을 하고 있어 개성적인 면면 ㊥이 많은 후보생에 있어서는 진정한 역, 의견번적인 역할을 하고 있다. ㊥인망도 두껍고, 클래스 메이트로부터는 「모로이가 말하기 때문에 반드시 맞다!」등이라고 ㊥ 말할 정도. ㊥ 엘리먼트 능력은 「취약력」. 모든 물질의 분자 결합을 붕괴시켜, 약간의 충격으로 ㊥도 깨지기 쉽게 할 수 있다. 이것에 물리 공격을 가하는 것으로, 높은 공격력을 발휘할 수 ㊥ 하게 된다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00373/Sheet1/000008",
+      "sourceBindingSha256": "b8df245c0919bb85be6f27e45a554b34077b8f3849e4e8cf5b79bf57bf6f5d16",
+      "sourceTextSha256": "eb932b40eb6eb14a9807ac5da373ddc65d39ca247477f0e71916f63d8afd4ee2",
+      "freshTranslation": "네오디바의 요소 후보생. ㊥ 민족적인 외모와는 대조적으로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00373/Sheet1/000009",
+      "sourceBindingSha256": "f3d448c88a7300364d6d4f0767079d1cd9c8b468f5408078a16144769b0cad53",
+      "sourceTextSha256": "d06ec4490da6c923bd0254adc52f397864358f85221bbc98e73c75d7a879dbeb",
+      "freshTranslation": "면목으로 이성적인 성격을 하고 있어 개성적인 면면 ㊥이 많은 후보생에 있어서는 진정한 역, 의견번적인 역할을 하고 있다. ㊥인망도 두껍고, 클래스 메이트로부터는 「모로이가 말하기 때문에 반드시 맞다!」등이라고 ㊥ 말할 정도. ㊥ 엘리먼트 능력은 「취약력」. 모든 물질의 분자 결합을 붕괴시켜, 약간의 충격으로 ㊥도 깨지기 쉽게 할 수 있다. 이것에 물리 공격을 가하는 것으로, 높은 공격력을 발휘할 수 ㊥ 하게 된다. ㊥ 모의전에서는 남부의 '부식력'과의 조합으로 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00373/Sheet1/000010",
+      "sourceBindingSha256": "3d3b59bcddbc930a2af8d7cfd8822fc1877668a60c52f6ca046811a403a7efec",
+      "sourceTextSha256": "dee1f6452dbbceb4f9375eecbe3707b25104ded04ce83e222e79637a5a7e9923",
+      "freshTranslation": "그들을 쫓아 ㊥했다. ㊥ 최종결전에서는 남국 출생으로 열에 강한 일을 자칭하고, 미카게가 부른 검은 태양㊥을 어쩔 수 없이 출격하고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00132",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00132/Sheet1/000002",
+      "sourceBindingSha256": "215bbf54dbba452ce51e9005e34b72dd772413aeb7aaaf906be6e5dafdf4448e",
+      "sourceTextSha256": "3be5982e00f91fe50351aa280d5ff245eaf1c76c9a62212afe4920605a986cbc",
+      "freshTranslation": "배너지 링크스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00132/Sheet1/000003",
+      "sourceBindingSha256": "4407df591efb1a7e80a6b3da7238b52acdfe88f2e5936e08f501b9524719d30a",
+      "sourceTextSha256": "b36cd8018c110f113a367f9d832d2b74705bd2e47d755b38ef810a92c5bbbe07",
+      "freshTranslation": "배너지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00132/Sheet1/000004",
+      "sourceBindingSha256": "d01be5c791a9f71201e4a60966844aa85d191f0ad8ad6542838d1dae020c33fb",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00132/Sheet1/000005",
+      "sourceBindingSha256": "d055268334c16cf6404b08fb939b221936229f8834cb58bb553b80a9ccad12cb",
+      "sourceTextSha256": "e7db0d3435bf31de55eedb42e5525a8db8eac346030f641bff70021af61b10f8",
+      "freshTranslation": "우치야마 가키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00132/Sheet1/000006",
+      "sourceBindingSha256": "06230e1e611775462d62e31b64586351ad0e8d9e3e6a50d646872ad918d477d7",
+      "sourceTextSha256": "30266eecef16878b52df642f060d3571f656ad3d9cbe43d257b0ea4d8046643f",
+      "freshTranslation": "유니콘 건담 조종사. 16세. ㊥ 아버지의 얼굴을 모르고 자랐지만, 어머니의 죽음을 계기로 떠나 사는 아버지의 안내로, 스페이㊥ 스코로니 인더스트리얼 7에 있는 애너하임 일렉트로닉스 공업 전문학 ㊥교에 다니고 있었다. ㊥ 콜로니의 하늘에서 떨어진 오드리를 도운 것으로, \"라플라스의 상자\"를 둘러싼 쟁 ㊥란에 휘말려 인더스트리얼 7의 전투시에, 카디아스 비스트에 투입되어 ㊥한 유니콘 건담에 탑 이후 인도되는 대로 세계를 전전하게 된다. ㊥ 민간인이기 때문에 세력의 이데올로기에 사로잡히는 일이 없고, 전쟁 속에서 단 하나㊥명, 인간으로서의 순수한 의견을 말할 수 있는 힘과 타인을 생각하는 상냥함을 가지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00132/Sheet1/000007",
+      "sourceBindingSha256": "5e92584673fa2b90580c6405af4176c1c923c6bbd63780b431d1bbb9fdbb8d8c",
+      "sourceTextSha256": "0a1277a7de95410c9d45673171c83558104c672f2bba9e62d2ea41798f5d7426",
+      "freshTranslation": "유니콘 건담 조종사. 16세. ㊥ 아버지의 얼굴을 모르고 자랐지만, 어머니의 죽음을 계기로 떠나 사는 아버지의 안내로, 스페이㊥ 스코로니 인더스트리얼 7에 있는 애너하임 일렉트로닉스 공업 전문학 ㊥교에 다니고 있었다. ㊥ 콜로니의 하늘에서 떨어진 오드리를 도운 것으로, \"라플라스의 상자\"를 둘러싼 쟁 ㊥란에 휘말려 인더스트리얼 7의 전투시에, 아버지 카디아스 비스트에 맡겨 ㊥된 유니콘 건담. 이후 인도되는 대로 세계를 전전하게 된다. ㊥ 민간인이기 때문에 세력의 이데올로기에 사로잡히는 일이 없고, 전쟁 속에서 단 하나㊥명, 인간으로서의 순수한 의견을 말할 수 있는 힘과 타인을 생각하는 상냥함을 가지고 있다. ㊥ 그런 순수함은 오드리가 미네바 자비라고 판명된 뒤에도 오드리와 그 ㊥ 여자를 부르는 것으로 나타나며, 오드리, 마리다, 길보아, 다그자 등 주위의 ㊥ 인간을 끌어당긴 매력. ㊥ 정상인에서는 견딜 수 없어야 할 디스트로이 모드의 부하에도 적응할 수있는 일이나 어린 시절 ㊥에 특수한 훈련을 받고 있었다는 점에서 한때는 강화 인간이 아닐까",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00132/Sheet1/000008",
+      "sourceBindingSha256": "c6d0ca500a1d3cea41ddb89e7a3d9abcd00a4dfbcf56053671d83a9b3755bcf6",
+      "sourceTextSha256": "eafeea42952264fd71c323878195ed0892aceb57b72c63578b8fdd4f9856b470",
+      "freshTranslation": "㊥이 약물 투약",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00132/Sheet1/000009",
+      "sourceBindingSha256": "19846f6830a9d8abfada8942490be607ac3d7aabc2f1b6064fdc766d8d63e5f5",
+      "sourceTextSha256": "9151fc7e27ce2d2339f6e9daf283ec78004f4ba455ad4516613802401dabc7cc",
+      "freshTranslation": "의 흔적이 인정되지 않고, 그것은 부정되었다. ㊥ 일민간인이었지만, 상자를 둘러싼 여행 속에서 많은 인간과 마음을 만나는 것으로, 성장을 해 ㊥ 갑니다. ㊥ 싸움 속에, 돌보아진 길보아를 격추해 버린 일로 일시는 버려 그릇이 되고 있어 ㊥ 하지만, 진네만과의 대화에 의해 복귀. 트링턴 기지에서 지온의 원념을 보고 ㊥ 연방도 지온도 아니고, 불합리한 행위에 대항하겠다고 결의를 굳힌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

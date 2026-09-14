@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00220",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00220/Sheet1/000002",
+      "sourceBindingSha256": "92001676eff00632aeee4d6f8baf3bb85cb2ec33594f98ce14cd4de7b9057f06",
+      "sourceTextSha256": "87c2ca87488b8b46616f24a3df45e7c38bd9d69ef9fe463361886636b74c6eaa",
+      "freshTranslation": "모모이 이부키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00220/Sheet1/000003",
+      "sourceBindingSha256": "3d149a5bed80f1e2e9c8bd3c280afef966799dc9102bec9e0f09c6eb05947cfe",
+      "sourceTextSha256": "e0fc774d75005d9102a1226168f796ede8b17d8fe61b010a5911a52bca7e0522",
+      "freshTranslation": "이부키",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00220/Sheet1/000004",
+      "sourceBindingSha256": "acb31bc94d207a285a06d93715958c8f49985fd96975d756551f8aecc43731d7",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00220/Sheet1/000005",
+      "sourceBindingSha256": "ca6fedbc904899077d0e8bc3cceef6f598047d3933494fe3c2895282d0ec59de",
+      "sourceTextSha256": "6d8520616b41868238de69616fd3ff3917b4736e73a40c0b6a1afa74775258c4",
+      "freshTranslation": "히라마츠 아키코",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00220/Sheet1/000006",
+      "sourceBindingSha256": "29e8eafe15fbccf24c2e7ebbd3f8c76f35b132f23088be5a641802b4fc0391e6",
+      "sourceTextSha256": "f25912e672b8f8bf67956f627038046478e6c5dad5e4bee6ef4243b068874761",
+      "freshTranslation": "다이 가드 네비게이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00220/Sheet1/000007",
+      "sourceBindingSha256": "a9847e0e3234d1f41cf5f3b8830260f5b70cd94952f27be980e4c9e61d0e58bd",
+      "sourceTextSha256": "1591c6b425120e0eae099dd250e314245e01679c6a817483369a2f6e44c791a3",
+      "freshTranslation": "ー. 20세.㊥아카기와 아오야마보다 나이는 낮지만 고등학교 졸업 후 곧바로 입사했기 때문에 그들에게는 선배㊥에 해당합니다. 사실, OL로도 내비게이션",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00220/Sheet1/000008",
+      "sourceBindingSha256": "34fb5bcd00455d63625d22bd78b1936e6851c8c6ed190342db145afae6d45397",
+      "sourceTextSha256": "ce20280d73d26bd2d0fa0875aef3305655d747f7b309dd970c2d213843e55bf5",
+      "freshTranslation": "-로도 유능하고, 튼튼하고 남자 승리의 성격도 ㊥있어 아카기와 아오야마는 머리가 오르지 않는다. ㊥ 과거 경애하는 친아버지를 헤테로다인에 관한 사건으로 잃고 어머니는 의사를 맡아 ㊥하는 다른 남자와 재혼하고 있다. 그 장인과는 사고방식의 차이로부터, 구론이 끊이지 않는다. ㊥ 당초는 아버지를 잃은 과거의 상처를 닦지 못했고, 헤테로다인에 대해 나란히라면 ㊥ 없는 증오를 안고 있었다. 그러므로 이부키도 아카기처럼 다이 가드의 파일럿을 지망㊥해 입사하고 있어, 아버지의 원을 토벌하고 싶다는 강렬한 마음으로부터 때로 아카기 이상으로 무철포인 ㊥ 행동을 취하는 일도 있었다. ㊥ 싸움을 계속하면서 친아버지가 목숨을 잃는 원인이 된 헤테로 다인 (",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00220/Sheet1/000009",
+      "sourceBindingSha256": "7ff123caa1212670457339fe86e5e7d2779dfc61295b61975d078cc99d9c3045",
+      "sourceTextSha256": "c51ca66e26b4baba8e54c1b45fa708db7bad113070ec41117e0a8cbd16d7a0c2",
+      "freshTranslation": ")가 ㊥ 출현. 냉정함을 잃은 것으로 네비게이션에 지장을 초래하고, 아카기나 아오야마를 부상시켜 자신㊥신을 잃어 버린다. 게다가 아버지와 같은 과학자 인 백목 악마에게 친아버지의 행동",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00220/Sheet1/000010",
+      "sourceBindingSha256": "239beedbc0a8d958ff05e956e1fe869dee19418c54963de171fd3c3cc598e9b2",
+      "sourceTextSha256": "084daaed7009dafc1a5bb3490b593c121e66a9c3f2f8d9d6f25d1422cd4049f1",
+      "freshTranslation": "의를 뚫고 ㊥ 당해 충격을 받고 한때는 실의에서 회사를 그만두려고까지 한 일도 있었다. 하고 ㊥카시, 아카기들과의 팀워크로부터 자신을 되찾아, 이후는 보다 솔직한 기분으로 직업㊥무로서 헤테로다인에 대한 일을 할 수 있게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00220/Sheet1/000011",
+      "sourceBindingSha256": "43b38b6a91bb6415640084552178a14ff62f7a434846fbd9705aac0c7e771e09",
+      "sourceTextSha256": "f25912e672b8f8bf67956f627038046478e6c5dad5e4bee6ef4243b068874761",
+      "freshTranslation": "다이 가드 네비게이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00220/Sheet1/000012",
+      "sourceBindingSha256": "74883dd4aba704c5592a6be0b5e32a2437571f0ef665e5c9da116ed644af704b",
+      "sourceTextSha256": "1591c6b425120e0eae099dd250e314245e01679c6a817483369a2f6e44c791a3",
+      "freshTranslation": "ー. 20세.㊥아카기와 아오야마보다 나이는 낮지만 고등학교 졸업 후 곧바로 입사했기 때문에 그들에게는 선배㊥에 해당합니다. 사실, OL로도 내비게이션",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00220/Sheet1/000013",
+      "sourceBindingSha256": "dc21db49f1634157d73d039fd0ca496ce576a49dc0797662bde39a257bf4f8f3",
+      "sourceTextSha256": "ce20280d73d26bd2d0fa0875aef3305655d747f7b309dd970c2d213843e55bf5",
+      "freshTranslation": "-로도 유능하고, 튼튼하고 남자 승리의 성격도 ㊥있어 아카기와 아오야마는 머리가 오르지 않는다. ㊥ 과거 경애하는 친아버지를 헤테로다인에 관한 사건으로 잃고 어머니는 의사를 맡아 ㊥하는 다른 남자와 재혼하고 있다. 그 장인과는 사고방식의 차이로부터, 구론이 끊이지 않는다. ㊥ 당초는 아버지를 잃은 과거의 상처를 닦지 못했고, 헤테로다인에 대해 나란히라면 ㊥ 없는 증오를 안고 있었다. 그러므로 이부키도 아카기처럼 다이 가드의 파일럿을 지망㊥해 입사하고 있어, 아버지의 원을 토벌하고 싶다는 강렬한 마음으로부터 때로 아카기 이상으로 무철포인 ㊥ 행동을 취하는 일도 있었다. ㊥ 싸움을 계속하면서 친아버지가 목숨을 잃는 원인이 된 헤테로 다인 (",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00220/Sheet1/000014",
+      "sourceBindingSha256": "7b22683b7c55a971eab46300002e4b9c1dffcb34eff1bfb849690af9e0607390",
+      "sourceTextSha256": "c51ca66e26b4baba8e54c1b45fa708db7bad113070ec41117e0a8cbd16d7a0c2",
+      "freshTranslation": ")가 ㊥ 출현. 냉정함을 잃은 것으로 네비게이션에 지장을 초래하고, 아카기나 아오야마를 부상시켜 자신㊥신을 잃어 버린다. 게다가 아버지와 같은 과학자 인 백목 악마에게 친아버지의 행동",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00220/Sheet1/000015",
+      "sourceBindingSha256": "df5d2e0520d179c298f4fbf693eb497183ce70128ab7f7827e000e11f4421082",
+      "sourceTextSha256": "084daaed7009dafc1a5bb3490b593c121e66a9c3f2f8d9d6f25d1422cd4049f1",
+      "freshTranslation": "의를 뚫고 ㊥ 당해 충격을 받고 한때는 실의에서 회사를 그만두려고까지 한 일도 있었다. 하고 ㊥카시, 아카기들과의 팀워크로부터 자신을 되찾아, 이후는 보다 솔직한 기분으로 직업㊥무로서 헤테로다인에 대한 일을 할 수 있게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

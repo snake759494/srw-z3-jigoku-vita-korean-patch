@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00112",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00112/Sheet1/000002",
+      "sourceBindingSha256": "021950bcdac27a308145c13e511d148031a6df7ad4630d87071a8d5819309528",
+      "sourceTextSha256": "aabf246fe1bf32fed8d60d001449f81c54e033fac1b7b4c7f810f337d64c4312",
+      "freshTranslation": "아카샤의 검",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00112/Sheet1/000003",
+      "sourceBindingSha256": "c992e30bd2ea3405e1db91024aac1519790a3c9349dd3728f58001297f5cc116",
+      "sourceTextSha256": "05bab81238428e66e9b20af6d4a8576f3c3ccd044a774f0672f9e18b0d828c8a",
+      "freshTranslation": "「코드 기어스 반역의 루루슈 R2」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00112/Sheet1/000004",
+      "sourceBindingSha256": "e5bff5f396ca5337d7f54d8e5ef78aa420df2fcb8b0d53dfbe72091fbff5e4eb",
+      "sourceTextSha256": "12161f47d772794bde7e9730f4f41ec987ef536a7157c3ef4bf7dce3e257b981",
+      "freshTranslation": "샤를 지 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00112/Sheet1/000005",
+      "sourceBindingSha256": "a51214ead8dad6408ad857a4fa8e4db18ba87b1ff01564cb3d046a25aafd82ac",
+      "sourceTextSha256": "ae33c0307a3e161d4fd45164c9bd1fe152e85c686581dfa94a19e685aac13173",
+      "freshTranslation": "니어 웬 \"신을 멸하기 위한 무기\". ㊥샤를르는 여기서 집합 무의식적으로 전인류를 회귀시켜 거짓말 없는 세계를 만들려고 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00112/Sheet1/000006",
+      "sourceBindingSha256": "8c2803121d5b010bedb1c957c4d8ce7e8aa8db75fca7a6a25b97fcb86923dbfd",
+      "sourceTextSha256": "12161f47d772794bde7e9730f4f41ec987ef536a7157c3ef4bf7dce3e257b981",
+      "freshTranslation": "샤를 지 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00112/Sheet1/000007",
+      "sourceBindingSha256": "4910cf9d769edf3dc0ecc7e62ab8e25e0c2a9e6d871081320563fb7f15f408e9",
+      "sourceTextSha256": "ae33c0307a3e161d4fd45164c9bd1fe152e85c686581dfa94a19e685aac13173",
+      "freshTranslation": "니어 웬 \"신을 멸하기 위한 무기\". ㊥샤를르는 여기서 집합 무의식적으로 전인류를 회귀시켜 거짓말 없는 세계를 만들려고 ㊥했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00075",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00075/Sheet1/000002",
+      "sourceBindingSha256": "c3e386fe675225cc3bc7f687ee9208b275ef960dba5977f03f2e655bff289e28",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00075/Sheet1/000003",
+      "sourceBindingSha256": "43d12a2f714fb54367c50c1bd2c258d608deadc74dd1f5a1f71df8df3b662351",
+      "sourceTextSha256": "442710281e6d29b17a486de6fff8a5b0bdb9dcf9defbe78c327e089fc74cc13c",
+      "freshTranslation": "프톨레마이오스 2개",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00075/Sheet1/000004",
+      "sourceBindingSha256": "4a75a693e6d745f895a3fa62e1f20c08b7c681035cd89d4b94f9c13888e63742",
+      "sourceTextSha256": "442710281e6d29b17a486de6fff8a5b0bdb9dcf9defbe78c327e089fc74cc13c",
+      "freshTranslation": "프톨레마이오스 2개",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00075/Sheet1/000005",
+      "sourceBindingSha256": "abd6c5ae6a0a382066ec76fa8826b82083bc99f1d98fbd37a894e90ac6cda868",
+      "sourceTextSha256": "2f4db1701070d00e0cf679802564bdad00949188e09a5fabdd948c653adf962d",
+      "freshTranslation": "수메라기 리 노리에가",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00075/Sheet1/000006",
+      "sourceBindingSha256": "ec4b7fc15ca5ba70667f1bf7543e209ce0a3ab00cb18910dae34be9a0371b9de",
+      "sourceTextSha256": "1c4a2d88d180d3596848e2bad2039546a4c79ae31d3868d5e79be2e2030e6629",
+      "freshTranslation": "프톨레마이오스 2개가 트랜잠을 발동시킨 상태. ㊥ 기동성,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00075/Sheet1/000007",
+      "sourceBindingSha256": "c97544b47a5ee355356ba0fb5a6d2b80483883c9d7c7bddb5c04bb957276b388",
+      "sourceTextSha256": "3cbdf98df235fd69d5b1a557aa110ae38851937770da2bf1191ff178481cbbf9",
+      "freshTranslation": "동성은 비약적으로 향상되어 방출되는 GN 입자는 장벽으로도 사용 가능. ㊥ 리노베이션 전 프톨레마이오스 2의 경우 저장",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00075/Sheet1/000008",
+      "sourceBindingSha256": "6f31f4b9a91a64b15372fceaf7e36a5522b58b6439c75992b409bfb00b14d118",
+      "sourceTextSha256": "8cedd8c9fd3330c09ce89f18bc0464dc5bbeafc53e8420c4be6b1be86adcdb7a",
+      "freshTranslation": "nk의 GN 입자로 인한 ㊥ 장기간의 transum의 발동은 불가능했다. 그러나, 개수 후에는 시스템의 최적㊥화에 의해 발동 시간은 대폭 연장되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00075/Sheet1/000009",
+      "sourceBindingSha256": "41e42b8d7ec0d8e4354a4185392fbc30e97ab730bd564f4510f88a90502e4f73",
+      "sourceTextSha256": "1c4a2d88d180d3596848e2bad2039546a4c79ae31d3868d5e79be2e2030e6629",
+      "freshTranslation": "프톨레마이오스 2개가 트랜잠을 발동시킨 상태. ㊥ 기동성,",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00075/Sheet1/000010",
+      "sourceBindingSha256": "36c2649bcc0497d3f5cf18e372f504fe59c3257fcc3eff341f8829e0a3cc8bb2",
+      "sourceTextSha256": "3cbdf98df235fd69d5b1a557aa110ae38851937770da2bf1191ff178481cbbf9",
+      "freshTranslation": "동성은 비약적으로 향상되어 방출되는 GN 입자는 장벽으로도 사용 가능. ㊥ 리노베이션 전 프톨레마이오스 2의 경우 저장",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00075/Sheet1/000011",
+      "sourceBindingSha256": "8a3d66e659e92b57bc929f7e4b181a89e338a5eabe7de44938b330211581752d",
+      "sourceTextSha256": "8cedd8c9fd3330c09ce89f18bc0464dc5bbeafc53e8420c4be6b1be86adcdb7a",
+      "freshTranslation": "nk의 GN 입자로 인한 ㊥ 장기간의 transum의 발동은 불가능했다. 그러나, 개수 후에는 시스템의 최적㊥화에 의해 발동 시간은 대폭 연장되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

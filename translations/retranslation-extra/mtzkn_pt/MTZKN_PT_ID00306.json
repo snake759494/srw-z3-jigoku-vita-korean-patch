@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00306",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00306/Sheet1/000002",
+      "sourceBindingSha256": "74a29d62239919388e013156cd2bced6ee8694c1cc523771ed00496e6265b249",
+      "sourceTextSha256": "32317614c9ad753f4c5fe8f71cefcf8e9338d5ae243fb9800283b8b0199ca7be",
+      "freshTranslation": "블라디미르",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00306/Sheet1/000003",
+      "sourceBindingSha256": "7d992493ed99b468befbcb0fc71d434ace1451695f57ebcca8c1ad8c0b1b9fd2",
+      "sourceTextSha256": "32317614c9ad753f4c5fe8f71cefcf8e9338d5ae243fb9800283b8b0199ca7be",
+      "freshTranslation": "블라디미르",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00306/Sheet1/000004",
+      "sourceBindingSha256": "30ab348f26f2de7d488299c0fa14a4e14bbf1addd7bb33984e53a9b8ce075085",
+      "sourceTextSha256": "1e56b9ff86dcef266f12989d9d9c1a049376962d8d547fa14759ae90a788c964",
+      "freshTranslation": "수장기공 단쿠가노바",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00306/Sheet1/000005",
+      "sourceBindingSha256": "50d4b78cb4cee1b93f3df6d43f9cdf02b20a61550a437e702e035f5ca6e06199",
+      "sourceTextSha256": "278dbd2fdb1af04ccd9946352ab67ef0a9aa07bee1e0c7fd8b5f6c0dd4082360",
+      "freshTranslation": "R-다이건의 개발자. ㊥ 파일럿의 에이더를 찾아내 키운 인물이기도 하다. ㊥ 자금 지원을 받기 위해 이고르 콘체른의 라이벌인 졸브레인사 ㊥와 제휴하고 있다. 회사 사장의 의향을 얻으면서도 잘 다루는 등 자신의 목적인 ㊥에 대한 행동을 제일로 생각하고 있다. ㊥ 한때 다나카 사령과는 부부로, 만남의 머리에 기운찬에서 키스라는 애증이 섞인 ㊥ 행동을 보이고 있다. ㊥ 덧붙여 R-다이건의 설계 데이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00306/Sheet1/000006",
+      "sourceBindingSha256": "1e1988f17c1e57c060bed8b018bb6ce7a1aa2b07c9e4b18e3bb53718fd853123",
+      "sourceTextSha256": "cf2300850fb22649d943e5a339b86536ea80a80d030a703b2c046b3ba52327e2",
+      "freshTranslation": "는 WILL로부터 보내진 것이고, 블라디미㊥르가 처음부터 만든 것은 아니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00306/Sheet1/000007",
+      "sourceBindingSha256": "0e1d6b583a9380728df880b979c28fc785f22dc69bb72b2a8ab63549c74c3c38",
+      "sourceTextSha256": "278dbd2fdb1af04ccd9946352ab67ef0a9aa07bee1e0c7fd8b5f6c0dd4082360",
+      "freshTranslation": "R-다이건의 개발자. ㊥ 파일럿의 에이더를 찾아내 키운 인물이기도 하다. ㊥ 자금 지원을 받기 위해 이고르 콘체른의 라이벌인 졸브레인사 ㊥와 제휴하고 있다. 회사 사장의 의향을 얻으면서도 잘 다루는 등 자신의 목적인 ㊥에 대한 행동을 제일로 생각하고 있다. ㊥ 한때 다나카 사령과는 부부로, 만남의 머리에 기운찬에서 키스라는 애증이 섞인 ㊥ 행동을 보이고 있다. ㊥ 덧붙여 R-다이건의 설계 데이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00306/Sheet1/000008",
+      "sourceBindingSha256": "7b3b8bc05ed0f272d8a7700003a0643c3394fe1ece7e60cc7708de2095d8e0ff",
+      "sourceTextSha256": "cf2300850fb22649d943e5a339b86536ea80a80d030a703b2c046b3ba52327e2",
+      "freshTranslation": "는 WILL로부터 보내진 것이고, 블라디미㊥르가 처음부터 만든 것은 아니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

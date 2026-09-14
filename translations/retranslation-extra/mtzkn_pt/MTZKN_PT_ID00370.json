@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00370",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00370/Sheet1/000002",
+      "sourceBindingSha256": "e029730101519d7135103d4624b838d0b7238051244c89f89b3dcecacc0bc5d4",
+      "sourceTextSha256": "0da9da9162a97704512a63b412566bbc6f6748e8c702d4ad01d1e9564a2f9566",
+      "freshTranslation": "카이엔 스즈시로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00370/Sheet1/000003",
+      "sourceBindingSha256": "f4c3d327ee6a3cc2021d1d7ce21901e93719b04117465f7a5cf18ec1d9141787",
+      "sourceTextSha256": "9a36170dc90fb33fdeeaf1882977daa906ff8a3e5171bd4fecebf6cac54bd516",
+      "freshTranslation": "카이엔",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00370/Sheet1/000004",
+      "sourceBindingSha256": "c06cbcfc57340df1fb49c302d796b2407c0af7d5b835c4614b24c6be279edc47",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00370/Sheet1/000005",
+      "sourceBindingSha256": "3543bc3d250d6af4e8f5c33592ce759239d8f4d9bd94b0f1128668a2ab5e4c91",
+      "sourceTextSha256": "3f0a4f18f2e72b3100c5e184d8c0402a99a6130b28390137fd05683ab042102f",
+      "freshTranslation": "스즈무라 켄이치",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00370/Sheet1/000006",
+      "sourceBindingSha256": "37a431358f3e8afc69f1492622b68f92f7bb37aec7607e155485e52e82f5d525",
+      "sourceTextSha256": "d27752d76af7294c2a83d227321a82f4955d00e69d3e18792e23e03487cf3b08",
+      "freshTranslation": "네오디바의 요소 후보생. ㊥ 엘리먼트 후보생의 리더적 존재로, 「영원의 넘버 2」라고 불리는 남자. ㊥ 전 해병대원으로 대대로 엘리먼트 능력자를 배출해 온 군인가계 출신. 체격이 좋고, ㊥와일드로 자신에게도 타인에게도 엄격한 성격은 의지가 있어, 여자로부터의 인기도 높다. ㊥ 미코노의 친형이기도 하고, 여동생에게 힘들게 맞지만, 본심으로는 여동생을 생각하고 있어, 싸움이나 ㊥등 멀어지고 싶다는 생각으로부터 가고 있는 것이다. 따라서 미코노가 요소 ㊥ 후보생이되는 계기를 만든 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00370/Sheet1/000007",
+      "sourceBindingSha256": "b80a1b76a4a89220e632ffeb99b8a5fd9f466225142f3eca93aaa79bd6a32f6f",
+      "sourceTextSha256": "665bc4f0afb9daa52ac9b0de03450aa7e80a3c8dd487bd8c024599ac57b45bc3",
+      "freshTranslation": "를 기쁘게 생각하지 않습니다. ㊥ 요소 능력은 \"절망 예지\". 본인의 의사와는 관계없이 표현하고, 자신에게 방문하는 불㊥행복한 미래를 예지할 수 있다. ㊥ 슈레이드의 존재가 있기 때문에, 「영원의 넘버 2」등으로 조롱되고 있지만, 그 ㊥가 출격할 수 없는 것이 많기 때문에, 네오디바의 주전력이라고도 말할 수 있는 존재이다. 덧붙여 ㊥ 그에게 '친구'라고 불리는 것을 연기가 나고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00370/Sheet1/000008",
+      "sourceBindingSha256": "d4c12a104a4400dbf1fb527e4b500828ca2d10bd2685d0fc9246ff5cdb9f1344",
+      "sourceTextSha256": "d27752d76af7294c2a83d227321a82f4955d00e69d3e18792e23e03487cf3b08",
+      "freshTranslation": "네오디바의 요소 후보생. ㊥ 엘리먼트 후보생의 리더적 존재로, 「영원의 넘버 2」라고 불리는 남자. ㊥ 전 해병대원으로 대대로 엘리먼트 능력자를 배출해 온 군인가계 출신. 체격이 좋고, ㊥와일드로 자신에게도 타인에게도 엄격한 성격은 의지가 있어, 여자로부터의 인기도 높다. ㊥ 미코노의 친형이기도 하고, 여동생에게 힘들게 맞지만, 본심으로는 여동생을 생각하고 있어, 싸움이나 ㊥등 멀어지고 싶다는 생각으로부터 가고 있는 것이다. 따라서 미코노가 요소 ㊥ 후보생이되는 계기를 만든 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00370/Sheet1/000009",
+      "sourceBindingSha256": "082e140159ed9318a0be7804e7afdb796561d5106e12c831ec8f3ba9b013bba8",
+      "sourceTextSha256": "bc2dd8a1f39f95eb39c66ec9359dcbcd31f561204e6dcf69b6c7577c3d0d3083",
+      "freshTranslation": "를 기쁘게 생각하지 않습니다. ㊥ 요소 능력은 \"절망 예지\". 본인의 의사와는 관계없이 표현하고, 자신에게 방문하는 불㊥행복한 미래를 예지할 수 있다. ㊥ 슈레이드의 존재가 있기 때문에, 「영원의 넘버 2」등으로 조롱되고 있지만, 그 ㊥가 출격할 수 없는 것이 많기 때문에, 네오디바의 주전력이라고도 말할 수 있는 존재이다. 덧붙여 ㊥ 그에게 '친구'라고 불리는 것을 연기가 나고 있지만, 내심에서는 그와 같이 강한 유대를 느끼고 ㊥ 있다. ㊥ 최종 결전에는 슈레이드의 생각이 담긴 백",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00370/Sheet1/000010",
+      "sourceBindingSha256": "9e0529983fd5bf18a7d828e59932a0c14d81794150e6c7c6aa6da53d4cd71c21",
+      "sourceTextSha256": "c9af41721f05c6f245ce444a6ce0ce04772e6247ca362ace090f2ec6bdda0237",
+      "freshTranslation": "- 실론에 탑승하여 새로운 형태로 ㊥ 있는 아쿠아리온게파다를 낳았다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

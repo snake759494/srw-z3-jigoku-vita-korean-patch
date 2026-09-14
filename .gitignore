@@ -1,0 +1,59 @@
+# 개인 경로와 원본 자료
+/private/*
+!/private/README.md
+/work/*
+!/work/README.md
+/output/*
+!/output/README.md
+/config/project.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# 게임·패치 산출물
+*.bin
+*.BIN
+*.elf
+*.self
+*.suprx
+*.vpk
+*.cpk
+*.gxt
+*.zld
+*.xdelta
+*.exe
+*.dll
+*.zip
+*.rar
+*.7z
+*.bak
+*.tmp
+
+# 공개 전 별도 권리 검토가 필요한 자료
+*.xlsx
+*.xls
+*.ttf
+*.otf
+*.ttc
+*.psd
+*.png
+*.dds
+
+# 자격 증명
+.env
+.env.*
+*service-account*.json
+*credentials*.json
+*client-secret*.json
+gen-lang-client*.json
+*.pem
+*.p12
+*.pfx
+*.key
+
+# 원본·완성 게임 파일이 아닌 공개 델타 패치
+!patches/
+!patches/**/*.xdelta

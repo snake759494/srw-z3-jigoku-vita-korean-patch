@@ -1,0 +1,49 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00017",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00017/Sheet1/000002",
+      "sourceBindingSha256": "f9440252eebd2d0d2e2b149e14bb3de3d9a85227008890d514a6ff83f14ab8f9",
+      "sourceTextSha256": "31281ce09c5ca4e845c749bd46da6aed8514e068a7ec53e8be8eb7d3dba38917",
+      "freshTranslation": "태양의 사자 철인 28호",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00017/Sheet1/000003",
+      "sourceBindingSha256": "74f96bbd76c90d842448dad931cb4511c6d92d4324979e6309b0c689fb54223f",
+      "sourceTextSha256": "59094089e45704476aba2feb26c5582fd36bf05db3aeb411a3bce055162ff874",
+      "freshTranslation": "철인 지원을 위해 개발된 서번트 로봇. ㊥ 이름은 \"제로 하치\"라고 읽는다. ㊥ 주로 철인의 수리를 하는 것이 역할이지만, 복부에 있는 삽입구에서 카세트를 바꾸는 ㊥ 일로, 주위의 경비로부터 정원의 손질까지, 대부분의 것은 자동으로 실시할 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00017/Sheet1/000004",
+      "sourceBindingSha256": "5208fb90fa2e7fe8326f9e090f81c2294f8899990c3910ace50ae5c21e290e38",
+      "sourceTextSha256": "59094089e45704476aba2feb26c5582fd36bf05db3aeb411a3bce055162ff874",
+      "freshTranslation": "철인 지원을 위해 개발된 서번트 로봇. ㊥ 이름은 \"제로 하치\"라고 읽는다. ㊥ 주로 철인의 수리를 하는 것이 역할이지만, 복부에 있는 삽입구에서 카세트를 바꾸는 ㊥ 일로, 주위의 경비로부터 정원의 손질까지, 대부분의 것은 자동으로 실시할 수 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00138",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00138/Sheet1/000002",
+      "sourceBindingSha256": "5b51959cd6cf06bca5a526ab8564a894dc84da2583001eba6dab9601030912a4",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00138/Sheet1/000003",
+      "sourceBindingSha256": "72b71f54238f0b6852bbd0268e82636768bbd6f75badd36d92a1995912db9ba9",
+      "sourceTextSha256": "4c52ca0e3caec2c215f4a3823bb83a4f38aa24090f13516927f762d86388d56d",
+      "freshTranslation": "구축함 바쥬라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00138/Sheet1/000004",
+      "sourceBindingSha256": "88d98d22ee2ff63f35bf64bd40a447cbb1d821eac96393d526240fb8867da367",
+      "sourceTextSha256": "4c52ca0e3caec2c215f4a3823bb83a4f38aa24090f13516927f762d86388d56d",
+      "freshTranslation": "구축함 바쥬라",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00138/Sheet1/000005",
+      "sourceBindingSha256": "ab3f907f6441d3e241adec531cbc607bd4a791cec792cabbee9ecaab3bd0bfbd",
+      "sourceTextSha256": "241e9545639a10a93942aba5a39686ede8308ed6df32024928e2dcdbbfc07289",
+      "freshTranslation": "전투함 형태의 바쥬라. ㊥ 인구당 약 수백 마리의 개체수가 있다. ㊥ 크기는 마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00138/Sheet1/000006",
+      "sourceBindingSha256": "655aa8042f48da2545d257f23231cbb3543383e5529f36e8c41efd817a05001b",
+      "sourceTextSha256": "7943069a9d684d9a475798ede156835cb4b2459727f5829343567869cf8e8c91",
+      "freshTranslation": "- 정도이지만 높은 기동성을 가지고 생체 폴드 ㊥ 항행으로 초장거리를 이동한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00138/Sheet1/000007",
+      "sourceBindingSha256": "d8b82c7ca7ae3c78995d2d63a85f41a7d1ea3f169905ab7788dac81214e084c0",
+      "sourceTextSha256": "241e9545639a10a93942aba5a39686ede8308ed6df32024928e2dcdbbfc07289",
+      "freshTranslation": "전투함 형태의 바쥬라. ㊥ 인구당 약 수백 마리의 개체수가 있다. ㊥ 크기는 마크로스 쿼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00138/Sheet1/000008",
+      "sourceBindingSha256": "e66346f047bb58f99e324dd7f7629c21a4c1de56088862df66370c803e8353d8",
+      "sourceTextSha256": "7943069a9d684d9a475798ede156835cb4b2459727f5829343567869cf8e8c91",
+      "freshTranslation": "- 정도이지만 높은 기동성을 가지고 생체 폴드 ㊥ 항행으로 초장거리를 이동한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00359",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000002",
+      "sourceBindingSha256": "d156aeff2144ca44b44b4d08ff0b9b0c3b8ff854cb15cc149706006e1f47cb7d",
+      "sourceTextSha256": "4331c5d1215a990eece25d2ab46ad99010b265394882bd1ab150d90e5ae8eebe",
+      "freshTranslation": "제레미아 고트발트",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000003",
+      "sourceBindingSha256": "313bdeb3e16c5d1e2c1231ab4fa51f004c5bd60a06b87e863392e221c39a4e14",
+      "sourceTextSha256": "e9bc0d69480a5328faa3c2bd4d3a5b6b6e73e43834db389571daf22cd8c314c4",
+      "freshTranslation": "제레미아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000004",
+      "sourceBindingSha256": "c5236066ed3822e41165aa2b0c10a17bde695ce78a21e9a7852964a03201bd59",
+      "sourceTextSha256": "b40f8de117e644be3d8ab8c76b9b5779575051515b39a54c7b5cfa1a85297d19",
+      "freshTranslation": "코드기어스 반역의 루루슈 R2",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000005",
+      "sourceBindingSha256": "c51c51bb22548780d56e586ad3855df1b15836a2cf5356c07637fdf52d56e098",
+      "sourceTextSha256": "724033b846e8a1bd3dd953c4796d9bd474c37ad815bd5d19b3c1d730efde14db",
+      "freshTranslation": "브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000006",
+      "sourceBindingSha256": "b108dda9cb44398ea9e0d9930e6ebc894aa2d655baea6054e76a4f7d92c486dc",
+      "sourceTextSha256": "6e3f4c8a0dd67abd3f66fe0909455e6c8e64c834ec794757c5044b8b311fd5c8",
+      "freshTranslation": "니어의 명문, 고트발트가의 출자로 변경백의 작위를 가지는 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000007",
+      "sourceBindingSha256": "a334df30c9e2231ca0f9111af9cf8a63100ddd48a146127be07acaaf54709282",
+      "sourceTextSha256": "072d7074a970102bc37d6e5e6e819807e5b1567a2f3268a21e93beb264aad5ac",
+      "freshTranslation": "니어 군 장교. ㊥29세. ㊥ 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000008",
+      "sourceBindingSha256": "eea3ac7a3332ddbcbc6853aba500654aaf75c4052fe14b0f51f9e1b01003457c",
+      "sourceTextSha256": "2800c3b876bf22956d2753248831a344d0d4aba0b01d32b270a60af0eeb071fb",
+      "freshTranslation": "니아군은 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000009",
+      "sourceBindingSha256": "aec5534b908e3bf9f7645c5a5fccee061499f2fd1e8167529269766f9752d23f",
+      "sourceTextSha256": "9501516db62224f5f093c5403e022c9c84e7743897fa509cfc763ad9f43c4849",
+      "freshTranslation": "니아인만으로 구성되어야 한다는 주의를 내건 '순혈파' ㊥의 리더로서 군의 장악을 획책하는 것도 제로의 책략에 의해 실각. 이 때 제로가 ㊥로 쏟아낸 스캔들 「오렌지」에 의해, 이후, 그 이름으로 멸망하게 된다. ㊥ 한층 더 기사 회생을 노린 나리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000010",
+      "sourceBindingSha256": "7fc3784f4ece9754ce13d38e4ebc91e883ba70e8e87c42b4c6799638f4b2c654",
+      "sourceTextSha256": "935c162a30acba16d524caf19351b30530434f5088e4546d7f84e225068fb1f1",
+      "freshTranslation": "연산의 싸움으로 홍련이식의 복사파동을 정도, 빈사의 ㊥상태에서 방황 걷고 있던 곳을 배틀 산하의 연구원이 회수. 실험 적합 생체로 ㊥로 육체를 개조되었다. ㊥ 블랙 리베리온시 불완전한 상태에서 각성. 제로에 대한 정념을 폭주시켜, 지㊥쿠프리트를 타고 제로의 앞에 서는 것이 좋았지만, C.I. C. 가 조종하는 가웨인과 ㊥ 모두 바다에 가라앉았다. ㊥ 그 후, 기어스 잠단이 지크플릿과 함께 회수. 재개조를 실시한 결과, 기어스를 ㊥ 무효화하는 「기어스캔셀러」의 능력을 얻는다. 이 능력을 사용하여 루루슈를 쫓아 ㊥ 막는 것도 그 목적은 루루슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000011",
+      "sourceBindingSha256": "a006c95b7e6a2c8a9c20428ee17e315f3bddd441fda84f1fc839dff6e4202d86",
+      "sourceTextSha256": "9d3a4892e5d23170d47fa10d1978fad1973b9b5029fbb77fe58a049c4155632b",
+      "freshTranslation": "뜻을 확인하는 일에 있었다. 거듭되는 개조를 중㊥ 하고도, 제레미아의 마음에서 황족에 대한 충의의 마음은 사라지지 않고, 경애하는 마㊥ 리안 비의 아들인 루루슈에게 충성을 맹세한다. ㊥ 그 후는 루루슈의 충실한 부하로서 분투했고, 그것은 루루슈가 황제에 즉위하고 ㊥ 이후에도 계속되었다. ㊥ 제로 레퀴엠 완수 후 오렌지 농원을 경영. 그 옆에는 한때 적으로서 전 ㊥이었던 아냐의 모습이 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000012",
+      "sourceBindingSha256": "471134de882b5107b17389b83e7dbd5708b46a58a37462e82a0a6bd80697a199",
+      "sourceTextSha256": "724033b846e8a1bd3dd953c4796d9bd474c37ad815bd5d19b3c1d730efde14db",
+      "freshTranslation": "브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000013",
+      "sourceBindingSha256": "d8a7fc12365876d01028c3c2b651ca21ca990c34bd201874c905c0a7a73c4b2f",
+      "sourceTextSha256": "6e3f4c8a0dd67abd3f66fe0909455e6c8e64c834ec794757c5044b8b311fd5c8",
+      "freshTranslation": "니어의 명문, 고트발트가의 출자로 변경백의 작위를 가지는 브리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000014",
+      "sourceBindingSha256": "64437b40f03738c34bafe3e28ff00df72a856ce5eded279247b5020edbb4239b",
+      "sourceTextSha256": "072d7074a970102bc37d6e5e6e819807e5b1567a2f3268a21e93beb264aad5ac",
+      "freshTranslation": "니어 군 장교. ㊥29세. ㊥ 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000015",
+      "sourceBindingSha256": "e2e209283879cb88f7a5c8fc1bd7853e5c6c1fb3217596a6c072af4503b4a55b",
+      "sourceTextSha256": "2800c3b876bf22956d2753248831a344d0d4aba0b01d32b270a60af0eeb071fb",
+      "freshTranslation": "니아군은 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000016",
+      "sourceBindingSha256": "07bdb285f73abc7752611339b71501fbf0650b3ab72a8e1e944c3f8bacb5c9fd",
+      "sourceTextSha256": "9501516db62224f5f093c5403e022c9c84e7743897fa509cfc763ad9f43c4849",
+      "freshTranslation": "니아인만으로 구성되어야 한다는 주의를 내건 '순혈파' ㊥의 리더로서 군의 장악을 획책하는 것도 제로의 책략에 의해 실각. 이 때 제로가 ㊥로 쏟아낸 스캔들 「오렌지」에 의해, 이후, 그 이름으로 멸망하게 된다. ㊥ 한층 더 기사 회생을 노린 나리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000017",
+      "sourceBindingSha256": "6ca2859dc67ebb253a3ca7d1706b981ed666adc6a0044b30052d6971769c6b71",
+      "sourceTextSha256": "935c162a30acba16d524caf19351b30530434f5088e4546d7f84e225068fb1f1",
+      "freshTranslation": "연산의 싸움으로 홍련이식의 복사파동을 정도, 빈사의 ㊥상태에서 방황 걷고 있던 곳을 배틀 산하의 연구원이 회수. 실험 적합 생체로 ㊥로 육체를 개조되었다. ㊥ 블랙 리베리온시 불완전한 상태에서 각성. 제로에 대한 정념을 폭주시켜, 지㊥쿠프리트를 타고 제로의 앞에 서는 것이 좋았지만, C.I. C. 가 조종하는 가웨인과 ㊥ 모두 바다에 가라앉았다. ㊥ 그 후, 기어스 잠단이 지크플릿과 함께 회수. 재개조를 실시한 결과, 기어스를 ㊥ 무효화하는 「기어스캔셀러」의 능력을 얻는다. 이 능력을 사용하여 루루슈를 쫓아 ㊥ 막는 것도 그 목적은 루루슈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00359/Sheet1/000018",
+      "sourceBindingSha256": "50b7f5503230d36c65f9d6c92f2501e5f01764c75a2202e011c64a4818e41b51",
+      "sourceTextSha256": "9d3a4892e5d23170d47fa10d1978fad1973b9b5029fbb77fe58a049c4155632b",
+      "freshTranslation": "뜻을 확인하는 일에 있었다. 거듭되는 개조를 중㊥ 하고도, 제레미아의 마음에서 황족에 대한 충의의 마음은 사라지지 않고, 경애하는 마㊥ 리안 비의 아들인 루루슈에게 충성을 맹세한다. ㊥ 그 후는 루루슈의 충실한 부하로서 분투했고, 그것은 루루슈가 황제에 즉위하고 ㊥ 이후에도 계속되었다. ㊥ 제로 레퀴엠 완수 후 오렌지 농원을 경영. 그 옆에는 한때 적으로서 전 ㊥이었던 아냐의 모습이 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

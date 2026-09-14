@@ -1,0 +1,60 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00125",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00125/Sheet1/000002",
+      "sourceBindingSha256": "ff967de54cce651395bf8065e4ed566b462253fa2b2adb33b9b056e95a1e8036",
+      "sourceTextSha256": "ca0bd0bcbd0279e90fb431e41dc54cc14f0a707ef3afa28dd47f45e06803f517",
+      "freshTranslation": "집합 무의식",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00125/Sheet1/000003",
+      "sourceBindingSha256": "616ab1e37bcc014886833e042a820f16e27d13a9cad11892f539e3ab8fa3df38",
+      "sourceTextSha256": "05bab81238428e66e9b20af6d4a8576f3c3ccd044a774f0672f9e18b0d828c8a",
+      "freshTranslation": "「코드 기어스 반역의 루루슈 R2」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00125/Sheet1/000004",
+      "sourceBindingSha256": "7c0d88d272d458bdf63d8b72c19312205647f6dcf6b07069ce4413f269f6234f",
+      "sourceTextSha256": "e3cbb05409b4088cc72333793fc211ca7f11853234cf4af2b3ef70970b968409",
+      "freshTranslation": "심리학의 용어로 인간의 심층에 존재하는 개인의 의식을 넘은 영역. ㊥C. C. 는 “시간과 공간을 넘어 사람의 마음과 기억이 모인 것”이라고 표현했다. ㊥ 샤를르와 마리안느는 이에 전 인류의 의식을 모으는 것으로 시간과 개인이라는 ㊥라는 개념을 없애고 모두가 하나가 된 거짓말 없는 세계를 만들어내려고 했다. ㊥ 그러나 그것은 미래를 추구하는 루루슈에게 부인되었고, 두 사람은 존재를 소멸시키고 ㊥되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00125/Sheet1/000005",
+      "sourceBindingSha256": "8da2299f61b6b0859373f0bb9080be3a560add7ba276b9ff1c5206c70cc97818",
+      "sourceTextSha256": "e3cbb05409b4088cc72333793fc211ca7f11853234cf4af2b3ef70970b968409",
+      "freshTranslation": "심리학의 용어로 인간의 심층에 존재하는 개인의 의식을 넘은 영역. ㊥C. C. 는 “시간과 공간을 넘어 사람의 마음과 기억이 모인 것”이라고 표현했다. ㊥ 샤를르와 마리안느는 이에 전 인류의 의식을 모으는 것으로 시간과 개인이라는 ㊥라는 개념을 없애고 모두가 하나가 된 거짓말 없는 세계를 만들어내려고 했다. ㊥ 그러나 그것은 미래를 추구하는 루루슈에게 부인되었고, 두 사람은 존재를 소멸시키고 ㊥되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

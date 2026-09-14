@@ -1,0 +1,181 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00068",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00068/Sheet1/000002",
+      "sourceBindingSha256": "ef0745e3736ee94ccef296f0c52c37ab3dd9e3077d92d06375ca6f5d07163274",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00068/Sheet1/000003",
+      "sourceBindingSha256": "e3525ae08f875e49e305c788e91ca01a89ef95585b5ade28c2a5230323f5047c",
+      "sourceTextSha256": "87f21dbca765a1fbace2cd525365c0b0c2a6a35fc30b8622af501d5b5aa0aeed",
+      "freshTranslation": "더블 오라이저",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00068/Sheet1/000004",
+      "sourceBindingSha256": "e148335c348b9425813940beea5ecd535acf622729cdfcd3736e8902baf29cf3",
+      "sourceTextSha256": "f7968e7e30014c40d937441c4c1efb67adf391f7dfe9375ba011e5729454a2c1",
+      "freshTranslation": "더블 오라이저(입자 저장",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00068/Sheet1/000005",
+      "sourceBindingSha256": "ae2a927fc56c894e62686d4544de6d2aeb1996ce3cb9ce7e0e812c4ca3da5dde",
+      "sourceTextSha256": "34a0dd3465e625b573f961898296d98390285097e4a21d4ca938c0812486d13f",
+      "freshTranslation": "응쿠",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00068/Sheet1/000006",
+      "sourceBindingSha256": "92f74e4e34041223d3484637e4f5be6bdb4dcf47becb0b3cd3ad676debce4f58",
+      "sourceTextSha256": "9d9ae172fdc3acb985e0859af43788b807b9a44eda6e92500860ae00333e84b9",
+      "freshTranslation": "세츠나・F・세이에이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00068/Sheet1/000007",
+      "sourceBindingSha256": "9e8bb2e27e779441c54d8e5109e25e744064a9ce015d8300815e93a24f2c116a",
+      "sourceTextSha256": "06c50259c01f075fa91bac149ab1e84ce750cd84ac3328541c0158dc5e7d01f8",
+      "freshTranslation": "세츠나・F・세이에이가 탑승하는 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00068/Sheet1/000008",
+      "sourceBindingSha256": "5f848f03212f49e3a8d3bd7d58c1d3a12327dde761b2ff2f60ad0dc06bf3b6dc",
+      "sourceTextSha256": "500ab41e7fe16c93febdb4f7a909815e0aee7fdc87998a647f2495d6bcf6a994",
+      "freshTranslation": "루비잉의 4세대 건담의 더브㊥ 루오건담에 지원기의 오라이저가 합체한 형태. ㊥ 더블 오건담은 트윈 라이브를 전제로 개발된 것이었지만, 2기의 ㊥GN 드라이브의 동조가 어려웠기 때문에, 제어 유닛으로서의 역할을 갖게 한 오㊥라이저를 도킹시켜",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00068/Sheet1/000009",
+      "sourceBindingSha256": "431107b90f2e5aa5710fc443ab819b147ea7ace408af5e59fe5bd971a831a103",
+      "sourceTextSha256": "b4c0a25ca0dc0481e201522e0f10d265415c8947f792c7f9975236d15a7c7648",
+      "freshTranslation": "사용했다. ㊥ 트랜잠시에는 당초의 설계 이상의 성능을 발휘해, 방출되는 GN 입자에 의해 의㊥식 공유공간을 만들어내는 등했다. ㊥ 이 때문에, 본 기기는 「건담」의 이름이 제외되고, 「건담을 넘는 것」으로서 ㊥ 더블 오라이저라고 명명되었다. ㊥ 이노베이드와의 싸움으로 인해 원래의 GN 드라이브가 파괴되어 버렸습니다 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00068/Sheet1/000010",
+      "sourceBindingSha256": "4a25f82563d8f9b1c3cd8342c962d1c9094eb0e09a98863d616b0e109b80004d",
+      "sourceTextSha256": "b8fffefce7c1859c55965a900b341cc36ad04f4f78ace21678f31bac82418315",
+      "freshTranslation": "넉크 탑재",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00068/Sheet1/000011",
+      "sourceBindingSha256": "5977d7dd7e5eeb0e50172141105adb79dde2dee500980c4c40b44e383c313f84",
+      "sourceTextSha256": "1b4a3b5e060e206902ff49162737fb80853f6b0e8fd31cc0c8f15c6fd8c76857",
+      "freshTranslation": "사용되었습니다. 이 ㊥의 상태에서도, 기본 성능은 떨어지지 않고, 트랜잠도 가능하지만, 발동 시간은 극단적으로 짧아져 ㊥해 버리고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00068/Sheet1/000012",
+      "sourceBindingSha256": "c060fb34c8de96e6fcc53eeadc36254fb7845a3d91d13ffc2b68ddb10f20b80d",
+      "sourceTextSha256": "06c50259c01f075fa91bac149ab1e84ce750cd84ac3328541c0158dc5e7d01f8",
+      "freshTranslation": "세츠나・F・세이에이가 탑승하는 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00068/Sheet1/000013",
+      "sourceBindingSha256": "181581b355e7599cae90f15d27435048a6baaea248860b491d22490bbfad8896",
+      "sourceTextSha256": "500ab41e7fe16c93febdb4f7a909815e0aee7fdc87998a647f2495d6bcf6a994",
+      "freshTranslation": "루비잉의 4세대 건담의 더브㊥ 루오건담에 지원기의 오라이저가 합체한 형태. ㊥ 더블 오건담은 트윈 라이브를 전제로 개발된 것이었지만, 2기의 ㊥GN 드라이브의 동조가 어려웠기 때문에, 제어 유닛으로서의 역할을 갖게 한 오㊥라이저를 도킹시켜",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00068/Sheet1/000014",
+      "sourceBindingSha256": "49434b14b6fd6d6b509e39ffcff6d064018fef36afe88c225fdcb4da8e6685ca",
+      "sourceTextSha256": "b4c0a25ca0dc0481e201522e0f10d265415c8947f792c7f9975236d15a7c7648",
+      "freshTranslation": "사용했다. ㊥ 트랜잠시에는 당초의 설계 이상의 성능을 발휘해, 방출되는 GN 입자에 의해 의㊥식 공유공간을 만들어내는 등했다. ㊥ 이 때문에, 본 기기는 「건담」의 이름이 제외되고, 「건담을 넘는 것」으로서 ㊥ 더블 오라이저라고 명명되었다. ㊥ 이노베이드와의 싸움으로 인해 원래의 GN 드라이브가 파괴되어 버렸습니다 ㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00068/Sheet1/000015",
+      "sourceBindingSha256": "b6f6e61a37bfeb85ad91dad4c82b86c8a04e1430b368d424bbbe92ce78e3a348",
+      "sourceTextSha256": "b8fffefce7c1859c55965a900b341cc36ad04f4f78ace21678f31bac82418315",
+      "freshTranslation": "넉크 탑재",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00068/Sheet1/000016",
+      "sourceBindingSha256": "3bc6442481938419ff157f4257fd771474a6608e4971ee430e138048878c960c",
+      "sourceTextSha256": "1b4a3b5e060e206902ff49162737fb80853f6b0e8fd31cc0c8f15c6fd8c76857",
+      "freshTranslation": "사용되었습니다. 이 ㊥의 상태에서도, 기본 성능은 떨어지지 않고, 트랜잠도 가능하지만, 발동 시간은 극단적으로 짧아져 ㊥해 버리고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

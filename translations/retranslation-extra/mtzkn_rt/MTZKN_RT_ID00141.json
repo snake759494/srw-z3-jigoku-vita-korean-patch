@@ -1,0 +1,137 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00141",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00141/Sheet1/000002",
+      "sourceBindingSha256": "91da3a933d69fb6cc1cb96ff7b0c826d6b29939a7b8401eb1be30510ed7bfd28",
+      "sourceTextSha256": "2e50e921e3c7b75fbcf433d1563a8398e58c77dd78a57ca4d82d5572435bab13",
+      "freshTranslation": "(체인지!)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00141/Sheet1/000003",
+      "sourceBindingSha256": "88659334d346704bc1c71d3b9575872735eb1cc54580b837ea967de17c7ac050",
+      "sourceTextSha256": "7c3cb5cb2ef14de63eec14acd214053a7f20637efe0ffd4631309ea46fb1a51d",
+      "freshTranslation": "- 로보 세계 마지막 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00141/Sheet1/000004",
+      "sourceBindingSha256": "6def9f4bc36b6c1b72e18521018e813cb949eb6ba1a7555544e406cc7809c8e6",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00141/Sheet1/000005",
+      "sourceBindingSha256": "a5a9c74fa8f22890965ace9e9bfcdbcf9ced565fdd7e9828fcb02ef5573ee026",
+      "sourceTextSha256": "c9ef98070efe58f06517e3ba885dc54867406c92d5f1b8cd1f59e4196eed0fe8",
+      "freshTranslation": "겟",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00141/Sheet1/000006",
+      "sourceBindingSha256": "639b4153a61c229e4930c00081877c86514c2b85ca0e3b376696cc5923c7a80e",
+      "sourceTextSha256": "9f7c86ffae9aacc2c3c2e39643dde1673bfbc47b219f9cf04696362c414f24bb",
+      "freshTranslation": "자동차 벤케이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00141/Sheet1/000007",
+      "sourceBindingSha256": "e24dff061af02a99104574e9d2233d8e95895ac3d6599d9151729dadfdae04cb",
+      "sourceTextSha256": "2cdca81574e5953faa1ebc36aa47be14fd1048f3b22f5efa823b7458fe55ef4c",
+      "freshTranslation": "수중 전투용으로 개발된 마지막 게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00141/Sheet1/000008",
+      "sourceBindingSha256": "21b52f1cef58a021e25b6cb6677acb69ba194d77fee26efa77a8e7abc8d190d0",
+      "sourceTextSha256": "348a38c451fe22b4713ff6dc924ba4d6795d1e23f06523da49be90bafa8a8ab7",
+      "freshTranslation": "- 로보. ㊥ 파워를 살려 지상 활동에서도 높은 전투 능력을 발휘한다. ㊥ 어깨 입에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00141/Sheet1/000009",
+      "sourceBindingSha256": "b3a42d18a581fe1a3be01e4edebb3977e0c00db36748c991128af99243ab585b",
+      "sourceTextSha256": "2742387bf98f8351911ff9603b40cdf423a061dc65b2b2877076a6c2fa5120ca",
+      "freshTranslation": "- 미사일과 호밍 미사일, 후부에는 미사일 폭풍과 ㊥ 전신에 미사일을 장비. 원근감 양쪽 모두에 대응한 전투가 가능해지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00141/Sheet1/000010",
+      "sourceBindingSha256": "1b5b9e4341859f735d5d7f5903b7f1ddaf97229bf110e424f4a10cb4e861d0a9",
+      "sourceTextSha256": "2cdca81574e5953faa1ebc36aa47be14fd1048f3b22f5efa823b7458fe55ef4c",
+      "freshTranslation": "수중 전투용으로 개발된 마지막 게",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00141/Sheet1/000011",
+      "sourceBindingSha256": "3811e7dda34681473192b4a1358b825afe414ac7c4b74f809fa432d1298a08f9",
+      "sourceTextSha256": "348a38c451fe22b4713ff6dc924ba4d6795d1e23f06523da49be90bafa8a8ab7",
+      "freshTranslation": "- 로보. ㊥ 파워를 살려 지상 활동에서도 높은 전투 능력을 발휘한다. ㊥ 어깨 입에",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00141/Sheet1/000012",
+      "sourceBindingSha256": "ff77caead148ee7d57546f71808b972a8587c80e89b0e1723804925b933f81e5",
+      "sourceTextSha256": "2742387bf98f8351911ff9603b40cdf423a061dc65b2b2877076a6c2fa5120ca",
+      "freshTranslation": "- 미사일과 호밍 미사일, 후부에는 미사일 폭풍과 ㊥ 전신에 미사일을 장비. 원근감 양쪽 모두에 대응한 전투가 가능해지고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

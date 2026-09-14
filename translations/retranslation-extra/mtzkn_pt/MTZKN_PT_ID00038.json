@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00038",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00038/Sheet1/000002",
+      "sourceBindingSha256": "43e5e7c0a852365172f6f88cd00a50e5ba0f59db1473a084c283be680bd33791",
+      "sourceTextSha256": "932d10e78cea6063a5aad35cf416b048f8f814982d1c25f5eb99f5d6dd508ca7",
+      "freshTranslation": "코코나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00038/Sheet1/000003",
+      "sourceBindingSha256": "333fe6af58a7833cae39d51997abc42ed1be18ac985b17ced38c23344bdc0365",
+      "sourceTextSha256": "932d10e78cea6063a5aad35cf416b048f8f814982d1c25f5eb99f5d6dd508ca7",
+      "freshTranslation": "코코나",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00038/Sheet1/000004",
+      "sourceBindingSha256": "22f38746d149cfb7504b5d9af1ad39effd652c38e9e99675768dee50e591d184",
+      "sourceTextSha256": "095aa56eab1e8a38be44b7470675dbd3bb01e8bb6134a3c94d5e531e65a3923a",
+      "freshTranslation": "장갑 기병 하의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00038/Sheet1/000005",
+      "sourceBindingSha256": "9008c1b99ab9ca7037fb79a80a23da669d529a8ca7044a4c23c3c2a521d430c0",
+      "sourceTextSha256": "7b336cb8b8e56c64bd80b25438b4f1d9f1f4a93f6ee24a38065e5f2ca506d95a",
+      "freshTranslation": "한때 우도의 거리에 살았던 전재 고아. ㊥ 할머니로 꾸준히 행동하고는 있지만 전쟁으로 가족을 잃은 슬픔이 가끔 얼굴을 들여다보며 ㊥ 가라앉힌다. ㊥ 미워 입을 두드리면서도, 고우트나 바닐라와는 요철 트리오로서 행동을 함께 하는 ㊥ 하는 것이 많았다. 쿠멘으로 건너도 그 썩은 인연은 계속되고 두 사람이 공동 경영하는 바㊥- \"팬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00038/Sheet1/000006",
+      "sourceBindingSha256": "041f7478f360fc5e768cf812fb035464d842e3960233b21f68c38e15cd58b459",
+      "sourceTextSha256": "05c5f0cc2c480cf425ed83bea6d1c60195f724cb01e0dd8c78bdf9cb37703af7",
+      "freshTranslation": "무클럽'에서는 가희로서 활약했다. ㊥ 키리코에게 한눈에 반해 이후, 일이 있을 때마다 친신에게 접하지만, 당의 키리코는 전혀 뜻하게 ㊥ 개입하는 모습은 없었다. 그런 가운데, 이윽고 바닐라와는 서로 끌려 가도록(듯이) ㊥ 된다. ㊥ 쿠멘 왕국 붕괴 후에도 행성 산사에서 키리코와 재회. 게다가 자신의 비밀을 찾아내 ㊥ 하는 키리코의 여행에 휘말려 마지막 끝까지 그와 사귀게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00038/Sheet1/000007",
+      "sourceBindingSha256": "5bab3a8d162fb3dfe5f17395ad00e9b924c157257afcd19779182da415bb528c",
+      "sourceTextSha256": "7b336cb8b8e56c64bd80b25438b4f1d9f1f4a93f6ee24a38065e5f2ca506d95a",
+      "freshTranslation": "한때 우도의 거리에 살았던 전재 고아. ㊥ 할머니로 꾸준히 행동하고는 있지만 전쟁으로 가족을 잃은 슬픔이 가끔 얼굴을 들여다보며 ㊥ 가라앉힌다. ㊥ 미워 입을 두드리면서도, 고우트나 바닐라와는 요철 트리오로서 행동을 함께 하는 ㊥ 하는 것이 많았다. 쿠멘으로 건너도 그 썩은 인연은 계속되고 두 사람이 공동 경영하는 바㊥- \"팬",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00038/Sheet1/000008",
+      "sourceBindingSha256": "65dc39bbce9393d573b489fcb54bd4205080585115124f2268a7c8c1faeb653f",
+      "sourceTextSha256": "05c5f0cc2c480cf425ed83bea6d1c60195f724cb01e0dd8c78bdf9cb37703af7",
+      "freshTranslation": "무클럽'에서는 가희로서 활약했다. ㊥ 키리코에게 한눈에 반해 이후, 일이 있을 때마다 친신에게 접하지만, 당의 키리코는 전혀 뜻하게 ㊥ 개입하는 모습은 없었다. 그런 가운데, 이윽고 바닐라와는 서로 끌려 가도록(듯이) ㊥ 된다. ㊥ 쿠멘 왕국 붕괴 후에도 행성 산사에서 키리코와 재회. 게다가 자신의 비밀을 찾아내 ㊥ 하는 키리코의 여행에 휘말려 마지막 끝까지 그와 사귀게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

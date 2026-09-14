@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00234",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00234/Sheet1/000002",
+      "sourceBindingSha256": "54a0d678a2f0129835f912411e35e976060084fdea8a96b61f7d82be8a9553b5",
+      "sourceTextSha256": "5aa668381075f555ff3e434a39d39797ec9849892196532e72fa66779a6c55a1",
+      "freshTranslation": "오카와치 덴지로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00234/Sheet1/000003",
+      "sourceBindingSha256": "6e92263042b1679f9b791e18ba26e24a8ac3eef07a983681ef3a167334a304dc",
+      "sourceTextSha256": "de7ba9a8f80c6305e63837c799d95ec3846d6e9718c82b03858236b3b93f9f5b",
+      "freshTranslation": "대하내",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00234/Sheet1/000004",
+      "sourceBindingSha256": "5737e3fdaa4054c0e2e4331cef266c0d489d55a0011b67c0b7a77216f82631b4",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00234/Sheet1/000005",
+      "sourceBindingSha256": "0707e469e0b334658f920a7e0735a8eb38b1cc20a3a326d563ba3c99f62b4f15",
+      "sourceTextSha256": "9d68910a2234e63cb77a4a599af1aca37b93e87bf82d279f4acc218076e73ce3",
+      "freshTranslation": "주식회사 21세기 경비 보장의 사장. 57세. ㊥ 과거에 조우한 헤테로다인의 공포를 몸으로 맛보고 있기 때문에, 사람들을 지킨 ㊥째에 평생을 걸어 왔다. ㊥ 과묵하고 강면이지만, 실직하고 귀찮은 성격으로 사내에서의 인망은 두껍다. ㊥ 한때는 안보군의 전신인 유엔 의용군에 소속되어 있어, 당시의 전투로 우안을 잃어 ㊥ 하고 있다. 12년 전에 출현한 첫 헤테로다인에 OE(오버익스플로전)㊥무기 사용을 결정한 과거를 지금도 마음속으로 고뇌하고 있다. ㊥ 헤테로다인 섬멸을 최우선이라고 생각해 주위의 피해를 겪지 않는 안보군에 대해 다이·㊥ 가드에 의한 대처에 자신의 이념을 맡고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00234/Sheet1/000006",
+      "sourceBindingSha256": "992ed37be8d467f5a97625a10beb876efc9fb34de04d8879679d1efa2ff9d56a",
+      "sourceTextSha256": "9d68910a2234e63cb77a4a599af1aca37b93e87bf82d279f4acc218076e73ce3",
+      "freshTranslation": "주식회사 21세기 경비 보장의 사장. 57세. ㊥ 과거에 조우한 헤테로다인의 공포를 몸으로 맛보고 있기 때문에, 사람들을 지킨 ㊥째에 평생을 걸어 왔다. ㊥ 과묵하고 강면이지만, 실직하고 귀찮은 성격으로 사내에서의 인망은 두껍다. ㊥ 한때는 안보군의 전신인 유엔 의용군에 소속되어 있어, 당시의 전투로 우안을 잃어 ㊥ 하고 있다. 12년 전에 출현한 첫 헤테로다인에 OE(오버익스플로전)㊥무기 사용을 결정한 과거를 지금도 마음속으로 고뇌하고 있다. ㊥ 헤테로다인 섬멸을 최우선이라고 생각해 주위의 피해를 겪지 않는 안보군에 대해 다이·㊥ 가드에 의한 대처에 자신의 이념을 맡고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

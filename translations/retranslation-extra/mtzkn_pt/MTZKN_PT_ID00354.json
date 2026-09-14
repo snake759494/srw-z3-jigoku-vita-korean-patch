@@ -1,0 +1,148 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00354",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00354/Sheet1/000002",
+      "sourceBindingSha256": "096756b59f3535744eca5947c6a1ef067e7029d9242ec08c0c9eec09bd18aa77",
+      "sourceTextSha256": "32778b29fea58065310a90200d4724635cfcb412a39c0e13877cd9f349b18b42",
+      "freshTranslation": "제로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00354/Sheet1/000003",
+      "sourceBindingSha256": "d85f2b87f25d3a9eaae40d5cfcf2892e290faf9a27ff0b4db58a40131adcd43d",
+      "sourceTextSha256": "32778b29fea58065310a90200d4724635cfcb412a39c0e13877cd9f349b18b42",
+      "freshTranslation": "제로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00354/Sheet1/000004",
+      "sourceBindingSha256": "8526ba7e9ff59bba218fd1fc2e115e1fdf84731f80ba4d4f8664caba286a5bb4",
+      "sourceTextSha256": "b40f8de117e644be3d8ab8c76b9b5779575051515b39a54c7b5cfa1a85297d19",
+      "freshTranslation": "코드기어스 반역의 루루슈 R2",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00354/Sheet1/000005",
+      "sourceBindingSha256": "d76c113adc5875beb7137c0b98e11540ef37e12ecb6d3a0c5ac96663b3e77810",
+      "sourceTextSha256": "4e5c40f4612f8cb39098ea5b8f42165019d576bff15ac90687911ad6c22696f8",
+      "freshTranslation": "후쿠야마 준",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00354/Sheet1/000006",
+      "sourceBindingSha256": "5b658035d05ead6c3eaaf0d89b9ea2ba5f2b1ba50a60132ab97ee13c4e65fba6",
+      "sourceTextSha256": "185cfafb46d3dedd168a1d32dde8ad957f7021a4e9e3253c794a98534d8f98a0",
+      "freshTranslation": "루루슈가 정체를 숨기기 위해 가면을 쓴 모습. ㊥ 크로비스 살해의 용",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00354/Sheet1/000007",
+      "sourceBindingSha256": "04af4872fb36ae29be8c344f036a46eb8719303cca56b965368252abdcc3989d",
+      "sourceTextSha256": "09445c18017f6e41bc5bd158188c45f79cf8c47262e940c044b1696fa1eafa8f",
+      "freshTranslation": "걸린 수작을 구출하기 위해 처음으로 사람들 앞에 모습을 ㊥ 보여주고, 이후 다양한 기적을 일으켜 반부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00354/Sheet1/000008",
+      "sourceBindingSha256": "72f7400ec4288df858da07fdc67c2c511612b3e0490c60a025b83efec2e44810",
+      "sourceTextSha256": "8d56b46b09226fc8bf38b751a4371ea3c6450740e689811b46cacb600c17d2d1",
+      "freshTranslation": "니어의 상징이 되어 갔다. ㊥ 블랙 리베리온 후 루루슈의 기억이 봉인되었기 때문에 한 해 가까이 모습을 끄고 ㊥했지만, 루루슈의 기억이 돌아온 것으로 제로도 부활하고 다시 사람들 앞에 모습을 드러내기 때문에 ㊥ 있었다. ㊥ 그 후는 단 혼자서 처형당하고 있던 동료를 구출하거나, 백만명의 일본㊥명을 중화연방으로 망명시키거나, 초합집국을 건국하거나 더욱 스케일의 큰 기㊥적을 일으켜, 반부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00354/Sheet1/000009",
+      "sourceBindingSha256": "58cd45f327d0ab970fd564a6762c1127a85d36cfaf67064861b2a40beadf85f3",
+      "sourceTextSha256": "d3e8698bc0c5a59384079a073f96e00ad55e3dc919c3d0420dbd03f8adceb2e4",
+      "freshTranslation": "니어의 리더로 활약했다.㊥그러나 슈나이젤의 책략으로 기어스와 루루슈의 정체도 날뛰고 검은 색㊥기사단과 결별하게 된다.㊥하지만 제로는 다시 나타나 세계를 장악한 황제 루루슈를 토벌했다. 그 정체는㊥루시와 함께 제로 레퀴엠을 기획 한 스자쿠이며, 제로가 황제 루루슈를 토벌㊥한 가지 일로 황제에 집약 된 모든 증오는 사라지고 세계는 새로운 시대를 맞이합니다.㊥했다.㊥이후 수자크는 루루슈의 유지를 이어 평생을 제로로 바치게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00354/Sheet1/000010",
+      "sourceBindingSha256": "e12ef91756964844282664e11131dd0de4e6f199ff37564acd10df674b4b5c06",
+      "sourceTextSha256": "185cfafb46d3dedd168a1d32dde8ad957f7021a4e9e3253c794a98534d8f98a0",
+      "freshTranslation": "루루슈가 정체를 숨기기 위해 가면을 쓴 모습. ㊥ 크로비스 살해의 용",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00354/Sheet1/000011",
+      "sourceBindingSha256": "868099bd72cbddfbbfce087888c136780c18793b605b0141989398813fbb57a3",
+      "sourceTextSha256": "09445c18017f6e41bc5bd158188c45f79cf8c47262e940c044b1696fa1eafa8f",
+      "freshTranslation": "걸린 수작을 구출하기 위해 처음으로 사람들 앞에 모습을 ㊥ 보여주고, 이후 다양한 기적을 일으켜 반부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00354/Sheet1/000012",
+      "sourceBindingSha256": "d358a897b634fa6a3af84887a9b98499a7186b6af7b0d2b0250c3b166c29d9a9",
+      "sourceTextSha256": "8d56b46b09226fc8bf38b751a4371ea3c6450740e689811b46cacb600c17d2d1",
+      "freshTranslation": "니어의 상징이 되어 갔다. ㊥ 블랙 리베리온 후 루루슈의 기억이 봉인되었기 때문에 한 해 가까이 모습을 끄고 ㊥했지만, 루루슈의 기억이 돌아온 것으로 제로도 부활하고 다시 사람들 앞에 모습을 드러내기 때문에 ㊥ 있었다. ㊥ 그 후는 단 혼자서 처형당하고 있던 동료를 구출하거나, 백만명의 일본㊥명을 중화연방으로 망명시키거나, 초합집국을 건국하거나 더욱 스케일의 큰 기㊥적을 일으켜, 반부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00354/Sheet1/000013",
+      "sourceBindingSha256": "f65530548e85f51e4057b36fd6ff45643c384052b56eae3719706883265c100a",
+      "sourceTextSha256": "d3e8698bc0c5a59384079a073f96e00ad55e3dc919c3d0420dbd03f8adceb2e4",
+      "freshTranslation": "니어의 리더로 활약했다.㊥그러나 슈나이젤의 책략으로 기어스와 루루슈의 정체도 날뛰고 검은 색㊥기사단과 결별하게 된다.㊥하지만 제로는 다시 나타나 세계를 장악한 황제 루루슈를 토벌했다. 그 정체는㊥루시와 함께 제로 레퀴엠을 기획 한 스자쿠이며, 제로가 황제 루루슈를 토벌㊥한 가지 일로 황제에 집약 된 모든 증오는 사라지고 세계는 새로운 시대를 맞이합니다.㊥했다.㊥이후 수자크는 루루슈의 유지를 이어 평생을 제로로 바치게 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

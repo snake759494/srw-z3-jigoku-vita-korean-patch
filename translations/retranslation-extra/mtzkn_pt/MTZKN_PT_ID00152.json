@@ -1,0 +1,115 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00152",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00152/Sheet1/000002",
+      "sourceBindingSha256": "9dd1bed5b4c9ef3d1965bfffcb471ea323d0b5efbd57afd2859eff403bed44f1",
+      "sourceTextSha256": "2ecd88c3b9ba5ef42c473a0f68e53e2925d9940d7bb8737c970dde6cb27bdb55",
+      "freshTranslation": "연무커크스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00152/Sheet1/000003",
+      "sourceBindingSha256": "dde7211cb39cd568d0ef342b974e9e2234439b5ce073c5897ad19b8d3ab54266",
+      "sourceTextSha256": "1d0ac88b2e4eacb500a88ed30921c07e2e1a7442b83a9d1b46843e2ddf16edd3",
+      "freshTranslation": "커크스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00152/Sheet1/000004",
+      "sourceBindingSha256": "fb2e3c9c40b1f3737f1641e11857291f26268805fc437a76fb313f57e326952a",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00152/Sheet1/000005",
+      "sourceBindingSha256": "d3a1348f6d77385d6ad4f0829924fbe9d76e2c5b51b8b54258212b06e75ff203",
+      "sourceTextSha256": "9898c1aa63ab9a1d360fec0f8ce0745b2fc26c3192048f48d5941def7e080853",
+      "freshTranslation": "이시즈카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00152/Sheet1/000006",
+      "sourceBindingSha256": "b589b5c51883d0fc577d52f55ce54acdda8412066b49878d899585bbac021228",
+      "sourceTextSha256": "dfdbf438407ad8a0240be7c976405d281fa156d32c70227def4dff680a04baac",
+      "freshTranslation": "뉴기니에 본거지를 둔 지온 잔당군의 현 리더. 계급은 소령. 39세. ㊥ 마하디 가베이의 사후 지온 잔당군을 정리하는 정직한 군인. ㊥ 로니의 아버지 대안도 맡고 있다. ㊥파일럿이나 사령관으로서도 능력이 높고, 자쿠Ⅰ·스나이퍼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00152/Sheet1/000007",
+      "sourceBindingSha256": "bbb5a1ee0c02e833704faa7cbc443ccac225603d8a7bb45f89775d21fd6fd4e2",
+      "sourceTextSha256": "4557c0db1fefae62cd63f99ad04f25656cca5a2e0cfed739b5e285764c8e7098",
+      "freshTranslation": "입으로 후 ㊥쪽에서 저격을 하면서 전투 지휘를 한다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00152/Sheet1/000008",
+      "sourceBindingSha256": "80b06fa6abf77e564e9443ba5af8f0c41ad0a570f59d5531c7b859ff3c2ec523",
+      "sourceTextSha256": "dfdbf438407ad8a0240be7c976405d281fa156d32c70227def4dff680a04baac",
+      "freshTranslation": "뉴기니에 본거지를 둔 지온 잔당군의 현 리더. 계급은 소령. 39세. ㊥ 마하디 가베이의 사후 지온 잔당군을 정리하는 정직한 군인. ㊥ 로니의 아버지 대안도 맡고 있다. ㊥파일럿이나 사령관으로서도 능력이 높고, 자쿠Ⅰ·스나이퍼",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00152/Sheet1/000009",
+      "sourceBindingSha256": "81a9f2a98b4684f85a5739e6553ce20c57c48243d5f2de7617d5e5c37625aaa1",
+      "sourceTextSha256": "274d70fbdbd0c8710b7ce456212bc5186e074a6ff248fa141bc7a87220359d89",
+      "freshTranslation": "입으로 후 ㊥쪽에서 저격을 하면서 전투 지휘를 한다. ㊥ 라 카이람의 트라이스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00152/Sheet1/000010",
+      "sourceBindingSha256": "d5df5838d2d6bbfcd41b488c95131e7caa6961249133631252c6d3bbcf2d763d",
+      "sourceTextSha256": "17484a457e622b52430ab5a75f99a6db0aff2f2577a05faff76eff503838d760",
+      "freshTranslation": "-와의 전투로 사망하더라도, 그 사념은 폭주하는 로니를 ㊥ 멈추는 힘이 되었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

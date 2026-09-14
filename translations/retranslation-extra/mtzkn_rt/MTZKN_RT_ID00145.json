@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00145",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00145/Sheet1/000002",
+      "sourceBindingSha256": "ea20bb45667fb5c8ed6bbb7c79df6c29d27c69f164f2695bc032845eb6bc8e17",
+      "sourceTextSha256": "2e50e921e3c7b75fbcf433d1563a8398e58c77dd78a57ca4d82d5572435bab13",
+      "freshTranslation": "(체인지!)",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00145/Sheet1/000003",
+      "sourceBindingSha256": "18a92d542561926355420652c33cfec0b1cfdf4d4f7ed120acb6a32e776309aa",
+      "sourceTextSha256": "7c3cb5cb2ef14de63eec14acd214053a7f20637efe0ffd4631309ea46fb1a51d",
+      "freshTranslation": "- 로보 세계 마지막 날",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00145/Sheet1/000004",
+      "sourceBindingSha256": "dacf4ba55644c710059e414f90d8c1c8d3200072ccb2a60a6df1d345e13a17b9",
+      "sourceTextSha256": "bc02b05063a9dc959ecd3c37db4f2ea499ccdf743139ecc8874d48c037581888",
+      "freshTranslation": "인베이더",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00145/Sheet1/000005",
+      "sourceBindingSha256": "458aba812a07e472e406be7eea3d14a112002cb992965cfd8823472796cb6a08",
+      "sourceTextSha256": "bc02b05063a9dc959ecd3c37db4f2ea499ccdf743139ecc8874d48c037581888",
+      "freshTranslation": "인베이더",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00145/Sheet1/000006",
+      "sourceBindingSha256": "4db21c19ac4cbf723f7da47085a2e3bab4265266fca8893863c742f0320f028d",
+      "sourceTextSha256": "65e117de148424dfac10d998f70a917c707dbf64e5ae41fc1e1c63e3b3eff2a7",
+      "freshTranslation": "목성 부근에서 등장한 인베이더. ㊥지상에 나타난 것에 비해 훨씬 크고 지구의 고대 생물과 같은 모양을 하고 있는㊥의 특징. ㊥ 숫자가 많습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00145/Sheet1/000007",
+      "sourceBindingSha256": "7efa86eccf1327c5b1b267c12c686da23ffee9f83e233e1293d0e90aa86e948c",
+      "sourceTextSha256": "8e699d5d413e07f4ae2d6c408807927fc63cc464f967bb8f4dcc9b3b7e8e8d4d",
+      "freshTranslation": "ー팀을 괴롭혔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00145/Sheet1/000008",
+      "sourceBindingSha256": "d88be0e4821f13bb802aba38cd120a622bcc2a4e9d898d7da540a9300f62d05b",
+      "sourceTextSha256": "65e117de148424dfac10d998f70a917c707dbf64e5ae41fc1e1c63e3b3eff2a7",
+      "freshTranslation": "목성 부근에서 등장한 인베이더. ㊥지상에 나타난 것에 비해 훨씬 크고 지구의 고대 생물과 같은 모양을 하고 있는㊥의 특징. ㊥ 숫자가 많습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00145/Sheet1/000009",
+      "sourceBindingSha256": "8325a8e0ad4bb77cde27d60334799329083bba397f836f9aaa3307e870c74045",
+      "sourceTextSha256": "8e699d5d413e07f4ae2d6c408807927fc63cc464f967bb8f4dcc9b3b7e8e8d4d",
+      "freshTranslation": "ー팀을 괴롭혔다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

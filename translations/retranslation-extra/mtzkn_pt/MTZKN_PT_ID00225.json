@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00225",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00225/Sheet1/000002",
+      "sourceBindingSha256": "a2e666a70868425d32c82a2af98553617d408cb2800da6f4424b1bac2952ccd8",
+      "sourceTextSha256": "5f587ee652a3e6120f311fa9c2260dd80d124579e06701e8c0088d62b637f09d",
+      "freshTranslation": "타니가와 풍화",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00225/Sheet1/000003",
+      "sourceBindingSha256": "512b17457d1c4de1d838c057703c45a0831d4c80f494a0c418bbf0df157fb71e",
+      "sourceTextSha256": "199708f26d1f1c20a986495f57bddcb8c80696ccd7f1198177e9eb106f1578ec",
+      "freshTranslation": "타니가와",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00225/Sheet1/000004",
+      "sourceBindingSha256": "30228138285d93ff4bfb784d176ce51331f0550d2ae2223e660ab5ac49b8c893",
+      "sourceTextSha256": "d3517fa05979575cc6a118a7f201eb87d46b0e71c06f2e207f588003aee99ef2",
+      "freshTranslation": "지구 방위 기업 다이 가드",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00225/Sheet1/000005",
+      "sourceBindingSha256": "524da85efb818ea46a47098415ae21ec971bfbd14151da5c682ee7170660cbfd",
+      "sourceTextSha256": "3880a965c1f98512e01171c93c95843ca87489423ef73de32048ad5c5935bc64",
+      "freshTranslation": "홍보 2과의 여자 과원. 20세. ㊥ 소문을 좋아하고 구수가 많기 때문에, 좋은 가감인 인상을 받지만, 기전이 들고, 할 때㊥는 하는 성격으로 꽤 확고한 자. ㊥ 「비서과의 아유미」라고 하는 인물로부터 구입해 오는 정보가 항상 화제의 중심이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00225/Sheet1/000006",
+      "sourceBindingSha256": "0d275d78de4192682b43798d0f26e5103c5c2e5545e655baee3be78a1f90ca4d",
+      "sourceTextSha256": "3880a965c1f98512e01171c93c95843ca87489423ef73de32048ad5c5935bc64",
+      "freshTranslation": "홍보 2과의 여자 과원. 20세. ㊥ 소문을 좋아하고 구수가 많기 때문에, 좋은 가감인 인상을 받지만, 기전이 들고, 할 때㊥는 하는 성격으로 꽤 확고한 자. ㊥ 「비서과의 아유미」라고 하는 인물로부터 구입해 오는 정보가 항상 화제의 중심이었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

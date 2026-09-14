@@ -1,0 +1,115 @@
+{
+  "$schema": "./context.schema.json",
+  "format": "siok-scenario-translation-context",
+  "formatVersion": 1,
+  "game": {
+    "titleJa": "第3次スーパーロボット大戦Z 時獄篇",
+    "titleKo": "제3차 슈퍼로봇대전 Z 시옥편",
+    "warNameJa": "時獄戦役",
+    "warNameKo": "시옥전쟁",
+    "world": "신다원세기에서 UCW와 ADW가 융합한 다원세계",
+    "period": "신다원세기 0001년 봄부터 시옥전쟁 종결까지",
+    "policy": "본인 소유 게임에서 추출한 원문만 사용하며 게임 바이너리는 저장소에 포함하지 않는다"
+  },
+  "timeline": [
+    {
+      "key": "hakai",
+      "ja": "破界事変",
+      "ko": "파계사변",
+      "note": "ZEXIS가 겪은 이전 차원전쟁"
+    },
+    {
+      "key": "saisei",
+      "ja": "再世戦争",
+      "ko": "재세전쟁",
+      "note": "시옥편 직전의 전쟁과 다원세계 재편"
+    },
+    {
+      "key": "jigoku",
+      "ja": "時獄戦役",
+      "ko": "시옥전쟁",
+      "note": "시옥편 본편에서 명명되는 전쟁"
+    },
+    {
+      "key": "great_quake",
+      "ja": "大時空震",
+      "ko": "대시공진동",
+      "note": "차원과 세계의 경계를 흔드는 사건"
+    }
+  ],
+  "factions": [
+    {
+      "key": "zexis",
+      "ja": "ZEXIS",
+      "ko": "ZEXIS",
+      "role": "파계사변·재세전쟁을 거친 연합 전력"
+    },
+    {
+      "key": "zeuth",
+      "ja": "ZEUTH",
+      "ko": "ZEUTH",
+      "role": "이전 Z 세계의 동료들이 합류한 전력"
+    },
+    {
+      "key": "amalgam",
+      "ja": "アマルガム",
+      "ko": "아말감",
+      "role": "암약하는 군사 조직"
+    },
+    {
+      "key": "insaraum",
+      "ja": "インサラウム",
+      "ko": "인사라움",
+      "role": "전작과 연결되는 다원세계 세력"
+    }
+  ],
+  "speechRelations": [
+    {
+      "speaker": "신",
+      "style": "직선적·감정적인 반말",
+      "address": "동료에게 반말, 상관에게 상황에 맞춰 존대"
+    },
+    {
+      "speaker": "키라",
+      "style": "온화하고 부드러운 반말",
+      "address": "동료를 설득할 때 단정한 어미"
+    },
+    {
+      "speaker": "카미유",
+      "style": "날카롭고 빠른 반말",
+      "address": "상관·연장자에게 존댓말"
+    },
+    {
+      "speaker": "아무로",
+      "style": "침착한 리더형 단정체",
+      "address": "작전 지시와 조언은 간결하게"
+    },
+    {
+      "speaker": "로저",
+      "style": "지적이고 무게감 있는 반말",
+      "address": "도로시·모므와의 관계를 말투에 반영"
+    },
+    {
+      "speaker": "도로시",
+      "style": "짧고 담담한 반말",
+      "address": "불필요한 감탄·완곡어를 넣지 않음"
+    }
+  ],
+  "sources": [
+    {
+      "kind": "series",
+      "url": "https://srw.wiki.cre.jp/wiki/Z%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA",
+      "use": "Z 시리즈 세계관·용어 확인"
+    },
+    {
+      "kind": "timeline",
+      "url": "https://srw.wiki.cre.jp/wiki/%E6%99%82%E7%8D%84%E6%88%A6%E5%BD%B9",
+      "use": "시옥전쟁 연표·세력 확인"
+    },
+    {
+      "kind": "scenario_index",
+      "url": "https://w.atwiki.jp/srwz_3rd/pages/31.html",
+      "use": "시나리오 순서·분기·DLC 위치 확인"
+    }
+  ]
+}

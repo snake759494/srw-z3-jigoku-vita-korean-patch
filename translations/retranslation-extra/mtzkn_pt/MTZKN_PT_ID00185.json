@@ -1,0 +1,71 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00185",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00185/Sheet1/000002",
+      "sourceBindingSha256": "c0684b935ef55680fcb2e84c71df8848117a95c695232333d1d4a41d288eddae",
+      "sourceTextSha256": "fb9514318bc925c30754a6e3879fcb48deabb42b9489c2d723b0b20df56b3f8f",
+      "freshTranslation": "셰릴 놈",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00185/Sheet1/000003",
+      "sourceBindingSha256": "af8ed66f2c49a08232b24048842fa7b3586a5cfb42bd22d777eef2c1315bf1f6",
+      "sourceTextSha256": "ebce212725cb65e394551a50d03d555a85ea0ca264baf14a952592fe666bee65",
+      "freshTranslation": "셰릴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00185/Sheet1/000004",
+      "sourceBindingSha256": "eb7bb7dccc873e56a57bca3d000cade2ec3b8dcfcf4e354824ec5ddb110d3c79",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00185/Sheet1/000005",
+      "sourceBindingSha256": "5c165ce2df0c09681a9b6a122f7c7e815f06be379a75547a45230ba1310662eb",
+      "sourceTextSha256": "251d8eb92079bff816cf6040a7e575515f39b4c040e74609e9bf714c9500f497",
+      "freshTranslation": "마크로스 갤럭시 선단 출신의 초인기 아티스트. ㊥ 그 가성과 미모로부터 '은하의 요정'이라고 불리며, 은하 히트 차트에서는 항상 상위에 ㊥ 랭크인하고 있다. 쾌활하고 우울한 성격으로, 생각나면 즉시 행동하지 않고 있을 수 ㊥없는 행동파. 자부심이 높고 협조성이 부족한 면도 보이지만 항상 노력을 게을리하지 않는 ㊥ 향상 마음과 높은 프로 의식을 가지고 있다. ㊥ 성형 기술이나 기계를 몸에 묻는 임플란트 기술 등을 전혀 실시하지 않고, 그것도 ㊥ 인기의 원인이기도 하다. ㊥ 은하 횡단 투어의 최종 목적지로 마크로스 프론티어를 방문하여 라이브를 개최. ㊥ 거기서 알토와 랑카를 만난다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00185/Sheet1/000006",
+      "sourceBindingSha256": "ee40fb43b1b39a042012b8df9221ef9697cc0620111563012a3bd2b6364af251",
+      "sourceTextSha256": "251d8eb92079bff816cf6040a7e575515f39b4c040e74609e9bf714c9500f497",
+      "freshTranslation": "마크로스 갤럭시 선단 출신의 초인기 아티스트. ㊥ 그 가성과 미모로부터 '은하의 요정'이라고 불리며, 은하 히트 차트에서는 항상 상위에 ㊥ 랭크인하고 있다. 쾌활하고 우울한 성격으로, 생각나면 즉시 행동하지 않고 있을 수 ㊥없는 행동파. 자부심이 높고 협조성이 부족한 면도 보이지만 항상 노력을 게을리하지 않는 ㊥ 향상 마음과 높은 프로 의식을 가지고 있다. ㊥ 성형 기술이나 기계를 몸에 묻는 임플란트 기술 등을 전혀 실시하지 않고, 그것도 ㊥ 인기의 원인이기도 하다. ㊥ 은하 횡단 투어의 최종 목적지로 마크로스 프론티어를 방문하여 라이브를 개최. ㊥ 거기서 알토와 랑카를 만난다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00076",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00076/Sheet1/000002",
+      "sourceBindingSha256": "31e5b240de6a504c750a8e71b4f371165c87f9ec966de7cf6d676d643e1b5c8e",
+      "sourceTextSha256": "0b80962193993e62badf8a1ee71c50a7ca40ec4cb24f04c6ade947b25e7ffa20",
+      "freshTranslation": "신일본",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00076/Sheet1/000003",
+      "sourceBindingSha256": "fd9592d04602b765c4d4975c9e6275ccca693c60eb7ba0c9cf5a76bf176d795b",
+      "sourceTextSha256": "6591447bd23c8021b94b15c94572ad931924a5f176c496494f3a3c978bcb78f1",
+      "freshTranslation": "「오리지널」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00076/Sheet1/000004",
+      "sourceBindingSha256": "a45fe11c20455bdcb4e0bea87e484c2b8dc718a826d62ec5c50a6f997096be2c",
+      "sourceTextSha256": "183fb20ba442a849507b1b4efb21d7ca8fd14140d8e1f00342a0c160a5daaa76",
+      "freshTranslation": "두 개의 일본 열도 중 남쪽에 위치한 일본. ㊥ 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00076/Sheet1/000005",
+      "sourceBindingSha256": "05f7ee1a52948ca156035b1a45a0431f2b9c0d6ca3ae23dc81ff8fa91984f019",
+      "sourceTextSha256": "64aa07f145dbb4c98a46b33354884e9047388d72a706926f40b108330fcc97e6",
+      "freshTranslation": "니어 유니온의 식민지가 되어 한번은 '일본'의 이름을 빼앗겼지만, ㊥ 지구 연방의 재편에 따라 새롭게 '신일본'의 이름을 얻었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00076/Sheet1/000006",
+      "sourceBindingSha256": "3582d67590097bd95e2481f770a6e5973cc00dd5cf6741a671761985280abacd",
+      "sourceTextSha256": "183fb20ba442a849507b1b4efb21d7ca8fd14140d8e1f00342a0c160a5daaa76",
+      "freshTranslation": "두 개의 일본 열도 중 남쪽에 위치한 일본. ㊥ 부리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00076/Sheet1/000007",
+      "sourceBindingSha256": "c995cfa1dc17192d6f4edde91b7ed7d5a3d310e5f2e3b6290a962f136b3f2c57",
+      "sourceTextSha256": "64aa07f145dbb4c98a46b33354884e9047388d72a706926f40b108330fcc97e6",
+      "freshTranslation": "니어 유니온의 식민지가 되어 한번은 '일본'의 이름을 빼앗겼지만, ㊥ 지구 연방의 재편에 따라 새롭게 '신일본'의 이름을 얻었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

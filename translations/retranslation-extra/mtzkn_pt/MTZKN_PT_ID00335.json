@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00335",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00335/Sheet1/000002",
+      "sourceBindingSha256": "bf55db890e22e8ee6fcdafeffbadb675f11e0e731713d7406063020f7279eb23",
+      "sourceTextSha256": "d663f9e6122a7e064ef0a4044ce5261a00d15ef7fc998e74cc3669190b1195f0",
+      "freshTranslation": "노조미 · 마리 · 일러스트 리어스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00335/Sheet1/000003",
+      "sourceBindingSha256": "2abceefd82bfda1be01417c06336003b62d1d055881821ec5d9496b2d12186f4",
+      "sourceTextSha256": "23ccdd3018f3175c0ccb9326e47cc46602d0fd2d49cfed38ce4c18830b5fbcf7",
+      "freshTranslation": "말리",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00335/Sheet1/000004",
+      "sourceBindingSha256": "a9304a4084200c6ce72550e09f61c00084f94c018cf3d3a6c43d35fa1efc35f4",
+      "sourceTextSha256": "e60bee7d7787bf783bf61d2cc234a1b050c4e4c19b0b4ea66d86c75ad7a15b4c",
+      "freshTranslation": "에반게리온 신극장판 : 파",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00335/Sheet1/000005",
+      "sourceBindingSha256": "46edeb8700916b8a1bb99112e669da9b70dc115548c77ed1918ecb72478feaaa",
+      "sourceTextSha256": "f2aa70118596c9cce85187c4f4725c341a9cc964c1f652eb2051a19e1dd5555f",
+      "freshTranslation": "사카모토",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00335/Sheet1/000006",
+      "sourceBindingSha256": "33cedbea07ad4af549c76a280000f8d87997344bc7bf7a27ec4d49476121977a",
+      "sourceTextSha256": "dfbf3dbef76f05ccec128f83225e01249d95fe9bf4978ecd30d0e793ae56fac3",
+      "freshTranslation": "EVA 조종사. ㊥ 영국 출신으로, 특무기관 NERV의 유로지부에 소속된다. ㊥ 빨간 프레임 안경과 가끔 어미에 '냐'를 붙이는 말투가 특징. 라쿠텐적인 성격㊥이지만, 카지로부터는 「문제아」라고 말해지고 있다. ㊥ 베",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00335/Sheet1/000007",
+      "sourceBindingSha256": "391e54ce7cafbd7f8c6b6b84ce1a7ef21200c1b73c37f872e2a252d09c48efd5",
+      "sourceTextSha256": "7dc19628d50e4afdf45e3d749d27bd86b40de2bcd08833bdf6cf01029c0593e8",
+      "freshTranslation": "니어베이스에서는 EVA 가설 5호기를 타고 제3 사도와 싸우고 기체를 자폭시켜 ㊥하여 사도를 섬멸했다. ㊥ 후에 제3신도쿄시를 방문해 신지에 부착하고 있던 L. C. L. 의 나머지 향을 냄새 나누어㊥하거나, 그를 「NERV의 완코군」이라고 부르거나, 그 언동은 엑센트릭으로㊥수수께끼가 많다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00335/Sheet1/000008",
+      "sourceBindingSha256": "544c23829c49148b820f6f98bfa4f586d3a0908b46cad41558d65a08ad25a669",
+      "sourceTextSha256": "dfbf3dbef76f05ccec128f83225e01249d95fe9bf4978ecd30d0e793ae56fac3",
+      "freshTranslation": "EVA 조종사. ㊥ 영국 출신으로, 특무기관 NERV의 유로지부에 소속된다. ㊥ 빨간 프레임 안경과 가끔 어미에 '냐'를 붙이는 말투가 특징. 라쿠텐적인 성격㊥이지만, 카지로부터는 「문제아」라고 말해지고 있다. ㊥ 베",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00335/Sheet1/000009",
+      "sourceBindingSha256": "f0945be165e9f8334e139388bd6255f3e884cc9df3586f123e63eeca7ffaa216",
+      "sourceTextSha256": "7dc19628d50e4afdf45e3d749d27bd86b40de2bcd08833bdf6cf01029c0593e8",
+      "freshTranslation": "니어베이스에서는 EVA 가설 5호기를 타고 제3 사도와 싸우고 기체를 자폭시켜 ㊥하여 사도를 섬멸했다. ㊥ 후에 제3신도쿄시를 방문해 신지에 부착하고 있던 L. C. L. 의 나머지 향을 냄새 나누어㊥하거나, 그를 「NERV의 완코군」이라고 부르거나, 그 언동은 엑센트릭으로㊥수수께끼가 많다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

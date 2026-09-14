@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00001",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00001/Sheet1/000002",
+      "sourceBindingSha256": "6e5f20ce42ffa6edb597cfbbdfd55c4a4972f9997a5275021f14d3905fc74d86",
+      "sourceTextSha256": "f33ccd88c39f98d879a2065c346c8d5160da9507bf4e1f0cf75b0d2201994222",
+      "freshTranslation": "감 코지 매실 마로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00001/Sheet1/000003",
+      "sourceBindingSha256": "5796ceddb25aa40f6b56c5aaea1012f5f79360ed5f45f6a9d928e24ab6b6a817",
+      "sourceTextSha256": "938f70355a57ce58d607b309a4e407b1168931c603ae2c126e7d5442f761263b",
+      "freshTranslation": "감코지",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00001/Sheet1/000004",
+      "sourceBindingSha256": "65f09394527258d2e6059096e1cdc409806363a43cd8bfdc7c12344281af665f",
+      "sourceTextSha256": "77c406ff1c1b9634902fdd15ec771c2a07e20db9f0a6b53196dbf872ebd5aa4c",
+      "freshTranslation": "무적 로보 트라이더 G7",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00001/Sheet1/000005",
+      "sourceBindingSha256": "f96a17aa8c16071ff005a6c1908eff555d6bc7616c537eeb6d7aac0f7e8edb03",
+      "sourceTextSha256": "caa49d73099163f26eb24a20d9ee64c7a0c075c88b8cd007684e115882850f02",
+      "freshTranslation": "나가이 이치로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00001/Sheet1/000006",
+      "sourceBindingSha256": "e295265b97ac73dac918647642d5a2e3803ca24b49efaad57e944ada8afedb68",
+      "sourceTextSha256": "6fef97b3315cd414623dcae7d83597b02f7b4867b34207d499b4cbba3577c938",
+      "freshTranslation": "다케오 제너럴 컴퍼니의 전무. 64세. ㊥ 사장이 초등학생이라고 하는 입장에서, 연장자인 일과 그 직책상, 회사의 얼굴역을 맡아 ㊥ 있다. 또, 항상 주판으로 경비나 수지의 계산을 빠뜨리지 않는 금고번이기도 하다. ㊥회사에서 업무를 마친 뒤 야근 아르바이트를 해 아이들에게 선물대를 벌어 ㊥하려고 한 일도 있어, 회사에서나 가정에서도 금전면에서 고생하고 있었다. ㊥ 일의 의뢰가 들어갔을 때에 와타를 자전거로 맞이하러 가는 모습도 자주 볼 수 있어, 와타가 수㊥ 업중일 것이라고 산중에 가려고 상관없이 나타났다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00001/Sheet1/000007",
+      "sourceBindingSha256": "4b2db85b3d1250d3d365f1699b5da04c01e9a0122a330a14c95fd010cec8f408",
+      "sourceTextSha256": "6fef97b3315cd414623dcae7d83597b02f7b4867b34207d499b4cbba3577c938",
+      "freshTranslation": "다케오 제너럴 컴퍼니의 전무. 64세. ㊥ 사장이 초등학생이라고 하는 입장에서, 연장자인 일과 그 직책상, 회사의 얼굴역을 맡아 ㊥ 있다. 또, 항상 주판으로 경비나 수지의 계산을 빠뜨리지 않는 금고번이기도 하다. ㊥회사에서 업무를 마친 뒤 야근 아르바이트를 해 아이들에게 선물대를 벌어 ㊥하려고 한 일도 있어, 회사에서나 가정에서도 금전면에서 고생하고 있었다. ㊥ 일의 의뢰가 들어갔을 때에 와타를 자전거로 맞이하러 가는 모습도 자주 볼 수 있어, 와타가 수㊥ 업중일 것이라고 산중에 가려고 상관없이 나타났다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00367",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00367/Sheet1/000002",
+      "sourceBindingSha256": "3887431a8d8bf10d2c28b3b3da0f245837bfe7211f7a62ca7c33d7b9f02645de",
+      "sourceTextSha256": "f622210c84980dca5c399dedea91967257fbf7bb2a90aa0204b4c34d51610e29",
+      "freshTranslation": "미코노 스즈시로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00367/Sheet1/000003",
+      "sourceBindingSha256": "0739217231850ee70336c0c8ebe65ab0d0dee4a6f6680847fc621f430822ec11",
+      "sourceTextSha256": "50ed163452aa7c918c13cd7a34d1127d9206f817e8d561c83719af230cec2266",
+      "freshTranslation": "미코노",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00367/Sheet1/000004",
+      "sourceBindingSha256": "31a31b2c0d6eb9fb0c0a0341fe9701b001efdd168ab92641b5647f1d7c5d63a5",
+      "sourceTextSha256": "86faa92014fbbab50c3c7a38b31d88ee101bab67557faa958db78669a32a023e",
+      "freshTranslation": "아쿠에리온 EVOL",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00367/Sheet1/000005",
+      "sourceBindingSha256": "ad2444a5dc538598ef086994e46ad7490569dbd93aacdca1184f6a2dafc5fe1c",
+      "sourceTextSha256": "791cd5fd5f7d02e79ec17674236bce2e5285a581d2d60fb85653338303c190a4",
+      "freshTranslation": "지노 아이",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00367/Sheet1/000006",
+      "sourceBindingSha256": "e75de3844b95da8c8b1362bf500a83acc66326d90f91bb3ca45e9b590b6c76a1",
+      "sourceTextSha256": "482c0d1273fa545eb9fab43f3184648d8b932817ad347b0ff4301d5bef589875",
+      "freshTranslation": "네오디바의 요소 후보생. ㊥ 영화 '수족관이 춤추는 하늘'을 본 영화관에서 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00367/Sheet1/000007",
+      "sourceBindingSha256": "da63f509fe14f3b90a28af24c364df4b79dffcce11a639c44a1e7bcf36f47561",
+      "sourceTextSha256": "670417d1ee4eb97371e69b1ab68d6620358f4c9e67ac1d1f1515460616041882",
+      "freshTranslation": "와 만난다. ㊥ 평소는 밝고 온화한 성격이지만, 부모님으로부터 우수한 형 카이엔과 비교해 계속해서 육㊥했기 때문에, 자신에게 자신이 가지지 않는 면이 있다. ㊥ 노력가이지만 요령이 나쁘고, 한 걸음을 내디뎠 수 없다. 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00367/Sheet1/000008",
+      "sourceBindingSha256": "de58a4b796a93bace92f2f7da25049c7611b2035f424fb9ba7b11de1b0d44962",
+      "sourceTextSha256": "fe977f34b70dcff4bbb76ff7dcd9c90fe791802bda9a10511db03c855fb1a11f",
+      "freshTranslation": "와 성격이 비슷하기 때문에 ㊥ 서로를 '할 수 없는끼리'라고 부르기도 한다. ㊥ 특별한 요소 능력이 없기 때문에 컴플렉스입니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00367/Sheet1/000009",
+      "sourceBindingSha256": "6bbfea3cea9c8467e56102db08bd5407914b57641ff55b0344da6a43abd9a7fe",
+      "sourceTextSha256": "482c0d1273fa545eb9fab43f3184648d8b932817ad347b0ff4301d5bef589875",
+      "freshTranslation": "네오디바의 요소 후보생. ㊥ 영화 '수족관이 춤추는 하늘'을 본 영화관에서 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00367/Sheet1/000010",
+      "sourceBindingSha256": "3df169d18e51e6a807435d2705fb78aaaa791da292080ba8b5c9e719ed33bdf2",
+      "sourceTextSha256": "670417d1ee4eb97371e69b1ab68d6620358f4c9e67ac1d1f1515460616041882",
+      "freshTranslation": "와 만난다. ㊥ 평소는 밝고 온화한 성격이지만, 부모님으로부터 우수한 형 카이엔과 비교해 계속해서 육㊥했기 때문에, 자신에게 자신이 가지지 않는 면이 있다. ㊥ 노력가이지만 요령이 나쁘고, 한 걸음을 내디뎠 수 없다. 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00367/Sheet1/000011",
+      "sourceBindingSha256": "4d5429f5ec2691fdfcb7b044201bc9099f23ab1dbfcecbc34d531954140e5be6",
+      "sourceTextSha256": "05d583fea2a6ed18c16e2e7603d8760d6cc566436c74c39c3e674fb685d1b1c4",
+      "freshTranslation": "와 성격이 비슷하기 때문에 ㊥ 서로를 '할 수 없는끼리'라고 부르기도 한다. ㊥ 특별한 요소 능력이 없기 때문에 컴플렉스가되었습니다. ㊥ 그러나, 그녀의 능력은 측정기로 측정할 수 없는 특수한 능력 \"연결하는 힘\"이며, 다른 ㊥ 엘리먼트들의 능력·감각을 공유해, 증폭할 수 있다고 한다",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00367/Sheet1/000012",
+      "sourceBindingSha256": "8e7c5c477f250afa54177dc83ffc5b857155813c8b76eef73e48e211bc3f03f2",
+      "sourceTextSha256": "fd5fc94d9e8019752b8540ddcc9150db02659c8e1fa9a93868def881d8531000",
+      "freshTranslation": "입의 것입니다 ㊥했다. ㊥1만2000년 전 실비아의 환생한 모습이며, 아폴로의 환생체인 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00367/Sheet1/000013",
+      "sourceBindingSha256": "562974a9f07dc1a7b2fe867cd8760dd2e000d3d8c4849040f7fc33dbcf0cb10b",
+      "sourceTextSha256": "edee0e14d7ae1b59b0324d945083ca3f78011bb5aec7a806e683e942c7e110c4",
+      "freshTranslation": "라고 카구라로부터 마음을 전해져 그 틈에서 과거로부터 계속되는 기억에 고뇌했다. ㊥ 미카게의 마음의 미궁에 잡히고 있었을 때, 미카게의 아폴로니아스에의 마음의 깊이를 알고 ㊥는, 그 슬픔을 받아들이려고 하는 것도, 미카게에 의해 거절된다. ㊥ 미카게에게 잡힌 자신을 구하기 위해 혼자 돌격해 온 아마",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00367/Sheet1/000014",
+      "sourceBindingSha256": "17aeeeca1274fef12641749f6dc4fa0963703bfca3bf452f1d44f0c55be60682",
+      "sourceTextSha256": "598698f0bd5001d656ca1be50dc4ec23dd5a4b44e13c505b40754305adae2c8c",
+      "freshTranslation": "이와 함께 두 사람의 사랑㊥으로 아쿠에리온 LOVE를 완성시켜 세계를 구했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

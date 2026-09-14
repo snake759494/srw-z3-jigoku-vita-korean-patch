@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00117",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00117/Sheet1/000002",
+      "sourceBindingSha256": "d9f45f0b994357ce5106f22dce544c6622b5aff6a88c3750784ad4e8fe684d1b",
+      "sourceTextSha256": "a28c0beb14b40990d5b89cdbbe170ef5580fb4af07b7421c3328dfd41c471acc",
+      "freshTranslation": "유니우스 세븐",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00117/Sheet1/000003",
+      "sourceBindingSha256": "714211bedf7fbbe8c0047fa34ace6d0f05da24259c1790df2fdda49b40a241d3",
+      "sourceTextSha256": "46972028b0d87190e9d5bc75048d5bd3819834caf71211a163e3d40415fa49f0",
+      "freshTranslation": "「기동전사 건담 SEEDDESTINY」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00117/Sheet1/000004",
+      "sourceBindingSha256": "30d69cd079de697c3faf84ed98b18002ef993426932f11cf9c26f5c9f75beb85",
+      "sourceTextSha256": "8e20d5f2f15673b99b47f1350a3c0b09b1f7e6e947e026b4f68d74b43cc9e3e7",
+      "freshTranslation": "플랜트에 소속된 농업 콜로니. ㊥ 지구 연합군이 플랜트에 선전 포고했을 때, 최초의 공격 목표가 되어 핵미사일㊥에 의해 20만명 이상의 주민과 함께 괴멸했다. 이 사건은 \"피의 발렌",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00117/Sheet1/000005",
+      "sourceBindingSha256": "a4bb3d7feaa1e37398d3a8d8a5eebd0f09913a740e307cb8b9c7fc49f9dbf7b1",
+      "sourceTextSha256": "5ea554e28fae79991d3ae12234c87fd08d06d551c935d0b7c5b271adfe421bea",
+      "freshTranslation": "인 '㊥'이라 불리며 비극으로 전해지고 있다. ㊥ 후에 자연에 대한 보복으로 테러리스트의 손에 의해 유니우스 세븐의 잔 ㊥해를 지구에 낙하시키는 작전이 결행되었다. 자프트의 노력으로 낙하 전에 파쇄㊥는 성공했지만, 섬세한 파편은 지구에 낙하하여 큰 피해를 낳았다. ㊥ 이 혼란 속에서 지구 연합과 플랜트는 다시 전쟁에 돌입했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00117/Sheet1/000006",
+      "sourceBindingSha256": "236ea976563d8bcac1db5c94a7077f8aa98166f324b2d77f77ea133173576149",
+      "sourceTextSha256": "8e20d5f2f15673b99b47f1350a3c0b09b1f7e6e947e026b4f68d74b43cc9e3e7",
+      "freshTranslation": "플랜트에 소속된 농업 콜로니. ㊥ 지구 연합군이 플랜트에 선전 포고했을 때, 최초의 공격 목표가 되어 핵미사일㊥에 의해 20만명 이상의 주민과 함께 괴멸했다. 이 사건은 \"피의 발렌",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00117/Sheet1/000007",
+      "sourceBindingSha256": "7bda2ee59049f4583cf07bd8b113e9b753fa02e5ff0cff855262373ec692b6e8",
+      "sourceTextSha256": "fd6d7ad37182c86ca8d5497c3586b58568acc06daec0ce9ac3ecf392bad20606",
+      "freshTranslation": "인 \"㊥\"이라고 불리는 일이되었다. ㊥ 후에 자연에 대한 보복으로 테러리스트의 손에 의해 유니우스 세븐의 잔 ㊥해를 지구에 낙하시키는 작전이 결행되었다. 자프트의 노력으로 낙하 전에 파쇄㊥는 성공했지만, 섬세한 파편은 지구에 낙하하여 큰 피해를 낳았다. ㊥ 이 혼란 속에서 지구 연합과 플랜트는 다시 전쟁에 돌입했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

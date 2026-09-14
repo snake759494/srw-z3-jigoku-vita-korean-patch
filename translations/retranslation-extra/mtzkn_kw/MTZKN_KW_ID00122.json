@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_kw",
+  "assetKey": "MTZKN_KW_ID00122",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_KW_ID00122/Sheet1/000002",
+      "sourceBindingSha256": "79976a146db956eebb3efb0faed3d679115f61b773041987ee5d8747454c6758",
+      "sourceTextSha256": "33c93229f104e9e1fe948934165b78daf6ea3afd31339f61c669fbe339d9be99",
+      "freshTranslation": "안티 스파이럴",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00122/Sheet1/000003",
+      "sourceBindingSha256": "123d73f649f4be404675f7350f454bfe6906f4e2006b6a68b691156f4e525bd4",
+      "sourceTextSha256": "65b1dc575399cb6ead61f7fb93ae86262455c6594357091396e5fb3d0013cf2e",
+      "freshTranslation": "「천원돌파 글렌 라간」",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00122/Sheet1/000004",
+      "sourceBindingSha256": "f67fca0cc132fe5b75eb32eb0099e5cd6d03206d197fbb5416946715bc0eef23",
+      "sourceTextSha256": "f92fc312e68f400994299b8c9eec4747f3930426023a1b0c623dcd3433e4bb5c",
+      "freshTranslation": "나선력을 가진 모든 생물을 근절하게 하는 존재. ㊥ 니어를 메신저로 인류에게 절망",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00122/Sheet1/000005",
+      "sourceBindingSha256": "f3e2ea40bbc6d11bdc5ddf32646a1b3061493673b083b441b1cc53eeb8383299",
+      "sourceTextSha256": "d4942a513cb4eb53236748f65fd2781c39b3c72c28c4c06d274ab633e52d62d2",
+      "freshTranslation": "하는 것을 선언해 달을 지구에 ㊥ 낙하시키려고 했지만, 시몬들의 활약에 의해, 계획을 저지되었다. ㊥ 그 전모",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00122/Sheet1/000006",
+      "sourceBindingSha256": "1bfcf1f806644f3baabf238598de0bc8b017a09e4da2bc544093f48349820b75",
+      "sourceTextSha256": "3fe24ee7737d71e7d67ce2cd3827f58c5e6b89cd7550d311ab12b3021d29e9ac",
+      "freshTranslation": "의등은 수수께끼에 싸여 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00122/Sheet1/000007",
+      "sourceBindingSha256": "ea509f104dd27205e2721e79d1a4eb6660dbceb4ef6ca9ac7584de2a25e4eef7",
+      "sourceTextSha256": "f92fc312e68f400994299b8c9eec4747f3930426023a1b0c623dcd3433e4bb5c",
+      "freshTranslation": "나선력을 가진 모든 생물을 근절하게 하는 존재. ㊥ 니어를 메신저로 인류에게 절망",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_KW_ID00122/Sheet1/000008",
+      "sourceBindingSha256": "289e09eb4564871789d40d4e729f7e33bad72bd67e6d045daf764929d231edb5",
+      "sourceTextSha256": "3818788a92f6b2a3d70c15a33416d0f6f6a1f671d6168db9bdac649a94cd33bf",
+      "freshTranslation": "하는 것을 선언해 달을 지구에 ㊥ 낙하시키려고 했지만, 시몬들의 활약에 의해, 계획을 저지되었다. ㊥ 그 후, 격절 우주에서 시몬들과 직접 대결하는 것도 패해, 우주의 미래를 그 ㊥ 등에 맡겼다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

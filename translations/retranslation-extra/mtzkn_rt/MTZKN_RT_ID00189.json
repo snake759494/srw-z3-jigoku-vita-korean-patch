@@ -1,0 +1,181 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00189",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00189/Sheet1/000002",
+      "sourceBindingSha256": "fe1da5b87105ec771c38363ff9b5412e67ea318c9445a60a44c209b407bbb3f8",
+      "sourceTextSha256": "118ec763d500273ed5e4c4e43017752efdd75b8c4a9a6723e0840a9673bdfd44",
+      "freshTranslation": "풀메",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00189/Sheet1/000003",
+      "sourceBindingSha256": "aba116af14da029518f22dc42e90166c5e4df1e5b65044e1adac0b16bea5ddf4",
+      "sourceTextSha256": "6cbead29f5f3666f5882c4fd6c0d7e56e8208850dd34efe1c72cd7834907e4e2",
+      "freshTranslation": "르 패닉! TheSecondRaid",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00189/Sheet1/000004",
+      "sourceBindingSha256": "936826c96894a9c3c2e5ad44183fd0efa098d48ef6a742641a54fce6df470396",
+      "sourceTextSha256": "2254d1c3c05b4f447516556a085bf7f560fe8a2e6af5baeecc0e06cdf9cdc558",
+      "freshTranslation": "Zy-98 그림자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00189/Sheet1/000005",
+      "sourceBindingSha256": "5230a5b07ed6cd6b60d4cfd97ab91face90cb724fd48822552b22350a1ea44fc",
+      "sourceTextSha256": "2254d1c3c05b4f447516556a085bf7f560fe8a2e6af5baeecc0e06cdf9cdc558",
+      "freshTranslation": "Zy-98 그림자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00189/Sheet1/000006",
+      "sourceBindingSha256": "a342a5749d39d6c7227f19c109462c98be5c490e7b1efdef295295f471ac9cd1",
+      "sourceTextSha256": "c1f67305032260a9558d27c2d0ee453a33a10dffce5e9a524d96c26d6dd4df4c",
+      "freshTranslation": "나츠타마 요시히로",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00189/Sheet1/000007",
+      "sourceBindingSha256": "3b0011200c98ef445de985787c10df5ee1855a13343f94e4dec54bae68f42ac6",
+      "sourceTextSha256": "2f213068230d8ab3affb11f7cbf7e1bc3cd58825459bc6911a1d87e02e5443c5",
+      "freshTranslation": "동쪽이 시험중인 3세대 AS. ㊥ 이 버전은 타마요시가 탑승한 것. ㊥ 서쪽 주력 AS의 M9와 동일한 팔라듐 리악",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00189/Sheet1/000008",
+      "sourceBindingSha256": "c973918da0329bd35ad8dbf5df598177590412bef7dbf682e776511b7bc50d58",
+      "sourceTextSha256": "1cc4d8db7f9f1c6dc56ffd9bc45171b63fde76659aea1b8b4f20c5d7a3700199",
+      "freshTranslation": "-를 탑재. 기본 성능은 M9에 필적 ㊥ 하지만, 전자 무장은 지연을 취하고 있다고 되어 있다. ㊥ 주요 무장은 35mm 소총과 단분자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00189/Sheet1/000009",
+      "sourceBindingSha256": "ca0b6a651816aea1652f3297dfa0b78fcb2abc67d353f1299577a5384c361a35",
+      "sourceTextSha256": "260005d7ca5a1d0c8378bfb83ef06d679c79df0098857287adc4df7888146fdd",
+      "freshTranslation": "- 등으로 고정 무기로서 와이어가㊥이 있다. 또, 건 모드로 전환하는 것으로 사격도 가능한 복합",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00189/Sheet1/000010",
+      "sourceBindingSha256": "29bd1ca0fe1819cfa1e59a3c27d2413da39a955095fef9c77ae38a74f8fe898b",
+      "sourceTextSha256": "764e6e5cbc3f08732fb885123470919694ba041c2a42e8691ea4b5bd6336ced0",
+      "freshTranslation": "단분자 컷",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00189/Sheet1/000011",
+      "sourceBindingSha256": "f43cdf4e39df4b08b629c8b7f73b1f6eea90feb5d0a09e7f3e51e35aa1fc950b",
+      "sourceTextSha256": "5b4b9a275e5ac7332582088d1bcc10a05e887b9d18ad2f4e7a14a20ff23567e9",
+      "freshTranslation": "-㊥을 장비해, 타마요시는 그것을 2도류로 사용해 크루츠의 M9를 궁지에 몰아넣었다. ㊥ 게이츠와 마레스 대령과의 회담 시에는 차세대 ECS를 사용하여 불가시 모드로 잠복. ㊥ 미스트랄 Ⅱ 등을 파괴했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00189/Sheet1/000012",
+      "sourceBindingSha256": "161d82f57c6a97cb655f3d36af85bb77dbb11928d3a6c9b503f98d85b11fbc59",
+      "sourceTextSha256": "2f213068230d8ab3affb11f7cbf7e1bc3cd58825459bc6911a1d87e02e5443c5",
+      "freshTranslation": "동쪽이 시험중인 3세대 AS. ㊥ 이 버전은 타마요시가 탑승한 것. ㊥ 서쪽 주력 AS의 M9와 동일한 팔라듐 리악",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00189/Sheet1/000013",
+      "sourceBindingSha256": "5d0b601c42cf52ade484ff7262c7d8cf0ea66f67dadde1b52061f21d0972b3be",
+      "sourceTextSha256": "1cc4d8db7f9f1c6dc56ffd9bc45171b63fde76659aea1b8b4f20c5d7a3700199",
+      "freshTranslation": "-를 탑재. 기본 성능은 M9에 필적 ㊥ 하지만, 전자 무장은 지연을 취하고 있다고 되어 있다. ㊥ 주요 무장은 35mm 소총과 단분자",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00189/Sheet1/000014",
+      "sourceBindingSha256": "edf914785b4a00b5fdc95dfc8032e93f10818c9b3b0e88f53b88fc238fca629c",
+      "sourceTextSha256": "260005d7ca5a1d0c8378bfb83ef06d679c79df0098857287adc4df7888146fdd",
+      "freshTranslation": "- 등으로 고정 무기로서 와이어가㊥이 있다. 또, 건 모드로 전환하는 것으로 사격도 가능한 복합",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00189/Sheet1/000015",
+      "sourceBindingSha256": "3fd271a7f620487bddc62bcc81095a1410893e4ff46fa8790d8dd2e217044bc9",
+      "sourceTextSha256": "764e6e5cbc3f08732fb885123470919694ba041c2a42e8691ea4b5bd6336ced0",
+      "freshTranslation": "단분자 컷",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00189/Sheet1/000016",
+      "sourceBindingSha256": "19b449773ce613ea78135b63e21ed2e3182b7a3be496ac3715bef2bd1279f684",
+      "sourceTextSha256": "5b4b9a275e5ac7332582088d1bcc10a05e887b9d18ad2f4e7a14a20ff23567e9",
+      "freshTranslation": "-㊥을 장비해, 타마요시는 그것을 2도류로 사용해 크루츠의 M9를 궁지에 몰아넣었다. ㊥ 게이츠와 마레스 대령과의 회담 시에는 차세대 ECS를 사용하여 불가시 모드로 잠복. ㊥ 미스트랄 Ⅱ 등을 파괴했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

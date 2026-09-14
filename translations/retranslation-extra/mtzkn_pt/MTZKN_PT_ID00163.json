@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00163",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00163/Sheet1/000002",
+      "sourceBindingSha256": "9dd23a21e0088c55ea75dfc4ccf73f042953783a71169ef98d3cac1ae33ac9db",
+      "sourceTextSha256": "5f8d73d15e9aac6a178417e0ff8c2fb039bf1dce23b4f7446289e9ec813e63e9",
+      "freshTranslation": "로난 마르세나스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00163/Sheet1/000003",
+      "sourceBindingSha256": "fdade39fe8298feed6befdbf3c137f671974366ce3d95f2aa6d66b03ed4a2ca3",
+      "sourceTextSha256": "79e507f2b6e601d67fc915f489ce6cd9fe001f88ceae6d713358e9ad4c91c71c",
+      "freshTranslation": "로난",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00163/Sheet1/000004",
+      "sourceBindingSha256": "ba5be7424e76d17615c56f60e71371a80e6e3bcbbe0667f1db50401cf425f9c7",
+      "sourceTextSha256": "ee88fdb7badfe42c996b4805484176a7f1a1476283cec341441515730b9e34be",
+      "freshTranslation": "기동전사 건담 UC",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00163/Sheet1/000005",
+      "sourceBindingSha256": "7b11a8df3afa712f0b5f1e61b31705b5157c3e18be6b7c6af0dbde563b8261f9",
+      "sourceTextSha256": "3684108626843477fe79a064f97095d68620d3854c295285e7a56877779a2326",
+      "freshTranslation": "지구 연방 정부 중앙 의회 의원. 52세. ㊥ 리디 마세나스의 아버지이자 지구 연방 초대 총리 리카르도 마세나스의 후손으로 ㊥ 그림자의 내각이라고도 불리는 이민 문제 평의회의 의장을 맡는 권력자. ㊥ \"라플라스의 상자\"의 비밀을 잡는 몇 안되는 사람. ㊥ 오드리를 익히기 위해 돌아온 리디에게 상자 내용물과",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00163/Sheet1/000006",
+      "sourceBindingSha256": "15e8a52080717445c554340740f6ba1b400d6ce5a8120fc5d716c1610b614f7f",
+      "sourceTextSha256": "38c96d2fa437db48953ba8a1e5a337ad2f799a3ff23b717d5bc3b408c17507d1",
+      "freshTranslation": "열매를 전하고 마르세나스㊥집의 비밀을 밝힌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00163/Sheet1/000007",
+      "sourceBindingSha256": "8db452a7c5ba456564ac9da2ceb1e982753fa8b510db28d42069daaf947577f5",
+      "sourceTextSha256": "3684108626843477fe79a064f97095d68620d3854c295285e7a56877779a2326",
+      "freshTranslation": "지구 연방 정부 중앙 의회 의원. 52세. ㊥ 리디 마세나스의 아버지이자 지구 연방 초대 총리 리카르도 마세나스의 후손으로 ㊥ 그림자의 내각이라고도 불리는 이민 문제 평의회의 의장을 맡는 권력자. ㊥ \"라플라스의 상자\"의 비밀을 잡는 몇 안되는 사람. ㊥ 오드리를 익히기 위해 돌아온 리디에게 상자 내용물과",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00163/Sheet1/000008",
+      "sourceBindingSha256": "e9ac8592c40fb11d406335cb70d5ba393c87eb00b44eee35a23b3a6bda1ec736",
+      "sourceTextSha256": "38c96d2fa437db48953ba8a1e5a337ad2f799a3ff23b717d5bc3b408c17507d1",
+      "freshTranslation": "열매를 전하고 마르세나스㊥집의 비밀을 밝힌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00099",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00099/Sheet1/000002",
+      "sourceBindingSha256": "17d64ddb6f87d8a424f6c48c0443a564ecb84b59f43d2f336a3067732009e240",
+      "sourceTextSha256": "d27b74528a9390bd1683196ee0c4a1a55984889e3667db26b05bfc2488d165c4",
+      "freshTranslation": "이자크 줄",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00099/Sheet1/000003",
+      "sourceBindingSha256": "83ae74f31098625b646a9bc807f5fb31bd9c4d0dacd26023d82ddc43ed92eb4a",
+      "sourceTextSha256": "0d2edc01faf3c6421a33ab0a1e5bf68ce0134b806fb1078c8ff12ce78f30da23",
+      "freshTranslation": "이자크",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00099/Sheet1/000004",
+      "sourceBindingSha256": "07b3baccecbb1cec40e456a90edf9b831cd3a22d8d6ea18806f8b6e1d761c42f",
+      "sourceTextSha256": "15a2e664e80fef55f49873f69b656b86b230b630d2bdafde619513e324977069",
+      "freshTranslation": "기동전사 건담 SEEDDESTINY",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00099/Sheet1/000005",
+      "sourceBindingSha256": "b7dd6057f458f93afb93826b28279cca3f68aa3c9b8b9b84564c6058f095bcba",
+      "sourceTextSha256": "3bad4101f586035bd57bd056a9ce42fb4390966e13a8e109e09b8d9846d2faff",
+      "freshTranslation": "자프트의 줄 대장. 19세. ㊥ 전 대전 때 마지막 마지막에 아크 천사와",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00099/Sheet1/000006",
+      "sourceBindingSha256": "2b285115a2b4c61d071b12405a21d47f12ef3127d402a6e9f57a5b459c866a79",
+      "sourceTextSha256": "3a17842f50cffb5c17fa7ca4da387b8e3d9fefcd56635c6fbab55bed2377890d",
+      "freshTranslation": "너와 협력하고 함께 전쟁 끝㊥결의 원인이 되었다.㊥종전 후, 듀란달의 조력도 있어 자프트에 복귀해, 그 재능으로부터 젊어서 일부㊥대의 대장이라는 입장에 들어간다. 풍부한 전투 경험을 살린 부대의 지휘 능력과 전투에서㊥의 실력은 일급품. 미네르바와의 협력에 의한 유니우스 세븐의 낙하 방지, 지구 연합군의㊥일방적인 공격으로부터의 플랜트 방어, 플랜트가 레퀴엠의 목표가 되었을 때의 빔㊥편향 스테이션 파괴 작업 (이것은 실패로 끝나지만)과 우주를 무대로 폭넓게 활약㊥했다.㊥아슬란과의 재회시에는 복대를 강력히 권하는 등 한때 고집했던 사소한 대항㊥진심으로 해방된 성장한 모습을 보이고 있다.㊥오브 대 플랜트의 최종 결전 때, 적대하는 친구와 자신의 입장과의 판 가위㊥그런 상황에 다시 서 있다. 그러나 레퀴엠이나 네오제네시스라는 대량파괴병㊥그릇을 사용하는 듀란달에 반발해 다시 키라들에게 협력했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00099/Sheet1/000007",
+      "sourceBindingSha256": "864a65d3871bbd89c6a7e36d58eddd66a70daed7c1952f8871fcfabb506c837c",
+      "sourceTextSha256": "3bad4101f586035bd57bd056a9ce42fb4390966e13a8e109e09b8d9846d2faff",
+      "freshTranslation": "자프트의 줄 대장. 19세. ㊥ 전 대전 때 마지막 마지막에 아크 천사와",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00099/Sheet1/000008",
+      "sourceBindingSha256": "ce45f89049612539f61a3005c6085dad58e3532208bd1fe3341457241d96c5c5",
+      "sourceTextSha256": "3a17842f50cffb5c17fa7ca4da387b8e3d9fefcd56635c6fbab55bed2377890d",
+      "freshTranslation": "너와 협력하고 함께 전쟁 끝㊥결의 원인이 되었다.㊥종전 후, 듀란달의 조력도 있어 자프트에 복귀해, 그 재능으로부터 젊어서 일부㊥대의 대장이라는 입장에 들어간다. 풍부한 전투 경험을 살린 부대의 지휘 능력과 전투에서㊥의 실력은 일급품. 미네르바와의 협력에 의한 유니우스 세븐의 낙하 방지, 지구 연합군의㊥일방적인 공격으로부터의 플랜트 방어, 플랜트가 레퀴엠의 목표가 되었을 때의 빔㊥편향 스테이션 파괴 작업 (이것은 실패로 끝나지만)과 우주를 무대로 폭넓게 활약㊥했다.㊥아슬란과의 재회시에는 복대를 강력히 권하는 등 한때 고집했던 사소한 대항㊥진심으로 해방된 성장한 모습을 보이고 있다.㊥오브 대 플랜트의 최종 결전 때, 적대하는 친구와 자신의 입장과의 판 가위㊥그런 상황에 다시 서 있다. 그러나 레퀴엠이나 네오제네시스라는 대량파괴병㊥그릇을 사용하는 듀란달에 반발해 다시 키라들에게 협력했다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안); Codex 제어 토큰 단위 재번역",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조; 제어 토큰 사이 일본어 조각을 분리해 원문 기준 재번역"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00173",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00173/Sheet1/000002",
+      "sourceBindingSha256": "81804cc3cc673847f822b9b72c49e6878c2fe2141a2c2b86a1821f6ef8e56fdb",
+      "sourceTextSha256": "6b4037014479cf350799766a08a71e2941083e49e08ab4b4f63679b64d1f0e35",
+      "freshTranslation": "루카 안젤로니",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00173/Sheet1/000003",
+      "sourceBindingSha256": "c00536a5e63467f787e310bfec995e2d239543cd4f703d54757679776e9282cf",
+      "sourceTextSha256": "f4c56edde4ad6890f9fa91c875481829ff0c2c95aecbf70c984274a992803cc7",
+      "freshTranslation": "루카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00173/Sheet1/000004",
+      "sourceBindingSha256": "d84204c0e2b2ff9cbac679f8b01eb0392dc310df0f535593b9683be6e81ec296",
+      "sourceTextSha256": "8dd7b54592fed1a2247473c4407489572e5f28f82f6414e6e42529e38d144013",
+      "freshTranslation": "극장판 마크로스 F～사요나라노츠바사～",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00173/Sheet1/000005",
+      "sourceBindingSha256": "70a6dcda3e89924566803b3dd7511901e61d0eb84d0dca183afd11b6dbdf45b7",
+      "sourceTextSha256": "4e5c40f4612f8cb39098ea5b8f42165019d576bff15ac90687911ad6c22696f8",
+      "freshTranslation": "후쿠야마 준",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00173/Sheet1/000006",
+      "sourceBindingSha256": "90f92b502b50de5cc621f175847b8f3ee56f2713f0d784752e25d762a8a3e5f2",
+      "sourceTextSha256": "f9c053ed61161574acca66afd68ac9158168a7bfbaf225be4cffb097e915fd72",
+      "freshTranslation": "S. M. S스컬 소대의 대원. 계급은 준위. 15세. ㊥ 평상시는 미성학원에 다니고 있어, 알토나 미셸의 1년 후배. ㊥ 성격은 온화하고, 충돌하기 쉬운 알토와 미셸의 완충역을 맡는다. 친가는 하이테크㊥기업L. A. I사에서, 오조지인 동시에 기술 고문을 맡아, 메카나 전자 기기에 정통㊥하고 있다. ㊥ 출격 시 RVF-25에 탑승. 고도의 전자전이나 원격 전투 등을 행한다. ㊥ 게다가 줄리아라는 누나가 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00173/Sheet1/000007",
+      "sourceBindingSha256": "268d326739fa8ad1630c4e771afbacac5a7d330fd7ad9e8d6027a721279de0ea",
+      "sourceTextSha256": "f9c053ed61161574acca66afd68ac9158168a7bfbaf225be4cffb097e915fd72",
+      "freshTranslation": "S. M. S스컬 소대의 대원. 계급은 준위. 15세. ㊥ 평상시는 미성학원에 다니고 있어, 알토나 미셸의 1년 후배. ㊥ 성격은 온화하고, 충돌하기 쉬운 알토와 미셸의 완충역을 맡는다. 친가는 하이테크㊥기업L. A. I사에서, 오조지인 동시에 기술 고문을 맡아, 메카나 전자 기기에 정통㊥하고 있다. ㊥ 출격 시 RVF-25에 탑승. 고도의 전자전이나 원격 전투 등을 행한다. ㊥ 게다가 줄리아라는 누나가 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

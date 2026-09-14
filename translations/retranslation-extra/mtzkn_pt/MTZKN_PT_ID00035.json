@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00035",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00035/Sheet1/000002",
+      "sourceBindingSha256": "c195d73bc1c5a38ad63e9a04e9c3c3506aaf22382236a0d640257acdf0a8a39d",
+      "sourceTextSha256": "eb7f93d89cad2581ae953196dfb54fea7f857b1fba3996dad190858a0324f6fa",
+      "freshTranslation": "강유",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00035/Sheet1/000003",
+      "sourceBindingSha256": "137e3e32b7fe70447fe161e593bc3d0992112201fa5c910c661ee4f317ebc091",
+      "sourceTextSha256": "eb7f93d89cad2581ae953196dfb54fea7f857b1fba3996dad190858a0324f6fa",
+      "freshTranslation": "강유",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00035/Sheet1/000004",
+      "sourceBindingSha256": "18bc74a3a88e06f69cd057b8cc8d97f2bbf2cd3f65c2fc368677e33c0b21b0a3",
+      "sourceTextSha256": "095aa56eab1e8a38be44b7470675dbd3bb01e8bb6134a3c94d5e531e65a3923a",
+      "freshTranslation": "장갑 기병 하의",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00035/Sheet1/000005",
+      "sourceBindingSha256": "b4fffa9616fca7f510cca8dc88841a65f4ce0e5ea2571c1768c9d8f69f4a24ef",
+      "sourceTextSha256": "d455e7db3493e4092031d9f6c3ff455ddda51899afc93e734f0d55fa0f9f800c",
+      "freshTranslation": "히로세 마사시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00035/Sheet1/000006",
+      "sourceBindingSha256": "2b53eec9634bcf213e3bdcc632870e968f825f2551ac17ac0f1a635885298c7d",
+      "sourceTextSha256": "cffdc095f1c0bf65f80417643dd3cc108658a97834a9bf383d51ca1823a9af7c",
+      "freshTranslation": "어셈블 EX-10의 AT 부대 대장. 계급은 대위. ㊥ 비소하고 비겁한 인물로, 상관인 곤누에게는 힘들고, 부하인 키리코들 ㊥을 턱으로 쓴다. ㊥공을 초조해 너무 비전투원의 배를 가라앉히거나 민간인에 대해 비도한 행동을 한 ㊥과 상황 판단 능력은 높지 않고 부하로부터의 신뢰도 매우 얇다. ㊥ 키리코가 EX-10에 입대했을 때부터 뭔가 눈을 돌렸다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00035/Sheet1/000007",
+      "sourceBindingSha256": "354b6df6187ca63a75a9bfd36a010c90e9bb8ac4bd0d8dc1dfd3d3a814c536f6",
+      "sourceTextSha256": "6f7c6c8fe04fec79611b1574b44ca6b9565b766de96ae896e8af0b3fa3224d78",
+      "freshTranslation": "어셈블 EX-10의 AT 부대 대장. 계급은 대위. ㊥ 비소하고 비겁한 인물로, 상관인 곤누에게는 힘들고, 부하인 키리코들 ㊥을 턱으로 쓴다. ㊥공을 초조해 너무 비전투원의 배를 가라앉히거나 민간인에 대해 비도한 행동을 한 ㊥과 상황 판단 능력은 높지 않고 부하로부터의 신뢰도 매우 얇다. ㊥ 키리코가 EX-10에 입대했을 때부터 뭔가 눈을 돌렸다. ㊥마지막은 보신으로부터 키리코들에게 총을 향한 곳을 샬코에 막혀, 「인간의 쓰레기」㊥라고 불려 쿠멘 이궁의 최하층에 던져졌다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

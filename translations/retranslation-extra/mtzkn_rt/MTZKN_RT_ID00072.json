@@ -1,0 +1,104 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00072",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00072/Sheet1/000002",
+      "sourceBindingSha256": "03a819421ae6a375f357a4f35a40e0a32af701ec8454190c4716da6d1106ce12",
+      "sourceTextSha256": "104f75f50f1d87c63446ea10f7f641c5ba20c5f8c475540352667fa86a720cc4",
+      "freshTranslation": "극장판 기동전사 건담 00-AwakeningofftheTrailblazer-",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00072/Sheet1/000003",
+      "sourceBindingSha256": "a0773ddc506805a8dfbd96ac16f7fa8ebfbd7384d99274bb416e4c5d45c5f056",
+      "sourceTextSha256": "6adcb9f4174875b60953bc52f2f6701309b9ebfa510b2a68aee64f42513ee9fc",
+      "freshTranslation": "라파엘 건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00072/Sheet1/000004",
+      "sourceBindingSha256": "ccdea7cef540be062cf84b9c2f3574770351536912f39e67ef2f8d44fd343594",
+      "sourceTextSha256": "6adcb9f4174875b60953bc52f2f6701309b9ebfa510b2a68aee64f42513ee9fc",
+      "freshTranslation": "라파엘 건담",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00072/Sheet1/000005",
+      "sourceBindingSha256": "e4f42f62a0c7e6357052d25d7e664bf2696c441d4c14223272662d8c2b224030",
+      "sourceTextSha256": "340adf45d5fb5bd8041c104bcc9594f2793c40a426b9bf33b84c88c79fcc8324",
+      "freshTranslation": "티에리아 아데",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00072/Sheet1/000006",
+      "sourceBindingSha256": "73133c4580e1e22806fc8322be916b363baa48f3a97b9163c240ed0323ef0fff",
+      "sourceTextSha256": "68102cb48c574a38d310d76dee1a09e701818c633ec20688ac21e606ff60a795",
+      "freshTranslation": "베다에서 자는 티 지역은 우주 항해 모함 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00072/Sheet1/000007",
+      "sourceBindingSha256": "c5de882722b2c44f48157457b8b1e413fc19c9a03fecbf55cec6da9399bfaad3",
+      "sourceTextSha256": "2df04d3550d21b8500b653bd10ce413efc264ac4c4a759cc17c81d6a9731b584",
+      "freshTranslation": "루비잉호내에서 극비㊥뒤에 개발하고 있던 건담. ㊥ 이노베이드의 사용하고 있던 「가」시리즈를 바탕으로 개발된 기체이며, 곳곳에 공㊥ 통 부분을 볼 수 있다. ㊥ 개발 경로는 다르지만, 바체, 세라비의 설계 사상을 계승해, 거점 제압용의 ㊥ 고화력 모빌 슈트를 컨셉으로 하고 있다. ㊥ 머리의 거대한 무장 유닛에는 GN 드라이브를 직결한 대화력 무기인 GN비㊥구 캐논을 탑재. 캐논은 원격 조작도 가능한 거대한 GN 클로로도 사용 가능.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00072/Sheet1/000008",
+      "sourceBindingSha256": "21384142c2dd8fe70676c9cf54c8d13632116454e4daea4b62160cdb82c1ba2d",
+      "sourceTextSha256": "68102cb48c574a38d310d76dee1a09e701818c633ec20688ac21e606ff60a795",
+      "freshTranslation": "베다에서 자는 티 지역은 우주 항해 모함 솔레스",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00072/Sheet1/000009",
+      "sourceBindingSha256": "2b12c36c05b88c7d16cd307c56e941285dcb22e155e721e56fba2d8a4e59a62b",
+      "sourceTextSha256": "2df04d3550d21b8500b653bd10ce413efc264ac4c4a759cc17c81d6a9731b584",
+      "freshTranslation": "루비잉호내에서 극비㊥뒤에 개발하고 있던 건담. ㊥ 이노베이드의 사용하고 있던 「가」시리즈를 바탕으로 개발된 기체이며, 곳곳에 공㊥ 통 부분을 볼 수 있다. ㊥ 개발 경로는 다르지만, 바체, 세라비의 설계 사상을 계승해, 거점 제압용의 ㊥ 고화력 모빌 슈트를 컨셉으로 하고 있다. ㊥ 머리의 거대한 무장 유닛에는 GN 드라이브를 직결한 대화력 무기인 GN비㊥구 캐논을 탑재. 캐논은 원격 조작도 가능한 거대한 GN 클로로도 사용 가능.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

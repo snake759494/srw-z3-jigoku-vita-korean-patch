@@ -1,0 +1,170 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_rt",
+  "assetKey": "MTZKN_RT_ID00203",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_RT_ID00203/Sheet1/000002",
+      "sourceBindingSha256": "f99c353eab12df4374c7f93b50c2f7dc1e1431175ff6c49f0e8cb5a9d3de4f92",
+      "sourceTextSha256": "330e51ebeca77b70408d4b195dafb0e2349f2709b67565e38f0b5e6917c07cd9",
+      "freshTranslation": "극장판 천원돌파 글렌 라간 나사편",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00203/Sheet1/000003",
+      "sourceBindingSha256": "a36a20b3548fc999f67ca387b22deb1b14b6343635d930ee65294ead6a2b8fc7",
+      "sourceTextSha256": "e1da1cb83c2f97f763664bdc0625ffd12dd4f95f75ee4631f4e90c899bacc0a9",
+      "freshTranslation": "스페이스 요코 W",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00203/Sheet1/000004",
+      "sourceBindingSha256": "4262bd09be30efc310459e1a534c143994bb6d2c2bd23b21fac2021afc8402e6",
+      "sourceTextSha256": "34a0dd3465e625b573f961898296d98390285097e4a21d4ca938c0812486d13f",
+      "freshTranslation": "응쿠",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00203/Sheet1/000005",
+      "sourceBindingSha256": "1941f16509c90d41986a51106e9371bea1c995756d5fbcadf8a3d84b0ddb9f18",
+      "sourceTextSha256": "e1da1cb83c2f97f763664bdc0625ffd12dd4f95f75ee4631f4e90c899bacc0a9",
+      "freshTranslation": "스페이스 요코 W",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00203/Sheet1/000006",
+      "sourceBindingSha256": "76c3e1897e6a7de8c4d4a7e86db3ca86caf2cb93b6680a5c80e2def1a4a5ea14",
+      "sourceTextSha256": "34a0dd3465e625b573f961898296d98390285097e4a21d4ca938c0812486d13f",
+      "freshTranslation": "응쿠",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00203/Sheet1/000007",
+      "sourceBindingSha256": "1103c67abe4d2f071be938383429f12b1dafb9428714fda0c84438b828d827e0",
+      "sourceTextSha256": "c7540b8761b189f1a604897aea44d9208e3aa440b840572091a05b29e2cb982e",
+      "freshTranslation": "요코 리트너",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00203/Sheet1/000008",
+      "sourceBindingSha256": "c93e7e00091961a6fa651ba249c380dd88de841c6f8db1bad7a5d80f6dc6f074",
+      "sourceTextSha256": "e72429b0d2846dc541b4f472a28f3e1f95535331a901e3fbae81956e05f1a66d",
+      "freshTranslation": "요코 전용의 스페이스 건멘. ㊥ 요코M",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00203/Sheet1/000009",
+      "sourceBindingSha256": "bbc9fa6a11d035e2a8ca73603052ee0fad25db9f2053fec0f1eb15c46990cd45",
+      "sourceTextSha256": "5922b3f4fd0b0620e165f065d9523a23507a9d04ed666a3394c0299c7d4f02cb",
+      "freshTranslation": "넉크와 컬러링이나 전체의 인상은 비슷하지만, 포대는 더블로 ㊥, 팔에도 미사일 포드를 장비하여 화력 업이 도모되고있다. 다리에도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00203/Sheet1/000010",
+      "sourceBindingSha256": "98047b94b5e1129820c4e21daf9aab7045e5c549ce8b747f762af55c13a6d622",
+      "sourceTextSha256": "670413f5245806b5291d2f660712d5540fdba42d6916a2106724027c553c77d3",
+      "freshTranslation": "부스㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00203/Sheet1/000011",
+      "sourceBindingSha256": "2d12f49c70c95ef90a523c3b7b721840713c47a0fd0aefb367177087ccf3b288",
+      "sourceTextSha256": "74733515b2126492d005e4f0f7f74ca978d7bfb5aea2496fee648f82f4b69731",
+      "freshTranslation": "-라는 로켓 엔진을 갖춘 등 기체 성능은 대폭 향상했다. ㊥ 덧붙여 스페이스 건멘은 모두, 노멀의 건멘이 타고 조종하는 마토㊥ 료시카적인 구조가 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00203/Sheet1/000012",
+      "sourceBindingSha256": "8af6124ce13460babcdc25d7630f6f699602fcd62936701a51c65276af51a8c4",
+      "sourceTextSha256": "e72429b0d2846dc541b4f472a28f3e1f95535331a901e3fbae81956e05f1a66d",
+      "freshTranslation": "요코 전용의 스페이스 건멘. ㊥ 요코M",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00203/Sheet1/000013",
+      "sourceBindingSha256": "410ca47950f2969a81a4a568550e6aa5b400aee90813695bdeff10ddb626b93f",
+      "sourceTextSha256": "5922b3f4fd0b0620e165f065d9523a23507a9d04ed666a3394c0299c7d4f02cb",
+      "freshTranslation": "넉크와 컬러링이나 전체의 인상은 비슷하지만, 포대는 더블로 ㊥, 팔에도 미사일 포드를 장비하여 화력 업이 도모되고있다. 다리에도",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00203/Sheet1/000014",
+      "sourceBindingSha256": "d4c2c3ccd62a46ed617d70a87f14afb9902f30114df7083f0789daba6c3698ca",
+      "sourceTextSha256": "670413f5245806b5291d2f660712d5540fdba42d6916a2106724027c553c77d3",
+      "freshTranslation": "부스㊥",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_RT_ID00203/Sheet1/000015",
+      "sourceBindingSha256": "94f0f8ee53d78cb71ef4771b2f74fb6ead378b5c49f495171d5442545cfacf01",
+      "sourceTextSha256": "74733515b2126492d005e4f0f7f74ca978d7bfb5aea2496fee648f82f4b69731",
+      "freshTranslation": "-라는 로켓 엔진을 갖춘 등 기체 성능은 대폭 향상했다. ㊥ 덧붙여 스페이스 건멘은 모두, 노멀의 건멘이 타고 조종하는 마토㊥ 료시카적인 구조가 되고 있다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

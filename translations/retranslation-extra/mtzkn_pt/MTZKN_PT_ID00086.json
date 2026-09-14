@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "mtzkn_pt",
+  "assetKey": "MTZKN_PT_ID00086",
+  "baseline": {
+    "sha256": "e1c6145fba10c34b38548169bf7470b9684f7f5eba48c8b6bfe47254c004530b",
+    "rowCount": 62937
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "MTZKN_PT_ID00086/Sheet1/000002",
+      "sourceBindingSha256": "16855676c4ccc9ba08948a41c22f930dbbeb03923e6d09487e44a74c06bdb9e8",
+      "sourceTextSha256": "808476f422616b407142f5438439515a016ed87dd20ec80fe5a85baf7a03e630",
+      "freshTranslation": "도로시 카",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00086/Sheet1/000003",
+      "sourceBindingSha256": "4bc1a94e1c62ebd4d3b8be831b086296673cff5e4267a0bbe779669e907a3137",
+      "sourceTextSha256": "34e394e4049ebedf14324cacaa3957d600d18624ddb541930300e4c6f45a8783",
+      "freshTranslation": "로니아",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00086/Sheet1/000004",
+      "sourceBindingSha256": "5c04fa46c02b2befdd9c3d9a1be65b1e5744d9dc851ddaf46bfd17fce1f8144b",
+      "sourceTextSha256": "7a098615626f62dfa87b27d60e9eef35c75518e010ff83ccdc69a0232fe66ff4",
+      "freshTranslation": "도로시",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00086/Sheet1/000005",
+      "sourceBindingSha256": "28e01c29502b341f1bdf0a117b49757e76f5a9433dccedf09bd76edba745d680",
+      "sourceTextSha256": "84806477b12fef22e85a0f2aa5ed0068bd6f0ef78db6512f3e05b58d202cc60e",
+      "freshTranslation": "신기동전기 건담 WEndlessWaltz",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00086/Sheet1/000006",
+      "sourceBindingSha256": "9f3d6eafc414612dcb16a0a698d64ee4a76175b6b80c1251f54f2f344eea89ba",
+      "sourceTextSha256": "5bcd023e2621b5910eb7b41b5c7d63f9bc9773c2f05b7b475c59700f232f0f4a",
+      "freshTranslation": "로옴 페라 재단 대표 델마이유 공의 손녀. ㊥ 전쟁을 원하고 전쟁에 대한 자신의 미학을 가지고 있습니다. ㊥ 트레이즈는 원연(종간)이며, 눈썹의 형태가 닮았다. ㊥ 릴리나와 행동을 함께 하고, 완전 평화주의를 관철하는 그녀에 대한 동경을 솔직하게 입으로 한다. ㊥ 간접적이지만, 스스로 할아버지 델 마이유를 죽음으로 쫓아가면, 단신 리브라에 탑승해, ㊥ 화이트 팡에 참가. 제로시스템을 사용해 모빌돌 부대를 지휘해 히이로㊥들 앞에 서는 힘들었다. ㊥ 하지만 싸움을 좋아하는 성격의 뒤에는 아버지를 빼앗은 전쟁을 무엇보다도 미워하는 마음이 숨겨져 ㊥ 되어 있었다. 최종 결전 속에서 자신의 본심을 토로하고 전쟁을 멈추게 하기 위해 비참한 전쟁㊥을 보여주려고 한 것이라고 말했다. ㊥ 결전 후, 트레이즈의 묘참에서 만난 노인에게 과거를 되돌아보는 것에 질렸다고 말해, ㊥ 미래로 향하는 자세를 보였다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "MTZKN_PT_ID00086/Sheet1/000007",
+      "sourceBindingSha256": "a7c542eb0c1c51c99fe14d1d34c759d093d2ccfb6e273b7626ad6017ef8148d8",
+      "sourceTextSha256": "6279c1956e9eb25a87c529be66ab3928afc01fee37ba66b32c209c50037140d4",
+      "freshTranslation": "로옴 페라 재단 대표 델마이유 공의 손녀. ㊥ 전쟁을 원하고 전쟁에 대한 자신의 미학을 가지고 있습니다. ㊥ 트레이즈는 원연(종간)이며, 눈썹의 형태가 닮았다. ㊥ 릴리나와 행동을 함께 하고, 완전 평화주의를 관철하는 그녀에 대한 동경을 솔직하게 입으로 한다. ㊥ 간접적이지만, 스스로 할아버지 델 마이유를 죽음으로 쫓아가면, 단신 리브라에 탑승해, ㊥ 화이트 팡에 참가. 제로시스템을 사용해 모빌돌 부대를 지휘해 히이로㊥들 앞에 서는 힘들었다. ㊥ 하지만 싸움을 좋아하는 성격의 뒤에는 아버지를 빼앗은 전쟁을 무엇보다도 미워하는 마음이 숨겨져 ㊥ 되어 있었다. 최종 결전 속에서 자신의 본심을 토로하고 전쟁을 멈추게 하기 위해 비참한 전쟁㊥을 보여주려고 한 것이라고 말했다. ㊥ 결전 후, 트레이즈의 묘참에서 만난 노인에게 과거를 되돌아보는 것에 질렸다고 말해, ㊥ 미래로 향하는 자세를 보였다. ㊥ 마리 메이어 반란 때는 흩어져 있는 시민을 선동. 몇 대의 차량과 함께 시민을 대통령 ㊥ 영부로 이송했다. ㊥ 덧붙여 전용차는 옛날과 변함없이 금색의 도장이 베풀어지고 있었다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}

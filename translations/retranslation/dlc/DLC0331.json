@@ -1,0 +1,82 @@
+{
+  "format": "siok-retranslation-overlay",
+  "formatVersion": 1,
+  "scope": "dlc",
+  "assetKey": "DLC0331",
+  "baseline": {
+    "sha256": "7a7bd4a37228b384a5d8ed7225ccdcb378bbe38cb6196c8057cc439730cbe1cf",
+    "rowCount": 175210
+  },
+  "translationPolicy": {
+    "method": "fresh-from-japanese",
+    "existingTranslations": "reference-only"
+  },
+  "entries": [
+    {
+      "entryId": "DLC0331/ID00003/000002",
+      "sourceBindingSha256": "eb0358fb6bcd803cdad05471c90bebea8e4a095a5f24bec1d0e750a723adc797",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "DLC0331/ID00003/000003",
+      "sourceBindingSha256": "c82530cd806dc6eac70e66c1fb8637896870e13bd9d90bd9a46397d23dc529ef",
+      "sourceTextSha256": "e91b1600ec1ada54c08e55709a86556948dd80321e3fa4ea1d77e831bf64c68a",
+      "freshTranslation": "어...?",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "DLC0331/ID00003/000004",
+      "sourceBindingSha256": "e204fa28ca9a33f7d2f5e11acb81eb1ed47fe9fe0a9f4186e86aeca8b2625d36",
+      "sourceTextSha256": "17d7f6dc7e0e9e6b9a3c34e9addcf3819d43ab13daaafb3753bea745ea2d48cc",
+      "freshTranslation": "어딘가에서 선물이 도착했습니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "DLC0331/ID00003/000005",
+      "sourceBindingSha256": "688b84122d45fe6e4672b7c0bcc3b890c224c68bfc84fc41d7d9342648c6f4a0",
+      "sourceTextSha256": "19a0fbc708488bee0413b5ddad28ff287b05471f3ce5eadbebd01623d8b535ce",
+      "freshTranslation": "AG",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "DLC0331/ID00003/000006",
+      "sourceBindingSha256": "aff9e891abcf03df57b0b68aed2e0deb07c4a1e1641d283ee3846295fed99f61",
+      "sourceTextSha256": "24da4f73170f61907ce03db6c04ac65a8817b24895e67db32cf22201e73211a3",
+      "freshTranslation": "확실히 노력하고 있는 여러분에게의 보상일 것입니다.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    },
+    {
+      "entryId": "DLC0331/ID00003/000007",
+      "sourceBindingSha256": "e49ec873d9021af19f0a7e0c0343ab2ad826a49c8050171139709a04960b1893",
+      "sourceTextSha256": "8a535f1c411ca0e24c49e621608eda0c275e7d76a076258acf884d34711c174d",
+      "freshTranslation": "마음껏 사용하지 마십시오.",
+      "translationStatus": "draft",
+      "translator": "Google Translate ja→ko (자동 초안)",
+      "reviewer": "",
+      "referenceConsulted": false,
+      "notes": "일본어 원문 기준 자동 번역 초안; 기존 번역 미참조"
+    }
+  ]
+}
